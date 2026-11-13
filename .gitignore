@@ -1,6 +1,13 @@
 # 检索索引 / 训练产物是派生数据，由 `python -m retrieval.build` 与
 # `python -m tools.train_ranker` 现建（约 90 MB，见 retrieval/README.md）
-retrieval/artifacts/
+retrieval/artifacts/*
+# 例外：dense 条目向量随包发布（约 105 MB）。它是 `python -m tools.build_dense`
+# 花钱调 embedding 建出来的（约 6M token），云空间里没法现跑，所以跟着仓库走；
+# 其余 artifacts 仍然现建。
+!retrieval/artifacts/dense/
+!retrieval/artifacts/dense/manifest.json
+!retrieval/artifacts/dense/ids.json
+!retrieval/artifacts/dense/vectors.npy
 
 # 评测与训练的运行产物
 _eval/out/

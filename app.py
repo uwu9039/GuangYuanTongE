@@ -1093,13 +1093,24 @@ _RETRIEVAL_TRIED = False
 def retrieval_engine() -> Any:
     """懒加载新检索器；索引缺失时明确退回旧规则，不静默降级。
 
-    `RETRIEVAL_DENSE=1` 时启用 dense 通道（百炼 qwen3.7-text-embedding，查询侧
-    约 250–300 ms）；云端不可用时 `Engine.search` 会自己退回字面权重，不会混着用。
+    dense 通道（百炼 qwen3.7-text-embedding，查询侧约 250–300 ms）的开关：
+      · `RETRIEVAL_DENSE=1/0` 显式指定时听它的；
+      · 没指定时**自动**：有条目向量索引（`retrieval/artifacts/dense/`）又有
+        `DASHSCOPE_API_KEY`，就开。云空间里只配 Key 就够，少一个容易漏配的变量
+        （漏配的表现是「Key 明明填了，dense 却是 false」，很难自己看出来）。
+    云端不可用时 `Engine.search` 会自己退回字面权重，不会混着用。
     """
     global _RETRIEVAL, _RETRIEVAL_TRIED
     if not _RETRIEVAL_TRIED:
         _RETRIEVAL_TRIED = True
-        want_dense = os.environ.get("RETRIEVAL_DENSE", "").strip() in ("1", "true", "yes")
+        flag = os.environ.get("RETRIEVAL_DENSE", "").strip().lower()
+        if flag:
+            want_dense = flag in ("1", "true", "yes", "on")
+        else:
+            has_index = (ROOT / "retrieval" / "artifacts" / "dense" / "manifest.json").exists()
+            want_dense = has_index and bool(os.environ.get("DASHSCOPE_API_KEY", "").strip())
+        if want_dense:
+            print("[检索] dense：开（百炼 embedding）")
         try:
             from retrieval import Engine
 

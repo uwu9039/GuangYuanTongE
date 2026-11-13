@@ -40,6 +40,19 @@ RUN python tools/build_kb_db.py || echo "!! 警告：kb.sqlite 构建失败，�
 # 建不出来也不把站点顶下线——app.py 会退回旧的规则打分（慢、但能答）。
 RUN python -m retrieval.build || echo "!! 警告：检索索引构建失败，线上退回旧规则打分"
 
+# dense 通道（百炼 embedding 语义重排）的条目侧向量。
+# 正常情况下 `retrieval/artifacts/dense/` 随仓库走（创空间那份带，约 105 MB），这步直接跳过；
+# 换一份不带该目录的仓库重建时，如果构建期能拿到 DASHSCOPE_API_KEY 就现建（约 5–8 分钟、
+# 约 3 元），拿不到就只提示——运行时 Key 仍然可以只用来做查询侧 embedding，不会报错。
+RUN if [ -f retrieval/artifacts/dense/manifest.json ]; then \
+        echo "dense 条目向量随仓库带，跳过构建"; \
+        ls -l retrieval/artifacts/dense/; \
+    elif [ -n "$DASHSCOPE_API_KEY" ]; then \
+        python -m tools.build_dense || echo "!! 警告：dense 条目向量构建失败，dense 通道关着"; \
+    else \
+        echo "!! 提示：没有随包的 dense 条目向量，构建期也没有 DASHSCOPE_API_KEY，dense 通道关着（字面检索不受影响）"; \
+    fi
+
 EXPOSE 7860
 
 CMD ["python", "-m", "uvicorn", "app:app", "--host", "0.0.0.0", "--port", "7860", "--workers", "1"]

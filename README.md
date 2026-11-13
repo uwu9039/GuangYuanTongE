@@ -74,9 +74,14 @@ python -m tools.build_dense --workers 1                     # 约 16 分钟
 python -m tools.train_dense_ranker --max-queries 3000       # 约 2 分钟
 ```
 
-镜像里 `Dockerfile` 只跑倒排索引那一步；排序器权重（几 KB）跟着仓库走；dense 索引需要
-联网建，作为可选件单独做，不建也能正常服务（`RETRIEVAL_DENSE=1` 才启用）。
-索引建不出来时 `app.py` 自动退回旧的规则打分，站点不会挂。评测与复现命令见
+镜像里 `Dockerfile` 只跑倒排索引那一步；排序器权重（几 KB）跟着仓库走。
+
+**dense 通道的条目向量**（`retrieval/artifacts/dense/`，约 105 MB）是唯一跟着仓库走的
+派生件：它靠调 embedding 花钱建（约 6M token），云空间里没法自己跑命令，所以在创空间
+那份仓库里随包发布（Git 仓库把 `.gitignore` 里的 `retrieval/artifacts/dense/` 开了例外）。
+配好 `DASHSCOPE_API_KEY` 即自动启用；想显式关掉就设 `RETRIEVAL_DENSE=0`。
+换一份不带这个目录的仓库重建时，`Dockerfile` 会在构建期有 Key 的情况下现建，没有就只提示。
+其余索引建不出来时 `app.py` 自动退回旧的规则打分，站点不会挂。评测与复现命令见
 [`RETRIEVAL_REPORT.md`](RETRIEVAL_REPORT.md)。
 
 ## 全文检索库
