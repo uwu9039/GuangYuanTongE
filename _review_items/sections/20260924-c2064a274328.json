@@ -1,1 +1,91 @@
-ew0KICJrZXkiOiAiMjAyNjA5MjQtYzIwNjRhMjc0MzI4IiwNCiAidGl0bGUiOiAi56ys5YWr5bGK5YWo5Zu96auY562J6Zmi5qCh5L+h5oGv5Lyg5pKt5biI6LWE54+t5Zyo5Lqs5Li+5YqeIiwNCiAidHJ1bmNhdGVkIjogZmFsc2UsDQogInNlY3Rpb25zIjogWw0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIumhtemdouahhuaetuS4juagj+ebruWvvOiIqiIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDEsDQogICAgMzANCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDI2NQ0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuagj+ebrui3r+W+hOS4jumhtemdouagh+mimCIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDMxLA0KICAgIDM0DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1iYzhkOTRmYzc1Ig0KICAgXSwNCiAgICJjaGFycyI6IDUzDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5oql6YGT5q2j5paHIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMzUsDQogICAgNzANCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWRiNGQ4NDlhYTMiLA0KICAgICJwdC05YTk4NmFjY2UxIiwNCiAgICAicHQtMTk2NzU4YjM2MyIsDQogICAgInB0LTdiYTg1NTA4M2YiLA0KICAgICJwdC03NzBhNTQyNzA2IiwNCiAgICAicHQtODEzNzQxMDExYSIsDQogICAgInB0LWM3YzdjZTc2YmUiLA0KICAgICJwdC1hNmIwMjlkNjBiIiwNCiAgICAicHQtZDA1MjQ1NzE4ZiIsDQogICAgInB0LTg4NTRhZWU3MTMiLA0KICAgICJwdC05MzJhZDRkMzI2IiwNCiAgICAicHQtYzQ5NWYwZTBkNiIsDQogICAgInB0LWM5ZWVjZDA4NzUiLA0KICAgICJwdC05NjBiZjc0MWZkIg0KICAgXSwNCiAgICJjaGFycyI6IDMwMzANCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLpobXohJrkuI7lj4vmg4Xpk77mjqUiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA3MSwNCiAgICA4OA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogNDA1DQogIH0NCiBdLA0KICJpdGVtcyI6IFsNCiAgInB0LWJjOGQ5NGZjNzUiLA0KICAicHQtZGI0ZDg0OWFhMyIsDQogICJwdC05YTk4NmFjY2UxIiwNCiAgInB0LTE5Njc1OGIzNjMiLA0KICAicHQtN2JhODU1MDgzZiIsDQogICJwdC03NzBhNTQyNzA2IiwNCiAgInB0LTgxMzc0MTAxMWEiLA0KICAicHQtYzdjN2NlNzZiZSIsDQogICJwdC1hNmIwMjlkNjBiIiwNCiAgInB0LWQwNTI0NTcxOGYiLA0KICAicHQtODg1NGFlZTcxMyIsDQogICJwdC05MzJhZDRkMzI2IiwNCiAgInB0LWM0OTVmMGUwZDYiLA0KICAicHQtYzllZWNkMDg3NSIsDQogICJwdC05NjBiZjc0MWZkIg0KIF0sDQogIm5vdGVzIjogWw0KICAi56ysIDEg6KGM5Li6572R6aG15qCH6aKY44CB56ysIDLigJMzMCDooYzkuLrlhajnq5nlr7zoiKrkuI7moI/nm67pk77mjqXvvIjlkKsgMiDlpITlm77niYfpmYTku7booYzvvInvvIzlkIjlubbkuLrjgIzpobXpnaLmoYbmnrbjgI3oioLvvIzml6DmnaHnm67jgIIiLA0KICAi56ysIDMx4oCTMzQg6KGM5Li65qCP55uu5ZCN44CM5a2m6Zmi5paw6Ze744CN44CB6Z2i5YyF5bGR44CM6aaW6aG1IOWtpumZouaWsOmXu+OAjeOAgeato+aWh+WMuuagh+mimOS4juOAjOWPkeW4g+aXtumXtO+8mjIwMjYtMDktMjQg5rWP6KeI5qyh5pWw77yaMTDjgI3vvIzlkIjlubbkuLrjgIzmoI/nm67ot6/lvoTkuI7pobXpnaLmoIfpopjjgI3oioLvvJtwdC1iYzhkOTRmYzc1IOeahOW8leaWh++8iOagh+mimO+8ieiQveWcqOatpOiKguOAgiIsDQogICLnrKwgMzXigJM3MCDooYzkuLrmiqXpgZPmraPmlofvvIzljp/mlofmsqHmnInlsI/moIfpopjvvIzkuK3pl7TlpLkgMTAg5aSE5Zu+54mH6ZmE5Lu26KGM5LiO5Zu+5rOo77yI44CM56ys5YWr5bGK5YWo5Zu96auY562J6Zmi5qCh5L+h5oGv5Lyg5pKt5biI6LWE54+t5byA54+t5Luq5byP546w5Zy644CN44CM5Lu75a2f5bGx5Ymv5qCh6ZW/6Ie06L6e44CN44CM5p2c6Imz5bmz5Ymv5qCh6ZW/6Ie06L6e44CN44CM6IC/6JWK6Zmi6ZW/5Li75oyB5byA5bmV5byP44CN44CM5YyX5Lqs5Y2w5Yi35a2m6Zmi5Ymv5pWZ5o6I5ZSQ6ZKw6b6Z44CN44CM5p2O5puZ5YWJ5Ymv5oC755uR5L2c5Li76aKY6K6y5bqn44CN44CM5byg56OK5Ymv6Zmi6ZW/5L2c5Li76aKY6K6y5bqn44CN44CM6JKL5bu65Zu95pWZ5o6I5L2c5Li76aKY6K6y5bqn44CN44CM5p2O6JW+5Li757yW5YiG5Lqr5oqV56i/5a6h56i/57uP6aqM44CN44CM5Li65biI6LWE54+t5a2m5ZGY5Luj6KGo6aKB5Y+R57uT5Lia6K+B5Lmm44CN44CM6Jab57qi6Zye5Lmm6K6w5Li75oyB57uT5Lia5Luq5byP44CN44CM6aaW6YO957uP5rWO6LS45piT5aSn5a2m5pWZ5biI5p2O6I2D5L2c5Li65a2m5ZGY5Luj6KGo5Y+R6KiA44CN77yJ77yb5aSa5p2h5p2h55uu55qE5byV5paH5piv44CM5Zu+5rOo77yL5LiL5LiA5q615q2j5paH44CN55qE5ou85o6l77yIcHQtOWE5ODZhY2NlMeOAgXB0LTdiYTg1NTA4M2bjgIFwdC03NzBhNTQyNzA244CBcHQtODEzNzQxMDExYeOAgXB0LWE2YjAyOWQ2MGLjgIFwdC1kMDUyNDU3MThm44CBcHQtODg1NGFlZTcxM+OAgXB0LTkzMmFkNGQzMjbjgIFwdC1jOWVlY2QwODc144CBcHQtOTYwYmY3NDFmZO+8ieOAguaMieWbvuazqOS4jeWPr+WNleeLrOi1t+iKgueahOWPo+W+hO+8jOaVtOauteaKpemBk+WQiOW5tuS4uuS4gOiKgu+8jDE0IOS4quadoeebruWFqOiQveatpOiKguOAgiIsDQogICLnrKwgNzHigJM4OCDooYzkuLrlj4vmg4Xpk77mjqXjgIHlnLDlnYDjgIHpgq7nvJbjgIHniYjmnYPkuI7jgIzlm57liLDpobbpg6jjgI3pmYTku7booYzvvIzljZXliJfpobXohJroioLvvIzml6DmnaHnm67jgIIiDQogXQ0KfQ==
+{
+ "key": "20260924-c2064a274328",
+ "title": "第八届全国高等院校信息传播师资班在京举办",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "页面框架与栏目导航",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    30
+   ],
+   "items": [],
+   "chars": 265
+  },
+  {
+   "no": "—",
+   "heading": "栏目路径与页面标题",
+   "heading_kind": "derived",
+   "lines": [
+    31,
+    34
+   ],
+   "items": [
+    "pt-bc8d94fc75"
+   ],
+   "chars": 53
+  },
+  {
+   "no": "—",
+   "heading": "报道正文",
+   "heading_kind": "derived",
+   "lines": [
+    35,
+    70
+   ],
+   "items": [
+    "pt-db4d849aa3",
+    "pt-9a986acce1",
+    "pt-196758b363",
+    "pt-7ba855083f",
+    "pt-770a542706",
+    "pt-813741011a",
+    "pt-c7c7ce76be",
+    "pt-a6b029d60b",
+    "pt-d05245718f",
+    "pt-8854aee713",
+    "pt-932ad4d326",
+    "pt-c495f0e0d6",
+    "pt-c9eecd0875",
+    "pt-960bf741fd"
+   ],
+   "chars": 3030
+  },
+  {
+   "no": "—",
+   "heading": "页脚与友情链接",
+   "heading_kind": "derived",
+   "lines": [
+    71,
+    88
+   ],
+   "items": [],
+   "chars": 405
+  }
+ ],
+ "items": [
+  "pt-bc8d94fc75",
+  "pt-db4d849aa3",
+  "pt-9a986acce1",
+  "pt-196758b363",
+  "pt-7ba855083f",
+  "pt-770a542706",
+  "pt-813741011a",
+  "pt-c7c7ce76be",
+  "pt-a6b029d60b",
+  "pt-d05245718f",
+  "pt-8854aee713",
+  "pt-932ad4d326",
+  "pt-c495f0e0d6",
+  "pt-c9eecd0875",
+  "pt-960bf741fd"
+ ],
+ "notes": [
+  "第 1 行为网页标题、第 2–30 行为全站导航与栏目链接（含 2 处图片附件行），合并为「页面框架」节，无条目。",
+  "第 31–34 行为栏目名「学院新闻」、面包屑「首页 学院新闻」、正文区标题与「发布时间：2026-09-24 浏览次数：10」，合并为「栏目路径与页面标题」节；pt-bc8d94fc75 的引文（标题）落在此节。",
+  "第 35–70 行为报道正文，原文没有小标题，中间夹 10 处图片附件行与图注（「第八届全国高等院校信息传播师资班开班仪式现场」「任孟山副校长致辞」「杜艳平副校长致辞」「耿蕊院长主持开幕式」「北京印刷学院副教授唐钰龙」「李曙光副总监作主题讲座」「张磊副院长作主题讲座」「蒋建国教授作主题讲座」「李蕾主编分享投稿审稿经验」「为师资班学员代表颁发结业证书」「薛红霞书记主持结业仪式」「首都经济贸易大学教师李荃作为学员代表发言」）；多条条目的引文是「图注＋下一段正文」的拼接（pt-9a986acce1、pt-7ba855083f、pt-770a542706、pt-813741011a、pt-a6b029d60b、pt-d05245718f、pt-8854aee713、pt-932ad4d326、pt-c9eecd0875、pt-960bf741fd）。按图注不可单独起节的口径，整段报道合并为一节，14 个条目全落此节。",
+  "第 71–88 行为友情链接、地址、邮编、版权与「回到顶部」附件行，单列页脚节，无条目。"
+ ]
+}

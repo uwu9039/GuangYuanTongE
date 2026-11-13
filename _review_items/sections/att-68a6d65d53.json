@@ -1,1 +1,302 @@
-ewogImtleSI6ICJhdHQtNjhhNmQ2NWQ1MyIsCiAidGl0bGUiOiAi5YWz5LqO5Y2w5Y+R44CK5Lit5Zu95Lyg5aqS5aSn5a2m6LWE6YeR5pSv5LuY566h55CG5Yqe5rOV77yI5L+u6K6i77yJ44CL55qE6YCa55+lIiwKICJ0cnVuY2F0ZWQiOiBmYWxzZSwKICJzZWN0aW9ucyI6IFsKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLlhbPkuo7ljbDlj5HjgIrkuK3lm73kvKDlqpLlpKflrabotYTph5HmlK/ku5jnrqHnkIblip7ms5XvvIjkv67orqLvvInjgIvnmoTpgJrnn6UiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsKICAgIDEsCiAgICAxNAogICBdLAogICAiaXRlbXMiOiBbCiAgICAicHQtNmY5YjVmYmNiZiIsCiAgICAicHQtZmIwNzhlNTU0OCIsCiAgICAicHQtMThiN2FiNDE0MiIKICAgXSwKICAgImNoYXJzIjogMzA1CiAgfSwKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLkuK3lm73kvKDlqpLlpKflrabotYTph5HmlK/ku5jnrqHnkIblip7ms5XvvIjkv67orqLvvIkiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsKICAgIDE3LAogICAgMTgKICAgXSwKICAgIml0ZW1zIjogWwogICAgInB0LWFkOWM0YjMwZjAiCiAgIF0sCiAgICJjaGFycyI6IDI4CiAgfSwKICB7CiAgICJubyI6ICLnrKzkuIDnq6AiLAogICAiaGVhZGluZyI6ICLmgLvliJkiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsKICAgIDE5LAogICAgMzQKICAgXSwKICAgIml0ZW1zIjogWwogICAgInB0LTFjMTBkZDZmMjkiLAogICAgInB0LTdhYTU3YzhiYmUiLAogICAgInB0LWZmMzk2MWE0NzciLAogICAgInB0LTUzMDcyZThjNzciCiAgIF0sCiAgICJjaGFycyI6IDQzMgogIH0sCiAgewogICAibm8iOiAi56ys5LqM56ugIiwKICAgImhlYWRpbmciOiAi55So5qy+6K6h5YiS55Sz6K+3IiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbCiAgICAzNiwKICAgIDQ5CiAgIF0sCiAgICJpdGVtcyI6IFsKICAgICJwdC0xMzY4MzM4MDVjIiwKICAgICJwdC1mMzM4YmY1YTVjIiwKICAgICJwdC0wY2RkYmQyNzhkIgogICBdLAogICAiY2hhcnMiOiAyOTkKICB9LAogIHsKICAgIm5vIjogIuesrOS4ieeroCIsCiAgICJoZWFkaW5nIjogIuaUr+S7mOWuoeaJuSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWwogICAgNTEsCiAgICAxMzkKICAgXSwKICAgIml0ZW1zIjogWwogICAgInB0LTA4NjBlZmNmODEiLAogICAgInB0LTU1ZGNiMWJiM2MiLAogICAgInB0LThhODdiZTdjOTEiLAogICAgInB0LWU3M2JiNTg5YjUiLAogICAgInB0LWMxZTQ2OTM4NzciLAogICAgInB0LTBjYTg1NGZmYzEiLAogICAgInB0LWMxN2U0NjUwODgiLAogICAgInB0LWI4YjhhMThlNDgiLAogICAgInB0LTZkYzlhYTQ1MjQiLAogICAgInB0LTNmOGU0NmExZTAiLAogICAgInB0LTEzZTEwNDNhMDUiLAogICAgInB0LWNmMmMwYTFkNDQiLAogICAgInB0LTllNDAzYmY5YTAiLAogICAgInB0LTE3ZTY0YWJiODkiLAogICAgInB0LWRhZmUwMGVlMmYiLAogICAgInB0LWY0NjcwY2Q4NjMiLAogICAgInB0LTk5N2M1YTMxZmIiLAogICAgInB0LWUwMTgyMTFmNzYiLAogICAgInB0LTE3MDU0NmI1MzQiLAogICAgInB0LWI0YThhY2Y1YWEiLAogICAgInB0LWU1ZTk2MzkyZGQiLAogICAgInB0LWQyOGU4MzNmZWIiLAogICAgInB0LTBiYmZiYjA1N2MiLAogICAgInB0LTliM2E3M2U3YmYiLAogICAgInB0LTZmNWJhMTgwYjciLAogICAgInB0LTQwMWIzODc4YmYiLAogICAgInB0LWE5YWNiNWU3NjUiLAogICAgInB0LTZiMjczMDRmMzAiCiAgIF0sCiAgICJjaGFycyI6IDE4NDkKICB9LAogIHsKICAgIm5vIjogIuesrOWbm+eroCIsCiAgICJoZWFkaW5nIjogIui1hOmHkeaUr+S7mCIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWwogICAgMTQxLAogICAgMTc4CiAgIF0sCiAgICJpdGVtcyI6IFsKICAgICJwdC00ODBlMzU4Zjk5IiwKICAgICJwdC0yODY0YWM2ODM3IiwKICAgICJwdC0xZGUzMzMyYzJkIiwKICAgICJwdC04YmUyOTA2NmU3IiwKICAgICJwdC03YzMyYmNhZDc2IiwKICAgICJwdC0xMGYwMjI2OTE3IiwKICAgICJwdC0xOWRlNGFlMWM3IiwKICAgICJwdC1iMDAwNTIxZGNjIiwKICAgICJwdC1hYzk3NGJiNjllIgogICBdLAogICAiY2hhcnMiOiA4NDYKICB9LAogIHsKICAgIm5vIjogIuesrOS6lOeroCIsCiAgICJoZWFkaW5nIjogIuebkeedo+ajgOafpSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWwogICAgMTgwLAogICAgMjAzCiAgIF0sCiAgICJpdGVtcyI6IFsKICAgICJwdC0wZjAyY2VmYTExIiwKICAgICJwdC0wYmRkMzBkYmZhIiwKICAgICJwdC1jMzM2MWRiMzc4IiwKICAgICJwdC0yYWE5NzI4ZWNjIiwKICAgICJwdC0yZjlkYTVlZDY1IiwKICAgICJwdC04YzMwOTA3MzkxIiwKICAgICJwdC04OTYwMmRmNDU1IiwKICAgICJwdC01MjI4MzVhNGNkIiwKICAgICJwdC04YjQyNmU2MDRiIiwKICAgICJwdC01NGE3ZmQ1YTAzIgogICBdLAogICAiY2hhcnMiOiA2MDIKICB9LAogIHsKICAgIm5vIjogIuesrOWFreeroCIsCiAgICJoZWFkaW5nIjogIumZhOWImSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWwogICAgMjA1LAogICAgMjA5CiAgIF0sCiAgICJpdGVtcyI6IFsKICAgICJwdC00MjFmNmRlZGQwIiwKICAgICJwdC0xOGNhOTlmOWVmIgogICBdLAogICAiY2hhcnMiOiAxMjkKICB9LAogIHsKICAgIm5vIjogIumZhOS7tiIsCiAgICJoZWFkaW5nIjogIumZhOS7tua4heWNlSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFsKICAgIDIxMiwKICAgIDIxNQogICBdLAogICAiaXRlbXMiOiBbCiAgICAicHQtMjMzYjI3OGM2YSIKICAgXSwKICAgImNoYXJzIjogMTAxCiAgfSwKICB7CiAgICJubyI6ICLpmYTku7YxIiwKICAgImhlYWRpbmciOiAi5aSn6aKd5pSv5Ye655So5qy+6K6h5YiS55Sz6K+36KGoIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbCiAgICAyMTgsCiAgICAyMjcKICAgXSwKICAgIml0ZW1zIjogWwogICAgInB0LTU1MmMzY2NiYzQiCiAgIF0sCiAgICJjaGFycyI6IDE1OQogIH0sCiAgewogICAibm8iOiAi6ZmE5Lu2MiIsCiAgICJoZWFkaW5nIjogIuS4reWbveS8oOWqkuWkp+Wtpui0ouWKoeetvuWtl+Wkh+ahiOeVmeW6leihqCIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWwogICAgMjI4LAogICAgMjQwCiAgIF0sCiAgICJpdGVtcyI6IFsKICAgICJwdC0wYzk3YjJmMWZjIiwKICAgICJwdC1lMTJiYWJhYzI1IgogICBdLAogICAiY2hhcnMiOiAyODUKICB9LAogIHsKICAgIm5vIjogIumZhOS7tjMiLAogICAiaGVhZGluZyI6ICLkuK3lm73kvKDlqpLlpKflrabotKLliqHnrb7lrZflp5TmiZjmjojmnYPnlLPor7fkuaYiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsKICAgIDI0MSwKICAgIDI2MwogICBdLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogMTYzCiAgfSwKICB7CiAgICJubyI6ICLpmYTku7Y0IiwKICAgImhlYWRpbmciOiAi5Lit5Zu95Lyg5aqS5aSn5a2m6LWE6YeR5pSv5LuY5rWB56iL5Zu+IiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbCiAgICAyNjQsCiAgICAyNzYKICAgXSwKICAgIml0ZW1zIjogWwogICAgInB0LTUyMDc2NDY5ZjEiLAogICAgInB0LWExYTE4OGYzZDAiCiAgIF0sCiAgICJjaGFycyI6IDE5OAogIH0KIF0sCiAiaXRlbXMiOiBbCiAgInB0LTZmOWI1ZmJjYmYiLAogICJwdC1mYjA3OGU1NTQ4IiwKICAicHQtMThiN2FiNDE0MiIsCiAgInB0LWFkOWM0YjMwZjAiLAogICJwdC0xYzEwZGQ2ZjI5IiwKICAicHQtN2FhNTdjOGJiZSIsCiAgInB0LWZmMzk2MWE0NzciLAogICJwdC01MzA3MmU4Yzc3IiwKICAicHQtMTM2ODMzODA1YyIsCiAgInB0LWYzMzhiZjVhNWMiLAogICJwdC0wY2RkYmQyNzhkIiwKICAicHQtMDg2MGVmY2Y4MSIsCiAgInB0LTU1ZGNiMWJiM2MiLAogICJwdC04YTg3YmU3YzkxIiwKICAicHQtZTczYmI1ODliNSIsCiAgInB0LWMxZTQ2OTM4NzciLAogICJwdC0wY2E4NTRmZmMxIiwKICAicHQtYzE3ZTQ2NTA4OCIsCiAgInB0LWI4YjhhMThlNDgiLAogICJwdC02ZGM5YWE0NTI0IiwKICAicHQtM2Y4ZTQ2YTFlMCIsCiAgInB0LTEzZTEwNDNhMDUiLAogICJwdC1jZjJjMGExZDQ0IiwKICAicHQtOWU0MDNiZjlhMCIsCiAgInB0LTE3ZTY0YWJiODkiLAogICJwdC1kYWZlMDBlZTJmIiwKICAicHQtZjQ2NzBjZDg2MyIsCiAgInB0LTk5N2M1YTMxZmIiLAogICJwdC1lMDE4MjExZjc2IiwKICAicHQtMTcwNTQ2YjUzNCIsCiAgInB0LWI0YThhY2Y1YWEiLAogICJwdC1lNWU5NjM5MmRkIiwKICAicHQtZDI4ZTgzM2ZlYiIsCiAgInB0LTBiYmZiYjA1N2MiLAogICJwdC05YjNhNzNlN2JmIiwKICAicHQtNmY1YmExODBiNyIsCiAgInB0LTQwMWIzODc4YmYiLAogICJwdC1hOWFjYjVlNzY1IiwKICAicHQtNmIyNzMwNGYzMCIsCiAgInB0LTQ4MGUzNThmOTkiLAogICJwdC0yODY0YWM2ODM3IiwKICAicHQtMWRlMzMzMmMyZCIsCiAgInB0LThiZTI5MDY2ZTciLAogICJwdC03YzMyYmNhZDc2IiwKICAicHQtMTBmMDIyNjkxNyIsCiAgInB0LTE5ZGU0YWUxYzciLAogICJwdC1iMDAwNTIxZGNjIiwKICAicHQtYWM5NzRiYjY5ZSIsCiAgInB0LTBmMDJjZWZhMTEiLAogICJwdC0wYmRkMzBkYmZhIiwKICAicHQtYzMzNjFkYjM3OCIsCiAgInB0LTJhYTk3MjhlY2MiLAogICJwdC0yZjlkYTVlZDY1IiwKICAicHQtOGMzMDkwNzM5MSIsCiAgInB0LTg5NjAyZGY0NTUiLAogICJwdC01MjI4MzVhNGNkIiwKICAicHQtOGI0MjZlNjA0YiIsCiAgInB0LTU0YTdmZDVhMDMiLAogICJwdC00MjFmNmRlZGQwIiwKICAicHQtMThjYTk5ZjllZiIsCiAgInB0LTIzM2IyNzhjNmEiLAogICJwdC01NTJjM2NjYmM0IiwKICAicHQtMGM5N2IyZjFmYyIsCiAgInB0LWUxMmJhYmFjMjUiLAogICJwdC01MjA3NjQ2OWYxIiwKICAicHQtYTFhMTg4ZjNkMCIKIF0sCiAibm90ZXMiOiBbCiAgIuWOn+aWh+ihjOmmluWkueWIhumhteespiBcXGbvvIjnrKwgMTfjgIE0MuOAgTY444CBMTAw44CBMTMx44CBMTU244CBMTg144CBMjEy44CBMjE444CBMjI444CBMjQx44CBMjY044CBMjczIOihjO+8ie+8jOihjOWPt+aMiSBzcGxpdCgnXFxuJykg5Y+j5b6E6K6h44CCIiwKICAi57qv6aG156CB6KGM77yIMTbjgIE0MeOAgTY344CBOTnjgIExMzDjgIExNTXjgIExODTjgIEyMTHjgIEyMTfjgIEyMjfjgIEyNDDjgIEyNjPjgIEyNzLjgIEyNzbvvInmnKrorqHlhaXku7vkvZXoioLjgIIiLAogICLnq6DoioLmjInjgIznq6DjgI3nuqfntKLlvJXvvJvnrKwgMTcg6KGM5Li65Yqe5rOV5qCH6aKY6KGM77yM5Y2V5YiX5Li644CM5qCH6aKY44CN6IqC44CCIiwKICAi6ZmE5Lu2MyDkuLrnqbrnmb3mjojmnYPnlLPor7fkuabmqKHmnb/vvIzml6DmnaHnm67okL3ngrnjgIIiCiBdCn0K
+{
+ "key": "att-68a6d65d53",
+ "title": "关于印发《中国传媒大学资金支付管理办法（修订）》的通知",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "关于印发《中国传媒大学资金支付管理办法（修订）》的通知",
+   "heading_kind": "author",
+   "lines": [
+    1,
+    14
+   ],
+   "items": [
+    "pt-6f9b5fbcbf",
+    "pt-fb078e5548",
+    "pt-18b7ab4142"
+   ],
+   "chars": 305
+  },
+  {
+   "no": "—",
+   "heading": "中国传媒大学资金支付管理办法（修订）",
+   "heading_kind": "author",
+   "lines": [
+    17,
+    18
+   ],
+   "items": [
+    "pt-ad9c4b30f0"
+   ],
+   "chars": 28
+  },
+  {
+   "no": "第一章",
+   "heading": "总则",
+   "heading_kind": "author",
+   "lines": [
+    19,
+    34
+   ],
+   "items": [
+    "pt-1c10dd6f29",
+    "pt-7aa57c8bbe",
+    "pt-ff3961a477",
+    "pt-53072e8c77"
+   ],
+   "chars": 432
+  },
+  {
+   "no": "第二章",
+   "heading": "用款计划申请",
+   "heading_kind": "author",
+   "lines": [
+    36,
+    49
+   ],
+   "items": [
+    "pt-136833805c",
+    "pt-f338bf5a5c",
+    "pt-0cddbd278d"
+   ],
+   "chars": 299
+  },
+  {
+   "no": "第三章",
+   "heading": "支付审批",
+   "heading_kind": "author",
+   "lines": [
+    51,
+    139
+   ],
+   "items": [
+    "pt-0860efcf81",
+    "pt-55dcb1bb3c",
+    "pt-8a87be7c91",
+    "pt-e73bb589b5",
+    "pt-c1e4693877",
+    "pt-0ca854ffc1",
+    "pt-c17e465088",
+    "pt-b8b8a18e48",
+    "pt-6dc9aa4524",
+    "pt-3f8e46a1e0",
+    "pt-13e1043a05",
+    "pt-cf2c0a1d44",
+    "pt-9e403bf9a0",
+    "pt-17e64abb89",
+    "pt-dafe00ee2f",
+    "pt-f4670cd863",
+    "pt-997c5a31fb",
+    "pt-e018211f76",
+    "pt-170546b534",
+    "pt-b4a8acf5aa",
+    "pt-e5e96392dd",
+    "pt-d28e833feb",
+    "pt-0bbfbb057c",
+    "pt-9b3a73e7bf",
+    "pt-6f5ba180b7",
+    "pt-401b3878bf",
+    "pt-a9acb5e765",
+    "pt-6b27304f30"
+   ],
+   "chars": 1849
+  },
+  {
+   "no": "第四章",
+   "heading": "资金支付",
+   "heading_kind": "author",
+   "lines": [
+    141,
+    178
+   ],
+   "items": [
+    "pt-480e358f99",
+    "pt-2864ac6837",
+    "pt-1de3332c2d",
+    "pt-8be29066e7",
+    "pt-7c32bcad76",
+    "pt-10f0226917",
+    "pt-19de4ae1c7",
+    "pt-b000521dcc",
+    "pt-ac974bb69e"
+   ],
+   "chars": 846
+  },
+  {
+   "no": "第五章",
+   "heading": "监督检查",
+   "heading_kind": "author",
+   "lines": [
+    180,
+    203
+   ],
+   "items": [
+    "pt-0f02cefa11",
+    "pt-0bdd30dbfa",
+    "pt-c3361db378",
+    "pt-2aa9728ecc",
+    "pt-2f9da5ed65",
+    "pt-8c30907391",
+    "pt-89602df455",
+    "pt-522835a4cd",
+    "pt-8b426e604b",
+    "pt-54a7fd5a03"
+   ],
+   "chars": 602
+  },
+  {
+   "no": "第六章",
+   "heading": "附则",
+   "heading_kind": "author",
+   "lines": [
+    205,
+    209
+   ],
+   "items": [
+    "pt-421f6dedd0",
+    "pt-18ca99f9ef"
+   ],
+   "chars": 129
+  },
+  {
+   "no": "附件",
+   "heading": "附件清单",
+   "heading_kind": "derived",
+   "lines": [
+    212,
+    215
+   ],
+   "items": [
+    "pt-233b278c6a"
+   ],
+   "chars": 101
+  },
+  {
+   "no": "附件1",
+   "heading": "大额支出用款计划申请表",
+   "heading_kind": "author",
+   "lines": [
+    218,
+    227
+   ],
+   "items": [
+    "pt-552c3ccbc4"
+   ],
+   "chars": 159
+  },
+  {
+   "no": "附件2",
+   "heading": "中国传媒大学财务签字备案留底表",
+   "heading_kind": "author",
+   "lines": [
+    228,
+    240
+   ],
+   "items": [
+    "pt-0c97b2f1fc",
+    "pt-e12babac25"
+   ],
+   "chars": 285
+  },
+  {
+   "no": "附件3",
+   "heading": "中国传媒大学财务签字委托授权申请书",
+   "heading_kind": "author",
+   "lines": [
+    241,
+    263
+   ],
+   "items": [],
+   "chars": 163
+  },
+  {
+   "no": "附件4",
+   "heading": "中国传媒大学资金支付流程图",
+   "heading_kind": "author",
+   "lines": [
+    264,
+    276
+   ],
+   "items": [
+    "pt-52076469f1",
+    "pt-a1a188f3d0"
+   ],
+   "chars": 198
+  }
+ ],
+ "items": [
+  "pt-6f9b5fbcbf",
+  "pt-fb078e5548",
+  "pt-18b7ab4142",
+  "pt-ad9c4b30f0",
+  "pt-1c10dd6f29",
+  "pt-7aa57c8bbe",
+  "pt-ff3961a477",
+  "pt-53072e8c77",
+  "pt-136833805c",
+  "pt-f338bf5a5c",
+  "pt-0cddbd278d",
+  "pt-0860efcf81",
+  "pt-55dcb1bb3c",
+  "pt-8a87be7c91",
+  "pt-e73bb589b5",
+  "pt-c1e4693877",
+  "pt-0ca854ffc1",
+  "pt-c17e465088",
+  "pt-b8b8a18e48",
+  "pt-6dc9aa4524",
+  "pt-3f8e46a1e0",
+  "pt-13e1043a05",
+  "pt-cf2c0a1d44",
+  "pt-9e403bf9a0",
+  "pt-17e64abb89",
+  "pt-dafe00ee2f",
+  "pt-f4670cd863",
+  "pt-997c5a31fb",
+  "pt-e018211f76",
+  "pt-170546b534",
+  "pt-b4a8acf5aa",
+  "pt-e5e96392dd",
+  "pt-d28e833feb",
+  "pt-0bbfbb057c",
+  "pt-9b3a73e7bf",
+  "pt-6f5ba180b7",
+  "pt-401b3878bf",
+  "pt-a9acb5e765",
+  "pt-6b27304f30",
+  "pt-480e358f99",
+  "pt-2864ac6837",
+  "pt-1de3332c2d",
+  "pt-8be29066e7",
+  "pt-7c32bcad76",
+  "pt-10f0226917",
+  "pt-19de4ae1c7",
+  "pt-b000521dcc",
+  "pt-ac974bb69e",
+  "pt-0f02cefa11",
+  "pt-0bdd30dbfa",
+  "pt-c3361db378",
+  "pt-2aa9728ecc",
+  "pt-2f9da5ed65",
+  "pt-8c30907391",
+  "pt-89602df455",
+  "pt-522835a4cd",
+  "pt-8b426e604b",
+  "pt-54a7fd5a03",
+  "pt-421f6dedd0",
+  "pt-18ca99f9ef",
+  "pt-233b278c6a",
+  "pt-552c3ccbc4",
+  "pt-0c97b2f1fc",
+  "pt-e12babac25",
+  "pt-52076469f1",
+  "pt-a1a188f3d0"
+ ],
+ "notes": [
+  "原文行首夹分页符 \\f（第 17、42、68、100、131、156、185、212、218、228、241、264、273 行），行号按 split('\\n') 口径计。",
+  "纯页码行（16、41、67、99、130、155、184、211、217、227、240、263、272、276）未计入任何节。",
+  "章节按「章」级索引；第 17 行为办法标题行，单列为「标题」节。",
+  "附件3 为空白授权申请书模板，无条目落点。"
+ ]
+}

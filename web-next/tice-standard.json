@@ -1,1 +1,1203 @@
-ewogIm1ldGEiOiB7CiAgInN0YW5kYXJkTmFtZSI6ICLjgIrlm73lrrblrabnlJ/kvZPotKjlgaXlurfmoIflh4bvvIgyMDE05bm05L+u6K6i77yJ44CLIiwKICAic3RhbmRhcmREb2NObyI6ICLmlZnkvZPoibrjgJQyMDE044CVNeWPtyIsCiAgInNjaG9vbFBvbGljeU5hbWUiOiAi44CK5Lit5Zu95Lyg5aqS5aSn5a2m44CI5Zu95a625a2m55Sf5L2T6LSo5YGl5bq35qCH5YeG44CJ5a6e5pa95Yqe5rOV77yIMjAyNOW5tOS/ruiuou+8ieOAiyIsCiAgInNjaG9vbFBvbGljeURvY05vIjogIuacrOenkeeUn+mZouOAlDIwMjTjgJUxMTXlj7ciLAogICJwb2xpY3lFZmZlY3RpdmVTY29wZSI6ICLoh6oyMDI057qn5pys56eR55Sf6LW35pa96KGM77yIMjAyM+e6p+WPiuabtOaXqeW5tOe6p+mAgueUqOaAp+S4jeWcqOacrOmYtuauteWNleWtpuW5tOWbveWutuagh+WHhueul+WIhuS4reW8uuihjOaOqOaWre+8iSIsCiAgInBoYXNlU2NvcGUiOiAic2luZ2xlX2FjYWRlbWljX3llYXJfdW5kZXJncmFkdWF0ZV9vbmx5IiwKICAidmVyaWZpZWREYXRlIjogIjIwMjYtMTAtMTkiLAogICJkZXJpdmVkQXQiOiAiMjAyNi0xMS0wOSIsCiAgInNvdXJjZU1vZHVsZSI6ICJkYXRhL2ZpdG5lc3Mtc3RhbmRhcmQuanMiLAogICJzb3VyY2VTaGEyNTYiOiAiNTFkMmFmZDkyOWRhOTI5MCIsCiAgInRyYW5zY3JpYmVyIjogInRvb2xzL3RpY2VfYnVpbGRfanNvbi5qcyIKIH0sCiAic2NvcmVMYWRkZXIiOiBbCiAgewogICAic2NvcmUiOiAxMDAsCiAgICJsZXZlbCI6ICLkvJjnp4AiCiAgfSwKICB7CiAgICJzY29yZSI6IDk1LAogICAibGV2ZWwiOiAi5LyY56eAIgogIH0sCiAgewogICAic2NvcmUiOiA5MCwKICAgImxldmVsIjogIuS8mOengCIKICB9LAogIHsKICAgInNjb3JlIjogODUsCiAgICJsZXZlbCI6ICLoia/lpb0iCiAgfSwKICB7CiAgICJzY29yZSI6IDgwLAogICAibGV2ZWwiOiAi6Imv5aW9IgogIH0sCiAgewogICAic2NvcmUiOiA3OCwKICAgImxldmVsIjogIuWPiuagvCIKICB9LAogIHsKICAgInNjb3JlIjogNzYsCiAgICJsZXZlbCI6ICLlj4rmoLwiCiAgfSwKICB7CiAgICJzY29yZSI6IDc0LAogICAibGV2ZWwiOiAi5Y+K5qC8IgogIH0sCiAgewogICAic2NvcmUiOiA3MiwKICAgImxldmVsIjogIuWPiuagvCIKICB9LAogIHsKICAgInNjb3JlIjogNzAsCiAgICJsZXZlbCI6ICLlj4rmoLwiCiAgfSwKICB7CiAgICJzY29yZSI6IDY4LAogICAibGV2ZWwiOiAi5Y+K5qC8IgogIH0sCiAgewogICAic2NvcmUiOiA2NiwKICAgImxldmVsIjogIuWPiuagvCIKICB9LAogIHsKICAgInNjb3JlIjogNjQsCiAgICJsZXZlbCI6ICLlj4rmoLwiCiAgfSwKICB7CiAgICJzY29yZSI6IDYyLAogICAibGV2ZWwiOiAi5Y+K5qC8IgogIH0sCiAgewogICAic2NvcmUiOiA2MCwKICAgImxldmVsIjogIuWPiuagvCIKICB9LAogIHsKICAgInNjb3JlIjogNTAsCiAgICJsZXZlbCI6ICLkuI3lj4rmoLwiCiAgfSwKICB7CiAgICJzY29yZSI6IDQwLAogICAibGV2ZWwiOiAi5LiN5Y+K5qC8IgogIH0sCiAgewogICAic2NvcmUiOiAzMCwKICAgImxldmVsIjogIuS4jeWPiuagvCIKICB9LAogIHsKICAgInNjb3JlIjogMjAsCiAgICJsZXZlbCI6ICLkuI3lj4rmoLwiCiAgfSwKICB7CiAgICJzY29yZSI6IDEwLAogICAibGV2ZWwiOiAi5LiN5Y+K5qC8IgogIH0KIF0sCiAibGltaXRzIjogewogICJtYXhTdGFuZGFyZFNjb3JlIjogMTAwLAogICJtYXhTaW5nbGVCb251c1Njb3JlIjogMTAsCiAgIm1heFRvdGFsQm9udXNTY29yZSI6IDIwLAogICJtYXhUb3RhbFNjb3JlIjogMTIwCiB9LAogIndlaWdodHMiOiB7CiAgImJtaSI6IDE1LAogICJ2aXRhbENhcGFjaXR5IjogMTUsCiAgInNwcmludDUwbSI6IDIwLAogICJzaXRBbmRSZWFjaCI6IDEwLAogICJzdGFuZGluZ0xvbmdKdW1wIjogMTAsCiAgInB1bGxVcHMiOiAxMCwKICAicnVuMTAwMG0iOiAyMCwKICAic2l0VXBzIjogMTAsCiAgInJ1bjgwMG0iOiAyMAogfSwKICJncmFkZUdyb3VwcyI6IHsKICAiR1JBREVfMTIiOiAiZ3JhZGUxMiIsCiAgIkdSQURFXzM0IjogImdyYWRlMzQiCiB9LAogImdyYWRlVG9Hcm91cCI6IHsKICAi5aSn5LiAIjogImdyYWRlMTIiLAogICLlpKfkuowiOiAiZ3JhZGUxMiIsCiAgIuWkp+S4iSI6ICJncmFkZTM0IiwKICAi5aSn5ZubIjogImdyYWRlMzQiCiB9LAogImV2ZW50cyI6IHsKICAidml0YWxDYXBhY2l0eSI6IHsKICAgIm5hbWUiOiAi6IK65rS76YePIiwKICAgInRhYmxlQ29kZSI6ICLooagxLTIiLAogICAidW5pdCI6ICJtTCIsCiAgICJ1bml0TGFiZWwiOiAi5q+r5Y2HIiwKICAgImRpcmVjdGlvbiI6ICJoaWdoZXJfaXNfYmV0dGVyIiwKICAgInNjYWxlIjogMSwKICAgImRlY2ltYWxQbGFjZXMiOiAwLAogICAidW5pdFR5cGUiOiAibnVtYmVyIiwKICAgIndlaWdodFBlcmNlbnQiOiAxNSwKICAgImJvbnVzRWxpZ2libGUiOiBmYWxzZSwKICAgImludGVnZXJPbmx5IjogZmFsc2UsCiAgICJiZWxvd01pbmltdW1SdWxlU3RhdHVzIjogInplcm9fc2NvcmUiLAogICAiYWxsb3daZXJvIjogdHJ1ZSwKICAgImFsbG93TmVnYXRpdmUiOiBmYWxzZSwKICAgImJvbnVzRGVsdGFzIjogbnVsbCwKICAgInRocmVzaG9sZHMiOiB7CiAgICAibWFsZSI6IHsKICAgICAiZ3JhZGUxMiI6IFsKICAgICAgNTA0MCwKICAgICAgNDkyMCwKICAgICAgNDgwMCwKICAgICAgNDU1MCwKICAgICAgNDMwMCwKICAgICAgNDE4MCwKICAgICAgNDA2MCwKICAgICAgMzk0MCwKICAgICAgMzgyMCwKICAgICAgMzcwMCwKICAgICAgMzU4MCwKICAgICAgMzQ2MCwKICAgICAgMzM0MCwKICAgICAgMzIyMCwKICAgICAgMzEwMCwKICAgICAgMjk0MCwKICAgICAgMjc4MCwKICAgICAgMjYyMCwKICAgICAgMjQ2MCwKICAgICAgMjMwMAogICAgIF0sCiAgICAgImdyYWRlMzQiOiBbCiAgICAgIDUxNDAsCiAgICAgIDUwMjAsCiAgICAgIDQ5MDAsCiAgICAgIDQ2NTAsCiAgICAgIDQ0MDAsCiAgICAgIDQyODAsCiAgICAgIDQxNjAsCiAgICAgIDQwNDAsCiAgICAgIDM5MjAsCiAgICAgIDM4MDAsCiAgICAgIDM2ODAsCiAgICAgIDM1NjAsCiAgICAgIDM0NDAsCiAgICAgIDMzMjAsCiAgICAgIDMyMDAsCiAgICAgIDMwMzAsCiAgICAgIDI4NjAsCiAgICAgIDI2OTAsCiAgICAgIDI1MjAsCiAgICAgIDIzNTAKICAgICBdCiAgICB9LAogICAgImZlbWFsZSI6IHsKICAgICAiZ3JhZGUxMiI6IFsKICAgICAgMzQwMCwKICAgICAgMzM1MCwKICAgICAgMzMwMCwKICAgICAgMzE1MCwKICAgICAgMzAwMCwKICAgICAgMjkwMCwKICAgICAgMjgwMCwKICAgICAgMjcwMCwKICAgICAgMjYwMCwKICAgICAgMjUwMCwKICAgICAgMjQwMCwKICAgICAgMjMwMCwKICAgICAgMjIwMCwKICAgICAgMjEwMCwKICAgICAgMjAwMCwKICAgICAgMTk2MCwKICAgICAgMTkyMCwKICAgICAgMTg4MCwKICAgICAgMTg0MCwKICAgICAgMTgwMAogICAgIF0sCiAgICAgImdyYWRlMzQiOiBbCiAgICAgIDM0NTAsCiAgICAgIDM0MDAsCiAgICAgIDMzNTAsCiAgICAgIDMyMDAsCiAgICAgIDMwNTAsCiAgICAgIDI5NTAsCiAgICAgIDI4NTAsCiAgICAgIDI3NTAsCiAgICAgIDI2NTAsCiAgICAgIDI1NTAsCiAgICAgIDI0NTAsCiAgICAgIDIzNTAsCiAgICAgIDIyNTAsCiAgICAgIDIxNTAsCiAgICAgIDIwNTAsCiAgICAgIDIwMTAsCiAgICAgIDE5NzAsCiAgICAgIDE5MzAsCiAgICAgIDE4OTAsCiAgICAgIDE4NTAKICAgICBdCiAgICB9CiAgIH0sCiAgICJnZW5kZXJzIjogWwogICAgImZlbWFsZSIsCiAgICAibWFsZSIKICAgXQogIH0sCiAgInNwcmludDUwbSI6IHsKICAgIm5hbWUiOiAiNTDnsbPot5EiLAogICAidGFibGVDb2RlIjogIuihqDEtMyIsCiAgICJ1bml0IjogInMiLAogICAidW5pdExhYmVsIjogIuenkiIsCiAgICJkaXJlY3Rpb24iOiAibG93ZXJfaXNfYmV0dGVyIiwKICAgInNjYWxlIjogMTAsCiAgICJkZWNpbWFsUGxhY2VzIjogMSwKICAgInVuaXRUeXBlIjogIm51bWJlciIsCiAgICJ3ZWlnaHRQZXJjZW50IjogMjAsCiAgICJib251c0VsaWdpYmxlIjogZmFsc2UsCiAgICJpbnRlZ2VyT25seSI6IGZhbHNlLAogICAiYmVsb3dNaW5pbXVtUnVsZVN0YXR1cyI6ICJ6ZXJvX3Njb3JlIiwKICAgImFsbG93WmVybyI6IGZhbHNlLAogICAiYWxsb3dOZWdhdGl2ZSI6IGZhbHNlLAogICAiYm9udXNEZWx0YXMiOiBudWxsLAogICAidGhyZXNob2xkcyI6IHsKICAgICJtYWxlIjogewogICAgICJncmFkZTEyIjogWwogICAgICA2LjcsCiAgICAgIDYuOCwKICAgICAgNi45LAogICAgICA3LAogICAgICA3LjEsCiAgICAgIDcuMywKICAgICAgNy41LAogICAgICA3LjcsCiAgICAgIDcuOSwKICAgICAgOC4xLAogICAgICA4LjMsCiAgICAgIDguNSwKICAgICAgOC43LAogICAgICA4LjksCiAgICAgIDkuMSwKICAgICAgOS4zLAogICAgICA5LjUsCiAgICAgIDkuNywKICAgICAgOS45LAogICAgICAxMC4xCiAgICAgXSwKICAgICAiZ3JhZGUzNCI6IFsKICAgICAgNi42LAogICAgICA2LjcsCiAgICAgIDYuOCwKICAgICAgNi45LAogICAgICA3LAogICAgICA3LjIsCiAgICAgIDcuNCwKICAgICAgNy42LAogICAgICA3LjgsCiAgICAgIDgsCiAgICAgIDguMiwKICAgICAgOC40LAogICAgICA4LjYsCiAgICAgIDguOCwKICAgICAgOSwKICAgICAgOS4yLAogICAgICA5LjQsCiAgICAgIDkuNiwKICAgICAgOS44LAogICAgICAxMAogICAgIF0KICAgIH0sCiAgICAiZmVtYWxlIjogewogICAgICJncmFkZTEyIjogWwogICAgICA3LjUsCiAgICAgIDcuNiwKICAgICAgNy43LAogICAgICA4LAogICAgICA4LjMsCiAgICAgIDguNSwKICAgICAgOC43LAogICAgICA4LjksCiAgICAgIDkuMSwKICAgICAgOS4zLAogICAgICA5LjUsCiAgICAgIDkuNywKICAgICAgOS45LAogICAgICAxMC4xLAogICAgICAxMC4zLAogICAgICAxMC41LAogICAgICAxMC43LAogICAgICAxMC45LAogICAgICAxMS4xLAogICAgICAxMS4zCiAgICAgXSwKICAgICAiZ3JhZGUzNCI6IFsKICAgICAgNy40LAogICAgICA3LjUsCiAgICAgIDcuNiwKICAgICAgNy45LAogICAgICA4LjIsCiAgICAgIDguNCwKICAgICAgOC42LAogICAgICA4LjgsCiAgICAgIDksCiAgICAgIDkuMiwKICAgICAgOS40LAogICAgICA5LjYsCiAgICAgIDkuOCwKICAgICAgMTAsCiAgICAgIDEwLjIsCiAgICAgIDEwLjQsCiAgICAgIDEwLjYsCiAgICAgIDEwLjgsCiAgICAgIDExLAogICAgICAxMS4yCiAgICAgXQogICAgfQogICB9LAogICAiZ2VuZGVycyI6IFsKICAgICJmZW1hbGUiLAogICAgIm1hbGUiCiAgIF0KICB9LAogICJzaXRBbmRSZWFjaCI6IHsKICAgIm5hbWUiOiAi5Z2Q5L2N5L2T5YmN5bGIIiwKICAgInRhYmxlQ29kZSI6ICLooagxLTQiLAogICAidW5pdCI6ICJjbSIsCiAgICJ1bml0TGFiZWwiOiAi5Y6Y57GzIiwKICAgImRpcmVjdGlvbiI6ICJoaWdoZXJfaXNfYmV0dGVyIiwKICAgInNjYWxlIjogMTAsCiAgICJkZWNpbWFsUGxhY2VzIjogMSwKICAgInVuaXRUeXBlIjogIm51bWJlciIsCiAgICJ3ZWlnaHRQZXJjZW50IjogMTAsCiAgICJib251c0VsaWdpYmxlIjogZmFsc2UsCiAgICJpbnRlZ2VyT25seSI6IGZhbHNlLAogICAiYmVsb3dNaW5pbXVtUnVsZVN0YXR1cyI6ICJ6ZXJvX3Njb3JlIiwKICAgImFsbG93WmVybyI6IHRydWUsCiAgICJhbGxvd05lZ2F0aXZlIjogdHJ1ZSwKICAgImJvbnVzRGVsdGFzIjogbnVsbCwKICAgInRocmVzaG9sZHMiOiB7CiAgICAibWFsZSI6IHsKICAgICAiZ3JhZGUxMiI6IFsKICAgICAgMjQuOSwKICAgICAgMjMuMSwKICAgICAgMjEuMywKICAgICAgMTkuNSwKICAgICAgMTcuNywKICAgICAgMTYuMywKICAgICAgMTQuOSwKICAgICAgMTMuNSwKICAgICAgMTIuMSwKICAgICAgMTAuNywKICAgICAgOS4zLAogICAgICA3LjksCiAgICAgIDYuNSwKICAgICAgNS4xLAogICAgICAzLjcsCiAgICAgIDIuNywKICAgICAgMS43LAogICAgICAwLjcsCiAgICAgIC0wLjMsCiAgICAgIC0xLjMKICAgICBdLAogICAgICJncmFkZTM0IjogWwogICAgICAyNS4xLAogICAgICAyMy4zLAogICAgICAyMS41LAogICAgICAxOS45LAogICAgICAxOC4yLAogICAgICAxNi44LAogICAgICAxNS40LAogICAgICAxNCwKICAgICAgMTIuNiwKICAgICAgMTEuMiwKICAgICAgOS44LAogICAgICA4LjQsCiAgICAgIDcsCiAgICAgIDUuNiwKICAgICAgNC4yLAogICAgICAzLjIsCiAgICAgIDIuMiwKICAgICAgMS4yLAogICAgICAwLjIsCiAgICAgIC0wLjgKICAgICBdCiAgICB9LAogICAgImZlbWFsZSI6IHsKICAgICAiZ3JhZGUxMiI6IFsKICAgICAgMjUuOCwKICAgICAgMjQsCiAgICAgIDIyLjIsCiAgICAgIDIwLjYsCiAgICAgIDE5LAogICAgICAxNy43LAogICAgICAxNi40LAogICAgICAxNS4xLAogICAgICAxMy44LAogICAgICAxMi41LAogICAgICAxMS4yLAogICAgICA5LjksCiAgICAgIDguNiwKICAgICAgNy4zLAogICAgICA2LAogICAgICA1LjIsCiAgICAgIDQuNCwKICAgICAgMy42LAogICAgICAyLjgsCiAgICAgIDIKICAgICBdLAogICAgICJncmFkZTM0IjogWwogICAgICAyNi4zLAogICAgICAyNC40LAogICAgICAyMi40LAogICAgICAyMSwKICAgICAgMTkuNSwKICAgICAgMTguMiwKICAgICAgMTYuOSwKICAgICAgMTUuNiwKICAgICAgMTQuMywKICAgICAgMTMsCiAgICAgIDExLjcsCiAgICAgIDEwLjQsCiAgICAgIDkuMSwKICAgICAgNy44LAogICAgICA2LjUsCiAgICAgIDUuNywKICAgICAgNC45LAogICAgICA0LjEsCiAgICAgIDMuMywKICAgICAgMi41CiAgICAgXQogICAgfQogICB9LAogICAiZ2VuZGVycyI6IFsKICAgICJmZW1hbGUiLAogICAgIm1hbGUiCiAgIF0KICB9LAogICJzdGFuZGluZ0xvbmdKdW1wIjogewogICAibmFtZSI6ICLnq4vlrprot7Pov5wiLAogICAidGFibGVDb2RlIjogIuihqDEtNSIsCiAgICJ1bml0IjogImNtIiwKICAgInVuaXRMYWJlbCI6ICLljpjnsbMiLAogICAiZGlyZWN0aW9uIjogImhpZ2hlcl9pc19iZXR0ZXIiLAogICAic2NhbGUiOiAxLAogICAiZGVjaW1hbFBsYWNlcyI6IDAsCiAgICJ1bml0VHlwZSI6ICJudW1iZXIiLAogICAid2VpZ2h0UGVyY2VudCI6IDEwLAogICAiYm9udXNFbGlnaWJsZSI6IGZhbHNlLAogICAiaW50ZWdlck9ubHkiOiBmYWxzZSwKICAgImJlbG93TWluaW11bVJ1bGVTdGF0dXMiOiAiemVyb19zY29yZSIsCiAgICJhbGxvd1plcm8iOiB0cnVlLAogICAiYWxsb3dOZWdhdGl2ZSI6IGZhbHNlLAogICAiYm9udXNEZWx0YXMiOiBudWxsLAogICAidGhyZXNob2xkcyI6IHsKICAgICJtYWxlIjogewogICAgICJncmFkZTEyIjogWwogICAgICAyNzMsCiAgICAgIDI2OCwKICAgICAgMjYzLAogICAgICAyNTYsCiAgICAgIDI0OCwKICAgICAgMjQ0LAogICAgICAyNDAsCiAgICAgIDIzNiwKICAgICAgMjMyLAogICAgICAyMjgsCiAgICAgIDIyNCwKICAgICAgMjIwLAogICAgICAyMTYsCiAgICAgIDIxMiwKICAgICAgMjA4LAogICAgICAyMDMsCiAgICAgIDE5OCwKICAgICAgMTkzLAogICAgICAxODgsCiAgICAgIDE4MwogICAgIF0sCiAgICAgImdyYWRlMzQiOiBbCiAgICAgIDI3NSwKICAgICAgMjcwLAogICAgICAyNjUsCiAgICAgIDI1OCwKICAgICAgMjUwLAogICAgICAyNDYsCiAgICAgIDI0MiwKICAgICAgMjM4LAogICAgICAyMzQsCiAgICAgIDIzMCwKICAgICAgMjI2LAogICAgICAyMjIsCiAgICAgIDIxOCwKICAgICAgMjE0LAogICAgICAyMTAsCiAgICAgIDIwNSwKICAgICAgMjAwLAogICAgICAxOTUsCiAgICAgIDE5MCwKICAgICAgMTg1CiAgICAgXQogICAgfSwKICAgICJmZW1hbGUiOiB7CiAgICAgImdyYWRlMTIiOiBbCiAgICAgIDIwNywKICAgICAgMjAxLAogICAgICAxOTUsCiAgICAgIDE4OCwKICAgICAgMTgxLAogICAgICAxNzgsCiAgICAgIDE3NSwKICAgICAgMTcyLAogICAgICAxNjksCiAgICAgIDE2NiwKICAgICAgMTYzLAogICAgICAxNjAsCiAgICAgIDE1NywKICAgICAgMTU0LAogICAgICAxNTEsCiAgICAgIDE0NiwKICAgICAgMTQxLAogICAgICAxMzYsCiAgICAgIDEzMSwKICAgICAgMTI2CiAgICAgXSwKICAgICAiZ3JhZGUzNCI6IFsKICAgICAgMjA4LAogICAgICAyMDIsCiAgICAgIDE5NiwKICAgICAgMTg5LAogICAgICAxODIsCiAgICAgIDE3OSwKICAgICAgMTc2LAogICAgICAxNzMsCiAgICAgIDE3MCwKICAgICAgMTY3LAogICAgICAxNjQsCiAgICAgIDE2MSwKICAgICAgMTU4LAogICAgICAxNTUsCiAgICAgIDE1MiwKICAgICAgMTQ3LAogICAgICAxNDIsCiAgICAgIDEzNywKICAgICAgMTMyLAogICAgICAxMjcKICAgICBdCiAgICB9CiAgIH0sCiAgICJnZW5kZXJzIjogWwogICAgImZlbWFsZSIsCiAgICAibWFsZSIKICAgXQogIH0sCiAgInB1bGxVcHMiOiB7CiAgICJuYW1lIjogIuW8leS9k+WQkeS4iiIsCiAgICJ0YWJsZUNvZGUiOiAi6KGoMS02IiwKICAgInVuaXQiOiAiY291bnQiLAogICAidW5pdExhYmVsIjogIuasoSIsCiAgICJkaXJlY3Rpb24iOiAiaGlnaGVyX2lzX2JldHRlciIsCiAgICJzY2FsZSI6IDEsCiAgICJkZWNpbWFsUGxhY2VzIjogMCwKICAgInVuaXRUeXBlIjogIm51bWJlciIsCiAgICJ3ZWlnaHRQZXJjZW50IjogMTAsCiAgICJib251c0VsaWdpYmxlIjogdHJ1ZSwKICAgImludGVnZXJPbmx5IjogdHJ1ZSwKICAgImJlbG93TWluaW11bVJ1bGVTdGF0dXMiOiAiemVyb19zY29yZSIsCiAgICJhbGxvd1plcm8iOiB0cnVlLAogICAiYWxsb3dOZWdhdGl2ZSI6IGZhbHNlLAogICAiYm9udXNEZWx0YXMiOiBbCiAgICB7CiAgICAgImJvbnVzU2NvcmUiOiAxMCwKICAgICAiZGVsdGEiOiAxMAogICAgfSwKICAgIHsKICAgICAiYm9udXNTY29yZSI6IDksCiAgICAgImRlbHRhIjogOQogICAgfSwKICAgIHsKICAgICAiYm9udXNTY29yZSI6IDgsCiAgICAgImRlbHRhIjogOAogICAgfSwKICAgIHsKICAgICAiYm9udXNTY29yZSI6IDcsCiAgICAgImRlbHRhIjogNwogICAgfSwKICAgIHsKICAgICAiYm9udXNTY29yZSI6IDYsCiAgICAgImRlbHRhIjogNgogICAgfSwKICAgIHsKICAgICAiYm9udXNTY29yZSI6IDUsCiAgICAgImRlbHRhIjogNQogICAgfSwKICAgIHsKICAgICAiYm9udXNTY29yZSI6IDQsCiAgICAgImRlbHRhIjogNAogICAgfSwKICAgIHsKICAgICAiYm9udXNTY29yZSI6IDMsCiAgICAgImRlbHRhIjogMwogICAgfSwKICAgIHsKICAgICAiYm9udXNTY29yZSI6IDIsCiAgICAgImRlbHRhIjogMgogICAgfSwKICAgIHsKICAgICAiYm9udXNTY29yZSI6IDEsCiAgICAgImRlbHRhIjogMQogICAgfQogICBdLAogICAidGhyZXNob2xkcyI6IHsKICAgICJtYWxlIjogewogICAgICJncmFkZTEyIjogWwogICAgICAxOSwKICAgICAgMTgsCiAgICAgIDE3LAogICAgICAxNiwKICAgICAgMTUsCiAgICAgIG51bGwsCiAgICAgIDE0LAogICAgICBudWxsLAogICAgICAxMywKICAgICAgbnVsbCwKICAgICAgMTIsCiAgICAgIG51bGwsCiAgICAgIDExLAogICAgICBudWxsLAogICAgICAxMCwKICAgICAgOSwKICAgICAgOCwKICAgICAgNywKICAgICAgNiwKICAgICAgNQogICAgIF0sCiAgICAgImdyYWRlMzQiOiBbCiAgICAgIDIwLAogICAgICAxOSwKICAgICAgMTgsCiAgICAgIDE3LAogICAgICAxNiwKICAgICAgbnVsbCwKICAgICAgMTUsCiAgICAgIG51bGwsCiAgICAgIDE0LAogICAgICBudWxsLAogICAgICAxMywKICAgICAgbnVsbCwKICAgICAgMTIsCiAgICAgIG51bGwsCiAgICAgIDExLAogICAgICAxMCwKICAgICAgOSwKICAgICAgOCwKICAgICAgNywKICAgICAgNgogICAgIF0KICAgIH0KICAgfSwKICAgImdlbmRlcnMiOiBbCiAgICAibWFsZSIKICAgXQogIH0sCiAgInJ1bjEwMDBtIjogewogICAibmFtZSI6ICIxMDAw57Gz6LeRIiwKICAgInRhYmxlQ29kZSI6ICLooagxLTgiLAogICAidW5pdCI6ICJzIiwKICAgInVuaXRMYWJlbCI6ICLliIbCt+enkiIsCiAgICJkaXJlY3Rpb24iOiAibG93ZXJfaXNfYmV0dGVyIiwKICAgInNjYWxlIjogMSwKICAgImRlY2ltYWxQbGFjZXMiOiAwLAogICAidW5pdFR5cGUiOiAibW1zcyIsCiAgICJ3ZWlnaHRQZXJjZW50IjogMjAsCiAgICJib251c0VsaWdpYmxlIjogdHJ1ZSwKICAgImludGVnZXJPbmx5IjogdHJ1ZSwKICAgImJlbG93TWluaW11bVJ1bGVTdGF0dXMiOiAiemVyb19zY29yZSIsCiAgICJhbGxvd1plcm8iOiBmYWxzZSwKICAgImFsbG93TmVnYXRpdmUiOiBmYWxzZSwKICAgImJvbnVzRGVsdGFzIjogWwogICAgewogICAgICJib251c1Njb3JlIjogMTAsCiAgICAgInJlZHVjdGlvblNlY29uZHMiOiAzNQogICAgfSwKICAgIHsKICAgICAiYm9udXNTY29yZSI6IDksCiAgICAgInJlZHVjdGlvblNlY29uZHMiOiAzMgogICAgfSwKICAgIHsKICAgICAiYm9udXNTY29yZSI6IDgsCiAgICAgInJlZHVjdGlvblNlY29uZHMiOiAyOQogICAgfSwKICAgIHsKICAgICAiYm9udXNTY29yZSI6IDcsCiAgICAgInJlZHVjdGlvblNlY29uZHMiOiAyNgogICAgfSwKICAgIHsKICAgICAiYm9udXNTY29yZSI6IDYsCiAgICAgInJlZHVjdGlvblNlY29uZHMiOiAyMwogICAgfSwKICAgIHsKICAgICAiYm9udXNTY29yZSI6IDUsCiAgICAgInJlZHVjdGlvblNlY29uZHMiOiAyMAogICAgfSwKICAgIHsKICAgICAiYm9udXNTY29yZSI6IDQsCiAgICAgInJlZHVjdGlvblNlY29uZHMiOiAxNgogICAgfSwKICAgIHsKICAgICAiYm9udXNTY29yZSI6IDMsCiAgICAgInJlZHVjdGlvblNlY29uZHMiOiAxMgogICAgfSwKICAgIHsKICAgICAiYm9udXNTY29yZSI6IDIsCiAgICAgInJlZHVjdGlvblNlY29uZHMiOiA4CiAgICB9LAogICAgewogICAgICJib251c1Njb3JlIjogMSwKICAgICAicmVkdWN0aW9uU2Vjb25kcyI6IDQKICAgIH0KICAgXSwKICAgInRocmVzaG9sZHMiOiB7CiAgICAibWFsZSI6IHsKICAgICAiZ3JhZGUxMiI6IFsKICAgICAgMTk3LAogICAgICAyMDIsCiAgICAgIDIwNywKICAgICAgMjE0LAogICAgICAyMjIsCiAgICAgIDIyNywKICAgICAgMjMyLAogICAgICAyMzcsCiAgICAgIDI0MiwKICAgICAgMjQ3LAogICAgICAyNTIsCiAgICAgIDI1NywKICAgICAgMjYyLAogICAgICAyNjcsCiAgICAgIDI3MiwKICAgICAgMjkyLAogICAgICAzMTIsCiAgICAgIDMzMiwKICAgICAgMzUyLAogICAgICAzNzIKICAgICBdLAogICAgICJncmFkZTM0IjogWwogICAgICAxOTUsCiAgICAgIDIwMCwKICAgICAgMjA1LAogICAgICAyMTIsCiAgICAgIDIyMCwKICAgICAgMjI1LAogICAgICAyMzAsCiAgICAgIDIzNSwKICAgICAgMjQwLAogICAgICAyNDUsCiAgICAgIDI1MCwKICAgICAgMjU1LAogICAgICAyNjAsCiAgICAgIDI2NSwKICAgICAgMjcwLAogICAgICAyOTAsCiAgICAgIDMxMCwKICAgICAgMzMwLAogICAgICAzNTAsCiAgICAgIDM3MAogICAgIF0KICAgIH0KICAgfSwKICAgImdlbmRlcnMiOiBbCiAgICAibWFsZSIKICAgXQogIH0sCiAgInNpdFVwcyI6IHsKICAgIm5hbWUiOiAi5LiA5YiG6ZKf5Luw5Y2n6LW35Z2QIiwKICAgInRhYmxlQ29kZSI6ICLooagxLTciLAogICAidW5pdCI6ICJjb3VudCIsCiAgICJ1bml0TGFiZWwiOiAi5qyhIiwKICAgImRpcmVjdGlvbiI6ICJoaWdoZXJfaXNfYmV0dGVyIiwKICAgInNjYWxlIjogMSwKICAgImRlY2ltYWxQbGFjZXMiOiAwLAogICAidW5pdFR5cGUiOiAibnVtYmVyIiwKICAgIndlaWdodFBlcmNlbnQiOiAxMCwKICAgImJvbnVzRWxpZ2libGUiOiB0cnVlLAogICAiaW50ZWdlck9ubHkiOiB0cnVlLAogICAiYmVsb3dNaW5pbXVtUnVsZVN0YXR1cyI6ICJ6ZXJvX3Njb3JlIiwKICAgImFsbG93WmVybyI6IHRydWUsCiAgICJhbGxvd05lZ2F0aXZlIjogZmFsc2UsCiAgICJib251c0RlbHRhcyI6IFsKICAgIHsKICAgICAiYm9udXNTY29yZSI6IDEwLAogICAgICJkZWx0YSI6IDEzCiAgICB9LAogICAgewogICAgICJib251c1Njb3JlIjogOSwKICAgICAiZGVsdGEiOiAxMgogICAgfSwKICAgIHsKICAgICAiYm9udXNTY29yZSI6IDgsCiAgICAgImRlbHRhIjogMTEKICAgIH0sCiAgICB7CiAgICAgImJvbnVzU2NvcmUiOiA3LAogICAgICJkZWx0YSI6IDEwCiAgICB9LAogICAgewogICAgICJib251c1Njb3JlIjogNiwKICAgICAiZGVsdGEiOiA5CiAgICB9LAogICAgewogICAgICJib251c1Njb3JlIjogNSwKICAgICAiZGVsdGEiOiA4CiAgICB9LAogICAgewogICAgICJib251c1Njb3JlIjogNCwKICAgICAiZGVsdGEiOiA3CiAgICB9LAogICAgewogICAgICJib251c1Njb3JlIjogMywKICAgICAiZGVsdGEiOiA2CiAgICB9LAogICAgewogICAgICJib251c1Njb3JlIjogMiwKICAgICAiZGVsdGEiOiA0CiAgICB9LAogICAgewogICAgICJib251c1Njb3JlIjogMSwKICAgICAiZGVsdGEiOiAyCiAgICB9CiAgIF0sCiAgICJ0aHJlc2hvbGRzIjogewogICAgImZlbWFsZSI6IHsKICAgICAiZ3JhZGUxMiI6IFsKICAgICAgNTYsCiAgICAgIDU0LAogICAgICA1MiwKICAgICAgNDksCiAgICAgIDQ2LAogICAgICA0NCwKICAgICAgNDIsCiAgICAgIDQwLAogICAgICAzOCwKICAgICAgMzYsCiAgICAgIDM0LAogICAgICAzMiwKICAgICAgMzAsCiAgICAgIDI4LAogICAgICAyNiwKICAgICAgMjQsCiAgICAgIDIyLAogICAgICAyMCwKICAgICAgMTgsCiAgICAgIDE2CiAgICAgXSwKICAgICAiZ3JhZGUzNCI6IFsKICAgICAgNTcsCiAgICAgIDU1LAogICAgICA1MywKICAgICAgNTAsCiAgICAgIDQ3LAogICAgICA0NSwKICAgICAgNDMsCiAgICAgIDQxLAogICAgICAzOSwKICAgICAgMzcsCiAgICAgIDM1LAogICAgICAzMywKICAgICAgMzEsCiAgICAgIDI5LAogICAgICAyNywKICAgICAgMjUsCiAgICAgIDIzLAogICAgICAyMSwKICAgICAgMTksCiAgICAgIDE3CiAgICAgXQogICAgfQogICB9LAogICAiZ2VuZGVycyI6IFsKICAgICJmZW1hbGUiCiAgIF0KICB9LAogICJydW44MDBtIjogewogICAibmFtZSI6ICI4MDDnsbPot5EiLAogICAidGFibGVDb2RlIjogIuihqDEtOCIsCiAgICJ1bml0IjogInMiLAogICAidW5pdExhYmVsIjogIuWIhsK356eSIiwKICAgImRpcmVjdGlvbiI6ICJsb3dlcl9pc19iZXR0ZXIiLAogICAic2NhbGUiOiAxLAogICAiZGVjaW1hbFBsYWNlcyI6IDAsCiAgICJ1bml0VHlwZSI6ICJtbXNzIiwKICAgIndlaWdodFBlcmNlbnQiOiAyMCwKICAgImJvbnVzRWxpZ2libGUiOiB0cnVlLAogICAiaW50ZWdlck9ubHkiOiB0cnVlLAogICAiYmVsb3dNaW5pbXVtUnVsZVN0YXR1cyI6ICJ6ZXJvX3Njb3JlIiwKICAgImFsbG93WmVybyI6IGZhbHNlLAogICAiYWxsb3dOZWdhdGl2ZSI6IGZhbHNlLAogICAiYm9udXNEZWx0YXMiOiBbCiAgICB7CiAgICAgImJvbnVzU2NvcmUiOiAxMCwKICAgICAicmVkdWN0aW9uU2Vjb25kcyI6IDUwCiAgICB9LAogICAgewogICAgICJib251c1Njb3JlIjogOSwKICAgICAicmVkdWN0aW9uU2Vjb25kcyI6IDQ1CiAgICB9LAogICAgewogICAgICJib251c1Njb3JlIjogOCwKICAgICAicmVkdWN0aW9uU2Vjb25kcyI6IDQwCiAgICB9LAogICAgewogICAgICJib251c1Njb3JlIjogNywKICAgICAicmVkdWN0aW9uU2Vjb25kcyI6IDM1CiAgICB9LAogICAgewogICAgICJib251c1Njb3JlIjogNiwKICAgICAicmVkdWN0aW9uU2Vjb25kcyI6IDMwCiAgICB9LAogICAgewogICAgICJib251c1Njb3JlIjogNSwKICAgICAicmVkdWN0aW9uU2Vjb25kcyI6IDI1CiAgICB9LAogICAgewogICAgICJib251c1Njb3JlIjogNCwKICAgICAicmVkdWN0aW9uU2Vjb25kcyI6IDIwCiAgICB9LAogICAgewogICAgICJib251c1Njb3JlIjogMywKICAgICAicmVkdWN0aW9uU2Vjb25kcyI6IDE1CiAgICB9LAogICAgewogICAgICJib251c1Njb3JlIjogMiwKICAgICAicmVkdWN0aW9uU2Vjb25kcyI6IDEwCiAgICB9LAogICAgewogICAgICJib251c1Njb3JlIjogMSwKICAgICAicmVkdWN0aW9uU2Vjb25kcyI6IDUKICAgIH0KICAgXSwKICAgInRocmVzaG9sZHMiOiB7CiAgICAiZmVtYWxlIjogewogICAgICJncmFkZTEyIjogWwogICAgICAxOTgsCiAgICAgIDIwNCwKICAgICAgMjEwLAogICAgICAyMTcsCiAgICAgIDIyNCwKICAgICAgMjI5LAogICAgICAyMzQsCiAgICAgIDIzOSwKICAgICAgMjQ0LAogICAgICAyNDksCiAgICAgIDI1NCwKICAgICAgMjU5LAogICAgICAyNjQsCiAgICAgIDI2OSwKICAgICAgMjc0LAogICAgICAyODQsCiAgICAgIDI5NCwKICAgICAgMzA0LAogICAgICAzMTQsCiAgICAgIDMyNAogICAgIF0sCiAgICAgImdyYWRlMzQiOiBbCiAgICAgIDE5NiwKICAgICAgMjAyLAogICAgICAyMDgsCiAgICAgIDIxNSwKICAgICAgMjIyLAogICAgICAyMjcsCiAgICAgIDIzMiwKICAgICAgMjM3LAogICAgICAyNDIsCiAgICAgIDI0NywKICAgICAgMjUyLAogICAgICAyNTcsCiAgICAgIDI2MiwKICAgICAgMjY3LAogICAgICAyNzIsCiAgICAgIDI4MiwKICAgICAgMjkyLAogICAgICAzMDIsCiAgICAgIDMxMiwKICAgICAgMzIyCiAgICAgXQogICAgfQogICB9LAogICAiZ2VuZGVycyI6IFsKICAgICJmZW1hbGUiCiAgIF0KICB9CiB9LAogImJtaSI6IHsKICAidW5pdCI6ICJrZy9tMiIsCiAgInVuaXRMYWJlbCI6ICLljYPlhYsv57GzwrIiLAogICJzY2FsZSI6IDEwLAogICJ3ZWlnaHRQZXJjZW50IjogMTUsCiAgImFsbG93WmVybyI6IGZhbHNlLAogICJhbGxvd05lZ2F0aXZlIjogZmFsc2UsCiAgImNhdGVnb3JpZXNCeUdlbmRlciI6IHsKICAgIm1hbGUiOiBbCiAgICB7CiAgICAgImNhdGVnb3J5IjogIm5vcm1hbCIsCiAgICAgImNhdGVnb3J5TGFiZWwiOiAi5q2j5bi4IiwKICAgICAic2NvcmUiOiAxMDAsCiAgICAgIm1pbkluY2x1c2l2ZSI6IDE3LjksCiAgICAgIm1heEluY2x1c2l2ZSI6IDIzLjksCiAgICAgInNjYWxlZE1pbkluY2x1c2l2ZSI6IDE3OSwKICAgICAic2NhbGVkTWF4SW5jbHVzaXZlIjogMjM5LAogICAgICJyYXdEaXNwbGF5IjogIjE3Ljl+MjMuOSIKICAgIH0sCiAgICB7CiAgICAgImNhdGVnb3J5IjogInVuZGVyd2VpZ2h0IiwKICAgICAiY2F0ZWdvcnlMYWJlbCI6ICLkvY7kvZPph40iLAogICAgICJzY29yZSI6IDgwLAogICAgICJtaW5JbmNsdXNpdmUiOiBudWxsLAogICAgICJtYXhJbmNsdXNpdmUiOiAxNy44LAogICAgICJzY2FsZWRNaW5JbmNsdXNpdmUiOiBudWxsLAogICAgICJzY2FsZWRNYXhJbmNsdXNpdmUiOiAxNzgsCiAgICAgInJhd0Rpc3BsYXkiOiAi4omkMTcuOCIKICAgIH0sCiAgICB7CiAgICAgImNhdGVnb3J5IjogIm92ZXJ3ZWlnaHQiLAogICAgICJjYXRlZ29yeUxhYmVsIjogIui2hemHjSIsCiAgICAgInNjb3JlIjogODAsCiAgICAgIm1pbkluY2x1c2l2ZSI6IDI0LAogICAgICJtYXhJbmNsdXNpdmUiOiAyNy45LAogICAgICJzY2FsZWRNaW5JbmNsdXNpdmUiOiAyNDAsCiAgICAgInNjYWxlZE1heEluY2x1c2l2ZSI6IDI3OSwKICAgICAicmF3RGlzcGxheSI6ICIyNC4wfjI3LjkiCiAgICB9LAogICAgewogICAgICJjYXRlZ29yeSI6ICJvYmVzZSIsCiAgICAgImNhdGVnb3J5TGFiZWwiOiAi6IKl6IOWIiwKICAgICAic2NvcmUiOiA2MCwKICAgICAibWluSW5jbHVzaXZlIjogMjgsCiAgICAgIm1heEluY2x1c2l2ZSI6IG51bGwsCiAgICAgInNjYWxlZE1pbkluY2x1c2l2ZSI6IDI4MCwKICAgICAic2NhbGVkTWF4SW5jbHVzaXZlIjogbnVsbCwKICAgICAicmF3RGlzcGxheSI6ICLiiaUyOC4wIgogICAgfQogICBdLAogICAiZmVtYWxlIjogWwogICAgewogICAgICJjYXRlZ29yeSI6ICJub3JtYWwiLAogICAgICJjYXRlZ29yeUxhYmVsIjogIuato+W4uCIsCiAgICAgInNjb3JlIjogMTAwLAogICAgICJtaW5JbmNsdXNpdmUiOiAxNy4yLAogICAgICJtYXhJbmNsdXNpdmUiOiAyMy45LAogICAgICJzY2FsZWRNaW5JbmNsdXNpdmUiOiAxNzIsCiAgICAgInNjYWxlZE1heEluY2x1c2l2ZSI6IDIzOSwKICAgICAicmF3RGlzcGxheSI6ICIxNy4yfjIzLjkiCiAgICB9LAogICAgewogICAgICJjYXRlZ29yeSI6ICJ1bmRlcndlaWdodCIsCiAgICAgImNhdGVnb3J5TGFiZWwiOiAi5L2O5L2T6YeNIiwKICAgICAic2NvcmUiOiA4MCwKICAgICAibWluSW5jbHVzaXZlIjogbnVsbCwKICAgICAibWF4SW5jbHVzaXZlIjogMTcuMSwKICAgICAic2NhbGVkTWluSW5jbHVzaXZlIjogbnVsbCwKICAgICAic2NhbGVkTWF4SW5jbHVzaXZlIjogMTcxLAogICAgICJyYXdEaXNwbGF5IjogIuKJpDE3LjEiCiAgICB9LAogICAgewogICAgICJjYXRlZ29yeSI6ICJvdmVyd2VpZ2h0IiwKICAgICAiY2F0ZWdvcnlMYWJlbCI6ICLotoXph40iLAogICAgICJzY29yZSI6IDgwLAogICAgICJtaW5JbmNsdXNpdmUiOiAyNCwKICAgICAibWF4SW5jbHVzaXZlIjogMjcuOSwKICAgICAic2NhbGVkTWluSW5jbHVzaXZlIjogMjQwLAogICAgICJzY2FsZWRNYXhJbmNsdXNpdmUiOiAyNzksCiAgICAgInJhd0Rpc3BsYXkiOiAiMjQuMH4yNy45IgogICAgfSwKICAgIHsKICAgICAiY2F0ZWdvcnkiOiAib2Jlc2UiLAogICAgICJjYXRlZ29yeUxhYmVsIjogIuiCpeiDliIsCiAgICAgInNjb3JlIjogNjAsCiAgICAgIm1pbkluY2x1c2l2ZSI6IDI4LAogICAgICJtYXhJbmNsdXNpdmUiOiBudWxsLAogICAgICJzY2FsZWRNaW5JbmNsdXNpdmUiOiAyODAsCiAgICAgInNjYWxlZE1heEluY2x1c2l2ZSI6IG51bGwsCiAgICAgInJhd0Rpc3BsYXkiOiAi4omlMjguMCIKICAgIH0KICAgXQogIH0sCiAgInVucmVzb2x2ZWRHYXBzQnlHZW5kZXIiOiB7CiAgICJtYWxlIjogWwogICAgewogICAgICJsb3dlclRlbnRocyI6IDE3OCwKICAgICAidXBwZXJUZW50aHMiOiAxNzksCiAgICAgInJhbmdlRGlzcGxheSI6ICIoMTcuOCwgMTcuOSkiLAogICAgICJiZXR3ZWVuQ2F0ZWdvcmllcyI6IFsKICAgICAgInVuZGVyd2VpZ2h0IiwKICAgICAgIm5vcm1hbCIKICAgICBdCiAgICB9LAogICAgewogICAgICJsb3dlclRlbnRocyI6IDIzOSwKICAgICAidXBwZXJUZW50aHMiOiAyNDAsCiAgICAgInJhbmdlRGlzcGxheSI6ICIoMjMuOSwgMjQuMCkiLAogICAgICJiZXR3ZWVuQ2F0ZWdvcmllcyI6IFsKICAgICAgIm5vcm1hbCIsCiAgICAgICJvdmVyd2VpZ2h0IgogICAgIF0KICAgIH0sCiAgICB7CiAgICAgImxvd2VyVGVudGhzIjogMjc5LAogICAgICJ1cHBlclRlbnRocyI6IDI4MCwKICAgICAicmFuZ2VEaXNwbGF5IjogIigyNy45LCAyOC4wKSIsCiAgICAgImJldHdlZW5DYXRlZ29yaWVzIjogWwogICAgICAib3ZlcndlaWdodCIsCiAgICAgICJvYmVzZSIKICAgICBdCiAgICB9CiAgIF0sCiAgICJmZW1hbGUiOiBbCiAgICB7CiAgICAgImxvd2VyVGVudGhzIjogMTcxLAogICAgICJ1cHBlclRlbnRocyI6IDE3MiwKICAgICAicmFuZ2VEaXNwbGF5IjogIigxNy4xLCAxNy4yKSIsCiAgICAgImJldHdlZW5DYXRlZ29yaWVzIjogWwogICAgICAidW5kZXJ3ZWlnaHQiLAogICAgICAibm9ybWFsIgogICAgIF0KICAgIH0sCiAgICB7CiAgICAgImxvd2VyVGVudGhzIjogMjM5LAogICAgICJ1cHBlclRlbnRocyI6IDI0MCwKICAgICAicmFuZ2VEaXNwbGF5IjogIigyMy45LCAyNC4wKSIsCiAgICAgImJldHdlZW5DYXRlZ29yaWVzIjogWwogICAgICAibm9ybWFsIiwKICAgICAgIm92ZXJ3ZWlnaHQiCiAgICAgXQogICAgfSwKICAgIHsKICAgICAibG93ZXJUZW50aHMiOiAyNzksCiAgICAgInVwcGVyVGVudGhzIjogMjgwLAogICAgICJyYW5nZURpc3BsYXkiOiAiKDI3LjksIDI4LjApIiwKICAgICAiYmV0d2VlbkNhdGVnb3JpZXMiOiBbCiAgICAgICJvdmVyd2VpZ2h0IiwKICAgICAgIm9iZXNlIgogICAgIF0KICAgIH0KICAgXQogIH0KIH0sCiAidW5yZXNvbHZlZFJ1bGVzIjogewogICJibWlfYm91bmRhcnlfcHJlY2lzaW9uX3VucmVzb2x2ZWQiOiB7CiAgICJjb2RlIjogImJtaV9ib3VuZGFyeV9wcmVjaXNpb25fdW5yZXNvbHZlZCIsCiAgICJzdGF0dXMiOiAidW5yZXNvbHZlZCIsCiAgICJhZmZlY3RlZEV2ZW50cyI6IFsKICAgICJibWkiCiAgIF0sCiAgICJkZXNjcmlwdGlvbiI6ICLlm73lrrbmoIflh4ZCTUnor4TliIbooajku4XliJfnpLrkuIDkvY3lsI/mlbDljLrpl7TvvIjlpoLnlLfmraPluLgxNy45fjIzLjnjgIHkvY7kvZPph43iiaQxNy4444CB6LaF6YeNMjQuMH4yNy4544CB6IKl6IOW4omlMjguMO+8m+Wls+ato+W4uDE3LjJ+MjMuOeOAgeS9juS9k+mHjeKJpDE3LjHvvInvvIzmnKrlnKjmoIflh4booajms6jkuK3op4Tlrprljp/lp4tCTUnkv53nlZnkuIDkvY3lsI/mlbDph4fnlKjlm5voiI3kupTlhaXjgIHmiKrmlq3ov5jmmK/nm7TmjqXmr5TovoPjgILokL3lhaXnm7jpgrvkuIDkvY3lsI/mlbDlvIDljLrpl7TnqbrpmpnvvIjlpoIxNy44NeOAgTIzLjk144CBMjcuOTXvvInml7bml6Dms5Xnoa7lrprllK/kuIDliIbnsbvvvIzov5Tlm551bnJlc29sdmVk44CCIgogIH0sCiAgIm1lYXN1cmVtZW50X3ByZWNpc2lvbl9yb3VuZGluZ191bnJlc29sdmVkIjogewogICAiY29kZSI6ICJtZWFzdXJlbWVudF9wcmVjaXNpb25fcm91bmRpbmdfdW5yZXNvbHZlZCIsCiAgICJzdGF0dXMiOiAidW5yZXNvbHZlZCIsCiAgICJhZmZlY3RlZEV2ZW50cyI6IFsKICAgICJ2aXRhbENhcGFjaXR5IiwKICAgICJzcHJpbnQ1MG0iLAogICAgInNpdEFuZFJlYWNoIiwKICAgICJzdGFuZGluZ0xvbmdKdW1wIgogICBdLAogICAiZGVzY3JpcHRpb24iOiAi5b2T6L6T5YWl55qE5Y6f5aeL5rWL6YeP5YC857K+5bqm6auY5LqO6K+E5YiG6KGo5Yi75bqm77yI5L6L5aaCNTDnsbPot5HovpPlhaXkuKTkvY3lsI/mlbA2Ljc156eS44CB5Z2Q5L2N5L2T5YmN5bGI6L6T5YWl5Lik5L2N5bCP5pWwMjQuODXljpjnsbPvvInkuJTlkJHkuIvlj5bkvY3kuI7lkJHkuIrlj5bkvY3ot6jotorkuI3lkIzlvpfliIbmoaPkvY3ml7bvvIzlm6DmnKrmoLjlrp7lrabmoKHnlLXlrZDorr7lpIfnu5/kuIDlj5bkvY3op4TliJnvvIznpoHmraLmk4Xoh6rlm5voiI3kupTlhaXmiJbmiKrmlq3vvIzov5Tlm551bnJlc29sdmVk44CCIgogIH0sCiAgImN1Y18yMDI0X3BvbGljeV9tdWx0aV95ZWFyX3Njb3BlX3VucmVzb2x2ZWQiOiB7CiAgICJjb2RlIjogImN1Y18yMDI0X3BvbGljeV9tdWx0aV95ZWFyX3Njb3BlX3VucmVzb2x2ZWQiLAogICAic3RhdHVzIjogInVucmVzb2x2ZWQiLAogICAiYWZmZWN0ZWRFdmVudHMiOiBbXSwKICAgImRlc2NyaXB0aW9uIjogIuOAiuS4reWbveS8oOWqkuWkp+WtpuOAiOWbveWutuWtpueUn+S9k+i0qOWBpeW6t+agh+WHhuOAieWunuaWveWKnuazle+8iDIwMjTlubTkv67orqLvvInjgIvvvIjmnKznp5HnlJ/pmaLjgJQyMDI044CVMTE15Y+377yJ5piO56Gu6IeqMjAyNOe6p+acrOenkeeUn+i1t+aWveihjO+8m+WtpueUn+W3peS9nOmDqEhUTUzmraPmloflt7Lor7vlj5bvvIzpmYTku7ZQREbmnKrlj6bkuIvovb3vvIzmr5XkuJrnu7zlkIjmiJDnu6nmipjnrpfjgIHlhY3mtYvjgIHooaXmtYvjgIHor4TlpZbotYTmoLzlj4oyMDIz57qn5Y+K5pu05pep5a2m55Sf6YCC55So57uG5YiZ55qE5a6M5pW05a6e546w5LiO5bqU55So5LuN5LiN5ZyoUGhhc2UgMeiMg+WbtOWGhe+8jOS4jeWboOivu+WPluato+aWh+iHquWKqOinhuS4uuW3suWujOaIkOeuoeeQhuinhOWImeaguOmqjOOAgiIKICB9CiB9Cn0K
+{
+ "meta": {
+  "standardName": "《国家学生体质健康标准（2014年修订）》",
+  "standardDocNo": "教体艺〔2014〕5号",
+  "schoolPolicyName": "《中国传媒大学〈国家学生体质健康标准〉实施办法（2024年修订）》",
+  "schoolPolicyDocNo": "本科生院〔2024〕115号",
+  "policyEffectiveScope": "自2024级本科生起施行（2023级及更早年级适用性不在本阶段单学年国家标准算分中强行推断）",
+  "phaseScope": "single_academic_year_undergraduate_only",
+  "verifiedDate": "2026-10-19",
+  "derivedAt": "2026-11-09",
+  "sourceModule": "data/fitness-standard.js",
+  "sourceSha256": "51d2afd929da9290",
+  "transcriber": "tools/tice_build_json.js"
+ },
+ "scoreLadder": [
+  {
+   "score": 100,
+   "level": "优秀"
+  },
+  {
+   "score": 95,
+   "level": "优秀"
+  },
+  {
+   "score": 90,
+   "level": "优秀"
+  },
+  {
+   "score": 85,
+   "level": "良好"
+  },
+  {
+   "score": 80,
+   "level": "良好"
+  },
+  {
+   "score": 78,
+   "level": "及格"
+  },
+  {
+   "score": 76,
+   "level": "及格"
+  },
+  {
+   "score": 74,
+   "level": "及格"
+  },
+  {
+   "score": 72,
+   "level": "及格"
+  },
+  {
+   "score": 70,
+   "level": "及格"
+  },
+  {
+   "score": 68,
+   "level": "及格"
+  },
+  {
+   "score": 66,
+   "level": "及格"
+  },
+  {
+   "score": 64,
+   "level": "及格"
+  },
+  {
+   "score": 62,
+   "level": "及格"
+  },
+  {
+   "score": 60,
+   "level": "及格"
+  },
+  {
+   "score": 50,
+   "level": "不及格"
+  },
+  {
+   "score": 40,
+   "level": "不及格"
+  },
+  {
+   "score": 30,
+   "level": "不及格"
+  },
+  {
+   "score": 20,
+   "level": "不及格"
+  },
+  {
+   "score": 10,
+   "level": "不及格"
+  }
+ ],
+ "limits": {
+  "maxStandardScore": 100,
+  "maxSingleBonusScore": 10,
+  "maxTotalBonusScore": 20,
+  "maxTotalScore": 120
+ },
+ "weights": {
+  "bmi": 15,
+  "vitalCapacity": 15,
+  "sprint50m": 20,
+  "sitAndReach": 10,
+  "standingLongJump": 10,
+  "pullUps": 10,
+  "run1000m": 20,
+  "sitUps": 10,
+  "run800m": 20
+ },
+ "gradeGroups": {
+  "GRADE_12": "grade12",
+  "GRADE_34": "grade34"
+ },
+ "gradeToGroup": {
+  "大一": "grade12",
+  "大二": "grade12",
+  "大三": "grade34",
+  "大四": "grade34"
+ },
+ "events": {
+  "vitalCapacity": {
+   "name": "肺活量",
+   "tableCode": "表1-2",
+   "unit": "mL",
+   "unitLabel": "毫升",
+   "direction": "higher_is_better",
+   "scale": 1,
+   "decimalPlaces": 0,
+   "unitType": "number",
+   "weightPercent": 15,
+   "bonusEligible": false,
+   "integerOnly": false,
+   "belowMinimumRuleStatus": "zero_score",
+   "allowZero": true,
+   "allowNegative": false,
+   "bonusDeltas": null,
+   "thresholds": {
+    "male": {
+     "grade12": [
+      5040,
+      4920,
+      4800,
+      4550,
+      4300,
+      4180,
+      4060,
+      3940,
+      3820,
+      3700,
+      3580,
+      3460,
+      3340,
+      3220,
+      3100,
+      2940,
+      2780,
+      2620,
+      2460,
+      2300
+     ],
+     "grade34": [
+      5140,
+      5020,
+      4900,
+      4650,
+      4400,
+      4280,
+      4160,
+      4040,
+      3920,
+      3800,
+      3680,
+      3560,
+      3440,
+      3320,
+      3200,
+      3030,
+      2860,
+      2690,
+      2520,
+      2350
+     ]
+    },
+    "female": {
+     "grade12": [
+      3400,
+      3350,
+      3300,
+      3150,
+      3000,
+      2900,
+      2800,
+      2700,
+      2600,
+      2500,
+      2400,
+      2300,
+      2200,
+      2100,
+      2000,
+      1960,
+      1920,
+      1880,
+      1840,
+      1800
+     ],
+     "grade34": [
+      3450,
+      3400,
+      3350,
+      3200,
+      3050,
+      2950,
+      2850,
+      2750,
+      2650,
+      2550,
+      2450,
+      2350,
+      2250,
+      2150,
+      2050,
+      2010,
+      1970,
+      1930,
+      1890,
+      1850
+     ]
+    }
+   },
+   "genders": [
+    "female",
+    "male"
+   ]
+  },
+  "sprint50m": {
+   "name": "50米跑",
+   "tableCode": "表1-3",
+   "unit": "s",
+   "unitLabel": "秒",
+   "direction": "lower_is_better",
+   "scale": 10,
+   "decimalPlaces": 1,
+   "unitType": "number",
+   "weightPercent": 20,
+   "bonusEligible": false,
+   "integerOnly": false,
+   "belowMinimumRuleStatus": "zero_score",
+   "allowZero": false,
+   "allowNegative": false,
+   "bonusDeltas": null,
+   "thresholds": {
+    "male": {
+     "grade12": [
+      6.7,
+      6.8,
+      6.9,
+      7,
+      7.1,
+      7.3,
+      7.5,
+      7.7,
+      7.9,
+      8.1,
+      8.3,
+      8.5,
+      8.7,
+      8.9,
+      9.1,
+      9.3,
+      9.5,
+      9.7,
+      9.9,
+      10.1
+     ],
+     "grade34": [
+      6.6,
+      6.7,
+      6.8,
+      6.9,
+      7,
+      7.2,
+      7.4,
+      7.6,
+      7.8,
+      8,
+      8.2,
+      8.4,
+      8.6,
+      8.8,
+      9,
+      9.2,
+      9.4,
+      9.6,
+      9.8,
+      10
+     ]
+    },
+    "female": {
+     "grade12": [
+      7.5,
+      7.6,
+      7.7,
+      8,
+      8.3,
+      8.5,
+      8.7,
+      8.9,
+      9.1,
+      9.3,
+      9.5,
+      9.7,
+      9.9,
+      10.1,
+      10.3,
+      10.5,
+      10.7,
+      10.9,
+      11.1,
+      11.3
+     ],
+     "grade34": [
+      7.4,
+      7.5,
+      7.6,
+      7.9,
+      8.2,
+      8.4,
+      8.6,
+      8.8,
+      9,
+      9.2,
+      9.4,
+      9.6,
+      9.8,
+      10,
+      10.2,
+      10.4,
+      10.6,
+      10.8,
+      11,
+      11.2
+     ]
+    }
+   },
+   "genders": [
+    "female",
+    "male"
+   ]
+  },
+  "sitAndReach": {
+   "name": "坐位体前屈",
+   "tableCode": "表1-4",
+   "unit": "cm",
+   "unitLabel": "厘米",
+   "direction": "higher_is_better",
+   "scale": 10,
+   "decimalPlaces": 1,
+   "unitType": "number",
+   "weightPercent": 10,
+   "bonusEligible": false,
+   "integerOnly": false,
+   "belowMinimumRuleStatus": "zero_score",
+   "allowZero": true,
+   "allowNegative": true,
+   "bonusDeltas": null,
+   "thresholds": {
+    "male": {
+     "grade12": [
+      24.9,
+      23.1,
+      21.3,
+      19.5,
+      17.7,
+      16.3,
+      14.9,
+      13.5,
+      12.1,
+      10.7,
+      9.3,
+      7.9,
+      6.5,
+      5.1,
+      3.7,
+      2.7,
+      1.7,
+      0.7,
+      -0.3,
+      -1.3
+     ],
+     "grade34": [
+      25.1,
+      23.3,
+      21.5,
+      19.9,
+      18.2,
+      16.8,
+      15.4,
+      14,
+      12.6,
+      11.2,
+      9.8,
+      8.4,
+      7,
+      5.6,
+      4.2,
+      3.2,
+      2.2,
+      1.2,
+      0.2,
+      -0.8
+     ]
+    },
+    "female": {
+     "grade12": [
+      25.8,
+      24,
+      22.2,
+      20.6,
+      19,
+      17.7,
+      16.4,
+      15.1,
+      13.8,
+      12.5,
+      11.2,
+      9.9,
+      8.6,
+      7.3,
+      6,
+      5.2,
+      4.4,
+      3.6,
+      2.8,
+      2
+     ],
+     "grade34": [
+      26.3,
+      24.4,
+      22.4,
+      21,
+      19.5,
+      18.2,
+      16.9,
+      15.6,
+      14.3,
+      13,
+      11.7,
+      10.4,
+      9.1,
+      7.8,
+      6.5,
+      5.7,
+      4.9,
+      4.1,
+      3.3,
+      2.5
+     ]
+    }
+   },
+   "genders": [
+    "female",
+    "male"
+   ]
+  },
+  "standingLongJump": {
+   "name": "立定跳远",
+   "tableCode": "表1-5",
+   "unit": "cm",
+   "unitLabel": "厘米",
+   "direction": "higher_is_better",
+   "scale": 1,
+   "decimalPlaces": 0,
+   "unitType": "number",
+   "weightPercent": 10,
+   "bonusEligible": false,
+   "integerOnly": false,
+   "belowMinimumRuleStatus": "zero_score",
+   "allowZero": true,
+   "allowNegative": false,
+   "bonusDeltas": null,
+   "thresholds": {
+    "male": {
+     "grade12": [
+      273,
+      268,
+      263,
+      256,
+      248,
+      244,
+      240,
+      236,
+      232,
+      228,
+      224,
+      220,
+      216,
+      212,
+      208,
+      203,
+      198,
+      193,
+      188,
+      183
+     ],
+     "grade34": [
+      275,
+      270,
+      265,
+      258,
+      250,
+      246,
+      242,
+      238,
+      234,
+      230,
+      226,
+      222,
+      218,
+      214,
+      210,
+      205,
+      200,
+      195,
+      190,
+      185
+     ]
+    },
+    "female": {
+     "grade12": [
+      207,
+      201,
+      195,
+      188,
+      181,
+      178,
+      175,
+      172,
+      169,
+      166,
+      163,
+      160,
+      157,
+      154,
+      151,
+      146,
+      141,
+      136,
+      131,
+      126
+     ],
+     "grade34": [
+      208,
+      202,
+      196,
+      189,
+      182,
+      179,
+      176,
+      173,
+      170,
+      167,
+      164,
+      161,
+      158,
+      155,
+      152,
+      147,
+      142,
+      137,
+      132,
+      127
+     ]
+    }
+   },
+   "genders": [
+    "female",
+    "male"
+   ]
+  },
+  "pullUps": {
+   "name": "引体向上",
+   "tableCode": "表1-6",
+   "unit": "count",
+   "unitLabel": "次",
+   "direction": "higher_is_better",
+   "scale": 1,
+   "decimalPlaces": 0,
+   "unitType": "number",
+   "weightPercent": 10,
+   "bonusEligible": true,
+   "integerOnly": true,
+   "belowMinimumRuleStatus": "zero_score",
+   "allowZero": true,
+   "allowNegative": false,
+   "bonusDeltas": [
+    {
+     "bonusScore": 10,
+     "delta": 10
+    },
+    {
+     "bonusScore": 9,
+     "delta": 9
+    },
+    {
+     "bonusScore": 8,
+     "delta": 8
+    },
+    {
+     "bonusScore": 7,
+     "delta": 7
+    },
+    {
+     "bonusScore": 6,
+     "delta": 6
+    },
+    {
+     "bonusScore": 5,
+     "delta": 5
+    },
+    {
+     "bonusScore": 4,
+     "delta": 4
+    },
+    {
+     "bonusScore": 3,
+     "delta": 3
+    },
+    {
+     "bonusScore": 2,
+     "delta": 2
+    },
+    {
+     "bonusScore": 1,
+     "delta": 1
+    }
+   ],
+   "thresholds": {
+    "male": {
+     "grade12": [
+      19,
+      18,
+      17,
+      16,
+      15,
+      null,
+      14,
+      null,
+      13,
+      null,
+      12,
+      null,
+      11,
+      null,
+      10,
+      9,
+      8,
+      7,
+      6,
+      5
+     ],
+     "grade34": [
+      20,
+      19,
+      18,
+      17,
+      16,
+      null,
+      15,
+      null,
+      14,
+      null,
+      13,
+      null,
+      12,
+      null,
+      11,
+      10,
+      9,
+      8,
+      7,
+      6
+     ]
+    }
+   },
+   "genders": [
+    "male"
+   ]
+  },
+  "run1000m": {
+   "name": "1000米跑",
+   "tableCode": "表1-8",
+   "unit": "s",
+   "unitLabel": "分·秒",
+   "direction": "lower_is_better",
+   "scale": 1,
+   "decimalPlaces": 0,
+   "unitType": "mmss",
+   "weightPercent": 20,
+   "bonusEligible": true,
+   "integerOnly": true,
+   "belowMinimumRuleStatus": "zero_score",
+   "allowZero": false,
+   "allowNegative": false,
+   "bonusDeltas": [
+    {
+     "bonusScore": 10,
+     "reductionSeconds": 35
+    },
+    {
+     "bonusScore": 9,
+     "reductionSeconds": 32
+    },
+    {
+     "bonusScore": 8,
+     "reductionSeconds": 29
+    },
+    {
+     "bonusScore": 7,
+     "reductionSeconds": 26
+    },
+    {
+     "bonusScore": 6,
+     "reductionSeconds": 23
+    },
+    {
+     "bonusScore": 5,
+     "reductionSeconds": 20
+    },
+    {
+     "bonusScore": 4,
+     "reductionSeconds": 16
+    },
+    {
+     "bonusScore": 3,
+     "reductionSeconds": 12
+    },
+    {
+     "bonusScore": 2,
+     "reductionSeconds": 8
+    },
+    {
+     "bonusScore": 1,
+     "reductionSeconds": 4
+    }
+   ],
+   "thresholds": {
+    "male": {
+     "grade12": [
+      197,
+      202,
+      207,
+      214,
+      222,
+      227,
+      232,
+      237,
+      242,
+      247,
+      252,
+      257,
+      262,
+      267,
+      272,
+      292,
+      312,
+      332,
+      352,
+      372
+     ],
+     "grade34": [
+      195,
+      200,
+      205,
+      212,
+      220,
+      225,
+      230,
+      235,
+      240,
+      245,
+      250,
+      255,
+      260,
+      265,
+      270,
+      290,
+      310,
+      330,
+      350,
+      370
+     ]
+    }
+   },
+   "genders": [
+    "male"
+   ]
+  },
+  "sitUps": {
+   "name": "一分钟仰卧起坐",
+   "tableCode": "表1-7",
+   "unit": "count",
+   "unitLabel": "次",
+   "direction": "higher_is_better",
+   "scale": 1,
+   "decimalPlaces": 0,
+   "unitType": "number",
+   "weightPercent": 10,
+   "bonusEligible": true,
+   "integerOnly": true,
+   "belowMinimumRuleStatus": "zero_score",
+   "allowZero": true,
+   "allowNegative": false,
+   "bonusDeltas": [
+    {
+     "bonusScore": 10,
+     "delta": 13
+    },
+    {
+     "bonusScore": 9,
+     "delta": 12
+    },
+    {
+     "bonusScore": 8,
+     "delta": 11
+    },
+    {
+     "bonusScore": 7,
+     "delta": 10
+    },
+    {
+     "bonusScore": 6,
+     "delta": 9
+    },
+    {
+     "bonusScore": 5,
+     "delta": 8
+    },
+    {
+     "bonusScore": 4,
+     "delta": 7
+    },
+    {
+     "bonusScore": 3,
+     "delta": 6
+    },
+    {
+     "bonusScore": 2,
+     "delta": 4
+    },
+    {
+     "bonusScore": 1,
+     "delta": 2
+    }
+   ],
+   "thresholds": {
+    "female": {
+     "grade12": [
+      56,
+      54,
+      52,
+      49,
+      46,
+      44,
+      42,
+      40,
+      38,
+      36,
+      34,
+      32,
+      30,
+      28,
+      26,
+      24,
+      22,
+      20,
+      18,
+      16
+     ],
+     "grade34": [
+      57,
+      55,
+      53,
+      50,
+      47,
+      45,
+      43,
+      41,
+      39,
+      37,
+      35,
+      33,
+      31,
+      29,
+      27,
+      25,
+      23,
+      21,
+      19,
+      17
+     ]
+    }
+   },
+   "genders": [
+    "female"
+   ]
+  },
+  "run800m": {
+   "name": "800米跑",
+   "tableCode": "表1-8",
+   "unit": "s",
+   "unitLabel": "分·秒",
+   "direction": "lower_is_better",
+   "scale": 1,
+   "decimalPlaces": 0,
+   "unitType": "mmss",
+   "weightPercent": 20,
+   "bonusEligible": true,
+   "integerOnly": true,
+   "belowMinimumRuleStatus": "zero_score",
+   "allowZero": false,
+   "allowNegative": false,
+   "bonusDeltas": [
+    {
+     "bonusScore": 10,
+     "reductionSeconds": 50
+    },
+    {
+     "bonusScore": 9,
+     "reductionSeconds": 45
+    },
+    {
+     "bonusScore": 8,
+     "reductionSeconds": 40
+    },
+    {
+     "bonusScore": 7,
+     "reductionSeconds": 35
+    },
+    {
+     "bonusScore": 6,
+     "reductionSeconds": 30
+    },
+    {
+     "bonusScore": 5,
+     "reductionSeconds": 25
+    },
+    {
+     "bonusScore": 4,
+     "reductionSeconds": 20
+    },
+    {
+     "bonusScore": 3,
+     "reductionSeconds": 15
+    },
+    {
+     "bonusScore": 2,
+     "reductionSeconds": 10
+    },
+    {
+     "bonusScore": 1,
+     "reductionSeconds": 5
+    }
+   ],
+   "thresholds": {
+    "female": {
+     "grade12": [
+      198,
+      204,
+      210,
+      217,
+      224,
+      229,
+      234,
+      239,
+      244,
+      249,
+      254,
+      259,
+      264,
+      269,
+      274,
+      284,
+      294,
+      304,
+      314,
+      324
+     ],
+     "grade34": [
+      196,
+      202,
+      208,
+      215,
+      222,
+      227,
+      232,
+      237,
+      242,
+      247,
+      252,
+      257,
+      262,
+      267,
+      272,
+      282,
+      292,
+      302,
+      312,
+      322
+     ]
+    }
+   },
+   "genders": [
+    "female"
+   ]
+  }
+ },
+ "bmi": {
+  "unit": "kg/m2",
+  "unitLabel": "千克/米²",
+  "scale": 10,
+  "weightPercent": 15,
+  "allowZero": false,
+  "allowNegative": false,
+  "categoriesByGender": {
+   "male": [
+    {
+     "category": "normal",
+     "categoryLabel": "正常",
+     "score": 100,
+     "minInclusive": 17.9,
+     "maxInclusive": 23.9,
+     "scaledMinInclusive": 179,
+     "scaledMaxInclusive": 239,
+     "rawDisplay": "17.9~23.9"
+    },
+    {
+     "category": "underweight",
+     "categoryLabel": "低体重",
+     "score": 80,
+     "minInclusive": null,
+     "maxInclusive": 17.8,
+     "scaledMinInclusive": null,
+     "scaledMaxInclusive": 178,
+     "rawDisplay": "≤17.8"
+    },
+    {
+     "category": "overweight",
+     "categoryLabel": "超重",
+     "score": 80,
+     "minInclusive": 24,
+     "maxInclusive": 27.9,
+     "scaledMinInclusive": 240,
+     "scaledMaxInclusive": 279,
+     "rawDisplay": "24.0~27.9"
+    },
+    {
+     "category": "obese",
+     "categoryLabel": "肥胖",
+     "score": 60,
+     "minInclusive": 28,
+     "maxInclusive": null,
+     "scaledMinInclusive": 280,
+     "scaledMaxInclusive": null,
+     "rawDisplay": "≥28.0"
+    }
+   ],
+   "female": [
+    {
+     "category": "normal",
+     "categoryLabel": "正常",
+     "score": 100,
+     "minInclusive": 17.2,
+     "maxInclusive": 23.9,
+     "scaledMinInclusive": 172,
+     "scaledMaxInclusive": 239,
+     "rawDisplay": "17.2~23.9"
+    },
+    {
+     "category": "underweight",
+     "categoryLabel": "低体重",
+     "score": 80,
+     "minInclusive": null,
+     "maxInclusive": 17.1,
+     "scaledMinInclusive": null,
+     "scaledMaxInclusive": 171,
+     "rawDisplay": "≤17.1"
+    },
+    {
+     "category": "overweight",
+     "categoryLabel": "超重",
+     "score": 80,
+     "minInclusive": 24,
+     "maxInclusive": 27.9,
+     "scaledMinInclusive": 240,
+     "scaledMaxInclusive": 279,
+     "rawDisplay": "24.0~27.9"
+    },
+    {
+     "category": "obese",
+     "categoryLabel": "肥胖",
+     "score": 60,
+     "minInclusive": 28,
+     "maxInclusive": null,
+     "scaledMinInclusive": 280,
+     "scaledMaxInclusive": null,
+     "rawDisplay": "≥28.0"
+    }
+   ]
+  },
+  "unresolvedGapsByGender": {
+   "male": [
+    {
+     "lowerTenths": 178,
+     "upperTenths": 179,
+     "rangeDisplay": "(17.8, 17.9)",
+     "betweenCategories": [
+      "underweight",
+      "normal"
+     ]
+    },
+    {
+     "lowerTenths": 239,
+     "upperTenths": 240,
+     "rangeDisplay": "(23.9, 24.0)",
+     "betweenCategories": [
+      "normal",
+      "overweight"
+     ]
+    },
+    {
+     "lowerTenths": 279,
+     "upperTenths": 280,
+     "rangeDisplay": "(27.9, 28.0)",
+     "betweenCategories": [
+      "overweight",
+      "obese"
+     ]
+    }
+   ],
+   "female": [
+    {
+     "lowerTenths": 171,
+     "upperTenths": 172,
+     "rangeDisplay": "(17.1, 17.2)",
+     "betweenCategories": [
+      "underweight",
+      "normal"
+     ]
+    },
+    {
+     "lowerTenths": 239,
+     "upperTenths": 240,
+     "rangeDisplay": "(23.9, 24.0)",
+     "betweenCategories": [
+      "normal",
+      "overweight"
+     ]
+    },
+    {
+     "lowerTenths": 279,
+     "upperTenths": 280,
+     "rangeDisplay": "(27.9, 28.0)",
+     "betweenCategories": [
+      "overweight",
+      "obese"
+     ]
+    }
+   ]
+  }
+ },
+ "unresolvedRules": {
+  "bmi_boundary_precision_unresolved": {
+   "code": "bmi_boundary_precision_unresolved",
+   "status": "unresolved",
+   "affectedEvents": [
+    "bmi"
+   ],
+   "description": "国家标准BMI评分表仅列示一位小数区间（如男正常17.9~23.9、低体重≤17.8、超重24.0~27.9、肥胖≥28.0；女正常17.2~23.9、低体重≤17.1），未在标准表注中规定原始BMI保留一位小数采用四舍五入、截断还是直接比较。落入相邻一位小数开区间空隙（如17.85、23.95、27.95）时无法确定唯一分类，返回unresolved。"
+  },
+  "measurement_precision_rounding_unresolved": {
+   "code": "measurement_precision_rounding_unresolved",
+   "status": "unresolved",
+   "affectedEvents": [
+    "vitalCapacity",
+    "sprint50m",
+    "sitAndReach",
+    "standingLongJump"
+   ],
+   "description": "当输入的原始测量值精度高于评分表刻度（例如50米跑输入两位小数6.75秒、坐位体前屈输入两位小数24.85厘米）且向下取位与向上取位跨越不同得分档位时，因未核实学校电子设备统一取位规则，禁止擅自四舍五入或截断，返回unresolved。"
+  },
+  "cuc_2024_policy_multi_year_scope_unresolved": {
+   "code": "cuc_2024_policy_multi_year_scope_unresolved",
+   "status": "unresolved",
+   "affectedEvents": [],
+   "description": "《中国传媒大学〈国家学生体质健康标准〉实施办法（2024年修订）》（本科生院〔2024〕115号）明确自2024级本科生起施行；学生工作部HTML正文已读取，附件PDF未另下载，毕业综合成绩折算、免测、补测、评奖资格及2023级及更早学生适用细则的完整实现与应用仍不在Phase 1范围内，不因读取正文自动视为已完成管理规则核验。"
+  }
+ }
+}

@@ -1,1 +1,194 @@
-ew0KICJrZXkiOiAieHQtdHVpbWlhbi0yMDI3LXhpemUiLA0KICJ0aXRsZSI6ICLkv6Hmga/kuI7pgJrkv6Hlt6XnqIvlrabpmaIgMjAyNyDlubTmjqjojZDkvJjnp4DlupTlsYrmnKznp5Hmr5XkuJrnlJ/lhY3or5XmlLvor7vnoJTnqbbnlJ/lt6XkvZzlrp7mlr3nu4bliJkiLA0KICJ0cnVuY2F0ZWQiOiBmYWxzZSwNCiAic2VjdGlvbnMiOiBbDQogIHsNCiAgICJubyI6ICLkuIAiLA0KICAgImhlYWRpbmciOiAi5o6o6I2Q5Y6f5YiZIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNCwNCiAgICAyNw0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMzA3LA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiDQogIH0sDQogIHsNCiAgICJubyI6ICLkuowiLA0KICAgImhlYWRpbmciOiAi57uE57uH6aKG5a+8IiwNCiAgICJsaW5lcyI6IFsNCiAgICAyOCwNCiAgICAzNQ0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTIzLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiDQogIH0sDQogIHsNCiAgICJubyI6ICLkuIkiLA0KICAgImhlYWRpbmciOiAi5o6o6I2Q5ZCN6aKdIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzNiwNCiAgICA0MA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAieHQtdHVpbWlhbi0yMDI3LW1pbmdjZSIsDQogICAgInh0LXR1aW1pYW4tMjAyNy16aGlqaWFvdHVhbiINCiAgIF0sDQogICAiY2hhcnMiOiA3MywNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIg0KICB9LA0KICB7DQogICAibm8iOiAi5ZubIiwNCiAgICJoZWFkaW5nIjogIueUs+ivt+adoeS7tiIsDQogICAibGluZXMiOiBbDQogICAgNDEsDQogICAgNTENCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInh0LXR1aW1pYW4tMjAyNy10aWFvamlhbiINCiAgIF0sDQogICAiY2hhcnMiOiAyMDksDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciINCiAgfSwNCiAgew0KICAgIm5vIjogIuS6lCIsDQogICAiaGVhZGluZyI6ICLmjqjlhY3nu7zlkIjor4Tku7fmiJDnu6norqHnrpciLA0KICAgImxpbmVzIjogWw0KICAgIDUzLA0KICAgIDg5DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJ4dC10dWltaWFuLTIwMjctY2hlbmdqaSIsDQogICAgInh0LXR1aW1pYW4tMjAyNy1xdWFubWlhbi1mYXpoYW4iDQogICBdLA0KICAgImNoYXJzIjogNzgxLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiDQogIH0sDQogIHsNCiAgICJubyI6ICLkupTvvIjkuIDvvIkiLA0KICAgImhlYWRpbmciOiAi57u85ZCI5oiQ57up6K6h566X5YWs5byP77yIOTAlLzEwJe+8iSIsDQogICAibGluZXMiOiBbDQogICAgNTgsDQogICAgNTkNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInh0LXR1aW1pYW4tMjAyNy1jaGVuZ2ppIiwNCiAgICAieHQtdHVpbWlhbi0yMDI3LXF1YW5taWFuLWZhemhhbiINCiAgIF0sDQogICAiY2hhcnMiOiA0MiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCINCiAgfSwNCiAgew0KICAgIm5vIjogIuS6lO+8iOS6jO+8iSIsDQogICAiaGVhZGluZyI6ICLlrabkuJrooajnjrDlvpfliIbkuI4gR1BBIOaNoueulyIsDQogICAibGluZXMiOiBbDQogICAgNjAsDQogICAgODQNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInh0LXR1aW1pYW4tMjAyNy1jaGVuZ2ppIg0KICAgXSwNCiAgICJjaGFycyI6IDU3NiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCINCiAgfSwNCiAgew0KICAgIm5vIjogIuS6lO+8iOS4ie+8iSIsDQogICAiaGVhZGluZyI6ICLlhajpnaLlj5HlsZXotYvliIYiLA0KICAgImxpbmVzIjogWw0KICAgIDg1LA0KICAgIDg5DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJ4dC10dWltaWFuLTIwMjctY2hlbmdqaSIsDQogICAgInh0LXR1aW1pYW4tMjAyNy1xdWFubWlhbi1mYXpoYW4iDQogICBdLA0KICAgImNoYXJzIjogOTcsDQogICAibm90ZSI6ICLkurrlt6XooaXlhYXvvJror6XoioLkuLvpopjljbPlhajpnaLlj5HlsZXotYvliIbvvIjlvJXmlofokL3lnKjkuIrnuqflhazlvI/lj6XvvIzmnLrmorDlrprkvY3kuI3ov5vlrZDoioLvvIkiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiDQogIH0sDQogIHsNCiAgICJubyI6ICLlha0iLA0KICAgImhlYWRpbmciOiAi5b2V5Y+W5Y+K6YCS6KGl6KeE5YiZIiwNCiAgICJsaW5lcyI6IFsNCiAgICA5MSwNCiAgICAxMDQNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInh0LXR1aW1pYW4tMjAyNy1taW5nY2UiLA0KICAgICJ4dC10dWltaWFuLTIwMjctemhpamlhb3R1YW4iDQogICBdLA0KICAgImNoYXJzIjogMjU5LA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiDQogIH0sDQogIHsNCiAgICJubyI6ICLkuIMiLA0KICAgImhlYWRpbmciOiAi55Sz6K+356iL5bqP5LiO5oiq5q2i5pe26Ze0IiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMDYsDQogICAgMTMwDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJ4dC10dWltaWFuLTIwMjctY2FpbGlhbyIsDQogICAgInh0LXR1aW1pYW4tMjAyNy1zaGVucWluZy1saXVjaGVuZyIsDQogICAgInh0LXR1aW1pYW4tMjAyNy16aGlqaWFvdHVhbiINCiAgIF0sDQogICAiY2hhcnMiOiA1NzcsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiDQogIH0sDQogIHsNCiAgICJubyI6ICLkuIPvvIjljp/mlofph43lpI3nvJblj7fvvIkiLA0KICAgImhlYWRpbmciOiAi55uR552j5LiO55Sz6K+JIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMzEsDQogICAgMTUzDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJ4dC10dWltaWFuLTIwMjctamlhbmR1LXNoZW5zdSINCiAgIF0sDQogICAiY2hhcnMiOiA0NjIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciINCiAgfSwNCiAgew0KICAgIm5vIjogIuWFqyIsDQogICAiaGVhZGluZyI6ICLlhbbku5bkuovpobnvvIjmlK/mlZnlm6LjgIHmjqXmlLblkI7pmZDliLbjgIHlj5bmtojotYTmoLzvvIkiLA0KICAgImxpbmVzIjogWw0KICAgIDE1NCwNCiAgICAxNzUNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInh0LXR1aW1pYW4tMjAyNy1jYWlsaWFvIiwNCiAgICAieHQtdHVpbWlhbi0yMDI3LWppYW5kdS1zaGVuc3UiLA0KICAgICJ4dC10dWltaWFuLTIwMjctc2hlbnFpbmctbGl1Y2hlbmciLA0KICAgICJ4dC10dWltaWFuLTIwMjctemhpamlhb3R1YW4iDQogICBdLA0KICAgImNoYXJzIjogNDUwLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIg0KICB9LA0KICB7DQogICAibm8iOiAi6ZmEIiwNCiAgICJoZWFkaW5nIjogIumZhOS7tua4heWNleS4juiQveasviIsDQogICAibGluZXMiOiBbDQogICAgMTc3LA0KICAgIDE5MQ0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTQyLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIg0KICB9DQogXSwNCiAiaXRlbXMiOiBbDQogICJ4dC10dWltaWFuLTIwMjctY2FpbGlhbyIsDQogICJ4dC10dWltaWFuLTIwMjctY2hlbmdqaSIsDQogICJ4dC10dWltaWFuLTIwMjctamlhbmR1LXNoZW5zdSIsDQogICJ4dC10dWltaWFuLTIwMjctbWluZ2NlIiwNCiAgInh0LXR1aW1pYW4tMjAyNy1xdWFubWlhbi1mYXpoYW4iLA0KICAieHQtdHVpbWlhbi0yMDI3LXNoZW5xaW5nLWxpdWNoZW5nIiwNCiAgInh0LXR1aW1pYW4tMjAyNy10aWFvamlhbiIsDQogICJ4dC10dWltaWFuLTIwMjctemhpamlhb3R1YW4iDQogXSwNCiAibm90ZXMiOiBbDQogICLmnKzmlofku7bkuLrmjqjlhY3nu4bliJnmraPmlofvvJt4dC10dWltaWFuLTIwMjctcXVhbm1pYW4tZmF6aGFuIOeahOW8leaWh+iQveWcqOacrOaWh+S7tu+8iOWxnui3qOaWh+S7tuW8leeUqO+8ie+8jOaVheacrOiKgiBpdGVtcyDkuI3liJfor6XmnaHvvIzpnZ7mvI/nmbvjgIIiDQogXQ0KfQ==
+{
+ "key": "xt-tuimian-2027-xize",
+ "title": "信息与通信工程学院 2027 年推荐优秀应届本科毕业生免试攻读研究生工作实施细则",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "一",
+   "heading": "推荐原则",
+   "lines": [
+    14,
+    27
+   ],
+   "items": [],
+   "chars": 307,
+   "heading_kind": "author"
+  },
+  {
+   "no": "二",
+   "heading": "组织领导",
+   "lines": [
+    28,
+    35
+   ],
+   "items": [],
+   "chars": 123,
+   "heading_kind": "author"
+  },
+  {
+   "no": "三",
+   "heading": "推荐名额",
+   "lines": [
+    36,
+    40
+   ],
+   "items": [
+    "xt-tuimian-2027-mingce",
+    "xt-tuimian-2027-zhijiaotuan"
+   ],
+   "chars": 73,
+   "heading_kind": "author"
+  },
+  {
+   "no": "四",
+   "heading": "申请条件",
+   "lines": [
+    41,
+    51
+   ],
+   "items": [
+    "xt-tuimian-2027-tiaojian"
+   ],
+   "chars": 209,
+   "heading_kind": "author"
+  },
+  {
+   "no": "五",
+   "heading": "推免综合评价成绩计算",
+   "lines": [
+    53,
+    89
+   ],
+   "items": [
+    "xt-tuimian-2027-chengji",
+    "xt-tuimian-2027-quanmian-fazhan"
+   ],
+   "chars": 781,
+   "heading_kind": "author"
+  },
+  {
+   "no": "五（一）",
+   "heading": "综合成绩计算公式（90%/10%）",
+   "lines": [
+    58,
+    59
+   ],
+   "items": [
+    "xt-tuimian-2027-chengji",
+    "xt-tuimian-2027-quanmian-fazhan"
+   ],
+   "chars": 42,
+   "heading_kind": "derived"
+  },
+  {
+   "no": "五（二）",
+   "heading": "学业表现得分与 GPA 换算",
+   "lines": [
+    60,
+    84
+   ],
+   "items": [
+    "xt-tuimian-2027-chengji"
+   ],
+   "chars": 576,
+   "heading_kind": "derived"
+  },
+  {
+   "no": "五（三）",
+   "heading": "全面发展赋分",
+   "lines": [
+    85,
+    89
+   ],
+   "items": [
+    "xt-tuimian-2027-chengji",
+    "xt-tuimian-2027-quanmian-fazhan"
+   ],
+   "chars": 97,
+   "note": "人工补充：该节主题即全面发展赋分（引文落在上级公式句，机械定位不进子节）",
+   "heading_kind": "author"
+  },
+  {
+   "no": "六",
+   "heading": "录取及递补规则",
+   "lines": [
+    91,
+    104
+   ],
+   "items": [
+    "xt-tuimian-2027-mingce",
+    "xt-tuimian-2027-zhijiaotuan"
+   ],
+   "chars": 259,
+   "heading_kind": "author"
+  },
+  {
+   "no": "七",
+   "heading": "申请程序与截止时间",
+   "lines": [
+    106,
+    130
+   ],
+   "items": [
+    "xt-tuimian-2027-cailiao",
+    "xt-tuimian-2027-shenqing-liucheng",
+    "xt-tuimian-2027-zhijiaotuan"
+   ],
+   "chars": 577,
+   "heading_kind": "derived"
+  },
+  {
+   "no": "七（原文重复编号）",
+   "heading": "监督与申诉",
+   "lines": [
+    131,
+    153
+   ],
+   "items": [
+    "xt-tuimian-2027-jiandu-shensu"
+   ],
+   "chars": 462,
+   "heading_kind": "author"
+  },
+  {
+   "no": "八",
+   "heading": "其他事项（支教团、接收后限制、取消资格）",
+   "lines": [
+    154,
+    175
+   ],
+   "items": [
+    "xt-tuimian-2027-cailiao",
+    "xt-tuimian-2027-jiandu-shensu",
+    "xt-tuimian-2027-shenqing-liucheng",
+    "xt-tuimian-2027-zhijiaotuan"
+   ],
+   "chars": 450,
+   "heading_kind": "derived"
+  },
+  {
+   "no": "附",
+   "heading": "附件清单与落款",
+   "lines": [
+    177,
+    191
+   ],
+   "items": [],
+   "chars": 142,
+   "heading_kind": "derived"
+  }
+ ],
+ "items": [
+  "xt-tuimian-2027-cailiao",
+  "xt-tuimian-2027-chengji",
+  "xt-tuimian-2027-jiandu-shensu",
+  "xt-tuimian-2027-mingce",
+  "xt-tuimian-2027-quanmian-fazhan",
+  "xt-tuimian-2027-shenqing-liucheng",
+  "xt-tuimian-2027-tiaojian",
+  "xt-tuimian-2027-zhijiaotuan"
+ ],
+ "notes": [
+  "本文件为推免细则正文；xt-tuimian-2027-quanmian-fazhan 的引文落在本文件（属跨文件引用），故本节 items 不列该条，非漏登。"
+ ]
+}

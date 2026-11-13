@@ -1,1 +1,809 @@
-ew0KICJrZXkiOiAiYWE3Y2IyNGEiLA0KICJ0aXRsZSI6ICLmlrDkv67orqLnmoTjgIrkuK3lm73lhbHkuqfkuLvkuYnpnZLlubTlm6Llj5HlsZXlm6LlkZjlt6XkvZznu4bliJnjgIsiLA0KICJ0cnVuY2F0ZWQiOiBmYWxzZSwNCiAic2VjdGlvbnMiOiBbDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5paw5L+u6K6i55qE44CK5Lit5Zu95YWx5Lqn5Li75LmJ6Z2S5bm05Zui5Y+R5bGV5Zui5ZGY5bel5L2c57uG5YiZ44CLIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxLA0KICAgIDINCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInJ1bGUtYWE3Y2IyNGEiLA0KICAgICJwdC1hZGY4MzNhY2ZjIg0KICAgXSwNCiAgICJjaGFycyI6IDQ3DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5L+u6K6i6IOM5pmv5LiO44CK57uG5YiZ44CL6KaB54K577yI5paw6Ze75a+86K+t77yJIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMywNCiAgICAyMw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMjVkMzI4ZGUyZSIsDQogICAgInB0LWI3MmRmOGE5YmMiLA0KICAgICJwdC0xMTMyYmRkMzA1IiwNCiAgICAicHQtYjEyZjZiYzEzZiIsDQogICAgInB0LWM4NDQwMmM0ZDkiDQogICBdLA0KICAgImNoYXJzIjogNjcwDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5Lit5Zu95YWx5Lqn5Li75LmJ6Z2S5bm05Zui5Y+R5bGV5Zui5ZGY5bel5L2c57uG5YiZIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyNCwNCiAgICAyOA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTE1DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuIDnq6AiLA0KICAgImhlYWRpbmciOiAi56ys5LiA56ugIOaAu+WImSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMjksDQogICAgNDENCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWQ3ZDZlMmY3MTciDQogICBdLA0KICAgImNoYXJzIjogMzUzDQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuIDmnaEiLA0KICAgImhlYWRpbmciOiAi56ys5LiA5p2hIOS4uuS6huinhOiMg+WPkeWxleWbouWRmOW3peS9nCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMzAsDQogICAgMzENCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDY1DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuozmnaEiLA0KICAgImhlYWRpbmciOiAi56ys5LqM5p2hIOWQhOe6p+Wboue7hOe7h+imgeWdmuaMgeS7peS5oOi/keW5s+aWsOaXtuS7o+S4reWbveeJueiJsuekvuS8muS4u+S5ieaAneaDs+S4uuaMh+WvvCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMzIsDQogICAgMzUNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LThjMzdjMTUyNTUiDQogICBdLA0KICAgImNoYXJzIjogMTQwDQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuInmnaEiLA0KICAgImhlYWRpbmciOiAi56ys5LiJ5p2hIOWPkeWxleWbouWRmOW3peS9nOW6lOW9k+aMieeFp+WdmuaMgeagh+WHhuOAgeiwg+aOp+inhOaooSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMzYsDQogICAgMzcNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDU4DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzlm5vmnaEiLA0KICAgImhlYWRpbmciOiAi56ys5Zub5p2hIOWPkeWxleWbouWRmOW3peS9nOW6lOW9k+WdmuaMgeS7peS4i+WOn+WImSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMzgsDQogICAgNDENCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDg0DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuoznq6AiLA0KICAgImhlYWRpbmciOiAi56ys5LqM56ugIOWFpeWbouenr+aegeWIhuWtkOeahOehruWumuWSjOWfueWFu+aVmeiCsiIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNDIsDQogICAgODMNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDEyOTUNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS6lOadoSIsDQogICAiaGVhZGluZyI6ICLnrKzkupTmnaEg5Zui57uE57uH5bqU5b2T5aeL57uI5oqK5Yqg5by65a+56Z2S5bm055qE5pS/5rK75byV6aKG5pS+5Zyo6aaW5L2NIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA0MywNCiAgICA0NQ0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTEwDQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzlha3mnaEiLA0KICAgImhlYWRpbmciOiAi56ys5YWt5p2hIOW5tOm+hOWcqOWNgeWbm+WRqOWygeS7peS4iiIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNDYsDQogICAgNTANCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTY0NmJmMmY3NWQiLA0KICAgICJwdC1hZmYxNTRkZjNmIg0KICAgXSwNCiAgICJjaGFycyI6IDE0MA0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LiD5p2hIiwNCiAgICJoZWFkaW5nIjogIuesrOS4g+adoSDnlLPor7flhaXlm6LlupTlvZPph4flj5bkuabpnaLmlrnlvI8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDUxLA0KICAgIDUzDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1hZDk5YzM0MGMwIiwNCiAgICAicHQtYzI2NjRhZTVlZiINCiAgIF0sDQogICAiY2hhcnMiOiAxMDENCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWFq+adoSIsDQogICAiaGVhZGluZyI6ICLnrKzlhavmnaEg5Zui57uE57uH5pS25Yiw5YWl5Zui55Sz6K+35Lmm5ZCOIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1NCwNCiAgICA1NQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZGI0OTI2ZjNmYSIsDQogICAgInB0LWEyNzNlM2ZjZjIiDQogICBdLA0KICAgImNoYXJzIjogNDENCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS5neadoSIsDQogICAiaGVhZGluZyI6ICLnrKzkuZ3mnaEg5Zui57uE57uH5bqU5b2T5Zyo5YWl5Zui55Sz6K+35Lq65Lit5oup5LyY56Gu5a6a5YWl5Zui56ev5p6B5YiG5a2QIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1NiwNCiAgICA1OA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNjYyMGM0ZGY4YSINCiAgIF0sDQogICAiY2hhcnMiOiAxMTANCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWNgeadoSIsDQogICAiaGVhZGluZyI6ICLnrKzljYHmnaEg5YWl5Zui56ev5p6B5YiG5a2Q55qE5Z+55YW76IGU57O75Lq65bqU5b2T55Sx5LiA6Iez5Lik5ZCN5Zui5ZGY5oiW6ICF5YWa5ZGY5ouF5Lu7IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1OSwNCiAgICA2Ng0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtY2YwYTk3ZjY4OCIsDQogICAgInB0LWQ4MmQ0NDNhODgiLA0KICAgICJwdC00MTZmZGE3ZDI5IiwNCiAgICAicHQtNzUxZmY3YjU5YyIsDQogICAgInB0LTg1ZjlkNGEyYzEiLA0KICAgICJwdC1kMmY0Y2JjZGJlIg0KICAgXSwNCiAgICJjaGFycyI6IDIzMA0KICB9LA0KICB7DQogICAibm8iOiAi56ys5Y2B5LiA5p2hIiwNCiAgICJoZWFkaW5nIjogIuesrOWNgeS4gOadoSDlm6Lnu4Tnu4flupTlvZPliqDlvLrlr7nlhaXlm6Lnp6/mnoHliIblrZDnmoTmlZnogrLjgIHln7nlhbvlkozogIPlr58iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDY3LA0KICAgIDY5DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC04ZjcyOTg1NmFmIiwNCiAgICAicHQtZGM4MTlmODFlMCINCiAgIF0sDQogICAiY2hhcnMiOiAxMDgNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWNgeS6jOadoSIsDQogICAiaGVhZGluZyI6ICLnrKzljYHkuozmnaEg5Zui57uE57uH5bqU5b2T5a+55YWl5Zui56ev5p6B5YiG5a2Q5byA5bGV5oCd5oOz5pS/5rK75pWZ6IKyIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA3MCwNCiAgICA3NQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZjBmZjdiYmQxNSIsDQogICAgInB0LWY4M2RmMjIzNTYiDQogICBdLA0KICAgImNoYXJzIjogMTgwDQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzljYHkuInmnaEiLA0KICAgImhlYWRpbmciOiAi56ys5Y2B5LiJ5p2hIOWboue7hOe7h+W6lOW9k+WQuOaUtuWFpeWbouenr+aegeWIhuWtkOWPguWKoOWboueahOa0u+WKqCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNzYsDQogICAgNzgNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWYzNzAwMGQwYTIiLA0KICAgICJwdC1kODk1MjI1NjllIg0KICAgXSwNCiAgICJjaGFycyI6IDk5DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzljYHlm5vmnaEiLA0KICAgImhlYWRpbmciOiAi56ys5Y2B5Zub5p2hIOWFpeWbouenr+aegeWIhuWtkOW3peS9nOOAgeWtpuS5oOaJgOWcqOWNleS9je+8iOWxheS9j+WcsO+8ieWPkeeUn+WPmOWKqCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNzksDQogICAgODMNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTRlYmY2YTk3NmMiDQogICBdLA0KICAgImNoYXJzIjogMTU4DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuInnq6AiLA0KICAgImhlYWRpbmciOiAi56ys5LiJ56ugIOWPkeWxleWvueixoeeahOehruWumuWSjOaWsOWbouWRmOeahOaOpeaUtiIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgODQsDQogICAgMTQ4DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC00OTc2MTE4NjdkIg0KICAgXSwNCiAgICJjaGFycyI6IDE5NzgNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWNgeS6lOadoSIsDQogICAiaGVhZGluZyI6ICLnrKzljYHkupTmnaEg5Zui57uE57uH5bqU5b2T5LuO5YWl5Zui56ev5p6B5YiG5a2Q5Lit5oup5LyY56Gu5a6a5Y+R5bGV5a+56LGhIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA4NSwNCiAgICA4Ng0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogNjcNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWNgeWFreadoSIsDQogICAiaGVhZGluZyI6ICLnrKzljYHlha3mnaEg5Zui57uE57uH5bqU5b2T5ZCs5Y+W5Z+55YW76IGU57O75Lq644CB5YWa77yI5Zui77yJ5ZGY5ZKM576k5LyX5oSP6KeBIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA4NywNCiAgICA5MA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTI1DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzljYHkuIPmnaEiLA0KICAgImhlYWRpbmciOiAi56ys5Y2B5LiD5p2hIOehruWumuW5tOa7oeWNgeWbm+WRqOWygeOAgeacqua7oeWNgeS6lOWRqOWygeeahOWFpeWbouenr+aegeWIhuWtkOS9nOS4uuWPkeWxleWvueixoSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgOTEsDQogICAgOTMNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWIyMWQ2OGM0ZjIiDQogICBdLA0KICAgImNoYXJzIjogMTA0DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzljYHlhavmnaEiLA0KICAgImhlYWRpbmciOiAi56ys5Y2B5YWr5p2hIOWPkeWxleWvueixoeW6lOW9k+e7j+aUr+mDqOWnlOWRmOS8muiuqOiuuuWQjOaEj+WQjiIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgOTQsDQogICAgMTAwDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC01MWY1NzcyOWZiIiwNCiAgICAicHQtMjc0ZTBhYTJmNCINCiAgIF0sDQogICAiY2hhcnMiOiAyMjkNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWNgeS5neadoSIsDQogICAiaGVhZGluZyI6ICLnrKzljYHkuZ3mnaEg5Y+R5bGV5a+56LGh5bqU5b2T5pyJ5Lik5ZCN5Zui5ZGY5oiW6ICF5YWa5ZGY5L2c5YWl5Zui5LuL57uN5Lq6IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMDEsDQogICAgMTA5DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1kNWNkNTRmYWNmIiwNCiAgICAicHQtNWY5Y2VmMTZmMyIsDQogICAgInB0LTAyYzk5MTAzZjEiLA0KICAgICJwdC01NmY5NzUyYmMyIiwNCiAgICAicHQtMzU5MjEyYTFmMCIsDQogICAgInB0LTBkMGVhNDlmMTUiDQogICBdLA0KICAgImNoYXJzIjogMjU0DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuozljYHmnaEiLA0KICAgImhlYWRpbmciOiAi56ys5LqM5Y2B5p2hIOWPkeWxleWvueixoeWFpeWbou+8jOW/hemhu+aPkOS6pOaUr+mDqOWkp+S8muiuqOiuuiIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTEwLA0KICAgIDExMg0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMzJiN2VkNTVmZSIsDQogICAgInB0LTkyYjMyNGFjMWEiDQogICBdLA0KICAgImNoYXJzIjogODcNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS6jOWNgeS4gOadoSIsDQogICAiaGVhZGluZyI6ICLnrKzkuozljYHkuIDmnaEg5pSv6YOo5aSn5Lya6K6o6K665o6l5pS25paw5Zui5ZGY55qE5Li76KaB56iL5bqP5pivIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMTMsDQogICAgMTIyDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1hYWI1MzIwNTUwIiwNCiAgICAicHQtMWU5ZTdlYTFmNSIsDQogICAgInB0LTlkYzFkNzQxOWUiLA0KICAgICJwdC1iMDc3ODA1ZmU1Ig0KICAgXSwNCiAgICJjaGFycyI6IDI2NA0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LqM5Y2B5LqM5p2hIiwNCiAgICJoZWFkaW5nIjogIuesrOS6jOWNgeS6jOadoSDlm6LmlK/pg6jlupTlvZPlj4rml7blsIbmlK/pg6jlpKfkvJrlhrPorq7lhpnlhaXlhaXlm6Llv5fmhL/kuaYiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDEyMywNCiAgICAxMjYNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWY5ZWEwMmUxNTQiDQogICBdLA0KICAgImNoYXJzIjogMTEwDQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuozljYHkuInmnaEiLA0KICAgImhlYWRpbmciOiAi56ys5LqM5Y2B5LiJ5p2hIOaOpeaUtuaWsOWbouWRmOS4gOiIrOeUseWFt+acieWuoeaJueadg+mZkOeahOWfuuWxguWbou+8iOW3pe+8ieWnlOWuoeaJuSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTI3LA0KICAgIDEzMA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMDNlOTI2NDNhYiINCiAgIF0sDQogICAiY2hhcnMiOiAxMDkNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS6jOWNgeWbm+adoSIsDQogICAiaGVhZGluZyI6ICLnrKzkuozljYHlm5vmnaEg5a6h5om55o6l5pS25paw5Zui5ZGY5b+F6aG75Y+s5byA5Zui55qE5aeU5ZGY5Lya5Lya6K6u5oiW6ICF5bi45Yqh5aeU5ZGY5Lya5Lya6K6u44CB5Lmm6K6w5Lya6K6uIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMzEsDQogICAgMTM1DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC04Mjg5NWM3NTI3Ig0KICAgXSwNCiAgICJjaGFycyI6IDE1NQ0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LqM5Y2B5LqU5p2hIiwNCiAgICJoZWFkaW5nIjogIuesrOS6jOWNgeS6lOadoSDlm6LmlK/pg6jlupTlvZPlj4rml7blsIblrqHmibnnu5PmnpzpgJrnn6XmnKzkurrlubblnKjmlK/pg6jlpKfkvJrkuIrlrqPluIMiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDEzNiwNCiAgICAxMzgNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTc4MjkwMzg2YzciLA0KICAgICJwdC1kYWM5MzA4NGNjIg0KICAgXSwNCiAgICJjaGFycyI6IDEwMw0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LqM5Y2B5YWt5p2hIiwNCiAgICJoZWFkaW5nIjogIuesrOS6jOWNgeWFreadoSDlm6LvvIjlt6XvvInlp5Tlr7nlm6LmlK/pg6jkuIrmiqXnmoTmjqXmlLbmlrDlm6LlkZjnmoTlhrPorq4iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDEzOSwNCiAgICAxNDANCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTkzZTU0NzM0YWMiDQogICBdLA0KICAgImNoYXJzIjogNzQNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS6jOWNgeS4g+adoSIsDQogICAiaGVhZGluZyI6ICLnrKzkuozljYHkuIPmnaEg5paw5Zui5ZGY5b+F6aG75Y+C5Yqg5YWl5Zui5Luq5byPIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNDEsDQogICAgMTQyDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1lNTYwNjYwZTcyIiwNCiAgICAicHQtZTZjNWQyZTU3YyINCiAgIF0sDQogICAiY2hhcnMiOiA2Mg0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LqM5Y2B5YWr5p2hIiwNCiAgICJoZWFkaW5nIjogIuesrOS6jOWNgeWFq+adoSDlm6Lnu4Tnu4flupTlvZPliqDlvLrlr7nmlrDlm6LlkZjnmoTmlZnogrLlkoznrqHnkIYiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDE0MywNCiAgICAxNDQNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTgxYTNmMDZkYjEiDQogICBdLA0KICAgImNoYXJzIjogNzcNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS6jOWNgeS5neadoSIsDQogICAiaGVhZGluZyI6ICLnrKzkuozljYHkuZ3mnaEg5Zui57uE57uH5bqU5b2T6KeE6IyD5bu656uL5paw5Zui5ZGY5qGj5qGIIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNDUsDQogICAgMTQ3DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1mMjI1NzgzYTYxIiwNCiAgICAicHQtYmE1M2MwYjQ1ZCINCiAgIF0sDQogICAiY2hhcnMiOiAxMDkNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS4ieWNgeadoSIsDQogICAiaGVhZGluZyI6ICLnrKzkuInljYHmnaEg5Zyo54m55q6K5oOF5Ya15LiL77yM5Zui55qE5Lit5aSu5ZKM55yB57qn5aeU5ZGY5Lya5Y+v5Lul55u05o6l5o6l5pS25Zui5ZGYIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNDgsDQogICAgMTQ4DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC01ZDc5NDYwOTEwIg0KICAgXSwNCiAgICJjaGFycyI6IDMxDQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzlm5vnq6AiLA0KICAgImhlYWRpbmciOiAi56ys5Zub56ugIOWbouWRmOeahOi/veiupCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTQ5LA0KICAgIDE1NA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNGNmZGMzM2RmMiINCiAgIF0sDQogICAiY2hhcnMiOiAxNDkNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS4ieWNgeS4gOadoSIsDQogICAiaGVhZGluZyI6ICLnrKzkuInljYHkuIDmnaEg5a+55Zyo5Lit5Zu954m56Imy56S+5Lya5Li75LmJ5LqL5Lia5Lit5Li65YWa5ZKM5Lq65rCR5Yip55uK6Iux5YuH54yu6LqrIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNTAsDQogICAgMTUyDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiA4Ng0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LiJ5Y2B5LqM5p2hIiwNCiAgICJoZWFkaW5nIjogIuesrOS4ieWNgeS6jOadoSDov73orqTlm6LlkZjlupTlvZPnlLHlhbbmiYDlnKjljZXkvY3vvIjlsYXkvY/lnLDvvInlm6Lnu4Tnu4forqjorrrlhrPlrpoiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDE1MywNCiAgICAxNTQNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTc5ZmM4MTI5NmMiDQogICBdLA0KICAgImNoYXJzIjogNTQNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS6lOeroCIsDQogICAiaGVhZGluZyI6ICLnrKzkupTnq6Ag5Y+R5bGV5Zui5ZGY5bel5L2c55qE6aKG5a+85ZKM57qq5b6LIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNTUsDQogICAgMTg2DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1hNjMwZTE5NDdkIg0KICAgXSwNCiAgICJjaGFycyI6IDg2Ng0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LiJ5Y2B5LiJ5p2hIiwNCiAgICJoZWFkaW5nIjogIuesrOS4ieWNgeS4ieadoSDlkITnuqflm6Lnu4Tnu4flupTlvZPmiorlj5HlsZXlm6LlkZjkvZzkuLrkuIDpobnmnoHnq6/ph43opoHnmoTln7rnoYDmgKflt6XkvZwiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDE1NiwNCiAgICAxNTcNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDc0DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuInljYHlm5vmnaEiLA0KICAgImhlYWRpbmciOiAi56ys5LiJ5Y2B5Zub5p2hIOWQhOe6p+WboueahOmihuWvvOacuuWFs+WvueacrOWcsOWMuuacrOezu+e7n+WPkeWxleWbouWRmOW3peS9nOi0n+aAu+i0oyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTU4LA0KICAgIDE1OQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtN2NiNGVkYzFlZSINCiAgIF0sDQogICAiY2hhcnMiOiA2Nw0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LiJ5Y2B5LqU5p2hIiwNCiAgICJoZWFkaW5nIjogIuesrOS4ieWNgeS6lOadoSDlhbHpnZLlm6LkuK3lpK7otJ/otKPliLblrprlhajlm73lj5HlsZXlm6LlkZjlt6XkvZzop4TliJIiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDE2MCwNCiAgICAxNjMNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWM3YWMxMWNkM2YiDQogICBdLA0KICAgImNoYXJzIjogMTM0DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuInljYHlha3mnaEiLA0KICAgImhlYWRpbmciOiAi56ys5LiJ5Y2B5YWt5p2hIOWQhOe6p+WboueahOmihuWvvOacuuWFs+eJueWIq+aYr+W4guOAgeWOv+e6p+WbouWnlCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTY0LA0KICAgIDE2NQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNDdiOTBhMDhmNyINCiAgIF0sDQogICAiY2hhcnMiOiA1OA0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LiJ5Y2B5LiD5p2hIiwNCiAgICJoZWFkaW5nIjogIuesrOS4ieWNgeS4g+adoSDlkITnuqflm6LnmoTpooblr7zmnLrlhbPmr4/lubToh7PlsJHlvIDlsZXkuIDmrKHlj5HlsZXlm6LlkZjlt6XkvZzmg4XlhrXmoLjmn6UiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDE2NiwNCiAgICAxNjcNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTE4MTU3OGVkZWIiDQogICBdLA0KICAgImNoYXJzIjogNzQNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS4ieWNgeWFq+adoSIsDQogICAiaGVhZGluZyI6ICLnrKzkuInljYHlhavmnaEg5ZCE57qn5Zui57uE57uH5bqU5b2T6JC95a6e5YWo6Z2i5LuO5Lil566h5Zui5rK75Zui6KaB5rGCIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNjgsDQogICAgMTY5DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0wNTM2YTk5ZWUwIg0KICAgXSwNCiAgICJjaGFycyI6IDY0DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuInljYHkuZ3mnaEiLA0KICAgImhlYWRpbmciOiAi56ys5LiJ5Y2B5Lmd5p2hIOWPkeWxleWbouWRmOW3peS9nOS4re+8jOWtmOWcqOS7peS4i+aDheW9oueahCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTcwLA0KICAgIDE3OQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtM2YxNTMwYmZjNyIsDQogICAgInB0LTVlODUyOGFkM2IiLA0KICAgICJwdC1iZWVjNzgxNmJlIiwNCiAgICAicHQtNzc0M2Q3ZDdlMiIsDQogICAgInB0LTU3NTMxZTY3OGQiLA0KICAgICJwdC1mZGMyZWY4MGUwIiwNCiAgICAicHQtMzIzZTAxOGM1ZSINCiAgIF0sDQogICAiY2hhcnMiOiAxOTkNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWbm+WNgeadoSIsDQogICAiaGVhZGluZyI6ICLnrKzlm5vljYHmnaEg5a+55LqO5Y+R5bGV5Zui5ZGY5bel5L2c5Lit6Zeu6aKY6L6D5aSa44CB5oOF5Ya16L6D5beu55qE5Zui57uE57uHIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxODAsDQogICAgMTgxDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0wYThiNDVjMTlhIg0KICAgXSwNCiAgICJjaGFycyI6IDQyDQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzlm5vljYHkuIDmnaEiLA0KICAgImhlYWRpbmciOiAi56ys5Zub5Y2B5LiA5p2hIOaWsOWPkeWxleWbouWRmOWunuihjOWFqOWbvee7n+S4gOe8luWPt+WItuW6piIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTgyLA0KICAgIDE4Mw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNzk5NjlkMTEwOCINCiAgIF0sDQogICAiY2hhcnMiOiA0Nw0KICB9LA0KICB7DQogICAibm8iOiAi56ys5Zub5Y2B5LqM5p2hIiwNCiAgICJoZWFkaW5nIjogIuesrOWbm+WNgeS6jOadoSDlhaXlm6Llv5fmhL/kuabnmoTlvI/moLfnlLHlhbHpnZLlm6LkuK3lpK7ln7rlsYLlu7rorr7pg6jotJ/otKPliLblrpoiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDE4NCwNCiAgICAxODYNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWY0Zjc4N2JjNDAiDQogICBdLA0KICAgImNoYXJzIjogOTENCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWFreeroCIsDQogICAiaGVhZGluZyI6ICLnrKzlha3nq6Ag6ZmE5YiZIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxODcsDQogICAgMTkyDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC01NjdkOWRmNTYzIg0KICAgXSwNCiAgICJjaGFycyI6IDEzNg0KICB9LA0KICB7DQogICAibm8iOiAi56ys5Zub5Y2B5LiJ5p2hIiwNCiAgICJoZWFkaW5nIjogIuesrOWbm+WNgeS4ieadoSDlm6LnmoTlkITnuqfpooblr7zmnLrlhbPlj6/ku6Xnu5PlkIjlrp7pmYUiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDE4OCwNCiAgICAxODkNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDQ1DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzlm5vljYHlm5vmnaEiLA0KICAgImhlYWRpbmciOiAi56ys5Zub5Y2B5Zub5p2hIOacrOe7huWImeeUseWFsemdkuWbouS4reWkruWfuuWxguW7uuiuvumDqOi0n+i0o+ino+mHiiIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTkwLA0KICAgIDE5MA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNGU4YjE3ZjZiZCINCiAgIF0sDQogICAiY2hhcnMiOiAyNQ0KICB9LA0KICB7DQogICAibm8iOiAi56ys5Zub5Y2B5LqU5p2hIiwNCiAgICJoZWFkaW5nIjogIuesrOWbm+WNgeS6lOadoSDmnKznu4bliJnoh6rlj5HluIPkuYvml6Xotbfmlr3ooYwiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDE5MSwNCiAgICAxOTINCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTBmNzA5YWQzZjIiDQogICBdLA0KICAgImNoYXJzIjogNjANCiAgfQ0KIF0sDQogIml0ZW1zIjogWw0KICAicnVsZS1hYTdjYjI0YSIsDQogICJwdC02NDZiZjJmNzVkIiwNCiAgInB0LWFmZjE1NGRmM2YiLA0KICAicHQtYWQ5OWMzNDBjMCIsDQogICJwdC1jMjY2NGFlNWVmIiwNCiAgInB0LWRiNDkyNmYzZmEiLA0KICAicHQtY2YwYTk3ZjY4OCIsDQogICJwdC04ZjcyOTg1NmFmIiwNCiAgInB0LWRjODE5ZjgxZTAiLA0KICAicHQtZjgzZGYyMjM1NiIsDQogICJwdC1kODk1MjI1NjllIiwNCiAgInB0LTVmOWNlZjE2ZjMiLA0KICAicHQtOTJiMzI0YWMxYSIsDQogICJwdC1kYWM5MzA4NGNjIiwNCiAgInB0LWU2YzVkMmU1N2MiLA0KICAicHQtYmE1M2MwYjQ1ZCIsDQogICJwdC1hZGY4MzNhY2ZjIiwNCiAgInB0LTI1ZDMyOGRlMmUiLA0KICAicHQtYjcyZGY4YTliYyIsDQogICJwdC0xMTMyYmRkMzA1IiwNCiAgInB0LWIxMmY2YmMxM2YiLA0KICAicHQtYzg0NDAyYzRkOSIsDQogICJwdC1kN2Q2ZTJmNzE3IiwNCiAgInB0LThjMzdjMTUyNTUiLA0KICAicHQtYTI3M2UzZmNmMiIsDQogICJwdC02NjIwYzRkZjhhIiwNCiAgInB0LWQ4MmQ0NDNhODgiLA0KICAicHQtNDE2ZmRhN2QyOSIsDQogICJwdC03NTFmZjdiNTljIiwNCiAgInB0LTg1ZjlkNGEyYzEiLA0KICAicHQtZDJmNGNiY2RiZSIsDQogICJwdC1mMGZmN2JiZDE1IiwNCiAgInB0LWYzNzAwMGQwYTIiLA0KICAicHQtNGViZjZhOTc2YyIsDQogICJwdC00OTc2MTE4NjdkIiwNCiAgInB0LWIyMWQ2OGM0ZjIiLA0KICAicHQtNTFmNTc3MjlmYiIsDQogICJwdC0yNzRlMGFhMmY0IiwNCiAgInB0LWQ1Y2Q1NGZhY2YiLA0KICAicHQtMDJjOTkxMDNmMSIsDQogICJwdC01NmY5NzUyYmMyIiwNCiAgInB0LTM1OTIxMmExZjAiLA0KICAicHQtMGQwZWE0OWYxNSIsDQogICJwdC0zMmI3ZWQ1NWZlIiwNCiAgInB0LWFhYjUzMjA1NTAiLA0KICAicHQtMWU5ZTdlYTFmNSIsDQogICJwdC05ZGMxZDc0MTllIiwNCiAgInB0LWIwNzc4MDVmZTUiLA0KICAicHQtZjllYTAyZTE1NCIsDQogICJwdC0wM2U5MjY0M2FiIiwNCiAgInB0LTgyODk1Yzc1MjciLA0KICAicHQtNzgyOTAzODZjNyIsDQogICJwdC05M2U1NDczNGFjIiwNCiAgInB0LWU1NjA2NjBlNzIiLA0KICAicHQtODFhM2YwNmRiMSIsDQogICJwdC1mMjI1NzgzYTYxIiwNCiAgInB0LTVkNzk0NjA5MTAiLA0KICAicHQtNGNmZGMzM2RmMiIsDQogICJwdC03OWZjODEyOTZjIiwNCiAgInB0LWE2MzBlMTk0N2QiLA0KICAicHQtN2NiNGVkYzFlZSIsDQogICJwdC1jN2FjMTFjZDNmIiwNCiAgInB0LTQ3YjkwYTA4ZjciLA0KICAicHQtMTgxNTc4ZWRlYiIsDQogICJwdC0wNTM2YTk5ZWUwIiwNCiAgInB0LTNmMTUzMGJmYzciLA0KICAicHQtNWU4NTI4YWQzYiIsDQogICJwdC1iZWVjNzgxNmJlIiwNCiAgInB0LTc3NDNkN2Q3ZTIiLA0KICAicHQtNTc1MzFlNjc4ZCIsDQogICJwdC1mZGMyZWY4MGUwIiwNCiAgInB0LTMyM2UwMThjNWUiLA0KICAicHQtMGE4YjQ1YzE5YSIsDQogICJwdC03OTk2OWQxMTA4IiwNCiAgInB0LWY0Zjc4N2JjNDAiLA0KICAicHQtNTY3ZDlkZjU2MyIsDQogICJwdC00ZThiMTdmNmJkIiwNCiAgInB0LTBmNzA5YWQzZjIiDQogXSwNCiAibm90ZXMiOiBbDQogICLnrKwgMeKAkzIg6KGM5piv5paw6Ze75qCH6aKY5LiO5Y+R5biD5L+h5oGv77yI44CM5Y+R5biD6ICF77ya5Y+R5biD5pe26Ze077yaMjAyNS0wOS0yNiDlrqHmoLjkurrvvJrjgI3vvIzkuInpobnlnYfkuLrnqbrlgLzvvInvvIwz4oCTMjIg6KGM5piv5Zub5q615paw6Ze75a+86K+t77yI5L+u6K6i6IOM5pmv44CB44CK57uG5YiZ44CL5YWt5Liq57uE5oiQ6YOo5YiG5LiO6KaB54K577yJ77yMMjMg6KGM44CM5YWo5paH5aaC5LiL77ya44CN5bm25YWl5a+86K+t6IqC44CCIiwNCiAgIuesrCAyNOKAkzI4IOihjOaYr+e7huWImeWQjeensOS4juWItuWumuS/ruiuouivtOaYju+8iDIwMTYg5bm0IDExIOaciCA0IOaXpeWuoeiuruaJueWHhuOAgTExIOaciCAxMSDml6Xlj5HluIPvvIwyMDIzIOW5tCA4IOaciCAxMSDml6XkuaborrDlpITkvJrorq7kv67orqLjgIE4IOaciCAxNyDml6Xlj5HluIPvvInvvIzljZXni6zkuIDoioLjgIIiLA0KICAi56ys5LiA6Iez56ys5YWt56ug5Li654i26IqC77yM5YW25LiL44CM56ysWOadoeOAjeS4uuWtkOiKgu+8iOecn+W1jOWll++8ie+8m+eItuiKgiBpdGVtcyDlj6rmlL7lvJXmlofotbfngrnokL3lnKjnq6DmoIfpopjooYznmoTmnaHnm67vvJpwdC1kN2Q2ZTJmNzE377yIMjkg6KGM44CM56ys5LiA56ug5oC75YiZ56ys5LiA5p2h4oCm44CN77yJ44CBcHQtNDk3NjExODY3ZO+8iDg0IOihjO+8ieOAgXB0LTRjZmRjMzNkZjLvvIgxNDkg6KGM77yJ44CBcHQtYTYzMGUxOTQ3ZO+8iDE1NSDooYzvvInjgIFwdC01NjdkOWRmNTYz77yIMTg3IOihjO+8ie+8m+esrOS6jOeroOeahOeItuiKguaXoOadoeebru+8iOivpeeroOWQhOadoeW8leaWh+mDvei1t+S6juadoeWGhe+8ieOAgiIsDQogICLmnaHlhoXnmoTjgIzvvIjkuIDvvInvvIjkuozvvInigKbjgI3liIbpobnvvIjnrKzlm5vmnaEgMznigJM0MSDooYzjgIHnrKzljYHmnaEgNjLigJM2NiDooYzjgIHnrKzljYHkuZ3mnaEgMTA14oCTMTA5IOihjOOAgeesrOS6jOWNgeS4gOadoSAxMTTigJMxMjEg6KGM44CB56ys5LiJ5Y2B5Lmd5p2hIDE3MuKAkzE3OCDooYzvvInkuI3ljZXliJfoioLvvIznu5/kuIDlvZLmiYDlsZ7mnaHvvIzmnaHnm67okL3ngrnmjIkgcXVvdGUg6LW354K56K6w5Zyo6K+l5p2h5Yy66Ze05YaF44CCIiwNCiAgInJ1bGUtYWE3Y2IyNGEg5Li65paH5qGj57qn5p2h55uu77yI5peg5byV5paH77yJ77yM5oyJ5Y+j5b6E5ZCM5pe25YiX6L+b5paH5qGj57qnIGl0ZW1zIOS4juagh+mimOiKgu+8m+WFqOaWh+aXoCBkZXJpdmVkIOS5i+WklueahOiHquaLn+iKguWQje+8jOS7heWvvOivreiKgueahCBoZWFkaW5nIOS4uuamguaLrOOAgiINCiBdDQp9
+{
+ "key": "aa7cb24a",
+ "title": "新修订的《中国共产主义青年团发展团员工作细则》",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "新修订的《中国共产主义青年团发展团员工作细则》",
+   "heading_kind": "author",
+   "lines": [
+    1,
+    2
+   ],
+   "items": [
+    "rule-aa7cb24a",
+    "pt-adf833acfc"
+   ],
+   "chars": 47
+  },
+  {
+   "no": "—",
+   "heading": "修订背景与《细则》要点（新闻导语）",
+   "heading_kind": "derived",
+   "lines": [
+    3,
+    23
+   ],
+   "items": [
+    "pt-25d328de2e",
+    "pt-b72df8a9bc",
+    "pt-1132bdd305",
+    "pt-b12f6bc13f",
+    "pt-c84402c4d9"
+   ],
+   "chars": 670
+  },
+  {
+   "no": "—",
+   "heading": "中国共产主义青年团发展团员工作细则",
+   "heading_kind": "author",
+   "lines": [
+    24,
+    28
+   ],
+   "items": [],
+   "chars": 115
+  },
+  {
+   "no": "第一章",
+   "heading": "第一章 总则",
+   "heading_kind": "author",
+   "lines": [
+    29,
+    41
+   ],
+   "items": [
+    "pt-d7d6e2f717"
+   ],
+   "chars": 353
+  },
+  {
+   "no": "第一条",
+   "heading": "第一条 为了规范发展团员工作",
+   "heading_kind": "author",
+   "lines": [
+    30,
+    31
+   ],
+   "items": [],
+   "chars": 65
+  },
+  {
+   "no": "第二条",
+   "heading": "第二条 各级团组织要坚持以习近平新时代中国特色社会主义思想为指导",
+   "heading_kind": "author",
+   "lines": [
+    32,
+    35
+   ],
+   "items": [
+    "pt-8c37c15255"
+   ],
+   "chars": 140
+  },
+  {
+   "no": "第三条",
+   "heading": "第三条 发展团员工作应当按照坚持标准、调控规模",
+   "heading_kind": "author",
+   "lines": [
+    36,
+    37
+   ],
+   "items": [],
+   "chars": 58
+  },
+  {
+   "no": "第四条",
+   "heading": "第四条 发展团员工作应当坚持以下原则",
+   "heading_kind": "author",
+   "lines": [
+    38,
+    41
+   ],
+   "items": [],
+   "chars": 84
+  },
+  {
+   "no": "第二章",
+   "heading": "第二章 入团积极分子的确定和培养教育",
+   "heading_kind": "author",
+   "lines": [
+    42,
+    83
+   ],
+   "items": [],
+   "chars": 1295
+  },
+  {
+   "no": "第五条",
+   "heading": "第五条 团组织应当始终把加强对青年的政治引领放在首位",
+   "heading_kind": "author",
+   "lines": [
+    43,
+    45
+   ],
+   "items": [],
+   "chars": 110
+  },
+  {
+   "no": "第六条",
+   "heading": "第六条 年龄在十四周岁以上",
+   "heading_kind": "author",
+   "lines": [
+    46,
+    50
+   ],
+   "items": [
+    "pt-646bf2f75d",
+    "pt-aff154df3f"
+   ],
+   "chars": 140
+  },
+  {
+   "no": "第七条",
+   "heading": "第七条 申请入团应当采取书面方式",
+   "heading_kind": "author",
+   "lines": [
+    51,
+    53
+   ],
+   "items": [
+    "pt-ad99c340c0",
+    "pt-c2664ae5ef"
+   ],
+   "chars": 101
+  },
+  {
+   "no": "第八条",
+   "heading": "第八条 团组织收到入团申请书后",
+   "heading_kind": "author",
+   "lines": [
+    54,
+    55
+   ],
+   "items": [
+    "pt-db4926f3fa",
+    "pt-a273e3fcf2"
+   ],
+   "chars": 41
+  },
+  {
+   "no": "第九条",
+   "heading": "第九条 团组织应当在入团申请人中择优确定入团积极分子",
+   "heading_kind": "author",
+   "lines": [
+    56,
+    58
+   ],
+   "items": [
+    "pt-6620c4df8a"
+   ],
+   "chars": 110
+  },
+  {
+   "no": "第十条",
+   "heading": "第十条 入团积极分子的培养联系人应当由一至两名团员或者党员担任",
+   "heading_kind": "author",
+   "lines": [
+    59,
+    66
+   ],
+   "items": [
+    "pt-cf0a97f688",
+    "pt-d82d443a88",
+    "pt-416fda7d29",
+    "pt-751ff7b59c",
+    "pt-85f9d4a2c1",
+    "pt-d2f4cbcdbe"
+   ],
+   "chars": 230
+  },
+  {
+   "no": "第十一条",
+   "heading": "第十一条 团组织应当加强对入团积极分子的教育、培养和考察",
+   "heading_kind": "author",
+   "lines": [
+    67,
+    69
+   ],
+   "items": [
+    "pt-8f729856af",
+    "pt-dc819f81e0"
+   ],
+   "chars": 108
+  },
+  {
+   "no": "第十二条",
+   "heading": "第十二条 团组织应当对入团积极分子开展思想政治教育",
+   "heading_kind": "author",
+   "lines": [
+    70,
+    75
+   ],
+   "items": [
+    "pt-f0ff7bbd15",
+    "pt-f83df22356"
+   ],
+   "chars": 180
+  },
+  {
+   "no": "第十三条",
+   "heading": "第十三条 团组织应当吸收入团积极分子参加团的活动",
+   "heading_kind": "author",
+   "lines": [
+    76,
+    78
+   ],
+   "items": [
+    "pt-f37000d0a2",
+    "pt-d89522569e"
+   ],
+   "chars": 99
+  },
+  {
+   "no": "第十四条",
+   "heading": "第十四条 入团积极分子工作、学习所在单位（居住地）发生变动",
+   "heading_kind": "author",
+   "lines": [
+    79,
+    83
+   ],
+   "items": [
+    "pt-4ebf6a976c"
+   ],
+   "chars": 158
+  },
+  {
+   "no": "第三章",
+   "heading": "第三章 发展对象的确定和新团员的接收",
+   "heading_kind": "author",
+   "lines": [
+    84,
+    148
+   ],
+   "items": [
+    "pt-497611867d"
+   ],
+   "chars": 1978
+  },
+  {
+   "no": "第十五条",
+   "heading": "第十五条 团组织应当从入团积极分子中择优确定发展对象",
+   "heading_kind": "author",
+   "lines": [
+    85,
+    86
+   ],
+   "items": [],
+   "chars": 67
+  },
+  {
+   "no": "第十六条",
+   "heading": "第十六条 团组织应当听取培养联系人、党（团）员和群众意见",
+   "heading_kind": "author",
+   "lines": [
+    87,
+    90
+   ],
+   "items": [],
+   "chars": 125
+  },
+  {
+   "no": "第十七条",
+   "heading": "第十七条 确定年满十四周岁、未满十五周岁的入团积极分子作为发展对象",
+   "heading_kind": "author",
+   "lines": [
+    91,
+    93
+   ],
+   "items": [
+    "pt-b21d68c4f2"
+   ],
+   "chars": 104
+  },
+  {
+   "no": "第十八条",
+   "heading": "第十八条 发展对象应当经支部委员会讨论同意后",
+   "heading_kind": "author",
+   "lines": [
+    94,
+    100
+   ],
+   "items": [
+    "pt-51f57729fb",
+    "pt-274e0aa2f4"
+   ],
+   "chars": 229
+  },
+  {
+   "no": "第十九条",
+   "heading": "第十九条 发展对象应当有两名团员或者党员作入团介绍人",
+   "heading_kind": "author",
+   "lines": [
+    101,
+    109
+   ],
+   "items": [
+    "pt-d5cd54facf",
+    "pt-5f9cef16f3",
+    "pt-02c99103f1",
+    "pt-56f9752bc2",
+    "pt-359212a1f0",
+    "pt-0d0ea49f15"
+   ],
+   "chars": 254
+  },
+  {
+   "no": "第二十条",
+   "heading": "第二十条 发展对象入团，必须提交支部大会讨论",
+   "heading_kind": "author",
+   "lines": [
+    110,
+    112
+   ],
+   "items": [
+    "pt-32b7ed55fe",
+    "pt-92b324ac1a"
+   ],
+   "chars": 87
+  },
+  {
+   "no": "第二十一条",
+   "heading": "第二十一条 支部大会讨论接收新团员的主要程序是",
+   "heading_kind": "author",
+   "lines": [
+    113,
+    122
+   ],
+   "items": [
+    "pt-aab5320550",
+    "pt-1e9e7ea1f5",
+    "pt-9dc1d7419e",
+    "pt-b077805fe5"
+   ],
+   "chars": 264
+  },
+  {
+   "no": "第二十二条",
+   "heading": "第二十二条 团支部应当及时将支部大会决议写入入团志愿书",
+   "heading_kind": "author",
+   "lines": [
+    123,
+    126
+   ],
+   "items": [
+    "pt-f9ea02e154"
+   ],
+   "chars": 110
+  },
+  {
+   "no": "第二十三条",
+   "heading": "第二十三条 接收新团员一般由具有审批权限的基层团（工）委审批",
+   "heading_kind": "author",
+   "lines": [
+    127,
+    130
+   ],
+   "items": [
+    "pt-03e92643ab"
+   ],
+   "chars": 109
+  },
+  {
+   "no": "第二十四条",
+   "heading": "第二十四条 审批接收新团员必须召开团的委员会会议或者常务委员会会议、书记会议",
+   "heading_kind": "author",
+   "lines": [
+    131,
+    135
+   ],
+   "items": [
+    "pt-82895c7527"
+   ],
+   "chars": 155
+  },
+  {
+   "no": "第二十五条",
+   "heading": "第二十五条 团支部应当及时将审批结果通知本人并在支部大会上宣布",
+   "heading_kind": "author",
+   "lines": [
+    136,
+    138
+   ],
+   "items": [
+    "pt-78290386c7",
+    "pt-dac93084cc"
+   ],
+   "chars": 103
+  },
+  {
+   "no": "第二十六条",
+   "heading": "第二十六条 团（工）委对团支部上报的接收新团员的决议",
+   "heading_kind": "author",
+   "lines": [
+    139,
+    140
+   ],
+   "items": [
+    "pt-93e54734ac"
+   ],
+   "chars": 74
+  },
+  {
+   "no": "第二十七条",
+   "heading": "第二十七条 新团员必须参加入团仪式",
+   "heading_kind": "author",
+   "lines": [
+    141,
+    142
+   ],
+   "items": [
+    "pt-e560660e72",
+    "pt-e6c5d2e57c"
+   ],
+   "chars": 62
+  },
+  {
+   "no": "第二十八条",
+   "heading": "第二十八条 团组织应当加强对新团员的教育和管理",
+   "heading_kind": "author",
+   "lines": [
+    143,
+    144
+   ],
+   "items": [
+    "pt-81a3f06db1"
+   ],
+   "chars": 77
+  },
+  {
+   "no": "第二十九条",
+   "heading": "第二十九条 团组织应当规范建立新团员档案",
+   "heading_kind": "author",
+   "lines": [
+    145,
+    147
+   ],
+   "items": [
+    "pt-f225783a61",
+    "pt-ba53c0b45d"
+   ],
+   "chars": 109
+  },
+  {
+   "no": "第三十条",
+   "heading": "第三十条 在特殊情况下，团的中央和省级委员会可以直接接收团员",
+   "heading_kind": "author",
+   "lines": [
+    148,
+    148
+   ],
+   "items": [
+    "pt-5d79460910"
+   ],
+   "chars": 31
+  },
+  {
+   "no": "第四章",
+   "heading": "第四章 团员的追认",
+   "heading_kind": "author",
+   "lines": [
+    149,
+    154
+   ],
+   "items": [
+    "pt-4cfdc33df2"
+   ],
+   "chars": 149
+  },
+  {
+   "no": "第三十一条",
+   "heading": "第三十一条 对在中国特色社会主义事业中为党和人民利益英勇献身",
+   "heading_kind": "author",
+   "lines": [
+    150,
+    152
+   ],
+   "items": [],
+   "chars": 86
+  },
+  {
+   "no": "第三十二条",
+   "heading": "第三十二条 追认团员应当由其所在单位（居住地）团组织讨论决定",
+   "heading_kind": "author",
+   "lines": [
+    153,
+    154
+   ],
+   "items": [
+    "pt-79fc81296c"
+   ],
+   "chars": 54
+  },
+  {
+   "no": "第五章",
+   "heading": "第五章 发展团员工作的领导和纪律",
+   "heading_kind": "author",
+   "lines": [
+    155,
+    186
+   ],
+   "items": [
+    "pt-a630e1947d"
+   ],
+   "chars": 866
+  },
+  {
+   "no": "第三十三条",
+   "heading": "第三十三条 各级团组织应当把发展团员作为一项极端重要的基础性工作",
+   "heading_kind": "author",
+   "lines": [
+    156,
+    157
+   ],
+   "items": [],
+   "chars": 74
+  },
+  {
+   "no": "第三十四条",
+   "heading": "第三十四条 各级团的领导机关对本地区本系统发展团员工作负总责",
+   "heading_kind": "author",
+   "lines": [
+    158,
+    159
+   ],
+   "items": [
+    "pt-7cb4edc1ee"
+   ],
+   "chars": 67
+  },
+  {
+   "no": "第三十五条",
+   "heading": "第三十五条 共青团中央负责制定全国发展团员工作规划",
+   "heading_kind": "author",
+   "lines": [
+    160,
+    163
+   ],
+   "items": [
+    "pt-c7ac11cd3f"
+   ],
+   "chars": 134
+  },
+  {
+   "no": "第三十六条",
+   "heading": "第三十六条 各级团的领导机关特别是市、县级团委",
+   "heading_kind": "author",
+   "lines": [
+    164,
+    165
+   ],
+   "items": [
+    "pt-47b90a08f7"
+   ],
+   "chars": 58
+  },
+  {
+   "no": "第三十七条",
+   "heading": "第三十七条 各级团的领导机关每年至少开展一次发展团员工作情况核查",
+   "heading_kind": "author",
+   "lines": [
+    166,
+    167
+   ],
+   "items": [
+    "pt-181578edeb"
+   ],
+   "chars": 74
+  },
+  {
+   "no": "第三十八条",
+   "heading": "第三十八条 各级团组织应当落实全面从严管团治团要求",
+   "heading_kind": "author",
+   "lines": [
+    168,
+    169
+   ],
+   "items": [
+    "pt-0536a99ee0"
+   ],
+   "chars": 64
+  },
+  {
+   "no": "第三十九条",
+   "heading": "第三十九条 发展团员工作中，存在以下情形的",
+   "heading_kind": "author",
+   "lines": [
+    170,
+    179
+   ],
+   "items": [
+    "pt-3f1530bfc7",
+    "pt-5e8528ad3b",
+    "pt-beec7816be",
+    "pt-7743d7d7e2",
+    "pt-57531e678d",
+    "pt-fdc2ef80e0",
+    "pt-323e018c5e"
+   ],
+   "chars": 199
+  },
+  {
+   "no": "第四十条",
+   "heading": "第四十条 对于发展团员工作中问题较多、情况较差的团组织",
+   "heading_kind": "author",
+   "lines": [
+    180,
+    181
+   ],
+   "items": [
+    "pt-0a8b45c19a"
+   ],
+   "chars": 42
+  },
+  {
+   "no": "第四十一条",
+   "heading": "第四十一条 新发展团员实行全国统一编号制度",
+   "heading_kind": "author",
+   "lines": [
+    182,
+    183
+   ],
+   "items": [
+    "pt-79969d1108"
+   ],
+   "chars": 47
+  },
+  {
+   "no": "第四十二条",
+   "heading": "第四十二条 入团志愿书的式样由共青团中央基层建设部负责制定",
+   "heading_kind": "author",
+   "lines": [
+    184,
+    186
+   ],
+   "items": [
+    "pt-f4f787bc40"
+   ],
+   "chars": 91
+  },
+  {
+   "no": "第六章",
+   "heading": "第六章 附则",
+   "heading_kind": "author",
+   "lines": [
+    187,
+    192
+   ],
+   "items": [
+    "pt-567d9df563"
+   ],
+   "chars": 136
+  },
+  {
+   "no": "第四十三条",
+   "heading": "第四十三条 团的各级领导机关可以结合实际",
+   "heading_kind": "author",
+   "lines": [
+    188,
+    189
+   ],
+   "items": [],
+   "chars": 45
+  },
+  {
+   "no": "第四十四条",
+   "heading": "第四十四条 本细则由共青团中央基层建设部负责解释",
+   "heading_kind": "author",
+   "lines": [
+    190,
+    190
+   ],
+   "items": [
+    "pt-4e8b17f6bd"
+   ],
+   "chars": 25
+  },
+  {
+   "no": "第四十五条",
+   "heading": "第四十五条 本细则自发布之日起施行",
+   "heading_kind": "author",
+   "lines": [
+    191,
+    192
+   ],
+   "items": [
+    "pt-0f709ad3f2"
+   ],
+   "chars": 60
+  }
+ ],
+ "items": [
+  "rule-aa7cb24a",
+  "pt-646bf2f75d",
+  "pt-aff154df3f",
+  "pt-ad99c340c0",
+  "pt-c2664ae5ef",
+  "pt-db4926f3fa",
+  "pt-cf0a97f688",
+  "pt-8f729856af",
+  "pt-dc819f81e0",
+  "pt-f83df22356",
+  "pt-d89522569e",
+  "pt-5f9cef16f3",
+  "pt-92b324ac1a",
+  "pt-dac93084cc",
+  "pt-e6c5d2e57c",
+  "pt-ba53c0b45d",
+  "pt-adf833acfc",
+  "pt-25d328de2e",
+  "pt-b72df8a9bc",
+  "pt-1132bdd305",
+  "pt-b12f6bc13f",
+  "pt-c84402c4d9",
+  "pt-d7d6e2f717",
+  "pt-8c37c15255",
+  "pt-a273e3fcf2",
+  "pt-6620c4df8a",
+  "pt-d82d443a88",
+  "pt-416fda7d29",
+  "pt-751ff7b59c",
+  "pt-85f9d4a2c1",
+  "pt-d2f4cbcdbe",
+  "pt-f0ff7bbd15",
+  "pt-f37000d0a2",
+  "pt-4ebf6a976c",
+  "pt-497611867d",
+  "pt-b21d68c4f2",
+  "pt-51f57729fb",
+  "pt-274e0aa2f4",
+  "pt-d5cd54facf",
+  "pt-02c99103f1",
+  "pt-56f9752bc2",
+  "pt-359212a1f0",
+  "pt-0d0ea49f15",
+  "pt-32b7ed55fe",
+  "pt-aab5320550",
+  "pt-1e9e7ea1f5",
+  "pt-9dc1d7419e",
+  "pt-b077805fe5",
+  "pt-f9ea02e154",
+  "pt-03e92643ab",
+  "pt-82895c7527",
+  "pt-78290386c7",
+  "pt-93e54734ac",
+  "pt-e560660e72",
+  "pt-81a3f06db1",
+  "pt-f225783a61",
+  "pt-5d79460910",
+  "pt-4cfdc33df2",
+  "pt-79fc81296c",
+  "pt-a630e1947d",
+  "pt-7cb4edc1ee",
+  "pt-c7ac11cd3f",
+  "pt-47b90a08f7",
+  "pt-181578edeb",
+  "pt-0536a99ee0",
+  "pt-3f1530bfc7",
+  "pt-5e8528ad3b",
+  "pt-beec7816be",
+  "pt-7743d7d7e2",
+  "pt-57531e678d",
+  "pt-fdc2ef80e0",
+  "pt-323e018c5e",
+  "pt-0a8b45c19a",
+  "pt-79969d1108",
+  "pt-f4f787bc40",
+  "pt-567d9df563",
+  "pt-4e8b17f6bd",
+  "pt-0f709ad3f2"
+ ],
+ "notes": [
+  "第 1–2 行是新闻标题与发布信息（「发布者：发布时间：2025-09-26 审核人：」，三项均为空值），3–22 行是四段新闻导语（修订背景、《细则》六个组成部分与要点），23 行「全文如下：」并入导语节。",
+  "第 24–28 行是细则名称与制定修订说明（2016 年 11 月 4 日审议批准、11 月 11 日发布，2023 年 8 月 11 日书记处会议修订、8 月 17 日发布），单独一节。",
+  "第一至第六章为父节，其下「第X条」为子节（真嵌套）；父节 items 只放引文起点落在章标题行的条目：pt-d7d6e2f717（29 行「第一章总则第一条…」）、pt-497611867d（84 行）、pt-4cfdc33df2（149 行）、pt-a630e1947d（155 行）、pt-567d9df563（187 行）；第二章的父节无条目（该章各条引文都起于条内）。",
+  "条内的「（一）（二）…」分项（第四条 39–41 行、第十条 62–66 行、第十九条 105–109 行、第二十一条 114–121 行、第三十九条 172–178 行）不单列节，统一归所属条，条目落点按 quote 起点记在该条区间内。",
+  "rule-aa7cb24a 为文档级条目（无引文），按口径同时列进文档级 items 与标题节；全文无 derived 之外的自拟节名，仅导语节的 heading 为概括。"
+ ]
+}

@@ -1,1 +1,220 @@
-ew0KICJrZXkiOiAiMjAyNjA2MDEtYzIwNjRhMjcxMTkzIiwNCiAidGl0bGUiOiAi5o6i6Lev5pm66IO95L2T77yM6LWL6IO95Lyg5aqS5Lia77yaMjAyNuS8oOWqkuaymem+meaaqOesrOS6jOWxiuS/oeaBr+S8oOaSreWtpuacr+iuuuWdm+WcqOS4reWbveS8oOWqkuWkp+WtpuS4vuihjCIsDQogInRydW5jYXRlZCI6IGZhbHNlLA0KICJzZWN0aW9ucyI6IFsNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLmjqLot6/mmbrog73kvZPvvIzotYvog73kvKDlqpLkuJrvvJoyMDI25Lyg5aqS5rKZ6b6Z5pqo56ys5LqM5bGK5L+h5oGv5Lyg5pKt5a2m5pyv6K665Z2b5Zyo5Lit5Zu95Lyg5aqS5aSn5a2m5Li+6KGMIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxLA0KICAgIDENCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWUxNDUxOWM1ZmIiDQogICBdLA0KICAgImNoYXJzIjogNDINCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLpobXpnaLmoYbmnrbvvIjnq5nngrnlr7zoiKroj5zljZXjgIHmoI/nm67lm77kuI7jgIzpppbpobUg5a2m6Zmi5paw6Ze744CN6Z2i5YyF5bGR77yJIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMiwNCiAgICAzMg0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMjU2DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5q2j5paH5qCH6aKY44CB5Y+R5biD5pe26Ze05LiO5rWP6KeI5qyh5pWwIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMzMsDQogICAgMzQNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDY0DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi6K665Z2b5oql6YGT5q2j5paH77yI5ZCE546v6IqC5Zu+5paH77yM5ZCr5Zu+5rOo6KGM77yJIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMzUsDQogICAgNzUNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTBlMjk3ZjA4YWYiLA0KICAgICJwdC1hMzc3ZWE3NTI3IiwNCiAgICAicHQtNmY1ZTFlYjBkYSIsDQogICAgInB0LWZjYTM5ODVmMjciLA0KICAgICJwdC1kZWVhYWI3MjY2Ig0KICAgXSwNCiAgICJjaGFycyI6IDQyMTMNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLlr7zor63vvJrorrrlnZvml7bpl7TjgIHkuLvpopjjgIHoh7Tovp7kuI7kuLvmjIHkurrlkZjjgIHlj4LkvJrop4TmqKEiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzNSwNCiAgICAzNQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMTY3ODIyYmRhYyIsDQogICAgInB0LTM4NjQ0MmE5ZTEiDQogICBdLA0KICAgImNoYXJzIjogMjIxDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5buW56Wl5b+g5Lmm6K6w6Ie06L6e77ya5ZCR5LiL5omO5qC544CB5ZCR5LiK55Sf6ZW/5LiO5a+55Lq65bel5pm66IO955qE5Lik56eN6K+v5Yy6IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMzYsDQogICAgMzgNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTIwN2RhZDFkNGIiLA0KICAgICJwdC1iYmRhMjg2NzVmIg0KICAgXSwNCiAgICJjaGFycyI6IDUyOA0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuWGr+Wjq+aWsOS5puiusOOAgemZoumVv+iHtOi+nu+8mua3seWMluW6lOeUqOOAgeS7t+WAvOW8lemihuS4juaJk+mAmuOAjOS6p+WtpueglOeUqOOAjSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDM5LA0KICAgIDQyDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0wMWJlNGEwMzY5IiwNCiAgICAicHQtMzMwMDlhNDZlMiINCiAgIF0sDQogICAiY2hhcnMiOiA1ODQNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLku7vlrZ/lsbHlia/moKHplb/kuLvmjIHlvIDluZXlvI/lm77ms6giLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA0MywNCiAgICA0NA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTE1DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5Li76aKY5ryU6K6y77ya5YWt5L2N5ryU6K6y5Lq655qE6KeC54K55LiO5ryU6K6y5Zu+5rOoIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNDUsDQogICAgNTgNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWYxYThmMzc2N2MiLA0KICAgICJwdC0yYzE1ODRmZjY4IiwNCiAgICAicHQtODVkZmFjOTQ1MSIsDQogICAgInB0LTMyMWFlZjRlZGYiLA0KICAgICJwdC0xMzU4MWU1MDhmIiwNCiAgICAicHQtZDJiNjQwODhjMSIsDQogICAgInB0LTA0ZDgzOWViNzIiDQogICBdLA0KICAgImNoYXJzIjogMTM3Mg0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuWchuahjOiuuuWdm+OAjOW9k+WqkuS9k+adpeS6huOAjuaWsOWRmOW3peOAj+KAlOKAlOaZuuiDveS9k+OAjeS4juWbm+S9jeWPkeiogOS6uuWbvuazqCIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDU5LA0KICAgIDY5DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1mOWZlYzcxZjdiIiwNCiAgICAicHQtNmRiNmMxZmNjNCIsDQogICAgInB0LTNlY2VhNGI4ZDIiLA0KICAgICJwdC1mMWY1OTczNTM3IiwNCiAgICAicHQtNzViZmZhZmRmMSINCiAgIF0sDQogICAiY2hhcnMiOiA4ODkNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLkv6Hmga/kvKDmkq3lrabpmaLmiqXlkYrljoXliIbkvJrlnLrlkIzmraXop4LnnIvnm7Tmkq0iLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA3MCwNCiAgICA3Mg0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTU1DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5oyH5a+844CB5Li75Yqe5LiO5Y2P5Yqe5Y2V5L2N77yM6K665Z2b6IOM5pmv5LiO6K665Z2b5ZCI5b2x5Zu+5rOoIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNzMsDQogICAgNzUNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTBlMjQyZTIzOWEiLA0KICAgICJwdC03MGJhN2Q2NjRkIg0KICAgXSwNCiAgICJjaGFycyI6IDM0OQ0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIumhteiEmu+8iOWPi+aDhemTvuaOpeOAgeWcsOWdgOOAgeeJiOadg+Wkh+ahiOS4juiuv+mXrue7n+iuoe+8iSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDc2LA0KICAgIDkzDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiA0MDUNCiAgfQ0KIF0sDQogIml0ZW1zIjogWw0KICAicHQtZTE0NTE5YzVmYiIsDQogICJwdC0xNjc4MjJiZGFjIiwNCiAgInB0LTM4NjQ0MmE5ZTEiLA0KICAicHQtMjA3ZGFkMWQ0YiIsDQogICJwdC1iYmRhMjg2NzVmIiwNCiAgInB0LTBlMjk3ZjA4YWYiLA0KICAicHQtMDFiZTRhMDM2OSIsDQogICJwdC0zMzAwOWE0NmUyIiwNCiAgInB0LWEzNzdlYTc1MjciLA0KICAicHQtZjFhOGYzNzY3YyIsDQogICJwdC0yYzE1ODRmZjY4IiwNCiAgInB0LTg1ZGZhYzk0NTEiLA0KICAicHQtMzIxYWVmNGVkZiIsDQogICJwdC0xMzU4MWU1MDhmIiwNCiAgInB0LWQyYjY0MDg4YzEiLA0KICAicHQtMDRkODM5ZWI3MiIsDQogICJwdC02ZjVlMWViMGRhIiwNCiAgInB0LWY5ZmVjNzFmN2IiLA0KICAicHQtNmRiNmMxZmNjNCIsDQogICJwdC0zZWNlYTRiOGQyIiwNCiAgInB0LWYxZjU5NzM1MzciLA0KICAicHQtNzViZmZhZmRmMSIsDQogICJwdC1mY2EzOTg1ZjI3IiwNCiAgInB0LWRlZWFhYjcyNjYiLA0KICAicHQtMGUyNDJlMjM5YSIsDQogICJwdC03MGJhN2Q2NjRkIg0KIF0sDQogIm5vdGVzIjogWw0KICAi56ysIDEg6KGM5piv5paH56ug5qCH6aKY77yI5LiO56ysIDMzIOihjOmHjeWkje+8jOmhteWktOmCo+S7veW9kumhtemdouahhuaetuiKguOAgeesrCAxIOihjOi/meS7veWNleWIl+agh+mimOiKgu+8jGhlYWRpbmcg6YCQ5a2X5Y+W6Ieq5Y6f5paH77yM5qCHIGF1dGhvcu+8ie+8m+esrCAy4oCTMzIg6KGM5Li65YWo56uZ5a+86Iiq6I+c5Y2V44CB5qCP55uu5Zu+5LiO44CM6aaW6aG1IOWtpumZouaWsOmXu+OAjemdouWMheWxkeOAgiIsDQogICLmnKzmlofmmK/kuInmrrXlvI/miqXpgZPvvIzmrrXokL3kuYvpl7TlpLnnnYDjgIxb6ZmE5Lu2XSDlm77niYfpk77mjqUgKyDlm77ms6jjgI3ooYzvvIjnrKwgMzcvMzjjgIE0MC80MeOAgTQzLzQ044CBNDbigJM1OOOAgTYw4oCTNjnjgIE3MS83MuOAgTc0Lzc1IOihjO+8ie+8jOayoeacieWOn+aWh+Wwj+agh+mimO+8jOaVheWFqOmDqOaMieeOr+iKguamguaLrOOAgeaghyBkZXJpdmVk44CCIiwNCiAgIueItuiKguOAjOiuuuWdm+aKpemBk+ato+aWh+OAjVszNSw3NV0g5YyF5L2P56ysIDM14oCTNzUg6KGM5ZCE546v6IqC5a2Q6IqC77yI5a2Q6IqC5Yy66Ze05Z2HIOKKhiDniLboioLvvInjgILmnIkgNSDmnaHmnaHnm67nmoTlvJXmlofotbfngrnokL3lnKjlm77ms6jooYzjgIHkuJTkuIDot6/ov57liLDkuIvkuIDmrrXmraPmlofvvIzmjInliKTmja7lj6rog73liJfliLDnq6DnuqfniLboioLvvIzmlYXov5vniLboioLvvJpwdC0wZTI5N2YwOGFm77yI56ysIDM4IOihjOWbvuazqOOAjOW7luelpeW/oOS5puiusOiHtOi+nuOAje+8i+esrCAzOSDooYzlhq/lo6vmlrDoh7Tovp7vvInjgIFwdC1hMzc3ZWE3NTI377yI56ysIDQ0IOihjOWbvuazqO+8i+esrCA0NSDooYzkuLvpopjmvJTorrLmgLvov7DvvInjgIFwdC02ZjVlMWViMGRh77yI56ysIDU4IOihjOWbvuazqOOAjOeJm+aYpemiluS4u+e8luS4u+aMgeOAje+8i+esrCA1OSDooYzlnIbmoYzorrrlnZvvvInjgIFwdC1mY2EzOTg1ZjI377yI56ysIDY5IOihjOWbvuazqOOAjOW8oOejiuWJr+mZoumVv+S4u+aMgeWchuahjOiuuuWdm+OAje+8i+esrCA3MCDooYzliIbkvJrlnLrvvInjgIFwdC1kZWVhYWI3MjY277yI56ysIDcyIOihjOWbvuazqOOAjOS/oeaBr+S8oOaSreWtpumZouaKpeWRiuWOheWIhuS8muWcuuOAje+8i+esrCA3MyDooYzkuLvlip7ljY/lip7kuI7orrrlnZvog4zmma/vvInjgIIiLA0KICAi5ZyG5qGM6K665Z2b5Zub5L2N5Y+R6KiA5Lq655qE5aeT5ZCN5Liy77yI56ysIDU5IOihjOato+aWh+mHjOS5n+WHuueOsOi/h+S4gOasoe+8jOWbvuazqOWcqOesrCA2MeOAgTYz44CBNjXjgIE2NyDooYzvvInvvJpwdC02ZGI2YzFmY2M044CBcHQtM2VjZWE0YjhkMuOAgXB0LWYxZjU5NzM1MzfjgIFwdC03NWJmZmFmZGYxIOeahOW8leaWh+WcqOi/meS4pOWkhOmDveiDveWRveS4re+8jOaMieWFtuWbvuazqOivreS5iee7n+S4gOWIl+i/m+OAjOWchuahjOiuuuWdm+OAjeiKgiBbNTksNjld44CCIiwNCiAgIuesrCAzM+KAkzM0IOihjOaYr+ato+aWh+mhtemHjeWkjeeahOagh+mimOS4juWPkeW4g+S/oeaBr++8iOWPkeW4g+aXtumXtCAyMDI2LTA1LTE444CB5rWP6KeI5qyh5pWwIDE177yJ77yb56ysIDc24oCTOTMg6KGM5Li66aG16ISa5Y+L5oOF6ZO+5o6l44CB5Zyw5Z2A6YKu57yW44CB54mI5p2D5aSH5qGI5LiO6K6/6Zeu57uf6K6h6ZmE5Lu25qCH6K6w44CCIiwNCiAgIjI2IOadoeadoeebruW8leaWh+WFqOmDqOiQveWcqOacrOaWh+WGhe+8jOaXoOi3qOaWh+S7tuW8leeUqO+8m+ato+aWh+WIsOesrCA3NSDooYzlm77ms6jjgIzorrrlnZvlkIjlvbHjgI3nu5PmnZ/vvIzlhbblkI7ljbPpobXohJrvvIx0cnVuY2F0ZWQ9ZmFsc2XjgIIiDQogXQ0KfQ==
+{
+ "key": "20260601-c2064a271193",
+ "title": "探路智能体，赋能传媒业：2026传媒沙龙暨第二届信息传播学术论坛在中国传媒大学举行",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "探路智能体，赋能传媒业：2026传媒沙龙暨第二届信息传播学术论坛在中国传媒大学举行",
+   "heading_kind": "author",
+   "lines": [
+    1,
+    1
+   ],
+   "items": [
+    "pt-e14519c5fb"
+   ],
+   "chars": 42
+  },
+  {
+   "no": "—",
+   "heading": "页面框架（站点导航菜单、栏目图与「首页 学院新闻」面包屑）",
+   "heading_kind": "derived",
+   "lines": [
+    2,
+    32
+   ],
+   "items": [],
+   "chars": 256
+  },
+  {
+   "no": "—",
+   "heading": "正文标题、发布时间与浏览次数",
+   "heading_kind": "derived",
+   "lines": [
+    33,
+    34
+   ],
+   "items": [],
+   "chars": 64
+  },
+  {
+   "no": "—",
+   "heading": "论坛报道正文（各环节图文，含图注行）",
+   "heading_kind": "derived",
+   "lines": [
+    35,
+    75
+   ],
+   "items": [
+    "pt-0e297f08af",
+    "pt-a377ea7527",
+    "pt-6f5e1eb0da",
+    "pt-fca3985f27",
+    "pt-deeaab7266"
+   ],
+   "chars": 4213
+  },
+  {
+   "no": "—",
+   "heading": "导语：论坛时间、主题、致辞与主持人员、参会规模",
+   "heading_kind": "derived",
+   "lines": [
+    35,
+    35
+   ],
+   "items": [
+    "pt-167822bdac",
+    "pt-386442a9e1"
+   ],
+   "chars": 221
+  },
+  {
+   "no": "—",
+   "heading": "廖祥忠书记致辞：向下扎根、向上生长与对人工智能的两种误区",
+   "heading_kind": "derived",
+   "lines": [
+    36,
+    38
+   ],
+   "items": [
+    "pt-207dad1d4b",
+    "pt-bbda28675f"
+   ],
+   "chars": 528
+  },
+  {
+   "no": "—",
+   "heading": "冯士新书记、院长致辞：深化应用、价值引领与打通「产学研用」",
+   "heading_kind": "derived",
+   "lines": [
+    39,
+    42
+   ],
+   "items": [
+    "pt-01be4a0369",
+    "pt-33009a46e2"
+   ],
+   "chars": 584
+  },
+  {
+   "no": "—",
+   "heading": "任孟山副校长主持开幕式图注",
+   "heading_kind": "derived",
+   "lines": [
+    43,
+    44
+   ],
+   "items": [],
+   "chars": 115
+  },
+  {
+   "no": "—",
+   "heading": "主题演讲：六位演讲人的观点与演讲图注",
+   "heading_kind": "derived",
+   "lines": [
+    45,
+    58
+   ],
+   "items": [
+    "pt-f1a8f3767c",
+    "pt-2c1584ff68",
+    "pt-85dfac9451",
+    "pt-321aef4edf",
+    "pt-13581e508f",
+    "pt-d2b64088c1",
+    "pt-04d839eb72"
+   ],
+   "chars": 1372
+  },
+  {
+   "no": "—",
+   "heading": "圆桌论坛「当媒体来了『新员工』——智能体」与四位发言人图注",
+   "heading_kind": "derived",
+   "lines": [
+    59,
+    69
+   ],
+   "items": [
+    "pt-f9fec71f7b",
+    "pt-6db6c1fcc4",
+    "pt-3ecea4b8d2",
+    "pt-f1f5973537",
+    "pt-75bffafdf1"
+   ],
+   "chars": 889
+  },
+  {
+   "no": "—",
+   "heading": "信息传播学院报告厅分会场同步观看直播",
+   "heading_kind": "derived",
+   "lines": [
+    70,
+    72
+   ],
+   "items": [],
+   "chars": 155
+  },
+  {
+   "no": "—",
+   "heading": "指导、主办与协办单位，论坛背景与论坛合影图注",
+   "heading_kind": "derived",
+   "lines": [
+    73,
+    75
+   ],
+   "items": [
+    "pt-0e242e239a",
+    "pt-70ba7d664d"
+   ],
+   "chars": 349
+  },
+  {
+   "no": "—",
+   "heading": "页脚（友情链接、地址、版权备案与访问统计）",
+   "heading_kind": "derived",
+   "lines": [
+    76,
+    93
+   ],
+   "items": [],
+   "chars": 405
+  }
+ ],
+ "items": [
+  "pt-e14519c5fb",
+  "pt-167822bdac",
+  "pt-386442a9e1",
+  "pt-207dad1d4b",
+  "pt-bbda28675f",
+  "pt-0e297f08af",
+  "pt-01be4a0369",
+  "pt-33009a46e2",
+  "pt-a377ea7527",
+  "pt-f1a8f3767c",
+  "pt-2c1584ff68",
+  "pt-85dfac9451",
+  "pt-321aef4edf",
+  "pt-13581e508f",
+  "pt-d2b64088c1",
+  "pt-04d839eb72",
+  "pt-6f5e1eb0da",
+  "pt-f9fec71f7b",
+  "pt-6db6c1fcc4",
+  "pt-3ecea4b8d2",
+  "pt-f1f5973537",
+  "pt-75bffafdf1",
+  "pt-fca3985f27",
+  "pt-deeaab7266",
+  "pt-0e242e239a",
+  "pt-70ba7d664d"
+ ],
+ "notes": [
+  "第 1 行是文章标题（与第 33 行重复，页头那份归页面框架节、第 1 行这份单列标题节，heading 逐字取自原文，标 author）；第 2–32 行为全站导航菜单、栏目图与「首页 学院新闻」面包屑。",
+  "本文是三段式报道，段落之间夹着「[附件] 图片链接 + 图注」行（第 37/38、40/41、43/44、46–58、60–69、71/72、74/75 行），没有原文小标题，故全部按环节概括、标 derived。",
+  "父节「论坛报道正文」[35,75] 包住第 35–75 行各环节子节（子节区间均 ⊆ 父节）。有 5 条条目的引文起点落在图注行、且一路连到下一段正文，按判据只能列到章级父节，故进父节：pt-0e297f08af（第 38 行图注「廖祥忠书记致辞」＋第 39 行冯士新致辞）、pt-a377ea7527（第 44 行图注＋第 45 行主题演讲总述）、pt-6f5e1eb0da（第 58 行图注「牛春颖主编主持」＋第 59 行圆桌论坛）、pt-fca3985f27（第 69 行图注「张磊副院长主持圆桌论坛」＋第 70 行分会场）、pt-deeaab7266（第 72 行图注「信息传播学院报告厅分会场」＋第 73 行主办协办与论坛背景）。",
+  "圆桌论坛四位发言人的姓名串（第 59 行正文里也出现过一次，图注在第 61、63、65、67 行）：pt-6db6c1fcc4、pt-3ecea4b8d2、pt-f1f5973537、pt-75bffafdf1 的引文在这两处都能命中，按其图注语义统一列进「圆桌论坛」节 [59,69]。",
+  "第 33–34 行是正文页重复的标题与发布信息（发布时间 2026-05-18、浏览次数 15）；第 76–93 行为页脚友情链接、地址邮编、版权备案与访问统计附件标记。",
+  "26 条条目引文全部落在本文内，无跨文件引用；正文到第 75 行图注「论坛合影」结束，其后即页脚，truncated=false。"
+ ]
+}

@@ -1,1 +1,136 @@
-ewogICJrZXkiOiAiMjAyNjA4MDEtYzIwNjVhMjczMDk1IiwKICAidGl0bGUiOiAi56ys5Y2B5LqU5bGK5YWo5Zu95paw6Ze75a2m5LiO5Lyg5pKt5a2m5Y2a5aOr55Sf5a2m5pyv56CU6K6o5Lya77yIMjAyNu+8ieW+geeov+WHvSIsCiAgInRydW5jYXRlZCI6IGZhbHNlLAogICJzZWN0aW9ucyI6IFsKICAgIHsKICAgICAgIm5vIjogIumhtemdouahhuaetiIsCiAgICAgICJoZWFkaW5nIjogIuermeeCueWktOS4juWFqOermeWvvOiIqiIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICAgICJsaW5lcyI6IFsxLCA1OV0sCiAgICAgICJpdGVtcyI6IFtdLAogICAgICAiY2hhcnMiOiAyNzYKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLpobXlpLQiLAogICAgICAiaGVhZGluZyI6ICLmoI/nm67pnaLljIXlsZHjgIHmlofnq6DmoIfpopjkuI7lj5HluIPml7bpl7QiLAogICAgICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAgICAibGluZXMiOiBbNjEsIDY3XSwKICAgICAgIml0ZW1zIjogWyJwdC02ZmI4ZmU5MzE0Il0sCiAgICAgICJjaGFycyI6IDY0CiAgICB9LAogICAgewogICAgICAibm8iOiAi5a+86K+tIiwKICAgICAgImhlYWRpbmciOiAi5b6B56i/6IOM5pmv5LiO6YKA6K+3IiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgICAgImxpbmVzIjogWzY5LCA3M10sCiAgICAgICJpdGVtcyI6IFsicHQtODM1ZDI2ZjY0OCIsICJwdC1iNmFmNWVjZDNkIiwgInB0LTFmN2I2ZTc1NjUiLCAicHQtY2U3NThlZmZjMCJdLAogICAgICAiY2hhcnMiOiA0ODEKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLmraPmlofmnaHnm64iLAogICAgICAiaGVhZGluZyI6ICLmraPmlofmnaHnm67vvIjkuIDjgIHkvJrorq7kuLvpopjoh7PokL3mrL7vvIkiLAogICAgICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAgICAibGluZXMiOiBbNzUsIDE1NV0sCiAgICAgICJpdGVtcyI6IFsicHQtYzZkY2ViYjkxNCJdLAogICAgICAiY2hhcnMiOiAxMTY4CiAgICB9LAogICAgewogICAgICAibm8iOiAi5LiA44CBIiwKICAgICAgImhlYWRpbmciOiAi5Lya6K6u5Li76aKYIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbNzUsIDc3XSwKICAgICAgIml0ZW1zIjogW10sCiAgICAgICJjaGFycyI6IDE3CiAgICB9LAogICAgewogICAgICAibm8iOiAi5LqM44CBIiwKICAgICAgImhlYWRpbmciOiAi57uE57uH5Y2V5L2NIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbNzksIDg3XSwKICAgICAgIml0ZW1zIjogWyJwdC04ZTRiZDBkNjE4Il0sCiAgICAgICJjaGFycyI6IDEzOAogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuS4ieOAgSIsCiAgICAgICJoZWFkaW5nIjogIuS8muiuruWul+aXqCIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzg5LCA5MV0sCiAgICAgICJpdGVtcyI6IFsicHQtMWMzZDYwYTIwYiIsICJwdC0wNjM3ZmU2ODI4Il0sCiAgICAgICJjaGFycyI6IDIxOQogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuWbm+OAgSIsCiAgICAgICJoZWFkaW5nIjogIuW+geaWh+aWueWQke+8iOWMheaLrOS9huS4jemZkOS6juS7peS4i+iurumimO+8iSIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzkzLCAxMTNdLAogICAgICAiaXRlbXMiOiBbInB0LTIxNDEwNTI1OTMiXSwKICAgICAgImNoYXJzIjogMTU4CiAgICB9LAogICAgewogICAgICAibm8iOiAi5LqU44CBIiwKICAgICAgImhlYWRpbmciOiAi5oqV56i/6KaB5rGCIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbMTE1LCAxMjddLAogICAgICAiaXRlbXMiOiBbInB0LTZjMTg5ZDRiN2EiLCAicHQtYzcyZWYwMGJlMiIsICJwdC05NjMxN2E5OGFhIiwgInB0LTkyYzA4MDhiNWIiXSwKICAgICAgImNoYXJzIjogMzE0CiAgICB9LAogICAgewogICAgICAibm8iOiAi5YWt44CBIiwKICAgICAgImhlYWRpbmciOiAi5oqV56i/5pel56iLIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbMTI5LCAxMzddLAogICAgICAiaXRlbXMiOiBbInB0LTA3ZTlkMWVmNDgiXSwKICAgICAgImNoYXJzIjogMTU5CiAgICB9LAogICAgewogICAgICAibm8iOiAi5LiD44CBIiwKICAgICAgImhlYWRpbmciOiAi5Lya6K6u55u45YWz5LqL6aG5IiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbMTM5LCAxNDVdLAogICAgICAiaXRlbXMiOiBbInB0LWJiOTgxMGUwZGYiLCAicHQtNDY2NzcyN2YzOCJdLAogICAgICAiY2hhcnMiOiA5MgogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuWFq+OAgSIsCiAgICAgICJoZWFkaW5nIjogIuWSqOivouiBlOe7nCIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzE0NywgMTQ5XSwKICAgICAgIml0ZW1zIjogWyJwdC1lZTk2NGEyY2FkIl0sCiAgICAgICJjaGFycyI6IDM3CiAgICB9LAogICAgewogICAgICAibm8iOiAi6JC95qy+IiwKICAgICAgImhlYWRpbmciOiAi57uE5aeU5Lya6JC95qy+5LiO5pel5pyfIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgICAgImxpbmVzIjogWzE1MSwgMTU1XSwKICAgICAgIml0ZW1zIjogW10sCiAgICAgICJjaGFycyI6IDM0CiAgICB9LAogICAgewogICAgICAibm8iOiAi6aG16ISaIiwKICAgICAgImhlYWRpbmciOiAi56uZ54K56aG16ISa77yI5Y+L5oOF6ZO+5o6l44CB6IGU57O75Zyw5Z2A44CB54mI5p2D5aSH5qGI44CB5Zue5Yiw6aG26YOo77yJIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgICAgImxpbmVzIjogWzE1NywgMTkxXSwKICAgICAgIml0ZW1zIjogW10sCiAgICAgICJjaGFycyI6IDQwNQogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuWPi+aDhemTvuaOpSIsCiAgICAgICJoZWFkaW5nIjogIuWPi+aDhemTvuaOpSIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzE2MSwgMTc3XSwKICAgICAgIml0ZW1zIjogW10sCiAgICAgICJjaGFycyI6IDgyCiAgICB9CiAgXSwKICAiaXRlbXMiOiBbInB0LTZmYjhmZTkzMTQiLCAicHQtODM1ZDI2ZjY0OCIsICJwdC1iNmFmNWVjZDNkIiwgInB0LTFmN2I2ZTc1NjUiLCAicHQtY2U3NThlZmZjMCIsICJwdC1jNmRjZWJiOTE0IiwgInB0LThlNGJkMGQ2MTgiLCAicHQtMWMzZDYwYTIwYiIsICJwdC0wNjM3ZmU2ODI4IiwgInB0LTIxNDEwNTI1OTMiLCAicHQtNmMxODlkNGI3YSIsICJwdC1jNzJlZjAwYmUyIiwgInB0LTk2MzE3YTk4YWEiLCAicHQtOTJjMDgwOGI1YiIsICJwdC0wN2U5ZDFlZjQ4IiwgInB0LWJiOTgxMGUwZGYiLCAicHQtNDY2NzcyN2YzOCIsICJwdC1lZTk2NGEyY2FkIl0sCiAgIm5vdGVzIjogWwogICAgIuihjOWwvuWdke+8muacrOS7tuavj+S4gOadoeato+aWh+ihjOS5i+mXtOmDveWkueS4gOS4quepuuihjO+8iExGIOWFsSAxOTAg5Liq77yMc3BsaXQoJ1xcbicpIOW+lyAxOTEg5q6177yJ77yM57yW6L6R5Zmo6YeM55yL5Yiw55qE56ysIE4g6KGM5a+55bqU6KGM5Y+3IDJOLTHjgILmiYDmnIkgbGluZXMg5bey5oyJIFB5dGhvbiDlj6PlvoTlhpnvvIjlhYjmlbDov4cgbGVuKHJlYWRfdGV4dCgpLnNwbGl0KCdcXG4nKSk9MTkx77yJ77yMc2VjdGlvbnNfY2hlY2sg5ZCM5LiA5Y+j5b6E44CCIiwKICAgICLnrKwgMeKAkzU5IOihjOaYr+mhteWktOS4juWFqOermeWvvOiIqu+8iOmZouezu+agj+ebru+8muWFs+S6juaIkeS7rC/lrabnlJ/ln7nlhbsv5a2m5pyv56CU56m2L+WFmue+pOW3peS9nC/lm73pmYXlkIjkvZwv6YCa55+l5YWs5ZGKL+WPi+aDhemTvuaOpeetie+8ie+8jOWQiOW5tuS4uuOAjOmhtemdouahhuaetuOAjeS4gOiKgu+8m+esrCA2MeKAkzY3IOihjOaYr+OAjOmmlumhtSDpgJrnn6XlhazlkYrjgI3pnaLljIXlsZHjgIHmlofnq6DmoIfpopjkuI7jgIzlj5HluIPml7bpl7TvvJoyMDI2LTA4LTAxIOa1j+iniOasoeaVsO+8mjEw44CN77yM5Y2V5YiX44CM6aG15aS044CN6IqC77yb56ysIDY54oCTNzMg6KGM5LiJ5q615a+86K+t5Y2V5YiX44CCIiwKICAgICLmraPmlofoh6rjgIzkuIDjgIHkvJrorq7kuLvpopjjgI3oh7PjgIzlhavjgIHlkqjor6LogZTnu5zjgI3kuLrljp/mlofnnJ/lsI/oioLvvIzmoIcgYXV0aG9y77yb54i26IqC44CM5q2j5paH5p2h55uu44CNNzXigJMxNTUg5a6M5pW05YyF5L2P5LiA6Iez5YWr5Y+K6JC95qy+77yIMTUx4oCTMTU177yJ77yM5Y+q5YGa55yf5bWM5aWX44CCIiwKICAgICJwdC1jNmRjZWJiOTE0IOeahOW8leaWh+aYr+OAjOS4gOOAgeS8muiuruS4u+mimCDmmbrog73ml7bku6PnmoTkv6Hmga/kvKDmkq3lj5jpnakg5LqM44CB57uE57uH5Y2V5L2NIOS4u+WKnuWNleS9je+8muKApuOAjei/nuivu++8jOi3qOS6huOAjOS4gOOAgeOAjeS4juOAjOS6jOOAgeOAjeS4pOS4quWwj+iKgui+ueeVjO+8jOaVheWIl+WcqOWMheS9j+aVtOauteeahOeItuiKgu+8jOS4jeehrOWhnui/m+afkOS4gOWwj+iKguOAgiIsCiAgICAi56ysIDE1N+KAkzE5MSDooYzmmK/nq5nngrnpobXohJrvvIjmqKHmnb8gbG9nby90YWdvMS5wbmfjgIHlj4vmg4Xpk77mjqXjgIHlnLDlnYDjgIzljJfkuqzluILmnJ3pmLPljLrlrprnpo/luoTkuJzooZfkuIDlj7fjgI3jgIHpgq7nvJYgMTAwMDI044CB5LqsIElDUCDlpIcgMTAwMzk1NjQg5Y+344CB5Lqs5YWs572R5a6J5aSHIDExMDQwMjQzMDAzMSDlj7fjgIHmioDmnK/mlK/mjIHjgIHlm57liLDpobbpg6jjgIHorr/pl67nu5/orqHlm77niYfkvY3vvInvvIzlkIjlubbkuLrjgIzpobXohJrjgI3niLboioLvvIzlhbbkuK3jgIzlj4vmg4Xpk77mjqXjgI0xNjHigJMxNzcg5Y2V5YiX5Li65a2Q6IqC77yI5Y6f5paH6Ieq5bim6K+l5qCH6aKY77yJ44CCIiwKICAgICLmnKzku7bmmK/nvZHpobXmipPlj5bku7bvvIzmraPmloflrozmlbTvvIjnu5PlsL7mnInpobXohJrkuI7orr/pl67nu5/orqHvvInvvIzml6AgcnVsZS08c2x1Zz4g5paH5qGj57qn5p2h55uu77yMMTgg5p2h5YWo5pivIHB0LSog5LiU5YWo6YOo5oyJIHF1b3RlIOWumuS9jeOAgiIKICBdCn0K
+{
+  "key": "20260801-c2065a273095",
+  "title": "第十五届全国新闻学与传播学博士生学术研讨会（2026）征稿函",
+  "truncated": false,
+  "sections": [
+    {
+      "no": "页面框架",
+      "heading": "站点头与全站导航",
+      "heading_kind": "derived",
+      "lines": [1, 59],
+      "items": [],
+      "chars": 276
+    },
+    {
+      "no": "页头",
+      "heading": "栏目面包屑、文章标题与发布时间",
+      "heading_kind": "derived",
+      "lines": [61, 67],
+      "items": ["pt-6fb8fe9314"],
+      "chars": 64
+    },
+    {
+      "no": "导语",
+      "heading": "征稿背景与邀请",
+      "heading_kind": "derived",
+      "lines": [69, 73],
+      "items": ["pt-835d26f648", "pt-b6af5ecd3d", "pt-1f7b6e7565", "pt-ce758effc0"],
+      "chars": 481
+    },
+    {
+      "no": "正文条目",
+      "heading": "正文条目（一、会议主题至落款）",
+      "heading_kind": "derived",
+      "lines": [75, 155],
+      "items": ["pt-c6dcebb914"],
+      "chars": 1168
+    },
+    {
+      "no": "一、",
+      "heading": "会议主题",
+      "heading_kind": "author",
+      "lines": [75, 77],
+      "items": [],
+      "chars": 17
+    },
+    {
+      "no": "二、",
+      "heading": "组织单位",
+      "heading_kind": "author",
+      "lines": [79, 87],
+      "items": ["pt-8e4bd0d618"],
+      "chars": 138
+    },
+    {
+      "no": "三、",
+      "heading": "会议宗旨",
+      "heading_kind": "author",
+      "lines": [89, 91],
+      "items": ["pt-1c3d60a20b", "pt-0637fe6828"],
+      "chars": 219
+    },
+    {
+      "no": "四、",
+      "heading": "征文方向（包括但不限于以下议题）",
+      "heading_kind": "author",
+      "lines": [93, 113],
+      "items": ["pt-2141052593"],
+      "chars": 158
+    },
+    {
+      "no": "五、",
+      "heading": "投稿要求",
+      "heading_kind": "author",
+      "lines": [115, 127],
+      "items": ["pt-6c189d4b7a", "pt-c72ef00be2", "pt-96317a98aa", "pt-92c0808b5b"],
+      "chars": 314
+    },
+    {
+      "no": "六、",
+      "heading": "投稿日程",
+      "heading_kind": "author",
+      "lines": [129, 137],
+      "items": ["pt-07e9d1ef48"],
+      "chars": 159
+    },
+    {
+      "no": "七、",
+      "heading": "会议相关事项",
+      "heading_kind": "author",
+      "lines": [139, 145],
+      "items": ["pt-bb9810e0df", "pt-4667727f38"],
+      "chars": 92
+    },
+    {
+      "no": "八、",
+      "heading": "咨询联络",
+      "heading_kind": "author",
+      "lines": [147, 149],
+      "items": ["pt-ee964a2cad"],
+      "chars": 37
+    },
+    {
+      "no": "落款",
+      "heading": "组委会落款与日期",
+      "heading_kind": "derived",
+      "lines": [151, 155],
+      "items": [],
+      "chars": 34
+    },
+    {
+      "no": "页脚",
+      "heading": "站点页脚（友情链接、联系地址、版权备案、回到顶部）",
+      "heading_kind": "derived",
+      "lines": [157, 191],
+      "items": [],
+      "chars": 405
+    },
+    {
+      "no": "友情链接",
+      "heading": "友情链接",
+      "heading_kind": "author",
+      "lines": [161, 177],
+      "items": [],
+      "chars": 82
+    }
+  ],
+  "items": ["pt-6fb8fe9314", "pt-835d26f648", "pt-b6af5ecd3d", "pt-1f7b6e7565", "pt-ce758effc0", "pt-c6dcebb914", "pt-8e4bd0d618", "pt-1c3d60a20b", "pt-0637fe6828", "pt-2141052593", "pt-6c189d4b7a", "pt-c72ef00be2", "pt-96317a98aa", "pt-92c0808b5b", "pt-07e9d1ef48", "pt-bb9810e0df", "pt-4667727f38", "pt-ee964a2cad"],
+  "notes": [
+    "行尾坑：本件每一条正文行之间都夹一个空行（LF 共 190 个，split('\\n') 得 191 段），编辑器里看到的第 N 行对应行号 2N-1。所有 lines 已按 Python 口径写（先数过 len(read_text().split('\\n'))=191），sections_check 同一口径。",
+    "第 1–59 行是页头与全站导航（院系栏目：关于我们/学生培养/学术研究/党群工作/国际合作/通知公告/友情链接等），合并为「页面框架」一节；第 61–67 行是「首页 通知公告」面包屑、文章标题与「发布时间：2026-08-01 浏览次数：10」，单列「页头」节；第 69–73 行三段导语单列。",
+    "正文自「一、会议主题」至「八、咨询联络」为原文真小节，标 author；父节「正文条目」75–155 完整包住一至八及落款（151–155），只做真嵌套。",
+    "pt-c6dcebb914 的引文是「一、会议主题 智能时代的信息传播变革 二、组织单位 主办单位：…」连读，跨了「一、」与「二、」两个小节边界，故列在包住整段的父节，不硬塞进某一小节。",
+    "第 157–191 行是站点页脚（模板 logo/tago1.png、友情链接、地址「北京市朝阳区定福庄东街一号」、邮编 100024、京 ICP 备 10039564 号、京公网安备 110402430031 号、技术支持、回到顶部、访问统计图片位），合并为「页脚」父节，其中「友情链接」161–177 单列为子节（原文自带该标题）。",
+    "本件是网页抓取件，正文完整（结尾有页脚与访问统计），无 rule-<slug> 文档级条目，18 条全是 pt-* 且全部按 quote 定位。"
+  ]
+}

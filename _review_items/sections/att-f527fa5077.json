@@ -1,1 +1,106 @@
-ewogImtleSI6ICJhdHQtZjUyN2ZhNTA3NyIsCiAidGl0bGUiOiAi5YWz5LqO5byA5bGVMjAyNuKAlDIwMjflrablubTnp4vlraPlrabmnJ8yMDI257qn5paw55Sf6YCJ6K++5bel5L2c55qE6YCa55+lwrfpmYTku7bvvIjlrabnlJ/pgInor77mk43kvZzmiYvlhozjgIHlkITlrabpmaLmlZnlrablip7nlLXor53vvIkiLAogInRydW5jYXRlZCI6IGZhbHNlLAogInNlY3Rpb25zIjogWwogIHsKICAgIm5vIjogIumZhOS7tjEiLAogICAiaGVhZGluZyI6ICLlrabnlJ/pgInor77mk43kvZzmiYvlhozvvIjpopjlkI3kuI7nmbvlvZXpgInor77ns7vnu5/vvIkiLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbMSwgMjBdLAogICAiaXRlbXMiOiBbInB0LWRkNWQwYjAyZGMiXSwKICAgImNoYXJzIjogMzA1CiAgfSwKICB7CiAgICJubyI6ICLpopjlkI0iLAogICAiaGVhZGluZyI6ICLlrabnlJ/pgInor77mk43kvZzmiYvlhowiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsxLCA1XSwKICAgIml0ZW1zIjogWyJwdC0wODM5ZWNmNTFiIl0sCiAgICJjaGFycyI6IDY1CiAgfSwKICB7CiAgICJubyI6ICLkuIDjgIEiLAogICAiaGVhZGluZyI6ICLkuIDjgIEg55m75b2V6YCJ6K++57O757ufIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbNiwgMjBdLAogICAiaXRlbXMiOiBbInB0LTM1NjkwZWRkYWQiLCAicHQtZjJiMTBiMjdjYSIsICJwdC0xMmExYjBlZTc1Il0sCiAgICJjaGFycyI6IDI0MAogIH0sCiAgewogICAibm8iOiAi5LqM44CBIiwKICAgImhlYWRpbmciOiAi5LqM44CBIOmAieivvuaTjeS9nOatpemqpCIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzIxLCA0OV0sCiAgICJpdGVtcyI6IFsicHQtYzI5Y2VkOTFkZiIsICJwdC00NzJmZDYyMzVkIl0sCiAgICJjaGFycyI6IDk2NwogIH0sCiAgewogICAibm8iOiAi5LqM77yI5LiA77yJIiwKICAgImhlYWRpbmciOiAi6YCJ6K++57O757uf5Lit5pyJ5LiN5ZCM5qih5Z2XIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbMjIsIDQ3XSwKICAgIml0ZW1zIjogWyJwdC0xZjhlYmViMzcwIiwgInB0LWY3NTAyMTQwMDIiLCAicHQtMGNjMDQ4NGJhZCIsICJwdC03ODJlMTg4NDNkIl0sCiAgICJjaGFycyI6IDkxNAogIH0sCiAgewogICAibm8iOiAi5LqM77yI5LqM77yJIiwKICAgImhlYWRpbmciOiAi6YCa6K+G6YCJ5L+u6K++56iL6YCJ6K++IiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbNDgsIDQ5XSwKICAgIml0ZW1zIjogW10sCiAgICJjaGFycyI6IDQ0CiAgfSwKICB7CiAgICJubyI6ICLlm5vjgIEiLAogICAiaGVhZGluZyI6ICLlm5vjgIHnibnliKvmj5DnpLoiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs1MCwgNTZdLAogICAiaXRlbXMiOiBbInB0LTFlZDQ3Mjc5YWUiLCAicHQtZjRmODY0OWVlOCJdLAogICAiY2hhcnMiOiAxNTcKICB9LAogIHsKICAgIm5vIjogIumZhOS7tjIiLAogICAiaGVhZGluZyI6ICLlkITlrabpmaLmlZnlrablip7nlLXor50iLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs1OCwgNzJdLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogNzAzCiAgfSwKICB7CiAgICJubyI6ICLooagyIiwKICAgImhlYWRpbmciOiAi5YW25LuW5Yqe5YWs55S16K+dIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbNzMsIDgwXSwKICAgIml0ZW1zIjogWyJwdC00OTk0MzdmYjBhIiwgInB0LTA1OTNkZGY3ZWYiLCAicHQtNWUxOWRiYTMzNyIsICJwdC1kYWIwMmM2MWVlIl0sCiAgICJjaGFycyI6IDE0NAogIH0KIF0sCiAiaXRlbXMiOiBbCiAgInB0LTM1NjkwZWRkYWQiLAogICJwdC1mMmIxMGIyN2NhIiwKICAicHQtMWY4ZWJlYjM3MCIsCiAgInB0LTA4MzllY2Y1MWIiLAogICJwdC1kZDVkMGIwMmRjIiwKICAicHQtMTJhMWIwZWU3NSIsCiAgInB0LWMyOWNlZDkxZGYiLAogICJwdC1mNzUwMjE0MDAyIiwKICAicHQtMGNjMDQ4NGJhZCIsCiAgInB0LTc4MmUxODg0M2QiLAogICJwdC00NzJmZDYyMzVkIiwKICAicHQtMWVkNDcyNzlhZSIsCiAgInB0LWY0Zjg2NDllZTgiLAogICJwdC00OTk0MzdmYjBhIiwKICAicHQtMDU5M2RkZjdlZiIsCiAgInB0LTVlMTlkYmEzMzciLAogICJwdC1kYWIwMmM2MWVlIgogXSwKICJub3RlcyI6IFsKICAi56ysIDEg6KGM5piv5LiK5ri45oq95Y+W6ZmE55qE6ZmE5Lu25paH5Lu25ZCN6KGM44CMW+mZhOS7tjHvvJrlrabnlJ/pgInor77mk43kvZzmiYvlhowucGRmXeOAje+8jOesrCA1OCDooYzmmK/jgIxb6ZmE5Lu2Mu+8muWQhOWtpumZouaVmeWtpuWKnueUteivnS54bHNd44CN77yb5q2j5paH5a6e5Li65Lik5Lu96ZmE5Lu25ou85ZCI77yM5pWF5oyJ44CM6ZmE5Lu2MeOAjeOAjOmZhOS7tjLjgI3kuKTmrrXlu7roioLjgIIiLAogICLnvJblj7fmlq3moaPvvJrpmYTku7YxIOS+neasoeS4uuOAjOS4gOOAgeeZu+W9lemAieivvuezu+e7n+OAjeOAjOS6jOOAgemAieivvuaTjeS9nOatpemqpOOAje+8jOmaj+WQjuebtOaOpei3s+WIsOOAjOWbm+OAgeeJueWIq+aPkOekuuOAje+8jOWFqOaWh+aXoOOAjOS4ieOAgeOAje+8m+aMieWOn+aWh+S/neeVmee8luWPt++8jOacquihpeiKguOAgiIsCiAgIueJiOW8j+aui+eVme+8mueVjOmdoi/miKrlm77ml4HmloflrZfooqvmir3miJDmlaPooYzvvIgxMeKAkzE5IOihjOeahOOAjOWJqeS9meaXtumXtOWAkuiuoeaXtuOAjeOAjOmAieivvui9ruasoeWQjeensOOAjeOAjOmAieivvuaXtumXtOiMg+WbtOOAjeetie+8jDI4LzMyLzM24oCTMzgvNDQvNDYg6KGM55qE5oiq5Zu+5qCH5rOo77yJ77yM5oyJ5Y6f5paH55WZ5Zyo5omA5bGe6IqC5YaF77yM5pyq6YeN5o6S44CCIiwKICAi6ZmE5Lu2MiDnlLEgeGxzIOaKveWHuu+8iDYx4oCTODAg6KGM77yJ77ya44CM5ZCE5a2m6Zmi5pWZ5a2m5Yqe55S16K+d44CNMjIg5a625Y2V5L2N5oiQ5LiA5byg6KGo77yM44CM5YW25LuW5Yqe5YWs55S16K+d44CNNCDooYzmiJDlj6bkuIDlvKDooajvvIzmnKvlsL4gW1NoZWV0Ml1bU2hlZXQzXSDkuLrnqbrooajmoIforrDjgIIiLAogICJwdC1kZDVkMGIwMmRjIOeahOW8leaWh+S7juOAjOmZhOS7tuOAje+8iOesrCAyIOihjO+8iei1t+OAgei3qOWIsOOAjOS4gOOAgeOAjeeahOmAieivvue9keWdgO+8iOesrCA3IOihjO+8ie+8jOi3qOiKgui+ueeVjO+8jOaVheW7uueItuiKguOAjOmZhOS7tjEg5a2m55Sf6YCJ6K++5pON5L2c5omL5YaM77yI6aKY5ZCN5LiO55m75b2V6YCJ6K++57O757uf77yJ44CNWzEsMjBdIOWMheS9j++8jOadoeebruiusOWcqOeItuiKgu+8iOecn+W1jOWll++8mumimOWQjVsxLDVd44CB5LiA44CBWzYsMjBdIOWdh+WcqOWFtuWGhe+8ieOAgiIsCiAgInB0LTQ5OTQzN2ZiMGHjgIFwdC0wNTkzZGRmN2Vm44CBcHQtNWUxOWRiYTMzN+OAgXB0LWRhYjAyYzYxZWUg55qE5byV5paH5YmN5Y2K6LW35LqO44CM5Zub44CB54m55Yir5o+Q56S644CN77yM5a6e6ZmF5ZG95Lit6KGM6JC95Zyo44CM5YW25LuW5Yqe5YWs55S16K+d44CN6KGo77yINzPigJM3OSDooYzvvInvvIzmlYXliJflhaXor6XoioLogIzpnZ7jgIzlm5vjgIHnibnliKvmj5DnpLrjgI3jgIIiCiBdCn0K
+{
+ "key": "att-f527fa5077",
+ "title": "关于开展2026—2027学年秋季学期2026级新生选课工作的通知·附件（学生选课操作手册、各学院教学办电话）",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "附件1",
+   "heading": "学生选课操作手册（题名与登录选课系统）",
+   "heading_kind": "derived",
+   "lines": [1, 20],
+   "items": ["pt-dd5d0b02dc"],
+   "chars": 305
+  },
+  {
+   "no": "题名",
+   "heading": "学生选课操作手册",
+   "heading_kind": "author",
+   "lines": [1, 5],
+   "items": ["pt-0839ecf51b"],
+   "chars": 65
+  },
+  {
+   "no": "一、",
+   "heading": "一、 登录选课系统",
+   "heading_kind": "author",
+   "lines": [6, 20],
+   "items": ["pt-35690eddad", "pt-f2b10b27ca", "pt-12a1b0ee75"],
+   "chars": 240
+  },
+  {
+   "no": "二、",
+   "heading": "二、 选课操作步骤",
+   "heading_kind": "author",
+   "lines": [21, 49],
+   "items": ["pt-c29ced91df", "pt-472fd6235d"],
+   "chars": 967
+  },
+  {
+   "no": "二（一）",
+   "heading": "选课系统中有不同模块",
+   "heading_kind": "author",
+   "lines": [22, 47],
+   "items": ["pt-1f8ebeb370", "pt-f750214002", "pt-0cc0484bad", "pt-782e18843d"],
+   "chars": 914
+  },
+  {
+   "no": "二（二）",
+   "heading": "通识选修课程选课",
+   "heading_kind": "author",
+   "lines": [48, 49],
+   "items": [],
+   "chars": 44
+  },
+  {
+   "no": "四、",
+   "heading": "四、特别提示",
+   "heading_kind": "author",
+   "lines": [50, 56],
+   "items": ["pt-1ed47279ae", "pt-f4f8649ee8"],
+   "chars": 157
+  },
+  {
+   "no": "附件2",
+   "heading": "各学院教学办电话",
+   "heading_kind": "author",
+   "lines": [58, 72],
+   "items": [],
+   "chars": 703
+  },
+  {
+   "no": "表2",
+   "heading": "其他办公电话",
+   "heading_kind": "author",
+   "lines": [73, 80],
+   "items": ["pt-499437fb0a", "pt-0593ddf7ef", "pt-5e19dba337", "pt-dab02c61ee"],
+   "chars": 144
+  }
+ ],
+ "items": [
+  "pt-35690eddad",
+  "pt-f2b10b27ca",
+  "pt-1f8ebeb370",
+  "pt-0839ecf51b",
+  "pt-dd5d0b02dc",
+  "pt-12a1b0ee75",
+  "pt-c29ced91df",
+  "pt-f750214002",
+  "pt-0cc0484bad",
+  "pt-782e18843d",
+  "pt-472fd6235d",
+  "pt-1ed47279ae",
+  "pt-f4f8649ee8",
+  "pt-499437fb0a",
+  "pt-0593ddf7ef",
+  "pt-5e19dba337",
+  "pt-dab02c61ee"
+ ],
+ "notes": [
+  "第 1 行是上游抽取附的附件文件名行「[附件1：学生选课操作手册.pdf]」，第 58 行是「[附件2：各学院教学办电话.xls]」；正文实为两份附件拼合，故按「附件1」「附件2」两段建节。",
+  "编号断档：附件1 依次为「一、登录选课系统」「二、选课操作步骤」，随后直接跳到「四、特别提示」，全文无「三、」；按原文保留编号，未补节。",
+  "版式残留：界面/截图旁文字被抽成散行（11–19 行的「剩余时间倒计时」「选课轮次名称」「选课时间范围」等，28/32/36–38/44/46 行的截图标注），按原文留在所属节内，未重排。",
+  "附件2 由 xls 抽出（61–80 行）：「各学院教学办电话」22 家单位成一张表，「其他办公电话」4 行成另一张表，末尾 [Sheet2][Sheet3] 为空表标记。",
+  "pt-dd5d0b02dc 的引文从「附件」（第 2 行）起、跨到「一、」的选课网址（第 7 行），跨节边界，故建父节「附件1 学生选课操作手册（题名与登录选课系统）」[1,20] 包住，条目记在父节（真嵌套：题名[1,5]、一、[6,20] 均在其内）。",
+  "pt-499437fb0a、pt-0593ddf7ef、pt-5e19dba337、pt-dab02c61ee 的引文前半起于「四、特别提示」，实际命中行落在「其他办公电话」表（73–79 行），故列入该节而非「四、特别提示」。"
+ ]
+}

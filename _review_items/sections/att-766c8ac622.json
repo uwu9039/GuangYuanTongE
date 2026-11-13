@@ -1,1 +1,137 @@
-ew0KICJrZXkiOiAiYXR0LTc2NmM4YWM2MjIiLA0KICJ0aXRsZSI6ICLkuK3lsYLnrqHnkIbkurrlkZjpgInmi5Tku7vnlKjlt6XkvZzmnaHkvosiLA0KICJ0cnVuY2F0ZWQiOiBmYWxzZSwNCiAic2VjdGlvbnMiOiBbDQogIHsNCiAgICJubyI6ICLnrKzkuIDnq6AiLA0KICAgImhlYWRpbmciOiAi56ys5LiA56ugIOaAuyDliJkiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDEsDQogICAgMjYNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTBlM2FiZWFlMWEiLA0KICAgICJwdC1jNjQ1ZWM2ODE3IiwNCiAgICAicHQtNmExODVlOTVlMCIsDQogICAgInB0LTJmYjc0ZjQxODgiLA0KICAgICJwdC1lMDRjNDI4NmZjIiwNCiAgICAicHQtZjRhY2M0ODJlZiIsDQogICAgInB0LThjNTMxMTdkZjAiLA0KICAgICJwdC04NzhhZjFlYjkyIg0KICAgXSwNCiAgICJjaGFycyI6IDM1NA0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LqM56ugIiwNCiAgICJoZWFkaW5nIjogIuesrOS6jOeroCDpgInmi5Tku7vnlKjkuK3lsYLnrqHnkIbkurrlkZjnmoTmnaHku7blkozotYTmoLwiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDI4LA0KICAgIDU2DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1kY2ZiOWViMzhjIiwNCiAgICAicHQtNmRmYzI2ZWFiNCIsDQogICAgInB0LWViMmU5MDNiNzkiLA0KICAgICJwdC05M2I4NmY5YjE2IiwNCiAgICAicHQtZmMxZmI5YzcxNCIsDQogICAgInB0LWE5YzI3MjFjZTYiLA0KICAgICJwdC02YjRkN2EyM2RlIiwNCiAgICAicHQtM2E3OWQxNmE3MyIsDQogICAgInB0LTY4ZDc4MzUzOWMiDQogICBdLA0KICAgImNoYXJzIjogNDc1DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuInnq6AiLA0KICAgImhlYWRpbmciOiAi56ys5LiJ56ugIOmAieaLlOS7u+eUqOS4reWxgueuoeeQhuS6uuWRmOeahOeoi+W6jyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNTgsDQogICAgOTUNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTY4NzI0ZWJmZWMiLA0KICAgICJwdC03MDNhOGMwNzJhIiwNCiAgICAicHQtYjRhZWJjYjM5MyIsDQogICAgInB0LTUyMDI4MWY0NGIiLA0KICAgICJwdC1lYzAyMjI1NzBlIiwNCiAgICAicHQtZDUzMDFiMjgzMiIsDQogICAgInB0LTE2ZTZlNDA1MDkiLA0KICAgICJwdC0xNDc2OTY5MTJiIiwNCiAgICAicHQtNWE4YTJhYzBiMiIsDQogICAgInB0LWZhZWUyY2VlYjciDQogICBdLA0KICAgImNoYXJzIjogNjUxDQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzlm5vnq6AiLA0KICAgImhlYWRpbmciOiAi56ys5Zub56ugIOS7uyDogYwiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDk3LA0KICAgIDEwOQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNDczMDc3Mzc1NiIsDQogICAgInB0LTMxMmE2NjU1YzgiLA0KICAgICJwdC0xYjNiZDk5ZjMzIg0KICAgXSwNCiAgICJjaGFycyI6IDI3OQ0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LqU56ugIiwNCiAgICJoZWFkaW5nIjogIuesrOS6lOeroCDpmYTliJkiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDExMSwNCiAgICAxMTUNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWYwYzNlNjU3ODgiLA0KICAgICJwdC0yZDI2YTZmYjExIg0KICAgXSwNCiAgICJjaGFycyI6IDg0DQogIH0NCiBdLA0KICJpdGVtcyI6IFsNCiAgInB0LTBlM2FiZWFlMWEiLA0KICAicHQtYzY0NWVjNjgxNyIsDQogICJwdC02YTE4NWU5NWUwIiwNCiAgInB0LTJmYjc0ZjQxODgiLA0KICAicHQtZTA0YzQyODZmYyIsDQogICJwdC1mNGFjYzQ4MmVmIiwNCiAgInB0LThjNTMxMTdkZjAiLA0KICAicHQtODc4YWYxZWI5MiIsDQogICJwdC1kY2ZiOWViMzhjIiwNCiAgInB0LTZkZmMyNmVhYjQiLA0KICAicHQtZWIyZTkwM2I3OSIsDQogICJwdC05M2I4NmY5YjE2IiwNCiAgInB0LWZjMWZiOWM3MTQiLA0KICAicHQtYTljMjcyMWNlNiIsDQogICJwdC02YjRkN2EyM2RlIiwNCiAgInB0LTNhNzlkMTZhNzMiLA0KICAicHQtNjhkNzgzNTM5YyIsDQogICJwdC02ODcyNGViZmVjIiwNCiAgInB0LTcwM2E4YzA3MmEiLA0KICAicHQtYjRhZWJjYjM5MyIsDQogICJwdC01MjAyODFmNDRiIiwNCiAgInB0LWVjMDIyMjU3MGUiLA0KICAicHQtZDUzMDFiMjgzMiIsDQogICJwdC0xNmU2ZTQwNTA5IiwNCiAgInB0LTE0NzY5NjkxMmIiLA0KICAicHQtNWE4YTJhYzBiMiIsDQogICJwdC1mYWVlMmNlZWI3IiwNCiAgInB0LTQ3MzA3NzM3NTYiLA0KICAicHQtMzEyYTY2NTVjOCIsDQogICJwdC0xYjNiZDk5ZjMzIiwNCiAgInB0LWYwYzNlNjU3ODgiLA0KICAicHQtMmQyNmE2ZmIxMSINCiBdLA0KICJub3RlcyI6IFsNCiAgIuS6lOeroOWNgeWbm+adoee7k+aehOWujOaVtO+8jOeroOagh+mimOS4uuWOn+aWh+WxheS4reagh+mimO+8jOmAkOWtl+WPr+afpe+8iOWQq+OAjOaAuyDliJnjgI3jgIzku7sg6IGM44CN5Lit55qE56m65qC877yJ44CCIiwNCiAgIuaWh+aho+mmluihjOagh+mimO+8iOesrCAxIOihjO+8ieacquWNleWIl+aIkOiKgu+8jOS9nOS4uiB0aXRsZSDlj5blgLzjgIIiDQogXQ0KfQ0K
+{
+ "key": "att-766c8ac622",
+ "title": "中层管理人员选拔任用工作条例",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "第一章",
+   "heading": "第一章 总 则",
+   "heading_kind": "author",
+   "lines": [
+    1,
+    26
+   ],
+   "items": [
+    "pt-0e3abeae1a",
+    "pt-c645ec6817",
+    "pt-6a185e95e0",
+    "pt-2fb74f4188",
+    "pt-e04c4286fc",
+    "pt-f4acc482ef",
+    "pt-8c53117df0",
+    "pt-878af1eb92"
+   ],
+   "chars": 354
+  },
+  {
+   "no": "第二章",
+   "heading": "第二章 选拔任用中层管理人员的条件和资格",
+   "heading_kind": "author",
+   "lines": [
+    28,
+    56
+   ],
+   "items": [
+    "pt-dcfb9eb38c",
+    "pt-6dfc26eab4",
+    "pt-eb2e903b79",
+    "pt-93b86f9b16",
+    "pt-fc1fb9c714",
+    "pt-a9c2721ce6",
+    "pt-6b4d7a23de",
+    "pt-3a79d16a73",
+    "pt-68d783539c"
+   ],
+   "chars": 475
+  },
+  {
+   "no": "第三章",
+   "heading": "第三章 选拔任用中层管理人员的程序",
+   "heading_kind": "author",
+   "lines": [
+    58,
+    95
+   ],
+   "items": [
+    "pt-68724ebfec",
+    "pt-703a8c072a",
+    "pt-b4aebcb393",
+    "pt-520281f44b",
+    "pt-ec0222570e",
+    "pt-d5301b2832",
+    "pt-16e6e40509",
+    "pt-147696912b",
+    "pt-5a8a2ac0b2",
+    "pt-faee2ceeb7"
+   ],
+   "chars": 651
+  },
+  {
+   "no": "第四章",
+   "heading": "第四章 任 职",
+   "heading_kind": "author",
+   "lines": [
+    97,
+    109
+   ],
+   "items": [
+    "pt-4730773756",
+    "pt-312a6655c8",
+    "pt-1b3bd99f33"
+   ],
+   "chars": 279
+  },
+  {
+   "no": "第五章",
+   "heading": "第五章 附则",
+   "heading_kind": "author",
+   "lines": [
+    111,
+    115
+   ],
+   "items": [
+    "pt-f0c3e65788",
+    "pt-2d26a6fb11"
+   ],
+   "chars": 84
+  }
+ ],
+ "items": [
+  "pt-0e3abeae1a",
+  "pt-c645ec6817",
+  "pt-6a185e95e0",
+  "pt-2fb74f4188",
+  "pt-e04c4286fc",
+  "pt-f4acc482ef",
+  "pt-8c53117df0",
+  "pt-878af1eb92",
+  "pt-dcfb9eb38c",
+  "pt-6dfc26eab4",
+  "pt-eb2e903b79",
+  "pt-93b86f9b16",
+  "pt-fc1fb9c714",
+  "pt-a9c2721ce6",
+  "pt-6b4d7a23de",
+  "pt-3a79d16a73",
+  "pt-68d783539c",
+  "pt-68724ebfec",
+  "pt-703a8c072a",
+  "pt-b4aebcb393",
+  "pt-520281f44b",
+  "pt-ec0222570e",
+  "pt-d5301b2832",
+  "pt-16e6e40509",
+  "pt-147696912b",
+  "pt-5a8a2ac0b2",
+  "pt-faee2ceeb7",
+  "pt-4730773756",
+  "pt-312a6655c8",
+  "pt-1b3bd99f33",
+  "pt-f0c3e65788",
+  "pt-2d26a6fb11"
+ ],
+ "notes": [
+  "五章十四条结构完整，章标题为原文居中标题，逐字可查（含「总 则」「任 职」中的空格）。",
+  "文档首行标题（第 1 行）未单列成节，作为 title 取值。"
+ ]
+}

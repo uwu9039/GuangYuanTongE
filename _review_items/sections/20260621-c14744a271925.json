@@ -1,1 +1,72 @@
-ewogImtleSI6ICIyMDI2MDYyMS1jMTQ3NDRhMjcxOTI1IiwKICJ0aXRsZSI6ICLmt7Hlrabnu4bmgp/lhZrku6PkvJrnsr7npZ4g6IGa5Yqb6LWL6IO96auY6LSo6YeP5Y+R5bGV77ya5L+h5oGv5Lyg5pKt5a2m6Zmi5Li+5Yqe5a2m5Lmg5Lit5Zu95Lyg5aqS5aSn5a2m56ys5Zub5qyh5YWa5Luj5Lya57K+56We56CU6K6o5LyaIiwKICJ0cnVuY2F0ZWQiOiBmYWxzZSwKICJzZWN0aW9ucyI6IFsKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLmt7Hlrabnu4bmgp/lhZrku6PkvJrnsr7npZ4g6IGa5Yqb6LWL6IO96auY6LSo6YeP5Y+R5bGV77ya5L+h5oGv5Lyg5pKt5a2m6Zmi5Li+5Yqe5a2m5Lmg5Lit5Zu95Lyg5aqS5aSn5a2m56ys5Zub5qyh5YWa5Luj5Lya57K+56We56CU6K6o5LyaIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbMSwgMV0sCiAgICJpdGVtcyI6IFsicHQtMTdkYTJjOTAwYyJdLAogICAiY2hhcnMiOiA0NwogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi6aG16Z2i5qGG5p6277yI5a2m6Zmi56uZ54K55a+86Iiq5LiO5qCP55uu6I+c5Y2V77yJIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzIsIDM0XSwKICAgIml0ZW1zIjogW10sCiAgICJjaGFycyI6IDI4OAogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi5paH56ug5qCH6aKY5LiO5Y+R5biD5L+h5oGvIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzM1LCAzNl0sCiAgICJpdGVtcyI6IFtdLAogICAiY2hhcnMiOiA2OQogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi5a2m6Zmi5Y+s5byA5pWZ6IGM5bel5aSn5Lya5Lyg6L6+5a2m5Lmg5YWa5Luj5Lya57K+56WeIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzM3LCA0MF0sCiAgICJpdGVtcyI6IFsicHQtNjNjYTA0YjViMSIsICJwdC0xZWYwMzMxYzljIiwgInB0LTFhMWI5MWI3NTEiXSwKICAgImNoYXJzIjogNTI0CiAgfSwKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLku6XkuIvmmK/pg6jliIbmlZnluIjnmoTlrabkuaDkvZPkvJoiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs0MSwgNTZdLAogICAiaXRlbXMiOiBbInB0LWQ1MDY1Y2Q5NDkiLCAicHQtZWRjMWY4ZWMwMCIsICJwdC0xNzA2NGQ3ZjQ2IiwgInB0LTI5MTM1ZDE3YjIiLCAicHQtY2JlY2Y5YWU5ZiIsICJwdC00NmNmNzRlYjUwIiwgInB0LWQxNjZmYmRiOWMiLCAicHQtNDY3YTM3MTljZSIsICJwdC01MTg3YjU5NjgwIiwgInB0LWNlYjNhOTQ2MjQiLCAicHQtODIyYzg5NzEzOSIsICJwdC1lM2VkOTczYTdkIiwgInB0LWViNzNjYTVlYTciLCAicHQtZjdhNTk2ODcwYyIsICJwdC02OTM3MGMzNGY0IiwgInB0LWU0MjI3NjZhYTUiLCAicHQtNzVlNjNmMjllYiIsICJwdC1iZGI5ZGMwZTQ3IiwgInB0LWRhNDg4ZDI1OGUiLCAicHQtNjEzOGRjNjU4YyIsICJwdC00MzFmZGE2YTE2Il0sCiAgICJjaGFycyI6IDMyODEKICB9LAogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIumhteiEmu+8iOWPi+aDhemTvuaOpeOAgeWcsOWdgOS4jueJiOadg++8iSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFs1NywgNzRdLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogNDA1CiAgfSwKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLlj4vmg4Xpk77mjqUiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs1OSwgNjddLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogODIKICB9CiBdLAogIml0ZW1zIjogWyJwdC0xN2RhMmM5MDBjIiwgInB0LTYzY2EwNGI1YjEiLCAicHQtMWVmMDMzMWM5YyIsICJwdC0xYTFiOTFiNzUxIiwgInB0LWQ1MDY1Y2Q5NDkiLCAicHQtZWRjMWY4ZWMwMCIsICJwdC0xNzA2NGQ3ZjQ2IiwgInB0LTI5MTM1ZDE3YjIiLCAicHQtY2JlY2Y5YWU5ZiIsICJwdC00NmNmNzRlYjUwIiwgInB0LWQxNjZmYmRiOWMiLCAicHQtNDY3YTM3MTljZSIsICJwdC01MTg3YjU5NjgwIiwgInB0LWNlYjNhOTQ2MjQiLCAicHQtODIyYzg5NzEzOSIsICJwdC1lM2VkOTczYTdkIiwgInB0LWViNzNjYTVlYTciLCAicHQtZjdhNTk2ODcwYyIsICJwdC02OTM3MGMzNGY0IiwgInB0LWU0MjI3NjZhYTUiLCAicHQtNzVlNjNmMjllYiIsICJwdC1iZGI5ZGMwZTQ3IiwgInB0LWRhNDg4ZDI1OGUiLCAicHQtNjEzOGRjNjU4YyIsICJwdC00MzFmZGE2YTE2Il0sCiAibm90ZXMiOiBbCiAgIue9kemhteaKk+WPlue7k+aenO+8mjLigJMzNCDooYzmmK/jgIzkv6Hmga/kvKDmkq3lrabpmaLjgI3nq5nngrnlr7zoiKrvvIjpppbpobXjgIHlhbPkuo7miJHku6zjgIHlrabpmaLnroDku4vigKbigKblm73pmYXlkIjkvZzvvInjgIIzMeKAkzM0IOihjOaYr+mdouWMheWxkeS4juagj+ebruWIh+aNou+8iOmmlumhtSDlhZrnvqTlt6XkvZwg5YWa5bu65Yqo5oCBIC8g5YWa5bu65Yqo5oCBIC8g5Zui5a2m5Yqo5oCB77yJ77yM5LiA5bm25b2S44CM6aG16Z2i5qGG5p6244CN6IqC44CCIiwKICAi56ysIDEg6KGM5LiO56ysIDM1IOihjOaYr+WQjOS4gOagh+mimO+8iOWQq+S4gOWkhOepuuagvOW3ruW8gu+8ie+8jOesrCAxIOihjOWNleWIl+OAjOagh+mimOOAjeiKgu+8jOesrCAzNSDooYzpmo/jgIzmlofnq6DmoIfpopjkuI7lj5HluIPkv6Hmga/jgI3oioLvvIgzNiDooYzkuLrlj5HluIPml7bpl7TkuI7mtY/op4jmrKHmlbDvvInvvIzmnKrmiormoIfpopjooYznrpfov5vmraPmlofoioLjgIIiLAogICLmraPmlofml6DlsI/moIfpopjvvJozN+KAkzM5IOihjOaYr+S4ieautei/nue7reWPmei/sO+8iOS8muiuruWPrOW8gOOAgeS8oOi+vuaKpeWRiuOAgeS8muiuruimgeaxgu+8ie+8jOesrCA0MCDooYzmmK/mrrXokL3pl7TnmoTphY3lm77pmYTku7booYzvvIzlkIjkuLrjgIzlrabpmaLlj6zlvIDmlZnogYzlt6XlpKfkvJrkvKDovr7lrabkuaDlhZrku6PkvJrnsr7npZ7jgI3kuIDoioLvvIxoZWFkaW5nIOS4uuamguaLrO+8iGRlcml2ZWTvvInjgIIiLAogICI0MSDooYzjgIzku6XkuIvmmK/pg6jliIbmlZnluIjnmoTlrabkuaDkvZPkvJrvvJrjgI3mmK/mnKzoioLllK/kuIDnmoTlsI/moIfpopjooYzvvIw0MuKAkzU2IOihjOaYryAxNSDkvY3mlZnluIjpgJDkurrkuIDmrrXnmoTlj5HoqIDvvIzlkKvlhZrlp5TkuaborrDku5jplb/mtbfjgIHpmaLplb/mnY7oiJLjgIHlhZrlp5Tlia/kuaborrDotbXkuLnjgIHlia/pmaLplb/mnY7nu6fkuJzjgIHlia/pmaLplb/lvKDno4rnrYnvvJvmraPmlofmjInjgIzlp5PlkI3vvI/ogYzliqHvvJrlj5HoqIDjgI3pgJDooYzmjpLliJfvvIzml6Dni6znq4vmoIfpopjjgIIiLAogICI1N+KAkzU4IOihjOaYr+S4pOS4quWbvueJh+mZhOS7tuagh+iusO+8iGxvZ29fdy5zdmfjgIF0YWdvMS5wbmfvvInvvIw1OCDooYzliY3nmoTmlofnq6DphY3lm77lnKjnrKwgNDAg6KGM77ybNTfigJM3NCDooYzmlbTkvZPkvZzjgIzpobXohJrjgI3niLboioLvvIzlhbblhoUgNTnigJM2NyDooYzjgIzlj4vmg4Xpk77mjqXjgI3kuLrlrZDoioLvvIjnnJ/ltYzlpZfvvInjgIIiLAogICLlkIzkuIDkurrnmoTlj5HoqIDlnKggNDTjgIE0NuOAgTQ344CBNDjjgIE1MyDooYzlkITlh7rnjrDkuKTmrKHmnaHnm67vvIjkuIDlj6XmgLvov7AgKyDkuIDlj6Xnu4bov7DvvIzlpoIgcHQtNTE4N2I1OTY4MCDkuI4gcHQtY2ViM2E5NDYyNCDlkIzlsZ7lia/pmaLplb/lvKDno4rlj5HoqIDvvInvvIzkuKTku6PlvJXmlofpg73okL3lnKjjgIzmlZnluIjlrabkuaDkvZPkvJrjgI3oioLjgIIiCiBdCn0K
+{
+ "key": "20260621-c14744a271925",
+ "title": "深学细悟党代会精神 聚力赋能高质量发展：信息传播学院举办学习中国传媒大学第四次党代会精神研讨会",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "深学细悟党代会精神 聚力赋能高质量发展：信息传播学院举办学习中国传媒大学第四次党代会精神研讨会",
+   "heading_kind": "author",
+   "lines": [1, 1],
+   "items": ["pt-17da2c900c"],
+   "chars": 47
+  },
+  {
+   "no": "—",
+   "heading": "页面框架（学院站点导航与栏目菜单）",
+   "heading_kind": "derived",
+   "lines": [2, 34],
+   "items": [],
+   "chars": 288
+  },
+  {
+   "no": "—",
+   "heading": "文章标题与发布信息",
+   "heading_kind": "derived",
+   "lines": [35, 36],
+   "items": [],
+   "chars": 69
+  },
+  {
+   "no": "—",
+   "heading": "学院召开教职工大会传达学习党代会精神",
+   "heading_kind": "derived",
+   "lines": [37, 40],
+   "items": ["pt-63ca04b5b1", "pt-1ef0331c9c", "pt-1a1b91b751"],
+   "chars": 524
+  },
+  {
+   "no": "—",
+   "heading": "以下是部分教师的学习体会",
+   "heading_kind": "author",
+   "lines": [41, 56],
+   "items": ["pt-d5065cd949", "pt-edc1f8ec00", "pt-17064d7f46", "pt-29135d17b2", "pt-cbecf9ae9f", "pt-46cf74eb50", "pt-d166fbdb9c", "pt-467a3719ce", "pt-5187b59680", "pt-ceb3a94624", "pt-822c897139", "pt-e3ed973a7d", "pt-eb73ca5ea7", "pt-f7a596870c", "pt-69370c34f4", "pt-e422766aa5", "pt-75e63f29eb", "pt-bdb9dc0e47", "pt-da488d258e", "pt-6138dc658c", "pt-431fda6a16"],
+   "chars": 3281
+  },
+  {
+   "no": "—",
+   "heading": "页脚（友情链接、地址与版权）",
+   "heading_kind": "derived",
+   "lines": [57, 74],
+   "items": [],
+   "chars": 405
+  },
+  {
+   "no": "—",
+   "heading": "友情链接",
+   "heading_kind": "author",
+   "lines": [59, 67],
+   "items": [],
+   "chars": 82
+  }
+ ],
+ "items": ["pt-17da2c900c", "pt-63ca04b5b1", "pt-1ef0331c9c", "pt-1a1b91b751", "pt-d5065cd949", "pt-edc1f8ec00", "pt-17064d7f46", "pt-29135d17b2", "pt-cbecf9ae9f", "pt-46cf74eb50", "pt-d166fbdb9c", "pt-467a3719ce", "pt-5187b59680", "pt-ceb3a94624", "pt-822c897139", "pt-e3ed973a7d", "pt-eb73ca5ea7", "pt-f7a596870c", "pt-69370c34f4", "pt-e422766aa5", "pt-75e63f29eb", "pt-bdb9dc0e47", "pt-da488d258e", "pt-6138dc658c", "pt-431fda6a16"],
+ "notes": [
+  "网页抓取结果：2–34 行是「信息传播学院」站点导航（首页、关于我们、学院简介……国际合作）。31–34 行是面包屑与栏目切换（首页 党群工作 党建动态 / 党建动态 / 团学动态），一并归「页面框架」节。",
+  "第 1 行与第 35 行是同一标题（含一处空格差异），第 1 行单列「标题」节，第 35 行随「文章标题与发布信息」节（36 行为发布时间与浏览次数），未把标题行算进正文节。",
+  "正文无小标题：37–39 行是三段连续叙述（会议召开、传达报告、会议要求），第 40 行是段落间的配图附件行，合为「学院召开教职工大会传达学习党代会精神」一节，heading 为概括（derived）。",
+  "41 行「以下是部分教师的学习体会：」是本节唯一的小标题行，42–56 行是 15 位教师逐人一段的发言，含党委书记付长海、院长李舒、党委副书记赵丹、副院长李继东、副院长张磊等；正文按「姓名／职务：发言」逐行排列，无独立标题。",
+  "57–58 行是两个图片附件标记（logo_w.svg、tago1.png），58 行前的文章配图在第 40 行；57–74 行整体作「页脚」父节，其内 59–67 行「友情链接」为子节（真嵌套）。",
+  "同一人的发言在 44、46、47、48、53 行各出现两次条目（一句总述 + 一句细述，如 pt-5187b59680 与 pt-ceb3a94624 同属副院长张磊发言），两代引文都落在「教师学习体会」节。"
+ ]
+}

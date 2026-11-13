@@ -1,1 +1,114 @@
-ew0KICJrZXkiOiAiNDAyZWNmMjgzMSIsDQogInRpdGxlIjogIuS4reWbveS8oOWqkuWkp+WtpuWbouWnlCIsDQogInRydW5jYXRlZCI6IGZhbHNlLA0KICJzZWN0aW9ucyI6IFsNCiAgew0KICAgIm5vIjogIumhtemdouahhuaetiIsDQogICAiaGVhZGluZyI6ICLnq5nngrnpobXlpLTjgIHkuLvlr7zoiKrkuI7moI/nm67mkJzntKIiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxLA0KICAgIDEzDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1kMTliZDJjMDM1IiwNCiAgICAicHQtMjRkOTRmOTg5ZiIsDQogICAgInB0LWEzMjVjMWFhOGIiLA0KICAgICJwdC1kMmVkMjA3ZDlhIg0KICAgXSwNCiAgICJjaGFycyI6IDE1Ng0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuaWsOmXu+WKqOaAgSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTQsDQogICAgMzINCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTM2YWQyOWIzYTkiDQogICBdLA0KICAgImNoYXJzIjogNDMyDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5Zui5a2m57uE57uH5LuL57uNIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzMywNCiAgICA2MA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZjljOGFjN2FiZiIsDQogICAgInB0LTllNGJmYmRhZDEiLA0KICAgICJwdC0xMWU2M2U1MjQ0IiwNCiAgICAicHQtOTJlZDhlYjFjNyIsDQogICAgInB0LTcyZTFiNjY3ZmEiLA0KICAgICJwdC1kMmZjYzU4YzFmIiwNCiAgICAicHQtYzEzYmYyYTBlYSIsDQogICAgInB0LTRiNjRkNzljMjkiLA0KICAgICJwdC03YWQyZGVjYTJjIiwNCiAgICAicHQtZTEwNzU2MWU1NyIsDQogICAgInB0LTdjNmRlYjRiNWQiLA0KICAgICJwdC0wNTMyMmFiNmFkIg0KICAgXSwNCiAgICJjaGFycyI6IDI2NTgNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLpgJrnn6XlhazlkYoiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDYxLA0KICAgIDc0DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAzMjQNCiAgfSwNCiAgew0KICAgIm5vIjogIumhteiEmiIsDQogICAiaGVhZGluZyI6ICLniYjmnYPjgIHlnLDlnYDkuI7pobXpnaLlhbPpl63mj5DnpLoiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA3NSwNCiAgICA4MQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMjI1Mzg3YTg0MCIsDQogICAgInB0LTZjMTRiZDdmNmYiDQogICBdLA0KICAgImNoYXJzIjogNDMxDQogIH0NCiBdLA0KICJpdGVtcyI6IFsNCiAgInJ1bGUtNDAyZWNmMjgzMSIsDQogICJwdC1kMTliZDJjMDM1IiwNCiAgInB0LTI0ZDk0Zjk4OWYiLA0KICAicHQtYTMyNWMxYWE4YiIsDQogICJwdC1kMmVkMjA3ZDlhIiwNCiAgInB0LTM2YWQyOWIzYTkiLA0KICAicHQtZjljOGFjN2FiZiIsDQogICJwdC05ZTRiZmJkYWQxIiwNCiAgInB0LTExZTYzZTUyNDQiLA0KICAicHQtOTJlZDhlYjFjNyIsDQogICJwdC03MmUxYjY2N2ZhIiwNCiAgInB0LWQyZmNjNThjMWYiLA0KICAicHQtYzEzYmYyYTBlYSIsDQogICJwdC00YjY0ZDc5YzI5IiwNCiAgInB0LTdhZDJkZWNhMmMiLA0KICAicHQtZTEwNzU2MWU1NyIsDQogICJwdC03YzZkZWI0YjVkIiwNCiAgInB0LTA1MzIyYWI2YWQiLA0KICAicHQtMjI1Mzg3YTg0MCIsDQogICJwdC02YzE0YmQ3ZjZmIg0KIF0sDQogIm5vdGVzIjogWw0KICAi5oqT5Y+W5a+56LGh5piv5qCh5Zui5aeU6Zeo5oi36aaW6aG177ya56ysIDHigJMxMyDooYzkuLrpobXlpLTjgIHkuLvlr7zoiKrvvIjlm6Llp5TnroDku4sv55u05bGe6YOo6ZeoL+iBlOezu+aIkeS7rC/mlrDpl7vliqjmgIEv6YCa55+l5YWs5ZGKL+eQhuiuuuWtpuS5oC/lrabnlJ/nu4Tnu4cv5pS/562W5paH5Lu277yJ5LiO5qCP55uu5pCc57Si77yM56ysIDE04oCTMzIg6KGM5Li644CM5paw6Ze75Yqo5oCB44CN5YiX6KGo77yM56ysIDMz4oCTNjAg6KGM5Li644CM5Zui5a2m57uE57uH5LuL57uN44CN77yM56ysIDYx4oCTNzQg6KGM5Li644CM6YCa55+l5YWs5ZGK44CN5YiX6KGo77yM56ysIDc14oCTODEg6KGM5Li66aG16ISa5LiO5by55bGC44CM5YWz6Zet44CN5oyJ6ZKu44CCIiwNCiAgIuesrCAzM+KAkzYwIOihjOeahOe7hOe7h+S7i+e7jeaYr+OAjOWbvueJh+WNoOS9jSArIOe7hOe7h+WQjSArIOS4gOauteeugOS7i+OAjeS4ieauteS4gOe7hOeahOmHjeWkjee7k+aehO+8iOagoeWtpueUn+S8muOAgee7hOe7h+mDqOOAgeW/l+aEv+iAheiBlOWQiOS8muOAgeW5v+aSreWPsOOAgeaWh+WMluS6i+S4mumDqOOAgUFJIOmDqOOAgemdkuW5tOmprOWFi+aAneS4u+S5ieWtpumZouOAgeWuo+S8oOS4juWqkuS9k+i/kOiQpemDqO+8ie+8jOaVtOWdl+W5tuWFpeOAjOWbouWtpue7hOe7h+S7i+e7jeOAjeS4gOiKgu+8jOacqumAkOe7hOe7h+aLhuiKguOAgiIsDQogICLnrKwgMjXigJMzMSDooYzmmK/jgIzmiJHmoKHlv5fmhL/ogIXigKbjgI3nrYkgNSDmnaHmlrDpl7vmoIfpopjkuI7ml6XmnJ/vvIjkuI7nrKwgMTTigJMyNCDooYznmoTliJfooajph43lpI3vvInvvIzlubblhaXjgIzmlrDpl7vliqjmgIHjgI3kuIDoioLvvJtwdC0zNmFkMjliM2E5IOeahOW8leaWh+iHquesrCAxNCDooYzmoIfpopjotbfvvIzot6jliJfooajpppbmnaHjgIIiLA0KICAi56ysIDYx4oCTNzQg6KGM55qE6YCa55+l5YWs5ZGK5p2h55uu5Y+q5pyJ5pel5pyfICsg5qCH6aKY77yI44CM6YCa55+l5YWs5ZGK772c5YWz5LqO4oCm44CN77yJ77yM5peg5pGY6KaB5LiO5q2j5paH77yM5peg5p2h55uu5byV5paH6JC95Zyo6K+l5Yy66Ze077yMaXRlbXMg5Li656m644CCIiwNCiAgIuesrCA4MCDooYzjgIzlhbPpl63jgI3mmK/pobXpnaLlvLnlsYLmjInpkq7mloflrZfvvIzkuI7pobXohJrlkIzlsZ7pobXpnaLmoYbmnrbvvIxwdC02YzE0YmQ3ZjZmIOiQveWcqOOAjOmhteiEmuOAjeiKgu+8m3J1bGUtNDAyZWNmMjgzMSDkuLrmlofmoaPnuqfmnaHnm67vvIjmoIfpopjjgIzlm6Lnu4Tnu4flhbPns7vovazmjqXvvIh5b3V0aC5jdWPvvInjgI3ml6DlvJXmlofvvInvvIzliJflnKjmlofmoaPnuqcgaXRlbXMg5bm25pS+6L+b6aaW6IqC44CM6aG16Z2i5qGG5p6244CN44CCIg0KIF0NCn0=
+{
+ "key": "402ecf2831",
+ "title": "中国传媒大学团委",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "页面框架",
+   "heading": "站点页头、主导航与栏目搜索",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    13
+   ],
+   "items": [
+    "pt-d19bd2c035",
+    "pt-24d94f989f",
+    "pt-a325c1aa8b",
+    "pt-d2ed207d9a"
+   ],
+   "chars": 156
+  },
+  {
+   "no": "—",
+   "heading": "新闻动态",
+   "heading_kind": "author",
+   "lines": [
+    14,
+    32
+   ],
+   "items": [
+    "pt-36ad29b3a9"
+   ],
+   "chars": 432
+  },
+  {
+   "no": "—",
+   "heading": "团学组织介绍",
+   "heading_kind": "author",
+   "lines": [
+    33,
+    60
+   ],
+   "items": [
+    "pt-f9c8ac7abf",
+    "pt-9e4bfbdad1",
+    "pt-11e63e5244",
+    "pt-92ed8eb1c7",
+    "pt-72e1b667fa",
+    "pt-d2fcc58c1f",
+    "pt-c13bf2a0ea",
+    "pt-4b64d79c29",
+    "pt-7ad2deca2c",
+    "pt-e107561e57",
+    "pt-7c6deb4b5d",
+    "pt-05322ab6ad"
+   ],
+   "chars": 2658
+  },
+  {
+   "no": "—",
+   "heading": "通知公告",
+   "heading_kind": "author",
+   "lines": [
+    61,
+    74
+   ],
+   "items": [],
+   "chars": 324
+  },
+  {
+   "no": "页脚",
+   "heading": "版权、地址与页面关闭提示",
+   "heading_kind": "derived",
+   "lines": [
+    75,
+    81
+   ],
+   "items": [
+    "pt-225387a840",
+    "pt-6c14bd7f6f"
+   ],
+   "chars": 431
+  }
+ ],
+ "items": [
+  "rule-402ecf2831",
+  "pt-d19bd2c035",
+  "pt-24d94f989f",
+  "pt-a325c1aa8b",
+  "pt-d2ed207d9a",
+  "pt-36ad29b3a9",
+  "pt-f9c8ac7abf",
+  "pt-9e4bfbdad1",
+  "pt-11e63e5244",
+  "pt-92ed8eb1c7",
+  "pt-72e1b667fa",
+  "pt-d2fcc58c1f",
+  "pt-c13bf2a0ea",
+  "pt-4b64d79c29",
+  "pt-7ad2deca2c",
+  "pt-e107561e57",
+  "pt-7c6deb4b5d",
+  "pt-05322ab6ad",
+  "pt-225387a840",
+  "pt-6c14bd7f6f"
+ ],
+ "notes": [
+  "抓取对象是校团委门户首页：第 1–13 行为页头、主导航（团委简介/直属部门/联系我们/新闻动态/通知公告/理论学习/学生组织/政策文件）与栏目搜索，第 14–32 行为「新闻动态」列表，第 33–60 行为「团学组织介绍」，第 61–74 行为「通知公告」列表，第 75–81 行为页脚与弹层「关闭」按钮。",
+  "第 33–60 行的组织介绍是「图片占位 + 组织名 + 一段简介」三段一组的重复结构（校学生会、组织部、志愿者联合会、广播台、文化事业部、AI 部、青年马克思主义学院、宣传与媒体运营部），整块并入「团学组织介绍」一节，未逐组织拆节。",
+  "第 25–31 行是「我校志愿者…」等 5 条新闻标题与日期（与第 14–24 行的列表重复），并入「新闻动态」一节；pt-36ad29b3a9 的引文自第 14 行标题起，跨列表首条。",
+  "第 61–74 行的通知公告条目只有日期 + 标题（「通知公告｜关于…」），无摘要与正文，无条目引文落在该区间，items 为空。",
+  "第 80 行「关闭」是页面弹层按钮文字，与页脚同属页面框架，pt-6c14bd7f6f 落在「页脚」节；rule-402ecf2831 为文档级条目（标题「团组织关系转接（youth.cuc）」无引文），列在文档级 items 并放进首节「页面框架」。"
+ ]
+}

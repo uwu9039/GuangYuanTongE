@@ -1,1 +1,91 @@
-ewogImtleSI6ICI5ZjZjMTAxZTAxIiwKICJ0aXRsZSI6ICIyMue6p+aWsOeUn+WbouWFs+ezu+i9rOaOpeeUs+ivt+aMh+WNlyIsCiAidHJ1bmNhdGVkIjogZmFsc2UsCiAic2VjdGlvbnMiOiBbCiAgewogICAibm8iOiAi6aG16Z2i5qGG5p62IiwKICAgImhlYWRpbmciOiAi6aG16Z2i5qGG5p6277yI56uZ5ZCN44CBbG9nbyDkuI7lhajnq5nlr7zoiKrvvIkiLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbMSwgMTNdLAogICAiaXRlbXMiOiBbInB0LThlNTg0NGY0OTUiXSwKICAgImNoYXJzIjogMTY0CiAgfSwKICB7CiAgICJubyI6ICLmoIfpopgiLAogICAiaGVhZGluZyI6ICLmraPmlofmoIfpopjkuI7lj5HluIPkv6Hmga8iLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbMTQsIDE1XSwKICAgIml0ZW1zIjogWyJwdC04ZTU4NDRmNDk1Il0sCiAgICJjaGFycyI6IDM3CiAgfSwKICB7CiAgICJubyI6ICLlr7zor60iLAogICAiaGVhZGluZyI6ICLlr7zor63vvJrnur/kuIrkuI7nur/kuIvkuKTpg6jliIYiLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbMTYsIDE2XSwKICAgIml0ZW1zIjogWyJwdC00ODI4ODhiNjU1Il0sCiAgICJjaGFycyI6IDgwCiAgfSwKICB7CiAgICJubyI6ICLkuIDjgIEiLAogICAiaGVhZGluZyI6ICLmlrDnlJ/lm6Lnu4Tnu4flhbPns7vnur/kuIvovazlhaXlt6XkvZwiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsxNywgMThdLAogICAiaXRlbXMiOiBbInB0LWIzMWE0ZjcwYWIiLCAicHQtYWMyMTMyM2E5YSIsICJwdC05NDgyZjhlMGZiIiwgInB0LTk1M2M4N2EzOWYiXSwKICAgImNoYXJzIjogMTQ1CiAgfSwKICB7CiAgICJubyI6ICLkuozjgIEiLAogICAiaGVhZGluZyI6ICLlm6Lnu4Tnu4flhbPns7vnur/kuIrovazlhaXmtYHnqIsiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsxOSwgNDFdLAogICAiaXRlbXMiOiBbInB0LTA0Y2RiOTYzNDEiLCAicHQtNmJjZjY4MjYzOCIsICJwdC04OWY0NDE0MDUyIl0sCiAgICJjaGFycyI6IDIwMzMKICB9LAogIHsKICAgIm5vIjogIjEuIiwKICAgImhlYWRpbmciOiAi5Lqs5YaF5paw55Sf57q/5LiK6L2s5YWlIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbMjIsIDMxXSwKICAgIml0ZW1zIjogWyJwdC1iYTM4Y2MwMzk1IiwgInB0LWEyZGVlNTVkMGMiXSwKICAgImNoYXJzIjogODk2CiAgfSwKICB7CiAgICJubyI6ICIyLiIsCiAgICJoZWFkaW5nIjogIuS6rOWkluaWsOeUn+e6v+S4iui9rOWFpSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzMyLCA0MV0sCiAgICJpdGVtcyI6IFsicHQtNjFhOWZlYmE2ZCIsICJwdC1hNjAzZjA1YmNlIiwgInB0LTdjMWRhZDRjMjciLCAicHQtZGUzYTRjYjAxYiJdLAogICAiY2hhcnMiOiAxMDA0CiAgfSwKICB7CiAgICJubyI6ICLnu5Por60iLAogICAiaGVhZGluZyI6ICLlkqjor6LmuKDpgZPkuI7nu5Por63npZ3npo8iLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbNDIsIDQyXSwKICAgIml0ZW1zIjogWyJwdC1iZjk0MzM5NTA1IiwgInB0LTJkODY2M2ZhNWEiXSwKICAgImNoYXJzIjogNzUKICB9LAogIHsKICAgIm5vIjogIumhteiEmiIsCiAgICJoZWFkaW5nIjogIumhteiEmu+8iOeJiOadg+OAgeWkh+ahiOWPt+OAgeWcsOWdgOS4juiuv+mXruiuoeaVsO+8iSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFs0MywgNDZdLAogICAiaXRlbXMiOiBbInB0LTU5NjgxYWQxMmQiXSwKICAgImNoYXJzIjogMTMzCiAgfQogXSwKICJpdGVtcyI6IFsicHQtYjMxYTRmNzBhYiIsICJwdC1hYzIxMzIzYTlhIiwgInB0LTk0ODJmOGUwZmIiLCAicHQtMDRjZGI5NjM0MSIsICJwdC02YmNmNjgyNjM4IiwgInB0LWJhMzhjYzAzOTUiLCAicHQtNjFhOWZlYmE2ZCIsICJwdC1hNjAzZjA1YmNlIiwgInB0LTdjMWRhZDRjMjciLCAicHQtYmY5NDMzOTUwNSIsICJwdC04ZTU4NDRmNDk1IiwgInB0LTQ4Mjg4OGI2NTUiLCAicHQtOTUzYzg3YTM5ZiIsICJwdC04OWY0NDE0MDUyIiwgInB0LWEyZGVlNTVkMGMiLCAicHQtZGUzYTRjYjAxYiIsICJwdC0yZDg2NjNmYTVhIiwgInB0LTU5NjgxYWQxMmQiXSwKICJub3RlcyI6IFsKICAi572R6aG15oq95Lu277yI5Zui5aeU572R56uZ55qE5b6u5L+h5L2T5Zu+5paH6aG177yJ77ya56ysIDEg6KGM5piv6aG16Z2i5qCH6aKY77yI5rWP6KeI5Zmo5qCH6aKY77yJ77yM56ysIDLigJMxMyDooYzmmK8gbG9nbyDlm77jgIHlhajnq5nlr7zoiKrvvIjlm6Llp5TnroDku4vvvI/nm7TlsZ7pg6jpl6jvvI/ogZTns7vmiJHku6zvvI/mlrDpl7vliqjmgIHvvI/pgJrnn6XlhazlkYrvvI/nkIborrrlrabkuaDvvI/lrabnlJ/nu4Tnu4fvvI/mlL/nrZbmlofku7bvvInkuI7mo4DntKLlm77moIfvvIzlkIjlubbkuLrjgIzpobXpnaLmoYbmnrbjgI3kuIDoioLvvJvnrKwgMTQg6KGM5q2j5paH5qCH6aKY5LiO56ysIDEg6KGM6YeN5aSN44CB56ysIDE1IOihjOaYr+OAjOWPkeW4g+aXtumXtO+8mjIwMjItMDktMTfmtY/op4jmrKHmlbDvvJo3NTbjgI3vvIzlkIjkuLrjgIzmraPmlofmoIfpopjkuI7lj5HluIPkv6Hmga/jgI3kuIDoioLjgIIiLAogICJwdC04ZTU4NDRmNDk1IOeahOW8leaWh+WwseaYr+agh+mimOOAjDIy57qn5paw55Sf5Zui5YWz57O76L2s5o6l55Sz6K+35oyH5Y2X44CN77yM6K+l5a2X56ym5Liy5Zyo6aG16Z2i5qCH6aKY77yI56ysIDEg6KGM77yJ5LiO5q2j5paH5qCH6aKY77yI56ysIDE0IOihjO+8ieWQhOWHuueOsOS4gOasoe+8jOaVheOAjOmhtemdouahhuaetuOAjeOAjOato+aWh+agh+mimOS4juWPkeW4g+S/oeaBr+OAjeS4pOiKguWQhOWIl+S4gOasoeOAgiIsCiAgIuacrOS7vSoq5rKh5pyJIHJ1bGUtIOaWh+aho+e6p+adoeebrioq77yaMTgg5p2h5p2h55uu5YWo5pivIHB0LSrvvIzlnYfmnInlvJXmloflubblkIToh6rokL3lnKjoioLlhoXvvIzmlofmoaPnuqcgaXRlbXMg5Zug5q2k5bCx5piv5byV55So5pys5paH55qE5YWo6YOoIDE4IOadoeOAgiIsCiAgIuOAjOS4gOOAgeOAjeOAjOS6jOOAgeOAjeS4pOS4quWwj+agh+mimOaYr+WOn+aWh+iHquW4pu+8iGhlYWRpbmdfa2luZD1hdXRob3LvvIzpgJDlrZflj6/mn6XvvIxoZWFkaW5nIOWOu+aOieW6j+WPt+WQjuWGmeWcqOiKgumHjO+8ie+8m+OAjOS6jOOAgeOAjeaYr+eItuiKgu+8iDE54oCTNDEg6KGM77yJ77yM5YW25LiL55qE44CMMS7kuqzlhoXmlrDnlJ/nur/kuIrovazlhaXjgI3vvIgyMuKAkzMxIOihjO+8ieS4juOAjDIu5Lqs5aSW5paw55Sf57q/5LiK6L2s5YWl44CN77yIMzLigJM0MSDooYzvvInmmK/lrZDoioLvvIzkuInogIXooYzlj7fkuLrnnJ/ltYzlpZfvvIjjgIzkuozjgIHjgI3nmoQgMTnigJMyMSDooYzmmK/mnKzoioLlr7zor63kuI7jgIzlkITmlrDnlJ/lm6LlkZjpobvkvp3mja7lrp7pmYXmg4XlhrXpgInmi6nkuqzlhoXlkozkuqzlpJbkuKTnp43kuI3lkIzovazlhaXnsbvlnovjgI3vvIzkuI3lsZ7kuo7ku7vkvZXlrZDoioLvvInjgIIiLAogICLnrKwgMjTigJMzMeOAgTM04oCTNDEg6KGM5piv6L2s5o6l5pON5L2c5q2l6aqk55qE5oiq5Zu+5Y2g5L2N77yI44CMW+mZhOS7tl0gL191cGxvYWQvYXJ0aWNsZS9pbWFnZXMv4oCmcG5n44CN77yM5Lqs5YaFIDgg5byg44CB5Lqs5aSWIDgg5byg77yM5YmNIDQg5byg5Lik5aSE6YeN5aSN77yJ77yM5Y6f5paH5Lul5Zu+54mH5om/6L295pON5L2c5Zu+56S644CB5pyq5oq95Ye65paH5a2X77yM5pWF6ZqP5omA5bGe44CMMS7jgI3jgIwyLuOAjeWtkOiKguS/neeVme+8jOacquWPpueri+iKguOAgiIsCiAgInB0LWEyZGVlNTVkMGMg55qE5byV5paH5q+UIHB0LWJhMzhjYzAzOTUg5aSa5Ye65pyr5Y+l44CM5Lul5LiL5piv6L2s56e75pON5L2c5Zu+56S677ya44CN77yM5Lik5p2h5byV5paH6LW354K555u45ZCM77yI56ysIDIy4oCTMjMg6KGM77yJ77yM6YO96JC95Zyo44CMMS7jgI3oioLvvJtwdC1kZTNhNGNiMDFiIOeahOW8leaWh+aYr+OAjDIu44CN5qCH6aKY5Y+l77yL5Lqs5aSW5pW05q6177yI56ysIDMy4oCTMzMg6KGM77yJ77yM6JC95Zyo44CMMi7jgI3oioLjgIIiLAogICLnrKwgNDIg6KGM5piv5pS25bC+5a+E6K+t77yI5ZKo6K+i54+t57qn5Zui5pSv5Lmm5oiW5a2m6Zmi6LSf6LSj5Lq677yL56Wd56aP6K+t77yJ77yMcHQtYmY5NDMzOTUwNSDkuI4gcHQtMmQ4NjYzZmE1YSDmmK/lkIzkuIDmrrXnmoTkuKTmnaHlvJXmlofvvIjlkI7ogIXlkKvmnKvlj6XnpZ3npo/vvInvvIzpg73okL3jgIznu5Por63jgI3oioLjgIIiLAogICLnrKwgNDPigJM0NiDooYzmmK/pobXohJrvvJrniYjmnYPooYzjgIHkuqxJQ1DlpIfvvI/kuqzlhaznvZHlronlpIflj7fjgIHlnLDlnYDkuI7pgq7nvJbjgIHjgIzlhbPpl63jgI3mjInpkq7mloflrZfjgIHmnKvooYzorr/pl67orqHmlbDpmYTku7bvvIhb6ZmE5Lu2XSAvX3Zpc2l0Y291bnQ/4oCm77yJ77yM5ZCI5Li644CM6aG16ISa44CN5LiA6IqC77ybcHQtNTk2ODFhZDEyZCDnmoTlvJXmlofjgIzlnLDlnYDvvJrljJfkuqzluILmnJ3pmLPljLrlrprnpo/luoTkuJzooZfkuIDlj7cv6YKu5pS/57yW56CB77yaMTAwMDI05YWz6Zet44CN6Leo56ysIDQ04oCTNDUg6KGM44CCIiwKICAi5q2j5paH5Yiw56ysIDQyIOihjOe7k+ivree7k+adn++8jOS4gOOAgeS6jOS4pOiKguS4jiAxLi8yLiDkuKTkuKrlrZDmtYHnqIvpvZDlhajvvIzlm77npLromb3kuLrlm77niYfkvYbmtYHnqIvmloflrZflrozmlbTvvIzmnKrop4HmiKrmlq3vvIx0cnVuY2F0ZWQ9ZmFsc2XjgIIiCiBdCn0K
+{
+ "key": "9f6c101e01",
+ "title": "22级新生团关系转接申请指南",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "页面框架",
+   "heading": "页面框架（站名、logo 与全站导航）",
+   "heading_kind": "derived",
+   "lines": [1, 13],
+   "items": ["pt-8e5844f495"],
+   "chars": 164
+  },
+  {
+   "no": "标题",
+   "heading": "正文标题与发布信息",
+   "heading_kind": "derived",
+   "lines": [14, 15],
+   "items": ["pt-8e5844f495"],
+   "chars": 37
+  },
+  {
+   "no": "导语",
+   "heading": "导语：线上与线下两部分",
+   "heading_kind": "derived",
+   "lines": [16, 16],
+   "items": ["pt-482888b655"],
+   "chars": 80
+  },
+  {
+   "no": "一、",
+   "heading": "新生团组织关系线下转入工作",
+   "heading_kind": "author",
+   "lines": [17, 18],
+   "items": ["pt-b31a4f70ab", "pt-ac21323a9a", "pt-9482f8e0fb", "pt-953c87a39f"],
+   "chars": 145
+  },
+  {
+   "no": "二、",
+   "heading": "团组织关系线上转入流程",
+   "heading_kind": "author",
+   "lines": [19, 41],
+   "items": ["pt-04cdb96341", "pt-6bcf682638", "pt-89f4414052"],
+   "chars": 2033
+  },
+  {
+   "no": "1.",
+   "heading": "京内新生线上转入",
+   "heading_kind": "author",
+   "lines": [22, 31],
+   "items": ["pt-ba38cc0395", "pt-a2dee55d0c"],
+   "chars": 896
+  },
+  {
+   "no": "2.",
+   "heading": "京外新生线上转入",
+   "heading_kind": "author",
+   "lines": [32, 41],
+   "items": ["pt-61a9feba6d", "pt-a603f05bce", "pt-7c1dad4c27", "pt-de3a4cb01b"],
+   "chars": 1004
+  },
+  {
+   "no": "结语",
+   "heading": "咨询渠道与结语祝福",
+   "heading_kind": "derived",
+   "lines": [42, 42],
+   "items": ["pt-bf94339505", "pt-2d8663fa5a"],
+   "chars": 75
+  },
+  {
+   "no": "页脚",
+   "heading": "页脚（版权、备案号、地址与访问计数）",
+   "heading_kind": "derived",
+   "lines": [43, 46],
+   "items": ["pt-59681ad12d"],
+   "chars": 133
+  }
+ ],
+ "items": ["pt-b31a4f70ab", "pt-ac21323a9a", "pt-9482f8e0fb", "pt-04cdb96341", "pt-6bcf682638", "pt-ba38cc0395", "pt-61a9feba6d", "pt-a603f05bce", "pt-7c1dad4c27", "pt-bf94339505", "pt-8e5844f495", "pt-482888b655", "pt-953c87a39f", "pt-89f4414052", "pt-a2dee55d0c", "pt-de3a4cb01b", "pt-2d8663fa5a", "pt-59681ad12d"],
+ "notes": [
+  "网页抽件（团委网站的微信体图文页）：第 1 行是页面标题（浏览器标题），第 2–13 行是 logo 图、全站导航（团委简介／直属部门／联系我们／新闻动态／通知公告／理论学习／学生组织／政策文件）与检索图标，合并为「页面框架」一节；第 14 行正文标题与第 1 行重复、第 15 行是「发布时间：2022-09-17浏览次数：756」，合为「正文标题与发布信息」一节。",
+  "pt-8e5844f495 的引文就是标题「22级新生团关系转接申请指南」，该字符串在页面标题（第 1 行）与正文标题（第 14 行）各出现一次，故「页面框架」「正文标题与发布信息」两节各列一次。",
+  "本份**没有 rule- 文档级条目**：18 条条目全是 pt-*，均有引文并各自落在节内，文档级 items 因此就是引用本文的全部 18 条。",
+  "「一、」「二、」两个小标题是原文自带（heading_kind=author，逐字可查，heading 去掉序号后写在节里）；「二、」是父节（19–41 行），其下的「1.京内新生线上转入」（22–31 行）与「2.京外新生线上转入」（32–41 行）是子节，三者行号为真嵌套（「二、」的 19–21 行是本节导语与「各新生团员须依据实际情况选择京内和京外两种不同转入类型」，不属于任何子节）。",
+  "第 24–31、34–41 行是转接操作步骤的截图占位（「[附件] /_upload/article/images/…png」，京内 8 张、京外 8 张，前 4 张两处重复），原文以图片承载操作图示、未抽出文字，故随所属「1.」「2.」子节保留，未另立节。",
+  "pt-a2dee55d0c 的引文比 pt-ba38cc0395 多出末句「以下是转移操作图示：」，两条引文起点相同（第 22–23 行），都落在「1.」节；pt-de3a4cb01b 的引文是「2.」标题句＋京外整段（第 32–33 行），落在「2.」节。",
+  "第 42 行是收尾寄语（咨询班级团支书或学院负责人＋祝福语），pt-bf94339505 与 pt-2d8663fa5a 是同一段的两条引文（后者含末句祝福），都落「结语」节。",
+  "第 43–46 行是页脚：版权行、京ICP备／京公网安备号、地址与邮编、「关闭」按钮文字、末行访问计数附件（[附件] /_visitcount?…），合为「页脚」一节；pt-59681ad12d 的引文「地址：北京市朝阳区定福庄东街一号/邮政编码：100024关闭」跨第 44–45 行。",
+  "正文到第 42 行结语结束，一、二两节与 1./2. 两个子流程齐全，图示虽为图片但流程文字完整，未见截断，truncated=false。"
+ ]
+}

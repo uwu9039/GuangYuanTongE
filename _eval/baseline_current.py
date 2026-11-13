@@ -1,1 +1,75 @@
-IiIi5Z+657q/5rWL6YeP77ya5b2T5YmNIGFwcC5yYW5rKCkg5ZyoIHByZXNldHMgNzYzIOadoemXruazleS4iueahOihqOeOsOOAggoK55So5rOV77yaCiAgICBweXRob24gLW0gX2V2YWwuYmFzZWxpbmVfY3VycmVudCBbLS1saW1pdCBOXSBbLS1vdXQgcGF0aF0KIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBhcmdwYXJzZQppbXBvcnQganNvbgppbXBvcnQgdGltZQpmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgKCmZyb20gX2V2YWwgaW1wb3J0IHN0dWJfZmFzdGFwaQoKc3R1Yl9mYXN0YXBpLmluc3RhbGwoKQoKaW1wb3J0IGFwcCAgIyBub3FhOiBFNDAyCgpST09UID0gUGF0aChfX2ZpbGVfXykucmVzb2x2ZSgpLnBhcmVudHNbMV0KCgpkZWYgbG9hZF9wcmVzZXRzKCkgLT4gbGlzdFt0dXBsZVtzdHIsIHN0cl1dOgogICAgZCA9IGpzb24ubG9hZHMoKFJPT1QgLyAicHJlc2V0cy5qc29uIikucmVhZF90ZXh0KGVuY29kaW5nPSJ1dGYtOCIpKQogICAgcm93czogbGlzdFt0dXBsZVtzdHIsIHN0cl1dID0gW10KICAgIGZvciBpaWQsIHFzIGluIGRbImNvdmVyYWdlIl0uaXRlbXMoKToKICAgICAgICBmb3IgcSBpbiBxczoKICAgICAgICAgICAgcm93cy5hcHBlbmQoKHEsIGlpZCkpCiAgICByZXR1cm4gcm93cwoKCmRlZiBtYWluKCkgLT4gTm9uZToKICAgIGFwID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoKQogICAgYXAuYWRkX2FyZ3VtZW50KCItLWxpbWl0IiwgdHlwZT1pbnQsIGRlZmF1bHQ9MCkKICAgIGFwLmFkZF9hcmd1bWVudCgiLS1vdXQiLCBkZWZhdWx0PSJfZXZhbC9vdXQvYmFzZWxpbmVfcHJlc2V0cy5qc29uIikKICAgIGFyZ3MgPSBhcC5wYXJzZV9hcmdzKCkKCiAgICByb3dzID0gbG9hZF9wcmVzZXRzKCkKICAgIGlmIGFyZ3MubGltaXQ6CiAgICAgICAgcm93cyA9IHJvd3NbOiBhcmdzLmxpbWl0XQoKICAgIG91dCA9IFtdCiAgICB0MCA9IHRpbWUudGltZSgpCiAgICBmb3IgbiwgKHEsIGdvbGQpIGluIGVudW1lcmF0ZShyb3dzLCAxKToKICAgICAgICB0ID0gdGltZS50aW1lKCkKICAgICAgICByYW5rZWQgPSBhcHAucmFuayhxKQogICAgICAgIGR0ID0gKHRpbWUudGltZSgpIC0gdCkgKiAxMDAwCiAgICAgICAgdG9wID0gWyhpdFsiaWQiXSwgaW50KHNjKSkgZm9yIGl0LCBzYyBpbiByYW5rZWRbOjEwXV0KICAgICAgICBoaXQgPSBuZXh0KChpIGZvciBpLCAoaWlkLCBfKSBpbiBlbnVtZXJhdGUodG9wKSBpZiBpaWQgPT0gZ29sZCksIE5vbmUpCiAgICAgICAgb3V0LmFwcGVuZCh7InEiOiBxLCAiZ29sZCI6IGdvbGQsICJ0b3AiOiB0b3AsICJyYW5rIjogaGl0LCAibXMiOiBkdH0pCiAgICAgICAgaWYgbiAlIDIwID09IDA6CiAgICAgICAgICAgIHByaW50KGYie259L3tsZW4ocm93cyl9ICBlbGFwc2VkIHt0aW1lLnRpbWUoKS10MDouMGZ9cyAgIgogICAgICAgICAgICAgICAgICBmImhpdEAxIHtzdW0oMSBmb3IgciBpbiBvdXQgaWYgclsncmFuayddPT0wKS9sZW4ob3V0KTouM2Z9ICAiCiAgICAgICAgICAgICAgICAgIGYiaGl0QDUge3N1bSgxIGZvciByIGluIG91dCBpZiByWydyYW5rJ10gaXMgbm90IE5vbmUgYW5kIHJbJ3JhbmsnXTw1KS9sZW4ob3V0KTouM2Z9IiwKICAgICAgICAgICAgICAgICAgZmx1c2g9VHJ1ZSkKCiAgICBuID0gbGVuKG91dCkKICAgIG1ldHJpY3MgPSB7CiAgICAgICAgIm4iOiBuLAogICAgICAgICJoaXRAMSI6IHN1bSgxIGZvciByIGluIG91dCBpZiByWyJyYW5rIl0gPT0gMCkgLyBuLAogICAgICAgICJoaXRANSI6IHN1bSgxIGZvciByIGluIG91dCBpZiByWyJyYW5rIl0gaXMgbm90IE5vbmUgYW5kIHJbInJhbmsiXSA8IDUpIC8gbiwKICAgICAgICAibXJyQDEwIjogc3VtKDEgZm9yIHIgaW4gb3V0IGlmIHJbInJhbmsiXSBpcyBub3QgTm9uZSBhbmQgclsicmFuayJdIDwgMTApIC8gbgogICAgICAgICAgICAgICAgICBpZiBGYWxzZSBlbHNlIHN1bSgoMSAvIChyWyJyYW5rIl0gKyAxKSkgaWYgclsicmFuayJdIGlzIG5vdCBOb25lIGFuZCByWyJyYW5rIl0gPCAxMCBlbHNlIDAgZm9yIHIgaW4gb3V0KSAvIG4sCiAgICAgICAgIm5vX3NpZ25hbEA1Ijogc3VtKDEgZm9yIHIgaW4gb3V0IGlmIHJbInJhbmsiXSBpcyBOb25lIG9yIHJbInJhbmsiXSA+PSA1KSAvIG4sCiAgICAgICAgImF2Z19tcyI6IHN1bShyWyJtcyJdIGZvciByIGluIG91dCkgLyBuLAogICAgICAgICJwOTVfbXMiOiBzb3J0ZWQoclsibXMiXSBmb3IgciBpbiBvdXQpW2ludChuICogMC45NSldLAogICAgfQogICAgcGF5bG9hZCA9IHsibWV0cmljcyI6IG1ldHJpY3MsICJyb3dzIjogb3V0LCAiZWxhcHNlZF9zIjogcm91bmQodGltZS50aW1lKCkgLSB0MCwgMSl9CiAgICBkZXN0ID0gUk9PVCAvIGFyZ3Mub3V0CiAgICBkZXN0LnBhcmVudC5ta2RpcihwYXJlbnRzPVRydWUsIGV4aXN0X29rPVRydWUpCiAgICBkZXN0LndyaXRlX3RleHQoanNvbi5kdW1wcyhwYXlsb2FkLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKSwgZW5jb2Rpbmc9InV0Zi04IikKICAgIHByaW50KGpzb24uZHVtcHMobWV0cmljcywgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSkpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+"""基线测量：当前 app.rank() 在 presets 763 条问法上的表现。
+
+用法：
+    python -m _eval.baseline_current [--limit N] [--out path]
+"""
+from __future__ import annotations
+
+import argparse
+import json
+import time
+from pathlib import Path
+
+from _eval import stub_fastapi
+
+stub_fastapi.install()
+
+import app  # noqa: E402
+
+ROOT = Path(__file__).resolve().parents[1]
+
+
+def load_presets() -> list[tuple[str, str]]:
+    d = json.loads((ROOT / "presets.json").read_text(encoding="utf-8"))
+    rows: list[tuple[str, str]] = []
+    for iid, qs in d["coverage"].items():
+        for q in qs:
+            rows.append((q, iid))
+    return rows
+
+
+def main() -> None:
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--limit", type=int, default=0)
+    ap.add_argument("--out", default="_eval/out/baseline_presets.json")
+    args = ap.parse_args()
+
+    rows = load_presets()
+    if args.limit:
+        rows = rows[: args.limit]
+
+    out = []
+    t0 = time.time()
+    for n, (q, gold) in enumerate(rows, 1):
+        t = time.time()
+        ranked = app.rank(q)
+        dt = (time.time() - t) * 1000
+        top = [(it["id"], int(sc)) for it, sc in ranked[:10]]
+        hit = next((i for i, (iid, _) in enumerate(top) if iid == gold), None)
+        out.append({"q": q, "gold": gold, "top": top, "rank": hit, "ms": dt})
+        if n % 20 == 0:
+            print(f"{n}/{len(rows)}  elapsed {time.time()-t0:.0f}s  "
+                  f"hit@1 {sum(1 for r in out if r['rank']==0)/len(out):.3f}  "
+                  f"hit@5 {sum(1 for r in out if r['rank'] is not None and r['rank']<5)/len(out):.3f}",
+                  flush=True)
+
+    n = len(out)
+    metrics = {
+        "n": n,
+        "hit@1": sum(1 for r in out if r["rank"] == 0) / n,
+        "hit@5": sum(1 for r in out if r["rank"] is not None and r["rank"] < 5) / n,
+        "mrr@10": sum(1 for r in out if r["rank"] is not None and r["rank"] < 10) / n
+                  if False else sum((1 / (r["rank"] + 1)) if r["rank"] is not None and r["rank"] < 10 else 0 for r in out) / n,
+        "no_signal@5": sum(1 for r in out if r["rank"] is None or r["rank"] >= 5) / n,
+        "avg_ms": sum(r["ms"] for r in out) / n,
+        "p95_ms": sorted(r["ms"] for r in out)[int(n * 0.95)],
+    }
+    payload = {"metrics": metrics, "rows": out, "elapsed_s": round(time.time() - t0, 1)}
+    dest = ROOT / args.out
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    dest.write_text(json.dumps(payload, ensure_ascii=False, indent=1), encoding="utf-8")
+    print(json.dumps(metrics, ensure_ascii=False, indent=1))
+
+
+if __name__ == "__main__":
+    main()

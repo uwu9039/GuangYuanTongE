@@ -1,1 +1,220 @@
-ew0KICJrZXkiOiAiMjAyMTEwMDktYzI3NTNhMjU0Njk5IiwNCiAidGl0bGUiOiAiMjAyNOW5tOWMl+S6rOW4guW+geWFteS8mOW+heaUv+etliIsDQogInRydW5jYXRlZCI6IGZhbHNlLA0KICJzZWN0aW9ucyI6IFsNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLpobXpnaLmoYbmnrbvvJrnq5nngrnmoIfpopjjgIHpg6jpl6jlkI3kuI7moI/nm67lr7zoiKoiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxLA0KICAgIDQyDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1lNzQwMzcyMmFlIg0KICAgXSwNCiAgICJjaGFycyI6IDIwMg0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuWPkeW4g+S/oeaBr+S4juaUv+etluiDjOaZr++8iDIwMjTlubQ45pyI77yJIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNDMsDQogICAgNDUNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTU4YjkwMmIxMjUiDQogICBdLA0KICAgImNoYXJzIjogMTUwDQogIH0sDQogIHsNCiAgICJubyI6ICLkuIDjgIEiLA0KICAgImhlYWRpbmciOiAi5pS/5rK75LiK5pyJ6L+b5q2lIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA0NiwNCiAgICA0Nw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtYjI3ODYwMjY0ZSIsDQogICAgInB0LWIzMTY0M2VmY2QiDQogICBdLA0KICAgImNoYXJzIjogMjA2DQogIH0sDQogIHsNCiAgICJubyI6ICLkuozjgIEiLA0KICAgImhlYWRpbmciOiAi5a2m5Y6G5LiK5pyJ5o+Q5Y2HIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA0OCwNCiAgICA1Nw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMzUzYmFjNTYyYiIsDQogICAgInB0LTVkMDU3ZWM4ODIiLA0KICAgICJwdC0wZWI5ZDU5NzdiIiwNCiAgICAicHQtNDRiNGM3NWUxNiIsDQogICAgInB0LTA2YWU0OTI5OGUiLA0KICAgICJwdC0zOTk4MDU1NDlmIiwNCiAgICAicHQtMDQwODlhMTYwNSIsDQogICAgInB0LWIyNGU5YmY0NjIiLA0KICAgICJwdC0yNjdmNDNjMGJiIiwNCiAgICAicHQtZGZkNGNmYzA5MyIsDQogICAgInB0LTkwYjJiMWIwMWUiDQogICBdLA0KICAgImNoYXJzIjogOTY0DQogIH0sDQogIHsNCiAgICJubyI6ICLkuInjgIEiLA0KICAgImhlYWRpbmciOiAi5bCx5Lia5LiK5pyJ5L+d6ZqcIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1OCwNCiAgICA2Ng0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtYzc0MDQ3YjE2MiIsDQogICAgInB0LTJjOGFhY2Y1MTMiDQogICBdLA0KICAgImNoYXJzIjogODAxDQogIH0sDQogIHsNCiAgICJubyI6ICLvvIjkuIDvvIkiLA0KICAgImhlYWRpbmciOiAi5oqA6IO95Z+56K6tIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1OSwNCiAgICA2MA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtYTY3ZjYwOTNlZCIsDQogICAgInB0LThkYjY0OTFkMDQiDQogICBdLA0KICAgImNoYXJzIjogMjA1DQogIH0sDQogIHsNCiAgICJubyI6ICLvvIjkuozvvIkiLA0KICAgImhlYWRpbmciOiAi5bCx5Lia5pyN5YqhIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA2MSwNCiAgICA2Mg0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNDMwNWMwYTljYiINCiAgIF0sDQogICAiY2hhcnMiOiAyMzkNCiAgfSwNCiAgew0KICAgIm5vIjogIu+8iOS4ie+8iSIsDQogICAiaGVhZGluZyI6ICLlrprlkJHogIPlvZXvvIjogZjvvIkiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDYzLA0KICAgIDY0DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1iMDAxZmEwZDg0IiwNCiAgICAicHQtZjhjMzYxMWFmMiIsDQogICAgInB0LTg0NTJjMmE3YzciLA0KICAgICJwdC1kM2VkNDU4ODUyIg0KICAgXSwNCiAgICJjaGFycyI6IDIzMQ0KICB9LA0KICB7DQogICAibm8iOiAi77yI5Zub77yJIiwNCiAgICJoZWFkaW5nIjogIuWuieaOkuW3peS9nCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNjUsDQogICAgNjYNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWQwNjM3NDk3NjIiLA0KICAgICJwdC02NDY4NTY0OGFjIg0KICAgXSwNCiAgICJjaGFycyI6IDExOA0KICB9LA0KICB7DQogICAibm8iOiAi5Zub44CBIiwNCiAgICJoZWFkaW5nIjogIue7j+a1juS4iuacieS8mOW+hSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNjcsDQogICAgNzENCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTVmY2Q0YjYzODMiLA0KICAgICJwdC04NjVlOTEwZGI1IiwNCiAgICAicHQtNzVlNTEzZmJkMyIsDQogICAgInB0LTA4YzliNjZhZjciLA0KICAgICJwdC0zYmIwNzU5ZTNjIiwNCiAgICAicHQtODIzNDU1MzVlOSIsDQogICAgInB0LWFlZWVlMTA0OTkiLA0KICAgICJwdC1mODZlNzc5ZTI5IiwNCiAgICAicHQtY2JiYzJhMzllNCINCiAgIF0sDQogICAiY2hhcnMiOiA2MjUNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLpobXohJrvvJrlpIfmoYjkv6Hmga/jgIHlnLDlnYDkuI7orr/pl67nu5/orqEiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA3MiwNCiAgICA3NA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTEyDQogIH0NCiBdLA0KICJpdGVtcyI6IFsNCiAgInB0LTM1M2JhYzU2MmIiLA0KICAicHQtNWQwNTdlYzg4MiIsDQogICJwdC0wZWI5ZDU5NzdiIiwNCiAgInB0LTA2YWU0OTI5OGUiLA0KICAicHQtMzk5ODA1NTQ5ZiIsDQogICJwdC0wNDA4OWExNjA1IiwNCiAgInB0LWIyNGU5YmY0NjIiLA0KICAicHQtMjY3ZjQzYzBiYiIsDQogICJwdC05MGIyYjFiMDFlIiwNCiAgInB0LWM3NDA0N2IxNjIiLA0KICAicHQtYTY3ZjYwOTNlZCIsDQogICJwdC00MzA1YzBhOWNiIiwNCiAgInB0LWIwMDFmYTBkODQiLA0KICAicHQtODQ1MmMyYTdjNyIsDQogICJwdC1kMDYzNzQ5NzYyIiwNCiAgInB0LTY0Njg1NjQ4YWMiLA0KICAicHQtNWZjZDRiNjM4MyIsDQogICJwdC04NjVlOTEwZGI1IiwNCiAgInB0LTc1ZTUxM2ZiZDMiLA0KICAicHQtMDhjOWI2NmFmNyIsDQogICJwdC0zYmIwNzU5ZTNjIiwNCiAgInB0LTgyMzQ1NTM1ZTkiLA0KICAicHQtYWVlZWUxMDQ5OSIsDQogICJwdC1jYmJjMmEzOWU0IiwNCiAgInB0LWU3NDAzNzIyYWUiLA0KICAicHQtNThiOTAyYjEyNSIsDQogICJwdC1iMjc4NjAyNjRlIiwNCiAgInB0LWIzMTY0M2VmY2QiLA0KICAicHQtNDRiNGM3NWUxNiIsDQogICJwdC1kZmQ0Y2ZjMDkzIiwNCiAgInB0LTJjOGFhY2Y1MTMiLA0KICAicHQtOGRiNjQ5MWQwNCIsDQogICJwdC1mOGMzNjExYWYyIiwNCiAgInB0LWQzZWQ0NTg4NTIiLA0KICAicHQtZjg2ZTc3OWUyOSINCiBdLA0KICJub3RlcyI6IFsNCiAgIue9kemhteaKk+WPlueov++8iOWtpueUn+W3peS9nOmDqO+8iOWkhO+8ie+8iOatpuijhemDqO+8ieermeeCueeahOaUv+etluino+ivu+aWh+eroO+8ie+8muesrCAxIOihjOaYr+ermeeCuS/mlofnq6DmoIfpopjjgIHnrKwgMiDooYzmmK/pg6jpl6jlkI3jgIHnrKwgM+KAkzQxIOihjOaYryAzOSDooYzmoI/nm67lr7zoiKrmoJHvvIjpppbpobXvvI/pg6jpl6jnroDku4vvvI/igKbvvI8yMDIx5bm05Yab6K6t5LiT6aKY77yP5bi455So5LiL6L2977yJ44CB56ysIDQyIOihjOaYr+mhteWGhemHjeWkjeeahOato+aWh+agh+mimO+8jOaVtOS9k+W5tuS4uuOAjOmhtemdouahhuaetuOAjeS4gOiKgu+8jOWvvOiIquS4jemAkOadoeiuvuiKguOAgiIsDQogICLnrKwgNDMg6KGM5piv44CM5Y+R5biD6ICF77ya5Y+R5biD5pe26Ze077yaMjAyNS0wNC0xN+a1j+iniOasoeaVsO+8mjQxNuOAje+8jOesrCA0NCDooYzjgIzvvIgyMDI05bm0OOaciO+8ieOAjeS4juesrCA0NSDooYzmlL/nrZbog4zmma/mrrXlkIjkuLrjgIzlj5HluIPkv6Hmga/kuI7mlL/nrZbog4zmma/jgI3kuIDoioLvvIjljp/mlofml6DlsI/moIfpopjvvInjgIIiLA0KICAi5q2j5paH5pyJ5Y6f5paH57yW5Y+35bCP5qCH6aKY44CM5LiA44CB5pS/5rK75LiK5pyJ6L+b5q2l44CN44CM5LqM44CB5a2m5Y6G5LiK5pyJ5o+Q5Y2H44CN44CM5LiJ44CB5bCx5Lia5LiK5pyJ5L+d6Zqc44CN44CM5Zub44CB57uP5rWO5LiK5pyJ5LyY5b6F44CN77yMaGVhZGluZyDlj5bmoIfpopjor43jgIHlnKjmnKzoioLooYzljLrpl7TpgJDlrZflj6/mn6XvvIzmoIcgYXV0aG9y77yb44CM5LiJ44CB44CN5LiL5YaN5YiG44CM77yI5LiA77yJ5oqA6IO95Z+56K6t77yP77yI5LqM77yJ5bCx5Lia5pyN5Yqh77yP77yI5LiJ77yJ5a6a5ZCR6ICD5b2V77yI6IGY77yJ77yP77yI5Zub77yJ5a6J5o6S5bel5L2c44CN5Zub5Liq5a2Q6IqC77yM5bGe55yf5bWM5aWX44CCIiwNCiAgIuesrCA0OeOAgTUx44CBNTMg6KGM5pivIFvpmYTku7ZdIOWbvueJh+mTvuaOpe+8iC9fdXBsb2FkL2FydGljbGUvaW1hZ2VzL+KApnBuZ++8ie+8jOmaj+aJgOWxnuiKguiuoeWFpe+8jOS4jeWNleWIl+iKgu+8m3B0LTM1M2JhYzU2MmIg55qE5byV5paH5q2j5piv44CM5LqM44CB5a2m5Y6G5LiK5pyJ5o+Q5Y2H44CN57Sn5o6l56ysIDQ5IOihjOmZhOS7tumTvuaOpeeahOi/nuivu++8jOiQveWcqOesrOS6jOiKguOAgiIsDQogICJwdC1iMzE2NDNlZmNkIOeahOW8leaWh+S7juesrCA0NyDooYzjgIzlpJrlubTmnaXvvIzpppbpg73lub/lpKfpnZLlubTmkLrnrJTku47miI7igKbjgI3ov57or7vliLDnrKwgNDgg6KGM55qE44CM5LqM44CB5a2m5Y6G5LiK5pyJ5o+Q5Y2H44CN77yM6Leo44CM5LiA44CB44CN44CM5LqM44CB44CN5Lik6IqC6L6555WM77yM5YW2IDI2IOWtl+i1t+eCueWcqOesrCA0NyDooYzvvIzmlYXorrDlnKjjgIzkuIDjgIHmlL/msrvkuIrmnInov5vmraXjgI3oioLvvIjkuI3ot6joioLlpI3liLbvvInjgIIiLA0KICAicHQtYzc0MDQ3YjE2MuOAgXB0LTJjOGFhY2Y1MTMg55qE5byV5paH5LuO56ysIDU4IOihjOOAjOS4ieOAgeWwseS4muS4iuacieS/nemanOOAjei/nuivu+i/m+esrCA1OeKAkzYwIOihjOOAjO+8iOS4gO+8ieaKgOiDveWfueiureOAjeato+aWh++8jOi3qOeItuiKguS4juWtkOiKgu+8jOiusOWcqOeItuiKguOAjOS4ieOAgeOAjeOAgiIsDQogICLnrKwgNzLigJM3NCDooYzkuLrpobXohJrvvJrniYjmnYPkuI7kuqwgSUNQIOWkh+ahiOWPt+OAgeS6rOWFrOe9keWuieWkh+WPt+OAgeWcsOWdgOOAgVvpmYTku7ZdIC9fdmlzaXRjb3VudCDorr/pl67nu5/orqHvvIzljZXliJfkuIDoioLjgIIiLA0KICAi5pys5paH5Lu25pegIHJ1bGUtKiDmlofmoaPnuqfmnaHnm67vvIwzNSDkuKogcHQg5p2h55uu5byV5paH5YWo6YOo5Zyo5pys5paH5ZG95Lit6JC954K577yM5peg6Leo5paH5Lu25byV55So77yb5q2j5paH5Yiw56ysIDcxIOihjOa0u+WKqOivtOaYjue7k+adn++8jOacquingeaIquaWre+8jHRydW5jYXRlZD1mYWxzZeOAgiINCiBdDQp9
+{
+ "key": "20211009-c2753a254699",
+ "title": "2024年北京市征兵优待政策",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "页面框架：站点标题、部门名与栏目导航",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    42
+   ],
+   "items": [
+    "pt-e7403722ae"
+   ],
+   "chars": 202
+  },
+  {
+   "no": "—",
+   "heading": "发布信息与政策背景（2024年8月）",
+   "heading_kind": "derived",
+   "lines": [
+    43,
+    45
+   ],
+   "items": [
+    "pt-58b902b125"
+   ],
+   "chars": 150
+  },
+  {
+   "no": "一、",
+   "heading": "政治上有进步",
+   "heading_kind": "author",
+   "lines": [
+    46,
+    47
+   ],
+   "items": [
+    "pt-b27860264e",
+    "pt-b31643efcd"
+   ],
+   "chars": 206
+  },
+  {
+   "no": "二、",
+   "heading": "学历上有提升",
+   "heading_kind": "author",
+   "lines": [
+    48,
+    57
+   ],
+   "items": [
+    "pt-353bac562b",
+    "pt-5d057ec882",
+    "pt-0eb9d5977b",
+    "pt-44b4c75e16",
+    "pt-06ae49298e",
+    "pt-399805549f",
+    "pt-04089a1605",
+    "pt-b24e9bf462",
+    "pt-267f43c0bb",
+    "pt-dfd4cfc093",
+    "pt-90b2b1b01e"
+   ],
+   "chars": 964
+  },
+  {
+   "no": "三、",
+   "heading": "就业上有保障",
+   "heading_kind": "author",
+   "lines": [
+    58,
+    66
+   ],
+   "items": [
+    "pt-c74047b162",
+    "pt-2c8aacf513"
+   ],
+   "chars": 801
+  },
+  {
+   "no": "（一）",
+   "heading": "技能培训",
+   "heading_kind": "author",
+   "lines": [
+    59,
+    60
+   ],
+   "items": [
+    "pt-a67f6093ed",
+    "pt-8db6491d04"
+   ],
+   "chars": 205
+  },
+  {
+   "no": "（二）",
+   "heading": "就业服务",
+   "heading_kind": "author",
+   "lines": [
+    61,
+    62
+   ],
+   "items": [
+    "pt-4305c0a9cb"
+   ],
+   "chars": 239
+  },
+  {
+   "no": "（三）",
+   "heading": "定向考录（聘）",
+   "heading_kind": "author",
+   "lines": [
+    63,
+    64
+   ],
+   "items": [
+    "pt-b001fa0d84",
+    "pt-f8c3611af2",
+    "pt-8452c2a7c7",
+    "pt-d3ed458852"
+   ],
+   "chars": 231
+  },
+  {
+   "no": "（四）",
+   "heading": "安排工作",
+   "heading_kind": "author",
+   "lines": [
+    65,
+    66
+   ],
+   "items": [
+    "pt-d063749762",
+    "pt-64685648ac"
+   ],
+   "chars": 118
+  },
+  {
+   "no": "四、",
+   "heading": "经济上有优待",
+   "heading_kind": "author",
+   "lines": [
+    67,
+    71
+   ],
+   "items": [
+    "pt-5fcd4b6383",
+    "pt-865e910db5",
+    "pt-75e513fbd3",
+    "pt-08c9b66af7",
+    "pt-3bb0759e3c",
+    "pt-82345535e9",
+    "pt-aeeee10499",
+    "pt-f86e779e29",
+    "pt-cbbc2a39e4"
+   ],
+   "chars": 625
+  },
+  {
+   "no": "—",
+   "heading": "页脚：备案信息、地址与访问统计",
+   "heading_kind": "derived",
+   "lines": [
+    72,
+    74
+   ],
+   "items": [],
+   "chars": 112
+  }
+ ],
+ "items": [
+  "pt-353bac562b",
+  "pt-5d057ec882",
+  "pt-0eb9d5977b",
+  "pt-06ae49298e",
+  "pt-399805549f",
+  "pt-04089a1605",
+  "pt-b24e9bf462",
+  "pt-267f43c0bb",
+  "pt-90b2b1b01e",
+  "pt-c74047b162",
+  "pt-a67f6093ed",
+  "pt-4305c0a9cb",
+  "pt-b001fa0d84",
+  "pt-8452c2a7c7",
+  "pt-d063749762",
+  "pt-64685648ac",
+  "pt-5fcd4b6383",
+  "pt-865e910db5",
+  "pt-75e513fbd3",
+  "pt-08c9b66af7",
+  "pt-3bb0759e3c",
+  "pt-82345535e9",
+  "pt-aeeee10499",
+  "pt-cbbc2a39e4",
+  "pt-e7403722ae",
+  "pt-58b902b125",
+  "pt-b27860264e",
+  "pt-b31643efcd",
+  "pt-44b4c75e16",
+  "pt-dfd4cfc093",
+  "pt-2c8aacf513",
+  "pt-8db6491d04",
+  "pt-f8c3611af2",
+  "pt-d3ed458852",
+  "pt-f86e779e29"
+ ],
+ "notes": [
+  "网页抓取稿（学生工作部（处）（武装部）站点的政策解读文章）：第 1 行是站点/文章标题、第 2 行是部门名、第 3–41 行是 39 行栏目导航树（首页／部门简介／…／2021年军训专题／常用下载）、第 42 行是页内重复的正文标题，整体并为「页面框架」一节，导航不逐条设节。",
+  "第 43 行是「发布者：发布时间：2025-04-17浏览次数：416」，第 44 行「（2024年8月）」与第 45 行政策背景段合为「发布信息与政策背景」一节（原文无小标题）。",
+  "正文有原文编号小标题「一、政治上有进步」「二、学历上有提升」「三、就业上有保障」「四、经济上有优待」，heading 取标题词、在本节行区间逐字可查，标 author；「三、」下再分「（一）技能培训／（二）就业服务／（三）定向考录（聘）／（四）安排工作」四个子节，属真嵌套。",
+  "第 49、51、53 行是 [附件] 图片链接（/_upload/article/images/…png），随所属节计入，不单列节；pt-353bac562b 的引文正是「二、学历上有提升」紧接第 49 行附件链接的连读，落在第二节。",
+  "pt-b31643efcd 的引文从第 47 行「多年来，首都广大青年携笔从戎…」连读到第 48 行的「二、学历上有提升」，跨「一、」「二、」两节边界，其 26 字起点在第 47 行，故记在「一、政治上有进步」节（不跨节复制）。",
+  "pt-c74047b162、pt-2c8aacf513 的引文从第 58 行「三、就业上有保障」连读进第 59–60 行「（一）技能培训」正文，跨父节与子节，记在父节「三、」。",
+  "第 72–74 行为页脚：版权与京 ICP 备案号、京公网安备号、地址、[附件] /_visitcount 访问统计，单列一节。",
+  "本文件无 rule-* 文档级条目，35 个 pt 条目引文全部在本文命中落点，无跨文件引用；正文到第 71 行活动说明结束，未见截断，truncated=false。"
+ ]
+}

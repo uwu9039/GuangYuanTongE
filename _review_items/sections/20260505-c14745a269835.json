@@ -1,1 +1,105 @@
-ew0KICJrZXkiOiAiMjAyNjA1MDUtYzE0NzQ1YTI2OTgzNSIsDQogInRpdGxlIjogIui2o+WKqOmdkuaYpcK35oKm5Lqr5YGl5bq3IHwg5L+h5oGv5Lyg5pKt5a2m6Zmi5pys56eR54+t6Laj5ZGz6L+Q5Yqo5Lya5ZyG5ruh5Li+5YqeIiwNCiAidHJ1bmNhdGVkIjogZmFsc2UsDQogInNlY3Rpb25zIjogWw0KICB7DQogICAibm8iOiAi6aG16Z2i5qGG5p62IiwNCiAgICJoZWFkaW5nIjogIuermeeCueWvvOiIquS4juagj+ebruagh+etviIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDEsDQogICAgMzQNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDMxOA0KICB9LA0KICB7DQogICAibm8iOiAi5a+86K+tIiwNCiAgICJoZWFkaW5nIjogIuagh+mimOOAgeWPkeW4g+S/oeaBr+S4jua0u+WKqOe7vOi/sCIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDM1LA0KICAgIDM3DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0wZWNiN2IxNWE5IiwNCiAgICAicHQtMWU5MTMyNGIzNCINCiAgIF0sDQogICAiY2hhcnMiOiAyMjENCiAgfSwNCiAgew0KICAgIm5vIjogIumhueebruiuvue9riIsDQogICAiaGVhZGluZyI6ICLmtLvliqjlkIjlvbHkuI7lm5vpobnlm6LkvZPpobnnm67orr7nva4iLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzOCwNCiAgICA0MA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNWQ3Y2M2YzljYiINCiAgIF0sDQogICAiY2hhcnMiOiAyMDINCiAgfSwNCiAgew0KICAgIm5vIjogIuavlOi1m+eOsOWcuiIsDQogICAiaGVhZGluZyI6ICLlm5vkuKrpobnnm67mr5TotZvnhafniYciLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA0MSwNCiAgICA0OQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMTQ5MzI5NjRkYiIsDQogICAgInB0LTdiNjcyYWQ1OTkiLA0KICAgICJwdC05NGJkZmU3NThkIiwNCiAgICAicHQtYmUyMzFhMWZhOSINCiAgIF0sDQogICAiY2hhcnMiOiA0NjQNCiAgfSwNCiAgew0KICAgIm5vIjogIuiOt+WlluS4juaAu+e7kyIsDQogICAiaGVhZGluZyI6ICLojrflpZbnu4TnhafniYfkuI7mtLvliqjmgLvnu5MiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1MCwNCiAgICA1NQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNTgwOTExMTQ5NyIsDQogICAgInB0LTA1ZmJmNjVhNDIiDQogICBdLA0KICAgImNoYXJzIjogNDc5DQogIH0sDQogIHsNCiAgICJubyI6ICLpobXohJoiLA0KICAgImhlYWRpbmciOiAi5Y+L5oOF6ZO+5o6l5LiO54mI5p2D5L+h5oGvIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNTYsDQogICAgNzMNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDQwNQ0KICB9DQogXSwNCiAiaXRlbXMiOiBbDQogICJwdC0wZWNiN2IxNWE5IiwNCiAgInB0LTFlOTEzMjRiMzQiLA0KICAicHQtNWQ3Y2M2YzljYiIsDQogICJwdC0xNDkzMjk2NGRiIiwNCiAgInB0LTdiNjcyYWQ1OTkiLA0KICAicHQtOTRiZGZlNzU4ZCIsDQogICJwdC1iZTIzMWExZmE5IiwNCiAgInB0LTU4MDkxMTE0OTciLA0KICAicHQtMDVmYmY2NWE0MiINCiBdLA0KICJub3RlcyI6IFsNCiAgIue9kemhteaKveWPlu+8muesrCAxIOihjOa1j+iniOWZqOagh+mimO+8jOesrCAyLTMwIOihjOWtpumZouermeeCueWvvOiIqu+8i2Jhbm5lciDlm77ljaDkvY3vvIznrKwgMzEtMzQg6KGM5piv44CM5YWa576k5bel5L2c77yP5Zui5a2m5Yqo5oCB44CN5qCP55uu5qCH562+5LiO6Z2i5YyF5bGR77yM5bm25YWl44CM6aG16Z2i5qGG5p6244CN5LiA6IqC44CCIiwNCiAgIuesrCAzNS0zNiDooYzmmK/mraPmlofmoIfpopjkuI7lj5HluIPml7bpl7TvvI/mtY/op4jmrKHmlbDvvIznrKwgMzcg6KGM5piv5rS75Yqo57u86L+w5q6177yM5ZCI5bm25Li644CM5a+86K+t44CN5LiA6IqC44CCIiwNCiAgIuWOn+aWh+aXoOWwj+agh+mimO+8jOWFqOmDqOiKgumimOS4uuamguaLrOaJgOW+l++8iGRlcml2ZWTvvInvvJrmraPmlofmmK/jgIznu7zov7DmrrUg4oaSIOWQiOW9seWbvuazqO+8i+mhueebruiuvue9ruautSDihpIg5Zub5byg5q+U6LWb54Wn54mH77yI5q+P5byg5LiA6KGM5Zu+5rOo77ya6IOM6Z2g6IOM5aS55rCU55CD77yP5Lik5Lq65LiJ6Laz77yP6KKL6byg6Lez77yP5ouU5rKz77yJ4oaSIOiOt+WlluivtOaYju+8i+S4ieW8oOiOt+Wllue7hOeFp+eJhyDihpIg5oC757uT5q6144CN44CCIiwNCiAgIuOAjOiDjOmdoOiDjOWkueawlOeQg++8j+S4pOS6uuS4iei2s++8j+iii+m8oOi3s++8j+aLlOays+OAjeaYr+eFp+eJh+WbvuazqO+8iOavj+W8oOWJjeS4gOihjOaYryBgW+mZhOS7tl0g4oCmcG5nYCDljaDkvY3vvInvvIzkuI3mmK/nq6DoioLmoIfpopjvvIzmlYXkuI3nq4vlrZDoioLvvJvlm5vmnaHkuI7lm77ms6jnm7jlhbPnmoTmnaHnm67mjInlvJXmlofkvY3nva7lvZLlhaXjgIzmr5TotZvnjrDlnLrjgI3kuIDoioLjgIIiLA0KICAi56ysIDU0IOihjOOAjOiii+m8oOi3s+iOt+Wllue7hOOAjeaYr+esrOS4ieW8oOiOt+WllueFp+eJh+eahOWbvuazqO+8jOesrCA1NSDooYzmmK/mgLvnu5PmrrXvvJvmnaHnm64gcHQtMDVmYmY2NWE0MiDnmoTlvJXmlofku47nrKwgNTQg6KGM5Zu+5rOo6LW344CB5o6l56ysIDU1IOihjOaAu+e7k++8jOaVheS4pOihjOWQjOW9kuOAjOiOt+WlluS4juaAu+e7k+OAjeS4gOiKgu+8iDUwLTU177yJ44CCIiwNCiAgIuesrCA1Ni03MyDooYzkuLrpobXohJrvvIjlj4vmg4Xpk77mjqXjgIHlnLDlnYDpgq7nvJbjgIHniYjmnYPkuI7lpIfmoYjlj7fjgIHlm57liLDpobbpg6jkuI7orr/pl67nu5/orqHljaDkvY3vvInvvIzljZXliJfkuIDoioLjgIIiDQogXQ0KfQ==
+{
+ "key": "20260505-c14745a269835",
+ "title": "趣动青春·悦享健康 | 信息传播学院本科班趣味运动会圆满举办",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "页面框架",
+   "heading": "站点导航与栏目标签",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    34
+   ],
+   "items": [],
+   "chars": 318
+  },
+  {
+   "no": "导语",
+   "heading": "标题、发布信息与活动综述",
+   "heading_kind": "derived",
+   "lines": [
+    35,
+    37
+   ],
+   "items": [
+    "pt-0ecb7b15a9",
+    "pt-1e91324b34"
+   ],
+   "chars": 221
+  },
+  {
+   "no": "项目设置",
+   "heading": "活动合影与四项团体项目设置",
+   "heading_kind": "derived",
+   "lines": [
+    38,
+    40
+   ],
+   "items": [
+    "pt-5d7cc6c9cb"
+   ],
+   "chars": 202
+  },
+  {
+   "no": "比赛现场",
+   "heading": "四个项目比赛照片",
+   "heading_kind": "derived",
+   "lines": [
+    41,
+    49
+   ],
+   "items": [
+    "pt-14932964db",
+    "pt-7b672ad599",
+    "pt-94bdfe758d",
+    "pt-be231a1fa9"
+   ],
+   "chars": 464
+  },
+  {
+   "no": "获奖与总结",
+   "heading": "获奖组照片与活动总结",
+   "heading_kind": "derived",
+   "lines": [
+    50,
+    55
+   ],
+   "items": [
+    "pt-5809111497",
+    "pt-05fbf65a42"
+   ],
+   "chars": 479
+  },
+  {
+   "no": "页脚",
+   "heading": "友情链接与版权信息",
+   "heading_kind": "derived",
+   "lines": [
+    56,
+    73
+   ],
+   "items": [],
+   "chars": 405
+  }
+ ],
+ "items": [
+  "pt-0ecb7b15a9",
+  "pt-1e91324b34",
+  "pt-5d7cc6c9cb",
+  "pt-14932964db",
+  "pt-7b672ad599",
+  "pt-94bdfe758d",
+  "pt-be231a1fa9",
+  "pt-5809111497",
+  "pt-05fbf65a42"
+ ],
+ "notes": [
+  "网页抽取：第 1 行浏览器标题，第 2-30 行学院站点导航＋banner 图占位，第 31-34 行是「党群工作／团学动态」栏目标签与面包屑，并入「页面框架」一节。",
+  "第 35-36 行是正文标题与发布时间／浏览次数，第 37 行是活动综述段，合并为「导语」一节。",
+  "原文无小标题，全部节题为概括所得（derived）：正文是「综述段 → 合影图注＋项目设置段 → 四张比赛照片（每张一行图注：背靠背夹气球／两人三足／袋鼠跳／拔河）→ 获奖说明＋三张获奖组照片 → 总结段」。",
+  "「背靠背夹气球／两人三足／袋鼠跳／拔河」是照片图注（每张前一行是 `[附件] …png` 占位），不是章节标题，故不立子节；四条与图注相关的条目按引文位置归入「比赛现场」一节。",
+  "第 54 行「袋鼠跳获奖组」是第三张获奖照片的图注，第 55 行是总结段；条目 pt-05fbf65a42 的引文从第 54 行图注起、接第 55 行总结，故两行同归「获奖与总结」一节（50-55）。",
+  "第 56-73 行为页脚（友情链接、地址邮编、版权与备案号、回到顶部与访问统计占位），单列一节。"
+ ]
+}

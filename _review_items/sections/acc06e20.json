@@ -1,1 +1,175 @@
-ew0KICJrZXkiOiAiYWNjMDZlMjAiLA0KICJ0aXRsZSI6ICLkuK3kvKDotYTkuqflrZfjgJQyMDI044CVMjMxIOWPtyDkuK3lm73kvKDlqpLlpKflrabph4fotK3nrqHnkIblip7ms5XvvIgyMDI0IOW5tOS/ruiuou+8iSIsDQogInRydW5jYXRlZCI6IGZhbHNlLA0KICJzZWN0aW9ucyI6IFsNCiAgew0KICAgIm5vIjogIumAmuefpSIsDQogICAiaGVhZGluZyI6ICLmloflpLTkuI7ljbDlj5HpgJrnn6UiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxLA0KICAgIDE1DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJ3ZC1hY2MwNmUyMCINCiAgIF0sDQogICAiY2hhcnMiOiAyMjMNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS4gOeroCIsDQogICAiaGVhZGluZyI6ICLmgLvliJkiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDE2LA0KICAgIDQ2DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJ3ZC1hY2MwNmUyMCINCiAgIF0sDQogICAiY2hhcnMiOiA2NDMNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS6jOeroCIsDQogICAiaGVhZGluZyI6ICLnu4Tnu4fmnLrmnoTlj4rogYzotKMiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDQ3LA0KICAgIDE0NA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMjA2Ng0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LiJ56ugIiwNCiAgICJoZWFkaW5nIjogIumHh+i0reeahOiMg+WbtOWPiumZkOmineagh+WHhiIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTQ1LA0KICAgIDE3Mw0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogNjU0DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzlm5vnq6AiLA0KICAgImhlYWRpbmciOiAi6YeH6LSt5pa55byP5Y+K6YCC55So5p2h5Lu2IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNzQsDQogICAgMjEwDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiA4OTUNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS6lOeroCIsDQogICAiaGVhZGluZyI6ICLph4fotK3pooTnrpfnvJbliLYiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDIxMSwNCiAgICAyMjYNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDMzNA0KICB9LA0KICB7DQogICAibm8iOiAi56ys5YWt56ugIiwNCiAgICJoZWFkaW5nIjogIumHh+i0remcgOaxguWPiuiuuuivgSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMjI3LA0KICAgIDI2OA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogOTQ2DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuIPnq6AiLA0KICAgImhlYWRpbmciOiAi6YeH6LSt5bel5L2c56iL5bqPIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyNjksDQogICAgMzA2DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiA3NjUNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWFq+eroCIsDQogICAiaGVhZGluZyI6ICLph4fotK3lkIjlkIznrqHnkIYiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDMwNywNCiAgICAzMjkNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDU1MA0KICB9LA0KICB7DQogICAibm8iOiAi56ys5Lmd56ugIiwNCiAgICJoZWFkaW5nIjogIuWxpee6pumqjOaUtuS4juaWh+S7tuW9kuahoyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMzMwLA0KICAgIDM1MQ0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogNDY2DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzljYHnq6AiLA0KICAgImhlYWRpbmciOiAi55uR552j5qOA5p+lIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzNTIsDQogICAgMzYyDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAyMzYNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWNgeS4gOeroCIsDQogICAiaGVhZGluZyI6ICLpmYTliJkiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDM2MywNCiAgICAzNzANCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDE2OQ0KICB9LA0KICB7DQogICAibm8iOiAi6ZmE5Lu2IiwNCiAgICJoZWFkaW5nIjogIumHh+i0reavlOS7t+aDheWGteaxh+aAu+ihqCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMzcxLA0KICAgIDM4OA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTgxDQogIH0sDQogIHsNCiAgICJubyI6ICLniYjorrAiLA0KICAgImhlYWRpbmciOiAi5Y2w5Y+R54mI6K6wIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMzg5LA0KICAgIDM4OQ0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMjgNCiAgfQ0KIF0sDQogIml0ZW1zIjogWw0KICAid2QtYWNjMDZlMjAiDQogXSwNCiAibm90ZXMiOiBbDQogICLmraPmlofljYHkuIDnq6DvvIjnrKzkuIDnq6DigJPnrKzljYHkuIDnq6DvvInnvJblj7fov57nu63vvIzml6Dph43lpI3jgIHml6DnvLrnq6DvvJvnrKwgMTTigJMxNSDooYzkuLrlip7ms5XmoIfpopjooYzvvIjlkKvjgIzvvIgyMDI0IOW5tOS/ruiuou+8ieOAje+8ie+8jOS4jiAx4oCTMTIg6KGM55qE5Y2w5Y+R6YCa55+l5ZCI5bm25Li644CM5paH5aS05LiO5Y2w5Y+R6YCa55+l44CN5LiA6IqC44CCIiwNCiAgIuesrOS5neeroOesrOWbm+WNgeWbm+adoeOAgeesrOWFreeroOesrOS4ieWNgeWbm+adoeOAgeesrOWbm+eroOesrOWNgeWFq+iHs+S6jOWNgeadoeetieWkp+mHj+mHkemineaho+S9je+8iDUg5LiH77yPMTAg5LiH77yPMzAg5LiH77yPNTAg5LiH77yPNjAg5LiH77yPMTAwIOS4h++8jzQwMCDkuIfvvI8xMDAwIOS4h++8jzMwMDAg5LiH77yJ6YO95bWM5Zyo5p2h5paH6YeM77yM5pyq5oqK5qGj5L2N5b2T56ug6IqC44CCIiwNCiAgIumZhOS7tu+8iDM3MeKAkzM4OCDooYzvvInmmK/jgIzkuK3lm73kvKDlqpLlpKflrabph4fotK3mr5Tku7fmg4XlhrXmsYfmgLvooajjgI3nqbrnmb3ooajljZXvvIvloavooajor7TmmI7vvIzkuI3mmK/nq6DoioLvvJvmjInljp/mlofku7bkuLrkuIDoioLjgIIiLA0KICAi5paH5Lit44CM6YeH5oub5Yqe44CN5piv44CM5Zu95pyJ6LWE5Lqn566h55CG5aSE77yI6YeH6LSt5LiO5oub5qCH566h55CG5Yqe5YWs5a6k77yJ44CN55qE566A56ew77yM5Y6f5paH5aaC5q2k77yb56ys5Y2B5LiA5p2h44CM6YeH6LSt6K+E5a6h5bCP57uE44CN5LiO56ys5LqM56ug5ZCE5p2h5bm25YiX77yM5pyq5Y2V5YiX44CCIiwNCiAgIndkLWFjYzA2ZTIwIOS4uuaWh+aho+e6p+adoeebru+8jOW8leaWh+i3qCAyIOiKgu+8iOesrCAx4oCTNSDooYzlnKjjgIzmloflpLTkuI7ljbDlj5HpgJrnn6XjgI3vvIznrKwgMTfjgIEyNyDooYzlnKjjgIznrKzkuIDnq6Ag5oC75YiZ44CN77yJ77yM5pWF5Zyo6L+ZIDIg6IqC5ZCE5YiX5LiA5qyh44CCIg0KIF0NCn0NCg==
+{
+ "key": "acc06e20",
+ "title": "中传资产字〔2024〕231 号 中国传媒大学采购管理办法（2024 年修订）",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "通知",
+   "heading": "文头与印发通知",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    15
+   ],
+   "items": [
+    "wd-acc06e20"
+   ],
+   "chars": 223
+  },
+  {
+   "no": "第一章",
+   "heading": "总则",
+   "heading_kind": "author",
+   "lines": [
+    16,
+    46
+   ],
+   "items": [
+    "wd-acc06e20"
+   ],
+   "chars": 643
+  },
+  {
+   "no": "第二章",
+   "heading": "组织机构及职责",
+   "heading_kind": "author",
+   "lines": [
+    47,
+    144
+   ],
+   "items": [],
+   "chars": 2066
+  },
+  {
+   "no": "第三章",
+   "heading": "采购的范围及限额标准",
+   "heading_kind": "author",
+   "lines": [
+    145,
+    173
+   ],
+   "items": [],
+   "chars": 654
+  },
+  {
+   "no": "第四章",
+   "heading": "采购方式及适用条件",
+   "heading_kind": "author",
+   "lines": [
+    174,
+    210
+   ],
+   "items": [],
+   "chars": 895
+  },
+  {
+   "no": "第五章",
+   "heading": "采购预算编制",
+   "heading_kind": "author",
+   "lines": [
+    211,
+    226
+   ],
+   "items": [],
+   "chars": 334
+  },
+  {
+   "no": "第六章",
+   "heading": "采购需求及论证",
+   "heading_kind": "author",
+   "lines": [
+    227,
+    268
+   ],
+   "items": [],
+   "chars": 946
+  },
+  {
+   "no": "第七章",
+   "heading": "采购工作程序",
+   "heading_kind": "author",
+   "lines": [
+    269,
+    306
+   ],
+   "items": [],
+   "chars": 765
+  },
+  {
+   "no": "第八章",
+   "heading": "采购合同管理",
+   "heading_kind": "author",
+   "lines": [
+    307,
+    329
+   ],
+   "items": [],
+   "chars": 550
+  },
+  {
+   "no": "第九章",
+   "heading": "履约验收与文件归档",
+   "heading_kind": "author",
+   "lines": [
+    330,
+    351
+   ],
+   "items": [],
+   "chars": 466
+  },
+  {
+   "no": "第十章",
+   "heading": "监督检查",
+   "heading_kind": "author",
+   "lines": [
+    352,
+    362
+   ],
+   "items": [],
+   "chars": 236
+  },
+  {
+   "no": "第十一章",
+   "heading": "附则",
+   "heading_kind": "author",
+   "lines": [
+    363,
+    370
+   ],
+   "items": [],
+   "chars": 169
+  },
+  {
+   "no": "附件",
+   "heading": "采购比价情况汇总表",
+   "heading_kind": "author",
+   "lines": [
+    371,
+    388
+   ],
+   "items": [],
+   "chars": 181
+  },
+  {
+   "no": "版记",
+   "heading": "印发版记",
+   "heading_kind": "derived",
+   "lines": [
+    389,
+    389
+   ],
+   "items": [],
+   "chars": 28
+  }
+ ],
+ "items": [
+  "wd-acc06e20"
+ ],
+ "notes": [
+  "正文十一章（第一章–第十一章）编号连续，无重复、无缺章；第 14–15 行为办法标题行（含「（2024 年修订）」），与 1–12 行的印发通知合并为「文头与印发通知」一节。",
+  "第九章第四十四条、第六章第三十四条、第四章第十八至二十条等大量金额档位（5 万／10 万／30 万／50 万／60 万／100 万／400 万／1000 万／3000 万）都嵌在条文里，未把档位当章节。",
+  "附件（371–388 行）是「中国传媒大学采购比价情况汇总表」空白表单＋填表说明，不是章节；按原文件为一节。",
+  "文中「采招办」是「国有资产管理处（采购与招标管理办公室）」的简称，原文如此；第十一条「采购评审小组」与第二章各条并列，未单列。",
+  "wd-acc06e20 为文档级条目，引文跨 2 节（第 1–5 行在「文头与印发通知」，第 17、27 行在「第一章 总则」），故在这 2 节各列一次。"
+ ]
+}

@@ -1,1 +1,41 @@
-IiIi55yL6L+Z5Yeg6YGT5Li65LuA5LmI6KKr5ouSL+ayoeiiq+aLku+8muaLkuetlOWGs+etliArIOWFs+mUrueJueW+geOAgiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQganNvbgpmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgKCmltcG9ydCBudW1weSBhcyBucAoKZnJvbSByZXRyaWV2YWwgaW1wb3J0IEVuZ2luZQpmcm9tIHJldHJpZXZhbC5nYXRlIGltcG9ydCAoY29udGV4dF9mZWF0dXJlcywgb3RoZXJfc2Nob29sc19oaXQsIG91dF9vZl9zY29wZV9oaXQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwZXJzb25hbF9oaXQpCmZyb20gcmV0cmlldmFsLnRleHQgaW1wb3J0IHF1ZXJ5X3RleHQKClNFVFMgPSBQYXRoKCJfZXZhbC9zZXRzIikKUVMgPSBbIuWtpui0ueWcqOWTquS6pOaAjuS5iOS6pCIsICLlrr/oiI3ph4zog73miZPmsLTlkJciLCAi5b+D5oOF5LiN5aW95oOz5om+5Lq66IGK6IGK5Y675ZOqIiwKICAgICAgIua4heWNjuWkp+WtpuagoeWbreWNoeaAjuS5iOihpeWKniIsICLljJfkuqzlpKflrablm77kuabppobmgI7kuYjov5siXQoKCmRlZiBtYWluKCkgLT4gTm9uZToKICAgIGVuZyA9IEVuZ2luZS5sb2FkKGRlbnNlPVRydWUpCiAgICBuZWdzID0gW2pzb24ubG9hZHMobG4pIGZvciBsbiBpbiAoU0VUUyAvICJuZWdhdGl2ZXMuanNvbmwiKS5yZWFkX3RleHQoZW5jb2Rpbmc9InV0Zi04Iikuc3BsaXRsaW5lcygpXQogICAgbWlzc2VkID0gW3JbInEiXSBmb3IgciBpbiBuZWdzIGlmIG5vdCBlbmcuc2VhcmNoKHJbInEiXSwgaz0xKS5yZWZ1c2VkXQogICAgcHJpbnQoInN0cmljdCDotJ/kvovph4zmsqHmi5LnmoTvvJoiLCBtaXNzZWQpCgogICAgZm9yIHEgaW4gUVM6CiAgICAgICAgcmVzID0gZW5nLnNlYXJjaChxLCBrPTEpCiAgICAgICAgY3R4LCBfZnMsIGNhbmQsIFggPSBlbmcucmV0cmlldmUocXVlcnlfdGV4dChxKSwgdXNlX2RlbnNlPVRydWUsIHJhdz1xKQogICAgICAgIGxvZ2l0cyA9IChlbmcucmFua2VyX2RlbnNlIG9yIGVuZy5yYW5rZXIpLnNjb3JlKFgpCiAgICAgICAgb3JkZXIgPSBucC5hcmdzb3J0KC1sb2dpdHMpCiAgICAgICAgcHJvYnMgPSAxLjAgLyAoMS4wICsgbnAuZXhwKC1ucC5jbGlwKGxvZ2l0c1tvcmRlcl0sIC0zMCwgMzApKSkKICAgICAgICBmID0gY29udGV4dF9mZWF0dXJlcyhlbmcuaXgsIGVuZy5jYWNoZSwgY3R4LCBYW29yZGVyWzBdXSwgcHJvYnNbOjVdKQogICAgICAgIGMgPSBxdWVyeV90ZXh0KHEpCiAgICAgICAgcHJpbnQoZiJcbntxfSAgcmVmdXNlZD17cmVzLnJlZnVzZWR9IGNhdD17cmVzLmNhdGVnb3J5IGlmIGhhc2F0dHIocmVzLCdjYXRlZ29yeScpIGVsc2UgcmVzLnJlYXNvbls6MTRdfSIpCiAgICAgICAgcHJpbnQoZiIgICBjb3JlPXtjdHguY29yZSFyfSBsZW49e2xlbihjdHguY29yZSl9IHByb2I9e2ZbMF06LjJmfSBjb3ZTPXtmWzJdOi4yZn0gIgogICAgICAgICAgICAgIGYiZXhhY3Q9e2ZbM106LjBmfSBjb3ZDPXtmWzVdOi4yZn0gcnVuPXtmWzddKm1heChsZW4oY3R4LmNvcmUpLDEpOi4xZn0iKQogICAgICAgIHByaW50KGYiICAgcGVyc29uYWw9e2Jvb2wocGVyc29uYWxfaGl0KGMpKX0gc2Nob29sPXtvdGhlcl9zY2hvb2xzX2hpdChjKSFyfSAiCiAgICAgICAgICAgICAgZiJvb3M9e291dF9vZl9zY29wZV9oaXQoYykhcn0iKQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBtYWluKCkK
+"""看这几道为什么被拒/没被拒：拒答决策 + 关键特征。"""
+from __future__ import annotations
+
+import json
+from pathlib import Path
+
+import numpy as np
+
+from retrieval import Engine
+from retrieval.gate import (context_features, other_schools_hit, out_of_scope_hit,
+                            personal_hit)
+from retrieval.text import query_text
+
+SETS = Path("_eval/sets")
+QS = ["学费在哪交怎么交", "宿舍里能打水吗", "心情不好想找人聊聊去哪",
+      "清华大学校园卡怎么补办", "北京大学图书馆怎么进"]
+
+
+def main() -> None:
+    eng = Engine.load(dense=True)
+    negs = [json.loads(ln) for ln in (SETS / "negatives.jsonl").read_text(encoding="utf-8").splitlines()]
+    missed = [r["q"] for r in negs if not eng.search(r["q"], k=1).refused]
+    print("strict 负例里没拒的：", missed)
+
+    for q in QS:
+        res = eng.search(q, k=1)
+        ctx, _fs, cand, X = eng.retrieve(query_text(q), use_dense=True, raw=q)
+        logits = (eng.ranker_dense or eng.ranker).score(X)
+        order = np.argsort(-logits)
+        probs = 1.0 / (1.0 + np.exp(-np.clip(logits[order], -30, 30)))
+        f = context_features(eng.ix, eng.cache, ctx, X[order[0]], probs[:5])
+        c = query_text(q)
+        print(f"\n{q}  refused={res.refused} cat={res.category if hasattr(res,'category') else res.reason[:14]}")
+        print(f"   core={ctx.core!r} len={len(ctx.core)} prob={f[0]:.2f} covS={f[2]:.2f} "
+              f"exact={f[3]:.0f} covC={f[5]:.2f} run={f[7]*max(len(ctx.core),1):.1f}")
+        print(f"   personal={bool(personal_hit(c))} school={other_schools_hit(c)!r} "
+              f"oos={out_of_scope_hit(c)!r}")
+
+
+if __name__ == "__main__":
+    main()

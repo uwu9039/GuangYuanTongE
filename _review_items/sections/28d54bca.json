@@ -1,1 +1,211 @@
-ewogImtleSI6ICIyOGQ1NGJjYSIsCiAidGl0bGUiOiAi55+l6K+G5bqTLemlrumjn+acjeWKoeS4reW/gyIsCiAidHJ1bmNhdGVkIjogZmFsc2UsCiAic2VjdGlvbnMiOiBbCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi5qCh5Zut5YaF5aaC5L2V5bCx6aSQ77yf5pyJ5Yeg5Liq6aSQ5Y6F77yfIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbMSwgN10sCiAgICJpdGVtcyI6IFsicnVsZS0yOGQ1NGJjYSIsICJwdC1jNmFkNjljYzg3Il0sCiAgICJjaGFycyI6IDE2NwogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi6aOf5aCC77yI5ZCE6aSQ5Y6F77yJ55qE5L6b6aSQ5pe26Ze077yfIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbOCwgMTldLAogICAiaXRlbXMiOiBbInB0LWVhZTI5NWRhYWIiXSwKICAgImNoYXJzIjogMjkzCiAgfSwKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLlkajmnKvlj4roioLlgYfml6XnmoTppJDljoXlvIDmlL7ml7bpl7TvvJ8iLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsyMCwgMjRdLAogICAiaXRlbXMiOiBbInB0LTQ1MGE0ODAxYjciXSwKICAgImNoYXJzIjogMTAzCiAgfSwKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLlr7npo5/loILmnInmhI/op4Hlu7rorq7lpoLkvZXmj5DvvJ/lrabmoKHpo5/loILlkIPliLDlvILnianmgI7kuYjmipXor4njgIHkuL7miqXnlLXor50iLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsyNSwgMzRdLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogMjY0CiAgfSwKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLppJDljoXliIbnsbvooajmoLzmrovniYfvvIjln7rmnKzkvJnppJDljoXjgIHkuK3ok53ppJDljoXjgIHlkITmoaPlj6PvvIkiLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbMzUsIDM4XSwKICAgIml0ZW1zIjogWyJwdC1lMmYzM2YxNTJlIl0sCiAgICJjaGFycyI6IDMxCiAgfSwKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLppa3ljaHlhYXlgLwiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFszOSwgNDFdLAogICAiaXRlbXMiOiBbInB0LTZjYTE1N2JkODIiXSwKICAgImNoYXJzIjogNDkKICB9LAogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIumjn+WgguWVhuaIt+S6pOaYk+afpeivoiIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzQyLCA0M10sCiAgICJpdGVtcyI6IFtdLAogICAiY2hhcnMiOiA1OAogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi5pSv5LuY5pa55byP44CB6I+c5Y2V5LiO6aOf5aCC5o6o6I2Q6Zeu562UIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzQ0LCA1NV0sCiAgICJpdGVtcyI6IFsicHQtZjQ5MThhZDUxMyIsICJwdC02OThiMjdhZjFmIl0sCiAgICJjaGFycyI6IDI0NwogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi6aSQ5Y6F5Y+v5Lul55So5b6u5L+h5pSv5LuY5ZCXPyIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzQ0LCA0Nl0sCiAgICJpdGVtcyI6IFtdLAogICAiY2hhcnMiOiA0NAogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi5Lit5Y2I6aOf5aCC55qE6I+c5Y2V5pyJ5LuA5LmI77yfIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbNDcsIDQ5XSwKICAgIml0ZW1zIjogW10sCiAgICJjaGFycyI6IDUwCiAgfSwKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLmjqjojZDkuIvkuK3lm73kvKDlqpLlpKflrablk6rkuKrpo5/loILlpb3lkIPvvJ8iLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs1MCwgNTVdLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogMTUzCiAgfSwKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLmoKHlhoXmnInlk6rkupvlpb3lkIPnmoTvvJ8iLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs1NiwgNzhdLAogICAiaXRlbXMiOiBbInB0LTBiYzk1YzA5MDAiLCAicHQtNGRkMDcxNmQ5YyIsICJwdC05ZmJhZWZhOTBkIl0sCiAgICJjaGFycyI6IDUyMgogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi5rCR5peP6aSQ5Y6F5bCx6aSQ6Zeu562U77yI6JKZ5Y+k5peP5a2m55Sf5bCx6aSQ44CB5omL57ut5LiO5Zyw5Z2A77yJIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzc5LCA4NF0sCiAgICJpdGVtcyI6IFsicHQtNTU1MjQ0MjVhZCJdLAogICAiY2hhcnMiOiA2OQogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi5oiR5piv6JKZ5Y+k5peP5a2m55Sf77yM5Y+v5Lul55u05o6l5Yiw5rCR5peP6aSQ5Y6F5bCx6aSQ5ZCX77yfIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbNzksIDgwXSwKICAgIml0ZW1zIjogW10sCiAgICJjaGFycyI6IDIzCiAgfSwKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLmsJHml4/ppJDljoXlsLHppJDpnIDopoHku4DkuYjmnaHku7bmiJbmiYvnu63lkJfvvJ8iLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs4MSwgODJdLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogMjEKICB9LAogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIuawkeaXj+mkkOWOheWcsOWdgOWcqOWTqumHjO+8nyIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzgzLCA4NF0sCiAgICJpdGVtcyI6IFtdLAogICAiY2hhcnMiOiAyNQogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi6aOf5aCC5raI6LS56ZmQ5Yi244CB5YGH5pyf6JCl5Lia5LiO5LuY5qy+5pa55byP6Zeu562UIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzg1LCA5Nl0sCiAgICJpdGVtcyI6IFsicHQtMDgwYThjMzg0OSIsICJwdC0wOWVjZTBiN2FiIiwgInB0LTAxOTc3MzE2OTUiLCAicHQtM2M0NTA5ZDVlYyJdLAogICAiY2hhcnMiOiAxNjkKICB9LAogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIumjn+Wggua2iOi0ueacieS7gOS5iOmZkOWItu+8nyIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzg1LCA4Nl0sCiAgICJpdGVtcyI6IFtdLAogICAiY2hhcnMiOiAxNAogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi576O6aOf5bm/5Zy644CB6aOf5aCC5byA5Yiw5ZOq5aSp77yfIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbODcsIDg4XSwKICAgIml0ZW1zIjogW10sCiAgICJjaGFycyI6IDI4CiAgfSwKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLlgYfmnJ/lk6rkuKrpo5/loILlj6/ku6XlkIPppa3vvJ8iLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs4OSwgOTFdLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogNDMKICB9LAogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIuWMl+iLkemjn+WgguWwsemkkOWmguS9leeUqOW+ruS/oeaUr+S7mO+8nyIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzkyLCA5NF0sCiAgICJpdGVtcyI6IFtdLAogICAiY2hhcnMiOiA0OAogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi5YyX6IuR6aOf5aCC5Y+v5Lul55So5LuA5LmI5pa55byP5LuY5qy+77yfIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbOTUsIDk2XSwKICAgIml0ZW1zIjogW10sCiAgICJjaGFycyI6IDM2CiAgfQogXSwKICJpdGVtcyI6IFsKICAicnVsZS0yOGQ1NGJjYSIsCiAgInB0LWM2YWQ2OWNjODciLAogICJwdC1lYWUyOTVkYWFiIiwKICAicHQtNDUwYTQ4MDFiNyIsCiAgInB0LWUyZjMzZjE1MmUiLAogICJwdC02Y2ExNTdiZDgyIiwKICAicHQtZjQ5MThhZDUxMyIsCiAgInB0LTY5OGIyN2FmMWYiLAogICJwdC0wYmM5NWMwOTAwIiwKICAicHQtNGRkMDcxNmQ5YyIsCiAgInB0LTlmYmFlZmE5MGQiLAogICJwdC01NTUyNDQyNWFkIiwKICAicHQtMDgwYThjMzg0OSIsCiAgInB0LTA5ZWNlMGI3YWIiLAogICJwdC0wMTk3NzMxNjk1IiwKICAicHQtM2M0NTA5ZDVlYyIKIF0sCiAibm90ZXMiOiBbCiAgIuefpeivhuW6k+WvvOWHuuaWh+acrO+8iOWOnyBkb2N444CM55+l6K+G5bqTLemlrumjn+acjeWKoeS4reW/gy5kb2N444CN77yJ77yM5YWo5paH5piv6Zeu562U5L2T77ya5q+P6aKY5Y2V54us5oiQ6KGM44CB562U5qGI57Sn6ZqP5YW25ZCO77yM5rKh5pyJ44CM56ysWOadoeOAjee8luWPt++8jOS5n+aXoOeroOiKguagh+mimO+8jOaVheWQhOiKgiBoZWFkaW5nIOeUqOWOn+aWh+mimOebruWOn+WPpe+8iOaghyBhdXRob3LvvInvvIxgbm9gIOS4gOW+i+WGmeOAjOKAlOOAjeOAgiIsCiAgIuinhOWImeadoeebriBydWxlLTI4ZDU0YmNhIOaXoOW8leaWh++8jOWxnuaWh+aho+e6p+adoeebru+8jOWIl+i/m+mmluiKguOAjOagoeWbreWGheWmguS9leWwsemkkO+8n+acieWHoOS4qumkkOWOhe+8n+OAjeW5tuS/neeVmeWcqOaWh+aho+e6pyBpdGVtcyDkuK3jgIIiLAogICLnrKwgMzXigJMzOCDooYzmmK/kuIDlvKDooqvmir3lj5bljovlubPnmoTppJDljoXliIbnsbvooajmrovniYfvvIjnrKwgMzYg6KGM44CM5Z+65pys5LyZ6aSQ5Y6F77yP5Lit6JOd6aSQ5Y6F44CN77yM56ysIDM3IOihjOOAjOa6oummmeiLkeS6jOWxguOAgeS4ieWxguOAgeaihuWtkOS6leOAje+8jOesrCAzOCDooYzjgIzliY3ml5flkbPpgZPjgIHltJTmsLjlhYPnnJ/pnaLjgI3vvInvvIznrKwgMzUg6KGM5Y+q5Ymp56m65qC877yb5peg6aKY5ZCN77yM5pWF5Y+m6K6+IGRlcml2ZWQg6IqC77yMcHQtZTJmMzNmMTUyZSDnmoTlvJXmlofvvIjjgIzln7rmnKzkvJnppJDljoXkuK3ok53ppJDljoXmuqLpppnoi5HkuozlsYLjgIHkuInlsYLjgIHmooblrZDkupXliY3ml5flkbPpgZPjgIHltJTmsLjlhYPnnJ/pnaLjgI3vvInmraPokL3lnKjov5nkuInooYzjgIIiLAogICLjgIzmlK/ku5jmlrnlvI/jgIHoj5zljZXkuI7po5/loILmjqjojZDpl67nrZTjgI3vvIg0NOKAkzU177yJ5Li654i26IqC77yM55yf5bWM5aWX56ysIDQ04oCTNDbjgIE0N+KAkzQ544CBNTDigJM1NSDkuInoioLvvJtwdC1mNDkxOGFkNTEzIOeahOW8leaWh+iHquesrCA0NiDooYzjgIzlj5bmkK3kvJnotLnjgI3vvIjkuIrkuIDmnaHnrZTmoYjmnKvlsL7vvInov57nnYDnrKwgNDcg6KGM44CM5Lit5Y2I6aOf5aCC55qE6I+c5Y2V5pyJ5LuA5LmI77yf44CN77yMcHQtNjk4YjI3YWYxZiDoh6rnrKwgNDkg6KGM44CM5Yiw6aSQ5Y6F5bCx6aSQ5pe25p+l55yL6I+c5Y2V44CN6L+e552A56ysIDUwIOihjOOAjOaOqOiNkOS4i+S4reWbveS8oOWqkuWkp+WtpuWTquS4qumjn+WgguWlveWQg++8n+OAje+8jOS4pOadoemDvei3qOS6huWtkOiKgui+ueeVjO+8jOaVheWPquiQveeItuiKguOAgiIsCiAgIuOAjOawkeaXj+mkkOWOheWwsemkkOmXruetlOOAje+8iDc54oCTODTvvInkuLrniLboioLvvIznnJ/ltYzlpZcgNznigJM4MOOAgTgx4oCTODLjgIE4M+KAkzg0IOS4ieiKgu+8m3B0LTU1NTI0NDI1YWQg55qE5byV5paH5LuO56ysIDgwIOihjOOAjOWPr+S7peOAjeS4suWIsOesrCA4MyDooYzjgIzmsJHml4/ppJDljoXlnLDlnYDlnKjlk6rph4zvvJ/jgI3vvIzot6jkuInoioLvvIzmlYXokL3niLboioLjgIIiLAogICLjgIzpo5/loILmtojotLnpmZDliLbjgIHlgYfmnJ/okKXkuJrkuI7ku5jmrL7mlrnlvI/pl67nrZTjgI3vvIg4NeKAkzk277yJ5Li654i26IqC77yM55yf5bWM5aWXIDg14oCTODbjgIE4N+KAkzg444CBODnigJM5MeOAgTky4oCTOTTjgIE5NeKAkzk2IOS6lOiKgu+8m3B0LTA4MGE4YzM4NDnvvIg4NuKAkzg377yJ44CBcHQtMDllY2UwYjdhYu+8iDg44oCTODnvvInjgIFwdC0wMTk3NzMxNjk177yIOTHigJM5M++8ieOAgXB0LTNjNDUwOWQ1ZWPvvIg5NOKAkzk277yJ5Zub5p2h5byV5paH6YO96Leo5a2Q6IqC6L6555WM77yM5pWF6YO96JC954i26IqC44CCIiwKICAi5Y6f5paH5oq95Y+W5pyJ5o6S54mI5q6L55WZ77ya56ysIDEx44CBMTfjgIEyOeKAkzMzIOihjOWtl+mXtOWkueWkmuS9meepuuagvO+8iOWmguOAjOS4rSDok50g6aOOIOWRsyDppJAg5Y6FIOS+myDppJAg5pe2IOmXtOOAjeOAjOWMlyDoi5Eg5LiAIOWxgiDlvKAg57uPIOeQhuOAje+8ie+8jOesrCAzNSDooYzlj6rliannqbrmoLzvvIznrKwgNDMg6KGM5pivIE1hcmtkb3duIOWklumTvuihjOOAjFvpo5/loILllYbmiLfkuqTmmJPmn6Xor6LlhaXlj6NdKGh0dHBzOi8vcGNhcmQuY3VjLmVkdS5jbi9zZXJ2aWNlaGFsbCnjgI3vvJvlvJXmlofmr5Tlr7nmjInljrvnqbrnmb3lj6PlvoTku43lj6/lkb3kuK3jgIIiLAogICLmnKzmlofku7booYzlsL7mraPluLjvvIhMRu+8ie+8jGBsZW4odGV4dC5zcGxpdCgnXFxuJykpPTk2YO+8jGxpbmVzIOaMieivpeWPo+W+hO+8m+acq+ihjOesrCA5NiDooYzjgIzmnKzmoKHluIjnlJ/liLfmoKHlm63noIEv5qCh5Zut5Y2h77yM5aSW5p2l5Lq65ZGY5Y+v5b6u5L+h5pSv5LuY44CN5Lul5q2j5paH5pS25bC+77yM5peg5oiq5pat6L+56LGh44CCIgogXQp9Cg==
+{
+ "key": "28d54bca",
+ "title": "知识库-饮食服务中心",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "校园内如何就餐？有几个餐厅？",
+   "heading_kind": "author",
+   "lines": [1, 7],
+   "items": ["rule-28d54bca", "pt-c6ad69cc87"],
+   "chars": 167
+  },
+  {
+   "no": "—",
+   "heading": "食堂（各餐厅）的供餐时间？",
+   "heading_kind": "author",
+   "lines": [8, 19],
+   "items": ["pt-eae295daab"],
+   "chars": 293
+  },
+  {
+   "no": "—",
+   "heading": "周末及节假日的餐厅开放时间？",
+   "heading_kind": "author",
+   "lines": [20, 24],
+   "items": ["pt-450a4801b7"],
+   "chars": 103
+  },
+  {
+   "no": "—",
+   "heading": "对食堂有意见建议如何提？学校食堂吃到异物怎么投诉、举报电话",
+   "heading_kind": "author",
+   "lines": [25, 34],
+   "items": [],
+   "chars": 264
+  },
+  {
+   "no": "—",
+   "heading": "餐厅分类表格残片（基本伙餐厅、中蓝餐厅、各档口）",
+   "heading_kind": "derived",
+   "lines": [35, 38],
+   "items": ["pt-e2f33f152e"],
+   "chars": 31
+  },
+  {
+   "no": "—",
+   "heading": "饭卡充值",
+   "heading_kind": "author",
+   "lines": [39, 41],
+   "items": ["pt-6ca157bd82"],
+   "chars": 49
+  },
+  {
+   "no": "—",
+   "heading": "食堂商户交易查询",
+   "heading_kind": "author",
+   "lines": [42, 43],
+   "items": [],
+   "chars": 58
+  },
+  {
+   "no": "—",
+   "heading": "支付方式、菜单与食堂推荐问答",
+   "heading_kind": "derived",
+   "lines": [44, 55],
+   "items": ["pt-f4918ad513", "pt-698b27af1f"],
+   "chars": 247
+  },
+  {
+   "no": "—",
+   "heading": "餐厅可以用微信支付吗?",
+   "heading_kind": "author",
+   "lines": [44, 46],
+   "items": [],
+   "chars": 44
+  },
+  {
+   "no": "—",
+   "heading": "中午食堂的菜单有什么？",
+   "heading_kind": "author",
+   "lines": [47, 49],
+   "items": [],
+   "chars": 50
+  },
+  {
+   "no": "—",
+   "heading": "推荐下中国传媒大学哪个食堂好吃？",
+   "heading_kind": "author",
+   "lines": [50, 55],
+   "items": [],
+   "chars": 153
+  },
+  {
+   "no": "—",
+   "heading": "校内有哪些好吃的？",
+   "heading_kind": "author",
+   "lines": [56, 78],
+   "items": ["pt-0bc95c0900", "pt-4dd0716d9c", "pt-9fbaefa90d"],
+   "chars": 522
+  },
+  {
+   "no": "—",
+   "heading": "民族餐厅就餐问答（蒙古族学生就餐、手续与地址）",
+   "heading_kind": "derived",
+   "lines": [79, 84],
+   "items": ["pt-55524425ad"],
+   "chars": 69
+  },
+  {
+   "no": "—",
+   "heading": "我是蒙古族学生，可以直接到民族餐厅就餐吗？",
+   "heading_kind": "author",
+   "lines": [79, 80],
+   "items": [],
+   "chars": 23
+  },
+  {
+   "no": "—",
+   "heading": "民族餐厅就餐需要什么条件或手续吗？",
+   "heading_kind": "author",
+   "lines": [81, 82],
+   "items": [],
+   "chars": 21
+  },
+  {
+   "no": "—",
+   "heading": "民族餐厅地址在哪里？",
+   "heading_kind": "author",
+   "lines": [83, 84],
+   "items": [],
+   "chars": 25
+  },
+  {
+   "no": "—",
+   "heading": "食堂消费限制、假期营业与付款方式问答",
+   "heading_kind": "derived",
+   "lines": [85, 96],
+   "items": ["pt-080a8c3849", "pt-09ece0b7ab", "pt-0197731695", "pt-3c4509d5ec"],
+   "chars": 169
+  },
+  {
+   "no": "—",
+   "heading": "食堂消费有什么限制？",
+   "heading_kind": "author",
+   "lines": [85, 86],
+   "items": [],
+   "chars": 14
+  },
+  {
+   "no": "—",
+   "heading": "美食广场、食堂开到哪天？",
+   "heading_kind": "author",
+   "lines": [87, 88],
+   "items": [],
+   "chars": 28
+  },
+  {
+   "no": "—",
+   "heading": "假期哪个食堂可以吃饭？",
+   "heading_kind": "author",
+   "lines": [89, 91],
+   "items": [],
+   "chars": 43
+  },
+  {
+   "no": "—",
+   "heading": "北苑食堂就餐如何用微信支付？",
+   "heading_kind": "author",
+   "lines": [92, 94],
+   "items": [],
+   "chars": 48
+  },
+  {
+   "no": "—",
+   "heading": "北苑食堂可以用什么方式付款？",
+   "heading_kind": "author",
+   "lines": [95, 96],
+   "items": [],
+   "chars": 36
+  }
+ ],
+ "items": [
+  "rule-28d54bca",
+  "pt-c6ad69cc87",
+  "pt-eae295daab",
+  "pt-450a4801b7",
+  "pt-e2f33f152e",
+  "pt-6ca157bd82",
+  "pt-f4918ad513",
+  "pt-698b27af1f",
+  "pt-0bc95c0900",
+  "pt-4dd0716d9c",
+  "pt-9fbaefa90d",
+  "pt-55524425ad",
+  "pt-080a8c3849",
+  "pt-09ece0b7ab",
+  "pt-0197731695",
+  "pt-3c4509d5ec"
+ ],
+ "notes": [
+  "知识库导出文本（原 docx「知识库-饮食服务中心.docx」），全文是问答体：每题单独成行、答案紧随其后，没有「第X条」编号，也无章节标题，故各节 heading 用原文题目原句（标 author），`no` 一律写「—」。",
+  "规则条目 rule-28d54bca 无引文，属文档级条目，列进首节「校园内如何就餐？有几个餐厅？」并保留在文档级 items 中。",
+  "第 35–38 行是一张被抽取压平的餐厅分类表残片（第 36 行「基本伙餐厅／中蓝餐厅」，第 37 行「溢香苑二层、三层、梆子井」，第 38 行「前旗味道、崔永元真面」），第 35 行只剩空格；无题名，故另设 derived 节，pt-e2f33f152e 的引文（「基本伙餐厅中蓝餐厅溢香苑二层、三层、梆子井前旗味道、崔永元真面」）正落在这三行。",
+  "「支付方式、菜单与食堂推荐问答」（44–55）为父节，真嵌套第 44–46、47–49、50–55 三节；pt-f4918ad513 的引文自第 46 行「取搭伙费」（上一条答案末尾）连着第 47 行「中午食堂的菜单有什么？」，pt-698b27af1f 自第 49 行「到餐厅就餐时查看菜单」连着第 50 行「推荐下中国传媒大学哪个食堂好吃？」，两条都跨了子节边界，故只落父节。",
+  "「民族餐厅就餐问答」（79–84）为父节，真嵌套 79–80、81–82、83–84 三节；pt-55524425ad 的引文从第 80 行「可以」串到第 83 行「民族餐厅地址在哪里？」，跨三节，故落父节。",
+  "「食堂消费限制、假期营业与付款方式问答」（85–96）为父节，真嵌套 85–86、87–88、89–91、92–94、95–96 五节；pt-080a8c3849（86–87）、pt-09ece0b7ab（88–89）、pt-0197731695（91–93）、pt-3c4509d5ec（94–96）四条引文都跨子节边界，故都落父节。",
+  "原文抽取有排版残留：第 11、17、29–33 行字间夹多余空格（如「中 蓝 风 味 餐 厅 供 餐 时 间」「北 苑 一 层 张 经 理」），第 35 行只剩空格，第 43 行是 Markdown 外链行「[食堂商户交易查询入口](https://pcard.cuc.edu.cn/servicehall)」；引文比对按去空白口径仍可命中。",
+  "本文件行尾正常（LF），`len(text.split('\\n'))=96`，lines 按该口径；末行第 96 行「本校师生刷校园码/校园卡，外来人员可微信支付」以正文收尾，无截断迹象。"
+ ]
+}

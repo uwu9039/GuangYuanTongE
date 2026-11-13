@@ -1,1 +1,482 @@
-ew0KICIwMTNkNDhhNjIwIjogew0KICAidXJsIjogImh0dHBzOi8veHl5LmN1Yy5lZHUuY24vMjAxOC8xMTAxL2M5MzRhMTY5MTgvcGFnZS5odG0iLA0KICAidGl0bGUiOiAi5YWs6LS55Yy755aX566h55CG5Yqe5rOV77yIeHl5LmN1Y++8iSIsDQogICJjaGFycyI6IDUwODcsDQogICJzaGEyNTYiOiAiODk2ODQ1MTg4ZTliMzZlOCIsDQogICJmZXRjaGVkX2F0IjogIjIwMjYtMTAtMjdUMTE6Mjc6MDErMDg6MDAiLA0KICAia2luZCI6ICJleHRyYSINCiB9LA0KICI4ZWFlN2Y0MmYwIjogew0KICAidXJsIjogImh0dHBzOi8vaXRzLmN1Yy5lZHUuY24vMjAyMi8wNzAyL2M4NDg4YTE5NDYyNS9wYWdlLmh0bSIsDQogICJ0aXRsZSI6ICLmoKHlm63ljaHnrqHnkIblip7ms5XvvIhpdHMuY3Vj77yJIiwNCiAgImNoYXJzIjogNDc1MSwNCiAgInNoYTI1NiI6ICI1Yzk0NWEzYTRhYjMxMTBhIiwNCiAgImZldGNoZWRfYXQiOiAiMjAyNi0xMC0yN1QxMToyNzoxMSswODowMCIsDQogICJraW5kIjogImV4dHJhIg0KIH0sDQogIjc0Y2JhNmE1MTIiOiB7DQogICJ1cmwiOiAiaHR0cHM6Ly94eGdrLmN1Yy5lZHUuY24vNTM5OS9saXN0Lmh0bSIsDQogICJ0aXRsZSI6ICLkv6Hmga/lhazlvIDCt+WtpueUn+euoeeQhuacjeWKoeS/oeaBr++8iHh4Z2suY3Vj77yJIiwNCiAgImNoYXJzIjogOTA1LA0KICAic2hhMjU2IjogIjhiNTVkMDRhNzliMzhhYWEiLA0KICAiZmV0Y2hlZF9hdCI6ICIyMDI2LTEwLTI3VDExOjI3OjIxKzA4OjAwIiwNCiAgImtpbmQiOiAiZXh0cmEiDQogfSwNCiAiZjFhZGRlMDUxZiI6IHsNCiAgInVybCI6ICJodHRwczovL3h5eS5jdWMuZWR1LmNuL21haW5tLmh0bSIsDQogICJ0aXRsZSI6ICLpl6jmgKXor4rml7bpl7TvvIh4eXkuY3Vj77yJIiwNCiAgImNoYXJzIjogNjU5LA0KICAic2hhMjU2IjogIjYwNzQyMjM5N2JhMjk2NDUiLA0KICAiZmV0Y2hlZF9hdCI6ICIyMDI2LTEwLTI3VDExOjI3OjQzKzA4OjAwIiwNCiAgImtpbmQiOiAiZXh0cmEiDQogfSwNCiAiN2IzMDFjOWU2YSI6IHsNCiAgInVybCI6ICJodHRwczovL3h5eS5jdWMuZWR1LmNuLyIsDQogICJ0aXRsZSI6ICLpl6jmgKXor4rml7bpl7TvvIh4eXkuY3Vj77yJIiwNCiAgImNoYXJzIjogOTEzLA0KICAic2hhMjU2IjogImFmNTVkMDc1NWVjNTViMmIiLA0KICAiZmV0Y2hlZF9hdCI6ICIyMDI2LTEwLTI3VDExOjI3OjQ1KzA4OjAwIiwNCiAgImtpbmQiOiAiZXh0cmEiDQogfSwNCiAiNDAyZWNmMjgzMSI6IHsNCiAgInVybCI6ICJodHRwczovL3lvdXRoLmN1Yy5lZHUuY24vIiwNCiAgInRpdGxlIjogIuWboue7hOe7h+WFs+ezu+i9rOaOpe+8iHlvdXRoLmN1Y++8iSIsDQogICJjaGFycyI6IDQxMTksDQogICJzaGEyNTYiOiAiYmQyYTlmY2I5ZWRkOTljZSIsDQogICJmZXRjaGVkX2F0IjogIjIwMjYtMTAtMjdUMTE6Mjg6MTUrMDg6MDAiLA0KICAia2luZCI6ICJleHRyYSINCiB9LA0KICI5ZjZjMTAxZTAxIjogew0KICAidXJsIjogImh0dHBzOi8veW91dGguY3VjLmVkdS5jbi8yMDIyLzA5MTcvYzk4MTlhMjA2MzcwL3BhZ2UuaHRtIiwNCiAgInRpdGxlIjogIuWboue7hOe7h+WFs+ezu+i9rOaOpe+8iHlvdXRoLmN1Y++8iSIsDQogICJjaGFycyI6IDI3MTIsDQogICJzaGEyNTYiOiAiZTg3ZGE4ZmEzY2Q1ZjQ1MSIsDQogICJmZXRjaGVkX2F0IjogIjIwMjYtMTAtMjdUMTE6Mjg6MTUrMDg6MDAiLA0KICAia2luZCI6ICJleHRyYSINCiB9LA0KICI5YWZiZTQ2NWU2Ijogew0KICAidXJsIjogImh0dHBzOi8vandjLmN1Yy5lZHUuY24vMjAyNi8wNzE2L2M4NjY5YTI3Mjc5OC9wYWdlLmh0bSIsDQogICJ0aXRsZSI6ICLmoKHljobvvIhqd2MuY3Vj77yJIiwNCiAgImNoYXJzIjogNTc2LA0KICAic2hhMjU2IjogImU0ZTBkZmIwNGZiOWFlZjMiLA0KICAiZmV0Y2hlZF9hdCI6ICIyMDI2LTEwLTI3VDExOjI4OjU5KzA4OjAwIiwNCiAgImtpbmQiOiAiZXh0cmEiDQogfSwNCiAiNzgyMDllMDk0MCI6IHsNCiAgInVybCI6ICJodHRwczovL2p5emwuY3VjLmVkdS5jbi8yMDI1LzEyMjQvYzM4NzBhMjY1NTExL3BhZ2UuaHRtIiwNCiAgInRpdGxlIjogIuivvueoi+i0qOmHj+ivhOS7t++8iGp5emwuY3Vj77yJIiwNCiAgImNoYXJzIjogMzIzLA0KICAic2hhMjU2IjogIjY4ZDhmZjdiODJhZGI3NjMiLA0KICAiZmV0Y2hlZF9hdCI6ICIyMDI2LTEwLTI3VDExOjI5OjA4KzA4OjAwIiwNCiAgImtpbmQiOiAiZXh0cmEiDQogfSwNCiAiYzk5YzRlZDM4ZCI6IHsNCiAgInVybCI6ICJodHRwczovL2p5emwuY3VjLmVkdS5jbi8yMDI0LzA2MjgvYzM4NzNhMjQ1NjU2L3BhZ2UuaHRtIiwNCiAgInRpdGxlIjogIuivvueoi+i0qOmHj+ivhOS7t++8iGp5emwuY3Vj77yJIiwNCiAgImNoYXJzIjogMTQ0NCwNCiAgInNoYTI1NiI6ICI1NTY5NDVjMDE0MTE1MTAzIiwNCiAgImZldGNoZWRfYXQiOiAiMjAyNi0xMC0yN1QxMToyOTowOSswODowMCIsDQogICJraW5kIjogImV4dHJhIg0KIH0sDQogImNkYWQ4MjE0NDAiOiB7DQogICJ1cmwiOiAiaHR0cHM6Ly94c2MuY3VjLmVkdS5jbi8yMDIwLzA2MjQvYzI3NTNhMTcxNDA2L3BhZ2UuaHRtIiwNCiAgInRpdGxlIjogIumrmOiBjOWtpuexjeeuoeeQhuinhOWumu+8iHhzYy5jdWPvvIkiLA0KICAiY2hhcnMiOiA3NTYzLA0KICAic2hhMjU2IjogIjlkNmRmMDBlODlmYmM0NzUiLA0KICAiZmV0Y2hlZF9hdCI6ICIyMDI2LTEwLTI3VDExOjI5OjE5KzA4OjAwIiwNCiAgImtpbmQiOiAiZXh0cmEiDQogfSwNCiAiYzRmNmExNTQ3OCI6IHsNCiAgInVybCI6ICJodHRwczovL3hzYy5jdWMuZWR1LmNuLzIwMjYvMDUyOC9jMjc1M2EyNzExMTMvcGFnZS5odG0iLA0KICAidGl0bGUiOiAi6auY6IGM5a2m57GN566h55CG6KeE5a6a77yIeHNjLmN1Y++8iSIsDQogICJjaGFycyI6IDI5NjcsDQogICJzaGEyNTYiOiAiMjY1OTA2ZWEzZGUwYmU5NiIsDQogICJmZXRjaGVkX2F0IjogIjIwMjYtMTAtMjdUMTE6Mjk6MTkrMDg6MDAiLA0KICAia2luZCI6ICJleHRyYSINCiB9LA0KICJiYWEwNGY2NTZlIjogew0KICAidXJsIjogImh0dHBzOi8veHNjLmN1Yy5lZHUuY24vMjAyMy8wNjE1L2MyNzQxYTIwOTcyNC9wYWdlLmh0bSIsDQogICJ0aXRsZSI6ICLnoJTnqbbnlJ/lrabnsY3nrqHnkIbop4TlrprvvIh4c2MuY3Vj77yJIiwNCiAgImNoYXJzIjogODMxOSwNCiAgInNoYTI1NiI6ICJlYmFhYWM4MTMzYjA0YjNmIiwNCiAgImZldGNoZWRfYXQiOiAiMjAyNi0xMC0yN1QxMToyOTozMCswODowMCIsDQogICJraW5kIjogImV4dHJhIg0KIH0sDQogIjlmMjk3YTQ5MDIiOiB7DQogICJ1cmwiOiAiaHR0cHM6Ly9vZmZpY2UuY3VjLmVkdS5jbi8yMDIzLzA1MTYvYzk3OTNhMjA4OTk3L3BhZ2UuaHRtIiwNCiAgInRpdGxlIjogIuWNsOeroOeuoeeQhuWKnuazle+8iG9mZmljZS5jdWPvvIkiLA0KICAiY2hhcnMiOiA4MzIsDQogICJzaGEyNTYiOiAiYWUzNjE3ZTFiYmI3OTk3MSIsDQogICJmZXRjaGVkX2F0IjogIjIwMjYtMTAtMjdUMTE6Mjk6MzkrMDg6MDAiLA0KICAia2luZCI6ICJleHRyYSINCiB9LA0KICI3MjdiYjdjYTUxIjogew0KICAidXJsIjogImh0dHBzOi8vbXJhLmN1Yy5lZHUuY24vMjAyNC8xMTE4L2MxMDMyMWEyNDU0NjUvcGFnZS5odG0iLA0KICAidGl0bGUiOiAi5Y2w56ug566h55CG5Yqe5rOV77yIbXJhLmN1Y++8iSIsDQogICJjaGFycyI6IDY1NSwNCiAgInNoYTI1NiI6ICI1YmExMTdiZTIyOTczNDNkIiwNCiAgImZldGNoZWRfYXQiOiAiMjAyNi0xMC0yN1QxMToyOTozOSswODowMCIsDQogICJraW5kIjogImV4dHJhIg0KIH0sDQogIjNmNmNkNzliMzIiOiB7DQogICJ1cmwiOiAiaHR0cHM6Ly94c2MuY3VjLmVkdS5jbi8yMDIwLzA2MjQvYzI3NTNhMTcxMzk1L3BhZ2UuaHRtIiwNCiAgInRpdGxlIjogIuivvueoi+aIkOe7qeeuoeeQhuWKnuazlSDkuK3kvKDmlZnlrZcgMjAyMSAyMTDlj7fvvIh4c2MuY3Vj77yJIiwNCiAgImNoYXJzIjogMjM0MywNCiAgInNoYTI1NiI6ICI5NDg5YTdiODAwNTEzMTAyIiwNCiAgImZldGNoZWRfYXQiOiAiMjAyNi0xMC0yN1QxMTozMjowOCswODowMCIsDQogICJraW5kIjogImV4dHJhIg0KIH0sDQogIjJkNzM4ODkyZmUiOiB7DQogICJ1cmwiOiAiaHR0cHM6Ly96Y2hxLmN1Yy5lZHUuY24vMTQ3L2xpc3QyLmh0bSIsDQogICJ0aXRsZSI6ICLlrrblsZ7ljLrnrqHnkIblip7ms5XvvIh6Y2hxLmN1Y++8iSIsDQogICJjaGFycyI6IDEwMzUsDQogICJzaGEyNTYiOiAiYWM3ZjA0NjVhYmU0OWQyYyIsDQogICJmZXRjaGVkX2F0IjogIjIwMjYtMTAtMjdUMTE6MzI6MTkrMDg6MDAiLA0KICAia2luZCI6ICJleHRyYSINCiB9LA0KICJmYTQyZDIzMmQxIjogew0KICAidXJsIjogImh0dHBzOi8veHNjLmN1Yy5lZHUuY24vMjAxOS8wODAyL2MyNzUzYTEzMzY5Ni9wYWdlLmh0bSIsDQogICJ0aXRsZSI6ICLlrrblsZ7ljLrnrqHnkIblip7ms5XvvIh4c2MuY3Vj77yJIiwNCiAgImNoYXJzIjogNjQ5NywNCiAgInNoYTI1NiI6ICI3ZTBlZmYxZDdlZTgyYTYzIiwNCiAgImZldGNoZWRfYXQiOiAiMjAyNi0xMC0yN1QxMTozMjoyMCswODowMCIsDQogICJraW5kIjogImV4dHJhIg0KIH0sDQogIjc4MTM3Mzk3YTQiOiB7DQogICJ1cmwiOiAiaHR0cHM6Ly93d3cuY3VjLmVkdS5jbi8iLA0KICAidGl0bGUiOiAi5b+r6YCS5pyN5Yqh5Lit5b+D77yId3d3LmN1Y++8iSIsDQogICJjaGFycyI6IDI0Mjk4LA0KICAic2hhMjU2IjogImMwNjdlNzE5YmRkMWQ0OWUiLA0KICAiZmV0Y2hlZF9hdCI6ICIyMDI2LTEwLTI3VDExOjMyOjM0KzA4OjAwIiwNCiAgImtpbmQiOiAiZXh0cmEiDQogfSwNCiAiYjczOWM0ZTJkZSI6IHsNCiAgInVybCI6ICJodHRwczovL2l0cy5jdWMuZWR1LmNuLzIwMjUvMDQxMC9jODE2OWEyNTQxOTkvcGFnZS5odG0iLA0KICAidGl0bGUiOiAiV1BTIDM2Ne+8iGl0cy5jdWPvvIkiLA0KICAiY2hhcnMiOiA0NzU3LA0KICAic2hhMjU2IjogIjNlYTdjYmZjOTFjZTBjN2QiLA0KICAiZmV0Y2hlZF9hdCI6ICIyMDI2LTEwLTI3VDExOjMyOjQzKzA4OjAwIiwNCiAgImtpbmQiOiAiZXh0cmEiDQogfSwNCiAiN2E1YjQyOTBlMyI6IHsNCiAgInVybCI6ICJodHRwczovL2l0cy5jdWMuZWR1LmNuLzIwMjYvMTAyMi9jODE2OWEyNzUxOTQvcGFnZS5odG0iLA0KICAidGl0bGUiOiAiV1BTIDM2Ne+8iGl0cy5jdWPvvIkiLA0KICAiY2hhcnMiOiA3Nzg5LA0KICAic2hhMjU2IjogIjJjM2MwNzI1NTkzNTRlZDUiLA0KICAiZmV0Y2hlZF9hdCI6ICIyMDI2LTEwLTI3VDExOjMyOjQ2KzA4OjAwIiwNCiAgImtpbmQiOiAiZXh0cmEiDQogfSwNCiAiZjY5NGJiMGVmNyI6IHsNCiAgInVybCI6ICJodHRwczovL2l0cy5jdWMuZWR1LmNuLzIwMjUvMDUzMC9jODE2OWEyNTYzMzkvcGFnZS5odG0iLA0KICAidGl0bGUiOiAi6auY5oCn6IO96K6h566X5bmz5Y+w77yIaXRzLmN1Y++8iSIsDQogICJjaGFycyI6IDM1NjUsDQogICJzaGEyNTYiOiAiMzYzZjJjZmQxNDI5NWQ0MiIsDQogICJmZXRjaGVkX2F0IjogIjIwMjYtMTAtMjdUMTE6MzI6NTcrMDg6MDAiLA0KICAia2luZCI6ICJleHRyYSINCiB9LA0KICI4YmE5NzRmODMwIjogew0KICAidXJsIjogImh0dHBzOi8vZ3pjLmN1Yy5lZHUuY24vIiwNCiAgInRpdGxlIjogIuWbveaciei1hOS6p+euoeeQhuWKnuazle+8iGd6Yy5jdWPvvIkiLA0KICAiY2hhcnMiOiAyNDc4LA0KICAic2hhMjU2IjogIjc2Y2FkNWNlMjFiMzJiNGEiLA0KICAiZmV0Y2hlZF9hdCI6ICIyMDI2LTEwLTI3VDEyOjEzOjE0KzA4OjAwIiwNCiAgImtpbmQiOiAiZXh0cmEiDQogfSwNCiAiNjZhMTI0M2YzYSI6IHsNCiAgInVybCI6ICJodHRwczovL2d6Yy5jdWMuZWR1LmNuLzIwMjUvMDUyOS9jMjU4MWEyNTYyNDYvcGFnZS5odG0iLA0KICAidGl0bGUiOiAi5Zu95pyJ6LWE5Lqn566h55CG5Yqe5rOV77yIZ3pjLmN1Y++8iSIsDQogICJjaGFycyI6IDExMjUsDQogICJzaGEyNTYiOiAiMmFmZjk4YjYxMDNmN2ZmYSIsDQogICJmZXRjaGVkX2F0IjogIjIwMjYtMTAtMjdUMTI6MTM6MTQrMDg6MDAiLA0KICAia2luZCI6ICJleHRyYSINCiB9LA0KICI0N2EwOTgwN2QyIjogew0KICAidXJsIjogImh0dHBzOi8vZ3pjLmN1Yy5lZHUuY24vMjAyNC8xMTIwL2MxNzU1YTI0NTYyMC9wYWdlLmh0bSIsDQogICJ0aXRsZSI6ICLmi5vmoIfph4fotK3nrqHnkIblip7ms5XvvIhnemMuY3Vj77yJIiwNCiAgImNoYXJzIjogOTYyLA0KICAic2hhMjU2IjogIjViMzY0YzdlOWVjNTdmY2YiLA0KICAiZmV0Y2hlZF9hdCI6ICIyMDI2LTEwLTI3VDEyOjEzOjIzKzA4OjAwIiwNCiAgImtpbmQiOiAiZXh0cmEiDQogfSwNCiAiOTAxNTcwMzY2NyI6IHsNCiAgInVybCI6ICJodHRwczovL2d6Yy5jdWMuZWR1LmNuLzIwMTYvMDYwOC9jMTc1NWEyODQ3Mi9wYWdlLmh0bSIsDQogICJ0aXRsZSI6ICLmi5vmoIfph4fotK3nrqHnkIblip7ms5XvvIhnemMuY3Vj77yJIiwNCiAgImNoYXJzIjogNjI2NywNCiAgInNoYTI1NiI6ICI2NzgwYTA5Njg5NzJmOWEwIiwNCiAgImZldGNoZWRfYXQiOiAiMjAyNi0xMC0yN1QxMjoxMzoyMyswODowMCIsDQogICJraW5kIjogImV4dHJhIg0KIH0sDQogImU3YzBkYmViMDgiOiB7DQogICJ1cmwiOiAiaHR0cHM6Ly9yZXNlYXJjaC5jdWMuZWR1LmNuLzIwMjUvMDYwOS9jNDc5NWEyNTY2ODAvcGFnZS5odG0iLA0KICAidGl0bGUiOiAi56eR56CU6aG555uu57uP6LS5566h55CG5Yqe5rOV77yIcmVzZWFyY2guY3Vj77yJIiwNCiAgImNoYXJzIjogNzQyLA0KICAic2hhMjU2IjogIjgyM2VjYzdhNDVhZTZkYzIiLA0KICAiZmV0Y2hlZF9hdCI6ICIyMDI2LTEwLTI3VDEyOjEzOjMwKzA4OjAwIiwNCiAgImtpbmQiOiAiZXh0cmEiDQogfSwNCiAiZDZjZWQyOTBhNyI6IHsNCiAgInVybCI6ICJodHRwczovL3Jlc2VhcmNoLmN1Yy5lZHUuY24veHh3ai9saXN0Lmh0bSIsDQogICJ0aXRsZSI6ICLnp5HnoJTpobnnm67nu4/otLnnrqHnkIblip7ms5XvvIhyZXNlYXJjaC5jdWPvvIkiLA0KICAiY2hhcnMiOiAxNTIwLA0KICAic2hhMjU2IjogIjZiMjJkZTUzYmZlNzBiNzUiLA0KICAiZmV0Y2hlZF9hdCI6ICIyMDI2LTEwLTI3VDEyOjEzOjMxKzA4OjAwIiwNCiAgImtpbmQiOiAiZXh0cmEiDQogfSwNCiAiMzJmMDJhYTAyNiI6IHsNCiAgInVybCI6ICJodHRwczovL2ZuYy5jdWMuZWR1LmNuLzIwMjYvMTAwOS9jODA1NGEyNzQ1NzkvcGFnZS5odG0iLA0KICAidGl0bGUiOiAi6Z2e5a2m5Y6G5pWZ6IKy77yIZm5jLmN1Y++8iSIsDQogICJjaGFycyI6IDUxNSwNCiAgInNoYTI1NiI6ICI3YjMyYzAxMDEwNTExYzFlIiwNCiAgImZldGNoZWRfYXQiOiAiMjAyNi0xMC0yN1QxMjoxMzo0NyswODowMCIsDQogICJraW5kIjogImV4dHJhIg0KIH0sDQogIjNhZGE0NzQ3ZjEiOiB7DQogICJ1cmwiOiAiaHR0cHM6Ly9mbmMuY3VjLmVkdS5jbi8yMDI1LzExMjQvYzgwNTRhMjY0MjM3L3BhZ2UuaHRtIiwNCiAgInRpdGxlIjogIumdnuWtpuWOhuaVmeiCsu+8iGZuYy5jdWPvvIkiLA0KICAiY2hhcnMiOiA0ODYsDQogICJzaGEyNTYiOiAiNDMxYTk1ZDJhMGMxNWNhNSIsDQogICJmZXRjaGVkX2F0IjogIjIwMjYtMTAtMjdUMTI6MTM6NDkrMDg6MDAiLA0KICAia2luZCI6ICJleHRyYSINCiB9LA0KICJiNDBjYWFiYzNkIjogew0KICAidXJsIjogImh0dHBzOi8vd3d3LmN1Yy5lZHUuY24vMTQwNS9saXN0Lmh0bSIsDQogICJ0aXRsZSI6ICLlrabmoKHnq6DnqIvvvIh3d3cuY3Vj77yJIiwNCiAgImNoYXJzIjogMTQxMCwNCiAgInNoYTI1NiI6ICIwYTlmMWNiOTFiYjc1MjYyIiwNCiAgImZldGNoZWRfYXQiOiAiMjAyNi0xMC0yN1QxMjoxMzo1OCswODowMCIsDQogICJraW5kIjogImV4dHJhIg0KIH0sDQogImQ5YTQyMjBjNGIiOiB7DQogICJ1cmwiOiAiaHR0cHM6Ly9nemMuY3VjLmVkdS5jbi9neXpjZ2xjL2xpc3QuaHRtIiwNCiAgInRpdGxlIjogIuWbveaciei1hOS6p+euoeeQhiDkuK3kvKDotYTkuqflrZfvvIhnemMuY3Vj77yJIiwNCiAgImNoYXJzIjogMTAzOSwNCiAgInNoYTI1NiI6ICJhMzYyMWI5ZjlmMDE3MGI2IiwNCiAgImZldGNoZWRfYXQiOiAiMjAyNi0xMC0yN1QxMjoxNDoxMyswODowMCIsDQogICJraW5kIjogImV4dHJhIg0KIH0sDQogIjgxMWFlZDNjZTEiOiB7DQogICJ1cmwiOiAiaHR0cHM6Ly9nemMuY3VjLmVkdS5jbi8xNzQ2L2xpc3QuaHRtIiwNCiAgInRpdGxlIjogIuaLm+agh+mHh+i0rSDkuK3lm73kvKDlqpLlpKflrabvvIhnemMuY3Vj77yJIiwNCiAgImNoYXJzIjogMTM3NywNCiAgInNoYTI1NiI6ICJkNjgzYTI3NGE3ZTFlYzVmIiwNCiAgImZldGNoZWRfYXQiOiAiMjAyNi0xMC0yN1QxMjoxNDoyMSswODowMCIsDQogICJraW5kIjogImV4dHJhIg0KIH0sDQogImQ1MDg3ZGJjOGQiOiB7DQogICJ1cmwiOiAiaHR0cHM6Ly93d3cuY3VjLmVkdS5jbi9fdDg2LzIwMjYvMDcxMy9jMTM4NGEyNzI3MjUvcGFnZS5odG0iLA0KICAidGl0bGUiOiAi5oub5qCH6YeH6LStIOS4reWbveS8oOWqkuWkp+Wtpu+8iHd3dy5jdWPvvIkiLA0KICAiY2hhcnMiOiAyNjUxLA0KICAic2hhMjU2IjogImUzODJjZWJiZDQwZGIyYzYiLA0KICAiZmV0Y2hlZF9hdCI6ICIyMDI2LTEwLTI3VDEyOjE0OjIyKzA4OjAwIiwNCiAgImtpbmQiOiAiZXh0cmEiDQogfSwNCiAiMDBkNmE4YjNlMSI6IHsNCiAgInVybCI6ICJodHRwczovL3Jlc2VhcmNoLmN1Yy5lZHUuY24vMjAxNy8wOTMwL2MxMTk3YTIxMjU3L3BhZ2UuaHRtIiwNCiAgInRpdGxlIjogIuWfuuacrOenkeeglOS4muWKoei0ue+8iHJlc2VhcmNoLmN1Y++8iSIsDQogICJjaGFycyI6IDg2MCwNCiAgInNoYTI1NiI6ICI1OTJkYjViNDI5NDE4MzAzIiwNCiAgImZldGNoZWRfYXQiOiAiMjAyNi0xMC0yN1QxMjoxNDoyOSswODowMCIsDQogICJraW5kIjogImV4dHJhIg0KIH0sDQogImRhNGRjMjg1ODQiOiB7DQogICJ1cmwiOiAiaHR0cDovL3psemhtemd0dC5jdWMuZWR1LmNuLzIwMjUvMTExNy9jMTI5MTFhMjYzNzcyL3BhZ2UuaHRtIiwNCiAgInRpdGxlIjogIuWfuuacrOenkeeglOS4muWKoei0ue+8iHpsemhtemd0dC5jdWPvvIkiLA0KICAiY2hhcnMiOiA2MDQsDQogICJzaGEyNTYiOiAiOTIzNjBkMWViODdlNTllNyIsDQogICJmZXRjaGVkX2F0IjogIjIwMjYtMTAtMjdUMTI6MTQ6MzArMDg6MDAiLA0KICAia2luZCI6ICJleHRyYSINCiB9LA0KICI0YWI5MGRiZjc1Ijogew0KICAidXJsIjogImh0dHBzOi8vcmVzZWFyY2guY3VjLmVkdS5jbi8yMDI1LzA2MDkvYzQ3OTVhMjU2Njc3L3BhZ2UuaHRtIiwNCiAgInRpdGxlIjogIuenkeeglOacuuaehOeuoeeQhuWKnuazle+8iHJlc2VhcmNoLmN1Y++8iSIsDQogICJjaGFycyI6IDc0NywNCiAgInNoYTI1NiI6ICI3ZWIzOWIzNzViYjE1NWIxIiwNCiAgImZldGNoZWRfYXQiOiAiMjAyNi0xMC0yN1QxMjoxNDozOCswODowMCIsDQogICJraW5kIjogImV4dHJhIg0KIH0sDQogIjk4N2M1MDUyMWEiOiB7DQogICJ1cmwiOiAiaHR0cHM6Ly9zcnYuY3VjLmVkdS5jbi84ODk4L2xpc3QuaHRtIiwNCiAgInRpdGxlIjogIuWFrOWFseWunui3teWcuummhu+8iHNydi5jdWPvvIkiLA0KICAiY2hhcnMiOiA0MTYsDQogICJzaGEyNTYiOiAiOWVlNjk1ZTBiOGY3YjY0NiIsDQogICJmZXRjaGVkX2F0IjogIjIwMjYtMTAtMjdUMTI6MTQ6NDUrMDg6MDAiLA0KICAia2luZCI6ICJleHRyYSINCiB9LA0KICIxMWJjMzRjNGI0Ijogew0KICAidXJsIjogImh0dHBzOi8vc3J2LmN1Yy5lZHUuY24vOTQ1Ni9saXN0Lmh0bSIsDQogICJ0aXRsZSI6ICLorr7lpIflhbHkuqvkuK3lv4PvvIhzcnYuY3Vj77yJIiwNCiAgImNoYXJzIjogNjQ4LA0KICAic2hhMjU2IjogIjkyMWRlZmE3OGIyM2QzYmUiLA0KICAiZmV0Y2hlZF9hdCI6ICIyMDI2LTEwLTI3VDEyOjE0OjUzKzA4OjAwIiwNCiAgImtpbmQiOiAiZXh0cmEiDQogfSwNCiAiNTY0MDc3ZjA1NyI6IHsNCiAgInVybCI6ICJodHRwczovL2hhaW5hbi5jdWMuZWR1LmNuLzIwMjUvMDYxMi9jMTQxNjBhMjU2OTQzL3BhZ2UuaHRtIiwNCiAgInRpdGxlIjogIuiuvuWkh+WFseS6q+S4reW/g++8iGhhaW5hbi5jdWPvvIkiLA0KICAiY2hhcnMiOiAyMDkxLA0KICAic2hhMjU2IjogIjA3YmU4YmFhZDdiODAwYzciLA0KICAiZmV0Y2hlZF9hdCI6ICIyMDI2LTEwLTI3VDEyOjE0OjUzKzA4OjAwIiwNCiAgImtpbmQiOiAiZXh0cmEiDQogfSwNCiAiNGRlN2Y2NTRmMSI6IHsNCiAgInVybCI6ICJodHRwczovL2p3Yy5jdWMuZWR1LmNuLzIwMjQvMTEyNS9jMTMwODJhMjQ1OTAzL3BhZ2UuaHRtIiwNCiAgInRpdGxlIjogIuacrOenkeS/ruWtpuaMh+WNl++8iGp3Yy5jdWPvvIkiLA0KICAiY2hhcnMiOiA1NzQsDQogICJzaGEyNTYiOiAiYWY0ZjYwOGMzYjNjZGRiOSIsDQogICJmZXRjaGVkX2F0IjogIjIwMjYtMTAtMjdUMTI6MTU6MTQrMDg6MDAiLA0KICAia2luZCI6ICJleHRyYSINCiB9LA0KICI2OTM4MjY4NjI4Ijogew0KICAidXJsIjogImh0dHBzOi8veXouY3VjLmVkdS5jbi8yMDI1LzExMTEvYzg1NDlhMjYyMzY3L3BhZ2UuaHRtIiwNCiAgInRpdGxlIjogIuWNmuWjq+aLm+eUn+eugOeroO+8iHl6LmN1Y++8iSIsDQogICJjaGFycyI6IDgzMTAsDQogICJzaGEyNTYiOiAiYmQ5ZGU0OWM1MGFhODVjMCIsDQogICJmZXRjaGVkX2F0IjogIjIwMjYtMTAtMjdUMTI6MTU6MjIrMDg6MDAiLA0KICAia2luZCI6ICJleHRyYSINCiB9LA0KICJhZDA2Y2YxZDdkIjogew0KICAidXJsIjogImh0dHBzOi8veXouY3VjLmVkdS5jbi96c2p6L2xpc3QuaHRtIiwNCiAgInRpdGxlIjogIuWNmuWjq+aLm+eUn+eugOeroO+8iHl6LmN1Y++8iSIsDQogICJjaGFycyI6IDk5MywNCiAgInNoYTI1NiI6ICI2MGE2ZTgwYTZiMDU4NDk5IiwNCiAgImZldGNoZWRfYXQiOiAiMjAyNi0xMC0yN1QxMjoxNToyNCswODowMCIsDQogICJraW5kIjogImV4dHJhIg0KIH0sDQogIjdjMWVjYTdhZWQiOiB7DQogICJ1cmwiOiAiaHR0cHM6Ly93d3cuY3VjLmVkdS5jbi9yaGZ3bWgvbGlzdC5odG0iLA0KICAidGl0bGUiOiAi6J6N5ZCI6Zeo5oi3IOacjeWKoe+8iHd3dy5jdWPvvIkiLA0KICAiY2hhcnMiOiAxNDE1LA0KICAic2hhMjU2IjogImU1YmU5MGY5MmQxYWU1ZWYiLA0KICAiZmV0Y2hlZF9hdCI6ICIyMDI2LTEwLTI3VDEyOjE1OjMyKzA4OjAwIiwNCiAgImtpbmQiOiAiZXh0cmEiDQogfSwNCiAiODg4NjMzNjBhNiI6IHsNCiAgInVybCI6ICJodHRwczovL3J3eHkuY3VjLmVkdS5jbi8yMDIwLzAxMTgvYzEzNDhhMTY1MDIwL3BhZ2UuaHRtIiwNCiAgInRpdGxlIjogIuaXoOeKr+e9quiusOW9leivgeaYju+8iHJ3eHkuY3Vj77yJIiwNCiAgImNoYXJzIjogMTA4MiwNCiAgInNoYTI1NiI6ICJkYTY3ZjUwOWIwZjNjOTI3IiwNCiAgImZldGNoZWRfYXQiOiAiMjAyNi0xMC0yN1QxMjoxNTo0NyswODowMCIsDQogICJraW5kIjogImV4dHJhIg0KIH0sDQogIjM0YjUwY2NiNzciOiB7DQogICJ1cmwiOiAiaHR0cHM6Ly9yd3h5LmN1Yy5lZHUuY24vMTM0OC9saXN0Lmh0bSIsDQogICJ0aXRsZSI6ICLml6Dniq/nvarorrDlvZXor4HmmI7vvIhyd3h5LmN1Y++8iSIsDQogICJjaGFycyI6IDExNjcsDQogICJzaGEyNTYiOiAiMGJiMWYwMmJmNTUxZDMxNSIsDQogICJmZXRjaGVkX2F0IjogIjIwMjYtMTAtMjdUMTI6MTU6NDgrMDg6MDAiLA0KICAia2luZCI6ICJleHRyYSINCiB9LA0KICI1YTU0ZDk2NzUwIjogew0KICAidXJsIjogImh0dHBzOi8veXouY3VjLmVkdS5jbi8yMDI2LzA4MzAvYzg2NzhhMjczNDQ1L3BhZ2UuaHRtIiwNCiAgInRpdGxlIjogIuaOqOiNkOWFjeivleaUu+ivu+eglOeptueUnyDlt6XkvZzlip7ms5XvvIh5ei5jdWPvvIkiLA0KICAiY2hhcnMiOiA0ODE0LA0KICAic2hhMjU2IjogIjczODVlNzdjMzlmZGFjYjYiLA0KICAiZmV0Y2hlZF9hdCI6ICIyMDI2LTEwLTI3VDEyOjI3OjIwKzA4OjAwIiwNCiAgImtpbmQiOiAiZXh0cmEiDQogfSwNCiAiZGI1ODA5MmQxYyI6IHsNCiAgInVybCI6ICJodHRwczovL3RmdC5jdWMuZWR1LmNuLzIwMjYvMDkxMS9jMTQ5ODhhMjczODI0L3BhZ2UuaHRtIiwNCiAgInRpdGxlIjogIuaOqOWFjSDpgbTpgInvvIh0ZnQuY3Vj77yJIiwNCiAgImNoYXJzIjogNjQyLA0KICAic2hhMjU2IjogImY0YjUyOWNiYzBmZTllYzQiLA0KICAiZmV0Y2hlZF9hdCI6ICIyMDI2LTEwLTI3VDEyOjI3OjI3KzA4OjAwIiwNCiAgImtpbmQiOiAiZXh0cmEiDQogfSwNCiAiNzNiNzA3NDkzZiI6IHsNCiAgInVybCI6ICJodHRwczovL2p3Yy5jdWMuZWR1LmNuLyIsDQogICJ0aXRsZSI6ICLmnKznp5HnlJ/pmaIg5pyN5Yqh5LqL6aG577yIandjLmN1Y++8iSIsDQogICJjaGFycyI6IDI1MzAsDQogICJzaGEyNTYiOiAiZjg0YzY3ODY2Yzc2ZDhmYSIsDQogICJmZXRjaGVkX2F0IjogIjIwMjYtMTAtMjdUMTI6Mjc6NTgrMDg6MDAiLA0KICAia2luZCI6ICJleHRyYSINCiB9LA0KICI3Yzg2OGU5ZmEzIjogew0KICAidXJsIjogImh0dHBzOi8veHhnay5jdWMuZWR1LmNuLzUzNzYvbGlzdC5odG0iLA0KICAidGl0bGUiOiAi5pys56eR55Sf6ZmiIOacjeWKoeS6i+mhue+8iHh4Z2suY3Vj77yJIiwNCiAgImNoYXJzIjogMTA0MCwNCiAgInNoYTI1NiI6ICIwZDY1OTBlNzNiZjA4MTNhIiwNCiAgImZldGNoZWRfYXQiOiAiMjAyNi0xMC0yN1QxMjoyNzo1OCswODowMCIsDQogICJraW5kIjogImV4dHJhIg0KIH0sDQogIjlmYmE1YzA2MzMiOiB7DQogICJ1cmwiOiAiaHR0cHM6Ly9nYW96aGkuY3VjLmVkdS5jbi8yMDA5LzA0MjgvYzMxMzRhODYwNDgvcGFnZS5odG0iLA0KICAidGl0bGUiOiAi5Lit5Zu95Lyg5aqS5aSn5a2m5Y+R5bGV5YWa5ZGY5bel5L2c5Z+65pys6KeE56iLIiwNCiAgImNoYXJzIjogNTU3NywNCiAgInNoYTI1NiI6ICJiYjBmMzQzYzM1NDU3ZTQxIiwNCiAgImZldGNoZWRfYXQiOiAiMjAyNi0xMC0yN1QyMDowMToxMiswODowMCIsDQogICJraW5kIjogImV4dHJhIg0KIH0sDQogIjA5ZGUxMGU3YTciOiB7DQogICJ1cmwiOiAiaHR0cHM6Ly9zZW0uY3VjLmVkdS5jbi8yMDE5LzAxMTYvYzQ2NzBhMTE1MTQyL3BhZ2UuaHRtIiwNCiAgInRpdGxlIjogIuaOqOS8mOWFpeWFmuW3peS9nOWKnuazle+8iHNlbS5jdWPvvIkiLA0KICAiY2hhcnMiOiAxMzM0LA0KICAic2hhMjU2IjogImM3NzYyZjI4ODViNzJlNWEiLA0KICAiZmV0Y2hlZF9hdCI6ICIyMDI2LTEwLTI3VDIwOjAxOjEzKzA4OjAwIiwNCiAgImtpbmQiOiAiZXh0cmEiDQogfSwNCiAiZTliNzQyOThkZCI6IHsNCiAgInVybCI6ICJodHRwczovL3lvdXRoLmN1Yy5lZHUuY24vMjAyNi8xMDE4L2MxNDI4MmEyNzQ5OTIvcGFnZS5odG0iLA0KICAidGl0bGUiOiAi5YWx6Z2S5Zui5Lit5aSuIOaVmeiCsumDqOOAiuWFs+S6juiQveWunuWFmuW7uuW4puWbouW7uuWItuW6puacuuWItiDmt7HljJbpq5jmoKHlhbHpnZLlm6Llt6XkvZznmoTmhI/op4HjgIsiLA0KICAiY2hhcnMiOiAxOTAxLA0KICAic2hhMjU2IjogIjA4Y2QzNjdjNzY5ZjA1NGYiLA0KICAiZmV0Y2hlZF9hdCI6ICIyMDI2LTEwLTI3VDIwOjAxOjIxKzA4OjAwIiwNCiAgImtpbmQiOiAiZXh0cmEiDQogfSwNCiAiMTYzNjAwYTIwMyI6IHsNCiAgInVybCI6ICJodHRwczovL3hzYy5jdWMuZWR1LmNuLzIwMjQvMDgxOS9jMjc1M2EyNTQ1MTcvcGFnZW0uaHRtIiwNCiAgInRpdGxlIjogIuaVmeiBjOW3peWkhOWIhuinhOWumu+8iHhzYy5jdWPvvIkiLA0KICAiY2hhcnMiOiAyMTE2LA0KICAic2hhMjU2IjogIjgyYzhlNTk5MWY5NWNlNzQiLA0KICAiZmV0Y2hlZF9hdCI6ICIyMDI2LTEwLTI3VDIwOjAxOjI5KzA4OjAwIiwNCiAgImtpbmQiOiAiZXh0cmEiDQogfSwNCiAiNzAxNjVjYzI2ZiI6IHsNCiAgInVybCI6ICJodHRwczovL2RzbWkuY3VjLmVkdS5jbi8yMDE5LzA0MjcvYzQ1ODlhMTIzMTcyL3BhZ2UuaHRtIiwNCiAgInRpdGxlIjogIuacrOenkeWtpueUn+Wig+WkluS6pOa1geWtpuS5oOeuoeeQhuinhOWumu+8iGRzbWkuY3Vj77yJIiwNCiAgImNoYXJzIjogMjY3NSwNCiAgInNoYTI1NiI6ICJlZWFkN2VmODQwYzAyYzk3IiwNCiAgImZldGNoZWRfYXQiOiAiMjAyNi0xMC0yN1QyMDoyMTo0NyswODowMCIsDQogICJraW5kIjogImV4dHJhIg0KIH0sDQogIjI2MDQ0NGVmYTMiOiB7DQogICJ1cmwiOiAiaHR0cHM6Ly9qd2MuY3VjLmVkdS5jbi9tYWluLmh0bSIsDQogICJ0aXRsZSI6ICLkv67lrabmjIfljZcg5Lit5Zu95Lyg5aqS5aSn5a2mIOacrOenkeeUn+mZou+8iGp3Yy5jdWPvvIkiLA0KICAiY2hhcnMiOiAyNTMwLA0KICAic2hhMjU2IjogImY4NGM2Nzg2NmM3NmQ4ZmEiLA0KICAiZmV0Y2hlZF9hdCI6ICIyMDI2LTEwLTI3VDIwOjIxOjU1KzA4OjAwIiwNCiAgImtpbmQiOiAiZXh0cmEiDQogfSwNCiAiNGFhMjFmYWVkZCI6IHsNCiAgInVybCI6ICJodHRwczovL2p3Yy5jdWMuZWR1LmNuL3pjd2oxL2xpc3QuaHRtIiwNCiAgInRpdGxlIjogIuS/ruWtpuaMh+WNlyDkuK3lm73kvKDlqpLlpKflraYg5pys56eR55Sf6Zmi77yIandjLmN1Y++8iSIsDQogICJjaGFycyI6IDEzODEsDQogICJzaGEyNTYiOiAiNDZhNTkyMjJmZDU4MjRjNyIsDQogICJmZXRjaGVkX2F0IjogIjIwMjYtMTAtMjdUMjA6MjE6NTUrMDg6MDAiLA0KICAia2luZCI6ICJleHRyYSINCiB9LA0KICJjYW1wdXMtbmV0LTIwMjYiOiB7DQogICJ1cmwiOiAiaHR0cHM6Ly9pLmN1Yy5lZHUuY24vIiwNCiAgInRpdGxlIjogIuagoeWbree9keaBouWkjeiuoemHj+iuoei0ue+8iOagoeWbreWFrOWRiuaIquWbvui9rOW9le+8iSIsDQogICJjaGFycyI6IDYyMywNCiAgInNoYTI1NiI6ICI0ODUyYTljYzQzNmUzYzA0IiwNCiAgImZldGNoZWRfYXQiOiAiMjAyNi0xMC0yOVQxNzoyMDowMCswODowMCIsDQogICJraW5kIjogImV4dHJhIg0KIH0sDQogIjA3Yzk1NWJlMDAiOiB7DQogICJ1cmwiOiAiaHR0cHM6Ly9pbGliLmN1Yy5lZHUuY24vIiwNCiAgInRpdGxlIjogIuS4reWbveS8oOWqkuWkp+WtpuWbvuS5pummhsK35pys6aaG566A5LuL77yIMjAyNeW5tDEy5pyI54mI77yJIiwNCiAgImNoYXJzIjogMTIxOSwNCiAgInNoYTI1NiI6ICJmZDQ3ZTRjZDEyZWI4NWQzIiwNCiAgImZldGNoZWRfYXQiOiAiMjAyNi0xMC0yOVQxODowMjoxNSswODowMCIsDQogICJraW5kIjogImV4dHJhIg0KIH0sDQogImY3MjI1MDVlMzUiOiB7DQogICJ1cmwiOiAiaHR0cHM6Ly9pbGliLmN1Yy5lZHUuY24vdjIvc3ViLzBmMjdlZDNkYTIwYWRkZmM2MGRjYzAzNWRkYzY0MmY0IiwNCiAgInRpdGxlIjogIuaVmeiCsui1hOa6kOS4reW/g++8iOWbvuS5pummhu+8ieWkp+Wxj+mYheiniOWMuuato+W8j+aKleWFpeS9v+eUqCIsDQogICJjaGFycyI6IDEwMDIsDQogICJzaGEyNTYiOiAiNmViMmJiZGEzMGYyN2M0NiIsDQogICJmZXRjaGVkX2F0IjogIjIwMjYtMTAtMjlUMTg6MDI6MTUrMDg6MDAiLA0KICAia2luZCI6ICJleHRyYSINCiB9DQp9DQo=
+{
+ "013d48a620": {
+  "url": "https://xyy.cuc.edu.cn/2018/1101/c934a16918/page.htm",
+  "title": "公费医疗管理办法（xyy.cuc）",
+  "chars": 5087,
+  "sha256": "896845188e9b36e8",
+  "fetched_at": "2026-10-27T11:27:01+08:00",
+  "kind": "extra"
+ },
+ "8eae7f42f0": {
+  "url": "https://its.cuc.edu.cn/2022/0702/c8488a194625/page.htm",
+  "title": "校园卡管理办法（its.cuc）",
+  "chars": 4751,
+  "sha256": "5c945a3a4ab3110a",
+  "fetched_at": "2026-10-27T11:27:11+08:00",
+  "kind": "extra"
+ },
+ "74cba6a512": {
+  "url": "https://xxgk.cuc.edu.cn/5399/list.htm",
+  "title": "信息公开·学生管理服务信息（xxgk.cuc）",
+  "chars": 905,
+  "sha256": "8b55d04a79b38aaa",
+  "fetched_at": "2026-10-27T11:27:21+08:00",
+  "kind": "extra"
+ },
+ "f1adde051f": {
+  "url": "https://xyy.cuc.edu.cn/mainm.htm",
+  "title": "门急诊时间（xyy.cuc）",
+  "chars": 659,
+  "sha256": "607422397ba29645",
+  "fetched_at": "2026-10-27T11:27:43+08:00",
+  "kind": "extra"
+ },
+ "7b301c9e6a": {
+  "url": "https://xyy.cuc.edu.cn/",
+  "title": "门急诊时间（xyy.cuc）",
+  "chars": 913,
+  "sha256": "af55d0755ec55b2b",
+  "fetched_at": "2026-10-27T11:27:45+08:00",
+  "kind": "extra"
+ },
+ "402ecf2831": {
+  "url": "https://youth.cuc.edu.cn/",
+  "title": "团组织关系转接（youth.cuc）",
+  "chars": 4119,
+  "sha256": "bd2a9fcb9edd99ce",
+  "fetched_at": "2026-10-27T11:28:15+08:00",
+  "kind": "extra"
+ },
+ "9f6c101e01": {
+  "url": "https://youth.cuc.edu.cn/2022/0917/c9819a206370/page.htm",
+  "title": "团组织关系转接（youth.cuc）",
+  "chars": 2712,
+  "sha256": "e87da8fa3cd5f451",
+  "fetched_at": "2026-10-27T11:28:15+08:00",
+  "kind": "extra"
+ },
+ "9afbe465e6": {
+  "url": "https://jwc.cuc.edu.cn/2026/0716/c8669a272798/page.htm",
+  "title": "校历（jwc.cuc）",
+  "chars": 576,
+  "sha256": "e4e0dfb04fb9aef3",
+  "fetched_at": "2026-10-27T11:28:59+08:00",
+  "kind": "extra"
+ },
+ "78209e0940": {
+  "url": "https://jyzl.cuc.edu.cn/2025/1224/c3870a265511/page.htm",
+  "title": "课程质量评价（jyzl.cuc）",
+  "chars": 323,
+  "sha256": "68d8ff7b82adb763",
+  "fetched_at": "2026-10-27T11:29:08+08:00",
+  "kind": "extra"
+ },
+ "c99c4ed38d": {
+  "url": "https://jyzl.cuc.edu.cn/2024/0628/c3873a245656/page.htm",
+  "title": "课程质量评价（jyzl.cuc）",
+  "chars": 1444,
+  "sha256": "556945c014115103",
+  "fetched_at": "2026-10-27T11:29:09+08:00",
+  "kind": "extra"
+ },
+ "cdad821440": {
+  "url": "https://xsc.cuc.edu.cn/2020/0624/c2753a171406/page.htm",
+  "title": "高职学籍管理规定（xsc.cuc）",
+  "chars": 7563,
+  "sha256": "9d6df00e89fbc475",
+  "fetched_at": "2026-10-27T11:29:19+08:00",
+  "kind": "extra"
+ },
+ "c4f6a15478": {
+  "url": "https://xsc.cuc.edu.cn/2026/0528/c2753a271113/page.htm",
+  "title": "高职学籍管理规定（xsc.cuc）",
+  "chars": 2967,
+  "sha256": "265906ea3de0be96",
+  "fetched_at": "2026-10-27T11:29:19+08:00",
+  "kind": "extra"
+ },
+ "baa04f656e": {
+  "url": "https://xsc.cuc.edu.cn/2023/0615/c2741a209724/page.htm",
+  "title": "研究生学籍管理规定（xsc.cuc）",
+  "chars": 8319,
+  "sha256": "ebaaac8133b04b3f",
+  "fetched_at": "2026-10-27T11:29:30+08:00",
+  "kind": "extra"
+ },
+ "9f297a4902": {
+  "url": "https://office.cuc.edu.cn/2023/0516/c9793a208997/page.htm",
+  "title": "印章管理办法（office.cuc）",
+  "chars": 832,
+  "sha256": "ae3617e1bbb79971",
+  "fetched_at": "2026-10-27T11:29:39+08:00",
+  "kind": "extra"
+ },
+ "727bb7ca51": {
+  "url": "https://mra.cuc.edu.cn/2024/1118/c10321a245465/page.htm",
+  "title": "印章管理办法（mra.cuc）",
+  "chars": 655,
+  "sha256": "5ba117be2297343d",
+  "fetched_at": "2026-10-27T11:29:39+08:00",
+  "kind": "extra"
+ },
+ "3f6cd79b32": {
+  "url": "https://xsc.cuc.edu.cn/2020/0624/c2753a171395/page.htm",
+  "title": "课程成绩管理办法 中传教字 2021 210号（xsc.cuc）",
+  "chars": 2343,
+  "sha256": "9489a7b800513102",
+  "fetched_at": "2026-10-27T11:32:08+08:00",
+  "kind": "extra"
+ },
+ "2d738892fe": {
+  "url": "https://zchq.cuc.edu.cn/147/list2.htm",
+  "title": "家属区管理办法（zchq.cuc）",
+  "chars": 1035,
+  "sha256": "ac7f0465abe49d2c",
+  "fetched_at": "2026-10-27T11:32:19+08:00",
+  "kind": "extra"
+ },
+ "fa42d232d1": {
+  "url": "https://xsc.cuc.edu.cn/2019/0802/c2753a133696/page.htm",
+  "title": "家属区管理办法（xsc.cuc）",
+  "chars": 6497,
+  "sha256": "7e0eff1d7ee82a63",
+  "fetched_at": "2026-10-27T11:32:20+08:00",
+  "kind": "extra"
+ },
+ "78137397a4": {
+  "url": "https://www.cuc.edu.cn/",
+  "title": "快递服务中心（www.cuc）",
+  "chars": 24298,
+  "sha256": "c067e719bdd1d49e",
+  "fetched_at": "2026-10-27T11:32:34+08:00",
+  "kind": "extra"
+ },
+ "b739c4e2de": {
+  "url": "https://its.cuc.edu.cn/2025/0410/c8169a254199/page.htm",
+  "title": "WPS 365（its.cuc）",
+  "chars": 4757,
+  "sha256": "3ea7cbfc91ce0c7d",
+  "fetched_at": "2026-10-27T11:32:43+08:00",
+  "kind": "extra"
+ },
+ "7a5b4290e3": {
+  "url": "https://its.cuc.edu.cn/2026/1022/c8169a275194/page.htm",
+  "title": "WPS 365（its.cuc）",
+  "chars": 7789,
+  "sha256": "2c3c072559354ed5",
+  "fetched_at": "2026-10-27T11:32:46+08:00",
+  "kind": "extra"
+ },
+ "f694bb0ef7": {
+  "url": "https://its.cuc.edu.cn/2025/0530/c8169a256339/page.htm",
+  "title": "高性能计算平台（its.cuc）",
+  "chars": 3565,
+  "sha256": "363f2cfd14295d42",
+  "fetched_at": "2026-10-27T11:32:57+08:00",
+  "kind": "extra"
+ },
+ "8ba974f830": {
+  "url": "https://gzc.cuc.edu.cn/",
+  "title": "国有资产管理办法（gzc.cuc）",
+  "chars": 2478,
+  "sha256": "76cad5ce21b32b4a",
+  "fetched_at": "2026-10-27T12:13:14+08:00",
+  "kind": "extra"
+ },
+ "66a1243f3a": {
+  "url": "https://gzc.cuc.edu.cn/2025/0529/c2581a256246/page.htm",
+  "title": "国有资产管理办法（gzc.cuc）",
+  "chars": 1125,
+  "sha256": "2aff98b6103f7ffa",
+  "fetched_at": "2026-10-27T12:13:14+08:00",
+  "kind": "extra"
+ },
+ "47a09807d2": {
+  "url": "https://gzc.cuc.edu.cn/2024/1120/c1755a245620/page.htm",
+  "title": "招标采购管理办法（gzc.cuc）",
+  "chars": 962,
+  "sha256": "5b364c7e9ec57fcf",
+  "fetched_at": "2026-10-27T12:13:23+08:00",
+  "kind": "extra"
+ },
+ "9015703667": {
+  "url": "https://gzc.cuc.edu.cn/2016/0608/c1755a28472/page.htm",
+  "title": "招标采购管理办法（gzc.cuc）",
+  "chars": 6267,
+  "sha256": "6780a0968972f9a0",
+  "fetched_at": "2026-10-27T12:13:23+08:00",
+  "kind": "extra"
+ },
+ "e7c0dbeb08": {
+  "url": "https://research.cuc.edu.cn/2025/0609/c4795a256680/page.htm",
+  "title": "科研项目经费管理办法（research.cuc）",
+  "chars": 742,
+  "sha256": "823ecc7a45ae6dc2",
+  "fetched_at": "2026-10-27T12:13:30+08:00",
+  "kind": "extra"
+ },
+ "d6ced290a7": {
+  "url": "https://research.cuc.edu.cn/xxwj/list.htm",
+  "title": "科研项目经费管理办法（research.cuc）",
+  "chars": 1520,
+  "sha256": "6b22de53bfe70b75",
+  "fetched_at": "2026-10-27T12:13:31+08:00",
+  "kind": "extra"
+ },
+ "32f02aa026": {
+  "url": "https://fnc.cuc.edu.cn/2026/1009/c8054a274579/page.htm",
+  "title": "非学历教育（fnc.cuc）",
+  "chars": 515,
+  "sha256": "7b32c01010511c1e",
+  "fetched_at": "2026-10-27T12:13:47+08:00",
+  "kind": "extra"
+ },
+ "3ada4747f1": {
+  "url": "https://fnc.cuc.edu.cn/2025/1124/c8054a264237/page.htm",
+  "title": "非学历教育（fnc.cuc）",
+  "chars": 486,
+  "sha256": "431a95d2a0c15ca5",
+  "fetched_at": "2026-10-27T12:13:49+08:00",
+  "kind": "extra"
+ },
+ "b40caabc3d": {
+  "url": "https://www.cuc.edu.cn/1405/list.htm",
+  "title": "学校章程（www.cuc）",
+  "chars": 1410,
+  "sha256": "0a9f1cb91bb75262",
+  "fetched_at": "2026-10-27T12:13:58+08:00",
+  "kind": "extra"
+ },
+ "d9a4220c4b": {
+  "url": "https://gzc.cuc.edu.cn/gyzcglc/list.htm",
+  "title": "国有资产管理 中传资产字（gzc.cuc）",
+  "chars": 1039,
+  "sha256": "a3621b9f9f0170b6",
+  "fetched_at": "2026-10-27T12:14:13+08:00",
+  "kind": "extra"
+ },
+ "811aed3ce1": {
+  "url": "https://gzc.cuc.edu.cn/1746/list.htm",
+  "title": "招标采购 中国传媒大学（gzc.cuc）",
+  "chars": 1377,
+  "sha256": "d683a274a7e1ec5f",
+  "fetched_at": "2026-10-27T12:14:21+08:00",
+  "kind": "extra"
+ },
+ "d5087dbc8d": {
+  "url": "https://www.cuc.edu.cn/_t86/2026/0713/c1384a272725/page.htm",
+  "title": "招标采购 中国传媒大学（www.cuc）",
+  "chars": 2651,
+  "sha256": "e382cebbd40db2c6",
+  "fetched_at": "2026-10-27T12:14:22+08:00",
+  "kind": "extra"
+ },
+ "00d6a8b3e1": {
+  "url": "https://research.cuc.edu.cn/2017/0930/c1197a21257/page.htm",
+  "title": "基本科研业务费（research.cuc）",
+  "chars": 860,
+  "sha256": "592db5b429418303",
+  "fetched_at": "2026-10-27T12:14:29+08:00",
+  "kind": "extra"
+ },
+ "da4dc28584": {
+  "url": "http://zlzhmzgtt.cuc.edu.cn/2025/1117/c12911a263772/page.htm",
+  "title": "基本科研业务费（zlzhmzgtt.cuc）",
+  "chars": 604,
+  "sha256": "92360d1eb87e59e7",
+  "fetched_at": "2026-10-27T12:14:30+08:00",
+  "kind": "extra"
+ },
+ "4ab90dbf75": {
+  "url": "https://research.cuc.edu.cn/2025/0609/c4795a256677/page.htm",
+  "title": "科研机构管理办法（research.cuc）",
+  "chars": 747,
+  "sha256": "7eb39b375bb155b1",
+  "fetched_at": "2026-10-27T12:14:38+08:00",
+  "kind": "extra"
+ },
+ "987c50521a": {
+  "url": "https://srv.cuc.edu.cn/8898/list.htm",
+  "title": "公共实践场馆（srv.cuc）",
+  "chars": 416,
+  "sha256": "9ee695e0b8f7b646",
+  "fetched_at": "2026-10-27T12:14:45+08:00",
+  "kind": "extra"
+ },
+ "11bc34c4b4": {
+  "url": "https://srv.cuc.edu.cn/9456/list.htm",
+  "title": "设备共享中心（srv.cuc）",
+  "chars": 648,
+  "sha256": "921defa78b23d3be",
+  "fetched_at": "2026-10-27T12:14:53+08:00",
+  "kind": "extra"
+ },
+ "564077f057": {
+  "url": "https://hainan.cuc.edu.cn/2025/0612/c14160a256943/page.htm",
+  "title": "设备共享中心（hainan.cuc）",
+  "chars": 2091,
+  "sha256": "07be8baad7b800c7",
+  "fetched_at": "2026-10-27T12:14:53+08:00",
+  "kind": "extra"
+ },
+ "4de7f654f1": {
+  "url": "https://jwc.cuc.edu.cn/2024/1125/c13082a245903/page.htm",
+  "title": "本科修学指南（jwc.cuc）",
+  "chars": 574,
+  "sha256": "af4f608c3b3cddb9",
+  "fetched_at": "2026-10-27T12:15:14+08:00",
+  "kind": "extra"
+ },
+ "6938268628": {
+  "url": "https://yz.cuc.edu.cn/2025/1111/c8549a262367/page.htm",
+  "title": "博士招生简章（yz.cuc）",
+  "chars": 8310,
+  "sha256": "bd9de49c50aa85c0",
+  "fetched_at": "2026-10-27T12:15:22+08:00",
+  "kind": "extra"
+ },
+ "ad06cf1d7d": {
+  "url": "https://yz.cuc.edu.cn/zsjz/list.htm",
+  "title": "博士招生简章（yz.cuc）",
+  "chars": 993,
+  "sha256": "60a6e80a6b058499",
+  "fetched_at": "2026-10-27T12:15:24+08:00",
+  "kind": "extra"
+ },
+ "7c1eca7aed": {
+  "url": "https://www.cuc.edu.cn/rhfwmh/list.htm",
+  "title": "融合门户 服务（www.cuc）",
+  "chars": 1415,
+  "sha256": "e5be90f92d1ae5ef",
+  "fetched_at": "2026-10-27T12:15:32+08:00",
+  "kind": "extra"
+ },
+ "88863360a6": {
+  "url": "https://rwxy.cuc.edu.cn/2020/0118/c1348a165020/page.htm",
+  "title": "无犯罪记录证明（rwxy.cuc）",
+  "chars": 1082,
+  "sha256": "da67f509b0f3c927",
+  "fetched_at": "2026-10-27T12:15:47+08:00",
+  "kind": "extra"
+ },
+ "34b50ccb77": {
+  "url": "https://rwxy.cuc.edu.cn/1348/list.htm",
+  "title": "无犯罪记录证明（rwxy.cuc）",
+  "chars": 1167,
+  "sha256": "0bb1f02bf551d315",
+  "fetched_at": "2026-10-27T12:15:48+08:00",
+  "kind": "extra"
+ },
+ "5a54d96750": {
+  "url": "https://yz.cuc.edu.cn/2026/0830/c8678a273445/page.htm",
+  "title": "推荐免试攻读研究生 工作办法（yz.cuc）",
+  "chars": 4814,
+  "sha256": "7385e77c39fdacb6",
+  "fetched_at": "2026-10-27T12:27:20+08:00",
+  "kind": "extra"
+ },
+ "db58092d1c": {
+  "url": "https://tft.cuc.edu.cn/2026/0911/c14988a273824/page.htm",
+  "title": "推免 遴选（tft.cuc）",
+  "chars": 642,
+  "sha256": "f4b529cbc0fe9ec4",
+  "fetched_at": "2026-10-27T12:27:27+08:00",
+  "kind": "extra"
+ },
+ "73b707493f": {
+  "url": "https://jwc.cuc.edu.cn/",
+  "title": "本科生院 服务事项（jwc.cuc）",
+  "chars": 2530,
+  "sha256": "f84c67866c76d8fa",
+  "fetched_at": "2026-10-27T12:27:58+08:00",
+  "kind": "extra"
+ },
+ "7c868e9fa3": {
+  "url": "https://xxgk.cuc.edu.cn/5376/list.htm",
+  "title": "本科生院 服务事项（xxgk.cuc）",
+  "chars": 1040,
+  "sha256": "0d6590e73bf0813a",
+  "fetched_at": "2026-10-27T12:27:58+08:00",
+  "kind": "extra"
+ },
+ "9fba5c0633": {
+  "url": "https://gaozhi.cuc.edu.cn/2009/0428/c3134a86048/page.htm",
+  "title": "中国传媒大学发展党员工作基本规程",
+  "chars": 5577,
+  "sha256": "bb0f343c35457e41",
+  "fetched_at": "2026-10-27T20:01:12+08:00",
+  "kind": "extra"
+ },
+ "09de10e7a7": {
+  "url": "https://sem.cuc.edu.cn/2019/0116/c4670a115142/page.htm",
+  "title": "推优入党工作办法（sem.cuc）",
+  "chars": 1334,
+  "sha256": "c7762f2885b72e5a",
+  "fetched_at": "2026-10-27T20:01:13+08:00",
+  "kind": "extra"
+ },
+ "e9b74298dd": {
+  "url": "https://youth.cuc.edu.cn/2026/1018/c14282a274992/page.htm",
+  "title": "共青团中央 教育部《关于落实党建带团建制度机制 深化高校共青团工作的意见》",
+  "chars": 1901,
+  "sha256": "08cd367c769f054f",
+  "fetched_at": "2026-10-27T20:01:21+08:00",
+  "kind": "extra"
+ },
+ "163600a203": {
+  "url": "https://xsc.cuc.edu.cn/2024/0819/c2753a254517/pagem.htm",
+  "title": "教职工处分规定（xsc.cuc）",
+  "chars": 2116,
+  "sha256": "82c8e5991f95ce74",
+  "fetched_at": "2026-10-27T20:01:29+08:00",
+  "kind": "extra"
+ },
+ "70165cc26f": {
+  "url": "https://dsmi.cuc.edu.cn/2019/0427/c4589a123172/page.htm",
+  "title": "本科学生境外交流学习管理规定（dsmi.cuc）",
+  "chars": 2675,
+  "sha256": "eead7ef840c02c97",
+  "fetched_at": "2026-10-27T20:21:47+08:00",
+  "kind": "extra"
+ },
+ "260444efa3": {
+  "url": "https://jwc.cuc.edu.cn/main.htm",
+  "title": "修学指南 中国传媒大学 本科生院（jwc.cuc）",
+  "chars": 2530,
+  "sha256": "f84c67866c76d8fa",
+  "fetched_at": "2026-10-27T20:21:55+08:00",
+  "kind": "extra"
+ },
+ "4aa21faedd": {
+  "url": "https://jwc.cuc.edu.cn/zcwj1/list.htm",
+  "title": "修学指南 中国传媒大学 本科生院（jwc.cuc）",
+  "chars": 1381,
+  "sha256": "46a59222fd5824c7",
+  "fetched_at": "2026-10-27T20:21:55+08:00",
+  "kind": "extra"
+ },
+ "campus-net-2026": {
+  "url": "https://i.cuc.edu.cn/",
+  "title": "校园网恢复计量计费（校园公告截图转录）",
+  "chars": 623,
+  "sha256": "4852a9cc436e3c04",
+  "fetched_at": "2026-10-29T17:20:00+08:00",
+  "kind": "extra"
+ },
+ "07c955be00": {
+  "url": "https://ilib.cuc.edu.cn/",
+  "title": "中国传媒大学图书馆·本馆简介（2025年12月版）",
+  "chars": 1219,
+  "sha256": "fd47e4cd12eb85d3",
+  "fetched_at": "2026-10-29T18:02:15+08:00",
+  "kind": "extra"
+ },
+ "f722505e35": {
+  "url": "https://ilib.cuc.edu.cn/v2/sub/0f27ed3da20addfc60dcc035ddc642f4",
+  "title": "教育资源中心（图书馆）大屏阅览区正式投入使用",
+  "chars": 1002,
+  "sha256": "6eb2bbda30f27c46",
+  "fetched_at": "2026-10-29T18:02:15+08:00",
+  "kind": "extra"
+ }
+}

@@ -1,1 +1,324 @@
-ew0KICJrZXkiOiAiMjAyNjA1MDUtYzIwNjRhMjY5ODM5IiwNCiAidGl0bGUiOiAi5oCd5oOz57q15qiq77yI5LiA77yJ772c5Lmg6L+R5bmz77ya5o6o5Yqo5YWo5rCR6ZiF6K+777yM5bu66K6+5Lmm6aaZ56S+5LyaIiwNCiAidHJ1bmNhdGVkIjogZmFsc2UsDQogInNlY3Rpb25zIjogWw0KICB7DQogICAibm8iOiAi6aG16Z2i5qGG5p62IiwNCiAgICJoZWFkaW5nIjogIuermeeCueagh+mimOOAgemhteWktOWvvOiIquS4juOAjOWtpumZouaWsOmXu+OAjeagj+ebruagh+ivhiIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDEsDQogICAgMzINCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDI4MQ0KICB9LA0KICB7DQogICAibm8iOiAi5qCH6aKYIiwNCiAgICJoZWFkaW5nIjogIuaAneaDs+e6teaoqu+8iOS4gO+8ie+9nOS5oOi/keW5s++8muaOqOWKqOWFqOawkemYheivu++8jOW7uuiuvuS5pummmeekvuS8miIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMzMsDQogICAgMzQNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWExNTgwYzE2MDQiDQogICBdLA0KICAgImNoYXJzIjogNDcNCiAgfSwNCiAgew0KICAgIm5vIjogIuS4gCIsDQogICAiaGVhZGluZyI6ICLkuIAg55+l6K+G5pu05paw5ZGo5pyf57yp55+t77yM5b+F6aG75LiN5pat5a2m5Lmg5omN6IO96Lef5LiK5pe25LujIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMzUsDQogICAgMzcNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWZlYTgwNGIzNDciLA0KICAgICJwdC0yYzcwOTAwYzIxIg0KICAgXSwNCiAgICJjaGFycyI6IDMzNA0KICB9LA0KICB7DQogICAibm8iOiAi5LqMIiwNCiAgICJoZWFkaW5nIjogIuS6jCDlrablj7LjgIHlrabor5fjgIHlrabkvKbnkIbnmoTku7flgLzkuI7nnYHnnLznnIvkuJbnlYwiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzOCwNCiAgICA0Mg0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtOTFjNWVhZGJlMiIsDQogICAgInB0LWJkZWVmNDFkYWUiDQogICBdLA0KICAgImNoYXJzIjogMzUwDQogIH0sDQogIHsNCiAgICJubyI6ICLkuIkiLA0KICAgImhlYWRpbmciOiAi5LiJIOWtpuS5oOi0teWcqOaMgeS5i+S7peaBku+8jOmihuWvvOW5sumDqOimgeaKiuWtpuS5oOaUvuWcqOmHjeimgeS9jee9riIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDQzLA0KICAgIDQ1DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1lZjZkYjdlYmFkIg0KICAgXSwNCiAgICJjaGFycyI6IDE1OA0KICB9LA0KICB7DQogICAibm8iOiAi5ZubIiwNCiAgICJoZWFkaW5nIjogIuWbmyDnlKjnp5HlrabnkIborrrmraboo4XlpLTohJHvvIznkIborrrlrabkuaDopoHmnInkuInnp43looPnlYwiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA0NiwNCiAgICA0OA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZTYxYmQzMzU4NiIsDQogICAgInB0LTM5ZjMyNzYyMWIiLA0KICAgICJwdC1mNDc5ZDA5NDg2Ig0KICAgXSwNCiAgICJjaGFycyI6IDM5MQ0KICB9LA0KICB7DQogICAibm8iOiAi5LqUIiwNCiAgICJoZWFkaW5nIjogIuS6lCDor7vkuablt7LmiJDkuobmiJHnmoTkuIDnp43nlJ/mtLvmlrnlvI8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA0OSwNCiAgICA1MQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZmQ4ZDY0ZDRiYSIsDQogICAgInB0LTg2NGU3ZjMyYjkiDQogICBdLA0KICAgImNoYXJzIjogMjA1DQogIH0sDQogIHsNCiAgICJubyI6ICLlha0iLA0KICAgImhlYWRpbmciOiAi5YWtIOWKm+aIkua1rui6ge+8jOWkmuiKseaXtumXtOmdmeW/g+ivu+S5pumdmeW/g+aAneiAgyIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDUyLA0KICAgIDU0DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC05ODdlZWEzZjIxIg0KICAgXSwNCiAgICJjaGFycyI6IDc5DQogIH0sDQogIHsNCiAgICJubyI6ICLkuIMiLA0KICAgImhlYWRpbmciOiAi5LiDIOaWh+iJuuWvueW5tOi9u+S6uueahOWQuOW8leWKm+acgOWkp+OAgeW9seWTjeS5n+acgOWkpyIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDU1LA0KICAgIDU5DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC01YjMyYzBjZTBkIiwNCiAgICAicHQtYTJlNDc2N2I1YyINCiAgIF0sDQogICAiY2hhcnMiOiAzOTANCiAgfSwNCiAgew0KICAgIm5vIjogIuWFqyIsDQogICAiaGVhZGluZyI6ICLlhasg6Z2S5bm05oqT5a2m5Lmg6KaB5Y+I5Y2a5Y+I5LiT77yM5bm25ZCI55CG5Yip55So572R57uc6ZiF6K+7IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNjAsDQogICAgNjINCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWY4NjdiOGJhMGUiLA0KICAgICJwdC03ODg1MGViZTc2Ig0KICAgXSwNCiAgICJjaGFycyI6IDIyNw0KICB9LA0KICB7DQogICAibm8iOiAi5LmdIiwNCiAgICJoZWFkaW5nIjogIuS5nSDlpJror7vjgIHnsr7or7vpqazlhYvmgJ3kuLvkuYnnu4/lhbjkvZzlrrbnmoTokZfkvZwiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA2MywNCiAgICA2NQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMDRhYzNlZDcwOSINCiAgIF0sDQogICAiY2hhcnMiOiAxNjkNCiAgfSwNCiAgew0KICAgIm5vIjogIuWNgSIsDQogICAiaGVhZGluZyI6ICLljYEg5oqK6K+757uP5YW444CB5oKf5Y6f55CG5b2T5L2c55Sf5rS75Lmg5oOv5LiO57K+56We6L+95rGCIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNjYsDQogICAgNjgNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTYwMWI4OTcyMGIiDQogICBdLA0KICAgImNoYXJzIjogOTUNCiAgfSwNCiAgew0KICAgIm5vIjogIuWNgeS4gCIsDQogICAiaGVhZGluZyI6ICLljYHkuIAg5a2m5Lmg55CG6K665pyA5pyJ5pWI55qE5Yqe5rOV5piv6K+75Y6f6JGX44CB5a2m5Y6f5paH44CB5oKf5Y6f55CGIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNjksDQogICAgNzENCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTJjNDU4MzRiNGQiDQogICBdLA0KICAgImNoYXJzIjogMTM3DQogIH0sDQogIHsNCiAgICJubyI6ICLljYHkuowiLA0KICAgImhlYWRpbmciOiAi5Y2B5LqMIOaPkOWAoeWkmuivu+S5pu+8jOW7uuiuvuS5pummmeekvuS8miIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDcyLA0KICAgIDc0DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0xMmU4OWIyM2U4Ig0KICAgXSwNCiAgICJjaGFycyI6IDk2DQogIH0sDQogIHsNCiAgICJubyI6ICLljYHkuIkiLA0KICAgImhlYWRpbmciOiAi5Y2B5LiJIOWbvuS5pummhuaYr+a7i+WFu+awkeaXj+W/g+eBteOAgeWfueiCsuaWh+WMluiHquS/oeeahOmHjeimgeWcuuaJgCIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDc1LA0KICAgIDc3DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC04ZmQ0Nzc4N2IxIg0KICAgXSwNCiAgICJjaGFycyI6IDEyOA0KICB9LA0KICB7DQogICAibm8iOiAi5Y2B5ZubIiwNCiAgICJoZWFkaW5nIjogIuWNgeWbmyDlkJHkuabmnKzlrabkuaDvvIzlj5HmiazjgIzmjKTjgI3lkozjgIzpkrvjgI3nmoTnsr7npZ4iLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA3OCwNCiAgICA4MA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNDVhMzM3ZmZkMSIsDQogICAgInB0LTU0NDgzMDEzN2YiLA0KICAgICJwdC05ODQ4ODQzZjFkIg0KICAgXSwNCiAgICJjaGFycyI6IDQyMA0KICB9LA0KICB7DQogICAibm8iOiAi5Y2B5LqUIiwNCiAgICJoZWFkaW5nIjogIuWNgeS6lCDpmIXor7vmmK/ojrflj5bnn6Xor4bjgIHlkK/mmbrlop7mhafjgIHln7nlhbvpgZPlvrfnmoTph43opoHpgJTlvoQiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA4MSwNCiAgICA4Mw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtODcyNGQ1Zjg3ZSIsDQogICAgInB0LWM3MmM1NGYyN2QiDQogICBdLA0KICAgImNoYXJzIjogMjA4DQogIH0sDQogIHsNCiAgICJubyI6ICLljYHlha0iLA0KICAgImhlYWRpbmciOiAi5Y2B5YWtIOW7uuiuvuWFqOawkee7iOi6q+WtpuS5oOeahOWtpuS5oOWei+ekvuS8muOAgeWtpuS5oOWei+Wkp+WbvSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDg0LA0KICAgIDg2DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0yZDM2ZDE3Y2E0Ig0KICAgXSwNCiAgICJjaGFycyI6IDEwNw0KICB9LA0KICB7DQogICAibm8iOiAi5Y2B5LiDIiwNCiAgICJoZWFkaW5nIjogIuWNgeS4gyDmlbDlrZfpmIXor7vopoHlkozkvKDnu5/pmIXor7vnu5PlkIjotbfmnaUiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA4NywNCiAgICA5MA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZTMyZTRkNGE3MiINCiAgIF0sDQogICAiY2hhcnMiOiAxMDENCiAgfSwNCiAgew0KICAgIm5vIjogIuadpea6kCIsDQogICAiaGVhZGluZyI6ICLoioLlvZXor7TmmI7kuI7mlofnq6DmnaXmupDvvIjjgIrmsYLmmK/jgIsyMDI2LzA477yJIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgOTEsDQogICAgOTINCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDYzDQogIH0sDQogIHsNCiAgICJubyI6ICLpobXohJoiLA0KICAgImhlYWRpbmciOiAi5Y+L5oOF6ZO+5o6l44CB5Zyw5Z2A54mI5p2D5LiO6K6/6Zeu57uf6K6hIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgOTMsDQogICAgMTEwDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiA0MDUNCiAgfQ0KIF0sDQogIml0ZW1zIjogWw0KICAicHQtYTE1ODBjMTYwNCIsDQogICJwdC1mZWE4MDRiMzQ3IiwNCiAgInB0LTJjNzA5MDBjMjEiLA0KICAicHQtOTFjNWVhZGJlMiIsDQogICJwdC1iZGVlZjQxZGFlIiwNCiAgInB0LWVmNmRiN2ViYWQiLA0KICAicHQtZTYxYmQzMzU4NiIsDQogICJwdC0zOWYzMjc2MjFiIiwNCiAgInB0LWY0NzlkMDk0ODYiLA0KICAicHQtZmQ4ZDY0ZDRiYSIsDQogICJwdC04NjRlN2YzMmI5IiwNCiAgInB0LTk4N2VlYTNmMjEiLA0KICAicHQtNWIzMmMwY2UwZCIsDQogICJwdC1hMmU0NzY3YjVjIiwNCiAgInB0LWY4NjdiOGJhMGUiLA0KICAicHQtNzg4NTBlYmU3NiIsDQogICJwdC0wNGFjM2VkNzA5IiwNCiAgInB0LTYwMWI4OTcyMGIiLA0KICAicHQtMmM0NTgzNGI0ZCIsDQogICJwdC0xMmU4OWIyM2U4IiwNCiAgInB0LThmZDQ3Nzg3YjEiLA0KICAicHQtNDVhMzM3ZmZkMSIsDQogICJwdC01NDQ4MzAxMzdmIiwNCiAgInB0LTk4NDg4NDNmMWQiLA0KICAicHQtODcyNGQ1Zjg3ZSIsDQogICJwdC1jNzJjNTRmMjdkIiwNCiAgInB0LTJkMzZkMTdjYTQiLA0KICAicHQtZTMyZTRkNGE3MiINCiBdLA0KICJub3RlcyI6IFsNCiAgIue9kemhtemHh+mbhueov++8muesrCAx4oCTMzIg6KGM5piv6aG16Z2i5qGG5p624oCU4oCU56uZ54K577yI5a2m6Zmi77yJ5qCH6aKY77yI56ysIDEg6KGM77yM5LiO56ysIDMzIOihjOato+aWh+agh+mimOmHjeWkje+8ieOAgemhteWktOWvvOiIquiPnOWNle+8iOmmlumhte+8j+WFs+S6juaIkeS7rO+8j+WtpumZoueugOS7i++8j+ihjOaUv+acuuaehO+8j+WtpuiAhemjjumHh++8j+WtpueUn+WfueWFu++8j+Wtpuacr+eglOeptu+8j+WFmue+pOW3peS9nO+8j+WbvemZheWQiOS9nOetieS6jOe6p+adoeebru+8ieOAgeS4pOW8oOaooeadv+Wbvu+8iOesrCAy44CBMzAg6KGM55qEIFvpmYTku7ZdIOi3r+W+hO+8ieOAgemdouWMheWxkeOAjOmmlumhtSDlrabpmaLmlrDpl7vjgI3vvIjnrKwgMzHigJMzMiDooYzvvInvvJvmjInlj6PlvoTpobXlpLTph43lpI3moIfpopjkuI7lr7zoiKrlvZLjgIzpobXpnaLmoYbmnrbjgI3vvIzmraPmlofmoIfpopjlvZLjgIzmoIfpopjjgI3oioLjgIIiLA0KICAi56ysIDMzIOihjOaYr+ato+aWh+agh+mimO+8jOesrCAzNCDooYzmmK/jgIzlj5HluIPml7bpl7TvvJoyMDI2LTA0LTMwIOa1j+iniOasoeaVsO+8mjIz44CN77yM5ZCI5Li644CM5qCH6aKY44CN6IqC44CCIiwNCiAgIuWOn+aWh+WPqueUqOaxieWtl+auteWPt++8iOS4gOOAgeS6jOOAgeKApuWNgeS4g++8ieS9nOWIhuauteagh+iusO+8jOayoeacieS7u+S9leWwj+agh+mimO+8m2hlYWRpbmcg5LiA5b6L5Li65pys5q615Li75peo55qE5qaC5ous77yIZGVyaXZlZO+8ie+8jG5vIOWPluWOn+aWh+auteWPt+OAgiIsDQogICLnrKwgNDHigJM0MuOAgTU44oCTNTkg6KGM5piv5Lik5byg6ZmE5Zu+5LiO5Zu+5rOo77yINDEg6KGM5Li6IFvpmYTku7ZdIOWbvueJh+i3r+W+hO+8jDQyIOihjOS4uiAyMDI1IOW5tCAzIOaciCA2IOaXpeeci+acm+WPguWKoOWFqOWbveaUv+WNj+WNgeWbm+WxiuS4ieasoeS8muiurueahOawkeebn+OAgeawkei/m+OAgeaVmeiCsueVjOWnlOWRmOeahOivtOaYju+8mzU44oCTNTkg6KGM5ZCM55CG77yM5Li6IDIwMjYg5bm0IDMg5pyIIDIzIOaXpeWcqOays+WMl+mbhOWuieaWsOWMuuiAg+Wvn+eahOivtOaYju+8ieOAguaMieiKgummluWIpOaNruWbvuazqOS4jeWNleeLrOaIkOiKgu+8jOS4pOadoeWbvuazqOW8leaWh++8iHB0LWJkZWVmNDFkYWXjgIFwdC1hMmU0NzY3YjVj77yJ6JC95Zyo5YW25YmN5LiA5q6155qE6IqC5bC+77yM5pWF44CM5LqM44CN5Y+WIDM44oCTNDIg6KGM44CB44CM5LiD44CN5Y+WIDU14oCTNTkg6KGM77yM5Zyo5q2k6K+05piO44CCIiwNCiAgIuesrCA5MSDooYzmmK/jgIzigLvov5nmmK/kuaDov5HlubPmgLvkuaborrAyMDEz5bm0M+aciOiHszIwMjXlubQz5pyI5pyf6Ze05pyJ5YWz5o6o5Yqo5YWo5rCR6ZiF6K+777yM5bu66K6+5Lmm6aaZ56S+5Lya6YeN6KaB6K666L+w55qE6IqC5b2V44CC44CN77yM56ysIDkyIOihjOaYr+OAjOadpea6kO+8muOAiuaxguaYr+OAizIwMjYvMDjjgI3vvIzlkIjkuLrjgIzmnaXmupDjgI3oioLjgIIiLA0KICAi56ysIDkz4oCTMTEwIOihjOaYr+mhteWwvu+8iOWPi+aDhemTvuaOpSA4IOadoeOAgeWcsOWdgOS4jumCrue8luOAgeeJiOadg+S4juS6rCBJQ1DvvI/kuqzlhaznvZHlronlpIfjgIHmioDmnK/mlK/mjIHjgIHlm57liLDpobbpg6jjgIHorr/pl67nu5/orqHohJrmnKzvvInvvIzlkIjkuLrjgIzpobXohJrjgI3oioLjgIIiLA0KICAicHQtZTMyZTRkNGE3MiDnmoTlvJXmloflsL7pg6jot6jliLDnrKwgOTEg6KGM55qE6IqC5b2V6K+05piO77yM5L2G5byV5paH6LW354K55Zyo56ys5Y2B5LiD5q6177yI56ysIDg34oCTODgg6KGM77yJ77yM5pWF5LuN6JC944CM5Y2B5LiD44CN6IqC44CCIiwNCiAgIuacrOaWh+ayoeaciSBydWxlLSog5paH5qGj57qn5p2h55uu77ybMjgg5p2hIHB0IOadoeebrueahOW8leaWh+WFqOmDqOiDveWcqOacrOaWh+WGhemAkOWtl+WRveS4re+8jOaXoOi3qOaWh+S7tuW8leeUqO+8m+ato+aWh+WIsOesrCA5MiDooYznu5PmnZ/vvIjlhbblkI7kuLrpobXohJrvvInvvIzmlYUgdHJ1bmNhdGVkPWZhbHNl44CCIg0KIF0NCn0NCg==
+{
+ "key": "20260505-c2064a269839",
+ "title": "思想纵横（一）｜习近平：推动全民阅读，建设书香社会",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "页面框架",
+   "heading": "站点标题、页头导航与「学院新闻」栏目标识",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    32
+   ],
+   "items": [],
+   "chars": 281
+  },
+  {
+   "no": "标题",
+   "heading": "思想纵横（一）｜习近平：推动全民阅读，建设书香社会",
+   "heading_kind": "author",
+   "lines": [
+    33,
+    34
+   ],
+   "items": [
+    "pt-a1580c1604"
+   ],
+   "chars": 47
+  },
+  {
+   "no": "一",
+   "heading": "一 知识更新周期缩短，必须不断学习才能跟上时代",
+   "heading_kind": "derived",
+   "lines": [
+    35,
+    37
+   ],
+   "items": [
+    "pt-fea804b347",
+    "pt-2c70900c21"
+   ],
+   "chars": 334
+  },
+  {
+   "no": "二",
+   "heading": "二 学史、学诗、学伦理的价值与睁眼看世界",
+   "heading_kind": "derived",
+   "lines": [
+    38,
+    42
+   ],
+   "items": [
+    "pt-91c5eadbe2",
+    "pt-bdeef41dae"
+   ],
+   "chars": 350
+  },
+  {
+   "no": "三",
+   "heading": "三 学习贵在持之以恒，领导干部要把学习放在重要位置",
+   "heading_kind": "derived",
+   "lines": [
+    43,
+    45
+   ],
+   "items": [
+    "pt-ef6db7ebad"
+   ],
+   "chars": 158
+  },
+  {
+   "no": "四",
+   "heading": "四 用科学理论武装头脑，理论学习要有三种境界",
+   "heading_kind": "derived",
+   "lines": [
+    46,
+    48
+   ],
+   "items": [
+    "pt-e61bd33586",
+    "pt-39f327621b",
+    "pt-f479d09486"
+   ],
+   "chars": 391
+  },
+  {
+   "no": "五",
+   "heading": "五 读书已成了我的一种生活方式",
+   "heading_kind": "derived",
+   "lines": [
+    49,
+    51
+   ],
+   "items": [
+    "pt-fd8d64d4ba",
+    "pt-864e7f32b9"
+   ],
+   "chars": 205
+  },
+  {
+   "no": "六",
+   "heading": "六 力戒浮躁，多花时间静心读书静心思考",
+   "heading_kind": "derived",
+   "lines": [
+    52,
+    54
+   ],
+   "items": [
+    "pt-987eea3f21"
+   ],
+   "chars": 79
+  },
+  {
+   "no": "七",
+   "heading": "七 文艺对年轻人的吸引力最大、影响也最大",
+   "heading_kind": "derived",
+   "lines": [
+    55,
+    59
+   ],
+   "items": [
+    "pt-5b32c0ce0d",
+    "pt-a2e4767b5c"
+   ],
+   "chars": 390
+  },
+  {
+   "no": "八",
+   "heading": "八 青年抓学习要又博又专，并合理利用网络阅读",
+   "heading_kind": "derived",
+   "lines": [
+    60,
+    62
+   ],
+   "items": [
+    "pt-f867b8ba0e",
+    "pt-78850ebe76"
+   ],
+   "chars": 227
+  },
+  {
+   "no": "九",
+   "heading": "九 多读、精读马克思主义经典作家的著作",
+   "heading_kind": "derived",
+   "lines": [
+    63,
+    65
+   ],
+   "items": [
+    "pt-04ac3ed709"
+   ],
+   "chars": 169
+  },
+  {
+   "no": "十",
+   "heading": "十 把读经典、悟原理当作生活习惯与精神追求",
+   "heading_kind": "derived",
+   "lines": [
+    66,
+    68
+   ],
+   "items": [
+    "pt-601b89720b"
+   ],
+   "chars": 95
+  },
+  {
+   "no": "十一",
+   "heading": "十一 学习理论最有效的办法是读原著、学原文、悟原理",
+   "heading_kind": "derived",
+   "lines": [
+    69,
+    71
+   ],
+   "items": [
+    "pt-2c45834b4d"
+   ],
+   "chars": 137
+  },
+  {
+   "no": "十二",
+   "heading": "十二 提倡多读书，建设书香社会",
+   "heading_kind": "derived",
+   "lines": [
+    72,
+    74
+   ],
+   "items": [
+    "pt-12e89b23e8"
+   ],
+   "chars": 96
+  },
+  {
+   "no": "十三",
+   "heading": "十三 图书馆是滋养民族心灵、培育文化自信的重要场所",
+   "heading_kind": "derived",
+   "lines": [
+    75,
+    77
+   ],
+   "items": [
+    "pt-8fd47787b1"
+   ],
+   "chars": 128
+  },
+  {
+   "no": "十四",
+   "heading": "十四 向书本学习，发扬「挤」和「钻」的精神",
+   "heading_kind": "derived",
+   "lines": [
+    78,
+    80
+   ],
+   "items": [
+    "pt-45a337ffd1",
+    "pt-544830137f",
+    "pt-9848843f1d"
+   ],
+   "chars": 420
+  },
+  {
+   "no": "十五",
+   "heading": "十五 阅读是获取知识、启智增慧、培养道德的重要途径",
+   "heading_kind": "derived",
+   "lines": [
+    81,
+    83
+   ],
+   "items": [
+    "pt-8724d5f87e",
+    "pt-c72c54f27d"
+   ],
+   "chars": 208
+  },
+  {
+   "no": "十六",
+   "heading": "十六 建设全民终身学习的学习型社会、学习型大国",
+   "heading_kind": "derived",
+   "lines": [
+    84,
+    86
+   ],
+   "items": [
+    "pt-2d36d17ca4"
+   ],
+   "chars": 107
+  },
+  {
+   "no": "十七",
+   "heading": "十七 数字阅读要和传统阅读结合起来",
+   "heading_kind": "derived",
+   "lines": [
+    87,
+    90
+   ],
+   "items": [
+    "pt-e32e4d4a72"
+   ],
+   "chars": 101
+  },
+  {
+   "no": "来源",
+   "heading": "节录说明与文章来源（《求是》2026/08）",
+   "heading_kind": "derived",
+   "lines": [
+    91,
+    92
+   ],
+   "items": [],
+   "chars": 63
+  },
+  {
+   "no": "页脚",
+   "heading": "友情链接、地址版权与访问统计",
+   "heading_kind": "derived",
+   "lines": [
+    93,
+    110
+   ],
+   "items": [],
+   "chars": 405
+  }
+ ],
+ "items": [
+  "pt-a1580c1604",
+  "pt-fea804b347",
+  "pt-2c70900c21",
+  "pt-91c5eadbe2",
+  "pt-bdeef41dae",
+  "pt-ef6db7ebad",
+  "pt-e61bd33586",
+  "pt-39f327621b",
+  "pt-f479d09486",
+  "pt-fd8d64d4ba",
+  "pt-864e7f32b9",
+  "pt-987eea3f21",
+  "pt-5b32c0ce0d",
+  "pt-a2e4767b5c",
+  "pt-f867b8ba0e",
+  "pt-78850ebe76",
+  "pt-04ac3ed709",
+  "pt-601b89720b",
+  "pt-2c45834b4d",
+  "pt-12e89b23e8",
+  "pt-8fd47787b1",
+  "pt-45a337ffd1",
+  "pt-544830137f",
+  "pt-9848843f1d",
+  "pt-8724d5f87e",
+  "pt-c72c54f27d",
+  "pt-2d36d17ca4",
+  "pt-e32e4d4a72"
+ ],
+ "notes": [
+  "网页采集稿：第 1–32 行是页面框架——站点（学院）标题（第 1 行，与第 33 行正文标题重复）、页头导航菜单（首页／关于我们／学院简介／行政机构／学者风采／学生培养／学术研究／党群工作／国际合作等二级条目）、两张模板图（第 2、30 行的 [附件] 路径）、面包屑「首页 学院新闻」（第 31–32 行）；按口径页头重复标题与导航归「页面框架」，正文标题归「标题」节。",
+  "第 33 行是正文标题，第 34 行是「发布时间：2026-04-30 浏览次数：23」，合为「标题」节。",
+  "原文只用汉字段号（一、二、…十七）作分段标记，没有任何小标题；heading 一律为本段主旨的概括（derived），no 取原文段号。",
+  "第 41–42、58–59 行是两张附图与图注（41 行为 [附件] 图片路径，42 行为 2025 年 3 月 6 日看望参加全国政协十四届三次会议的民盟、民进、教育界委员的说明；58–59 行同理，为 2026 年 3 月 23 日在河北雄安新区考察的说明）。按节首判据图注不单独成节，两条图注引文（pt-bdeef41dae、pt-a2e4767b5c）落在其前一段的节尾，故「二」取 38–42 行、「七」取 55–59 行，在此说明。",
+  "第 91 行是「※这是习近平总书记2013年3月至2025年3月期间有关推动全民阅读，建设书香社会重要论述的节录。」，第 92 行是「来源：《求是》2026/08」，合为「来源」节。",
+  "第 93–110 行是页尾（友情链接 8 条、地址与邮编、版权与京 ICP／京公网安备、技术支持、回到顶部、访问统计脚本），合为「页脚」节。",
+  "pt-e32e4d4a72 的引文尾部跨到第 91 行的节录说明，但引文起点在第十七段（第 87–88 行），故仍落「十七」节。",
+  "本文没有 rule-* 文档级条目；28 条 pt 条目的引文全部能在本文内逐字命中，无跨文件引用；正文到第 92 行结束（其后为页脚），故 truncated=false。"
+ ]
+}

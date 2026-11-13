@@ -1,1 +1,145 @@
-ew0KICJrZXkiOiAi5paH54yu5L+d6ZqcLWI4N2ZmNDAzNTk0NmIxMTFmMDBiMDlhNTczZDE2YWRlZjE2NiIsDQogInRpdGxlIjogIuWbvuS5pummhjIwMjTlubTlm73lhoXmnJ/liIrnm67lvZUiLA0KICJ0cnVuY2F0ZWQiOiBmYWxzZSwNCiAic2VjdGlvbnMiOiBbDQogIHsNCiAgICJubyI6ICLpobXpnaLmoYbmnrYiLA0KICAgImhlYWRpbmciOiAi5qCH6aKY44CB5p2l5rqQ44CB5qCP55uu5LiO5Y+R5biD5pe26Ze0IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMSwNCiAgICA1DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1hMzkwMTUxYzY5Ig0KICAgXSwNCiAgICJjaGFycyI6IDIyMA0KICB9LA0KICB7DQogICAibm8iOiAi6KGo5aS0IiwNCiAgICJoZWFkaW5nIjogIuihqOmimOS4juWIl+WQje+8iOW6j+WPt++8j+mCruWPkeS7o+WPt++8j+WIiuWQje+8j+WIiumike+8iSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDcsDQogICAgMTENCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWU2OGQ0NzEyOWQiDQogICBdLA0KICAgImNoYXJzIjogMjQNCiAgfSwNCiAgew0KICAgIm5vIjogIuW6j+WPtzHigJMxODciLA0KICAgImhlYWRpbmciOiAi5Zu95YaF5pyf5YiK6K6w5b2V77yI5bqP5Y+3IDHigJMxODfvvIkiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMiwNCiAgICA3NTkNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTEwODQ1MmUxNzAiDQogICBdLA0KICAgImNoYXJzIjogMzc2OA0KICB9LA0KICB7DQogICAibm8iOiAi5bqP5Y+3MTg44oCTMzc0IiwNCiAgICJoZWFkaW5nIjogIuWbveWGheacn+WIiuiusOW9le+8iOW6j+WPtyAxODjigJMzNzTvvIkiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA3NjAsDQogICAgMTUwNw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMmRmNzRkYTdmZCIsDQogICAgInB0LTg3NmNjMjNmM2YiDQogICBdLA0KICAgImNoYXJzIjogNDE2MA0KICB9LA0KICB7DQogICAibm8iOiAi5bqP5Y+3Mzc14oCTNTYxIiwNCiAgICJoZWFkaW5nIjogIuWbveWGheacn+WIiuiusOW9le+8iOW6j+WPtyAzNzXigJM1NjHvvIkiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNTA4LA0KICAgIDIyNTUNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTE2YjE0MWM1MTEiLA0KICAgICJwdC1iOTUzZjZmMjJmIg0KICAgXSwNCiAgICJjaGFycyI6IDM0MjkNCiAgfSwNCiAgew0KICAgIm5vIjogIuW6j+WPtzU2MuKAkzc0OCIsDQogICAiaGVhZGluZyI6ICLlm73lhoXmnJ/liIrorrDlvZXvvIjluo/lj7cgNTYy4oCTNzQ477yJIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMjI1NiwNCiAgICAzMDAzDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1jNjU5N2EyMWIzIiwNCiAgICAicHQtMmQ3OWRkYTVlNCIsDQogICAgInB0LTE5MTVhNmFjYzUiLA0KICAgICJwdC1mMTE0M2IzYzBhIiwNCiAgICAicHQtMDQ0MTZjZDYyZCIsDQogICAgInB0LThlMTQ3MTBjMmMiLA0KICAgICJwdC1jMzkxNTBkZDkyIiwNCiAgICAicHQtODkxMzEwNmFkMSIsDQogICAgInB0LTIyMjQwMDNlZjIiLA0KICAgICJwdC0wM2UxOTdhNmEzIiwNCiAgICAicHQtM2I2OTFlMzdhZCIsDQogICAgInB0LTBlODIxNTViZDYiLA0KICAgICJwdC02N2MwNWY5MDFlIiwNCiAgICAicHQtMzg4ZmE1MjAyMiIsDQogICAgInB0LTcwZmQ3YzdjY2UiLA0KICAgICJwdC1iMmQwNTNkYmEwIiwNCiAgICAicHQtNjgwYjlkYTVlZiIsDQogICAgInB0LTcyOGIyMWJiY2QiLA0KICAgICJwdC0xMDQxODI2MzQyIiwNCiAgICAicHQtYWI5YWNmOGRiMiIsDQogICAgInB0LWNiYTIxYTMyMGYiLA0KICAgICJwdC1hMTgwNTMxNjE2Ig0KICAgXSwNCiAgICJjaGFycyI6IDMxNDQNCiAgfQ0KIF0sDQogIml0ZW1zIjogWw0KICAicHQtYTM5MDE1MWM2OSIsDQogICJwdC1lNjhkNDcxMjlkIiwNCiAgInB0LTEwODQ1MmUxNzAiLA0KICAicHQtMmRmNzRkYTdmZCIsDQogICJwdC04NzZjYzIzZjNmIiwNCiAgInB0LTE2YjE0MWM1MTEiLA0KICAicHQtYjk1M2Y2ZjIyZiIsDQogICJwdC1jNjU5N2EyMWIzIiwNCiAgInB0LTJkNzlkZGE1ZTQiLA0KICAicHQtMTkxNWE2YWNjNSIsDQogICJwdC1mMTE0M2IzYzBhIiwNCiAgInB0LTA0NDE2Y2Q2MmQiLA0KICAicHQtOGUxNDcxMGMyYyIsDQogICJwdC1jMzkxNTBkZDkyIiwNCiAgInB0LTg5MTMxMDZhZDEiLA0KICAicHQtMjIyNDAwM2VmMiIsDQogICJwdC0wM2UxOTdhNmEzIiwNCiAgInB0LTNiNjkxZTM3YWQiLA0KICAicHQtMGU4MjE1NWJkNiIsDQogICJwdC02N2MwNWY5MDFlIiwNCiAgInB0LTM4OGZhNTIwMjIiLA0KICAicHQtNzBmZDdjN2NjZSIsDQogICJwdC1iMmQwNTNkYmEwIiwNCiAgInB0LTY4MGI5ZGE1ZWYiLA0KICAicHQtNzI4YjIxYmJjZCIsDQogICJwdC0xMDQxODI2MzQyIiwNCiAgInB0LWFiOWFjZjhkYjIiLA0KICAicHQtY2JhMjFhMzIwZiIsDQogICJwdC1hMTgwNTMxNjE2Ig0KIF0sDQogIm5vdGVzIjogWw0KICAi6KGo5qC857G75paH5pys77yI5Zu+5Lmm6aaG44CM5paH54yu5L+d6Zqc44CN5qCP55uu77yM5oql5YiK55uu5b2V56uW5o6S77yJ77ya56ysIDEg6KGM5qCH6aKY77yb56ysIDLigJM1IOihjOaYr+OAjOadpea6kO+8j+agj+ebru+8j+S9nOiAhe+8j+WPkeW4g+aXtumXtOOAjeWFg+S/oeaBr++8m+esrCA2IOihjOepuuihjO+8m+esrCA3IOihjOihqOmimOmHjeWkje+8m+esrCA44oCTMTEg6KGM5YiG5Yir5piv44CM5bqP5Y+377yP6YKu5Y+R5Luj5Y+377yP5YiK5ZCN77yP5YiK6aKR44CN5Zub5Liq5YiX5ZCN77yb56ysIDEyIOihjOi1t+S4uuiusOW9le+8jOavj+adoeWbuuWumuWNoCA0IOihjO+8iOW6j+WPt+OAgemCruWPkeS7o+WPt+OAgeWIiuWQjeOAgeWIiumike+8ie+8jOW6j+WPtyAx4oCTNzQ4IOi/nue7reaXoOe8uuWPt++8jOWFsSA3NDgg5p2h77yb56ysIDMwMDQg6KGM5Li65pyr5bC+56m66KGM44CCIiwNCiAgIuaXoOeroOadoee8luWPt++8jOWFqOmDqOiKguS4uiBkZXJpdmVk77yb5pW06KGo5oyJ5bqP5Y+35YiH5Z2X77yaMTLigJM3NTkg6KGM77ydMeKAkzE4NyDlj7fvvIw3NjDigJMxNTA3IOihjO+8nTE4OOKAkzM3NCDlj7fvvIwxNTA44oCTMjI1NSDooYzvvJ0zNzXigJM1NjEg5Y+377yMMjI1NuKAkzMwMDMg6KGM77ydNTYy4oCTNzQ4IOWPt+OAguWIh+eCuemDveiQveWcqOiusOW9lei+ueeVjO+8iDQg6KGM5LiA57uE77yJ5LiK77yM5pyq5YiH5pat5Lu75L2V5p2h55uu5byV5paH77yI5aaCIHB0LWI5NTNmNmYyMmYg6LeoIDE5NzTigJMyMDM4IOihjOOAgXB0LTNiNjkxZTM3YWQg6LeoIDI2ODLigJMyNzQyIOihjO+8jOWdh+aVtOauteeVmeWcqOWQjOS4gOWdl+WGhe+8ieOAgiIsDQogICLnrKwgNyDooYzmmK/ooajpopjph43lpI3vvIjpobXpnaLmoIfpopjooYzvvInvvIzmjInjgIzoioLpppbliKTmja7jgI3mnKzlupTlvZLjgIzpobXpnaLmoYbmnrbjgI3vvIzkvYYgcHQtZTY4ZDQ3MTI5ZCDnmoTlvJXmlofjgIzlm77kuabppoYyMDI05bm05Zu95YaF5pyf5YiK55uu5b2V5bqP5Y+36YKu5Y+R5Luj5Y+35YiK5ZCN5YiK6aKR44CN6LW354K55q2j6JC95Zyo6K+l6KGM77yM5LiN5bm25YWl5bCx6JC95LiN5LqG5Zyw77yM5pWF5oqKIDfigJMxMSDooYzmlbTkvZPmlL7ov5vjgIzooajlpLTjgI3oioLjgIIiLA0KICAi5rqQ5pWw5o2u5bCP55GV55a177yaNzQ4IOadoeS4reaciSAyMjUg5p2h55qE6YKu5Y+R5Luj5Y+35LiN5piv44CMMDItMDIy44CN5byP55qE5LiJ5L2N5YaZ5rOV77yI5aaC44CMNC04MDDjgI3jgIw4LTIy44CN44CMMjYtMTfjgI3vvInvvJvnrKwgNTAz44CBNjQz44CBNjU044CBNjY1IOWPt+eahOWIiumikeagj+WGmeS9nOOAjOWRqOWIiuOAjeOAjOWPjOWRqOWIiuOAjeiAjOmdnuacn+aVsOOAguaMieWOn+aWh+S/neeVme+8jOacquaUueWGmeOAguacrOaWh+S7tuadoeebruaKveagt+WBj+WQjuaute+8jOWJjSAxODcg5Y+35Y+q5pyJIDEg5p2h5p2h55uu77yM5bGeIGl0ZW1zLmpzb24g5oq95qC35LiN5Z2H77yM6Z2e6JC954K56YGX5ryP44CCIg0KIF0NCn0=
+{
+ "key": "文献保障-b87ff4035946b111f00b09a573d16adef166",
+ "title": "图书馆2024年国内期刊目录",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "页面框架",
+   "heading": "标题、来源、栏目与发布时间",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    5
+   ],
+   "items": [
+    "pt-a390151c69"
+   ],
+   "chars": 220
+  },
+  {
+   "no": "表头",
+   "heading": "表题与列名（序号／邮发代号／刊名／刊频）",
+   "heading_kind": "derived",
+   "lines": [
+    7,
+    11
+   ],
+   "items": [
+    "pt-e68d47129d"
+   ],
+   "chars": 24
+  },
+  {
+   "no": "序号1–187",
+   "heading": "国内期刊记录（序号 1–187）",
+   "heading_kind": "derived",
+   "lines": [
+    12,
+    759
+   ],
+   "items": [
+    "pt-108452e170"
+   ],
+   "chars": 3768
+  },
+  {
+   "no": "序号188–374",
+   "heading": "国内期刊记录（序号 188–374）",
+   "heading_kind": "derived",
+   "lines": [
+    760,
+    1507
+   ],
+   "items": [
+    "pt-2df74da7fd",
+    "pt-876cc23f3f"
+   ],
+   "chars": 4160
+  },
+  {
+   "no": "序号375–561",
+   "heading": "国内期刊记录（序号 375–561）",
+   "heading_kind": "derived",
+   "lines": [
+    1508,
+    2255
+   ],
+   "items": [
+    "pt-16b141c511",
+    "pt-b953f6f22f"
+   ],
+   "chars": 3429
+  },
+  {
+   "no": "序号562–748",
+   "heading": "国内期刊记录（序号 562–748）",
+   "heading_kind": "derived",
+   "lines": [
+    2256,
+    3003
+   ],
+   "items": [
+    "pt-c6597a21b3",
+    "pt-2d79dda5e4",
+    "pt-1915a6acc5",
+    "pt-f1143b3c0a",
+    "pt-04416cd62d",
+    "pt-8e14710c2c",
+    "pt-c39150dd92",
+    "pt-8913106ad1",
+    "pt-2224003ef2",
+    "pt-03e197a6a3",
+    "pt-3b691e37ad",
+    "pt-0e82155bd6",
+    "pt-67c05f901e",
+    "pt-388fa52022",
+    "pt-70fd7c7cce",
+    "pt-b2d053dba0",
+    "pt-680b9da5ef",
+    "pt-728b21bbcd",
+    "pt-1041826342",
+    "pt-ab9acf8db2",
+    "pt-cba21a320f",
+    "pt-a180531616"
+   ],
+   "chars": 3144
+  }
+ ],
+ "items": [
+  "pt-a390151c69",
+  "pt-e68d47129d",
+  "pt-108452e170",
+  "pt-2df74da7fd",
+  "pt-876cc23f3f",
+  "pt-16b141c511",
+  "pt-b953f6f22f",
+  "pt-c6597a21b3",
+  "pt-2d79dda5e4",
+  "pt-1915a6acc5",
+  "pt-f1143b3c0a",
+  "pt-04416cd62d",
+  "pt-8e14710c2c",
+  "pt-c39150dd92",
+  "pt-8913106ad1",
+  "pt-2224003ef2",
+  "pt-03e197a6a3",
+  "pt-3b691e37ad",
+  "pt-0e82155bd6",
+  "pt-67c05f901e",
+  "pt-388fa52022",
+  "pt-70fd7c7cce",
+  "pt-b2d053dba0",
+  "pt-680b9da5ef",
+  "pt-728b21bbcd",
+  "pt-1041826342",
+  "pt-ab9acf8db2",
+  "pt-cba21a320f",
+  "pt-a180531616"
+ ],
+ "notes": [
+  "表格类文本（图书馆「文献保障」栏目，报刊目录竖排）：第 1 行标题；第 2–5 行是「来源／栏目／作者／发布时间」元信息；第 6 行空行；第 7 行表题重复；第 8–11 行分别是「序号／邮发代号／刊名／刊频」四个列名；第 12 行起为记录，每条固定占 4 行（序号、邮发代号、刊名、刊频），序号 1–748 连续无缺号，共 748 条；第 3004 行为末尾空行。",
+  "无章条编号，全部节为 derived；整表按序号切块：12–759 行＝1–187 号，760–1507 行＝188–374 号，1508–2255 行＝375–561 号，2256–3003 行＝562–748 号。切点都落在记录边界（4 行一组）上，未切断任何条目引文（如 pt-b953f6f22f 跨 1974–2038 行、pt-3b691e37ad 跨 2682–2742 行，均整段留在同一块内）。",
+  "第 7 行是表题重复（页面标题行），按「节首判据」本应归「页面框架」，但 pt-e68d47129d 的引文「图书馆2024年国内期刊目录序号邮发代号刊名刊频」起点正落在该行，不并入就落不了地，故把 7–11 行整体放进「表头」节。",
+  "源数据小瑕疵：748 条中有 225 条的邮发代号不是「02-022」式的三位写法（如「4-800」「8-22」「26-17」）；第 503、643、654、665 号的刊频栏写作「周刊」「双周刊」而非期数。按原文保留，未改写。本文件条目抽样偏后段，前 187 号只有 1 条条目，属 items.json 抽样不均，非落点遗漏。"
+ ]
+}

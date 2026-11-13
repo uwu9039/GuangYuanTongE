@@ -1,1 +1,213 @@
-ew0KICJrZXkiOiAiMjAyNjA1MjktYzI3NTNhMjcxMTQzIiwNCiAidGl0bGUiOiAi5Lit5Zu95Lyg5aqS5aSn5a2m5Lyg5aqS5Y2a54mp6aaG5Zy66aaG566h55CG6KeE5a6aIiwNCiAidHJ1bmNhdGVkIjogZmFsc2UsDQogInNlY3Rpb25zIjogWw0KICB7DQogICAibm8iOiAi6aG16Z2i5qGG5p62IiwNCiAgICJoZWFkaW5nIjogIumhtemdouagh+mimOOAgeagj+ebruWvvOiIquS4juWPkeW4g+S/oeaBryIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDEsDQogICAgNDMNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDIzNA0KICB9LA0KICB7DQogICAibm8iOiAi5LiAIiwNCiAgICJoZWFkaW5nIjogIumdouWQkeekvuS8muWFjei0ueW8gOaUviIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDQ0LA0KICAgIDQ0DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0wNzFkZmQzY2E3Ig0KICAgXSwNCiAgICJjaGFycyI6IDI2DQogIH0sDQogIHsNCiAgICJubyI6ICLkuowiLA0KICAgImhlYWRpbmciOiAi5paw55Sf5YWl6aaG5pWZ6IKy57qz5YWl5pWZ5Yqh5aSE57uf5LiA566h55CGIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNDUsDQogICAgNDUNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWU3NTQ0MWNmYzkiDQogICBdLA0KICAgImNoYXJzIjogMTI5DQogIH0sDQogIHsNCiAgICJubyI6ICLkuIkiLA0KICAgImhlYWRpbmciOiAi5Zui5L2T5Y+C6KeC6aG75o+Q5YmN5Lik5Liq5bel5L2c5pel6aKE57qmIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNDYsDQogICAgNDYNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDY3DQogIH0sDQogIHsNCiAgICJubyI6ICLlm5siLA0KICAgImhlYWRpbmciOiAi5Liq5Lq65YWl6aaG5pa55byP77ya5LiA5Y2h6YCa44CB5Yi36IS45LiO6Lqr5Lu96K+B55m76K6wIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNDcsDQogICAgNDcNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWI4MmY5ODJiNzkiDQogICBdLA0KICAgImNoYXJzIjogODgNCiAgfSwNCiAgew0KICAgIm5vIjogIuS6lCIsDQogICAiaGVhZGluZyI6ICLppoblhoXlip7lsZXjgIHmi43mkYTnrYnpnZ7lj4Lop4LkuovlrpzpobvnlLPor7fmiqXmibkiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA0OCwNCiAgICA0OA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogNjcNCiAgfSwNCiAgew0KICAgIm5vIjogIuWFrSIsDQogICAiaGVhZGluZyI6ICLosKLnu53lhaXppobnmoTmg4XlvaIiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA0OSwNCiAgICA0OQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtODE5MTViMWNjNyINCiAgIF0sDQogICAiY2hhcnMiOiAzOQ0KICB9LA0KICB7DQogICAibm8iOiAi5LiDIiwNCiAgICJoZWFkaW5nIjogIueIseaKpOWFrOWFseiuvuaWve+8jOS4jeW+l+engeiHquinpuaRuOWxleWTgSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDUwLA0KICAgIDUwDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAyOA0KICB9LA0KICB7DQogICAibm8iOiAi5YWrIiwNCiAgICJoZWFkaW5nIjogIuaOpeWPl+WuieajgO+8jOemgeatouaQuuW4puWNsemZqeWTgeWFpemmhiIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDUxLA0KICAgIDUxDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC04ZDI4NDU2MWQ1Ig0KICAgXSwNCiAgICJjaGFycyI6IDM2DQogIH0sDQogIHsNCiAgICJubyI6ICLkuZ0iLA0KICAgImhlYWRpbmciOiAi5YyF6KO55a+E5a2Y5LiO6LS16YeN54mp5ZOB5L+d566hIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNTIsDQogICAgNTINCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDIxDQogIH0sDQogIHsNCiAgICJubyI6ICLljYEiLA0KICAgImhlYWRpbmciOiAi5pyq57uP5om55YeG56aB5q2i5Zyo6aaG5YaF5ouN5pGEIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNTMsDQogICAgNTMNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWJjOTcxM2UzOTgiDQogICBdLA0KICAgImNoYXJzIjogNTYNCiAgfSwNCiAgew0KICAgIm5vIjogIuWNgeS4gCIsDQogICAiaGVhZGluZyI6ICLnpoHmraLmkLrlhaXpo5/lk4Hppa7mlpnkuI7ppoblhoXlkLjng58iLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1NCwNCiAgICA1NA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtYjUzZDVlYjc1ZCINCiAgIF0sDQogICAiY2hhcnMiOiAzNg0KICB9LA0KICB7DQogICAibm8iOiAi5Y2B5LqMIiwNCiAgICJoZWFkaW5nIjogIumBteWuiOWPguinguenqeW6j+S4jumXuOacuumAmuihjCIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDU1LA0KICAgIDU1DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1lYjg2ZDRlNzYzIg0KICAgXSwNCiAgICJjaGFycyI6IDM3DQogIH0sDQogIHsNCiAgICJubyI6ICLljYHkuIkiLA0KICAgImhlYWRpbmciOiAi5pyN5LuO5bel5L2c5Lq65ZGY566h55CG5LiO56qB5Y+R5LqL5Lu25pKk56a7IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNTYsDQogICAgNTcNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWRjYmZlYmU0MGQiDQogICBdLA0KICAgImNoYXJzIjogNDMNCiAgfSwNCiAgew0KICAgIm5vIjogIuWNgeWbmyIsDQogICAiaGVhZGluZyI6ICLop6Pph4rljZXkvY3kuI7okL3mrL4iLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1OCwNCiAgICA2MA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNTM4ZDQ4MWQwOCIsDQogICAgInB0LTYyYzJjN2M2YzciDQogICBdLA0KICAgImNoYXJzIjogMzgNCiAgfQ0KIF0sDQogIml0ZW1zIjogWw0KICAicHQtMDcxZGZkM2NhNyIsDQogICJwdC1lNzU0NDFjZmM5IiwNCiAgInB0LWI4MmY5ODJiNzkiLA0KICAicHQtODE5MTViMWNjNyIsDQogICJwdC04ZDI4NDU2MWQ1IiwNCiAgInB0LWJjOTcxM2UzOTgiLA0KICAicHQtYjUzZDVlYjc1ZCIsDQogICJwdC1lYjg2ZDRlNzYzIiwNCiAgInB0LWRjYmZlYmU0MGQiLA0KICAicHQtNTM4ZDQ4MWQwOCIsDQogICJwdC02MmMyYzdjNmM3Ig0KIF0sDQogIm5vdGVzIjogWw0KICAi5Y6f5paH5Li6572R6aG15oqT5Y+W5q2j5paH77ya56ysMeKAlDLooYzkuLrpobXpnaLmoIfpopjkuI7miYDlsZ7pg6jpl6jvvIznrKwz4oCUNDHooYzkuLrnq5nngrnlr7zoiKrmoI/nm67nm67lvZXvvIznrKw0MuKAlDQz6KGM5Li66YeN5aSN5qCH6aKY5LiO44CM5Y+R5biD6ICFL+WPkeW4g+aXtumXtC/mtY/op4jmrKHmlbDjgI3vvIzlnYfpnZ7nq6DoioLlhoXlrrnvvIzlkIjlubbkuLrjgIzpobXpnaLmoYbmnrbjgI3kuIDoioLvvIhkZXJpdmVk77yJ44CCIiwNCiAgIuato+aWh+adoeaWh+WPquacieOAjOS4gOOAgeKAlOWNgeWbm+OAgeOAjeW6j+WPt++8jOaXoOS9nOiAheWwj+agh+mimO+8jDE0IOiKgiBoZWFkaW5nIOWdh+S4uuaNruadoeaWh+WGheWuueamguaLrO+8iGRlcml2ZWTvvInjgIIiLA0KICAi56ysNTbigJQ1N+ihjOOAjOWNgeS4ieOAjeadoeiiq+aNouihjOaIquaWre+8iOOAjOi/hemAn++8jOacieW6j++8j+aSpOemu+OAje+8ie+8jOivpeiKguWMuumXtOWPluS4pOihjOOAgiIsDQogICLjgIzljYHlm5vjgI3mnaHlkKvkuIvpg6jokL3mrL7jgIzkuK3lm73kvKDlqpLlpKflrabkvKDlqpLljZrnianppobvvI8yMDI25bm0NeaciOOAje+8iOesrDU54oCUNjDooYzvvInvvIzmlYXor6XoioLljLrpl7TliLDnrKw2MOihjO+8m+adoeebriBwdC02MmMyYzdjNmM3IOeahOW8leaWh+WNs+i3qOesrDU44oCUNTnooYzjgIIiLA0KICAi56ysNjHigJQ2M+ihjOS4uumhteiEmu+8iOeJiOadg+OAgeS6rElDUOWkh+WPt+OAgeWcsOWdgO+8ieS4jumZhOS7tuiuv+mXruiuoeaVsOmTvuaOpe+8jOacque6s+WFpeS7u+S9leiKguOAgiINCiBdDQp9DQo=
+{
+ "key": "20260529-c2753a271143",
+ "title": "中国传媒大学传媒博物馆场馆管理规定",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "页面框架",
+   "heading": "页面标题、栏目导航与发布信息",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    43
+   ],
+   "items": [],
+   "chars": 234
+  },
+  {
+   "no": "一",
+   "heading": "面向社会免费开放",
+   "heading_kind": "derived",
+   "lines": [
+    44,
+    44
+   ],
+   "items": [
+    "pt-071dfd3ca7"
+   ],
+   "chars": 26
+  },
+  {
+   "no": "二",
+   "heading": "新生入馆教育纳入教务处统一管理",
+   "heading_kind": "derived",
+   "lines": [
+    45,
+    45
+   ],
+   "items": [
+    "pt-e75441cfc9"
+   ],
+   "chars": 129
+  },
+  {
+   "no": "三",
+   "heading": "团体参观须提前两个工作日预约",
+   "heading_kind": "derived",
+   "lines": [
+    46,
+    46
+   ],
+   "items": [],
+   "chars": 67
+  },
+  {
+   "no": "四",
+   "heading": "个人入馆方式：一卡通、刷脸与身份证登记",
+   "heading_kind": "derived",
+   "lines": [
+    47,
+    47
+   ],
+   "items": [
+    "pt-b82f982b79"
+   ],
+   "chars": 88
+  },
+  {
+   "no": "五",
+   "heading": "馆内办展、拍摄等非参观事宜须申请报批",
+   "heading_kind": "derived",
+   "lines": [
+    48,
+    48
+   ],
+   "items": [],
+   "chars": 67
+  },
+  {
+   "no": "六",
+   "heading": "谢绝入馆的情形",
+   "heading_kind": "derived",
+   "lines": [
+    49,
+    49
+   ],
+   "items": [
+    "pt-81915b1cc7"
+   ],
+   "chars": 39
+  },
+  {
+   "no": "七",
+   "heading": "爱护公共设施，不得私自触摸展品",
+   "heading_kind": "derived",
+   "lines": [
+    50,
+    50
+   ],
+   "items": [],
+   "chars": 28
+  },
+  {
+   "no": "八",
+   "heading": "接受安检，禁止携带危险品入馆",
+   "heading_kind": "derived",
+   "lines": [
+    51,
+    51
+   ],
+   "items": [
+    "pt-8d284561d5"
+   ],
+   "chars": 36
+  },
+  {
+   "no": "九",
+   "heading": "包裹寄存与贵重物品保管",
+   "heading_kind": "derived",
+   "lines": [
+    52,
+    52
+   ],
+   "items": [],
+   "chars": 21
+  },
+  {
+   "no": "十",
+   "heading": "未经批准禁止在馆内拍摄",
+   "heading_kind": "derived",
+   "lines": [
+    53,
+    53
+   ],
+   "items": [
+    "pt-bc9713e398"
+   ],
+   "chars": 56
+  },
+  {
+   "no": "十一",
+   "heading": "禁止携入食品饮料与馆内吸烟",
+   "heading_kind": "derived",
+   "lines": [
+    54,
+    54
+   ],
+   "items": [
+    "pt-b53d5eb75d"
+   ],
+   "chars": 36
+  },
+  {
+   "no": "十二",
+   "heading": "遵守参观秩序与闸机通行",
+   "heading_kind": "derived",
+   "lines": [
+    55,
+    55
+   ],
+   "items": [
+    "pt-eb86d4e763"
+   ],
+   "chars": 37
+  },
+  {
+   "no": "十三",
+   "heading": "服从工作人员管理与突发事件撤离",
+   "heading_kind": "derived",
+   "lines": [
+    56,
+    57
+   ],
+   "items": [
+    "pt-dcbfebe40d"
+   ],
+   "chars": 43
+  },
+  {
+   "no": "十四",
+   "heading": "解释单位与落款",
+   "heading_kind": "derived",
+   "lines": [
+    58,
+    60
+   ],
+   "items": [
+    "pt-538d481d08",
+    "pt-62c2c7c6c7"
+   ],
+   "chars": 38
+  }
+ ],
+ "items": [
+  "pt-071dfd3ca7",
+  "pt-e75441cfc9",
+  "pt-b82f982b79",
+  "pt-81915b1cc7",
+  "pt-8d284561d5",
+  "pt-bc9713e398",
+  "pt-b53d5eb75d",
+  "pt-eb86d4e763",
+  "pt-dcbfebe40d",
+  "pt-538d481d08",
+  "pt-62c2c7c6c7"
+ ],
+ "notes": [
+  "原文为网页抓取正文：第1—2行为页面标题与所属部门，第3—41行为站点导航栏目目录，第42—43行为重复标题与「发布者/发布时间/浏览次数」，均非章节内容，合并为「页面框架」一节（derived）。",
+  "正文条文只有「一、—十四、」序号，无作者小标题，14 节 heading 均为据条文内容概括（derived）。",
+  "第56—57行「十三」条被换行截断（「迅速，有序／撤离」），该节区间取两行。",
+  "「十四」条含下部落款「中国传媒大学传媒博物馆／2026年5月」（第59—60行），故该节区间到第60行；条目 pt-62c2c7c6c7 的引文即跨第58—59行。",
+  "第61—63行为页脚（版权、京ICP备号、地址）与附件访问计数链接，未纳入任何节。"
+ ]
+}

@@ -1,1 +1,134 @@
-ew0KICJrZXkiOiAiMjAyNjA1MjktYzI3NTNhMjcxMTQwIiwNCiAidGl0bGUiOiAi5Lit5Zu95Lyg5aqS5aSn5a2m5Zu+5Lmm6aaG5paH54yu5YCf6ZiF6KeE5a6aIiwNCiAidHJ1bmNhdGVkIjogZmFsc2UsDQogInNlY3Rpb25zIjogWw0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuagh+mimOS4juermeeCueWvvOiIquWMuiIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDEsDQogICAgNDMNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWZhZDA0NTg5NDkiDQogICBdLA0KICAgImNoYXJzIjogMjMwDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5Yi25a6a5L6d5o2uIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNDQsDQogICAgNDQNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWYyMDljY2FkZDAiDQogICBdLA0KICAgImNoYXJzIjogNzANCiAgfSwNCiAgew0KICAgIm5vIjogIuS4gOOAgSIsDQogICAiaGVhZGluZyI6ICLlpJblgJ/lm77kuaYiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDQ1LA0KICAgIDcwDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiA1NzQNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLmsaHmjZ/jgIHkuKLlpLHlm77kuabotZTlgb/moIflh4YiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1MCwNCiAgICA3MA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtYWJhODRjMmFlOCINCiAgIF0sDQogICAiY2hhcnMiOiA0NDkNCiAgfSwNCiAgew0KICAgIm5vIjogIuS6jOOAgSIsDQogICAiaGVhZGluZyI6ICLkuabliIrpmIXop4giLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDcxLA0KICAgIDc4DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC04ZjA4ZTBkNTE5IiwNCiAgICAicHQtOTYyZDI3YzM5ZiIsDQogICAgInB0LWYxMTZkYTM0ZjUiLA0KICAgICJwdC00MmY4NjcyZWY3Ig0KICAgXSwNCiAgICJjaGFycyI6IDM1Nw0KICB9LA0KICB7DQogICAibm8iOiAi5LiJ44CBIiwNCiAgICJoZWFkaW5nIjogIuW6k+acrOaWh+eMruafpemYhSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNzksDQogICAgODINCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTQ2NDY5OWJlMDUiLA0KICAgICJwdC04NjhlMjc4Yzc1IiwNCiAgICAicHQtMzQ5OGQxNjllNiINCiAgIF0sDQogICAiY2hhcnMiOiAyMzENCiAgfSwNCiAgew0KICAgIm5vIjogIuWbm+OAgSIsDQogICAiaGVhZGluZyI6ICLmnKzop4Tlrproh6rlhazluIPkuYvml6Xotbflrp7mlr3vvIznlLHlm77kuabppobotJ/otKPop6Pph4oiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDgzLA0KICAgIDgzDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC03ZThiY2VmYmFmIg0KICAgXSwNCiAgICJjaGFycyI6IDIzDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi6aG16ISa5LiO5aSH5qGI5L+h5oGvIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgODQsDQogICAgODYNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDExMg0KICB9DQogXSwNCiAiaXRlbXMiOiBbDQogICJwdC1hYmE4NGMyYWU4IiwNCiAgInB0LWZhZDA0NTg5NDkiLA0KICAicHQtZjIwOWNjYWRkMCIsDQogICJwdC04ZjA4ZTBkNTE5IiwNCiAgInB0LTk2MmQyN2MzOWYiLA0KICAicHQtZjExNmRhMzRmNSIsDQogICJwdC00MmY4NjcyZWY3IiwNCiAgInB0LTQ2NDY5OWJlMDUiLA0KICAicHQtODY4ZTI3OGM3NSIsDQogICJwdC0zNDk4ZDE2OWU2IiwNCiAgInB0LTdlOGJjZWZiYWYiDQogXSwNCiAibm90ZXMiOiBbDQogICLnrKwgMSDooYzmmK/pobXpnaLmoIfpopjvvJvnrKwgMuKAkzQxIOihjOaYr+ermeeCueWvvOiIqu+8j+agj+ebruiPnOWNle+8iOOAjOWtpueUn+W3peS9nOmDqO+8iOWkhO+8ie+8iOatpuijhemDqO+8ieOAjeOAjOmmlumhteOAjeOAjOmDqOmXqOeugOS7i+OAjeKApuOAjOW4uOeUqOS4i+i9veOAje+8ieeahOaKveWPluWZquWjsO+8m+esrCA0MiDooYzph43lpI3kuIDmrKHmraPmlofmoIfpopjvvJvnrKwgNDMg6KGM5piv44CM5Y+R5biD6ICF77ya5Y+R5biD5pe26Ze077yaMjAyNi0wNy0xNua1j+iniOasoeaVsO+8mjEy44CN5YWD5L+h5oGv6KGM44CC6L+Z5Lqb5bm25oiQ6aaW6IqC44CM5qCH6aKY5LiO56uZ54K55a+86Iiq5Yy644CN77yIMeKAkzQz77yJ77yacHQtZmFkMDQ1ODk0OSDnmoTlvJXmlofvvIjmoIfpopjvvInokL3lnKjov5nph4zvvIzmlYXkuI3nu5nlr7zoiKrljZXni6zmi4boioLjgIIiLA0KICAi56ysIDQ0IOihjOaYr+WItuWumuS+neaNruWvvOivre+8iOOAjOS4uuinhOiMg+S4reWbveS8oOWqkuWkp+WtpuWbvuS5pummhuaWh+eMruWAn+mYhe+8jOagueaNruaVmeiCsumDqOKApueJueWItuWumuacrOinhOWumuOAguOAje+8ie+8jOWNleWIl+S4gOiKgu+8jOiKguWQjeaIkeamguaLrO+8iGRlcml2ZWTvvInjgIIiLA0KICAi44CM5LiA44CB5aSW5YCf5Zu+5Lmm44CN77yINDXigJM3MO+8ieWQq++8iOS4gO+8ieKAk++8iOS6lO+8ieS6lOS4quWIhumhue+8jOWIhumhueayoeacieeLrOeri+Wwj+agh+mimO+8jOWdh+acquWNleWIl+iKgu+8m+WFtuS4re+8iOS6lO+8ieaxoeaNn+OAgeS4ouWkseWbvuS5pui1lOWBv++8iDUw4oCTNzDvvInlj6bliJflrZDoioLjgIzmsaHmjZ/jgIHkuKLlpLHlm77kuabotZTlgb/moIflh4bjgI3vvIhkZXJpdmVk77yM55yf5bWM5aWX5ZyoIDQ14oCTNzAg5YaF77yJ77yacHQtYWJhODRjMmFlOCDnmoTlvJXmlofmmK/lpJrooYzotZTlgb/moIflh4bvvIjnrKwgOCDpobnjgIzml6Dms5Xnoa7lrprljp/ku7fjgI3lj4rvvIgx77yJ77yIMu+8ieS4reaWh+S5pu+8j+WkluaWh+S5puWIhuaho++8ie+8jOiQveWcqOivpeWtkOiKguOAgiIsDQogICLnrKwgNTDigJM3MCDooYzljp/mlofmnKzmmK/lpJrlsYLnvJblj7fvvIgxLuKAkzguIOKGku+8iDHvvInvvIgy77yJ4oaSIOKRoOKRoSDihpIgYS5iLmMu77yJ77yM5oq95Y+W5ZCO5LiA6KGM5LiA5p2h77yM5oyJ5Y6f5paH6KGM5bqP5L+d55WZ77yM5pyq5ouG6IqC54K544CCIiwNCiAgIuOAjOWbm+OAgeOAjeWOn+aWh+WPquacieS4gOWPpeOAjOacrOinhOWumuiHquWFrOW4g+S5i+aXpei1t+WunuaWve+8jOeUseWbvuS5pummhui0n+i0o+ino+mHiuOAguOAje+8jOayoeacieWwj+agh+mimO+8jOiKguWQjeWPluWOn+aWh+WPpemmlu+8iOiDveWcqOacrOiKgumAkOWtl+aJvuWIsO+8jOaVheaghyBhdXRob3LvvInjgIIiLA0KICAi56ysIDg04oCTODYg6KGM5piv6aG16ISa77yI44CM5Lit5Zu95Lyg5aqS5aSn5a2mIC8g5LqsIElDUCDlpIcgMTAwMzk1NjQg5Y+3IOS6rOWFrOe9keWuieWkhyAxMTA0MDI0MzAwMzEg5Y+344CN44CM5YyX5Lqs5biC5pyd6Ziz5Yy65a6a56aP5bqE5Lic6KGXMeWPt+OAje+8ieS4juiuv+mXruiuoeaVsOmZhOS7tuihjO+8jOWNleWIl+acq+iKgu+8iGRlcml2ZWTvvInjgIIiLA0KICAi5YWo6YOoIDExIOS4quadoeebrumDveW8leeUqOacrOaWh++8iOaXoCBydWxlLSDmlofmoaPnuqfmnaHnm67vvInvvJvlhajmlofmnKrop4HmiKrmlq3vvJrmraPmlofliLDjgIzlm5vjgIHjgI3nu5PmnZ/vvIzkuI7nvZHpobXljp/mlofkuIDoh7TjgIIiDQogXQ0KfQ0K
+{
+ "key": "20260529-c2753a271140",
+ "title": "中国传媒大学图书馆文献借阅规定",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "标题与站点导航区",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    43
+   ],
+   "items": [
+    "pt-fad0458949"
+   ],
+   "chars": 230
+  },
+  {
+   "no": "—",
+   "heading": "制定依据",
+   "heading_kind": "derived",
+   "lines": [
+    44,
+    44
+   ],
+   "items": [
+    "pt-f209ccadd0"
+   ],
+   "chars": 70
+  },
+  {
+   "no": "一、",
+   "heading": "外借图书",
+   "heading_kind": "author",
+   "lines": [
+    45,
+    70
+   ],
+   "items": [],
+   "chars": 574
+  },
+  {
+   "no": "—",
+   "heading": "污损、丢失图书赔偿标准",
+   "heading_kind": "derived",
+   "lines": [
+    50,
+    70
+   ],
+   "items": [
+    "pt-aba84c2ae8"
+   ],
+   "chars": 449
+  },
+  {
+   "no": "二、",
+   "heading": "书刊阅览",
+   "heading_kind": "author",
+   "lines": [
+    71,
+    78
+   ],
+   "items": [
+    "pt-8f08e0d519",
+    "pt-962d27c39f",
+    "pt-f116da34f5",
+    "pt-42f8672ef7"
+   ],
+   "chars": 357
+  },
+  {
+   "no": "三、",
+   "heading": "库本文献查阅",
+   "heading_kind": "author",
+   "lines": [
+    79,
+    82
+   ],
+   "items": [
+    "pt-464699be05",
+    "pt-868e278c75",
+    "pt-3498d169e6"
+   ],
+   "chars": 231
+  },
+  {
+   "no": "四、",
+   "heading": "本规定自公布之日起实施，由图书馆负责解释",
+   "heading_kind": "author",
+   "lines": [
+    83,
+    83
+   ],
+   "items": [
+    "pt-7e8bcefbaf"
+   ],
+   "chars": 23
+  },
+  {
+   "no": "—",
+   "heading": "页脚与备案信息",
+   "heading_kind": "derived",
+   "lines": [
+    84,
+    86
+   ],
+   "items": [],
+   "chars": 112
+  }
+ ],
+ "items": [
+  "pt-aba84c2ae8",
+  "pt-fad0458949",
+  "pt-f209ccadd0",
+  "pt-8f08e0d519",
+  "pt-962d27c39f",
+  "pt-f116da34f5",
+  "pt-42f8672ef7",
+  "pt-464699be05",
+  "pt-868e278c75",
+  "pt-3498d169e6",
+  "pt-7e8bcefbaf"
+ ],
+ "notes": [
+  "第 1 行是页面标题；第 2–41 行是站点导航／栏目菜单（「学生工作部（处）（武装部）」「首页」「部门简介」…「常用下载」）的抽取噪声；第 42 行重复一次正文标题；第 43 行是「发布者：发布时间：2026-07-16浏览次数：12」元信息行。这些并成首节「标题与站点导航区」（1–43）：pt-fad0458949 的引文（标题）落在这里，故不给导航单独拆节。",
+  "第 44 行是制定依据导语（「为规范中国传媒大学图书馆文献借阅，根据教育部…特制定本规定。」），单列一节，节名我概括（derived）。",
+  "「一、外借图书」（45–70）含（一）–（五）五个分项，分项没有独立小标题，均未单列节；其中（五）污损、丢失图书赔偿（50–70）另列子节「污损、丢失图书赔偿标准」（derived，真嵌套在 45–70 内）：pt-aba84c2ae8 的引文是多行赔偿标准（第 8 项「无法确定原价」及（1）（2）中文书／外文书分档），落在该子节。",
+  "第 50–70 行原文本是多层编号（1.–8. →（1）（2）→ ①② → a.b.c.），抽取后一行一条，按原文行序保留，未拆节点。",
+  "「四、」原文只有一句「本规定自公布之日起实施，由图书馆负责解释。」，没有小标题，节名取原文句首（能在本节逐字找到，故标 author）。",
+  "第 84–86 行是页脚（「中国传媒大学 / 京 ICP 备 10039564 号 京公网安备 110402430031 号」「北京市朝阳区定福庄东街1号」）与访问计数附件行，单列末节（derived）。",
+  "全部 11 个条目都引用本文（无 rule- 文档级条目）；全文未见截断：正文到「四、」结束，与网页原文一致。"
+ ]
+}

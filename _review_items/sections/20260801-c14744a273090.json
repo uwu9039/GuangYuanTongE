@@ -1,1 +1,107 @@
-ewogImtleSI6ICIyMDI2MDgwMS1jMTQ3NDRhMjczMDkwIiwKICJ0aXRsZSI6ICLkv6Hmga/kvKDmkq3lrabpmaLpooblr7znj63lrZDmiJDlkZjorrLmjojmoJHnq4vlkozot7XooYzmraPnoa7mlL/nu6nop4LkuJPpopjlhZror74iLAogInRydW5jYXRlZCI6IGZhbHNlLAogInNlY3Rpb25zIjogWwogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIumhtemdouahhuaetu+8iOmhtemdouagh+mimOOAgeWFqOermeWvvOiIquOAgeagj+ebrumdouWMheWxke+8iSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFsxLCAzNF0sCiAgICJpdGVtcyI6IFsicHQtYWVmMjgzNDc0MiJdLAogICAiY2hhcnMiOiAzMTYKICB9LAogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIuato+aWh+agh+mimOS4juWPkeW4g+S/oeaBryIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFszNSwgMzZdLAogICAiaXRlbXMiOiBbInB0LWFlZjI4MzQ3NDIiXSwKICAgImNoYXJzIjogNTAKICB9LAogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIuWvvOivre+8muePreWtkOWFqOWRmOiusuWFmuivvueahOaAu+S9k+aDheWGtSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFszNywgMzddLAogICAiaXRlbXMiOiBbInB0LWMxY2M4ZDYyMWUiXSwKICAgImNoYXJzIjogMTMxCiAgfSwKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLlhZror77nuqrlrp7vvIjkupTlnLrlhZror77jgIHnjrDlnLrlm77niYfkuI7lm77ms6jvvIkiLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbMzgsIDU2XSwKICAgIml0ZW1zIjogW10sCiAgICJjaGFycyI6IDE3NzAKICB9LAogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIuS7mOmVv+a1t+S5puiusOWFmuivviIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFszOCwgNDFdLAogICAiaXRlbXMiOiBbInB0LTU3MTQ4NmE0OGUiLCAicHQtODNlZTU4ZmE0ZSIsICJwdC1mYjNlZGQ1ZTc3IiwgInB0LWU0NWFhN2JmYzYiXSwKICAgImNoYXJzIjogNTAyCiAgfSwKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLmnY7oiJLpmaLplb/lhZror74iLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbNDIsIDQ0XSwKICAgIml0ZW1zIjogWyJwdC03MmRkYmIzMTBjIiwgInB0LTgxZWM1NzM5YzIiXSwKICAgImNoYXJzIjogMzc5CiAgfSwKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLotbXkuLnlia/kuaborrDlhZror74iLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbNDUsIDQ3XSwKICAgIml0ZW1zIjogWyJwdC1mZmY2ODAxNWNmIl0sCiAgICJjaGFycyI6IDIxNgogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi5p2O57un5Lic5Ymv6Zmi6ZW/5YWa6K++IiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzQ4LCA1MF0sCiAgICJpdGVtcyI6IFsicHQtNzMxY2VkNjczZiJdLAogICAiY2hhcnMiOiAyMDAKICB9LAogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIuW8oOejiuWJr+mZoumVv+WFmuivviIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFs1MSwgNTNdLAogICAiaXRlbXMiOiBbInB0LTMxODExOGJkZWEiXSwKICAgImNoYXJzIjogMjA1CiAgfSwKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLlhZror77mgLvnu5PkuI7lrabpmaLkuIvkuIDmraXkuL7mjqoiLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbNTQsIDU2XSwKICAgIml0ZW1zIjogWyJwdC02NDY3YjcxMjUxIl0sCiAgICJjaGFycyI6IDI2OAogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi6aG16ISa77yI5Y+L5oOF6ZO+5o6l44CB5Zyw5Z2A44CB54mI5p2D5LiO6K6/6Zeu6K6h5pWw77yJIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzU3LCA3NF0sCiAgICJpdGVtcyI6IFtdLAogICAiY2hhcnMiOiA0MDUKICB9CiBdLAogIml0ZW1zIjogWyJwdC1hZWYyODM0NzQyIiwgInB0LWMxY2M4ZDYyMWUiLCAicHQtNTcxNDg2YTQ4ZSIsICJwdC04M2VlNThmYTRlIiwgInB0LWZiM2VkZDVlNzciLCAicHQtZTQ1YWE3YmZjNiIsICJwdC03MmRkYmIzMTBjIiwgInB0LTgxZWM1NzM5YzIiLCAicHQtZmZmNjgwMTVjZiIsICJwdC03MzFjZWQ2NzNmIiwgInB0LTMxODExOGJkZWEiLCAicHQtNjQ2N2I3MTI1MSJdLAogIm5vdGVzIjogWwogICLnvZHpobXmir3ku7bvvIjkv6Hmga/kvKDmkq3lrabpmaLjgIzlhZrlu7rliqjmgIHjgI3moI/nm67vvInvvJrnrKwgMSDooYzkuLrpobXpnaLmoIfpopjvvIznrKwgMuKAkzMwIOihjOS4uiBsb2dv44CB5YWo56uZ5a+86Iiq77yI5YWz5LqO5oiR5Lus77yP5a2m6ICF6aOO6YeH77yP5a2m55Sf5Z+55YW777yP5a2m5pyv56CU56m277yP5YWa576k5bel5L2c77yP5Zu96ZmF5ZCI5L2c562J77yJ5LiO5qCP55uuIGJhbm5lcu+8jOesrCAzMeKAkzM0IOihjOS4uuOAjOWFmue+pOW3peS9nOOAjeOAjOmmlumhtSDlhZrnvqTlt6XkvZwg5YWa5bu65Yqo5oCB44CN44CM5YWa5bu65Yqo5oCB44CN44CM5Zui5a2m5Yqo5oCB44CN5qCP55uu5LiO6Z2i5YyF5bGR77yb6L+ZIDM0IOihjOWQiOW5tuS4uuOAjOmhtemdouahhuaetuOAjeS4gOiKguOAguesrCAzNSDooYzmraPmlofmoIfpopjkuI7nrKwgMSDooYzph43lpI3jgIHnrKwgMzYg6KGM5Li644CM5Y+R5biD5pe26Ze077yaMjAyNi0wOC0wMea1j+iniOasoeaVsO+8mjEw44CN77yM5ZCI5Li644CM5q2j5paH5qCH6aKY5LiO5Y+R5biD5L+h5oGv44CN5LiA6IqC44CCIiwKICAicHQtYWVmMjgzNDc0MiDnmoTlvJXmloflsLHmmK/moIfpopjjgIzkv6Hmga/kvKDmkq3lrabpmaLpooblr7znj63lrZDmiJDlkZjorrLmjojmoJHnq4vlkozot7XooYzmraPnoa7mlL/nu6nop4LkuJPpopjlhZror77jgI3vvIzor6XlrZfnrKbkuLLlnKjpobXpnaLmoIfpopjvvIjnrKwgMSDooYzvvInkuI7mraPmlofmoIfpopjvvIjnrKwgMzUg6KGM77yJ5ZCE5Ye6546w5LiA5qyh77yM5pWF44CM6aG16Z2i5qGG5p6244CN44CM5q2j5paH5qCH6aKY5LiO5Y+R5biD5L+h5oGv44CN5Lik6IqC5ZCE5YiX5LiA5qyh44CCIiwKICAi5pys5Lu9KirmsqHmnIkgcnVsZS0g5paH5qGj57qn5p2h55uuKirvvJoxMiDmnaHmnaHnm67lhajmmK8gcHQtKu+8jOWdh+acieW8leaWh+W5tuWQhOiHquiQveWcqOiKguWGhe+8jOaWh+aho+e6pyBpdGVtcyDlm6DmraTlsLHmmK/lvJXnlKjmnKzmlofnmoTlhajpg6ggMTIg5p2h44CCIiwKICAi5pys5paH5piv5Zu+5paH5re35o6S55qE5YWa6K++57qq5a6e77yM5Y6f5paHKirmsqHmnInlsI/moIfpopgqKu+8iOmhtemdoumdoOeFp+eJh+S4juWbvuazqOWIhuaute+8ie+8jOaVheaJgOaciSBoZWFkaW5nIOWdh+S4uuamguaLrOeahCBkZXJpdmVk77yMbm8g57uf5LiA6K6w44CM4oCU44CN44CC6Zmk44CM6aG16Z2i5qGG5p6244CN44CM5q2j5paH5qCH6aKY5LiO5Y+R5biD5L+h5oGv44CN44CM5a+86K+t44CN44CM6aG16ISa44CN5aSW77yM56ysIDM44oCTNTYg6KGM56uL5LiA5Liq54i26IqC44CM5YWa6K++57qq5a6e44CN77yM5YW25LiL5oyJ5Li76K6y5Lq65YiGIDYg5Liq5a2Q6IqC77yI55yf5bWM5aWX77yJ44CCIiwKICAi5Zu+5rOo6aG65bqP5LiO5p2h55uu55qE5a+55bqU77ya5Y6f6aG16Z2i6aG65bqP5piv44CM5q2j5paH5q61IOKGkiDor6XlnLrnjrDlnLrnhafniYcg4oaSIOWbvuazqOOAje+8jOi9rOWGmeWQjuavj+W8oOOAjFvpmYTku7ZdIOWbvueJh+OAjeihjOS4jue0p+maj+eahOWbvuazqOihjOaOkuWcqOivpeauteS5i+WQjuOAgeS4i+S4gOauteS5i+WJje+8m+iAjCA2IOadoeadoeebrueahOW8leaWh+mDveS7peOAjOWbvuazqO+8i+S4i+S4gOauteato+aWh+OAjei/nuivu+i1t+eul++8iHB0LTgzZWU1OGZhNGXjgIFwdC03MmRkYmIzMTBj44CBcHQtZmZmNjgwMTVjZuOAgXB0LTczMWNlZDY3M2bjgIFwdC0zMTgxMThiZGVh44CBcHQtNjQ2N2I3MTI1Me+8ie+8jOS4jeaKiuWbvuazqOihjOW5tui/m+S4i+S4gOiKguWwseiQveS4jeS6huWcsO+8jOaVheWQhOWtkOiKgueahCBsaW5lc1swXSDmmK/kuIrkuIDlnLrlhZror77nmoTlm77niYfooYzjgIHlm77ms6jooYzokL3lnKjmnKzoioLlhoXvvIjlpoLjgIzluIjnlJ/lhZrlkZjlj4LliqDkuJPpopjlhZror77lrabkuaDjgI3jgIzmnY7oiJLpmaLplb/nu5PlkIjlrabkuaDlrabmoKHnrKzlm5vmrKHlhZrku6PkvJrnsr7npZ7orrLmjojkuJPpopjlhZror77jgI3vvInjgILov5nmmK/mjInoioLpppbliKTmja7nmoTkvovlpJbmnaHmrL7lpITnkIbvvIzpgJDmnaHlnKjmraTor7TmmI7jgIIiLAogICLlkITlrZDoioLlhoXlrrnlr7nlupTvvJozOOKAkzQxIOS7mOmVv+a1t+S5puiusO+8iOWQq+eOsOWcuuWbvuS4juS4pOW8oOWbvuazqOS5i+S4gO+8ie+8i+WFtuWFmuivvuimgeeCue+8mzQy4oCTNDQg5p2O6IiS6Zmi6ZW/77yI57q/5LiK5Lya6K6u77yM5paw6Ze76IiG6K6657O75pWZ5bel5YWa5pSv6YOo5LiO57yW6L6R5Ye654mI5a2m55Sf5pSv6YOo5Y+C5Yqg77yJ77ybNDXigJM0NyDotbXkuLnlia/kuaborrDvvIjmmL7nu6nkuI7mvZznu6njgIHkuKrkurrkuI7pm4bkvZPjgIHov4fnqIvkuI7nu5PmnpzjgIHoh6rmiJHkuI7ku5bkurrlm5vnu4TlhbPns7vvvInvvJs0OOKAkzUwIOadjue7p+S4nOWJr+mZoumVv++8iOaWsOWPkeWxleeQhuW/teOAgeS7peS6uuawkeS4uuS4reW/g++8ie+8mzUx4oCTNTMg5byg56OK5Ymv6Zmi6ZW/77yI44CM5L+h5Luw5LiO56eR5a2m77ya6L6b6aG/5a625peP5Lit5Zu95pWF5LqL44CN77yJ77ybNTTigJM1NiDlvKDno4rlnLrmrKHlm77ms6jvvIvmnKzmrKHlhZror77nmoTmgLvnu5PkuI7lrabpmaLkuIvkuIDmraXkuL7mjqrjgIIiLAogICLnrKwgMzgg6KGM44CMNiDmnIggMjQg5pel5LiL5Y2I4oCm5Lul44CK5qCR56uL5ZKM6Le16KGM5q2j56Gu5pS/57up6KeCIOiBmuWKm+WunuW5suaOqOWKqOmrmOi0qOmHj+WPkeWxleKAlOKAlOmUmuWumuWtpuagoeesrOWbm+asoeWFmuS7o+S8muebruaghyDmsYfogZrkv6HkvKDlpYvov5vlkIjlipvjgIvkuLrpopjjgI3mmK/lhZror77popjnm67vvIzpopjlkI3lhoXmnInkuKTlpITnqbrmoLzvvIzmjInljp/mlofkv53nlZnvvIzmnKrlj6bnq4voioLjgIIiLAogICLnrKwgNTfigJM3NCDooYzkuLrpobXohJrvvJrlrabpmaIgbG9nbyDkuI7lupXpg6jlm77moIfjgIHlj4vmg4Xpk77mjqUgOSDmnaHvvIjmlZnogrLpg6jjgIHlhajlm73lk7LlrabnpL7kvJrnp5Hlrablt6XkvZzlip7lhazlrqTjgIHlm73lrrblub/mkq3nlLXop4bmgLvlsYDjgIHkuK3lm73kvKDlqpLlpKflrablj4rlhbbkv6Hmga/ljJblpITjgIHlsLHkuJrliJvkuJrmjIflr7zkuK3lv4PjgIHlm73lrrbmlrDpl7vlh7rniYjnvbLjgIHnoJTnqbbnlJ/pmaLvvInjgIHjgIzlhbPkuo7miJHku6zjgI3jgIHlnLDlnYDkuI7pgq7nvJbjgIHniYjmnYPkuI7lpIfmoYjlj7fvvIjkuqxJQ1Ag5aSHMTAwMzk1NjTlj7cg5Lqs5YWs572R5a6J5aSHMTEwNDAyNDMwMDMx5Y+377yJ44CB5oqA5pyv5pSv5oyB44CB44CM5Zue5Yiw6aG26YOo44CN5LiO6K6/6Zeu6K6h5pWw6ZmE5Lu277yM5ZCI5Li644CM6aG16ISa44CN5LiA6IqC77yM5peg5p2h55uu5byV5paH44CCIiwKICAi5q2j5paH5Yiw56ysIDU2IOihjOe7k+ivree7k+adn++8iOWvvOivreKAlOS6lOWcuuWFmuivvuKAlOaAu+e7k+m9kOWFqO+8ie+8jOaXoOaIquaWre+8m+S9humhtemdouS4u+S9k+WGheWuueWkp+mHj+S7peS4jeWPr+aKveaWh+Wtl+eahOeOsOWcuueFp+eJh+aJv+i9ve+8iOesrCAzOeOAgTQy44CBNDXjgIE0OOOAgTUx44CBNTQg6KGM5YWxIDYg5bygIFvpmYTku7ZdIOWbvueJh++8ie+8jOWbvueJh+acrOi6q+acqui/m+aWh+acrO+8jHRydW5jYXRlZD1mYWxzZeOAgiIKIF0KfQo=
+{
+ "key": "20260801-c14744a273090",
+ "title": "信息传播学院领导班子成员讲授树立和践行正确政绩观专题党课",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "页面框架（页面标题、全站导航、栏目面包屑）",
+   "heading_kind": "derived",
+   "lines": [1, 34],
+   "items": ["pt-aef2834742"],
+   "chars": 316
+  },
+  {
+   "no": "—",
+   "heading": "正文标题与发布信息",
+   "heading_kind": "derived",
+   "lines": [35, 36],
+   "items": ["pt-aef2834742"],
+   "chars": 50
+  },
+  {
+   "no": "—",
+   "heading": "导语：班子全员讲党课的总体情况",
+   "heading_kind": "derived",
+   "lines": [37, 37],
+   "items": ["pt-c1cc8d621e"],
+   "chars": 131
+  },
+  {
+   "no": "—",
+   "heading": "党课纪实（五场党课、现场图片与图注）",
+   "heading_kind": "derived",
+   "lines": [38, 56],
+   "items": [],
+   "chars": 1770
+  },
+  {
+   "no": "—",
+   "heading": "付长海书记党课",
+   "heading_kind": "derived",
+   "lines": [38, 41],
+   "items": ["pt-571486a48e", "pt-83ee58fa4e", "pt-fb3edd5e77", "pt-e45aa7bfc6"],
+   "chars": 502
+  },
+  {
+   "no": "—",
+   "heading": "李舒院长党课",
+   "heading_kind": "derived",
+   "lines": [42, 44],
+   "items": ["pt-72ddbb310c", "pt-81ec5739c2"],
+   "chars": 379
+  },
+  {
+   "no": "—",
+   "heading": "赵丹副书记党课",
+   "heading_kind": "derived",
+   "lines": [45, 47],
+   "items": ["pt-fff68015cf"],
+   "chars": 216
+  },
+  {
+   "no": "—",
+   "heading": "李继东副院长党课",
+   "heading_kind": "derived",
+   "lines": [48, 50],
+   "items": ["pt-731ced673f"],
+   "chars": 200
+  },
+  {
+   "no": "—",
+   "heading": "张磊副院长党课",
+   "heading_kind": "derived",
+   "lines": [51, 53],
+   "items": ["pt-318118bdea"],
+   "chars": 205
+  },
+  {
+   "no": "—",
+   "heading": "党课总结与学院下一步举措",
+   "heading_kind": "derived",
+   "lines": [54, 56],
+   "items": ["pt-6467b71251"],
+   "chars": 268
+  },
+  {
+   "no": "—",
+   "heading": "页脚（友情链接、地址、版权与访问计数）",
+   "heading_kind": "derived",
+   "lines": [57, 74],
+   "items": [],
+   "chars": 405
+  }
+ ],
+ "items": ["pt-aef2834742", "pt-c1cc8d621e", "pt-571486a48e", "pt-83ee58fa4e", "pt-fb3edd5e77", "pt-e45aa7bfc6", "pt-72ddbb310c", "pt-81ec5739c2", "pt-fff68015cf", "pt-731ced673f", "pt-318118bdea", "pt-6467b71251"],
+ "notes": [
+  "网页抽件（信息传播学院「党建动态」栏目）：第 1 行为页面标题，第 2–30 行为 logo、全站导航（关于我们／学者风采／学生培养／学术研究／党群工作／国际合作等）与栏目 banner，第 31–34 行为「党群工作」「首页 党群工作 党建动态」「党建动态」「团学动态」栏目与面包屑；这 34 行合并为「页面框架」一节。第 35 行正文标题与第 1 行重复、第 36 行为「发布时间：2026-08-01浏览次数：10」，合为「正文标题与发布信息」一节。",
+  "pt-aef2834742 的引文就是标题「信息传播学院领导班子成员讲授树立和践行正确政绩观专题党课」，该字符串在页面标题（第 1 行）与正文标题（第 35 行）各出现一次，故「页面框架」「正文标题与发布信息」两节各列一次。",
+  "本份**没有 rule- 文档级条目**：12 条条目全是 pt-*，均有引文并各自落在节内，文档级 items 因此就是引用本文的全部 12 条。",
+  "本文是图文混排的党课纪实，原文**没有小标题**（页面靠照片与图注分段），故所有 heading 均为概括的 derived，no 统一记「—」。除「页面框架」「正文标题与发布信息」「导语」「页脚」外，第 38–56 行立一个父节「党课纪实」，其下按主讲人分 6 个子节（真嵌套）。",
+  "图注顺序与条目的对应：原页面顺序是「正文段 → 该场现场照片 → 图注」，转写后每张「[附件] 图片」行与紧随的图注行排在该段之后、下一段之前；而 6 条条目的引文都以「图注＋下一段正文」连读起算（pt-83ee58fa4e、pt-72ddbb310c、pt-fff68015cf、pt-731ced673f、pt-318118bdea、pt-6467b71251），不把图注行并进下一节就落不了地，故各子节的 lines[0] 是上一场党课的图片行、图注行落在本节内（如「师生党员参加专题党课学习」「李舒院长结合学习学校第四次党代会精神讲授专题党课」）。这是按节首判据的例外条款处理，逐条在此说明。",
+  "各子节内容对应：38–41 付长海书记（含现场图与两张图注之一）＋其党课要点；42–44 李舒院长（线上会议，新闻舆论系教工党支部与编辑出版学生支部参加）；45–47 赵丹副书记（显绩与潜绩、个人与集体、过程与结果、自我与他人四组关系）；48–50 李继东副院长（新发展理念、以人民为中心）；51–53 张磊副院长（「信仰与科学：辛顿家族中国故事」）；54–56 张磊场次图注＋本次党课的总结与学院下一步举措。",
+  "第 38 行「6 月 24 日下午…以《树立和践行正确政绩观 聚力实干推动高质量发展——锚定学校第四次党代会目标 汇聚信传奋进合力》为题」是党课题目，题名内有两处空格，按原文保留，未另立节。",
+  "第 57–74 行为页脚：学院 logo 与底部图标、友情链接 9 条（教育部、全国哲学社会科学工作办公室、国家广播电视总局、中国传媒大学及其信息化处、就业创业指导中心、国家新闻出版署、研究生院）、「关于我们」、地址与邮编、版权与备案号（京ICP 备10039564号 京公网安备110402430031号）、技术支持、「回到顶部」与访问计数附件，合为「页脚」一节，无条目引文。",
+  "正文到第 56 行结语结束（导语—五场党课—总结齐全），无截断；但页面主体内容大量以不可抽文字的现场照片承载（第 39、42、45、48、51、54 行共 6 张 [附件] 图片），图片本身未进文本，truncated=false。"
+ ]
+}

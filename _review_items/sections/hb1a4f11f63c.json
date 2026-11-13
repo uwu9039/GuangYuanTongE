@@ -1,1 +1,122 @@
-ewogImtleSI6ICJoYjFhNGYxMWY2M2MiLAogInRpdGxlIjogIuS4reWbveS8oOWqkuWkp+WtpuS8oOWqkuWNmueJqemmhuWbouS9k+WPguingumihOe6puWKnuazlSIsCiAidHJ1bmNhdGVkIjogZmFsc2UsCiAic2VjdGlvbnMiOiBbCiAgewogICAibm8iOiAi5Y236aaWIiwKICAgImhlYWRpbmciOiAi5Lit5Zu95Lyg5aqS5aSn5a2m5Lyg5aqS5Y2a54mp6aaG5Zui5L2T5Y+C6KeC6aKE57qm5Yqe5rOVIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbMSwgMl0sCiAgICJpdGVtcyI6IFtdLAogICAiY2hhcnMiOiAyNAogIH0sCiAgewogICAibm8iOiAi5LiAIiwKICAgImhlYWRpbmciOiAi5Zy66aaG5byA5pS+5pe26Ze05LiO6Zet6aaG5pelIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzMsIDRdLAogICAiaXRlbXMiOiBbInB0LTFjYWRiNzczN2MiXSwKICAgImNoYXJzIjogNDcKICB9LAogIHsKICAgIm5vIjogIuS6jCIsCiAgICJoZWFkaW5nIjogIuWbouS9k+mihOe6pueahOmAgueUqOWvueixoeS4jumihOe6pueUteivnSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFs1LCA2XSwKICAgIml0ZW1zIjogWyJwdC1iOWVkZDJmYTQ2Il0sCiAgICJjaGFycyI6IDYwCiAgfSwKICB7CiAgICJubyI6ICLkuIkiLAogICAiaGVhZGluZyI6ICLmoKHlhoXlpJblm6LkvZPpooTnuqblnYflupTkuo7lj4Lop4Lml6XliY3kuIDlkajov5vooYznlLXor53pooTnuqbnmbvorrAiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs3LCAxNl0sCiAgICJpdGVtcyI6IFsicHQtOThiMDkzZDU1MCJdLAogICAiY2hhcnMiOiAzODkKICB9LAogIHsKICAgIm5vIjogIuS4icK3MSIsCiAgICJoZWFkaW5nIjogIuagoeWGheWbouS9k+mihOe6piIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzgsIDEwXSwKICAgIml0ZW1zIjogW10sCiAgICJjaGFycyI6IDExMwogIH0sCiAgewogICAibm8iOiAi5LiJwrcyIiwKICAgImhlYWRpbmciOiAi5qCh5aSW5Zui5L2T6aKE57qmIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbMTEsIDEzXSwKICAgIml0ZW1zIjogWyJwdC0wYjVmODgxZGUyIl0sCiAgICJjaGFycyI6IDExNQogIH0sCiAgewogICAibm8iOiAi5LiJwrczIiwKICAgImhlYWRpbmciOiAi5Lyg5aqS5aSn5a2m5paw55Sf57u/6Imy6YCa6YGTIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbMTQsIDE2XSwKICAgIml0ZW1zIjogWyJwdC0yNWNkNzQ0NWQ0Il0sCiAgICJjaGFycyI6IDEyNwogIH0sCiAgewogICAibm8iOiAi6ZmE5rOoIiwKICAgImhlYWRpbmciOiAi5Lik5Liq6aKE57qm6KGo55qE6ZmE5Lu26aKY5ZCN44CB6JC95qy+5LiO6aG156CBIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzE3LCAyMF0sCiAgICJpdGVtcyI6IFsicHQtZDIxZWVlMzdkNyJdLAogICAiY2hhcnMiOiA1NgogIH0sCiAgewogICAibm8iOiAi6ZmE5Lu25LiAIiwKICAgImhlYWRpbmciOiAi5Lit5Zu95Lyg5aqS5aSn5a2m5Lyg5aqS5Y2a54mp6aaG5Zui5L2T5Y+C6KeC6aKE57qm6KGoIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbMjEsIDM2XSwKICAgIml0ZW1zIjogWyJwdC1kZjRkZDU1Yzg1Il0sCiAgICJjaGFycyI6IDE2MwogIH0sCiAgewogICAibm8iOiAi6ZmE5Lu25LqMIiwKICAgImhlYWRpbmciOiAi5Lyg5aqS5Y2a54mp6aaG5paw55Sf57u/6Imy6YCa6YGT6aKE57qm6KGoIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbMzcsIDU5XSwKICAgIml0ZW1zIjogWyJwdC01YmY3NWI4YzA2Il0sCiAgICJjaGFycyI6IDI1NAogIH0sCiAgewogICAibm8iOiAi566A5LuLIiwKICAgImhlYWRpbmciOiAi5Lit5Zu95Lyg5aqS5aSn5a2m5Lyg5aqS5Y2a54mp6aaG566A5LuLIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbNjAsIDg1XSwKICAgIml0ZW1zIjogWyJwdC1iMTYxOWM3YWI5IiwgInB0LWM1ZmE5ZTk2MzgiLCAicHQtMWU5YjFlMWM3YSIsICJwdC1lZWQwMWM5YjQyIiwgInB0LWI1ZWQzZjljNjAiLCAicHQtMjMxZjQ4ZWU0ZSJdLAogICAiY2hhcnMiOiA5NDUKICB9CiBdLAogIml0ZW1zIjogWwogICJwdC0xY2FkYjc3MzdjIiwKICAicHQtYjllZGQyZmE0NiIsCiAgInB0LTk4YjA5M2Q1NTAiLAogICJwdC0wYjVmODgxZGUyIiwKICAicHQtMjVjZDc0NDVkNCIsCiAgInB0LWQyMWVlZTM3ZDciLAogICJwdC1kZjRkZDU1Yzg1IiwKICAicHQtNWJmNzViOGMwNiIsCiAgInB0LWIxNjE5YzdhYjkiLAogICJwdC1jNWZhOWU5NjM4IiwKICAicHQtMWU5YjFlMWM3YSIsCiAgInB0LWVlZDAxYzliNDIiLAogICJwdC1iNWVkM2Y5YzYwIiwKICAicHQtMjMxZjQ4ZWU0ZSIKIF0sCiAibm90ZXMiOiBbCiAgIuaxh+e8luWIh+eJh++8iOOAiuS4reWbveS8oOWqkuWkp+WtpuS8oOWqkuWNmueJqemmhuKApuOAi+ebuOWFs+mhteeggSAzNTbigJMzNTnvvInvvJrnrKwgMSDooYzjgIwtIDM1NiAt44CN44CB56ysIDIwIOihjOOAjC0gMzU3IC3jgI3jgIHnrKwgMzcg6KGM44CMLSAzNTggLeOAjeOAgeesrCA2MCDooYzjgIwtIDM1OSAt44CN5piv6aG156CB6KGM77yM5bey5YiG5Yir5bm25YWl55u46YK76IqC77yI5Y236aaW77yP6ZmE5rOo77yP6ZmE5Lu25LqM77yP566A5LuL77yJ77yM5LiN5Y+m6K6+6IqC44CCIiwKICAi5Y6f5paH5Y+q5pyJ44CM5LiA44CB5LqM44CB5LiJ44CN5LiJ5p2h5qy+77yM5peg56ug5qCH6aKY77yb56ys5LiA44CB5LqM5p2h5peg5bCP5qCH6aKY77yMaGVhZGluZyDkuLrmiJHnmoTmpoLmi6zvvIhkZXJpdmVk77yJ77yb56ys5LiJ5p2h6aaW5Y+l44CM5qCh5YaF5aSW5Zui5L2T6aKE57qm5Z2H5bqU5LqO5Y+C6KeC5pel5YmN5LiA5ZGo6L+b6KGM55S16K+d6aKE57qm55m76K6w44CN5Zyo5Y6f5paH6YCQ5a2X5Y+v6KeB77yM5pWF5qCHIGF1dGhvcuOAgiIsCiAgIuesrOS4ieadoe+8iDfigJMxNu+8ieS4uueItuiKgu+8jOecn+W1jOWll+OAjOagoeWGheWbouS9k+mihOe6puOAje+8iDjigJMxMO+8ieOAgeOAjOagoeWkluWbouS9k+mihOe6puOAje+8iDEx4oCTMTPvvInjgIHjgIzkvKDlqpLlpKflrabmlrDnlJ/nu7/oibLpgJrpgZPjgI3vvIgxNOKAkzE277yJ5LiJ5Liq5bm25YiX5bCP5qCH6aKY77yb5LiJ5p2h5byV5paH6YO95ZCE6Ieq5a6M5pW06JC95Zyo5a+55bqU5a2Q6IqC6YeM44CC6L+Z5LiJ5Liq5bCP5qCH6aKY5Y6f5paH5bim5YaS5Y+377yI44CM5qCh5YaF5Zui5L2T6aKE57qm77ya44CN77yJ77yMaGVhZGluZyDljrvmjonkuoblhpLlj7fjgIIiLAogICJwdC1kMjFlZWUzN2Q3IOeahOW8leaWh+WPquacieWJjSAyNiDlrZflnKjnrKwgMTcg6KGM77yI44CM6ZmE77ya44CK5Lyg5aqS5Y2a54mp6aaG5Zui5L2T5Y+C6KeC6aKE57qm6KGo44CL4oCm44CN77yJ77yM5YW25L2Z6YOo5YiG5bu257ut5Yiw56ysIDI0IOihjO+8iOWQq+iQveasvuOAjOS4reWbveS8oOWqkuWkp+WtpuS8oOWqkuWNmueJqemmhiAyMDIy5bm0NeaciOOAjeS4juesrCAyMeKAkzIzIOihjOeahOmZhOS7tuS4gOihqOWQje+8ie+8jOaVheWIl+WcqOOAjOmZhOazqOOAje+8iDE34oCTMjDvvInoioLvvJvlroPlkIzml7bopobnm5bpmYTku7bkuIDooajlpLTvvIzkvYbmjInlvJXmlofotbfngrnlj6rog73okL3jgIzpmYTms6jjgI3jgIIiLAogICJwdC1kZjRkZDU1Yzg1IOeahOW8leaWh+aYr+mZhOS7tuS4gOmihOe6puihqOmAkOagvOWtl+aute+8iOOAjOeUs+ivt+mDqOmXqOKApuaLn+WPguinguaXpeacn+KApuOAje+8jDI14oCTMzYg6KGM77yJ77yM5bC+6YOo5bu25Ly45Yiw6ZmE5Lu25LqM55qE44CM6IGU57O75pa55byP5aSH5rOo77yI5YiG57uE5oOF5Ya177yJ44CN5LiO44CM5Lq65pWw6LaF6L+HMzDkurrnmoTlm6LkvZPvvIzlu7rorq7mjInmr4/nu4QyMC0zMOS6uuWIhue7hOOAje+8iDQ44oCTNTEg6KGM77yJ77yb5oyJ6LW354K577yI56ysIDI1IOihjOi1t+eahOWJjSAyNiDlrZfvvInokL3lnKjpmYTku7bkuIDjgIIiLAogICJwdC01YmY3NWI4YzA2IOeahOW8leaWh+S7jumZhOS7tuS6jOeahOOAjOiBlOezu+aWueW8j+Wkh+azqO+8iOWIhue7hOaDheWGte+8ieOAje+8iOesrCA0OCDooYzvvInotbfvvIzliLDnrKwgNTkg6KGM44CM5bm0IOaciCDml6XjgI3mraLvvIzlhajpg6jlnKjpmYTku7bkuozoioLlhoXjgIIiLAogICLpmYTku7bkuKToioLmmK/ooajmoLzooqvmir3lj5bljovlubPlkI7nmoTlvaLmgIHvvJrlrZfmrrXlkI3kuI7nrb7lrZfnm5bnq6DmoI/pgJDooYzmlaPokL3vvIjlpoLnrKwgMjXigJMzMCDooYzjgIznlLPor7fpg6jpl6jvvI/lm6LkvZPmiJDlkZgg5Y+C6KeC5Lq65pWw77yP5qCh5YaF6Zmq5ZCM5Lq65ZGY77yP5ouf5Y+C6KeC5pel5pyf4oCm44CN77yJ77yM5peg56uW57q/6KGo5qC857uT5p6E77yM5pWF5LiN5oyJ6KGM5YiX5ouG5a2Q6IqC44CCIiwKICAi5pys5paH5Lu26KGM5bC+5q2j5bi477yITEbvvInvvIxgbGVuKHRleHQuc3BsaXQoJ1xcbicpKT04NWDvvJvnroDku4vmnKvlj6XjgIzigKbkuK3lm73pq5jmoKHljZrnianppobkuJPkuJrlp5TlkZjkvJrluLjliqHnkIbkuovljZXkvY3nrYnogYzliqHjgILjgI3lrozmlbTmlLblsL7vvIzliIfniYfmraLkuo7nrKwgMzU5IOmhte+8jOaXoOaYjuaYvuaIquaWreOAgiIsCiAgIuWPpuaciSBwdC0xMGEyOTRlNzlk44CBcHQtMmI4YTJhYjUyNuOAgXB0LTliYmVhZWU3NTjjgIFwdC0wMjYxMTQ5ODY144CBcHQtMjlhNzNjZjVlZuOAgXB0LWI5MTkzMjhlYzfjgIFwdC02NzcxYTBkMmI144CBcHQtZTgyODhmNjJkZOOAgXB0LTVjNzg0YTZkYWbjgIFwdC1lNDlhYTM1YTRjIOetieadoeebrueahOW8leaWh+S4juacrOaWh+S7tuato+aWh+mAkOWtl+ebuOWQjO+8jOS9huWug+S7rOeahCBldmlkZW5jZSDkuLvmupDmmK8gYXR0LWM4NmVlMzI1ZmHvvIjpmYTku7bop6PmnpDvvInkuI4gaHVpYmlhbi0yMDI177yM5Y+q5oqK5pys5paH5Lu25YiX5ZyoIGFsc29fZnJvbe+8jOaVheacquWIl+WFpeacrOaWh+S7tueahOaWh+aho+e6pyBpdGVtc+OAgiIKIF0KfQo=
+{
+ "key": "hb1a4f11f63c",
+ "title": "中国传媒大学传媒博物馆团体参观预约办法",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "卷首",
+   "heading": "中国传媒大学传媒博物馆团体参观预约办法",
+   "heading_kind": "author",
+   "lines": [1, 2],
+   "items": [],
+   "chars": 24
+  },
+  {
+   "no": "一",
+   "heading": "场馆开放时间与闭馆日",
+   "heading_kind": "derived",
+   "lines": [3, 4],
+   "items": ["pt-1cadb7737c"],
+   "chars": 47
+  },
+  {
+   "no": "二",
+   "heading": "团体预约的适用对象与预约电话",
+   "heading_kind": "derived",
+   "lines": [5, 6],
+   "items": ["pt-b9edd2fa46"],
+   "chars": 60
+  },
+  {
+   "no": "三",
+   "heading": "校内外团体预约均应于参观日前一周进行电话预约登记",
+   "heading_kind": "author",
+   "lines": [7, 16],
+   "items": ["pt-98b093d550"],
+   "chars": 389
+  },
+  {
+   "no": "三·1",
+   "heading": "校内团体预约",
+   "heading_kind": "author",
+   "lines": [8, 10],
+   "items": [],
+   "chars": 113
+  },
+  {
+   "no": "三·2",
+   "heading": "校外团体预约",
+   "heading_kind": "author",
+   "lines": [11, 13],
+   "items": ["pt-0b5f881de2"],
+   "chars": 115
+  },
+  {
+   "no": "三·3",
+   "heading": "传媒大学新生绿色通道",
+   "heading_kind": "author",
+   "lines": [14, 16],
+   "items": ["pt-25cd7445d4"],
+   "chars": 127
+  },
+  {
+   "no": "附注",
+   "heading": "两个预约表的附件题名、落款与页码",
+   "heading_kind": "derived",
+   "lines": [17, 20],
+   "items": ["pt-d21eee37d7"],
+   "chars": 56
+  },
+  {
+   "no": "附件一",
+   "heading": "中国传媒大学传媒博物馆团体参观预约表",
+   "heading_kind": "author",
+   "lines": [21, 36],
+   "items": ["pt-df4dd55c85"],
+   "chars": 163
+  },
+  {
+   "no": "附件二",
+   "heading": "传媒博物馆新生绿色通道预约表",
+   "heading_kind": "author",
+   "lines": [37, 59],
+   "items": ["pt-5bf75b8c06"],
+   "chars": 254
+  },
+  {
+   "no": "简介",
+   "heading": "中国传媒大学传媒博物馆简介",
+   "heading_kind": "author",
+   "lines": [60, 85],
+   "items": ["pt-b1619c7ab9", "pt-c5fa9e9638", "pt-1e9b1e1c7a", "pt-eed01c9b42", "pt-b5ed3f9c60", "pt-231f48ee4e"],
+   "chars": 945
+  }
+ ],
+ "items": [
+  "pt-1cadb7737c",
+  "pt-b9edd2fa46",
+  "pt-98b093d550",
+  "pt-0b5f881de2",
+  "pt-25cd7445d4",
+  "pt-d21eee37d7",
+  "pt-df4dd55c85",
+  "pt-5bf75b8c06",
+  "pt-b1619c7ab9",
+  "pt-c5fa9e9638",
+  "pt-1e9b1e1c7a",
+  "pt-eed01c9b42",
+  "pt-b5ed3f9c60",
+  "pt-231f48ee4e"
+ ],
+ "notes": [
+  "汇编切片（《中国传媒大学传媒博物馆…》相关页码 356–359）：第 1 行「- 356 -」、第 20 行「- 357 -」、第 37 行「- 358 -」、第 60 行「- 359 -」是页码行，已分别并入相邻节（卷首／附注／附件二／简介），不另设节。",
+  "原文只有「一、二、三」三条款，无章标题；第一、二条无小标题，heading 为我的概括（derived）；第三条首句「校内外团体预约均应于参观日前一周进行电话预约登记」在原文逐字可见，故标 author。",
+  "第三条（7–16）为父节，真嵌套「校内团体预约」（8–10）、「校外团体预约」（11–13）、「传媒大学新生绿色通道」（14–16）三个并列小标题；三条引文都各自完整落在对应子节里。这三个小标题原文带冒号（「校内团体预约：」），heading 去掉了冒号。",
+  "pt-d21eee37d7 的引文只有前 26 字在第 17 行（「附：《传媒博物馆团体参观预约表》…」），其余部分延续到第 24 行（含落款「中国传媒大学传媒博物馆 2022年5月」与第 21–23 行的附件一表名），故列在「附注」（17–20）节；它同时覆盖附件一表头，但按引文起点只能落「附注」。",
+  "pt-df4dd55c85 的引文是附件一预约表逐格字段（「申请部门…拟参观日期…」，25–36 行），尾部延伸到附件二的「联系方式备注（分组情况）」与「人数超过30人的团体，建议按每组20-30人分组」（48–51 行）；按起点（第 25 行起的前 26 字）落在附件一。",
+  "pt-5bf75b8c06 的引文从附件二的「联系方式备注（分组情况）」（第 48 行）起，到第 59 行「年 月 日」止，全部在附件二节内。",
+  "附件两节是表格被抽取压平后的形态：字段名与签字盖章栏逐行散落（如第 25–30 行「申请部门／团体成员 参观人数／校内陪同人员／拟参观日期…」），无竖线表格结构，故不按行列拆子节。",
+  "本文件行尾正常（LF），`len(text.split('\\n'))=85`；简介末句「…中国高校博物馆专业委员会常务理事单位等职务。」完整收尾，切片止于第 359 页，无明显截断。",
+  "另有 pt-10a294e79d、pt-2b8a2ab526、pt-9bbeaee758、pt-0261149865、pt-29a73cf5ef、pt-b919328ec7、pt-6771a0d2b5、pt-e8288f62dd、pt-5c784a6daf、pt-e49aa35a4c 等条目的引文与本文件正文逐字相同，但它们的 evidence 主源是 att-c86ee325fa（附件解析）与 huibian-2025，只把本文件列在 also_from，故未列入本文件的文档级 items。"
+ ]
+}

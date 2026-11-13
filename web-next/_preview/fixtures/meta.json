@@ -1,1 +1,13 @@
-ew0KICJ0b3RhbF9pdGVtcyI6IDM5Mjc0LA0KICJ2ZXJpZmllZCI6IDM5MjM5LA0KICJzb3VyY2VfdGhpbiI6IDMyLA0KICJwYXJ0aWFsIjogMywNCiAiZmFjdHMiOiA0MjQ1MiwNCiAiZGF0YV92ZXJzaW9uIjogIjAuMiIsDQogImRhdGFfdXBkYXRlZCI6ICIyMDI2LTExLTExIiwNCiAiZml4dHVyZV9pdGVtcyI6IDg0LA0KICJzb3VyY2VzIjogNzM5LA0KICJ2ZWN0b3Jfc291cmNlcyI6IDIxNTMsDQogInZlY3Rvcl9jaHVua3MiOiAyNDk3MQ0KfQ==
+{
+ "total_items": 39274,
+ "verified": 39239,
+ "source_thin": 32,
+ "partial": 3,
+ "facts": 42452,
+ "data_version": "0.2",
+ "data_updated": "2026-11-11",
+ "fixture_items": 84,
+ "sources": 739,
+ "vector_sources": 2153,
+ "vector_chunks": 24971
+}

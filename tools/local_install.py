@@ -1,1 +1,87 @@
-IiIi5oqKIGZhc3RhcGkgLyB1dmljb3JuIOWPiuWFtue6ryBQeXRob24g5L6d6LWW6KOF5YiwIC52ZW52L0xpYi9zaXRlLXBhY2thZ2Vz44CCCgrmnLrlmajkuIrnmoQgcGlwIOWcqOacrOacuuaymeeusemHjOijheS4jeS6hu+8iHVucGFjayDpmLbmrrXlhpkgLndobC5tZXRhZGF0YSDmiqUgRUFDQ0VT77yJ77yMCuaJgOS7pei/memHjOWPquWBmuS4ieS7tuS6i++8muafpSBQeVBJIOeahCB3aGVlbCDpk77mjqUg4oaSIOS4i+i9vSDihpIg55SoIHppcGZpbGUg6Kej5byA44CCCuayoeaciee8luivkeOAgeayoeacieaehOW7uumalOemu++8jOWFqOmDqOaYryBweTMtbm9uZS1hbnkg5oiWIHB5My1ub25lLXdpbiDnmoTnuq8gUHl0aG9uIOi9ruWtkOOAggoKICAgIHB5dGhvbiB0b29scy9sb2NhbF9pbnN0YWxsLnB5ICAgICAgICAgICAgIyDoo4XliLAgLnZlbnYvTGliL3NpdGUtcGFja2FnZXMKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBqc29uCmltcG9ydCBzeXMKaW1wb3J0IHVybGxpYi5yZXF1ZXN0CmltcG9ydCB6aXBmaWxlCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAoKUk9PVCA9IFBhdGgoX19maWxlX18pLnJlc29sdmUoKS5wYXJlbnRzWzFdClRBUkdFVCA9IFJPT1QgLyAiLnZlbnYiIC8gIkxpYiIgLyAic2l0ZS1wYWNrYWdlcyIKV0hFRUxTID0gUk9PVCAvICIudmVudiIgLyAid2hlZWxzIgoKIyDvvIjljIXlkI0sIOeJiOacrOaIlue6puadnywg5YWB6K6455qEIHdoZWVsIOagh+etvuWJjee8gO+8iQpQTEFOOiB0dXBsZVt0dXBsZVtzdHIsIHN0ciwgc3RyXSwgLi4uXSA9ICgKICAgICgiZmFzdGFwaSIsICIwLjE1MS4wIiwgInB5My1ub25lLWFueSIpLAogICAgKCJzdGFybGV0dGUiLCAibGF0ZXN0IiwgInB5My1ub25lLWFueSIpLAogICAgKCJ1dmljb3JuIiwgIjAuNTQuMCIsICJweTMtbm9uZS1hbnkiKSwKICAgICgiY2xpY2siLCAibGF0ZXN0IiwgInB5My1ub25lLWFueSIpLAogICAgKCJhbm5vdGF0ZWQtZG9jIiwgImxhdGVzdCIsICJweTMtbm9uZS1hbnkiKSwKICAgICgib3BlbnRlbGVtZXRyeS1hcGkiLCAibGF0ZXN0IiwgInB5My1ub25lLWFueSIpLAogICAgKCJpbXBvcnRsaWItbWV0YWRhdGEiLCAibGF0ZXN0IiwgInB5My1ub25lLWFueSIpLAogICAgKCJ6aXBwIiwgImxhdGVzdCIsICJweTMtbm9uZS1hbnkiKSwKKQoKCmRlZiBfbWV0YShuYW1lOiBzdHIsIHZlcnNpb246IHN0cikgLT4gZGljdDoKICAgIHVybCA9IGYiaHR0cHM6Ly9weXBpLm9yZy9weXBpL3tuYW1lfS9qc29uIiBpZiB2ZXJzaW9uID09ICJsYXRlc3QiIGVsc2UgXAogICAgICAgIGYiaHR0cHM6Ly9weXBpLm9yZy9weXBpL3tuYW1lfS97dmVyc2lvbn0vanNvbiIKICAgIHdpdGggdXJsbGliLnJlcXVlc3QudXJsb3Blbih1cmwsIHRpbWVvdXQ9NjApIGFzIHI6CiAgICAgICAgcmV0dXJuIGpzb24ubG9hZChyKQoKCmRlZiBfcGljayhkYXRhOiBkaWN0LCB3YW50OiBzdHIpIC0+IHR1cGxlW3N0ciwgc3RyXToKICAgICIiIuS7jiBQeVBJIOeahCB1cmxzIOmHjOaMkeS4gOS4que6ryBQeXRob24gd2hlZWzvvIhuYW1lLCB1cmzvvInjgIIiIiIKICAgIGNhbmRzID0gW10KICAgIGZvciB1IGluIGRhdGFbInVybHMiXToKICAgICAgICBmbiA9IHVbImZpbGVuYW1lIl0KICAgICAgICBpZiBub3QgZm4uZW5kc3dpdGgoIi53aGwiKToKICAgICAgICAgICAgY29udGludWUKICAgICAgICBpZiB3YW50ICE9ICJweTMtbm9uZS1hbnkiIGFuZCB3YW50IG5vdCBpbiBmbjoKICAgICAgICAgICAgY29udGludWUKICAgICAgICBpZiB3YW50ID09ICJweTMtbm9uZS1hbnkiIGFuZCAicHkzLW5vbmUtYW55IiBub3QgaW4gZm46CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgY2FuZHMuYXBwZW5kKChmbiwgdVsidXJsIl0pKQogICAgaWYgbm90IGNhbmRzOgogICAgICAgIHJhaXNlIFN5c3RlbUV4aXQoZiJ7ZGF0YVsnaW5mbyddWyduYW1lJ119IHtkYXRhWydpbmZvJ11bJ3ZlcnNpb24nXX06IOaJvuS4jeWIsOe6ryBQeXRob24gd2hlZWwiKQogICAgcmV0dXJuIGNhbmRzWzBdCgoKZGVmIG1haW4oKSAtPiBOb25lOgogICAgVEFSR0VULm1rZGlyKHBhcmVudHM9VHJ1ZSwgZXhpc3Rfb2s9VHJ1ZSkKICAgIFdIRUVMUy5ta2RpcihwYXJlbnRzPVRydWUsIGV4aXN0X29rPVRydWUpCiAgICBmb3IgbmFtZSwgdmVyLCB3YW50IGluIFBMQU46CiAgICAgICAgZGF0YSA9IF9tZXRhKG5hbWUsIHZlcikKICAgICAgICBpbmZvID0gZGF0YVsiaW5mbyJdCiAgICAgICAgZm4sIHVybCA9IF9waWNrKGRhdGEsIHdhbnQpCiAgICAgICAgZGVzdCA9IFdIRUVMUyAvIGZuCiAgICAgICAgaWYgbm90IGRlc3QuZXhpc3RzKCk6CiAgICAgICAgICAgIHByaW50KGYi4oaTIHtmbn0iKQogICAgICAgICAgICB1cmxsaWIucmVxdWVzdC51cmxyZXRyaWV2ZSh1cmwsIGRlc3QpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcHJpbnQoZiI9IHtmbn3vvIjlt7LkuIvovb3vvIkiKQogICAgICAgIHdpdGggemlwZmlsZS5aaXBGaWxlKGRlc3QpIGFzIHo6CiAgICAgICAgICAgIHouZXh0cmFjdGFsbChUQVJHRVQpCiAgICAgICAgcHJpbnQoZiIgIOKGkiB7aW5mb1snbmFtZSddfSB7aW5mb1sndmVyc2lvbiddfSDoo4Xlpb3vvIh7bmFtZX0g6KaB5rGC55qE54mI5pys77yae3Zlcn3vvIkiKQogICAgcHJpbnQoZiJcbuWujOaIkO+8jOebruagh+ebruW9lSB7VEFSR0VUfSIpCiAgICBwcmludCgi5L6d6LWW5qC45p+l77yaIiwgZW5kPSIiKQogICAgc3lzLnBhdGguaW5zZXJ0KDAsIHN0cihUQVJHRVQpKQogICAgZm9yIG0gaW4gKCJmYXN0YXBpIiwgInN0YXJsZXR0ZSIsICJ1dmljb3JuIik6CiAgICAgICAgdHJ5OgogICAgICAgICAgICBtb2QgPSBfX2ltcG9ydF9fKG0pCiAgICAgICAgICAgIHByaW50KGYie219PXtnZXRhdHRyKG1vZCwgJ19fdmVyc2lvbl9fJywgJz8nKX0iLCBlbmQ9IiAgIikKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6ICAjIG5vcWE6IEJMRTAwMQogICAgICAgICAgICBwcmludChmInttfT1GQUlMRUQoe2V9KSIsIGVuZD0iICAiKQogICAgcHJpbnQoKQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBtYWluKCkK
+"""把 fastapi / uvicorn 及其纯 Python 依赖装到 .venv/Lib/site-packages。
+
+机器上的 pip 在本机沙箱里装不了（unpack 阶段写 .whl.metadata 报 EACCES），
+所以这里只做三件事：查 PyPI 的 wheel 链接 → 下载 → 用 zipfile 解开。
+没有编译、没有构建隔离，全部是 py3-none-any 或 py3-none-win 的纯 Python 轮子。
+
+    python tools/local_install.py            # 装到 .venv/Lib/site-packages
+"""
+from __future__ import annotations
+
+import json
+import sys
+import urllib.request
+import zipfile
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+TARGET = ROOT / ".venv" / "Lib" / "site-packages"
+WHEELS = ROOT / ".venv" / "wheels"
+
+# （包名, 版本或约束, 允许的 wheel 标签前缀）
+PLAN: tuple[tuple[str, str, str], ...] = (
+    ("fastapi", "0.151.0", "py3-none-any"),
+    ("starlette", "latest", "py3-none-any"),
+    ("uvicorn", "0.54.0", "py3-none-any"),
+    ("click", "latest", "py3-none-any"),
+    ("annotated-doc", "latest", "py3-none-any"),
+    ("opentelemetry-api", "latest", "py3-none-any"),
+    ("importlib-metadata", "latest", "py3-none-any"),
+    ("zipp", "latest", "py3-none-any"),
+)
+
+
+def _meta(name: str, version: str) -> dict:
+    url = f"https://pypi.org/pypi/{name}/json" if version == "latest" else \
+        f"https://pypi.org/pypi/{name}/{version}/json"
+    with urllib.request.urlopen(url, timeout=60) as r:
+        return json.load(r)
+
+
+def _pick(data: dict, want: str) -> tuple[str, str]:
+    """从 PyPI 的 urls 里挑一个纯 Python wheel（name, url）。"""
+    cands = []
+    for u in data["urls"]:
+        fn = u["filename"]
+        if not fn.endswith(".whl"):
+            continue
+        if want != "py3-none-any" and want not in fn:
+            continue
+        if want == "py3-none-any" and "py3-none-any" not in fn:
+            continue
+        cands.append((fn, u["url"]))
+    if not cands:
+        raise SystemExit(f"{data['info']['name']} {data['info']['version']}: 找不到纯 Python wheel")
+    return cands[0]
+
+
+def main() -> None:
+    TARGET.mkdir(parents=True, exist_ok=True)
+    WHEELS.mkdir(parents=True, exist_ok=True)
+    for name, ver, want in PLAN:
+        data = _meta(name, ver)
+        info = data["info"]
+        fn, url = _pick(data, want)
+        dest = WHEELS / fn
+        if not dest.exists():
+            print(f"↓ {fn}")
+            urllib.request.urlretrieve(url, dest)
+        else:
+            print(f"= {fn}（已下载）")
+        with zipfile.ZipFile(dest) as z:
+            z.extractall(TARGET)
+        print(f"  → {info['name']} {info['version']} 装好（{name} 要求的版本：{ver}）")
+    print(f"\n完成，目标目录 {TARGET}")
+    print("依赖核查：", end="")
+    sys.path.insert(0, str(TARGET))
+    for m in ("fastapi", "starlette", "uvicorn"):
+        try:
+            mod = __import__(m)
+            print(f"{m}={getattr(mod, '__version__', '?')}", end="  ")
+        except Exception as e:  # noqa: BLE001
+            print(f"{m}=FAILED({e})", end="  ")
+    print()
+
+
+if __name__ == "__main__":
+    main()

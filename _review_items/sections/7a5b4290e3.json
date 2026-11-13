@@ -1,1 +1,134 @@
-ewogImtleSI6ICI3YTViNDI5MGUzIiwKICJ0aXRsZSI6ICLmnI3liqHluIjnlJ8gfCBXUFMzNjUg5pm66IO95Yqe5YWsIEFJIOS4k+mimOWfueiuremhuuWIqeS4vuihjCIsCiAidHJ1bmNhdGVkIjogZmFsc2UsCiAic2VjdGlvbnMiOiBbCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi5pyN5Yqh5biI55SfIHwgV1BTMzY1IOaZuuiDveWKnuWFrCBBSSDkuJPpopjln7norq3pobrliKnkuL7ooYwiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsxLCAyXSwKICAgIml0ZW1zIjogWyJwdC0wZTkzMzk2NWViIl0sCiAgICJjaGFycyI6IDM0CiAgfSwKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLnq5nngrnlr7zoiKroj5zljZXkuI7moI/nm64iLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbMywgMjRdLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogMTU4CiAgfSwKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLmraPmlofmoIfpopjjgIHlj5HluIPml7bpl7TkuI7lsIHpnaLnu4Tlm74iLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbMjUsIDMwXSwKICAgIml0ZW1zIjogWyJwdC0wZTkzMzk2NWViIiwgInB0LWFkZGJjNTY4MTYiXSwKICAgImNoYXJzIjogMjg5CiAgfSwKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLln7norq3kuL7lip7mg4XlhrXlr7zor60iLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbMzEsIDMzXSwKICAgIml0ZW1zIjogW10sCiAgICJjaGFycyI6IDcyNQogIH0sCiAgewogICAibm8iOiAiMDEiLAogICAiaGVhZGluZyI6ICLorrLluIjmjojor77nroDku4siLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFszNCwgNDFdLAogICAiaXRlbXMiOiBbInB0LWQyZjk5Y2JjZGYiLCAicHQtNTZhMWE5YTVkYyIsICJwdC0zMWM5ZWEwMGYwIl0sCiAgICJjaGFycyI6IDcyMgogIH0sCiAgewogICAibm8iOiAiMDIiLAogICAiaGVhZGluZyI6ICLln7norq3lhoXlrrnlm57pob4iLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs0MiwgNjFdLAogICAiaXRlbXMiOiBbInB0LTdmYzA0ZGRlOGIiXSwKICAgImNoYXJzIjogNDA5OQogIH0sCiAgewogICAibm8iOiAiMDItMSIsCiAgICJoZWFkaW5nIjogIuaZuuiDveihqOWNlSDmlbDmja7pq5jmlYjmlLbpm4YiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs0NSwgNDZdLAogICAiaXRlbXMiOiBbInB0LTgwOTliODk5MzAiXSwKICAgImNoYXJzIjogNDI3CiAgfSwKICB7CiAgICJubyI6ICIwMi0yIiwKICAgImhlYWRpbmciOiAi5aSa57u06KGo5qC8IOS6i+WKoeaZuuiDveeuoeeQhiIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzQ5LCA1MF0sCiAgICJpdGVtcyI6IFsicHQtNWE5ZWRjYWJjMSJdLAogICAiY2hhcnMiOiA0MjkKICB9LAogIHsKICAgIm5vIjogIjAyLTMiLAogICAiaGVhZGluZyI6ICJXUFPngbXnioAg6ZqP6LqrQUnliqnmiYsiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs1NSwgNTZdLAogICAiaXRlbXMiOiBbInB0LWYxNGY0ODA4YzUiXSwKICAgImNoYXJzIjogNDU2CiAgfSwKICB7CiAgICJubyI6ICIwMyIsCiAgICJoZWFkaW5nIjogIuS4k+mimOWfueiureaAu+e7kyIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzYyLCA2NF0sCiAgICJpdGVtcyI6IFsicHQtMGQ2NDE2MzdhNyJdLAogICAiY2hhcnMiOiAxMzIKICB9LAogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIuWfueiureWbnumhvumTvuaOpSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzY1LCA3MF0sCiAgICJpdGVtcyI6IFsicHQtM2VmMWI0MDJmYiIsICJwdC1mODBhYjE4MTI5Il0sCiAgICJjaGFycyI6IDEwOAogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAiV1BT5L2/55So5pWZ56iLIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbNzEsIDc1XSwKICAgIml0ZW1zIjogWyJwdC0xZjBhMDI0MGQ4IiwgInB0LWNiNWY2NzMwMDYiXSwKICAgImNoYXJzIjogODgKICB9LAogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIldQU+S/oeaBr+WMluacjeWKoeW3peS9nOWdiiIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzc2LCA4M10sCiAgICJpdGVtcyI6IFsicHQtZTNlYTI1YmMyNyIsICJwdC02MTAyZDI0MmM5Il0sCiAgICJjaGFycyI6IDM2NgogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi5qyi6L+O6IGU57O75L+h5oGv5YyW5aSEIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbODQsIDg2XSwKICAgIml0ZW1zIjogWyJwdC03ZWZmYzQ3NTA1Il0sCiAgICJjaGFycyI6IDU5NQogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi6aG16ISa77ya5aSE5a6k5L+h5oGv44CB5oql5L+u55S16K+d5LiO5bi455So6ZO+5o6lIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzg3LCAxMTFdLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogMzYzCiAgfQogXSwKICJpdGVtcyI6IFsicHQtMGU5MzM5NjVlYiIsICJwdC1hZGRiYzU2ODE2IiwgInB0LWQyZjk5Y2JjZGYiLCAicHQtNTZhMWE5YTVkYyIsICJwdC0zMWM5ZWEwMGYwIiwgInB0LTdmYzA0ZGRlOGIiLCAicHQtODA5OWI4OTkzMCIsICJwdC01YTllZGNhYmMxIiwgInB0LWYxNGY0ODA4YzUiLCAicHQtMGQ2NDE2MzdhNyIsICJwdC0zZWYxYjQwMmZiIiwgInB0LWY4MGFiMTgxMjkiLCAicHQtMWYwYTAyNDBkOCIsICJwdC1jYjVmNjczMDA2IiwgInB0LWUzZWEyNWJjMjciLCAicHQtNjEwMmQyNDJjOSIsICJwdC03ZWZmYzQ3NTA1Il0sCiAibm90ZXMiOiBbCiAgIumAmuefpeexu+e9kemhte+8muesrCAx4oCTMiDooYzkuLrmoIfpopjkuI7moI/nm67lkI3vvIznrKwgM+KAkzI0IOihjOS4uuermeeCueWvvOiIqu+8jOesrCAyNSDooYzotbfnmoTmraPmlofmoIfpopjkuI7nrKwgMSDooYzph43lpI3vvIzmlYXmoIfpopjmnaHnm67lkIzml7bliJflnKjjgIzmoIfpopjjgI3kuI7jgIzmraPmlofmoIfpopjjgIHlj5HluIPml7bpl7TkuI7lsIHpnaLnu4Tlm77jgI3kuKToioLjgIIiLAogICLnrKwgMzPjgIE0MeOAgTQ444CBNTTjgIE2MSDooYznmoTnq6DoioLluo/lj7fvvIgwMS8wMi8wM++8ieiiq+W5tui/m+WbvueJh+ihjOacq+Wwvu+8jOacquWNleWIl+iKgu+8m+esrCA0MSDooYzkvZzkuLrjgIzorrLluIjmjojor77nroDku4vjgI3oioLlsL7jgIIiLAogICLjgIzkuJPpopjln7norq3mgLvnu5PjgI3jgIzln7norq3lm57pob7pk77mjqXjgI3nrYnoioLliY3nmoTjgIzilrfjgI3mmK/moIfpopjoo4XppbDnrKbvvIzlkITmrrUg4pa3IOihjOW5tuWFpeWJjeS4gOiKgueahOWwvumDqO+8iOesrCA2NOOAgTcw44CBNzUg6KGM77yJ77yM6IqC6aaW5LuN5Li65qCH6aKY6KGM44CCIiwKICAi56ysIDEwNuKAkzExMSDooYzkuLrmqKHmnb/ljaDkvY3nrKbvvIh757yp55Wl5Zu+fS975qCH6aKYfS8tLT4v6K6/6Zeu6K6h5pWw77yJ77yM5LiA5bm25b2S5YWl6aG16ISa6IqC44CCIgogXQp9Cg==
+{
+ "key": "7a5b4290e3",
+ "title": "服务师生 | WPS365 智能办公 AI 专题培训顺利举行",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "服务师生 | WPS365 智能办公 AI 专题培训顺利举行",
+   "heading_kind": "author",
+   "lines": [1, 2],
+   "items": ["pt-0e933965eb"],
+   "chars": 34
+  },
+  {
+   "no": "—",
+   "heading": "站点导航菜单与栏目",
+   "heading_kind": "derived",
+   "lines": [3, 24],
+   "items": [],
+   "chars": 158
+  },
+  {
+   "no": "—",
+   "heading": "正文标题、发布时间与封面组图",
+   "heading_kind": "derived",
+   "lines": [25, 30],
+   "items": ["pt-0e933965eb", "pt-addbc56816"],
+   "chars": 289
+  },
+  {
+   "no": "—",
+   "heading": "培训举办情况导语",
+   "heading_kind": "derived",
+   "lines": [31, 33],
+   "items": [],
+   "chars": 725
+  },
+  {
+   "no": "01",
+   "heading": "讲师授课简介",
+   "heading_kind": "author",
+   "lines": [34, 41],
+   "items": ["pt-d2f99cbcdf", "pt-56a1a9a5dc", "pt-31c9ea00f0"],
+   "chars": 722
+  },
+  {
+   "no": "02",
+   "heading": "培训内容回顾",
+   "heading_kind": "author",
+   "lines": [42, 61],
+   "items": ["pt-7fc04dde8b"],
+   "chars": 4099
+  },
+  {
+   "no": "02-1",
+   "heading": "智能表单 数据高效收集",
+   "heading_kind": "author",
+   "lines": [45, 46],
+   "items": ["pt-8099b89930"],
+   "chars": 427
+  },
+  {
+   "no": "02-2",
+   "heading": "多维表格 事务智能管理",
+   "heading_kind": "author",
+   "lines": [49, 50],
+   "items": ["pt-5a9edcabc1"],
+   "chars": 429
+  },
+  {
+   "no": "02-3",
+   "heading": "WPS灵犀 随身AI助手",
+   "heading_kind": "author",
+   "lines": [55, 56],
+   "items": ["pt-f14f4808c5"],
+   "chars": 456
+  },
+  {
+   "no": "03",
+   "heading": "专题培训总结",
+   "heading_kind": "author",
+   "lines": [62, 64],
+   "items": ["pt-0d641637a7"],
+   "chars": 132
+  },
+  {
+   "no": "—",
+   "heading": "培训回顾链接",
+   "heading_kind": "author",
+   "lines": [65, 70],
+   "items": ["pt-3ef1b402fb", "pt-f80ab18129"],
+   "chars": 108
+  },
+  {
+   "no": "—",
+   "heading": "WPS使用教程",
+   "heading_kind": "author",
+   "lines": [71, 75],
+   "items": ["pt-1f0a0240d8", "pt-cb5f673006"],
+   "chars": 88
+  },
+  {
+   "no": "—",
+   "heading": "WPS信息化服务工作坊",
+   "heading_kind": "author",
+   "lines": [76, 83],
+   "items": ["pt-e3ea25bc27", "pt-6102d242c9"],
+   "chars": 366
+  },
+  {
+   "no": "—",
+   "heading": "欢迎联系信息化处",
+   "heading_kind": "author",
+   "lines": [84, 86],
+   "items": ["pt-7effc47505"],
+   "chars": 595
+  },
+  {
+   "no": "—",
+   "heading": "页脚：处室信息、报修电话与常用链接",
+   "heading_kind": "derived",
+   "lines": [87, 111],
+   "items": [],
+   "chars": 363
+  }
+ ],
+ "items": ["pt-0e933965eb", "pt-addbc56816", "pt-d2f99cbcdf", "pt-56a1a9a5dc", "pt-31c9ea00f0", "pt-7fc04dde8b", "pt-8099b89930", "pt-5a9edcabc1", "pt-f14f4808c5", "pt-0d641637a7", "pt-3ef1b402fb", "pt-f80ab18129", "pt-1f0a0240d8", "pt-cb5f673006", "pt-e3ea25bc27", "pt-6102d242c9", "pt-7effc47505"],
+ "notes": [
+  "通知类网页：第 1–2 行为标题与栏目名，第 3–24 行为站点导航，第 25 行起的正文标题与第 1 行重复，故标题条目同时列在「标题」与「正文标题、发布时间与封面组图」两节。",
+  "第 33、41、48、54、61 行的章节序号（01/02/03）被并进图片行末尾，未单列节；第 41 行作为「讲师授课简介」节尾。",
+  "「专题培训总结」「培训回顾链接」等节前的「▷」是标题装饰符，各段 ▷ 行并入前一节的尾部（第 64、70、75 行），节首仍为标题行。",
+  "第 106–111 行为模板占位符（{缩略图}/{标题}/-->/访问计数），一并归入页脚节。"
+ ]
+}

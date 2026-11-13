@@ -1,1 +1,76 @@
-ew0KICJrZXkiOiAi5paH54yu5L+d6ZqcLTNlODk0MjI3MmJlYzYxMTFmMDBiMDlhNzcxNmMwNTlmMjMzZSIsDQogInRpdGxlIjogIuWbvuS5pummhjIwMjPlubTlm73lpJbmiqXliIrnm67lvZUiLA0KICJ0cnVuY2F0ZWQiOiBmYWxzZSwNCiAic2VjdGlvbnMiOiBbDQogIHsNCiAgICJubyI6ICLpobXpnaLmoYbmnrYiLA0KICAgImhlYWRpbmciOiAi5qCH6aKY5LiO5p2l5rqQ5L+h5oGvIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMSwNCiAgICA3DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0wMzNkMWI5NGIzIg0KICAgXSwNCiAgICJjaGFycyI6IDIyNQ0KICB9LA0KICB7DQogICAibm8iOiAi55uu5b2V6KGoIiwNCiAgICJoZWFkaW5nIjogIjIwMjPlubTlm73lpJbmiqXliIrkuIDop4jooajvvIjluo/lj7cv5YiK5Y+3L+WIiuWQjS/otYTmupDnsbvlnosv5aSH5rOo77yJIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgOCwNCiAgICAyODcNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTIyZWMxNmJlZWEiLA0KICAgICJwdC04ZDI2ZGNhMDA1IiwNCiAgICAicHQtMWJkYTBmMjY4OSIsDQogICAgInB0LWI1YzM0NGM4ZTAiLA0KICAgICJwdC01MTQxYTUyMjZkIiwNCiAgICAicHQtZWJhZjlhYTFhMSIsDQogICAgInB0LTA4YjkzM2I3YmEiLA0KICAgICJwdC0yZTRkY2UwZTU1IiwNCiAgICAicHQtNzFiNzIxMDYwYSIsDQogICAgInB0LTAyNzFjZjMxNTgiLA0KICAgICJwdC1kZThhZGIyNmIwIiwNCiAgICAicHQtNzQ0ZDZhZDk3ZiIsDQogICAgInB0LTZjMzBhOGIxZmEiLA0KICAgICJwdC05MzhmNTY2NDQyIiwNCiAgICAicHQtODgxNmU5MWMyZCIsDQogICAgInB0LTZjOThmZTExZTciLA0KICAgICJwdC0yYjg3MDUwMDhlIg0KICAgXSwNCiAgICJjaGFycyI6IDIyODMNCiAgfQ0KIF0sDQogIml0ZW1zIjogWw0KICAicHQtMDMzZDFiOTRiMyIsDQogICJwdC0yMmVjMTZiZWVhIiwNCiAgInB0LThkMjZkY2EwMDUiLA0KICAicHQtMWJkYTBmMjY4OSIsDQogICJwdC1iNWMzNDRjOGUwIiwNCiAgInB0LTUxNDFhNTIyNmQiLA0KICAicHQtZWJhZjlhYTFhMSIsDQogICJwdC0wOGI5MzNiN2JhIiwNCiAgInB0LTJlNGRjZTBlNTUiLA0KICAicHQtNzFiNzIxMDYwYSIsDQogICJwdC0wMjcxY2YzMTU4IiwNCiAgInB0LWRlOGFkYjI2YjAiLA0KICAicHQtNzQ0ZDZhZDk3ZiIsDQogICJwdC02YzMwYThiMWZhIiwNCiAgInB0LTkzOGY1NjY0NDIiLA0KICAicHQtODgxNmU5MWMyZCIsDQogICJwdC02Yzk4ZmUxMWU3IiwNCiAgInB0LTJiODcwNTAwOGUiDQogXSwNCiAibm90ZXMiOiBbDQogICLnrKwgMeKAkzUg6KGM5piv6aG16Z2i5qGG5p6277yI5qCH6aKY44CB5p2l5rqQIFVSTOOAgeagj+ebruOAjOaWh+eMruS/nemanOOAjeOAgeS9nOiAheOAjOWbvuS5pummhuOAjeOAgeWPkeW4g+aXtumXtCAyMDIzLTAyLTI077yJ77yM56ysIDYg6KGM56m66KGM44CB56ysIDcg6KGM5qCH6aKY6YeN5aSN77yM5LiA5bm26K6h5YWl44CM5qCH6aKY5LiO5p2l5rqQ5L+h5oGv44CN77yIZGVyaXZlZO+8ieOAgiIsDQogICLnrKwgOOKAkzI4NyDooYzmmK/kuIDlvKAgNjkg6KGM55qE5oql5YiK6K6i6LSt6KGo77yM6KKr5LiK5ri45oq95oiQ56uW5o6S5Y2V5YWD5qC877ya6KGo5aS044CM5bqP5Y+3IHwg5YiK5Y+3IHwg5YiK5ZCNIHwg6LWE5rqQ57G75Z6LIHwg5aSH5rOo44CN5Zyo56ysIDgg6KGM77yM5LmL5ZCO5q+P6KGM5LiA5Liq5Y2V5YWD5qC877yI5bqP5Y+377yP5YiK5Y+377yP5YiK5ZCN77yP6LWE5rqQ57G75Z6L77yM6YOo5YiG6KGM5aSa5LiA5Liq5aSH5rOo77yJ44CC5oyJ5Y+j5b6E5pW06KGo56uL5LiA6IqC44CM55uu5b2V6KGo44CN77yIZGVyaXZlZO+8ie+8jOS4jeaMieW6j+WPt+aLhuiKgu+8m+WOn+aWh+ayoeacieS7u+S9leeroOiKguagh+mimOWPr+S9nCBhdXRob3LjgIIiLA0KICAi6KGo5qC85YaF5a655piv5pyf5YiKIDYxIOenje+8iOW6j+WPtyAx4oCTNjHvvInkuI7miqXnurggOCDnp43vvIjluo/lj7cgNjLigJM2Oe+8ie+8m+OAjOWkh+azqOOAjeWIl+eahOOAjDIwMjHlubTmlrDlop7jgI3jgIwyMDIy5bm05paw5aKe44CN5qCH6K6w5Ye6546w5Zyo56ysIDIyMeOAgTI2MuOAgTI3MeOAgTI4M+OAgTI4NyDooYzvvIzlsZ7ooYzlhoXlpIfms6jvvIzmnKrmi4boioLjgIIiLA0KICAi56ysIDI4OCDooYzkuLrnqbrooYzvvJvooajmoLzmraLkuo7luo/lj7cgNjnjgIxQVUJMSUMgUkVMQVRJT05TIFJFVklFVyAvIOacn+WIiiAvIDIwMjLlubTmlrDlop7jgI3vvIzooajmoLzkuYvlkI7msqHmnInnu5Por63miJbokL3mrL7vvIzmnKrop4HmmI7mmL7miKrmlq3jgIIiLA0KICAicHQtMDMzZDFiOTRiMyDnmoTlvJXmloflsLHmmK/mlofmoaPmoIfpopjmnKzouqvvvIjnrKwgMSDooYzvvIznrKwgNyDooYzph43lpI3vvInvvIzlm6DmraTokL3jgIzmoIfpopjkuI7mnaXmupDkv6Hmga/jgI3vvJvlhbbkvZkgMTcg5p2h55qE5byV5paH6LW354K55Z2H5Zyo56ysIDky4oCTMjg3IOihjOeahOihqOagvOWNleWFg+agvOWGhe+8jOaVheWFqOmDqOiQveOAjOebruW9leihqOOAjeS4gOiKguOAgiINCiBdDQp9
+{
+ "key": "文献保障-3e8942272bec6111f00b09a7716c059f233e",
+ "title": "图书馆2023年国外报刊目录",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "页面框架",
+   "heading": "标题与来源信息",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    7
+   ],
+   "items": [
+    "pt-033d1b94b3"
+   ],
+   "chars": 225
+  },
+  {
+   "no": "目录表",
+   "heading": "2023年国外报刊一览表（序号/刊号/刊名/资源类型/备注）",
+   "heading_kind": "derived",
+   "lines": [
+    8,
+    287
+   ],
+   "items": [
+    "pt-22ec16beea",
+    "pt-8d26dca005",
+    "pt-1bda0f2689",
+    "pt-b5c344c8e0",
+    "pt-5141a5226d",
+    "pt-ebaf9aa1a1",
+    "pt-08b933b7ba",
+    "pt-2e4dce0e55",
+    "pt-71b721060a",
+    "pt-0271cf3158",
+    "pt-de8adb26b0",
+    "pt-744d6ad97f",
+    "pt-6c30a8b1fa",
+    "pt-938f566442",
+    "pt-8816e91c2d",
+    "pt-6c98fe11e7",
+    "pt-2b8705008e"
+   ],
+   "chars": 2283
+  }
+ ],
+ "items": [
+  "pt-033d1b94b3",
+  "pt-22ec16beea",
+  "pt-8d26dca005",
+  "pt-1bda0f2689",
+  "pt-b5c344c8e0",
+  "pt-5141a5226d",
+  "pt-ebaf9aa1a1",
+  "pt-08b933b7ba",
+  "pt-2e4dce0e55",
+  "pt-71b721060a",
+  "pt-0271cf3158",
+  "pt-de8adb26b0",
+  "pt-744d6ad97f",
+  "pt-6c30a8b1fa",
+  "pt-938f566442",
+  "pt-8816e91c2d",
+  "pt-6c98fe11e7",
+  "pt-2b8705008e"
+ ],
+ "notes": [
+  "第 1–5 行是页面框架（标题、来源 URL、栏目「文献保障」、作者「图书馆」、发布时间 2023-02-24），第 6 行空行、第 7 行标题重复，一并计入「标题与来源信息」（derived）。",
+  "第 8–287 行是一张 69 行的报刊订购表，被上游抽成竖排单元格：表头「序号 | 刊号 | 刊名 | 资源类型 | 备注」在第 8 行，之后每行一个单元格（序号／刊号／刊名／资源类型，部分行多一个备注）。按口径整表立一节「目录表」（derived），不按序号拆节；原文没有任何章节标题可作 author。",
+  "表格内容是期刊 61 种（序号 1–61）与报纸 8 种（序号 62–69）；「备注」列的「2021年新增」「2022年新增」标记出现在第 221、262、271、283、287 行，属行内备注，未拆节。",
+  "第 288 行为空行；表格止于序号 69「PUBLIC RELATIONS REVIEW / 期刊 / 2022年新增」，表格之后没有结语或落款，未见明显截断。",
+  "pt-033d1b94b3 的引文就是文档标题本身（第 1 行，第 7 行重复），因此落「标题与来源信息」；其余 17 条的引文起点均在第 92–287 行的表格单元格内，故全部落「目录表」一节。"
+ ]
+}

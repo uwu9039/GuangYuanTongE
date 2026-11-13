@@ -1,1 +1,156 @@
-ew0KICJrZXkiOiAiMjAyNjAyMjYtYzIwNjRhMjY3MDcwIiwNCiAidGl0bGUiOiAi5oiR6Zmi5a2m5a2Q6I636K+EMjAyNeW5tOS4reWbveS8oOWqkuWkp+WtpuKAnOW+l+WIsOivu+S5puWlluWtpumHkeKAnSIsDQogInRydW5jYXRlZCI6IGZhbHNlLA0KICJzZWN0aW9ucyI6IFsNCiAgew0KICAgIm5vIjogIumhtemdouahhuaetiIsDQogICAiaGVhZGluZyI6ICLnq5nngrnlr7zoiKrkuI7moI/nm67moIfnrb4iLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxLA0KICAgIDMyDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAyODINCiAgfSwNCiAgew0KICAgIm5vIjogIuWvvOivrSIsDQogICAiaGVhZGluZyI6ICLmoIfpopjjgIHlj5HluIPkv6Hmga/kuI7or4TpgInnu5Pmnpznu7zov7AiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzMywNCiAgICAzNQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNzRhNTljMWZjNyIsDQogICAgInB0LWE1NWMwNGE4M2YiDQogICBdLA0KICAgImNoYXJzIjogMTc2DQogIH0sDQogIHsNCiAgICJubyI6ICLojrflpZblkI3ljZUiLA0KICAgImhlYWRpbmciOiAi6I635aWW5L2c5ZOB5LiO5pGY6KaBIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMzYsDQogICAgNTANCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDk2OA0KICB9LA0KICB7DQogICAibm8iOiAi5LiA562J5aWWIiwNCiAgICJoZWFkaW5nIjogIuS4gOetieWllu+8muOAiuKAnOWkp+mBk+S5i+ihjO+8jOWkqeS4i+S4uuWFrOKAne+8muaVsOWtl+aXtuS7o+mHjeivu+WFrOWFsemihuWfn+eahOe7k+aehOi9rOWei+OAiyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMzYsDQogICAgMzgNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWQ1ZmJiZWFiNjkiLA0KICAgICJwdC02NmFlODE5NmM5Ig0KICAgXSwNCiAgICJjaGFycyI6IDI1Ng0KICB9LA0KICB7DQogICAibm8iOiAi5LqM562J5aWWIiwNCiAgICJoZWFkaW5nIjogIuS6jOetieWllu+8muOAiuWcqOiZmuaehOS4juecn+WunuS5i+mXtO+8mumHjeaAneaDs+ixoeeahOWFseWQjOS9k+S4juaIkeS7rOeahOaXtuS7o+OAiyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMzksDQogICAgNDENCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTNhM2ViNmIyNzQiLA0KICAgICJwdC1mNGIzNDIwMjkwIg0KICAgXSwNCiAgICJjaGFycyI6IDIzNg0KICB9LA0KICB7DQogICAibm8iOiAi5LiJ562J5aWW77yIMe+8iSIsDQogICAiaGVhZGluZyI6ICLkuInnrYnlpZbvvJrjgIrkuLrniLHlj5HnlLXkuI7ooqvniLHliaXliYrigJTigJTnpL7kuqTlqpLkvZPkuK3lpbPmgKfljZrkuLvnmoTmnJ/mnJvlirPliqjjgIsiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDQyLA0KICAgIDQ0DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC03Yjk2NTllYmU0Ig0KICAgXSwNCiAgICJjaGFycyI6IDE2NA0KICB9LA0KICB7DQogICAibm8iOiAi5LiJ562J5aWW77yIMu+8iSIsDQogICAiaGVhZGluZyI6ICLkuInnrYnlpZbvvJrjgIrjgIjkuJbnlYznmoToi6bpmr7jgInvvJrlnKjosaHlvoHmmrTlipvkuK3nnIvop4Hnu5PmnoTmgKflkb3ov5DjgIsiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDQ1LA0KICAgIDQ3DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1kMTQyNzRmZWQ4Ig0KICAgXSwNCiAgICJjaGFycyI6IDE1NA0KICB9LA0KICB7DQogICAibm8iOiAi5LiJ562J5aWW77yIM++8iSIsDQogICAiaGVhZGluZyI6ICLkuInnrYnlpZbvvJrjgIrjgIjln7rnnaPlsbHkvK/niLXjgInvvJrkuIDpg6jlhbPkuo7lpI3ku4fkuI7mlZHotY7nmoTmsLjmgZLlj7Lor5fjgIsiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDQ4LA0KICAgIDUwDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1iNzEzNzY0YjM3Ig0KICAgXSwNCiAgICJjaGFycyI6IDE1OA0KICB9LA0KICB7DQogICAibm8iOiAi57uT6K+tIiwNCiAgICJoZWFkaW5nIjogIuWlluWtpumHkeiDjOaZr+S4juWtpumZouivu+S5puW3peS9nOe7k+ivrSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDUxLA0KICAgIDUxDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC00ZjM3NWYyZmNjIiwNCiAgICAicHQtNTk5MWYxZmFiMiINCiAgIF0sDQogICAiY2hhcnMiOiAyMTINCiAgfSwNCiAgew0KICAgIm5vIjogIumhteiEmiIsDQogICAiaGVhZGluZyI6ICLlj4vmg4Xpk77mjqXkuI7niYjmnYPkv6Hmga8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1MiwNCiAgICA2OQ0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogNDA1DQogIH0NCiBdLA0KICJpdGVtcyI6IFsNCiAgInB0LTc0YTU5YzFmYzciLA0KICAicHQtYTU1YzA0YTgzZiIsDQogICJwdC1kNWZiYmVhYjY5IiwNCiAgInB0LTY2YWU4MTk2YzkiLA0KICAicHQtM2EzZWI2YjI3NCIsDQogICJwdC1mNGIzNDIwMjkwIiwNCiAgInB0LTdiOTY1OWViZTQiLA0KICAicHQtZDE0Mjc0ZmVkOCIsDQogICJwdC1iNzEzNzY0YjM3IiwNCiAgInB0LTRmMzc1ZjJmY2MiLA0KICAicHQtNTk5MWYxZmFiMiINCiBdLA0KICJub3RlcyI6IFsNCiAgIue9kemhteaKveWPlu+8muesrCAxIOihjOa1j+iniOWZqOagh+mimO+8jOesrCAyLTMwIOihjOWtpumZouermeeCueWvvOiIquS4juWbvueJh+WNoOS9je+8jOesrCAzMS0zMiDooYzjgIzlrabpmaLmlrDpl7vjgI3moI/nm67moIfnrb7kuI7pnaLljIXlsZHvvIzlubblhaXjgIzpobXpnaLmoYbmnrbjgI3kuIDoioLjgIIiLA0KICAi56ysIDMzLTM0IOihjOaYr+ato+aWh+agh+mimOS4juWPkeW4g+aXtumXtO+8j+a1j+iniOasoeaVsO+8jOesrCAzNSDooYzmmK/or4TpgInnu5Pmnpznu7zov7DmrrXvvIzlkIjlubbkuLrjgIzlr7zor63jgI3kuIDoioLjgIIiLA0KICAi5Y6f5paH5YiX6KGo57uT5p6E77ya5q+P5p2h6I635aWW5L2c5ZOB5Y2g5LiJ6KGM77yI562J57qn77yL5L2c5ZOB5ZCN77yP5L2c6ICF5LiO5bm057qn54+t57qn77yP5pGY6KaB77ya4oCm77yJ44CC5LqU5p2h5L2c5ZOB5ZCE5oiQ5a2Q6IqC77yM54i26IqC44CM6I635aWW5ZCN5Y2V44CN5Li655yf5bWM5aWX77yM5Yy66Ze0IDM2LTUwIOato+Wlveiiq+S6lOS4quWtkOiKgumTuua7oeOAgiIsDQogICLnvJblj7fph43lpI3vvIjljp/mloflvILluLjvvInvvJrkuInnrYnlpZblhbEgMyDpobnvvIzljp/mlofmsqHmnInluo/lj7fvvIzkuInmrrXnmoToioLmoIfpopjpg73ku6XjgIzkuInnrYnlpZbvvJrjgIrigKbjgIvjgI3lvIDlpLTjgIHlvbzmraTkuI3lkIzvvIjpnaDkuablkI3kuI3lkIzljLrliIbvvInvvJvkuLrlhY0gYG5vYCDph43lpI3vvIzoioLlj7forrDkuLrjgIzkuInnrYnlpZbvvIgx77yJ77yP77yIMu+8ie+8j++8iDPvvInjgI3vvIxoZWFkaW5nIOS7jeaMieWOn+aWh+mAkOWtl+eFp+aKhOOAgiIsDQogICLnrKwgNTEg6KGM5ZCM5pe25ZCr5Lik5q6177ya5YmN5q615piv44CM5b6X5Yiw6K+75Lmm5aWW5a2m6YeR44CN55qE6K6+56uL6IOM5pmv77yM5ZCO5q615piv5a2m6Zmi6K+75Lmm5Lya5bel5L2c5LiO5pys5qyh5oiQ57up55qE5oC757uT77yb5Lik5p2h5p2h55uuIHB0LTRmMzc1ZjJmY2PvvIjliY3mrrXvvInkuI4gcHQtNTk5MWYxZmFiMu+8iOWQjuaute+8iemDveiQveWcqOi/meS4gOihjO+8jOaVheWQjOWIl+OAjOe7k+ivreOAjeS4gOiKguOAgiIsDQogICLnrKwgNTItNjkg6KGM5Li66aG16ISa77yI5Y+L5oOF6ZO+5o6l44CB5Zyw5Z2A6YKu57yW44CB54mI5p2D5LiO5aSH5qGI5Y+344CB5Zue5Yiw6aG26YOo5LiO6K6/6Zeu57uf6K6h5Y2g5L2N77yJ77yM5Y2V5YiX5LiA6IqC44CCIg0KIF0NCn0=
+{
+ "key": "20260226-c2064a267070",
+ "title": "我院学子获评2025年中国传媒大学“得到读书奖学金”",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "页面框架",
+   "heading": "站点导航与栏目标签",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    32
+   ],
+   "items": [],
+   "chars": 282
+  },
+  {
+   "no": "导语",
+   "heading": "标题、发布信息与评选结果综述",
+   "heading_kind": "derived",
+   "lines": [
+    33,
+    35
+   ],
+   "items": [
+    "pt-74a59c1fc7",
+    "pt-a55c04a83f"
+   ],
+   "chars": 176
+  },
+  {
+   "no": "获奖名单",
+   "heading": "获奖作品与摘要",
+   "heading_kind": "derived",
+   "lines": [
+    36,
+    50
+   ],
+   "items": [],
+   "chars": 968
+  },
+  {
+   "no": "一等奖",
+   "heading": "一等奖：《“大道之行，天下为公”：数字时代重读公共领域的结构转型》",
+   "heading_kind": "author",
+   "lines": [
+    36,
+    38
+   ],
+   "items": [
+    "pt-d5fbbeab69",
+    "pt-66ae8196c9"
+   ],
+   "chars": 256
+  },
+  {
+   "no": "二等奖",
+   "heading": "二等奖：《在虚构与真实之间：重思想象的共同体与我们的时代》",
+   "heading_kind": "author",
+   "lines": [
+    39,
+    41
+   ],
+   "items": [
+    "pt-3a3eb6b274",
+    "pt-f4b3420290"
+   ],
+   "chars": 236
+  },
+  {
+   "no": "三等奖（1）",
+   "heading": "三等奖：《为爱发电与被爱剥削——社交媒体中女性博主的期望劳动》",
+   "heading_kind": "author",
+   "lines": [
+    42,
+    44
+   ],
+   "items": [
+    "pt-7b9659ebe4"
+   ],
+   "chars": 164
+  },
+  {
+   "no": "三等奖（2）",
+   "heading": "三等奖：《〈世界的苦难〉：在象征暴力中看见结构性命运》",
+   "heading_kind": "author",
+   "lines": [
+    45,
+    47
+   ],
+   "items": [
+    "pt-d14274fed8"
+   ],
+   "chars": 154
+  },
+  {
+   "no": "三等奖（3）",
+   "heading": "三等奖：《〈基督山伯爵〉：一部关于复仇与救赎的永恒史诗》",
+   "heading_kind": "author",
+   "lines": [
+    48,
+    50
+   ],
+   "items": [
+    "pt-b713764b37"
+   ],
+   "chars": 158
+  },
+  {
+   "no": "结语",
+   "heading": "奖学金背景与学院读书工作结语",
+   "heading_kind": "derived",
+   "lines": [
+    51,
+    51
+   ],
+   "items": [
+    "pt-4f375f2fcc",
+    "pt-5991f1fab2"
+   ],
+   "chars": 212
+  },
+  {
+   "no": "页脚",
+   "heading": "友情链接与版权信息",
+   "heading_kind": "derived",
+   "lines": [
+    52,
+    69
+   ],
+   "items": [],
+   "chars": 405
+  }
+ ],
+ "items": [
+  "pt-74a59c1fc7",
+  "pt-a55c04a83f",
+  "pt-d5fbbeab69",
+  "pt-66ae8196c9",
+  "pt-3a3eb6b274",
+  "pt-f4b3420290",
+  "pt-7b9659ebe4",
+  "pt-d14274fed8",
+  "pt-b713764b37",
+  "pt-4f375f2fcc",
+  "pt-5991f1fab2"
+ ],
+ "notes": [
+  "网页抽取：第 1 行浏览器标题，第 2-30 行学院站点导航与图片占位，第 31-32 行「学院新闻」栏目标签与面包屑，并入「页面框架」一节。",
+  "第 33-34 行是正文标题与发布时间／浏览次数，第 35 行是评选结果综述段，合并为「导语」一节。",
+  "原文列表结构：每条获奖作品占三行（等级＋作品名／作者与年级班级／摘要：…）。五条作品各成子节，父节「获奖名单」为真嵌套，区间 36-50 正好被五个子节铺满。",
+  "编号重复（原文异常）：三等奖共 3 项，原文没有序号，三段的节标题都以「三等奖：《…》」开头、彼此不同（靠书名不同区分）；为免 `no` 重复，节号记为「三等奖（1）／（2）／（3）」，heading 仍按原文逐字照抄。",
+  "第 51 行同时含两段：前段是「得到读书奖学金」的设立背景，后段是学院读书会工作与本次成绩的总结；两条条目 pt-4f375f2fcc（前段）与 pt-5991f1fab2（后段）都落在这一行，故同列「结语」一节。",
+  "第 52-69 行为页脚（友情链接、地址邮编、版权与备案号、回到顶部与访问统计占位），单列一节。"
+ ]
+}

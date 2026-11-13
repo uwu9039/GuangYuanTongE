@@ -1,1 +1,98 @@
-ew0KICJrZXkiOiAiODkyZmMxNTYiLA0KICJ0aXRsZSI6ICLlrablo6vlrabkvY3mjojmnYPkuI7mjojkuojnrqHnkIblip7ms5UiLA0KICJ0cnVuY2F0ZWQiOiBmYWxzZSwNCiAic2VjdGlvbnMiOiBbDQogIHsNCiAgICJubyI6ICLpgJrnn6UiLA0KICAgImhlYWRpbmciOiAi5Y2w5Y+R6YCa55+lIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMSwNCiAgICAxOA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAid2QtODkyZmMxNTYiDQogICBdLA0KICAgImNoYXJzIjogMzc3DQogIH0sDQogIHsNCiAgICJubyI6ICLmoIfpopgiLA0KICAgImhlYWRpbmciOiAi5Yqe5rOV5ZCN56ew5LiO6YCa6L+H6K+05piOIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMTksDQogICAgMjANCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDM0DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuIDnq6AiLA0KICAgImhlYWRpbmciOiAi5oC75YiZIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyMSwNCiAgICAzMQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAid2QtODkyZmMxNTYiDQogICBdLA0KICAgImNoYXJzIjogMjUyDQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuoznq6AiLA0KICAgImhlYWRpbmciOiAi5a2m5L2N5o6I5p2DIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzMiwNCiAgICA1NA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogNTQ4DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuInnq6AiLA0KICAgImhlYWRpbmciOiAi5a2m5L2N5o6I5LqIIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1NSwNCiAgICAxMDINCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDEyODMNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWbm+eroCIsDQogICAiaGVhZGluZyI6ICLnrqHnkIbkuI7nm5HnnaMiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDEwMywNCiAgICAxMzENCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDc0OQ0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LqU56ugIiwNCiAgICJoZWFkaW5nIjogIumZhOWImSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTMyLA0KICAgIDEzNw0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTAyDQogIH0NCiBdLA0KICJpdGVtcyI6IFsNCiAgIndkLTg5MmZjMTU2Ig0KIF0sDQogIm5vdGVzIjogWw0KICAi57uT5p6E5piv44CM5Y2w5Y+R6YCa55+l77yIMeKAkzE4IOihjO+8ie+8iyDlip7ms5XmnKzkvZPvvIgxOeKAkzEzNyDooYzvvInjgI3vvJrlip7ms5XmnKzkvZPnlKjjgIznrKzkuIDnq6DjgI3oh7PjgIznrKzkupTnq6DjgI3vvIznvJblj7fov57nu63vvIzml6Dph43lpI3jgIHml6DnvLrnq6DvvIznrKzkuozljYHlha3mnaHmraLjgILnrKwgMTnigJMyMCDooYzmmK/lip7ms5XlkI3np7DkuI7jgIzvvIjlm73liqHpmaLlrabkvY3lp5TlkZjkvJrnrKzkuInljYHkupTmrKHkvJrorq7lrqHorq7pgJrov4fvvInjgI3pgJrov4for7TmmI7vvIzljZXliJfjgIzlip7ms5XlkI3np7DkuI7pgJrov4for7TmmI7jgI3kuIDoioLvvIjljp/mlofov5nkuKTooYzmsqHmnInnq6Dlj7fvvInjgIIiLA0KICAi56ysIDHigJMyIOihjOaYr+mAmuefpeagh+mimO+8iOOAjOWbveWKoemZouWtpuS9jeWnlOWRmOS8muWFs+S6juWNsOWPkeOAiuWtpuWjq+WtpuS9jeaOiOadg+S4juaOiOS6iOeuoeeQhuWKnuazleOAi+eahOmAmuefpeOAje+8jOi3qOS4pOihjO+8ieOAgeesrCAzIOihjOaYr+aWh+WPt+OAjOWtpuS9jeOAlDIwMTnjgJUyMCDlj7fjgI3jgIE04oCTNSDooYzmmK/kuLvpgIHmnLrlhbPjgIE24oCTMTYg6KGM5piv6YCa55+l5q2j5paH44CBMTfigJMxOCDooYzmmK/okL3mrL7vvIjlm73liqHpmaLlrabkvY3lp5TlkZjkvJrvvI8yMDE5IOW5tCA3IOaciCA5IOaXpe+8ie+8m+WFqOmDqOW5tuWFpeOAjOWNsOWPkemAmuefpeOAjeS4gOiKguOAgiIsDQogICLmnaHmloflhoXliIbpobnnlKjjgIzvvIjkuIDvvInvvIjkuozvvInvvIjkuInvvInjgI3vvIjlpoLnrKzljYHkuInmnaHnmoTkuInnp43mjojkuojnqIvluo/jgIHnrKzkuozljYHmnaHnmoTln7nlhbvnsbvlnovmoIfms6jvvInvvIzlsZ7mnaHmloflhoXliIbpobnvvIzmnKrmi4boioLjgIIiLA0KICAi5Y6f5paH5byC5bi477yI5peg6JC95qy+54mI6K6w77yJ77ya5Yqe5rOV5pys5L2T5q2i5LqO56ysIDEzNyDooYzjgIznrKzkuozljYHlha3mnaEg5pys5Yqe5rOV55Sx5Zu95Yqh6Zmi5a2m5L2N5aeU5ZGY5Lya6LSf6LSj6Kej6YeK44CC44CN77yM5YW25ZCO5rKh5pyJ5Y2w5Y+R5py65YWzL+eJiOiusOihjO+8m+i/meS4juW6k+mHjOWPpuS4gOS6m+WbveWKoemZouWtpuS9jeWnlOWRmOS8muaWh+S7tueahOS9k+S+i+S4jeWQjOOAgiIsDQogICJ3ZC04OTJmYzE1NiDkuLrmlofmoaPnuqfmnaHnm67vvIwzIOauteW8leaWh+i3qCAyIOiKgu+8muesrCAxIOauteS7jumAmuefpeagh+mimO+8iOesrCAxIOihjO+8iei1t+OAgei3qOWIsOesrCA1IOihjOS4u+mAgeacuuWFs++8jOiQveWcqOOAjOWNsOWPkemAmuefpeOAje+8m+esrCAy44CBMyDmrrXliIbliKvmmK/nrKzkuIDmnaHvvIjnrKwgMjIg6KGM77yJ44CB56ys5LqM5p2h77yI56ysIDI1IOihjO+8ie+8jOiQveWcqOOAjOesrOS4gOeroCDmgLvliJnjgI3vvJvmjInjgIzlvJXmlofot6jlh6DoioLlsLHlkITliJfkuIDmrKHjgI3nmoTlj6PlvoTlnKjov5kgMiDoioLlkITliJfkuIDmrKHjgIIiDQogXQ0KfQ0K
+{
+ "key": "892fc156",
+ "title": "学士学位授权与授予管理办法",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "通知",
+   "heading": "印发通知",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    18
+   ],
+   "items": [
+    "wd-892fc156"
+   ],
+   "chars": 377
+  },
+  {
+   "no": "标题",
+   "heading": "办法名称与通过说明",
+   "heading_kind": "derived",
+   "lines": [
+    19,
+    20
+   ],
+   "items": [],
+   "chars": 34
+  },
+  {
+   "no": "第一章",
+   "heading": "总则",
+   "heading_kind": "author",
+   "lines": [
+    21,
+    31
+   ],
+   "items": [
+    "wd-892fc156"
+   ],
+   "chars": 252
+  },
+  {
+   "no": "第二章",
+   "heading": "学位授权",
+   "heading_kind": "author",
+   "lines": [
+    32,
+    54
+   ],
+   "items": [],
+   "chars": 548
+  },
+  {
+   "no": "第三章",
+   "heading": "学位授予",
+   "heading_kind": "author",
+   "lines": [
+    55,
+    102
+   ],
+   "items": [],
+   "chars": 1283
+  },
+  {
+   "no": "第四章",
+   "heading": "管理与监督",
+   "heading_kind": "author",
+   "lines": [
+    103,
+    131
+   ],
+   "items": [],
+   "chars": 749
+  },
+  {
+   "no": "第五章",
+   "heading": "附则",
+   "heading_kind": "author",
+   "lines": [
+    132,
+    137
+   ],
+   "items": [],
+   "chars": 102
+  }
+ ],
+ "items": [
+  "wd-892fc156"
+ ],
+ "notes": [
+  "结构是「印发通知（1–18 行）＋ 办法本体（19–137 行）」：办法本体用「第一章」至「第五章」，编号连续，无重复、无缺章，第二十六条止。第 19–20 行是办法名称与「（国务院学位委员会第三十五次会议审议通过）」通过说明，单列「办法名称与通过说明」一节（原文这两行没有章号）。",
+  "第 1–2 行是通知标题（「国务院学位委员会关于印发《学士学位授权与授予管理办法》的通知」，跨两行）、第 3 行是文号「学位〔2019〕20 号」、4–5 行是主送机关、6–16 行是通知正文、17–18 行是落款（国务院学位委员会／2019 年 7 月 9 日）；全部并入「印发通知」一节。",
+  "条文内分项用「（一）（二）（三）」（如第十三条的三种授予程序、第二十条的培养类型标注），属条文内分项，未拆节。",
+  "原文异常（无落款版记）：办法本体止于第 137 行「第二十六条 本办法由国务院学位委员会负责解释。」，其后没有印发机关/版记行；这与库里另一些国务院学位委员会文件的体例不同。",
+  "wd-892fc156 为文档级条目，3 段引文跨 2 节：第 1 段从通知标题（第 1 行）起、跨到第 5 行主送机关，落在「印发通知」；第 2、3 段分别是第一条（第 22 行）、第二条（第 25 行），落在「第一章 总则」；按「引文跨几节就各列一次」的口径在这 2 节各列一次。"
+ ]
+}

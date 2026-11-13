@@ -1,1 +1,45 @@
-IyDprZTmkK3liJvnqbrpl7TvvIhEb2NrZXIg57G75Z6L77yJ77ya5bmz5Y+w5oqKIDc4NjAg56uv5Y+j5L2c5Li65a+55aSW5YWl5Y+j44CCCkZST00gcHl0aG9uOjMuMTItc2xpbQoKRU5WIFBZVEhPTlVOQlVGRkVSRUQ9MSBcCiAgICBQSVBfTk9fQ0FDSEVfRElSPTEgXAogICAgVFo9QXNpYS9TaGFuZ2hhaQoKV09SS0RJUiAvYXBwCgpDT1BZIHJlcXVpcmVtZW50cy50eHQgLgpSVU4gcGlwIGluc3RhbGwgLS1yZXRyaWVzIDMgLWkgaHR0cHM6Ly9taXJyb3JzLmFsaXl1bi5jb20vcHlwaS9zaW1wbGUvIFwKICAgICAgICAtLXRydXN0ZWQtaG9zdCBtaXJyb3JzLmFsaXl1bi5jb20gLXIgcmVxdWlyZW1lbnRzLnR4dAoKQ09QWSAuIC4KCiMg5ZCR6YeP5bqT5oyJ5a2X6IqC5YiG54mH77yI5q+P54mHIDY1IE1C77yJ77yM6YG/5byA5bmz5Y+wIH4xMDBNQiDljZXmlofku7bmoKHpqozvvJvmnoTlu7rml7bmi7zlm57ljp/mlofku7bjgIIKIyDmi7zlrozmoKHpqozlrZfoioLmlbDvvIzkuI3lr7nlsLHmiqXorabvvIjnvLrniYcv5Y2K5oiq54mH5Lya6YCg5oiQ5ZCR6YeP5bqT5Yqg6L295aSx6LSl77yJ44CCCiMg5YiG54mH5LiN5Zyo5LuT5bqT6YeM5pe2KirkuI3miZPmlq3mnoTlu7oqKu+8mue8uuWug+WPquaYr+OAjOWOn+aWh+ivreS5ieajgOe0ouOAjei/meadoeiFv+epuuedgO+8jOmXruetlOeFp+W4uOOAggpSVU4gaWYgWyAtZiBzb3VyY2VzL3ZlY3Rvci92ZWN0b3JzLm5weS5wYXJ0MSBdOyB0aGVuIFwKICAgICAgICBjYXQgc291cmNlcy92ZWN0b3IvdmVjdG9ycy5ucHkucGFydCogPiBzb3VyY2VzL3ZlY3Rvci92ZWN0b3JzLm5weSBcCiAgICAgICAgJiYgcm0gLWYgc291cmNlcy92ZWN0b3IvdmVjdG9ycy5ucHkucGFydCogXAogICAgICAgICYmIGxzIC1sIHNvdXJjZXMvdmVjdG9yL3ZlY3RvcnMubnB5IFwKICAgICAgICAmJiBweXRob24gLWMgImltcG9ydCBudW1weSBhcyBucDsgdj1ucC5sb2FkKCdzb3VyY2VzL3ZlY3Rvci92ZWN0b3JzLm5weScsIG1tYXBfbW9kZT0ncicpOyBwcmludCgndmVjdG9ycycsIHYuc2hhcGUsIHYuZHR5cGUpIjsgXAogICAgZWxzZSBcCiAgICAgICAgZWNobyAiISEg5o+Q56S677ya5om+5LiN5YiwIHNvdXJjZXMvdmVjdG9yL3ZlY3RvcnMubnB5LnBhcnQq77yM5Y6f5paH6K+t5LmJ5qOA57Si6L+Z5p2h6IW/5YWz552A77yI6Zeu562U5LiN5Y+X5b2x5ZON77yJIjsgXAogICAgZmkKCiMg6YOo572y5pe26L+Y5Y6f5q2j5paH5qCR77yI5bmC562J77yM5Y+q6KGl57y677yJ44CC57q/5LiK6Zeu562U5LiN6K+75a6D77yM6L+Y5Y6f5Ye65p2l5Y+q5Li65a655Zmo6YeM6IO96LeRCiMgdG9vbHMvYnVpbGRfa2JfZGIucHkg5LiOIHRvb2xzL2NoZWNrX3F1b3Rlcy5weeOAggojIOS4jeiuqeaehOW7uuWksei0pe+8mui/meaJueato+aWh+Wvuei/kOihjOmbtuaUtuebiu+8jOS4uuWug+aKiuermeeCuemhtuS4i+e6v+S4jeWAvOW9k+OAguWksei0peaXtumhuuaJi+aKiuW9kuaho+eahOWkp+Wwj+S4jgojIOWktCAxNiDlrZfoioLmiZPov5vml6Xlv5figJTigJTmmK/ljYrmiKogZ3ppcCDov5jmmK/ooqvmjaLmiJDkuoYgTEZTIOaMh+mSiO+8jOS4gOecvOWwseiDveWIhua4heOAggpSVU4gcHl0aG9uIHRvb2xzL2V4dHJhY3Rfc291cmNlcy5weSB8fCAoZWNobyAiISEg6K2m5ZGK77ya5q2j5paH5b2S5qGj5LiN5Y+v55So77yM5LqR56uv6YeN5bu65qOA57Si5bqT5YmN6K+36YeN5LygIHNvdXJjZXMtYXJjaGl2ZS50YXIuZ3oiOyBscyAtbCBzb3VyY2VzLWFyY2hpdmUudGFyLmd6OyBoZWFkIC1jIDE2IHNvdXJjZXMtYXJjaGl2ZS50YXIuZ3ogfCBvZCAtQW4gLWMpCgojIOajgOe0ouW6k+aYr+a0vueUn+WTge+8jOS7k+W6k+mHjOS4jeW4pu+8iDM5OCBNQu+8ieOAgumVnOWDj+aehOW7uuaXtueOsOW7uu+8muayoeacieWug++8jOWbm+i3r+iejeWQiOmHjAojIEJNMjUg5LiO5ZCN55uu5Lik6Lev5piv56m655qE77yM5Y+q5Ymp6KeE5YiZ77yL5ZCR6YeP44CC57qmIDIwIOenkuOAgSszOTggTUIg6ZWc5YOP44CCCiMg5LiN5Zug5a6D5oqK56uZ54K56aG25LiL57q/77ya5bu65aSx6LSl5bCx54Wn5pen55So6KeE5YiZ77yL5ZCR6YeP562U44CCClJVTiBweXRob24gdG9vbHMvYnVpbGRfa2JfZGIucHkgfHwgZWNobyAiISEg6K2m5ZGK77yaa2Iuc3FsaXRlIOaehOW7uuWksei0pe+8jOe6v+S4iuWPqueUqOinhOWIme+8i+WQkemHjyIKCiMg5qOA57Si57Si5byV5piv5rS+55Sf5ZOB77yI57qmIDkwIE1C77yJ77yM5LuT5bqT6YeM5LiN5bim77ya5p6E5bu65pe255So5p2h55uu5bqT546w5bu677yM57qmIDUwIOenkuOAggojIOW7uuS4jeWHuuadpeS5n+S4jeaKiuermeeCuemhtuS4i+e6v+KAlOKAlGFwcC5weSDkvJrpgIDlm57ml6fnmoTop4TliJnmiZPliIbvvIjmhaLjgIHkvYbog73nrZTvvInjgIIKUlVOIHB5dGhvbiAtbSByZXRyaWV2YWwuYnVpbGQgfHwgZWNobyAiISEg6K2m5ZGK77ya5qOA57Si57Si5byV5p6E5bu65aSx6LSl77yM57q/5LiK6YCA5Zue5pen6KeE5YiZ5omT5YiGIgoKRVhQT1NFIDc4NjAKCkNNRCBbInB5dGhvbiIsICItbSIsICJ1dmljb3JuIiwgImFwcDphcHAiLCAiLS1ob3N0IiwgIjAuMC4wLjAiLCAiLS1wb3J0IiwgIjc4NjAiLCAiLS13b3JrZXJzIiwgIjEiXQo=
+# 魔搭创空间（Docker 类型）：平台把 7860 端口作为对外入口。
+FROM python:3.12-slim
+
+ENV PYTHONUNBUFFERED=1 \
+    PIP_NO_CACHE_DIR=1 \
+    TZ=Asia/Shanghai
+
+WORKDIR /app
+
+COPY requirements.txt .
+RUN pip install --retries 3 -i https://mirrors.aliyun.com/pypi/simple/ \
+        --trusted-host mirrors.aliyun.com -r requirements.txt
+
+COPY . .
+
+# 向量库按字节分片（每片 65 MB），避开平台 ~100MB 单文件校验；构建时拼回原文件。
+# 拼完校验字节数，不对就报警（缺片/半截片会造成向量库加载失败）。
+# 分片不在仓库里时**不打断构建**：缺它只是「原文语义检索」这条腿空着，问答照常。
+RUN if [ -f sources/vector/vectors.npy.part1 ]; then \
+        cat sources/vector/vectors.npy.part* > sources/vector/vectors.npy \
+        && rm -f sources/vector/vectors.npy.part* \
+        && ls -l sources/vector/vectors.npy \
+        && python -c "import numpy as np; v=np.load('sources/vector/vectors.npy', mmap_mode='r'); print('vectors', v.shape, v.dtype)"; \
+    else \
+        echo "!! 提示：找不到 sources/vector/vectors.npy.part*，原文语义检索这条腿关着（问答不受影响）"; \
+    fi
+
+# 部署时还原正文树（幂等，只补缺）。线上问答不读它，还原出来只为容器里能跑
+# tools/build_kb_db.py 与 tools/check_quotes.py。
+# 不让构建失败：这批正文对运行零收益，为它把站点顶下线不值当。失败时顺手把归档的大小与
+# 头 16 字节打进日志——是半截 gzip 还是被换成了 LFS 指针，一眼就能分清。
+RUN python tools/extract_sources.py || (echo "!! 警告：正文归档不可用，云端重建检索库前请重传 sources-archive.tar.gz"; ls -l sources-archive.tar.gz; head -c 16 sources-archive.tar.gz | od -An -c)
+
+# 检索库是派生品，仓库里不带（398 MB）。镜像构建时现建：没有它，四路融合里
+# BM25 与名目两路是空的，只剩规则＋向量。约 20 秒、+398 MB 镜像。
+# 不因它把站点顶下线：建失败就照旧用规则＋向量答。
+RUN python tools/build_kb_db.py || echo "!! 警告：kb.sqlite 构建失败，线上只用规则＋向量"
+
+# 检索索引是派生品（约 90 MB），仓库里不带：构建时用条目库现建，约 50 秒。
+# 建不出来也不把站点顶下线——app.py 会退回旧的规则打分（慢、但能答）。
+RUN python -m retrieval.build || echo "!! 警告：检索索引构建失败，线上退回旧规则打分"
+
+EXPOSE 7860
+
+CMD ["python", "-m", "uvicorn", "app:app", "--host", "0.0.0.0", "--port", "7860", "--workers", "1"]

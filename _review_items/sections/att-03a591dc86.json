@@ -1,1 +1,212 @@
-ewogImtleSI6ICJhdHQtMDNhNTkxZGM4NiIsCiAidGl0bGUiOiAi5Lit5Lyg5pWZ5a2X44CUMjAxOeOAlTI1MSDlj7cg5Lit5Zu95Lyg5aqS5aSn5a2m57K+5ZOB5pWZ5p2Q5bu66K6+6aG555uu5a6e5pa95Yqe5rOV77yI6K+V6KGM77yJIiwKICJ0cnVuY2F0ZWQiOiBmYWxzZSwKICJzZWN0aW9ucyI6IFsKICB7CiAgICJubyI6ICLpgJrnn6UiLAogICAiaGVhZGluZyI6ICLljbDlj5HpgJrnn6UiLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbMSwgMThdLAogICAiaXRlbXMiOiBbInB0LTk1NmVmMjY0ZDgiLCAicHQtZWZlZWIzYjI4ZCIsICJwdC05MzdhMmY4M2Q4Il0sCiAgICJjaGFycyI6IDI3NQogIH0sCiAgewogICAibm8iOiAi5qCH6aKYIiwKICAgImhlYWRpbmciOiAi5Yqe5rOV5ZCN56ewIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzIxLCAyMV0sCiAgICJpdGVtcyI6IFsicHQtM2ZhZjIyOWE2MiJdLAogICAiY2hhcnMiOiAyNgogIH0sCiAgewogICAibm8iOiAi56ys5LiA56ugIiwKICAgImhlYWRpbmciOiAi5oC7IOWImSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzIzLCAzNl0sCiAgICJpdGVtcyI6IFsicHQtZmJjZjM1Y2QwNSJdLAogICAiY2hhcnMiOiAzODgKICB9LAogIHsKICAgIm5vIjogIuesrOS4gOadoSIsCiAgICJoZWFkaW5nIjogIuWItuWumuebrueahOS4juS+neaNriIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFsyNCwgMjZdLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogOTAKICB9LAogIHsKICAgIm5vIjogIuesrOS6jOadoSIsCiAgICJoZWFkaW5nIjogIuW7uuiuvuebruagh+S4jumHjeeCuSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFsyNywgMzFdLAogICAiaXRlbXMiOiBbInB0LWZiOGFkZDQ5OWUiXSwKICAgImNoYXJzIjogMTQzCiAgfSwKICB7CiAgICJubyI6ICLnrKzkuInmnaEiLAogICAiaGVhZGluZyI6ICLkvZPnjrDmlrDmlofnp5HmlrDlt6Xnp5HopoHmsYIiLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbMzIsIDM0XSwKICAgIml0ZW1zIjogWyJwdC1lNmU4OWViNDY5Il0sCiAgICJjaGFycyI6IDY5CiAgfSwKICB7CiAgICJubyI6ICLnrKzlm5vmnaEiLAogICAiaGVhZGluZyI6ICLnurPlhaXmoKHnuqfmlZnlrabmlLnpnanpobnnm67nu5/kuIDnrqHnkIYiLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbMzUsIDM2XSwKICAgIml0ZW1zIjogWyJwdC00M2ZjYWM0NDE5Il0sCiAgICJjaGFycyI6IDQ3CiAgfSwKICB7CiAgICJubyI6ICLnrKzkuoznq6AiLAogICAiaGVhZGluZyI6ICLotYTliqnojIPlm7TlkozlpZblirHlr7nosaEiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFszOCwgNzVdLAogICAiaXRlbXMiOiBbInB0LThiNzM4ZmY1YWUiXSwKICAgImNoYXJzIjogNzQ5CiAgfSwKICB7CiAgICJubyI6ICLnrKzkupTmnaEiLAogICAiaGVhZGluZyI6ICLnsr7lk4HmlZnmnZDlu7rorr7pobnnm67nmoTotYTliqnojIPlm7QiLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbMzksIDY2XSwKICAgIml0ZW1zIjogWyJwdC1hYzM3YzA4ZDU3IiwgInB0LTU5YzIzODIwOGYiLCAicHQtNTZhM2ZjNjUwZiIsICJwdC03MTMzM2RmNTMxIiwgInB0LTRmNmNjNjg5NjUiLCAicHQtODZlNjgzNmExMiJdLAogICAiY2hhcnMiOiA1MzEKICB9LAogIHsKICAgIm5vIjogIuesrOWFreadoSIsCiAgICJoZWFkaW5nIjogIueyvuWTgeaVmeadkOWlluWKsSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFs2OCwgNzVdLAogICAiaXRlbXMiOiBbInB0LWJlMTg0MmIwZGQiLCAicHQtOWY3MGNhYzk2OCIsICJwdC1lZTE5OGFjMWY1Il0sCiAgICJjaGFycyI6IDE4MwogIH0sCiAgewogICAibm8iOiAi56ys5LiJ56ugIiwKICAgImhlYWRpbmciOiAi6aG555uu6K+E5a6hIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbNzgsIDg5XSwKICAgIml0ZW1zIjogWyJwdC1mNzBhMzE3NzM2Il0sCiAgICJjaGFycyI6IDMzMQogIH0sCiAgewogICAibm8iOiAi56ys5LiD5p2hIiwKICAgImhlYWRpbmciOiAi57K+5ZOB5pWZ5p2Q55qE6K+E5a6h5qCH5YeGIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzc5LCA4OF0sCiAgICJpdGVtcyI6IFsicHQtYjBkYWZkODFjNSIsICJwdC04ZmQ4NDNhN2E4IiwgInB0LTY0NGM4MDJkMjYiLCAicHQtNTRjNmEwMzk3YyJdLAogICAiY2hhcnMiOiAyNjAKICB9LAogIHsKICAgIm5vIjogIuesrOWFq+adoSIsCiAgICJoZWFkaW5nIjogIue7hOe7h+agoeWGheWkluS4k+WutuivhOWuoSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFs4OSwgODldLAogICAiaXRlbXMiOiBbInB0LWRlMzU0MGNhYjIiXSwKICAgImNoYXJzIjogMzIKICB9LAogIHsKICAgIm5vIjogIuesrOWbm+eroCIsCiAgICJoZWFkaW5nIjogIumhueebrueuoeeQhiIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzkxLCAxMjFdLAogICAiaXRlbXMiOiBbInB0LTBlZWQzMzA5Y2YiXSwKICAgImNoYXJzIjogNjU5CiAgfSwKICB7CiAgICJubyI6ICLnrKzkuZ3mnaEiLAogICAiaGVhZGluZyI6ICLnurPlhaXmlZnlrabmlLnpnanpobnnm67nu5/kuIDop4TliJIiLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbOTIsIDkzXSwKICAgIml0ZW1zIjogW10sCiAgICJjaGFycyI6IDUzCiAgfSwKICB7CiAgICJubyI6ICLnrKzljYHmnaEiLAogICAiaGVhZGluZyI6ICLkuIDlubTlhoXlrozmiJDkuI7kuabnqL/ov5vluqbopoHmsYIiLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbOTQsIDk1XSwKICAgIml0ZW1zIjogWyJwdC1iYWVmZmY1NmFhIl0sCiAgICJjaGFycyI6IDUyCiAgfSwKICB7CiAgICJubyI6ICLnrKzljYHkuIDmnaEiLAogICAiaGVhZGluZyI6ICLotYTliqnnu4/otLnkuIDmrKHmoLjlrprlhajpop3mi6jku5giLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbOTYsIDk3XSwKICAgIml0ZW1zIjogWyJwdC1hYmJhZGZiODY0Il0sCiAgICJjaGFycyI6IDM5CiAgfSwKICB7CiAgICJubyI6ICLnrKzljYHkuozmnaEiLAogICAiaGVhZGluZyI6ICLkuI3lvpfmm7TmjaLpobnnm67lkI3np7DlkozkuLvnvJYiLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbOTgsIDk5XSwKICAgIml0ZW1zIjogWyJwdC00NzcxOTc2MDQxIl0sCiAgICJjaGFycyI6IDM0CiAgfSwKICB7CiAgICJubyI6ICLnrKzljYHkuInmnaEiLAogICAiaGVhZGluZyI6ICLmkqTplIDpobnnm67lpITnkIbnmoTlm5vnp43mg4XlvaIiLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbMTAwLCAxMTFdLAogICAiaXRlbXMiOiBbInB0LWYzNzNjNmRhNjgiLCAicHQtMWQwYzU2ZTJmZiIsICJwdC01NGY3NGFiY2JkIiwgInB0LWIwZGRlNGQ1ZGMiXSwKICAgImNoYXJzIjogMTkwCiAgfSwKICB7CiAgICJubyI6ICLnrKzljYHlm5vmnaEiLAogICAiaGVhZGluZyI6ICLnu5PpobnpibTlrpoiLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbMTEyLCAxMTNdLAogICAiaXRlbXMiOiBbInB0LTg3YWEyNmFiMzciXSwKICAgImNoYXJzIjogNTEKICB9LAogIHsKICAgIm5vIjogIuesrOWNgeS6lOadoSIsCiAgICJoZWFkaW5nIjogIuacquaMieacn+e7k+mhueeahOWQjuaenCIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFsxMTQsIDExNV0sCiAgICJpdGVtcyI6IFsicHQtODA1OGI3ZWExZCJdLAogICAiY2hhcnMiOiA1OQogIH0sCiAgewogICAibm8iOiAi56ys5Y2B5YWt5p2hIiwKICAgImhlYWRpbmciOiAi5Ye654mI5YmN5ZCO55qE55Sz5oql5LiO6K+E5a6h5aWW5YqxIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzExNiwgMTE5XSwKICAgIml0ZW1zIjogWyJwdC04ZTA2OWU3YzViIl0sCiAgICJjaGFycyI6IDk1CiAgfSwKICB7CiAgICJubyI6ICLnrKzljYHkuIPmnaEiLAogICAiaGVhZGluZyI6ICLop6Pph4rmnYPkuI7mlr3ooYzml6XmnJ8iLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbMTIwLCAxMjFdLAogICAiaXRlbXMiOiBbInB0LWJhZTUwYTg0ZjMiXSwKICAgImNoYXJzIjogNDkKICB9LAogIHsKICAgIm5vIjogIueJiOiusCIsCiAgICJoZWFkaW5nIjogIuWNsOWPkeeJiOiusCIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFsxMjMsIDEyM10sCiAgICJpdGVtcyI6IFtdLAogICAiY2hhcnMiOiAzNgogIH0KIF0sCiAiaXRlbXMiOiBbInB0LTk1NmVmMjY0ZDgiLCAicHQtZWZlZWIzYjI4ZCIsICJwdC05MzdhMmY4M2Q4IiwgInB0LTNmYWYyMjlhNjIiLCAicHQtZmJjZjM1Y2QwNSIsICJwdC1mYjhhZGQ0OTllIiwgInB0LWU2ZTg5ZWI0NjkiLCAicHQtNDNmY2FjNDQxOSIsICJwdC04YjczOGZmNWFlIiwgInB0LWFjMzdjMDhkNTciLCAicHQtNTljMjM4MjA4ZiIsICJwdC01NmEzZmM2NTBmIiwgInB0LTcxMzMzZGY1MzEiLCAicHQtNGY2Y2M2ODk2NSIsICJwdC04NmU2ODM2YTEyIiwgInB0LWJlMTg0MmIwZGQiLCAicHQtOWY3MGNhYzk2OCIsICJwdC1lZTE5OGFjMWY1IiwgInB0LWY3MGEzMTc3MzYiLCAicHQtYjBkYWZkODFjNSIsICJwdC04ZmQ4NDNhN2E4IiwgInB0LTY0NGM4MDJkMjYiLCAicHQtNTRjNmEwMzk3YyIsICJwdC1kZTM1NDBjYWIyIiwgInB0LTBlZWQzMzA5Y2YiLCAicHQtYmFlZmZmNTZhYSIsICJwdC1hYmJhZGZiODY0IiwgInB0LTQ3NzE5NzYwNDEiLCAicHQtZjM3M2M2ZGE2OCIsICJwdC0xZDBjNTZlMmZmIiwgInB0LTU0Zjc0YWJjYmQiLCAicHQtYjBkZGU0ZDVkYyIsICJwdC04N2FhMjZhYjM3IiwgInB0LTgwNThiN2VhMWQiLCAicHQtOGUwNjllN2M1YiIsICJwdC1iYWU1MGE4NGYzIl0sCiAibm90ZXMiOiBbCiAgIlBERiDovazlhpnvvJrnrKwgMjDjgIE0NuOAgTc344CBMTAz44CBMTI0IOihjOaYr+mhteeggeihjO+8iOOAjC0xLeOAjeOAjC0yLeOAjeOAjC0zLeOAjeOAjC00LeOAjeOAjC01LeOAje+8ieOAguesrCA0NuOAgTEwMyDooYzlpLnlnKjmnaHmlofkuK3pl7TvvIjnrKzkupTmnaEgMS4g55qE5a2m56eR5riF5Y2V6YeM44CB56ys5Y2B5LiJ5p2h55qE5pKk6ZSA5oOF5b2i6YeM77yJ77yM6ZqP5omA5Zyo6IqC5L+d55WZ77yb56ysIDIwIOihjO+8iOmAmuefpeS4juWKnuazleagh+mimOS5i+mXtOeahOe6r+mhteeggeihjO+8ieS4juesrCAxMjQg6KGM77yI5pyr6aG16aG156CB77yM5Zyo54mI6K6w5LmL5ZCO77yJ5oyJ6IqC6aaW5Yik5o2u5LiN5bm25YWl5Lu75L2V6IqC77yM5pWF55WZ5LiLIDIg5aSE6Z2e56m66KGM6KaG55uW56m66ZqZ44CCIiwKICAi56ysIDHigJMxOCDooYzkuLrjgIzmloflj7fvvIvljbDlj5HpgJrnn6XmoIfpopjvvIgz4oCTNiDooYzvvIzljp/moIfpopjliIYgMyDooYzkuJTluKbnvKnov5vnqbrmoLzvvInvvIvkuLvpgIHmnLrlhbPvvIvpgJrnn6XmraPmlofvvIvnibnmraTpgJrnn6XvvIvokL3mrL7vvIjkuK3lm73kvKDlqpLlpKflrabvvI8yMDE5IOW5tCA5IOaciCAyNiDml6XvvInjgI3vvIzlkIjlubbkuLrjgIzpgJrnn6XjgI3kuIDoioLvvJvnrKwgMjEg6KGM5piv44CK5Yqe5rOV44CL5qCH6aKY5q2j6aKY77yM5Y2V5YiX44CM5qCH6aKY44CN6IqC44CCIiwKICAi5pys5Lu9KirmsqHmnIkgcnVsZS0g5paH5qGj57qn5p2h55uuKirvvJozNiDmnaHmnaHnm67lhajmmK8gcHQtKu+8jOWdh+acieW8leaWh+W5tuWQhOiHquiQveWcqOiKguWGhe+8jOaWh+aho+e6pyBpdGVtcyDlm6DmraTlsLHmmK/lvJXnlKjmnKzmlofnmoTlhajpg6ggMzYg5p2h44CCIiwKICAi57uT5p6E5Li644CM56ugIOKGkiDmnaHjgI3kuKTnuqfvvJo0IOS4queroOS4uueItuiKgu+8iOWMuumXtO+8neeroOiMg+WbtO+8ieOAgeWFtuS4i+WQhOadoeS4uuWtkOiKgu+8jOWdh+ecn+W1jOWll+OAguWbm+adoeW8leaWh+S7jueroOagh+mimOihjOi1t+eul+OAgei3qOi/m+ivpeeroOmmluadoe+8jOiQveeroOeItuiKguaJjeiQveW+l+S9j++8jOaVheeroOe6p+iKguWQhOaMgiAxIOadoe+8mnB0LWZiY2YzNWNkMDXvvIjnrKzkuIDnq6DmgLvliJnnrKzkuIDmnaHigKbvvInjgIFwdC04YjczOGZmNWFl77yI56ys5LqM56ug6LWE5Yqp6IyD5Zu05ZKM5aWW5Yqx5a+56LGh56ys5LqU5p2h4oCm77yJ44CBcHQtZjcwYTMxNzczNu+8iOesrOS4ieeroOmhueebruivhOWuoeesrOS4g+adoeKApu+8ieOAgXB0LTBlZWQzMzA5Y2bvvIjnrKzlm5vnq6Dpobnnm67nrqHnkIbnrKzkuZ3mnaHigKbvvInjgIIiLAogICLnq6DnlKjljp/mlofmoIfpopjvvIjmgLsg5YiZ77yP6LWE5Yqp6IyD5Zu05ZKM5aWW5Yqx5a+56LGh77yP6aG555uu6K+E5a6h77yP6aG555uu566h55CG77yJ5qCHIGF1dGhvcu+8jOmAkOWtl+WPr+afpe+8m+adoee6p+WOn+aWh+aXoOadoeWQje+8jGhlYWRpbmcg5oyJ5p2h5paH5qaC5ous5qCHIGRlcml2ZWTvvIzkuI4gbm/vvIjnrKzkuIDmnaHigKbnrKzljYHkuIPmnaHvvInkuI3ph43lpI3jgIIiLAogICJpdGVtcy5qc29uIOeahOaLvOaOpeagh+mimOS4jeWPr+S/oe+8jOaMiSBxdW90ZSDlrprkvY3vvJpwdC00NzcxOTc2MDQxIOagh+mimOWGmeWIsOOAjOesrOWNgeS6jOadoeKApu+9nOesrOWNgeS4ieadoeWHoeacieS4i+WIl+aDheW9ouS5i+S4gOiAheKApuOAje+8jOW8leaWh+mmliAyNiDlrZfmmK/nrKzljYHkuozmnaHpgqPkuIDlj6XvvIzokL3jgIznrKzljYHkuozmnaHjgI3oioLvvJtwdC02NDRjODAyZDI2IOS4jiBwdC01NGM2YTAzOTdjIOeahOagh+mimOmDveW4puOAjDQu5pWZ5p2Q5rOo6YeN5Z+55YW75a2m55Sf4oCm44CN5YmN57yA77yM5a6e6ZmF5byV5paH5YiG5Yir5piv6K+E5a6h5qCH5YeG56ysIDQg5p2h5LiO56ysIDUg5p2h77yM6YO96JC944CM56ys5LiD5p2h44CN6IqC77ybcHQtNTRmNzRhYmNiZOOAgXB0LWIwZGRlNGQ1ZGMg55qE5qCH6aKY5bim44CMMi7nu4/mn6Xlrp7igKbjgI3liY3nvIDvvIzlrp7pmYXlvJXmlofmmK/mkqTplIDmg4XlvaLnmoTnrKwgM+OAgTQg5p2h77yM6JC944CM56ys5Y2B5LiJ5p2h44CN6IqC44CCIiwKICAi56ys5LqU5p2h5byA5aS077yIcHQtOGI3MzhmZjVhZe+8iei/nuivu+OAjOesrOS6jOeroOi1hOWKqeiMg+WbtOWSjOWlluWKseWvueixoeesrOS6lOadoeeyvuWTgeaVmeadkOW7uuiuvumhueebrueahOi1hOWKqeiMg+WbtO+8mjEu5qC55o2u5oiR5qCh4oCcMisxKzMrTuKAneWtpuenkeW7uuiuvuinhOWIkuKApuOAje+8jOaVheiQveesrOS6jOeroOeItuiKgu+8m+WFtuS4iyAxLuKAlDYuIOWFreS4qui1hOWKqeiMg+WbtOWIhumhueeUsSA2IOadoeadoeebruWIhuWIq+W8le+8iOesrCA0NiDooYzpobXnoIHlpLnlnKggMS4g55qE5a2m56eR5riF5Y2V5Lit6Ze077yM44CM56CU56m255Sf5LiT5Lia44CB5pys56eR5LiT5Lia55qE5LiT5Lia5Z+656GA6K++5ZKM5LiT5Lia5qC45b+D6K++5pWZ5p2Q44CC44CN5Y2zIHB0LWFjMzdjMDhkNTcg55qE5YWo5paH77yM6JC956ys5LqU5p2h6IqC77yJ44CCIiwKICAi5Y6f5paH5byC5bi477yI5pS56KGML+epuuihjOWvhumbhu+8ie+8muacrOaWh+S7tuaYryBQREYg6YCQ6KGM6L2s5YaZ77yM5q2j5paH5q+P6KGM5LmL6Ze05aSn6YeP56m66KGM77yI5aaCIDLjgIE344CBMTDjgIExNOOAgTE244CBMTnjgIEyMuOAgTM344CBNDXjgIE0N+OAgTQ5IOetieihjO+8ie+8jOS4lOesrCAz4oCTNiDooYzmoIfpopjluKblpKfmrrXnvKnov5vnqbrmoLzjgIHnrKwgMjEg6KGM44CM5Lit5Zu95Lyg5aqS5aSn5a2m57K+5ZOB5pWZ5p2Q5bu66K6+6aG555uu5a6e5pa95Yqe5rOV77yI6K+V6KGM77yJ44CN5YmN5pyJIDMg5Liq56m65qC877yb6KGM5Y+35LiA5b6L5oyJ56m655m96KGM6K6h5YWl77yIc291cmNlcyDljp/mlocgMTI0IOihjO+8ieOAgiIsCiAgIuesrCAxMjMg6KGM5Li654mI6K6w44CM5Lit5Zu95Lyg5aqS5aSn5a2m5YWa5pS/5Yqe5YWs5a6kIOS4u+WKqOWFrOW8gCAyMDE5IOW5tCA5IOaciCAyNiDml6XljbDlj5HjgI3vvIzljZXliJfjgIzniYjorrDjgI3kuIDoioLjgIHml6DmnaHnm67lvJXmlofvvJvnrKwgMTI0IOihjOacq+mhtemhteeggeacquW5tuWFpeOAgiIsCiAgIuato+aWh+WIsOesrCAxMjEg6KGM56ys5Y2B5LiD5p2h57uT5p2f77yM56ug5Y+344CB5p2h5Y+35Z2H6L+e5Y+377yI56ys5LiA5p2h4oCU56ys5Y2B5LiD5p2h77yJ77yM5peg5oiq5pat77yMdHJ1bmNhdGVkPWZhbHNl44CCIgogXQp9Cg==
+{
+ "key": "att-03a591dc86",
+ "title": "中传教字〔2019〕251 号 中国传媒大学精品教材建设项目实施办法（试行）",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "通知",
+   "heading": "印发通知",
+   "heading_kind": "derived",
+   "lines": [1, 18],
+   "items": ["pt-956ef264d8", "pt-efeeb3b28d", "pt-937a2f83d8"],
+   "chars": 275
+  },
+  {
+   "no": "标题",
+   "heading": "办法名称",
+   "heading_kind": "derived",
+   "lines": [21, 21],
+   "items": ["pt-3faf229a62"],
+   "chars": 26
+  },
+  {
+   "no": "第一章",
+   "heading": "总 则",
+   "heading_kind": "author",
+   "lines": [23, 36],
+   "items": ["pt-fbcf35cd05"],
+   "chars": 388
+  },
+  {
+   "no": "第一条",
+   "heading": "制定目的与依据",
+   "heading_kind": "derived",
+   "lines": [24, 26],
+   "items": [],
+   "chars": 90
+  },
+  {
+   "no": "第二条",
+   "heading": "建设目标与重点",
+   "heading_kind": "derived",
+   "lines": [27, 31],
+   "items": ["pt-fb8add499e"],
+   "chars": 143
+  },
+  {
+   "no": "第三条",
+   "heading": "体现新文科新工科要求",
+   "heading_kind": "derived",
+   "lines": [32, 34],
+   "items": ["pt-e6e89eb469"],
+   "chars": 69
+  },
+  {
+   "no": "第四条",
+   "heading": "纳入校级教学改革项目统一管理",
+   "heading_kind": "derived",
+   "lines": [35, 36],
+   "items": ["pt-43fcac4419"],
+   "chars": 47
+  },
+  {
+   "no": "第二章",
+   "heading": "资助范围和奖励对象",
+   "heading_kind": "author",
+   "lines": [38, 75],
+   "items": ["pt-8b738ff5ae"],
+   "chars": 749
+  },
+  {
+   "no": "第五条",
+   "heading": "精品教材建设项目的资助范围",
+   "heading_kind": "derived",
+   "lines": [39, 66],
+   "items": ["pt-ac37c08d57", "pt-59c238208f", "pt-56a3fc650f", "pt-71333df531", "pt-4f6cc68965", "pt-86e6836a12"],
+   "chars": 531
+  },
+  {
+   "no": "第六条",
+   "heading": "精品教材奖励",
+   "heading_kind": "derived",
+   "lines": [68, 75],
+   "items": ["pt-be1842b0dd", "pt-9f70cac968", "pt-ee198ac1f5"],
+   "chars": 183
+  },
+  {
+   "no": "第三章",
+   "heading": "项目评审",
+   "heading_kind": "author",
+   "lines": [78, 89],
+   "items": ["pt-f70a317736"],
+   "chars": 331
+  },
+  {
+   "no": "第七条",
+   "heading": "精品教材的评审标准",
+   "heading_kind": "derived",
+   "lines": [79, 88],
+   "items": ["pt-b0dafd81c5", "pt-8fd843a7a8", "pt-644c802d26", "pt-54c6a0397c"],
+   "chars": 260
+  },
+  {
+   "no": "第八条",
+   "heading": "组织校内外专家评审",
+   "heading_kind": "derived",
+   "lines": [89, 89],
+   "items": ["pt-de3540cab2"],
+   "chars": 32
+  },
+  {
+   "no": "第四章",
+   "heading": "项目管理",
+   "heading_kind": "author",
+   "lines": [91, 121],
+   "items": ["pt-0eed3309cf"],
+   "chars": 659
+  },
+  {
+   "no": "第九条",
+   "heading": "纳入教学改革项目统一规划",
+   "heading_kind": "derived",
+   "lines": [92, 93],
+   "items": [],
+   "chars": 53
+  },
+  {
+   "no": "第十条",
+   "heading": "一年内完成与书稿进度要求",
+   "heading_kind": "derived",
+   "lines": [94, 95],
+   "items": ["pt-baefff56aa"],
+   "chars": 52
+  },
+  {
+   "no": "第十一条",
+   "heading": "资助经费一次核定全额拨付",
+   "heading_kind": "derived",
+   "lines": [96, 97],
+   "items": ["pt-abbadfb864"],
+   "chars": 39
+  },
+  {
+   "no": "第十二条",
+   "heading": "不得更换项目名称和主编",
+   "heading_kind": "derived",
+   "lines": [98, 99],
+   "items": ["pt-4771976041"],
+   "chars": 34
+  },
+  {
+   "no": "第十三条",
+   "heading": "撤销项目处理的四种情形",
+   "heading_kind": "derived",
+   "lines": [100, 111],
+   "items": ["pt-f373c6da68", "pt-1d0c56e2ff", "pt-54f74abcbd", "pt-b0dde4d5dc"],
+   "chars": 190
+  },
+  {
+   "no": "第十四条",
+   "heading": "结项鉴定",
+   "heading_kind": "derived",
+   "lines": [112, 113],
+   "items": ["pt-87aa26ab37"],
+   "chars": 51
+  },
+  {
+   "no": "第十五条",
+   "heading": "未按期结项的后果",
+   "heading_kind": "derived",
+   "lines": [114, 115],
+   "items": ["pt-8058b7ea1d"],
+   "chars": 59
+  },
+  {
+   "no": "第十六条",
+   "heading": "出版前后的申报与评审奖励",
+   "heading_kind": "derived",
+   "lines": [116, 119],
+   "items": ["pt-8e069e7c5b"],
+   "chars": 95
+  },
+  {
+   "no": "第十七条",
+   "heading": "解释权与施行日期",
+   "heading_kind": "derived",
+   "lines": [120, 121],
+   "items": ["pt-bae50a84f3"],
+   "chars": 49
+  },
+  {
+   "no": "版记",
+   "heading": "印发版记",
+   "heading_kind": "derived",
+   "lines": [123, 123],
+   "items": [],
+   "chars": 36
+  }
+ ],
+ "items": ["pt-956ef264d8", "pt-efeeb3b28d", "pt-937a2f83d8", "pt-3faf229a62", "pt-fbcf35cd05", "pt-fb8add499e", "pt-e6e89eb469", "pt-43fcac4419", "pt-8b738ff5ae", "pt-ac37c08d57", "pt-59c238208f", "pt-56a3fc650f", "pt-71333df531", "pt-4f6cc68965", "pt-86e6836a12", "pt-be1842b0dd", "pt-9f70cac968", "pt-ee198ac1f5", "pt-f70a317736", "pt-b0dafd81c5", "pt-8fd843a7a8", "pt-644c802d26", "pt-54c6a0397c", "pt-de3540cab2", "pt-0eed3309cf", "pt-baefff56aa", "pt-abbadfb864", "pt-4771976041", "pt-f373c6da68", "pt-1d0c56e2ff", "pt-54f74abcbd", "pt-b0dde4d5dc", "pt-87aa26ab37", "pt-8058b7ea1d", "pt-8e069e7c5b", "pt-bae50a84f3"],
+ "notes": [
+  "PDF 转写：第 20、46、77、103、124 行是页码行（「-1-」「-2-」「-3-」「-4-」「-5-」）。第 46、103 行夹在条文中间（第五条 1. 的学科清单里、第十三条的撤销情形里），随所在节保留；第 20 行（通知与办法标题之间的纯页码行）与第 124 行（末页页码，在版记之后）按节首判据不并入任何节，故留下 2 处非空行覆盖空隙。",
+  "第 1–18 行为「文号＋印发通知标题（3–6 行，原标题分 3 行且带缩进空格）＋主送机关＋通知正文＋特此通知＋落款（中国传媒大学／2019 年 9 月 26 日）」，合并为「通知」一节；第 21 行是《办法》标题正题，单列「标题」节。",
+  "本份**没有 rule- 文档级条目**：36 条条目全是 pt-*，均有引文并各自落在节内，文档级 items 因此就是引用本文的全部 36 条。",
+  "结构为「章 → 条」两级：4 个章为父节（区间＝章范围）、其下各条为子节，均真嵌套。四条引文从章标题行起算、跨进该章首条，落章父节才落得住，故章级节各挂 1 条：pt-fbcf35cd05（第一章总则第一条…）、pt-8b738ff5ae（第二章资助范围和奖励对象第五条…）、pt-f70a317736（第三章项目评审第七条…）、pt-0eed3309cf（第四章项目管理第九条…）。",
+  "章用原文标题（总 则／资助范围和奖励对象／项目评审／项目管理）标 author，逐字可查；条级原文无条名，heading 按条文概括标 derived，与 no（第一条…第十七条）不重复。",
+  "items.json 的拼接标题不可信，按 quote 定位：pt-4771976041 标题写到「第十二条…｜第十三条凡有下列情形之一者…」，引文首 26 字是第十二条那一句，落「第十二条」节；pt-644c802d26 与 pt-54c6a0397c 的标题都带「4.教材注重培养学生…」前缀，实际引文分别是评审标准第 4 条与第 5 条，都落「第七条」节；pt-54f74abcbd、pt-b0dde4d5dc 的标题带「2.经查实…」前缀，实际引文是撤销情形的第 3、4 条，落「第十三条」节。",
+  "第五条开头（pt-8b738ff5ae）连读「第二章资助范围和奖励对象第五条精品教材建设项目的资助范围：1.根据我校“2+1+3+N”学科建设规划…」，故落第二章父节；其下 1.—6. 六个资助范围分项由 6 条条目分别引（第 46 行页码夹在 1. 的学科清单中间，「研究生专业、本科专业的专业基础课和专业核心课教材。」即 pt-ac37c08d57 的全文，落第五条节）。",
+  "原文异常（改行/空行密集）：本文件是 PDF 逐行转写，正文每行之间大量空行（如 2、7、10、14、16、19、22、37、45、47、49 等行），且第 3–6 行标题带大段缩进空格、第 21 行「中国传媒大学精品教材建设项目实施办法（试行）」前有 3 个空格；行号一律按空白行计入（sources 原文 124 行）。",
+  "第 123 行为版记「中国传媒大学党政办公室 主动公开 2019 年 9 月 26 日印发」，单列「版记」一节、无条目引文；第 124 行末页页码未并入。",
+  "正文到第 121 行第十七条结束，章号、条号均连号（第一条—第十七条），无截断，truncated=false。"
+ ]
+}

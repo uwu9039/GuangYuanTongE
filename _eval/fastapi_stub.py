@@ -1,1 +1,65 @@
-IiIi5a+85YWlIGFwcC5weSDnlKjnmoQgZmFzdGFwaSDljaDkvY3lrp7njrDvvIjlj6rkuLrkuoblnKjoo7ggbnVtcHkg546v5aKD6YeM6LCD55So57qv5qOA57Si5Ye95pWw77yJ44CCCgrkuI3mmK8gRmFzdEFQSSDnmoTmm7/ku6Plk4HvvJrlj6rlrp7njrAgYXBwLnB5IOWcqCBpbXBvcnQg5pyf55So5Yiw55qE6YKj5Yeg5Liq56ym5Y+377yMCmBAYXBwLmdldC8ucG9zdC8ubWlkZGxld2FyZS8uZXhjZXB0aW9uX2hhbmRsZXJgIOS4gOW+i+i/lOWbnuWOn+WHveaVsO+8jGBtb3VudGAg56m66L2s44CCCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgpmcm9tIHR5cGluZyBpbXBvcnQgQW55LCBDYWxsYWJsZQoKCmNsYXNzIEhUVFBFeGNlcHRpb24oRXhjZXB0aW9uKToKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBzdGF0dXNfY29kZTogaW50ID0gNTAwLCBkZXRhaWw6IEFueSA9ICIiKToKICAgICAgICBzZWxmLnN0YXR1c19jb2RlID0gc3RhdHVzX2NvZGUKICAgICAgICBzZWxmLmRldGFpbCA9IGRldGFpbAogICAgICAgIHN1cGVyKCkuX19pbml0X18oZGV0YWlsKQoKCmNsYXNzIFJlcXVlc3Q6ICAjIG5vcWE6IEQxMDEgLSDku4XkvZznsbvlnovljaDkvY0KICAgIGhlYWRlcnM6IGRpY3QgPSB7fQogICAgdXJsOiBBbnkgPSBOb25lCgoKY2xhc3MgX1JvdXRlOgogICAgZGVmIF9faW5pdF9fKHNlbGYsICphOiBBbnksICoqa3c6IEFueSkgLT4gTm9uZToKICAgICAgICBzZWxmLmFyZ3MgPSBhCiAgICAgICAgc2VsZi5rdyA9IGt3CgogICAgZGVmIF9fY2FsbF9fKHNlbGYsIGZuOiBDYWxsYWJsZVsuLi4sIEFueV0pIC0+IENhbGxhYmxlWy4uLiwgQW55XToKICAgICAgICByZXR1cm4gZm4KCgpjbGFzcyBGYXN0QVBJOgogICAgZGVmIF9faW5pdF9fKHNlbGYsICphOiBBbnksICoqa3c6IEFueSkgLT4gTm9uZToKICAgICAgICBzZWxmLnRpdGxlID0ga3cuZ2V0KCJ0aXRsZSIsICIiKQogICAgICAgIHNlbGYudmVyc2lvbiA9IGt3LmdldCgidmVyc2lvbiIsICIiKQogICAgICAgIHNlbGYucm91dGVyID0gX1JvdXRlKCkKICAgICAgICBzZWxmLnJvdXRlczogbGlzdFtBbnldID0gW10KCiAgICAjIOijhemlsOWZqOS4gOW+i+i/lOWbnuWOn+WHveaVsO+8jOi3r+eUseihqOS4jeW7ugogICAgZGVmIGdldChzZWxmLCAqYTogQW55LCAqKmt3OiBBbnkpIC0+IF9Sb3V0ZToKICAgICAgICByZXR1cm4gX1JvdXRlKCkKCiAgICBkZWYgcG9zdChzZWxmLCAqYTogQW55LCAqKmt3OiBBbnkpIC0+IF9Sb3V0ZToKICAgICAgICByZXR1cm4gX1JvdXRlKCkKCiAgICBkZWYgcHV0KHNlbGYsICphOiBBbnksICoqa3c6IEFueSkgLT4gX1JvdXRlOgogICAgICAgIHJldHVybiBfUm91dGUoKQoKICAgIGRlZiBkZWxldGUoc2VsZiwgKmE6IEFueSwgKiprdzogQW55KSAtPiBfUm91dGU6CiAgICAgICAgcmV0dXJuIF9Sb3V0ZSgpCgogICAgZGVmIG1pZGRsZXdhcmUoc2VsZiwgKmE6IEFueSwgKiprdzogQW55KSAtPiBfUm91dGU6CiAgICAgICAgcmV0dXJuIF9Sb3V0ZSgpCgogICAgZGVmIGV4Y2VwdGlvbl9oYW5kbGVyKHNlbGYsICphOiBBbnksICoqa3c6IEFueSkgLT4gX1JvdXRlOgogICAgICAgIHJldHVybiBfUm91dGUoKQoKICAgIGRlZiBtb3VudChzZWxmLCAqYTogQW55LCAqKmt3OiBBbnkpIC0+IE5vbmU6CiAgICAgICAgcmV0dXJuIE5vbmUKCiAgICBkZWYgaW5jbHVkZV9yb3V0ZXIoc2VsZiwgKmE6IEFueSwgKiprdzogQW55KSAtPiBOb25lOgogICAgICAgIHJldHVybiBOb25lCgogICAgZGVmIGFkZF9taWRkbGV3YXJlKHNlbGYsICphOiBBbnksICoqa3c6IEFueSkgLT4gTm9uZToKICAgICAgICByZXR1cm4gTm9uZQo=
+"""导入 app.py 用的 fastapi 占位实现（只为了在裸 numpy 环境里调用纯检索函数）。
+
+不是 FastAPI 的替代品：只实现 app.py 在 import 期用到的那几个符号，
+`@app.get/.post/.middleware/.exception_handler` 一律返回原函数，`mount` 空转。
+"""
+from __future__ import annotations
+
+from typing import Any, Callable
+
+
+class HTTPException(Exception):
+    def __init__(self, status_code: int = 500, detail: Any = ""):
+        self.status_code = status_code
+        self.detail = detail
+        super().__init__(detail)
+
+
+class Request:  # noqa: D101 - 仅作类型占位
+    headers: dict = {}
+    url: Any = None
+
+
+class _Route:
+    def __init__(self, *a: Any, **kw: Any) -> None:
+        self.args = a
+        self.kw = kw
+
+    def __call__(self, fn: Callable[..., Any]) -> Callable[..., Any]:
+        return fn
+
+
+class FastAPI:
+    def __init__(self, *a: Any, **kw: Any) -> None:
+        self.title = kw.get("title", "")
+        self.version = kw.get("version", "")
+        self.router = _Route()
+        self.routes: list[Any] = []
+
+    # 装饰器一律返回原函数，路由表不建
+    def get(self, *a: Any, **kw: Any) -> _Route:
+        return _Route()
+
+    def post(self, *a: Any, **kw: Any) -> _Route:
+        return _Route()
+
+    def put(self, *a: Any, **kw: Any) -> _Route:
+        return _Route()
+
+    def delete(self, *a: Any, **kw: Any) -> _Route:
+        return _Route()
+
+    def middleware(self, *a: Any, **kw: Any) -> _Route:
+        return _Route()
+
+    def exception_handler(self, *a: Any, **kw: Any) -> _Route:
+        return _Route()
+
+    def mount(self, *a: Any, **kw: Any) -> None:
+        return None
+
+    def include_router(self, *a: Any, **kw: Any) -> None:
+        return None
+
+    def add_middleware(self, *a: Any, **kw: Any) -> None:
+        return None

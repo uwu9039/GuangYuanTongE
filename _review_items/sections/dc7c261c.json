@@ -1,1 +1,700 @@
-ew0KICJrZXkiOiAiZGM3YzI2MWMiLA0KICJ0aXRsZSI6ICLmnKznp5HnlJ/pmaIg6J6N5ZCI6Zeo5oi35pyN5Yqh5LqL6aG577yI5q+V5Lia55Sf6KGl5Yqe6K+B5piO5Lmm44CB5ZCE57G75a2m57GN5byC5Yqo44CB5pWZ5pS56aG555uu562J77yJIiwNCiAidHJ1bmNhdGVkIjogZmFsc2UsDQogInNlY3Rpb25zIjogWw0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIumhtemdouahhuaetu+8muaJgOWxnuWNleS9jeS4jummluS4quacjeWKoeagh+mimOihjCIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDEsDQogICAgMg0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZDFhNjBhNzZlZSIsDQogICAgInJ1bGUtZGM3YzI2MWMiDQogICBdLA0KICAgImNoYXJzIjogMjANCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLmr5XkuJrnlJ/ooaXlip7mr5XkuJror4HmmI7kuabjgIHlrabkvY3or4HmmI7kuaYiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDMsDQogICAgMjYNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTQxNDYyNjU0MjYiLA0KICAgICJwdC05ODA1ZGE5ODkzIiwNCiAgICAicHQtY2JmMGNhYmNlZSIsDQogICAgInB0LTQ2ZDZhZDkzNGEiLA0KICAgICJwdC0yNDQ1ZTNiOWQzIiwNCiAgICAicHQtYTYwODNiNzhjYiIsDQogICAgInB0LWFjMDI4YTA4MGYiLA0KICAgICJwdC01ZTllMTE4YjNjIiwNCiAgICAicHQtYzQ3ZTM2ZjViZiINCiAgIF0sDQogICAiY2hhcnMiOiA2NTkNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLogoTkuJror4Hkuablip7nkIbnlLPor7fvvIjmnKzkuJPnp5HnlJ/vvIkiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDI3LA0KICAgIDQ4DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1jYzE1MjUzYWZiIiwNCiAgICAicHQtMzc5ZTQxNjI5NSIsDQogICAgInB0LTJmNWY4YmYyMTUiLA0KICAgICJwdC1iNTQyYmI2MDBiIiwNCiAgICAicHQtMzE0N2NkYmU0NiIsDQogICAgInB0LTk2NDkzNWJjOGYiDQogICBdLA0KICAgImNoYXJzIjogNDgwDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5a2m5aOr5a2m5L2N5o6I5LqI6K+B5piOIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA0OSwNCiAgICA3MQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNWU4Zjc1NTczOCIsDQogICAgInB0LTQ3MGY3ZGRjNzAiLA0KICAgICJwdC1kZjIyMGEwOWZhIiwNCiAgICAicHQtMTA3NTg4MmEwNSINCiAgIF0sDQogICAiY2hhcnMiOiA0MDENCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLnu5PkuJror4HkuabmjaLlj5Hmr5XkuJror4HkuaYiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDcyLA0KICAgIDkzDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC00NTBkYTU3MGVjIiwNCiAgICAicHQtODA2NmFlMDNmMiIsDQogICAgInB0LTZjZDIyY2NmNDYiDQogICBdLA0KICAgImNoYXJzIjogMzY0DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5LiK6K++L+iAg+ivleaVmeWupOWAn+eUqOS4juWuoeaJuSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgOTQsDQogICAgMTEzDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1kOGUxNjc4ODhhIiwNCiAgICAicHQtMjMwZWM0ZjA0MyIsDQogICAgInB0LWIxYWUxNzcwN2QiLA0KICAgICJwdC0yMGQzOTcyMWIxIg0KICAgXSwNCiAgICJjaGFycyI6IDMxMw0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuaVmeadkOWItuWumuWPiuWuoeaguOWKn+iDvSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTE0LA0KICAgIDEzOQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtYzFlNmQwMDcxNSIsDQogICAgInB0LTk2NTJkYTY1NjQiLA0KICAgICJwdC04NzUwMjViNDM1IiwNCiAgICAicHQtZjcwNzJkZDZjZSINCiAgIF0sDQogICAiY2hhcnMiOiA1MzcNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLovazkuJPkuJoiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDE0MCwNCiAgICAxNjANCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTk0NTIzMjA0OGUiLA0KICAgICJwdC0zNjM1NzRmMTFjIiwNCiAgICAicHQtMDQ4ZTNiN2I0NiIsDQogICAgInB0LWZmMDUxZjcxNzMiDQogICBdLA0KICAgImNoYXJzIjogMjY0DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi6K++56iL5YWN5L+uIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNjEsDQogICAgMTgzDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1iNTM4OTZhYmMzIiwNCiAgICAicHQtZWNhNzM1YzA1NyIsDQogICAgInB0LTM0YmNmZjY0NzUiDQogICBdLA0KICAgImNoYXJzIjogMzQyDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi6Ieq5L+uIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxODQsDQogICAgMjA2DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0yMzNkNTNmNDdlIiwNCiAgICAicHQtNzM0NzY1ZGI5MyINCiAgIF0sDQogICAiY2hhcnMiOiAzNTINCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLpnZ7kuqznsY3lrabnlJ/lm6Dnp4Hlh7rlooPlip7nkIblnKjor7vor4HmmI4iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDIwNywNCiAgICAyMzINCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWZkY2IxZTQ2MjIiLA0KICAgICJwdC1hYWQxMzM4Y2ZjIiwNCiAgICAicHQtNGJmNDM3MzZmNSINCiAgIF0sDQogICAiY2hhcnMiOiA2MTYNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLnur/kuIvlh7rlm73nlZnlrabmnZDmlpnlip7nkIbvvIjmiJDnu6nljZXvvIkiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDIzMywNCiAgICAyNjENCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTNiMTE4ODdhMTYiLA0KICAgICJwdC0zZDIzMWViMzIzIiwNCiAgICAicHQtNTBjNmQwNDczZiIsDQogICAgInB0LWFlYTZjZWVlZmEiLA0KICAgICJwdC1jMDVkYzFhYjNmIiwNCiAgICAicHQtODY2MzY1NmYyOSINCiAgIF0sDQogICAiY2hhcnMiOiA4MjINCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLlrabnsY3lvILliqjvvIjkv53nlZnlhaXlrabotYTmoLzvvIkiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDI2MiwNCiAgICAyODgNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTRjZGZiZmI5YTIiLA0KICAgICJwdC1jOTYwZDlmMzQzIiwNCiAgICAicHQtZmYyOTVlZjE3ZCIsDQogICAgInB0LWZiNmJjYmE0ODMiLA0KICAgICJwdC0zOWEyNzk1MDkwIiwNCiAgICAicHQtOTE5NTBmODM2NyIsDQogICAgInB0LTMxMDIyNjFmZDgiDQogICBdLA0KICAgImNoYXJzIjogNjQ5DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5a2m57GN5byC5Yqo77yI5aSN5a2m77yJIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyODksDQogICAgMzA5DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1kYzgxZmE5ZDc2IiwNCiAgICAicHQtMGJhZmEwMjNmNyIsDQogICAgInB0LTJhMTY4MmQ1MDIiDQogICBdLA0KICAgImNoYXJzIjogMzU0DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5a2m57GN5byC5Yqo77yI6L2s5a2m77yJIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzMTAsDQogICAgMzM2DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0xNWNiNDc2NTQzIiwNCiAgICAicHQtZjk4ZWUwZDgzMCIsDQogICAgInB0LTU1NzEzNjk2ZGIiLA0KICAgICJwdC03Mjk2YTE1OTdkIiwNCiAgICAicHQtZTRkOWNlMmNjYSINCiAgIF0sDQogICAiY2hhcnMiOiA1OTkNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLlrabnsY3lvILliqjvvIjpgIDlrabvvIkiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDMzNywNCiAgICAzNjUNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTEzNmRmMmEwNWQiLA0KICAgICJwdC1kNWE3MjBjNWRmIiwNCiAgICAicHQtOTJjZTVjYmEwZiIsDQogICAgInB0LWEwYWQzZjc0MjAiLA0KICAgICJwdC03OTUyYjIxMDVlIiwNCiAgICAicHQtOTFmOGI5MmZhMSINCiAgIF0sDQogICAiY2hhcnMiOiA3NDANCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLlrabnsY3lvILliqjvvIjkvJHlrabvvIkiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDM2NiwNCiAgICAzOTANCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTYyM2MxYjZiMWQiLA0KICAgICJwdC03N2ViNzMwYjY2IiwNCiAgICAicHQtNGY3ZWJjYzY5ZiIsDQogICAgInB0LWIwNWIxZWNhNDAiLA0KICAgICJwdC0wMGQzZDQ5ZGMwIiwNCiAgICAicHQtOTdlNDAyYTIwMyINCiAgIF0sDQogICAiY2hhcnMiOiA1NjgNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLooaXpgIDpgInor74iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDM5MSwNCiAgICA0MTQNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTNkOTc2ZDZhOWUiLA0KICAgICJwdC05NmNmMDcwNjRhIiwNCiAgICAicHQtOWMyZWYxYTdmNyIsDQogICAgInB0LWJkNzI1YWFmZGYiLA0KICAgICJwdC1kMzJiYjE0NTA0Ig0KICAgXSwNCiAgICJjaGFycyI6IDQxOA0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuaWsOW8gOivvueUs+ivtyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNDE1LA0KICAgIDQzNw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMGYyMmU2ODgzYSIsDQogICAgInB0LTgxNTQ3MzNkMjQiLA0KICAgICJwdC04MzQ2NjNkMWZlIg0KICAgXSwNCiAgICJjaGFycyI6IDM5Mw0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuWKnueQhumAgOWtpuivgeaYjiIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNDM4LA0KICAgIDQ1Nw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtYTI0ZmMxMzE2MiIsDQogICAgInB0LWM0Mzc5ZDRkOTMiDQogICBdLA0KICAgImNoYXJzIjogMjU5DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5a2m57GN5byC5Yqo77yI5L+d55WZ5a2m57GN77yJIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA0NTgsDQogICAgNDg0DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1hODA2Y2UyNTE2IiwNCiAgICAicHQtNzE1M2IwNDc1NCIsDQogICAgInB0LTg1ZjFjOGQzYjgiLA0KICAgICJwdC00OWUyNTFmOTk2IiwNCiAgICAicHQtNDlhYTM4MGNlZiIsDQogICAgInB0LWU1Y2I1Y2VkNzgiLA0KICAgICJwdC0xOGY0YzQ1MTIwIg0KICAgXSwNCiAgICJjaGFycyI6IDY0Mg0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuacrOenkeaVmeaUuemhueebrue7j+i0ueiwg+aVtCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNDg1LA0KICAgIDUwNg0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNDZhYmQwNDFjZiIsDQogICAgInB0LWI0NWJlOWY0MDciLA0KICAgICJwdC0yNDhlZDg1NWQ2IiwNCiAgICAicHQtOTc5NjczNmIxZCIsDQogICAgInB0LTQ2ZWQ4NmYxMWEiLA0KICAgICJwdC05ZDcwODMwMDIzIg0KICAgXSwNCiAgICJjaGFycyI6IDM2OQ0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuacrOenkeaVmeaUuemhueebruWIhuaVsOaguOeulyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNTA3LA0KICAgIDUyNw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMGNiZmEzOTNmZSIsDQogICAgInB0LThiNTgwYzU0ZTIiLA0KICAgICJwdC1hMzQxMTYyOWFlIiwNCiAgICAicHQtOTU1YmJhZjA5NyINCiAgIF0sDQogICAiY2hhcnMiOiAzNTYNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLmnKznp5HmlZnmlLnpobnnm67pooTnrpfloavlhpkiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDUyOCwNCiAgICA1NDgNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTgwOWU0N2IzMmMiLA0KICAgICJwdC05YzIwZTgwNDg4IiwNCiAgICAicHQtZGFmOWU3NzZhNiIsDQogICAgInB0LWU5NzljOTI5ODAiLA0KICAgICJwdC1mYjlkZDczMjk0Ig0KICAgXSwNCiAgICJjaGFycyI6IDM0Mw0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuWtpuexjeW8guWKqO+8iOWtpuS4mueVmee6p++8iSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNTQ5LA0KICAgIDU3Mw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtYjdmNTU2Y2E1YiIsDQogICAgInB0LWI0ZjljNWE4ODMiLA0KICAgICJwdC02ZWFkNmVlZDFjIiwNCiAgICAicHQtNmZhYTU5OTNjMCINCiAgIF0sDQogICAiY2hhcnMiOiA1NTMNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLmhZXor77kuIrnur/nlLPor7ciLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDU3NCwNCiAgICA2MDINCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTdlYWQzNzVjNzQiLA0KICAgICJwdC0yZWFlZGIxNGEwIiwNCiAgICAicHQtZWQ2OWFkYmIzNSIsDQogICAgInB0LWY1ZWM4ZDVhZjkiLA0KICAgICJwdC1hYTZjNzEwODQwIiwNCiAgICAicHQtYjk4YmQxMjNkOSINCiAgIF0sDQogICAiY2hhcnMiOiA2NjQNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLnur/kuIvlh7rlm73nlZnlrabmnZDmlpnlip7nkIYiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDYwMywNCiAgICA2MzINCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTg5ZGQ0OGIxMTEiLA0KICAgICJwdC0yOWRmMGMzM2M2IiwNCiAgICAicHQtNTQ5ZjUyYWRkNiIsDQogICAgInB0LTM3ZGU5ODA1N2UiLA0KICAgICJwdC0wNWVjMmRkMmQzIiwNCiAgICAicHQtM2FlNzU4MTJkMiIsDQogICAgInB0LTBjY2JhM2Q1NDIiLA0KICAgICJwdC1kM2U5YTRhNGIxIiwNCiAgICAicHQtMjZmZjk1Y2NiOSIsDQogICAgInB0LTk4YmUzOGExM2MiLA0KICAgICJwdC1hYjhjODg3YzAyIg0KICAgXSwNCiAgICJjaGFycyI6IDY0NA0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIui+heS/ri/lj4zlrabkvY3lrabkuaDnu4/ljobor4HmmI4iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDYzMywNCiAgICA2NTQNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWMzYTgxZDRkNDIiLA0KICAgICJwdC1jZjJhYWI3MTQ5IiwNCiAgICAicHQtNDVhZjJkOTU4YyIsDQogICAgInB0LWRjZmYxN2M3NTgiLA0KICAgICJwdC02OWRlODM5ZTExIiwNCiAgICAicHQtMTQ2M2I5N2U3ZiINCiAgIF0sDQogICAiY2hhcnMiOiA0NjMNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLovoXkv64v5Y+M5a2m5L2N5Y+v5L+h55S15a2Q5oiQ57up5Y2VL+WtpuS9jeivgeaYjuS4muWKoSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNjU1LA0KICAgIDY3NQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtYWQyMzE2YTkyMSIsDQogICAgInB0LTE0YWM5MmM1OTkiDQogICBdLA0KICAgImNoYXJzIjogNDk0DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5pys56eR5pWZ5pS56aG555uu57uT6aG555Sz5oqlIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA2NzYsDQogICAgNjk3DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1iZTVjNWI2NjY2IiwNCiAgICAicHQtOTExMWNiNWI5ZSIsDQogICAgInB0LWQ1ZDQ5YmE5ZjgiDQogICBdLA0KICAgImNoYXJzIjogMzYyDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5pys56eR5pWZ5pS56aG555uu56uL6aG555Sz5oqlIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA2OTgsDQogICAgNzIxDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1kYjRmZWYwMjQ4IiwNCiAgICAicHQtYWVlMmQzOGIzMyIsDQogICAgInB0LTFjZjZlZDg2ZGEiLA0KICAgICJwdC01MGJmYjdkYmJlIg0KICAgXSwNCiAgICJjaGFycyI6IDQ3MA0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuaVmeW4iOaVmeWtpuaIkOaenOWPiuiOt+WllueUs+aKpSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNzIyLA0KICAgIDc0Mw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMmM4ZDE3ZTFhYyIsDQogICAgInB0LTkzYjRhMTk5YzYiLA0KICAgICJwdC00ZmVkMzQyZjk3Ig0KICAgXSwNCiAgICJjaGFycyI6IDM0OA0KICB9DQogXSwNCiAiaXRlbXMiOiBbDQogICJydWxlLWRjN2MyNjFjIiwNCiAgInB0LTQxNDYyNjU0MjYiLA0KICAicHQtOTgwNWRhOTg5MyIsDQogICJwdC1jYmYwY2FiY2VlIiwNCiAgInB0LWNjMTUyNTNhZmIiLA0KICAicHQtMzc5ZTQxNjI5NSIsDQogICJwdC01ZThmNzU1NzM4IiwNCiAgInB0LTQ3MGY3ZGRjNzAiLA0KICAicHQtYjUzODk2YWJjMyIsDQogICJwdC1lY2E3MzVjMDU3IiwNCiAgInB0LTIzM2Q1M2Y0N2UiLA0KICAicHQtZmRjYjFlNDYyMiIsDQogICJwdC0zYjExODg3YTE2IiwNCiAgInB0LTNkMjMxZWIzMjMiLA0KICAicHQtNTBjNmQwNDczZiIsDQogICJwdC00Y2RmYmZiOWEyIiwNCiAgInB0LWM5NjBkOWYzNDMiLA0KICAicHQtZmYyOTVlZjE3ZCIsDQogICJwdC0xNWNiNDc2NTQzIiwNCiAgInB0LTEzNmRmMmEwNWQiLA0KICAicHQtNjIzYzFiNmIxZCIsDQogICJwdC03N2ViNzMwYjY2IiwNCiAgInB0LTBmMjJlNjg4M2EiLA0KICAicHQtYTgwNmNlMjUxNiIsDQogICJwdC03MTUzYjA0NzU0IiwNCiAgInB0LTg1ZjFjOGQzYjgiLA0KICAicHQtODlkZDQ4YjExMSIsDQogICJwdC0yOWRmMGMzM2M2IiwNCiAgInB0LTU0OWY1MmFkZDYiLA0KICAicHQtMzdkZTk4MDU3ZSIsDQogICJwdC1jM2E4MWQ0ZDQyIiwNCiAgInB0LWNmMmFhYjcxNDkiLA0KICAicHQtNDVhZjJkOTU4YyIsDQogICJwdC1hZDIzMTZhOTIxIiwNCiAgInB0LWQxYTYwYTc2ZWUiLA0KICAicHQtNDZkNmFkOTM0YSIsDQogICJwdC0yNDQ1ZTNiOWQzIiwNCiAgInB0LWE2MDgzYjc4Y2IiLA0KICAicHQtYWMwMjhhMDgwZiIsDQogICJwdC01ZTllMTE4YjNjIiwNCiAgInB0LWM0N2UzNmY1YmYiLA0KICAicHQtMmY1ZjhiZjIxNSIsDQogICJwdC1iNTQyYmI2MDBiIiwNCiAgInB0LTMxNDdjZGJlNDYiLA0KICAicHQtOTY0OTM1YmM4ZiIsDQogICJwdC1kZjIyMGEwOWZhIiwNCiAgInB0LTEwNzU4ODJhMDUiLA0KICAicHQtNDUwZGE1NzBlYyIsDQogICJwdC04MDY2YWUwM2YyIiwNCiAgInB0LTZjZDIyY2NmNDYiLA0KICAicHQtZDhlMTY3ODg4YSIsDQogICJwdC0yMzBlYzRmMDQzIiwNCiAgInB0LWIxYWUxNzcwN2QiLA0KICAicHQtMjBkMzk3MjFiMSIsDQogICJwdC1jMWU2ZDAwNzE1IiwNCiAgInB0LTk2NTJkYTY1NjQiLA0KICAicHQtODc1MDI1YjQzNSIsDQogICJwdC1mNzA3MmRkNmNlIiwNCiAgInB0LTk0NTIzMjA0OGUiLA0KICAicHQtMzYzNTc0ZjExYyIsDQogICJwdC0wNDhlM2I3YjQ2IiwNCiAgInB0LWZmMDUxZjcxNzMiLA0KICAicHQtMzRiY2ZmNjQ3NSIsDQogICJwdC03MzQ3NjVkYjkzIiwNCiAgInB0LWFhZDEzMzhjZmMiLA0KICAicHQtNGJmNDM3MzZmNSIsDQogICJwdC1hZWE2Y2VlZWZhIiwNCiAgInB0LWMwNWRjMWFiM2YiLA0KICAicHQtODY2MzY1NmYyOSIsDQogICJwdC1mYjZiY2JhNDgzIiwNCiAgInB0LTM5YTI3OTUwOTAiLA0KICAicHQtOTE5NTBmODM2NyIsDQogICJwdC0zMTAyMjYxZmQ4IiwNCiAgInB0LWRjODFmYTlkNzYiLA0KICAicHQtMGJhZmEwMjNmNyIsDQogICJwdC0yYTE2ODJkNTAyIiwNCiAgInB0LWY5OGVlMGQ4MzAiLA0KICAicHQtNTU3MTM2OTZkYiIsDQogICJwdC03Mjk2YTE1OTdkIiwNCiAgInB0LWU0ZDljZTJjY2EiLA0KICAicHQtZDVhNzIwYzVkZiIsDQogICJwdC05MmNlNWNiYTBmIiwNCiAgInB0LWEwYWQzZjc0MjAiLA0KICAicHQtNzk1MmIyMTA1ZSIsDQogICJwdC05MWY4YjkyZmExIiwNCiAgInB0LTRmN2ViY2M2OWYiLA0KICAicHQtYjA1YjFlY2E0MCIsDQogICJwdC0wMGQzZDQ5ZGMwIiwNCiAgInB0LTk3ZTQwMmEyMDMiLA0KICAicHQtM2Q5NzZkNmE5ZSIsDQogICJwdC05NmNmMDcwNjRhIiwNCiAgInB0LTljMmVmMWE3ZjciLA0KICAicHQtYmQ3MjVhYWZkZiIsDQogICJwdC1kMzJiYjE0NTA0IiwNCiAgInB0LTgxNTQ3MzNkMjQiLA0KICAicHQtODM0NjYzZDFmZSIsDQogICJwdC1hMjRmYzEzMTYyIiwNCiAgInB0LWM0Mzc5ZDRkOTMiLA0KICAicHQtNDllMjUxZjk5NiIsDQogICJwdC00OWFhMzgwY2VmIiwNCiAgInB0LWU1Y2I1Y2VkNzgiLA0KICAicHQtMThmNGM0NTEyMCIsDQogICJwdC00NmFiZDA0MWNmIiwNCiAgInB0LWI0NWJlOWY0MDciLA0KICAicHQtMjQ4ZWQ4NTVkNiIsDQogICJwdC05Nzk2NzM2YjFkIiwNCiAgInB0LTQ2ZWQ4NmYxMWEiLA0KICAicHQtOWQ3MDgzMDAyMyIsDQogICJwdC0wY2JmYTM5M2ZlIiwNCiAgInB0LThiNTgwYzU0ZTIiLA0KICAicHQtYTM0MTE2MjlhZSIsDQogICJwdC05NTViYmFmMDk3IiwNCiAgInB0LTgwOWU0N2IzMmMiLA0KICAicHQtOWMyMGU4MDQ4OCIsDQogICJwdC1kYWY5ZTc3NmE2IiwNCiAgInB0LWU5NzljOTI5ODAiLA0KICAicHQtZmI5ZGQ3MzI5NCIsDQogICJwdC1iN2Y1NTZjYTViIiwNCiAgInB0LWI0ZjljNWE4ODMiLA0KICAicHQtNmVhZDZlZWQxYyIsDQogICJwdC02ZmFhNTk5M2MwIiwNCiAgInB0LTdlYWQzNzVjNzQiLA0KICAicHQtMmVhZWRiMTRhMCIsDQogICJwdC1lZDY5YWRiYjM1IiwNCiAgInB0LWY1ZWM4ZDVhZjkiLA0KICAicHQtYWE2YzcxMDg0MCIsDQogICJwdC1iOThiZDEyM2Q5IiwNCiAgInB0LTA1ZWMyZGQyZDMiLA0KICAicHQtM2FlNzU4MTJkMiIsDQogICJwdC0wY2NiYTNkNTQyIiwNCiAgInB0LWQzZTlhNGE0YjEiLA0KICAicHQtMjZmZjk1Y2NiOSIsDQogICJwdC05OGJlMzhhMTNjIiwNCiAgInB0LWFiOGM4ODdjMDIiLA0KICAicHQtZGNmZjE3Yzc1OCIsDQogICJwdC02OWRlODM5ZTExIiwNCiAgInB0LTE0NjNiOTdlN2YiLA0KICAicHQtMTRhYzkyYzU5OSIsDQogICJwdC1iZTVjNWI2NjY2IiwNCiAgInB0LTkxMTFjYjViOWUiLA0KICAicHQtZDVkNDliYTlmOCIsDQogICJwdC1kYjRmZWYwMjQ4IiwNCiAgInB0LWFlZTJkMzhiMzMiLA0KICAicHQtMWNmNmVkODZkYSIsDQogICJwdC01MGJmYjdkYmJlIiwNCiAgInB0LTJjOGQxN2UxYWMiLA0KICAicHQtOTNiNGExOTljNiIsDQogICJwdC00ZmVkMzQyZjk3Ig0KIF0sDQogIm5vdGVzIjogWw0KICAi56ysIDHigJMyIOihjOS4uuiejeWQiOmXqOaIt+eahOW9kuWxnuWNleS9jeihjO+8iOOAjOacrOenkeeUn+mZouOAje+8ieS4jummluW8oOacjeWKoeWNoeagh+mimOihjO+8jOWQiOW5tuS4uuOAjOmhtemdouahhuaetuOAjeiKgu+8mnB0LWQxYTYwYTc2ZWUg55qE5byV5paH5oGw5aW95piv44CM5pys56eR55Sf6Zmi44CNK+mmluWNoeagh+mimOaLvOaOpe+8iOesrCAx44CBMiDooYzot6jooYzvvInvvIzkuI3lubbov5nkuKTooYzml6Dms5XokL3lnLDvvJtydWxlLWRjN2MyNjFj77yI5peg5byV5paH44CB5qCH5rOo44CM5peg6ZO+5o6l44CN77yJ5L2c5Li65paH5qGj57qn5p2h55uu5ZCM5pe25YiX6L+b5pys6IqC5LiO5paH5qGj57qnIGl0ZW1z44CCIiwNCiAgIuWFqOaWh+eUsSAzMSDlvKDmnI3liqHkuovpobnljaHnq5blkJHmi7zmjqXogIzmiJDvvIzmr4/lvKDljaHlm7rlrprnu5PmnoTvvJrmoIfpopjooYzjgIHjgIznm7jkvLzmnI3liqHvvJrjgI3ooYzjgIEoMSkg5pyN5Yqh5YaF5a6544CBKDIpIOacjeWKoeWvueixoeOAgSgzKSDkuLvopoHkuJrliqHlkajmnJ/jgIEoNCkg5Yqe55CG57G75Z6L44CBKDUpIOWSqOivoueUteivneOAgSg2KSDlip7nkIbpobvnn6XjgIEoNykg5Yqe55CG5rWB56iL44CBKDgpIOWKnueQhuaXtumXtOOAgSg5KSDlip7nkIblnLDngrnvvJvmnKzntKLlvJXmjInjgIzkuIDlvKDljaHkuIDoioLjgI3liIfliIbvvIzmoIfpopjooYzlj5bljp/ljaHlkI3vvIhhdXRob3LvvIzpgJDlrZflj6/mn6XvvInjgIIiLA0KICAi5Y2h5YaFICgxKeKAkyg5KSDnmoTlrZfmrrXlj7fmnKrljZXliJflrZDoioLvvJrlkIzkuIDlrZfmrrXlj7flnKjkuI3lkIzljaHph4zlkKvkuYnnm7jlkIzogIzlhoXlrrnlkITlvILvvIzljZXliJfkvJrlvpfliLAgMjAwIOWkmuS4quaXoOWMuuWIhuW6pueahOiKgu+8jOaVheaVtOWNoeS4gOiKgu+8jOWtl+autemhuuW6j+eUseihjOWMuumXtOS9k+eOsOOAgiIsDQogICLnrKwgNjMz4oCTNjU0IOihjOOAjOi+heS/ri/lj4zlrabkvY3lrabkuaDnu4/ljobor4HmmI7jgI3nmoQgKDYpIOWKnueQhumhu+efpeS4jiAoNykg5Yqe55CG5rWB56iL5paH5a2X5a6M5YWo55u45ZCM77yI5Y6f5paH6YeN5aSN77yJ77yMcHQtY2YyYWFiNzE0OSDnmoTlvJXmloflnKjkuKTlpITpg73lkb3kuK3vvIzokL3mnKzoioLljbPlj6/jgIIiLA0KICAi5Lik5aSE5ZCM5ZCN6L+R5LmJ5Y2h5bm25a2Y5LiU5ZCE6Ieq54us56uL77ya44CM57q/5LiL5Ye65Zu955WZ5a2m5p2Q5paZ5Yqe55CG77yI5oiQ57up5Y2V77yJ44CN77yIMjMz4oCTMjYx77yJ5LiO44CM57q/5LiL5Ye65Zu955WZ5a2m5p2Q5paZ5Yqe55CG44CN77yINjAz4oCTNjMy77yJ77yM5ZCO6ICF5Yqe5Lit6Iux5paH5a2m5Y6G5a2m5L2N6K+B5piO77yb5pyq5ZCI5bm244CB5pyq5LqS5oyH44CCIiwNCiAgIuesrCAyNjLigJMyODjjgIzlrabnsY3lvILliqjvvIjkv53nlZnlhaXlrabotYTmoLzvvInjgI3jgIEoMSkg5pyN5Yqh5YaF5a655Li656m66KGM77yI5Y6f5paH5Y2z5peg5YaF5a6577yJ77yM5LuFICgyKeKAkyg5KSDmnInmraPmlofvvJvlkIznsbvnqbrpobnop4EgMzM344CBMzY244CBNDU444CBNTQ5IOihjOWQhOWNoeeahCAoMSnjgIIiLA0KICAi56ysIDE14oCTMjDjgIE0MOKAkzQyIOetieauteiQveWtmOWcqCBPQ1Ig5oqY6KGM6YCg5oiQ55qE5Y+l5a2Q5pat54K577yI5aaC44CMMS7or4Hkuabljp/ku7bpgZflpLHnmoTigKYgMy7or4Hkuabljp/ku7bjgI3nvLogMi7vvInvvIzmjInljp/mlofkv53nlZnjgIHmnKrmlLnlhpnvvJvmnKrlgZrkubHnoIHov5jljp/jgIIiLA0KICAic2VjdGlvbnNfY2hlY2sg6K6w56m66ZqZIDAg6KGM77ya56ysIDHigJM3NDMg6KGM5YWo6YOo5bm25YWl5p+Q6IqC77ybdHJ1bmNhdGVkPWZhbHNl77ya5q2j5paHIDE1NjMzIOWtl++8jOacq+WNoeOAjOaVmeW4iOaVmeWtpuaIkOaenOWPiuiOt+WllueUs+aKpeOAjeeahCAoOSkg5Yqe55CG5Zyw54K55a6M5pW05pS25bC+77yM5peg5oiq5pat55eV6L+544CCIiwNCiAgIuOAjOebuOS8vOacjeWKoe+8muOAjeihjOWcqOWQhOWNoeWGheWdh+S4uuepuuW8leeUqO+8iOWOn+aWh+acque7meWHuuebuOS8vOacjeWKoeWQje+8ie+8jOacquWNleWIl+iKguOAgeacquihpeWGheWuueOAgiINCiBdDQp9
+{
+ "key": "dc7c261c",
+ "title": "本科生院 融合门户服务事项（毕业生补办证明书、各类学籍异动、教改项目等）",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "页面框架：所属单位与首个服务标题行",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    2
+   ],
+   "items": [
+    "pt-d1a60a76ee",
+    "rule-dc7c261c"
+   ],
+   "chars": 20
+  },
+  {
+   "no": "—",
+   "heading": "毕业生补办毕业证明书、学位证明书",
+   "heading_kind": "author",
+   "lines": [
+    3,
+    26
+   ],
+   "items": [
+    "pt-4146265426",
+    "pt-9805da9893",
+    "pt-cbf0cabcee",
+    "pt-46d6ad934a",
+    "pt-2445e3b9d3",
+    "pt-a6083b78cb",
+    "pt-ac028a080f",
+    "pt-5e9e118b3c",
+    "pt-c47e36f5bf"
+   ],
+   "chars": 659
+  },
+  {
+   "no": "—",
+   "heading": "肄业证书办理申请（本专科生）",
+   "heading_kind": "author",
+   "lines": [
+    27,
+    48
+   ],
+   "items": [
+    "pt-cc15253afb",
+    "pt-379e416295",
+    "pt-2f5f8bf215",
+    "pt-b542bb600b",
+    "pt-3147cdbe46",
+    "pt-964935bc8f"
+   ],
+   "chars": 480
+  },
+  {
+   "no": "—",
+   "heading": "学士学位授予证明",
+   "heading_kind": "author",
+   "lines": [
+    49,
+    71
+   ],
+   "items": [
+    "pt-5e8f755738",
+    "pt-470f7ddc70",
+    "pt-df220a09fa",
+    "pt-1075882a05"
+   ],
+   "chars": 401
+  },
+  {
+   "no": "—",
+   "heading": "结业证书换发毕业证书",
+   "heading_kind": "author",
+   "lines": [
+    72,
+    93
+   ],
+   "items": [
+    "pt-450da570ec",
+    "pt-8066ae03f2",
+    "pt-6cd22ccf46"
+   ],
+   "chars": 364
+  },
+  {
+   "no": "—",
+   "heading": "上课/考试教室借用与审批",
+   "heading_kind": "author",
+   "lines": [
+    94,
+    113
+   ],
+   "items": [
+    "pt-d8e167888a",
+    "pt-230ec4f043",
+    "pt-b1ae17707d",
+    "pt-20d39721b1"
+   ],
+   "chars": 313
+  },
+  {
+   "no": "—",
+   "heading": "教材制定及审核功能",
+   "heading_kind": "author",
+   "lines": [
+    114,
+    139
+   ],
+   "items": [
+    "pt-c1e6d00715",
+    "pt-9652da6564",
+    "pt-875025b435",
+    "pt-f7072dd6ce"
+   ],
+   "chars": 537
+  },
+  {
+   "no": "—",
+   "heading": "转专业",
+   "heading_kind": "author",
+   "lines": [
+    140,
+    160
+   ],
+   "items": [
+    "pt-945232048e",
+    "pt-363574f11c",
+    "pt-048e3b7b46",
+    "pt-ff051f7173"
+   ],
+   "chars": 264
+  },
+  {
+   "no": "—",
+   "heading": "课程免修",
+   "heading_kind": "author",
+   "lines": [
+    161,
+    183
+   ],
+   "items": [
+    "pt-b53896abc3",
+    "pt-eca735c057",
+    "pt-34bcff6475"
+   ],
+   "chars": 342
+  },
+  {
+   "no": "—",
+   "heading": "自修",
+   "heading_kind": "author",
+   "lines": [
+    184,
+    206
+   ],
+   "items": [
+    "pt-233d53f47e",
+    "pt-734765db93"
+   ],
+   "chars": 352
+  },
+  {
+   "no": "—",
+   "heading": "非京籍学生因私出境办理在读证明",
+   "heading_kind": "author",
+   "lines": [
+    207,
+    232
+   ],
+   "items": [
+    "pt-fdcb1e4622",
+    "pt-aad1338cfc",
+    "pt-4bf43736f5"
+   ],
+   "chars": 616
+  },
+  {
+   "no": "—",
+   "heading": "线下出国留学材料办理（成绩单）",
+   "heading_kind": "author",
+   "lines": [
+    233,
+    261
+   ],
+   "items": [
+    "pt-3b11887a16",
+    "pt-3d231eb323",
+    "pt-50c6d0473f",
+    "pt-aea6ceeefa",
+    "pt-c05dc1ab3f",
+    "pt-8663656f29"
+   ],
+   "chars": 822
+  },
+  {
+   "no": "—",
+   "heading": "学籍异动（保留入学资格）",
+   "heading_kind": "author",
+   "lines": [
+    262,
+    288
+   ],
+   "items": [
+    "pt-4cdfbfb9a2",
+    "pt-c960d9f343",
+    "pt-ff295ef17d",
+    "pt-fb6bcba483",
+    "pt-39a2795090",
+    "pt-91950f8367",
+    "pt-3102261fd8"
+   ],
+   "chars": 649
+  },
+  {
+   "no": "—",
+   "heading": "学籍异动（复学）",
+   "heading_kind": "author",
+   "lines": [
+    289,
+    309
+   ],
+   "items": [
+    "pt-dc81fa9d76",
+    "pt-0bafa023f7",
+    "pt-2a1682d502"
+   ],
+   "chars": 354
+  },
+  {
+   "no": "—",
+   "heading": "学籍异动（转学）",
+   "heading_kind": "author",
+   "lines": [
+    310,
+    336
+   ],
+   "items": [
+    "pt-15cb476543",
+    "pt-f98ee0d830",
+    "pt-55713696db",
+    "pt-7296a1597d",
+    "pt-e4d9ce2cca"
+   ],
+   "chars": 599
+  },
+  {
+   "no": "—",
+   "heading": "学籍异动（退学）",
+   "heading_kind": "author",
+   "lines": [
+    337,
+    365
+   ],
+   "items": [
+    "pt-136df2a05d",
+    "pt-d5a720c5df",
+    "pt-92ce5cba0f",
+    "pt-a0ad3f7420",
+    "pt-7952b2105e",
+    "pt-91f8b92fa1"
+   ],
+   "chars": 740
+  },
+  {
+   "no": "—",
+   "heading": "学籍异动（休学）",
+   "heading_kind": "author",
+   "lines": [
+    366,
+    390
+   ],
+   "items": [
+    "pt-623c1b6b1d",
+    "pt-77eb730b66",
+    "pt-4f7ebcc69f",
+    "pt-b05b1eca40",
+    "pt-00d3d49dc0",
+    "pt-97e402a203"
+   ],
+   "chars": 568
+  },
+  {
+   "no": "—",
+   "heading": "补退选课",
+   "heading_kind": "author",
+   "lines": [
+    391,
+    414
+   ],
+   "items": [
+    "pt-3d976d6a9e",
+    "pt-96cf07064a",
+    "pt-9c2ef1a7f7",
+    "pt-bd725aafdf",
+    "pt-d32bb14504"
+   ],
+   "chars": 418
+  },
+  {
+   "no": "—",
+   "heading": "新开课申请",
+   "heading_kind": "author",
+   "lines": [
+    415,
+    437
+   ],
+   "items": [
+    "pt-0f22e6883a",
+    "pt-8154733d24",
+    "pt-834663d1fe"
+   ],
+   "chars": 393
+  },
+  {
+   "no": "—",
+   "heading": "办理退学证明",
+   "heading_kind": "author",
+   "lines": [
+    438,
+    457
+   ],
+   "items": [
+    "pt-a24fc13162",
+    "pt-c4379d4d93"
+   ],
+   "chars": 259
+  },
+  {
+   "no": "—",
+   "heading": "学籍异动（保留学籍）",
+   "heading_kind": "author",
+   "lines": [
+    458,
+    484
+   ],
+   "items": [
+    "pt-a806ce2516",
+    "pt-7153b04754",
+    "pt-85f1c8d3b8",
+    "pt-49e251f996",
+    "pt-49aa380cef",
+    "pt-e5cb5ced78",
+    "pt-18f4c45120"
+   ],
+   "chars": 642
+  },
+  {
+   "no": "—",
+   "heading": "本科教改项目经费调整",
+   "heading_kind": "author",
+   "lines": [
+    485,
+    506
+   ],
+   "items": [
+    "pt-46abd041cf",
+    "pt-b45be9f407",
+    "pt-248ed855d6",
+    "pt-9796736b1d",
+    "pt-46ed86f11a",
+    "pt-9d70830023"
+   ],
+   "chars": 369
+  },
+  {
+   "no": "—",
+   "heading": "本科教改项目分数核算",
+   "heading_kind": "author",
+   "lines": [
+    507,
+    527
+   ],
+   "items": [
+    "pt-0cbfa393fe",
+    "pt-8b580c54e2",
+    "pt-a3411629ae",
+    "pt-955bbaf097"
+   ],
+   "chars": 356
+  },
+  {
+   "no": "—",
+   "heading": "本科教改项目预算填写",
+   "heading_kind": "author",
+   "lines": [
+    528,
+    548
+   ],
+   "items": [
+    "pt-809e47b32c",
+    "pt-9c20e80488",
+    "pt-daf9e776a6",
+    "pt-e979c92980",
+    "pt-fb9dd73294"
+   ],
+   "chars": 343
+  },
+  {
+   "no": "—",
+   "heading": "学籍异动（学业留级）",
+   "heading_kind": "author",
+   "lines": [
+    549,
+    573
+   ],
+   "items": [
+    "pt-b7f556ca5b",
+    "pt-b4f9c5a883",
+    "pt-6ead6eed1c",
+    "pt-6faa5993c0"
+   ],
+   "chars": 553
+  },
+  {
+   "no": "—",
+   "heading": "慕课上线申请",
+   "heading_kind": "author",
+   "lines": [
+    574,
+    602
+   ],
+   "items": [
+    "pt-7ead375c74",
+    "pt-2eaedb14a0",
+    "pt-ed69adbb35",
+    "pt-f5ec8d5af9",
+    "pt-aa6c710840",
+    "pt-b98bd123d9"
+   ],
+   "chars": 664
+  },
+  {
+   "no": "—",
+   "heading": "线下出国留学材料办理",
+   "heading_kind": "author",
+   "lines": [
+    603,
+    632
+   ],
+   "items": [
+    "pt-89dd48b111",
+    "pt-29df0c33c6",
+    "pt-549f52add6",
+    "pt-37de98057e",
+    "pt-05ec2dd2d3",
+    "pt-3ae75812d2",
+    "pt-0ccba3d542",
+    "pt-d3e9a4a4b1",
+    "pt-26ff95ccb9",
+    "pt-98be38a13c",
+    "pt-ab8c887c02"
+   ],
+   "chars": 644
+  },
+  {
+   "no": "—",
+   "heading": "辅修/双学位学习经历证明",
+   "heading_kind": "author",
+   "lines": [
+    633,
+    654
+   ],
+   "items": [
+    "pt-c3a81d4d42",
+    "pt-cf2aab7149",
+    "pt-45af2d958c",
+    "pt-dcff17c758",
+    "pt-69de839e11",
+    "pt-1463b97e7f"
+   ],
+   "chars": 463
+  },
+  {
+   "no": "—",
+   "heading": "辅修/双学位可信电子成绩单/学位证明业务",
+   "heading_kind": "author",
+   "lines": [
+    655,
+    675
+   ],
+   "items": [
+    "pt-ad2316a921",
+    "pt-14ac92c599"
+   ],
+   "chars": 494
+  },
+  {
+   "no": "—",
+   "heading": "本科教改项目结项申报",
+   "heading_kind": "author",
+   "lines": [
+    676,
+    697
+   ],
+   "items": [
+    "pt-be5c5b6666",
+    "pt-9111cb5b9e",
+    "pt-d5d49ba9f8"
+   ],
+   "chars": 362
+  },
+  {
+   "no": "—",
+   "heading": "本科教改项目立项申报",
+   "heading_kind": "author",
+   "lines": [
+    698,
+    721
+   ],
+   "items": [
+    "pt-db4fef0248",
+    "pt-aee2d38b33",
+    "pt-1cf6ed86da",
+    "pt-50bfb7dbbe"
+   ],
+   "chars": 470
+  },
+  {
+   "no": "—",
+   "heading": "教师教学成果及获奖申报",
+   "heading_kind": "author",
+   "lines": [
+    722,
+    743
+   ],
+   "items": [
+    "pt-2c8d17e1ac",
+    "pt-93b4a199c6",
+    "pt-4fed342f97"
+   ],
+   "chars": 348
+  }
+ ],
+ "items": [
+  "rule-dc7c261c",
+  "pt-4146265426",
+  "pt-9805da9893",
+  "pt-cbf0cabcee",
+  "pt-cc15253afb",
+  "pt-379e416295",
+  "pt-5e8f755738",
+  "pt-470f7ddc70",
+  "pt-b53896abc3",
+  "pt-eca735c057",
+  "pt-233d53f47e",
+  "pt-fdcb1e4622",
+  "pt-3b11887a16",
+  "pt-3d231eb323",
+  "pt-50c6d0473f",
+  "pt-4cdfbfb9a2",
+  "pt-c960d9f343",
+  "pt-ff295ef17d",
+  "pt-15cb476543",
+  "pt-136df2a05d",
+  "pt-623c1b6b1d",
+  "pt-77eb730b66",
+  "pt-0f22e6883a",
+  "pt-a806ce2516",
+  "pt-7153b04754",
+  "pt-85f1c8d3b8",
+  "pt-89dd48b111",
+  "pt-29df0c33c6",
+  "pt-549f52add6",
+  "pt-37de98057e",
+  "pt-c3a81d4d42",
+  "pt-cf2aab7149",
+  "pt-45af2d958c",
+  "pt-ad2316a921",
+  "pt-d1a60a76ee",
+  "pt-46d6ad934a",
+  "pt-2445e3b9d3",
+  "pt-a6083b78cb",
+  "pt-ac028a080f",
+  "pt-5e9e118b3c",
+  "pt-c47e36f5bf",
+  "pt-2f5f8bf215",
+  "pt-b542bb600b",
+  "pt-3147cdbe46",
+  "pt-964935bc8f",
+  "pt-df220a09fa",
+  "pt-1075882a05",
+  "pt-450da570ec",
+  "pt-8066ae03f2",
+  "pt-6cd22ccf46",
+  "pt-d8e167888a",
+  "pt-230ec4f043",
+  "pt-b1ae17707d",
+  "pt-20d39721b1",
+  "pt-c1e6d00715",
+  "pt-9652da6564",
+  "pt-875025b435",
+  "pt-f7072dd6ce",
+  "pt-945232048e",
+  "pt-363574f11c",
+  "pt-048e3b7b46",
+  "pt-ff051f7173",
+  "pt-34bcff6475",
+  "pt-734765db93",
+  "pt-aad1338cfc",
+  "pt-4bf43736f5",
+  "pt-aea6ceeefa",
+  "pt-c05dc1ab3f",
+  "pt-8663656f29",
+  "pt-fb6bcba483",
+  "pt-39a2795090",
+  "pt-91950f8367",
+  "pt-3102261fd8",
+  "pt-dc81fa9d76",
+  "pt-0bafa023f7",
+  "pt-2a1682d502",
+  "pt-f98ee0d830",
+  "pt-55713696db",
+  "pt-7296a1597d",
+  "pt-e4d9ce2cca",
+  "pt-d5a720c5df",
+  "pt-92ce5cba0f",
+  "pt-a0ad3f7420",
+  "pt-7952b2105e",
+  "pt-91f8b92fa1",
+  "pt-4f7ebcc69f",
+  "pt-b05b1eca40",
+  "pt-00d3d49dc0",
+  "pt-97e402a203",
+  "pt-3d976d6a9e",
+  "pt-96cf07064a",
+  "pt-9c2ef1a7f7",
+  "pt-bd725aafdf",
+  "pt-d32bb14504",
+  "pt-8154733d24",
+  "pt-834663d1fe",
+  "pt-a24fc13162",
+  "pt-c4379d4d93",
+  "pt-49e251f996",
+  "pt-49aa380cef",
+  "pt-e5cb5ced78",
+  "pt-18f4c45120",
+  "pt-46abd041cf",
+  "pt-b45be9f407",
+  "pt-248ed855d6",
+  "pt-9796736b1d",
+  "pt-46ed86f11a",
+  "pt-9d70830023",
+  "pt-0cbfa393fe",
+  "pt-8b580c54e2",
+  "pt-a3411629ae",
+  "pt-955bbaf097",
+  "pt-809e47b32c",
+  "pt-9c20e80488",
+  "pt-daf9e776a6",
+  "pt-e979c92980",
+  "pt-fb9dd73294",
+  "pt-b7f556ca5b",
+  "pt-b4f9c5a883",
+  "pt-6ead6eed1c",
+  "pt-6faa5993c0",
+  "pt-7ead375c74",
+  "pt-2eaedb14a0",
+  "pt-ed69adbb35",
+  "pt-f5ec8d5af9",
+  "pt-aa6c710840",
+  "pt-b98bd123d9",
+  "pt-05ec2dd2d3",
+  "pt-3ae75812d2",
+  "pt-0ccba3d542",
+  "pt-d3e9a4a4b1",
+  "pt-26ff95ccb9",
+  "pt-98be38a13c",
+  "pt-ab8c887c02",
+  "pt-dcff17c758",
+  "pt-69de839e11",
+  "pt-1463b97e7f",
+  "pt-14ac92c599",
+  "pt-be5c5b6666",
+  "pt-9111cb5b9e",
+  "pt-d5d49ba9f8",
+  "pt-db4fef0248",
+  "pt-aee2d38b33",
+  "pt-1cf6ed86da",
+  "pt-50bfb7dbbe",
+  "pt-2c8d17e1ac",
+  "pt-93b4a199c6",
+  "pt-4fed342f97"
+ ],
+ "notes": [
+  "第 1–2 行为融合门户的归属单位行（「本科生院」）与首张服务卡标题行，合并为「页面框架」节：pt-d1a60a76ee 的引文恰好是「本科生院」+首卡标题拼接（第 1、2 行跨行），不并这两行无法落地；rule-dc7c261c（无引文、标注「无链接」）作为文档级条目同时列进本节与文档级 items。",
+  "全文由 31 张服务事项卡竖向拼接而成，每张卡固定结构：标题行、「相似服务：」行、(1) 服务内容、(2) 服务对象、(3) 主要业务周期、(4) 办理类型、(5) 咨询电话、(6) 办理须知、(7) 办理流程、(8) 办理时间、(9) 办理地点；本索引按「一张卡一节」切分，标题行取原卡名（author，逐字可查）。",
+  "卡内 (1)–(9) 的字段号未单列子节：同一字段号在不同卡里含义相同而内容各异，单列会得到 200 多个无区分度的节，故整卡一节，字段顺序由行区间体现。",
+  "第 633–654 行「辅修/双学位学习经历证明」的 (6) 办理须知与 (7) 办理流程文字完全相同（原文重复），pt-cf2aab7149 的引文在两处都命中，落本节即可。",
+  "两处同名近义卡并存且各自独立：「线下出国留学材料办理（成绩单）」（233–261）与「线下出国留学材料办理」（603–632），后者办中英文学历学位证明；未合并、未互指。",
+  "第 262–288「学籍异动（保留入学资格）」、(1) 服务内容为空行（原文即无内容），仅 (2)–(9) 有正文；同类空项见 337、366、458、549 行各卡的 (1)。",
+  "第 15–20、40–42 等段落存在 OCR 折行造成的句子断点（如「1.证书原件遗失的… 3.证书原件」缺 2.），按原文保留、未改写；未做乱码还原。",
+  "sections_check 记空隙 0 行：第 1–743 行全部并入某节；truncated=false：正文 15633 字，末卡「教师教学成果及获奖申报」的 (9) 办理地点完整收尾，无截断痕迹。",
+  "「相似服务：」行在各卡内均为空引用（原文未给出相似服务名），未单列节、未补内容。"
+ ]
+}

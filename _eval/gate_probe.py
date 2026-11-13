@@ -1,1 +1,67 @@
-IiIi5ouS562U54m55b6B5YiG5p6Q77ya5oqK6LSf5L6L5ZKM5q2j5L6L55qE54m55b6B5pGK5byA77yM55yL5ZOq5Yeg5qGj6IO95YiG5byA44CCCgogICAgcHl0aG9uIC1tIF9ldmFsLmdhdGVfcHJvYmUKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBqc29uCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAoKaW1wb3J0IG51bXB5IGFzIG5wCgpmcm9tIHJldHJpZXZhbC5lbmdpbmUgaW1wb3J0IEVuZ2luZQpmcm9tIHJldHJpZXZhbC5nYXRlIGltcG9ydCBHQVRFX0ZFQVRVUkVTLCBjb250ZXh0X2ZlYXR1cmVzCmZyb20gcmV0cmlldmFsLnRleHQgaW1wb3J0IHF1ZXJ5X3RleHQKClJPT1QgPSBQYXRoKF9fZmlsZV9fKS5yZXNvbHZlKCkucGFyZW50c1sxXQpTRVRTID0gUk9PVCAvICJfZXZhbCIgLyAic2V0cyIKCgpkZWYgZmVhdHMoZW5nOiBFbmdpbmUsIHE6IHN0cikgLT4gbnAubmRhcnJheToKICAgIGN0eCwgX2ZzLCBjYW5kLCBYID0gZW5nLnJldHJpZXZlKHF1ZXJ5X3RleHQocSkpCiAgICBpZiBub3QgY2FuZDoKICAgICAgICByZXR1cm4gbnAuemVyb3MobGVuKEdBVEVfRkVBVFVSRVMpLCBkdHlwZT1ucC5mbG9hdDMyKQogICAgbG9naXRzID0gZW5nLnJhbmtlci5zY29yZShYKQogICAgb3JkZXIgPSBucC5hcmdzb3J0KC1sb2dpdHMpCiAgICBwcm9icyA9IDEuMCAvICgxLjAgKyBucC5leHAoLW5wLmNsaXAobG9naXRzW29yZGVyXSwgLTMwLCAzMCkpKQogICAgcmV0dXJuIGNvbnRleHRfZmVhdHVyZXMoZW5nLml4LCBlbmcuY2FjaGUsIGN0eCwgWFtvcmRlclswXV0sIHByb2JzWzo1XSkKCgpkZWYgbWFpbigpIC0+IE5vbmU6CiAgICBlbmcgPSBFbmdpbmUubG9hZCgpCiAgICBuZWdzID0gW2pzb24ubG9hZHMobG4pWyJxIl0gZm9yIGxuIGluIChTRVRTIC8gIm5lZ2F0aXZlcy5qc29ubCIpLnJlYWRfdGV4dChlbmNvZGluZz0idXRmLTgiKS5zcGxpdGxpbmVzKCldCiAgICBwcmVzZXRzID0gW2pzb24ubG9hZHMobG4pWyJxIl0gZm9yIGxuIGluIChTRVRTIC8gInByZXNldHMuanNvbmwiKS5yZWFkX3RleHQoZW5jb2Rpbmc9InV0Zi04Iikuc3BsaXRsaW5lcygpXQogICAgcGFyYSA9IFtsbi5zcGxpdCgiXHQiLCAxKVsxXS5zdHJpcCgpIGZvciBsbiBpbgogICAgICAgICAgICAoU0VUUyAvICJwYXJhcGhyYXNlLnRzdiIpLnJlYWRfdGV4dChlbmNvZGluZz0idXRmLTgiKS5zcGxpdGxpbmVzKCkKICAgICAgICAgICAgaWYgIlx0IiBpbiBsbiBhbmQgbm90IGxuLnN0YXJ0c3dpdGgoIiMiKV0KICAgIHByaW50KCLliJfvvJp0b3BfcHJvYiBtYXJnaW4gY292X3Nob3J0IGV4YWN0IHBocmFzZSBjb3ZfY29ycHVzIG9vdiBsb25nZXN0IG5fYWJvdmUiKQogICAgcm93cyA9IFtdCiAgICBmb3IgbmFtZSwgcXMgaW4gKCgibmVnIiwgbmVncyksICgicHJlc2V0IiwgcHJlc2V0cyksICgicGFyYSIsIHBhcmEpKToKICAgICAgICBmb3IgcSBpbiBxczoKICAgICAgICAgICAgZiA9IGZlYXRzKGVuZywgcSkKICAgICAgICAgICAgcm93cy5hcHBlbmQoKG5hbWUsIHEsIGYpKQogICAgZm9yIG5hbWUgaW4gKCJuZWciLCAicHJlc2V0IiwgInBhcmEiKToKICAgICAgICBzdWIgPSBbZiBmb3IgbiwgX3EsIGYgaW4gcm93cyBpZiBuID09IG5hbWVdCiAgICAgICAgYSA9IG5wLmFzYXJyYXkoc3ViKQogICAgICAgIHByaW50KGYiXG5be25hbWV9XSBuPXtsZW4oc3ViKX0iKQogICAgICAgIGZvciBpLCBmbiBpbiBlbnVtZXJhdGUoR0FURV9GRUFUVVJFUyk6CiAgICAgICAgICAgIGNvbCA9IGFbOiwgaV0KICAgICAgICAgICAgcHJpbnQoZiIgIHtmbjoxNHN9IG1pbj17Y29sLm1pbigpOjcuM2Z9IHAxMD17bnAucGVyY2VudGlsZShjb2wsMTApOjcuM2Z9ICIKICAgICAgICAgICAgICAgICAgZiJtZWQ9e25wLm1lZGlhbihjb2wpOjcuM2Z9IHA5MD17bnAucGVyY2VudGlsZShjb2wsOTApOjcuM2Z9IG1heD17Y29sLm1heCgpOjcuM2Z9IikKICAgICMg6YCQ5p2h55yL5pyA6Zq+55qE6LSf5L6LCiAgICBwcmludCgiXG7otJ/kvovph4zmnIDlg4/mraPkvovnmoQgMjAg5p2h77yI5oyJIGNvdl9zaG9ydCArIHRvcF9wcm9iIOaOku+8ie+8miIpCiAgICBuZWdyb3dzID0gWyhxLCBmKSBmb3IgbiwgcSwgZiBpbiByb3dzIGlmIG4gPT0gIm5lZyJdCiAgICBuZWdyb3dzLnNvcnQoa2V5PWxhbWJkYSB4OiAtKHhbMV1bMl0gKyB4WzFdWzBdKSkKICAgIGZvciBxLCBmIGluIG5lZ3Jvd3NbOjIwXToKICAgICAgICBwcmludChmIiAgY292X3M9e2ZbMl06LjJmfSBwcm9iPXtmWzBdOi4yZn0gZXhhY3Q9e2ZbM106LjBmfSBjb3JwdXM9e2ZbNV06LjJmfSAiCiAgICAgICAgICAgICAgZiJvb3Y9e2ZbNl06LjJmfSBydW49e2ZbN106LjJmfSAge3F9IikKICAgIHByaW50KCJcbuato+S+i+mHjOacgOWDj+i0n+S+i+eahCAxNSDmnaHvvJoiKQogICAgcG9zcm93cyA9IFsocSwgZikgZm9yIG4sIHEsIGYgaW4gcm93cyBpZiBuIGluICgicHJlc2V0IiwgInBhcmEiKV0KICAgIHBvc3Jvd3Muc29ydChrZXk9bGFtYmRhIHg6ICh4WzFdWzJdICsgeFsxXVswXSkpCiAgICBmb3IgcSwgZiBpbiBwb3Nyb3dzWzoxNV06CiAgICAgICAgcHJpbnQoZiIgIGNvdl9zPXtmWzJdOi4yZn0gcHJvYj17ZlswXTouMmZ9IGV4YWN0PXtmWzNdOi4wZn0gY29ycHVzPXtmWzVdOi4yZn0gIgogICAgICAgICAgICAgIGYib292PXtmWzZdOi4yZn0gcnVuPXtmWzddOi4yZn0gIHtxfSIpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+"""拒答特征分析：把负例和正例的特征摊开，看哪几档能分开。
+
+    python -m _eval.gate_probe
+"""
+from __future__ import annotations
+
+import json
+from pathlib import Path
+
+import numpy as np
+
+from retrieval.engine import Engine
+from retrieval.gate import GATE_FEATURES, context_features
+from retrieval.text import query_text
+
+ROOT = Path(__file__).resolve().parents[1]
+SETS = ROOT / "_eval" / "sets"
+
+
+def feats(eng: Engine, q: str) -> np.ndarray:
+    ctx, _fs, cand, X = eng.retrieve(query_text(q))
+    if not cand:
+        return np.zeros(len(GATE_FEATURES), dtype=np.float32)
+    logits = eng.ranker.score(X)
+    order = np.argsort(-logits)
+    probs = 1.0 / (1.0 + np.exp(-np.clip(logits[order], -30, 30)))
+    return context_features(eng.ix, eng.cache, ctx, X[order[0]], probs[:5])
+
+
+def main() -> None:
+    eng = Engine.load()
+    negs = [json.loads(ln)["q"] for ln in (SETS / "negatives.jsonl").read_text(encoding="utf-8").splitlines()]
+    presets = [json.loads(ln)["q"] for ln in (SETS / "presets.jsonl").read_text(encoding="utf-8").splitlines()]
+    para = [ln.split("\t", 1)[1].strip() for ln in
+            (SETS / "paraphrase.tsv").read_text(encoding="utf-8").splitlines()
+            if "\t" in ln and not ln.startswith("#")]
+    print("列：top_prob margin cov_short exact phrase cov_corpus oov longest n_above")
+    rows = []
+    for name, qs in (("neg", negs), ("preset", presets), ("para", para)):
+        for q in qs:
+            f = feats(eng, q)
+            rows.append((name, q, f))
+    for name in ("neg", "preset", "para"):
+        sub = [f for n, _q, f in rows if n == name]
+        a = np.asarray(sub)
+        print(f"\n[{name}] n={len(sub)}")
+        for i, fn in enumerate(GATE_FEATURES):
+            col = a[:, i]
+            print(f"  {fn:14s} min={col.min():7.3f} p10={np.percentile(col,10):7.3f} "
+                  f"med={np.median(col):7.3f} p90={np.percentile(col,90):7.3f} max={col.max():7.3f}")
+    # 逐条看最难的负例
+    print("\n负例里最像正例的 20 条（按 cov_short + top_prob 排）：")
+    negrows = [(q, f) for n, q, f in rows if n == "neg"]
+    negrows.sort(key=lambda x: -(x[1][2] + x[1][0]))
+    for q, f in negrows[:20]:
+        print(f"  cov_s={f[2]:.2f} prob={f[0]:.2f} exact={f[3]:.0f} corpus={f[5]:.2f} "
+              f"oov={f[6]:.2f} run={f[7]:.2f}  {q}")
+    print("\n正例里最像负例的 15 条：")
+    posrows = [(q, f) for n, q, f in rows if n in ("preset", "para")]
+    posrows.sort(key=lambda x: (x[1][2] + x[1][0]))
+    for q, f in posrows[:15]:
+        print(f"  cov_s={f[2]:.2f} prob={f[0]:.2f} exact={f[3]:.0f} corpus={f[5]:.2f} "
+              f"oov={f[6]:.2f} run={f[7]:.2f}  {q}")
+
+
+if __name__ == "__main__":
+    main()

@@ -1,1 +1,77 @@
-ew0KICJrZXkiOiAiMDljZjZjYTgiLA0KICJ0aXRsZSI6ICLkuK3lm73kvKDlqpLlpKflrabmnKznp5HnlJ/moKHlhoXogIPor5Xor5XljbflpI3mn6XvvIjmiJDnu6nlpI3orq7vvInnlLPor7fljZUiLA0KICJ0cnVuY2F0ZWQiOiB0cnVlLA0KICJzZWN0aW9ucyI6IFsNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLmoIfpopjkuI7ooajljZXmiqzlpLQiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxLA0KICAgIDMNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgIndkLTA5Y2Y2Y2E4Ig0KICAgXSwNCiAgICJjaGFycyI6IDM1DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5aSN5p+l55Sz6K+35qCPIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNCwNCiAgICAxNQ0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTE3DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5aGr6KGo6K+05piOIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMTYsDQogICAgMjUNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgIndkLTA5Y2Y2Y2E4Ig0KICAgXSwNCiAgICJjaGFycyI6IDMyNA0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuacrOenkeeUn+mZoueVmeWtmOiBlCIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDI2LA0KICAgIDM1DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAxMDkNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLor5XljbflpI3mn6Xlm57lpI3ljZUiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDM2LA0KICAgIDQ1DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAxOTANCiAgfQ0KIF0sDQogIml0ZW1zIjogWw0KICAid2QtMDljZjZjYTgiDQogXSwNCiAibm90ZXMiOiBbDQogICLmraPmlofmiKroh7PnrKwgNDUg6KGMIC8g57qmIDEyNzUg5a2X77ya5pyr6IqC44CM6K+V5Y235aSN5p+l5Zue5aSN5Y2V44CN5q2i5LqO56ysIDQ1IOihjOOAjOaVmeWtpuS4u+euoemihuWvvOetvuWtl++8muOAjeKAlOKAlCoq5oyJ5LiK5ri45qCH6K6w6K6wIHRydW5jYXRlZO+8jOS9hui/meaYr+S4gOW8oOS4pOiBlOihqOWNle+8iOeUs+ivt+iBlO+8i+WbnuWkjeWNle+8ie+8jOS4pOiBlOeahOWhq+epuumhueOAgeetvuWtl+eblueroOagj+mDveWcqO+8jOacq+ihjOaYr+acgOWQjuS4gOS4quetvuWtl+agj++8jOacquingee8uuautSoq44CCIiwNCiAgIuacrOS7tuaYr+epuueZveeUs+ivt+ihqO+8jOWOn+aWh+ayoeacieeroOadoee8luWPt+OAgeayoeacieWwj+agh+mimO+8jOS6lOiKguaMieihqOWNleeJiOW8j+WIh++8iOagh+mimOS4juihqOWNleaKrOWktO+8j+WkjeafpeeUs+ivt+agj++8j+Whq+ihqOivtOaYju+8j+acrOenkeeUn+mZoueVmeWtmOiBlO+8j+ivleWNt+WkjeafpeWbnuWkjeWNle+8ie+8jGBub2Ag5LiA5b6L55So44CM4oCU44CN77yI5Y+j5b6EIDXvvInvvJvlj6rmnInjgIzor5XljbflpI3mn6Xlm57lpI3ljZXjgI3mmK/ljp/mlofnrKwgMzYg6KGM55qE5a2X6Z2i5qCH6aKY77yIYXV0aG9y77yJ77yM5YW25L2Z5Zub6IqC5ZCN5piv5oiR5oyJ54mI5byP5qaC5ous55qE77yIZGVyaXZlZO+8ieOAgiIsDQogICLljp/mloflvILluLjvvIjmir3lj5bmioror43luo/miZPkubHvvInvvJrnrKwgNCDooYzjgIxfIOWtpiDpmaLvvIwgXyDkuJPkuJrlrabnlJ8gLOWtpuWPtyAsIOS6jiBfIOW5tCDmnIgg77yM44CN44CB56ysIDM0IOihjOOAjOKWoSDilqHogIPor5XmlrnlvI/vvJrlj6PnrJTor5Xor5Xljbcg6K665paHIOacuuiAg+WPo+S9nOWTgeOAjeetieWhq+epuuihjOiiq+aLhuaVo+OAgeaWueahhuespuWPt+mUmeS9je+8m+aMieWOn+aWh+S/neeVme+8jOacqumHjeaOkuOAgiIsDQogICLljp/mloflvILluLjvvIjor7TmmI7ph4znmoTmnaHlj7flvJXnlKjvvInvvJror7TmmI7nrKwgMiDmnaHlvJXnlKjjgIrigKbor77nqIvmiJDnu6nnrqHnkIblip7ms5Uo5L+u6K6iKeOAiyoq56ys5LqU5p2hKirvvIzor7TmmI7nrKwgNCDmnaHkuI7lm57lpI3ljZXlvJXnlKgqKuesrOWFreadoSoq77yM5Lik5aSE5byV55So5ZCM5LiA5p2h5Yqe5rOV5L2G5p2h5Y+35LiN5ZCM77yI56ysIDI0IOihjOWPpuacieOAjFvigKZd56ys5YWt5p2h44CN55qE5pa55ous5Y+35qCH5rOo77yJ77yb5oyJ5Y6f5paH5L+d55WZ44CCIiwNCiAgIuesrCAxIOihjOaYr+S4iua4uOaKveWPlumZhOeahCBkb2N4IOaWh+S7tuWQjeihjO+8jOS4juesrCAzIOihjOagh+mimOS4gOW5tuW5tuWFpeOAjOagh+mimOS4juihqOWNleaKrOWktOOAjeS4gOiKguOAgiIsDQogICJ3ZC0wOWNmNmNhOCDkuLrmlofmoaPnuqfmnaHnm67vvIwyIOauteW8leaWh+i3qCAyIOiKgu+8muesrCAxIOaute+8iOaWh+S7tuWQjeihjO+8i+eUs+ivt+aKrOWktO+8ieiQveWcqOOAjOagh+mimOS4juihqOWNleaKrOWktOOAje+8jOesrCAyIOaute+8iOivtOaYjuesrCAyIOadoeeahOOAjOesrOS6lOadoeiHs+acrOenkeeUn+mZouaVmeWtpui/kOihjOS4reW/g+WkhOeQhu+8jOmAvuacn+S4jeS6iOWPl+eQhuOAguOAje+8ieiQveWcqOOAjOWhq+ihqOivtOaYjuOAje+8m+aMieWPo+W+hOWcqOi/mSAyIOiKguWQhOWIl+S4gOasoeOAgiINCiBdDQp9DQo=
+{
+ "key": "09cf6ca8",
+ "title": "中国传媒大学本科生校内考试试卷复查（成绩复议）申请单",
+ "truncated": true,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "标题与表单抬头",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    3
+   ],
+   "items": [
+    "wd-09cf6ca8"
+   ],
+   "chars": 35
+  },
+  {
+   "no": "—",
+   "heading": "复查申请栏",
+   "heading_kind": "derived",
+   "lines": [
+    4,
+    15
+   ],
+   "items": [],
+   "chars": 117
+  },
+  {
+   "no": "—",
+   "heading": "填表说明",
+   "heading_kind": "derived",
+   "lines": [
+    16,
+    25
+   ],
+   "items": [
+    "wd-09cf6ca8"
+   ],
+   "chars": 324
+  },
+  {
+   "no": "—",
+   "heading": "本科生院留存联",
+   "heading_kind": "derived",
+   "lines": [
+    26,
+    35
+   ],
+   "items": [],
+   "chars": 109
+  },
+  {
+   "no": "—",
+   "heading": "试卷复查回复单",
+   "heading_kind": "author",
+   "lines": [
+    36,
+    45
+   ],
+   "items": [],
+   "chars": 190
+  }
+ ],
+ "items": [
+  "wd-09cf6ca8"
+ ],
+ "notes": [
+  "正文截至第 45 行 / 约 1275 字：末节「试卷复查回复单」止于第 45 行「教学主管领导签字：」——**按上游标记记 truncated，但这是一张两联表单（申请联＋回复单），两联的填空项、签字盖章栏都在，末行是最后一个签字栏，未见缺段**。",
+  "本件是空白申请表，原文没有章条编号、没有小标题，五节按表单版式切（标题与表单抬头／复查申请栏／填表说明／本科生院留存联／试卷复查回复单），`no` 一律用「—」（口径 5）；只有「试卷复查回复单」是原文第 36 行的字面标题（author），其余四节名是我按版式概括的（derived）。",
+  "原文异常（抽取把词序打乱）：第 4 行「_ 学 院， _ 专业学生 ,学号 , 于 _ 年 月 ，」、第 34 行「□ □考试方式：口笔试试卷 论文 机考口作品」等填空行被拆散、方框符号错位；按原文保留，未重排。",
+  "原文异常（说明里的条号引用）：说明第 2 条引用《…课程成绩管理办法(修订)》**第五条**，说明第 4 条与回复单引用**第六条**，两处引用同一条办法但条号不同（第 24 行另有「[…]第六条」的方括号标注）；按原文保留。",
+  "第 1 行是上游抽取附的 docx 文件名行，与第 3 行标题一并并入「标题与表单抬头」一节。",
+  "wd-09cf6ca8 为文档级条目，2 段引文跨 2 节：第 1 段（文件名行＋申请抬头）落在「标题与表单抬头」，第 2 段（说明第 2 条的「第五条至本科生院教学运行中心处理，逾期不予受理。」）落在「填表说明」；按口径在这 2 节各列一次。"
+ ]
+}

@@ -1,1 +1,352 @@
-ew0KICJrZXkiOiAiYXR0LTc1ZWQ1YzU3MTIiLA0KICJ0aXRsZSI6ICLkuK3lm73kvKDlqpLlpKflrablvq7nn63liafooajmvJTliJvkvZzlvq7kuJPkuJoyMDI25bm056eL5a2j5oub55Sf566A56ugIiwNCiAidHJ1bmNhdGVkIjogZmFsc2UsDQogInNlY3Rpb25zIjogWw0KICB7DQogICAibm8iOiAi5LiA44CBIiwNCiAgICJoZWFkaW5nIjogIuW+ruS4k+S4muS7i+e7jSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMSwNCiAgICAxNQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtY2I0ZjhmYjUwNCINCiAgIF0sDQogICAiY2hhcnMiOiAyMjUNCiAgfSwNCiAgew0KICAgIm5vIjogIuS6jOOAgSIsDQogICAiaGVhZGluZyI6ICLln7nlhbvnm67moIciLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDE2LA0KICAgIDIyDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC01NDdjNzc4MDMzIg0KICAgXSwNCiAgICJjaGFycyI6IDEzNg0KICB9LA0KICB7DQogICAibm8iOiAi5LiJ44CBIiwNCiAgICJoZWFkaW5nIjogIuWfueWFu+imgeaxgiIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMjMsDQogICAgMzgNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTZlZGZkMDY5OTAiLA0KICAgICJwdC04YTlkNGVjNjljIiwNCiAgICAicHQtZWFlMWNkM2E0MyIsDQogICAgInB0LTQzODM1NDM0NGUiLA0KICAgICJwdC1hMmRmY2FmMWNkIg0KICAgXSwNCiAgICJjaGFycyI6IDI4Mw0KICB9LA0KICB7DQogICAibm8iOiAi5Zub44CBIiwNCiAgICJoZWFkaW5nIjogIuaLm+eUn+WvueixoeWPiuadoeS7tiIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMzksDQogICAgNDYNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWUzMzY1YjZlZmYiDQogICBdLA0KICAgImNoYXJzIjogMTE2DQogIH0sDQogIHsNCiAgICJubyI6ICLkupTjgIHlha3jgIEiLA0KICAgImhlYWRpbmciOiAi5a2m5Yi25LiO5o6I6K++5pa55byPIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNDcsDQogICAgNTYNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWQyZjY2ZWUyNmEiDQogICBdLA0KICAgImNoYXJzIjogMTAyDQogIH0sDQogIHsNCiAgICJubyI6ICLkuIPjgIEiLA0KICAgImhlYWRpbmciOiAi5a2m5YiG6K6k5a6a5LiO6K+B5Lmm6aKB5Y+RIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1NywNCiAgICA2Mg0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtY2NiODc0N2QzYSINCiAgIF0sDQogICAiY2hhcnMiOiA5OA0KICB9LA0KICB7DQogICAibm8iOiAi5YWr44CBIiwNCiAgICJoZWFkaW5nIjogIuaLm+eUn+aXtumXtOWuieaOkuWPiuaKpeWQjeaWueW8jyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNjMsDQogICAgNzcNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWRmNWZiNmJjNjQiDQogICBdLA0KICAgImNoYXJzIjogMjM5DQogIH0sDQogIHsNCiAgICJubyI6ICLkuZ3jgIEiLA0KICAgImhlYWRpbmciOiAi5ZKo6K+i5pa55byPIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA3OCwNCiAgICA3OQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZjI1M2I3ZWY1ZSINCiAgIF0sDQogICAiY2hhcnMiOiAyNg0KICB9LA0KICB7DQogICAibm8iOiAi5Y2B44CBIiwNCiAgICJoZWFkaW5nIjogIuW+ruS4k+S4muivvueoi+i0ueeUqCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgODAsDQogICAgODINCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTU0NmMwNmI0MmUiDQogICBdLA0KICAgImNoYXJzIjogNTkNCiAgfSwNCiAgew0KICAgIm5vIjogIuWNgeS4gOOAgeWNgeS6jOOAgSIsDQogICAiaGVhZGluZyI6ICLor77nqIvorr7nva7lj4rlrabml7bliIbphY3ooajkuI7lvq7kuJPkuJror77nqIvnroDku4siLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA4MywNCiAgICAxNzANCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWExN2Y2Nzc1OTEiDQogICBdLA0KICAgImNoYXJzIjogMjIzMg0KICB9LA0KICB7DQogICAibm8iOiAi5Y2B5LiA44CBIiwNCiAgICJoZWFkaW5nIjogIuivvueoi+iuvue9ruWPiuWtpuaXtuWIhumFjeihqCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgODMsDQogICAgODMNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDEzDQogIH0sDQogIHsNCiAgICJubyI6ICLljYHkuozjgIEiLA0KICAgImhlYWRpbmciOiAi5b6u5LiT5Lia6K++56iL566A5LuLIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA4NCwNCiAgICAxNjgNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDIyMDANCiAgfSwNCiAgew0KICAgIm5vIjogIuivvueoizEiLA0KICAgImhlYWRpbmciOiAi5b6u55+t5Ymn5Y+w6K+N6KGo6L6+5Z+65pys5YqfIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA4NSwNCiAgICA5Mg0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMWI0YWI3N2Y0MyINCiAgIF0sDQogICAiY2hhcnMiOiAyMTUNCiAgfSwNCiAgew0KICAgIm5vIjogIuivvueoizIiLA0KICAgImhlYWRpbmciOiAi5b6u55+t5Ymn57G75Z6L5YyW6Lqr5L2T6KGM5Yqo6K6t57uDIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA5MywNCiAgICA5OQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNTQzMDJmYzA0OCINCiAgIF0sDQogICAiY2hhcnMiOiAxODYNCiAgfSwNCiAgew0KICAgIm5vIjogIuivvueoizMiLA0KICAgImhlYWRpbmciOiAi5b6u55+t5Ymn6KGo5ryU5Yib5L2c5Z+65pys5YWD57SgIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMDAsDQogICAgMTA3DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC02MjU0ZjBhOGRiIiwNCiAgICAicHQtMTI2NGRkMzVjYiINCiAgIF0sDQogICAiY2hhcnMiOiAyMTMNCiAgfSwNCiAgew0KICAgIm5vIjogIuivvueoizQiLA0KICAgImhlYWRpbmciOiAi5b6u55+t5Ymn5Ymn5pys6Kej6K+7IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMDgsDQogICAgMTE1DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC02MDBlNTZlMzU4Ig0KICAgXSwNCiAgICJjaGFycyI6IDE5Mg0KICB9LA0KICB7DQogICAibm8iOiAi6K++56iLNSIsDQogICAiaGVhZGluZyI6ICLlvq7nn63liaflr7zmvJTmgJ3nu7Torq3nu4MiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDExNiwNCiAgICAxMjMNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTEyNzQzN2Q0MDIiLA0KICAgICJwdC03ODcxZTBjNjA1Ig0KICAgXSwNCiAgICJjaGFycyI6IDIwNw0KICB9LA0KICB7DQogICAibm8iOiAi6K++56iLNiIsDQogICAiaGVhZGluZyI6ICLlvq7nn63liafop5LoibLpo47moLzkuI7nsbvlnovljJbloZHpgKAiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDEyNCwNCiAgICAxMzENCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWVkNDZkY2NlYjAiLA0KICAgICJwdC1iNTBmYzlmMWZkIg0KICAgXSwNCiAgICJjaGFycyI6IDIxNg0KICB9LA0KICB7DQogICAibm8iOiAi6K++56iLNyIsDQogICAiaGVhZGluZyI6ICLlvq7nn63liaflr7nnmb3mioDlt6fkuI7ooajnjrDlipsiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDEzMiwNCiAgICAxMzkNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWFjNmU2Y2I5NDMiDQogICBdLA0KICAgImNoYXJzIjogMTkxDQogIH0sDQogIHsNCiAgICJubyI6ICLor77nqIs4IiwNCiAgICJoZWFkaW5nIjogIuW+ruefreWJp+i6q+S9k+ihjOWKqOWunuiureS4juWIm+S9nCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTQwLA0KICAgIDE0Nw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZmNhNDBjNTk5NSIsDQogICAgInB0LWI1YWIyMDIxYTAiDQogICBdLA0KICAgImNoYXJzIjogMjIzDQogIH0sDQogIHsNCiAgICJubyI6ICLor77nqIs5IiwNCiAgICJoZWFkaW5nIjogIuW+ruefreWJp+W9seWDj+aAnee7tOS4juWPmeS6i+WunueOsCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTQ4LA0KICAgIDE1Ng0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNmIxYWVlM2VlMyIsDQogICAgInB0LWViYWNmMWY2ODMiDQogICBdLA0KICAgImNoYXJzIjogMjQxDQogIH0sDQogIHsNCiAgICJubyI6ICLor77nqIsxMCIsDQogICAiaGVhZGluZyI6ICLlvq7nn63liafooajmvJTlrp7orq3kuI7liJvkvZwiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDE1NywNCiAgICAxNjcNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWFmYjFmNzgzZDMiLA0KICAgICJwdC02MTA3NDU4YmZjIiwNCiAgICAicHQtMTBkYjM5ZjU3NCINCiAgIF0sDQogICAiY2hhcnMiOiAzMDYNCiAgfSwNCiAgew0KICAgIm5vIjogIuiQveasviIsDQogICAiaGVhZGluZyI6ICLokL3mrL7vvJrkuK3lm73kvKDlqpLlpKflrabmiI/liaflvbHop4blrabpmaLkuI7ml6XmnJ8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNjksDQogICAgMTcwDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAxOQ0KICB9DQogXSwNCiAiaXRlbXMiOiBbDQogICJwdC1jYjRmOGZiNTA0IiwNCiAgInB0LTU0N2M3NzgwMzMiLA0KICAicHQtNmVkZmQwNjk5MCIsDQogICJwdC04YTlkNGVjNjljIiwNCiAgInB0LWVhZTFjZDNhNDMiLA0KICAicHQtNDM4MzU0MzQ0ZSIsDQogICJwdC1hMmRmY2FmMWNkIiwNCiAgInB0LWUzMzY1YjZlZmYiLA0KICAicHQtZDJmNjZlZTI2YSIsDQogICJwdC1jY2I4NzQ3ZDNhIiwNCiAgInB0LWRmNWZiNmJjNjQiLA0KICAicHQtZjI1M2I3ZWY1ZSIsDQogICJwdC01NDZjMDZiNDJlIiwNCiAgInB0LWExN2Y2Nzc1OTEiLA0KICAicHQtMWI0YWI3N2Y0MyIsDQogICJwdC01NDMwMmZjMDQ4IiwNCiAgInB0LTYyNTRmMGE4ZGIiLA0KICAicHQtMTI2NGRkMzVjYiIsDQogICJwdC02MDBlNTZlMzU4IiwNCiAgInB0LTEyNzQzN2Q0MDIiLA0KICAicHQtNzg3MWUwYzYwNSIsDQogICJwdC1lZDQ2ZGNjZWIwIiwNCiAgInB0LWI1MGZjOWYxZmQiLA0KICAicHQtYWM2ZTZjYjk0MyIsDQogICJwdC1mY2E0MGM1OTk1IiwNCiAgInB0LWI1YWIyMDIxYTAiLA0KICAicHQtNmIxYWVlM2VlMyIsDQogICJwdC1lYmFjZjFmNjgzIiwNCiAgInB0LWFmYjFmNzgzZDMiLA0KICAicHQtNjEwNzQ1OGJmYyIsDQogICJwdC0xMGRiMzlmNTc0Ig0KIF0sDQogIm5vdGVzIjogWw0KICAi57uT5p6E77ya56ysIDHigJM2IOihjOaYr+S4ieihjOaKmOaOkueahOaWh+aho+agh+mimO+8iOS4reWbveS8oOWqkuWkp+Wtpu+8j+W+ruefreWJp+ihqOa8lOWIm+S9nOW+ruS4k+S4mu+8jzIwMjblubTnp4vlraPmi5vnlJ/nroDnq6DvvInvvIznrKwgNyDooYzotbfkuLrkuIDoh7PljYHkuoznq6DvvJvnrKwgMTY54oCTMTcwIOihjOS4uuWtpumZouiQveasvuS4juOAjDIwMjblubQ35pyI44CN44CC6YCQ5a2X5Y+W5Y6f5paH5bCP5qCH6aKY5L2cIGF1dGhvciBoZWFkaW5n44CCIiwNCiAgIuesrCAx4oCTNiDooYzmoIfpopjooYzlubblhaXnrKzkuIDoioLjgIzkuIDjgIHlvq7kuJPkuJrku4vnu43jgI3vvIjoioLljLrpl7QgMeKAkzE1IOihjO+8ie+8mnB0LWNiNGY4ZmI1MDQg55qE5byV5paH5LuO56ysIDEg6KGM5qCH6aKY6LW344CB6Leo5Yiw56ysIDcg6KGM56ug5qCH6aKY5LiO56ug6aaW5Y+l77yM5Y+q5pyJ5oqK5qCH6aKY6KGM5bm25YWl56ys5LiA6IqC5omN6IO95pW05q615ZG95Lit77yM5pWF5pyq5Y2V6K6+44CM5qCH6aKY44CN6IqC44CCIiwNCiAgIuesrOS6lOeroO+8iOWtpuWItu+8jOesrCA0N+KAkzQ5IOihjO+8ieS4juesrOWFreeroO+8iOaOiOivvuaWueW8j++8jOesrCA1MOKAkzU2IOihjO+8ieWQiOW5tuS4uuS4gOiKgu+8mnB0LWQyZjY2ZWUyNmEg55qE5byV5paH5piv44CM5LqU44CB5a2m5Yi25LiA5bm05YWt44CB5o6I6K++5pa55byP4oCm44CN55qE5ou85o6l77yM6Ieq56ysIDQ3IOihjOi1t+i0r+epv+S4pOeroO+8jOaLhuW8gOWImei3qOiKguOAgiIsDQogICLnrKzljYHkuIDnq6DjgIzor77nqIvorr7nva7lj4rlrabml7bliIbphY3ooajjgI3vvIjnrKwgODMg6KGM77yJ5Zyo5Y6f5paH5Y+q5pyJ5qCH6aKY44CB5peg6KGo5L2T77yI6KGo5qC85pyq6KKr5oq95Ye677yJ77yM5YW25LiL56ysIDg0IOihjOebtOaOpei/m+WFpeesrOWNgeS6jOeroO+8m+ivpeiKgiBpdGVtcyDkuLrnqbrvvIzku4Xkv53nlZnmoIfpopjkuI7ooYzlj7fjgIIiLA0KICAi56ys5Y2B5LqM56ug55qE5Y2B6Zeo6K++56iL5ZCE5oyJ5Y6f5paH5bqP5Y+35bu65a2Q6IqC77yI56ysIDg1IOihjOi1t++8jOmXqOivvueoi+WNoOS4gOihjOagh+mimCArIOS4gOauteeugOS7i++8ie+8jOeItuiKguOAjOWNgeS6jOOAgeOAjTg04oCTMTY4IOihjOS4jueItuiKguOAjOWNgeS4gOOAgeWNgeS6jOOAgeOAjTgz4oCTMTcwIOihjOWdh+S4uuecn+W1jOWll+OAgiIsDQogICLljp/mloflpLnmnIkgNiDlpITmjaLpobXnrKbvvIjnrKwgMznjgIE3MeOAgTg044CBOTPjgIExMjnjgIExNjQg6KGM6KGM6aaW55qEIFxcZu+8ie+8jOacrOe0ouW8leihjOWPt+aMiSBzcGxpdCgnXFxuJykg5Y+j5b6E6K6h5pWw77yM5o2i6aG156ym5omA5Zyo6KGM566X5LiA6KGM44CCIg0KIF0NCn0=
+{
+ "key": "att-75ed5c5712",
+ "title": "中国传媒大学微短剧表演创作微专业2026年秋季招生简章",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "一、",
+   "heading": "微专业介绍",
+   "heading_kind": "author",
+   "lines": [
+    1,
+    15
+   ],
+   "items": [
+    "pt-cb4f8fb504"
+   ],
+   "chars": 225
+  },
+  {
+   "no": "二、",
+   "heading": "培养目标",
+   "heading_kind": "author",
+   "lines": [
+    16,
+    22
+   ],
+   "items": [
+    "pt-547c778033"
+   ],
+   "chars": 136
+  },
+  {
+   "no": "三、",
+   "heading": "培养要求",
+   "heading_kind": "author",
+   "lines": [
+    23,
+    38
+   ],
+   "items": [
+    "pt-6edfd06990",
+    "pt-8a9d4ec69c",
+    "pt-eae1cd3a43",
+    "pt-438354344e",
+    "pt-a2dfcaf1cd"
+   ],
+   "chars": 283
+  },
+  {
+   "no": "四、",
+   "heading": "招生对象及条件",
+   "heading_kind": "author",
+   "lines": [
+    39,
+    46
+   ],
+   "items": [
+    "pt-e3365b6eff"
+   ],
+   "chars": 116
+  },
+  {
+   "no": "五、六、",
+   "heading": "学制与授课方式",
+   "heading_kind": "derived",
+   "lines": [
+    47,
+    56
+   ],
+   "items": [
+    "pt-d2f66ee26a"
+   ],
+   "chars": 102
+  },
+  {
+   "no": "七、",
+   "heading": "学分认定与证书颁发",
+   "heading_kind": "author",
+   "lines": [
+    57,
+    62
+   ],
+   "items": [
+    "pt-ccb8747d3a"
+   ],
+   "chars": 98
+  },
+  {
+   "no": "八、",
+   "heading": "招生时间安排及报名方式",
+   "heading_kind": "author",
+   "lines": [
+    63,
+    77
+   ],
+   "items": [
+    "pt-df5fb6bc64"
+   ],
+   "chars": 239
+  },
+  {
+   "no": "九、",
+   "heading": "咨询方式",
+   "heading_kind": "author",
+   "lines": [
+    78,
+    79
+   ],
+   "items": [
+    "pt-f253b7ef5e"
+   ],
+   "chars": 26
+  },
+  {
+   "no": "十、",
+   "heading": "微专业课程费用",
+   "heading_kind": "author",
+   "lines": [
+    80,
+    82
+   ],
+   "items": [
+    "pt-546c06b42e"
+   ],
+   "chars": 59
+  },
+  {
+   "no": "十一、十二、",
+   "heading": "课程设置及学时分配表与微专业课程简介",
+   "heading_kind": "derived",
+   "lines": [
+    83,
+    170
+   ],
+   "items": [
+    "pt-a17f677591"
+   ],
+   "chars": 2232
+  },
+  {
+   "no": "十一、",
+   "heading": "课程设置及学时分配表",
+   "heading_kind": "author",
+   "lines": [
+    83,
+    83
+   ],
+   "items": [],
+   "chars": 13
+  },
+  {
+   "no": "十二、",
+   "heading": "微专业课程简介",
+   "heading_kind": "author",
+   "lines": [
+    84,
+    168
+   ],
+   "items": [],
+   "chars": 2200
+  },
+  {
+   "no": "课程1",
+   "heading": "微短剧台词表达基本功",
+   "heading_kind": "author",
+   "lines": [
+    85,
+    92
+   ],
+   "items": [
+    "pt-1b4ab77f43"
+   ],
+   "chars": 215
+  },
+  {
+   "no": "课程2",
+   "heading": "微短剧类型化身体行动训练",
+   "heading_kind": "author",
+   "lines": [
+    93,
+    99
+   ],
+   "items": [
+    "pt-54302fc048"
+   ],
+   "chars": 186
+  },
+  {
+   "no": "课程3",
+   "heading": "微短剧表演创作基本元素",
+   "heading_kind": "author",
+   "lines": [
+    100,
+    107
+   ],
+   "items": [
+    "pt-6254f0a8db",
+    "pt-1264dd35cb"
+   ],
+   "chars": 213
+  },
+  {
+   "no": "课程4",
+   "heading": "微短剧剧本解读",
+   "heading_kind": "author",
+   "lines": [
+    108,
+    115
+   ],
+   "items": [
+    "pt-600e56e358"
+   ],
+   "chars": 192
+  },
+  {
+   "no": "课程5",
+   "heading": "微短剧导演思维训练",
+   "heading_kind": "author",
+   "lines": [
+    116,
+    123
+   ],
+   "items": [
+    "pt-127437d402",
+    "pt-7871e0c605"
+   ],
+   "chars": 207
+  },
+  {
+   "no": "课程6",
+   "heading": "微短剧角色风格与类型化塑造",
+   "heading_kind": "author",
+   "lines": [
+    124,
+    131
+   ],
+   "items": [
+    "pt-ed46dcceb0",
+    "pt-b50fc9f1fd"
+   ],
+   "chars": 216
+  },
+  {
+   "no": "课程7",
+   "heading": "微短剧对白技巧与表现力",
+   "heading_kind": "author",
+   "lines": [
+    132,
+    139
+   ],
+   "items": [
+    "pt-ac6e6cb943"
+   ],
+   "chars": 191
+  },
+  {
+   "no": "课程8",
+   "heading": "微短剧身体行动实训与创作",
+   "heading_kind": "author",
+   "lines": [
+    140,
+    147
+   ],
+   "items": [
+    "pt-fca40c5995",
+    "pt-b5ab2021a0"
+   ],
+   "chars": 223
+  },
+  {
+   "no": "课程9",
+   "heading": "微短剧影像思维与叙事实现",
+   "heading_kind": "author",
+   "lines": [
+    148,
+    156
+   ],
+   "items": [
+    "pt-6b1aee3ee3",
+    "pt-ebacf1f683"
+   ],
+   "chars": 241
+  },
+  {
+   "no": "课程10",
+   "heading": "微短剧表演实训与创作",
+   "heading_kind": "author",
+   "lines": [
+    157,
+    167
+   ],
+   "items": [
+    "pt-afb1f783d3",
+    "pt-6107458bfc",
+    "pt-10db39f574"
+   ],
+   "chars": 306
+  },
+  {
+   "no": "落款",
+   "heading": "落款：中国传媒大学戏剧影视学院与日期",
+   "heading_kind": "derived",
+   "lines": [
+    169,
+    170
+   ],
+   "items": [],
+   "chars": 19
+  }
+ ],
+ "items": [
+  "pt-cb4f8fb504",
+  "pt-547c778033",
+  "pt-6edfd06990",
+  "pt-8a9d4ec69c",
+  "pt-eae1cd3a43",
+  "pt-438354344e",
+  "pt-a2dfcaf1cd",
+  "pt-e3365b6eff",
+  "pt-d2f66ee26a",
+  "pt-ccb8747d3a",
+  "pt-df5fb6bc64",
+  "pt-f253b7ef5e",
+  "pt-546c06b42e",
+  "pt-a17f677591",
+  "pt-1b4ab77f43",
+  "pt-54302fc048",
+  "pt-6254f0a8db",
+  "pt-1264dd35cb",
+  "pt-600e56e358",
+  "pt-127437d402",
+  "pt-7871e0c605",
+  "pt-ed46dcceb0",
+  "pt-b50fc9f1fd",
+  "pt-ac6e6cb943",
+  "pt-fca40c5995",
+  "pt-b5ab2021a0",
+  "pt-6b1aee3ee3",
+  "pt-ebacf1f683",
+  "pt-afb1f783d3",
+  "pt-6107458bfc",
+  "pt-10db39f574"
+ ],
+ "notes": [
+  "结构：第 1–6 行是三行折排的文档标题（中国传媒大学／微短剧表演创作微专业／2026年秋季招生简章），第 7 行起为一至十二章；第 169–170 行为学院落款与「2026年7月」。逐字取原文小标题作 author heading。",
+  "第 1–6 行标题行并入第一节「一、微专业介绍」（节区间 1–15 行）：pt-cb4f8fb504 的引文从第 1 行标题起、跨到第 7 行章标题与章首句，只有把标题行并入第一节才能整段命中，故未单设「标题」节。",
+  "第五章（学制，第 47–49 行）与第六章（授课方式，第 50–56 行）合并为一节：pt-d2f66ee26a 的引文是「五、学制一年六、授课方式…」的拼接，自第 47 行起贯穿两章，拆开则跨节。",
+  "第十一章「课程设置及学时分配表」（第 83 行）在原文只有标题、无表体（表格未被抽出），其下第 84 行直接进入第十二章；该节 items 为空，仅保留标题与行号。",
+  "第十二章的十门课程各按原文序号建子节（第 85 行起，门课程占一行标题 + 一段简介），父节「十二、」84–168 行与父节「十一、十二、」83–170 行均为真嵌套。",
+  "原文夹有 6 处换页符（第 39、71、84、93、129、164 行行首的 \\f），本索引行号按 split('\\n') 口径计数，换页符所在行算一行。"
+ ]
+}

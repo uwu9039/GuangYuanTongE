@@ -1,1 +1,151 @@
-ew0KICJrZXkiOiAi5paw6Ze75YWs5ZGKLWY3NmFjNTZkNTlhYWIxMTFmMDBiMDlhODhiMGJmMzFlMjliNSIsDQogInRpdGxlIjogIuWFs+S6jjIwMjDlsYrmr5XkuJrnlJ/lip7nkIblm77kuabppobov5jkuablt6XkvZzlronmjpLnmoTpgJrnn6UiLA0KICJ0cnVuY2F0ZWQiOiBmYWxzZSwNCiAic2VjdGlvbnMiOiBbDQogIHsNCiAgICJubyI6ICLpobXpnaLmoYbmnrYiLA0KICAgImhlYWRpbmciOiAi5qCH6aKY5LiO5p2l5rqQ5L+h5oGvIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMSwNCiAgICA2DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0xYTU1N2NmNTkxIg0KICAgXSwNCiAgICJjaGFycyI6IDIyMQ0KICB9LA0KICB7DQogICAibm8iOiAi5a+86K+tIiwNCiAgICJoZWFkaW5nIjogIui/mOS5puW3peS9nOWuieaOkue8mOeUsSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDcsDQogICAgNw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNzBkZWY2YTljMyINCiAgIF0sDQogICAiY2hhcnMiOiA4Mw0KICB9LA0KICB7DQogICAibm8iOiAi5LiA44CBIiwNCiAgICJoZWFkaW5nIjogIuWbvuS5pummhui/mOS5puaXtumXtOWSjOWcsOeCuSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgOCwNCiAgICAxMQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtOTk5NzJjNmUwMiIsDQogICAgInB0LTBhZDdhOTc0ODAiDQogICBdLA0KICAgImNoYXJzIjogNzQNCiAgfSwNCiAgew0KICAgIm5vIjogIuS6jOOAgSIsDQogICAiaGVhZGluZyI6ICLlm77kuabppobov5jkuabmtYHnqIsiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDEyLA0KICAgIDIxDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC03MTVmYWNhMGU0IiwNCiAgICAicHQtNDUzODllMmRhYiINCiAgIF0sDQogICAiY2hhcnMiOiAyNjQNCiAgfSwNCiAgew0KICAgIm5vIjogIuS4ieOAgSIsDQogICAiaGVhZGluZyI6ICLnlqvmg4XmnJ/pl7Tmr5XkuJrnlJ/lv6vpgJLov5jkuaYiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDIyLA0KICAgIDMxDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC05ZWNlZWUxYjAyIg0KICAgXSwNCiAgICJjaGFycyI6IDI3Ng0KICB9LA0KICB7DQogICAibm8iOiAi5Zub44CBIiwNCiAgICJoZWFkaW5nIjogIui/m+WFpeWbvuS5pummhuazqOaEj+S6i+mhuSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMzIsDQogICAgMzYNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTk0ZmZiNmFlYjAiLA0KICAgICJwdC1jMjczMzdlNjJmIiwNCiAgICAicHQtM2NjN2QzY2Y4MSIsDQogICAgInB0LTllOWMwMTVjYTciDQogICBdLA0KICAgImNoYXJzIjogMTQ3DQogIH0sDQogIHsNCiAgICJubyI6ICLpmYTlvZXmjIfljZciLA0KICAgImhlYWRpbmciOiAi5p+l6K+i5YCf6ZiF5L+h5oGv5Y+K5Lmm55uu6K+m57uG5L+h5oGv5oyH5Y2XIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzNywNCiAgICA2NQ0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTcxMg0KICB9LA0KICB7DQogICAibm8iOiAi5oyH5Y2X5LiA44CBIiwNCiAgICJoZWFkaW5nIjogIlBD56uvIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzOCwNCiAgICA1MA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNTc1YjY1YTQ5NyINCiAgIF0sDQogICAiY2hhcnMiOiA3OTUNCiAgfSwNCiAgew0KICAgIm5vIjogIuaMh+WNl+S6jOOAgSIsDQogICAiaGVhZGluZyI6ICLnp7vliqjnq68iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDUxLA0KICAgIDY1DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC02NTE2NzMxNzMxIg0KICAgXSwNCiAgICJjaGFycyI6IDkwMg0KICB9DQogXSwNCiAiaXRlbXMiOiBbDQogICJwdC0xYTU1N2NmNTkxIiwNCiAgInB0LTcwZGVmNmE5YzMiLA0KICAicHQtOTk5NzJjNmUwMiIsDQogICJwdC0wYWQ3YTk3NDgwIiwNCiAgInB0LTcxNWZhY2EwZTQiLA0KICAicHQtNDUzODllMmRhYiIsDQogICJwdC05ZWNlZWUxYjAyIiwNCiAgInB0LTk0ZmZiNmFlYjAiLA0KICAicHQtYzI3MzM3ZTYyZiIsDQogICJwdC0zY2M3ZDNjZjgxIiwNCiAgInB0LTllOWMwMTVjYTciLA0KICAicHQtNTc1YjY1YTQ5NyIsDQogICJwdC02NTE2NzMxNzMxIg0KIF0sDQogIm5vdGVzIjogWw0KICAi56ysIDHigJM1IOihjOaYr+mhtemdouahhuaetu+8iOagh+mimOOAgeadpea6kCBVUkzjgIHmoI/nm67jgIzmlrDpl7vlhazlkYrjgI3jgIHkvZzogIXjgIzlm77kuabppobjgI3jgIHlj5HluIPml7bpl7QgMjAyMC0wNi0yMu+8ie+8jOesrCA2IOihjOS4uuepuuihjO+8jOWQiOW5tuS4uuOAjOagh+mimOS4juadpea6kOS/oeaBr+OAje+8iGRlcml2ZWTvvInjgIIiLA0KICAi56ysIDcg6KGM5piv5ZSv5LiA5LiA5q615a+86K+t77yM5Y2V5YiX5LiA6IqC44CCIiwNCiAgIuesrCAzNyDooYzjgIzmn6Xor6LlgJ/pmIXkv6Hmga/lj4rkuabnm67or6bnu4bkv6Hmga/mjIfljZfjgI3mmK/pgJrnn6XmraPmlofkuYvlkI7lj6bpmYTnmoTmk43kvZzmjIfljZfvvIzoh6rluKbkuIDlpZfjgIzkuIDjgIFQQ+erryAvIOS6jOOAgeenu+WKqOerr+OAjee8luWPt++8jOS4juato+aWh+eahOOAjOS4gOOAgeOAjeiHs+OAjOWbm+OAgeOAjemHjeWPt++8m+iKguWPt+aUueeUqOOAjOaMh+WNl+S4gOOAgeOAjeOAjOaMh+WNl+S6jOOAgeOAjeWMuuWIhu+8jGhlYWRpbmcg5LuN5Y+W5Y6f5paH44CCIiwNCiAgIuaMh+WNl+WQhOatpemqpOS5i+mXtOWkueedgOWbvueJh+ihjO+8iOWmguesrCA0MCDooYzjgIxb5Zu+XSAvZWRpdG9yL3BjL2ZpbGVzL2ltYWdlP3Jlc2lkPeKApuOAje+8ie+8jOaMieWOn+aWh+eVmeWcqOaJgOWxnuatpemqpOaJgOWcqOiKguWGhe+8jOacquWPpueri+iKguOAgiIsDQogICLnrKwgMTbigJMyMSDooYzmmK/lm77kuabpgZflpLHotZTlgb/moIflh4bnmoTvvIgx77yJ4oCT77yINu+8ieWIhuaho++8jOWxnuOAjOS6jOOAgeWbvuS5pummhui/mOS5pua1geeoi+OAjeWGheesrCAzIOadoeeahOe7huWIme+8jOacquaLhuWtkOiKguOAgiIsDQogICJwdC01NzViNjVhNDk3IC8gcHQtNjUxNjczMTczMSDnmoTmoIfpopjmmK/jgIzkuIDjgIFQQ+erryAy44CB6L6T5YWl5qCh5Zut572R5biQ5Y+344CB5a+G56CB44CN6L+Z57G75ou85o6l5Liy77yM5byV5paH6LW354K55YiG5Yir5ZyoIDQxIC8gNTgg6KGM77yI5oyH5Y2X5q2l6aqk6KGM77yJ77yM5pWF6JC944CM5oyH5Y2X5LiA44CB44CN44CM5oyH5Y2X5LqM44CB44CN77yM5pyq5oyJ5qCH6aKY5YmN57yA5aGe6L+b6YCa55+l5q2j5paH55qE44CM5LiA44CB44CN44CCIiwNCiAgIuWFqOaWh+acquingeaIquaWre+8muato+aWh+atouS6juenu+WKqOerr+esrCA3IOatpe+8iOesrCA2NOKAkzY1IOihjO+8ie+8jOS4juivpemAmuefpemhtemdouato+aWh+e7k+WwvuS4gOiHtOOAgiINCiBdDQp9
+{
+ "key": "新闻公告-f76ac56d59aab111f00b09a88b0bf31e29b5",
+ "title": "关于2020届毕业生办理图书馆还书工作安排的通知",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "页面框架",
+   "heading": "标题与来源信息",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    6
+   ],
+   "items": [
+    "pt-1a557cf591"
+   ],
+   "chars": 221
+  },
+  {
+   "no": "导语",
+   "heading": "还书工作安排缘由",
+   "heading_kind": "derived",
+   "lines": [
+    7,
+    7
+   ],
+   "items": [
+    "pt-70def6a9c3"
+   ],
+   "chars": 83
+  },
+  {
+   "no": "一、",
+   "heading": "图书馆还书时间和地点",
+   "heading_kind": "author",
+   "lines": [
+    8,
+    11
+   ],
+   "items": [
+    "pt-99972c6e02",
+    "pt-0ad7a97480"
+   ],
+   "chars": 74
+  },
+  {
+   "no": "二、",
+   "heading": "图书馆还书流程",
+   "heading_kind": "author",
+   "lines": [
+    12,
+    21
+   ],
+   "items": [
+    "pt-715faca0e4",
+    "pt-45389e2dab"
+   ],
+   "chars": 264
+  },
+  {
+   "no": "三、",
+   "heading": "疫情期间毕业生快递还书",
+   "heading_kind": "author",
+   "lines": [
+    22,
+    31
+   ],
+   "items": [
+    "pt-9eceee1b02"
+   ],
+   "chars": 276
+  },
+  {
+   "no": "四、",
+   "heading": "进入图书馆注意事项",
+   "heading_kind": "author",
+   "lines": [
+    32,
+    36
+   ],
+   "items": [
+    "pt-94ffb6aeb0",
+    "pt-c27337e62f",
+    "pt-3cc7d3cf81",
+    "pt-9e9c015ca7"
+   ],
+   "chars": 147
+  },
+  {
+   "no": "附录指南",
+   "heading": "查询借阅信息及书目详细信息指南",
+   "heading_kind": "author",
+   "lines": [
+    37,
+    65
+   ],
+   "items": [],
+   "chars": 1712
+  },
+  {
+   "no": "指南一、",
+   "heading": "PC端",
+   "heading_kind": "author",
+   "lines": [
+    38,
+    50
+   ],
+   "items": [
+    "pt-575b65a497"
+   ],
+   "chars": 795
+  },
+  {
+   "no": "指南二、",
+   "heading": "移动端",
+   "heading_kind": "author",
+   "lines": [
+    51,
+    65
+   ],
+   "items": [
+    "pt-6516731731"
+   ],
+   "chars": 902
+  }
+ ],
+ "items": [
+  "pt-1a557cf591",
+  "pt-70def6a9c3",
+  "pt-99972c6e02",
+  "pt-0ad7a97480",
+  "pt-715faca0e4",
+  "pt-45389e2dab",
+  "pt-9eceee1b02",
+  "pt-94ffb6aeb0",
+  "pt-c27337e62f",
+  "pt-3cc7d3cf81",
+  "pt-9e9c015ca7",
+  "pt-575b65a497",
+  "pt-6516731731"
+ ],
+ "notes": [
+  "第 1–5 行是页面框架（标题、来源 URL、栏目「新闻公告」、作者「图书馆」、发布时间 2020-06-22），第 6 行为空行，合并为「标题与来源信息」（derived）。",
+  "第 7 行是唯一一段导语，单列一节。",
+  "第 37 行「查询借阅信息及书目详细信息指南」是通知正文之后另附的操作指南，自带一套「一、PC端 / 二、移动端」编号，与正文的「一、」至「四、」重号；节号改用「指南一、」「指南二、」区分，heading 仍取原文。",
+  "指南各步骤之间夹着图片行（如第 40 行「[图] /editor/pc/files/image?resid=…」），按原文留在所属步骤所在节内，未另立节。",
+  "第 16–21 行是图书遗失赔偿标准的（1）–（6）分档，属「二、图书馆还书流程」内第 3 条的细则，未拆子节。",
+  "pt-575b65a497 / pt-6516731731 的标题是「一、PC端 2、输入校园网帐号、密码」这类拼接串，引文起点分别在 41 / 58 行（指南步骤行），故落「指南一、」「指南二、」，未按标题前缀塞进通知正文的「一、」。",
+  "全文未见截断：正文止于移动端第 7 步（第 64–65 行），与该通知页面正文结尾一致。"
+ ]
+}

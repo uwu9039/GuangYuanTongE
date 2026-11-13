@@ -1,1 +1,120 @@
-ewogImtleSI6ICIyMDI2MDYwMS1jMTQ3NDVhMjcxMTk1IiwKICJ0aXRsZSI6ICLigJzplZzlpLToh7TmlazlirPliqjogIXigJ3lvbHlg4/lvoHpm4bkvZzlk4EiLAogInRydW5jYXRlZCI6IGZhbHNlLAogInNlY3Rpb25zIjogWwogIHsKICAgIm5vIjogIumhtemdouahhuaetiIsCiAgICJoZWFkaW5nIjogIumhtemdouagh+mimOOAgeermeeCueagj+ebruWvvOiIquS4juagj+ebrumhteWktCIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFsxLCAzNl0sCiAgICJpdGVtcyI6IFsicHQtNTRkZDg3Nzg5MSJdLAogICAiY2hhcnMiOiAzNDAKICB9LAogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIua0u+WKqOiDjOaZr+S4juW+gembhuWPt+WPrCIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFszNywgMzddLAogICAiaXRlbXMiOiBbInB0LTYwOTYzNjkxYjIiLCAicHQtYTQzN2VjOWU4NCJdLAogICAiY2hhcnMiOiAyMDgKICB9LAogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIuOAiui/m+atpeeahOmYtuair+OAiyIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzM4LCA0NV0sCiAgICJpdGVtcyI6IFsicHQtOWYyMGYwMmRjNiIsICJwdC1hZDU2Yzg4MWRjIiwgInB0LTMyOTMxNjE3YzkiXSwKICAgImNoYXJzIjogMjQ3CiAgfSwKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLjgIrov5TmoKHot6/kuIrnmoTlirPliqjogIXouqvlvbHjgIsiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs0NiwgNTNdLAogICAiaXRlbXMiOiBbInB0LTY2YmNjYTE5NTIiLCAicHQtNTljMDE5N2MwNiIsICJwdC04ODMzY2EwOGQxIl0sCiAgICJjaGFycyI6IDI0OAogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi44CK5Yek5qKo5bGx5LiL44CLIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbNTQsIDYxXSwKICAgIml0ZW1zIjogWyJwdC1iNmU0MTBiOWNhIiwgInB0LTQ2NDRhZTVhYTIiLCAicHQtMDYxNWVjOGYzYyJdLAogICAiY2hhcnMiOiAyMzcKICB9LAogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIuOAiuWKs+WKqOeahOi6q+W9seOAiyIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzYyLCA2OV0sCiAgICJpdGVtcyI6IFsicHQtZjhhY2ViYTRlYSIsICJwdC04NGZmZjAyYzg5IiwgInB0LTY0YTM1ZDc0M2QiXSwKICAgImNoYXJzIjogMjI4CiAgfSwKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLjgIrlpqXlloTlronmlL7nmoTooYzmnY7nrrHjgIsiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs3MCwgNzddLAogICAiaXRlbXMiOiBbInB0LTIxNDhmYjkwNGYiLCAicHQtNTkzZDBmOWZhZCJdLAogICAiY2hhcnMiOiAyMzEKICB9LAogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIuOAiuW5s+WHoemHjOeahOW+ruWFieOAiyIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzc4LCA4NV0sCiAgICJpdGVtcyI6IFsicHQtYjdlOWRiNzk0YyIsICJwdC0wMTU4YzZhOWI4IiwgInB0LWI2NzI5YmViYzAiXSwKICAgImNoYXJzIjogMjQwCiAgfSwKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLmtLvliqjmgLvnu5PkuI7lirPliqjmlZnogrLlr7zlkJEiLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbODYsIDg2XSwKICAgIml0ZW1zIjogWyJwdC1lZDViN2JhNDZkIl0sCiAgICJjaGFycyI6IDE2NwogIH0sCiAgewogICAibm8iOiAi6aG16ISaIiwKICAgImhlYWRpbmciOiAi5Y+L5oOF6ZO+5o6l44CB54mI5p2D5aSH5qGI5LiO6K6/6Zeu57uf6K6hIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzg3LCAxMDRdLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogNDA1CiAgfQogXSwKICJpdGVtcyI6IFsKICAicHQtNTRkZDg3Nzg5MSIsCiAgInB0LTYwOTYzNjkxYjIiLAogICJwdC1hNDM3ZWM5ZTg0IiwKICAicHQtOWYyMGYwMmRjNiIsCiAgInB0LWFkNTZjODgxZGMiLAogICJwdC0zMjkzMTYxN2M5IiwKICAicHQtNjZiY2NhMTk1MiIsCiAgInB0LTU5YzAxOTdjMDYiLAogICJwdC04ODMzY2EwOGQxIiwKICAicHQtYjZlNDEwYjljYSIsCiAgInB0LTQ2NDRhZTVhYTIiLAogICJwdC0wNjE1ZWM4ZjNjIiwKICAicHQtZjhhY2ViYTRlYSIsCiAgInB0LTg0ZmZmMDJjODkiLAogICJwdC02NGEzNWQ3NDNkIiwKICAicHQtMjE0OGZiOTA0ZiIsCiAgInB0LTU5M2QwZjlmYWQiLAogICJwdC1iN2U5ZGI3OTRjIiwKICAicHQtMDE1OGM2YTliOCIsCiAgInB0LWI2NzI5YmViYzAiLAogICJwdC1lZDViN2JhNDZkIgogXSwKICJub3RlcyI6IFsKICAi572R6aG15YWs5ZGK77ya56ysIDHigJMzNiDooYzmmK/pobXpnaLmoYbmnrbvvIzlkKvpobXpnaLmoIfpopjvvIgx77yJ44CBbG9nbyDkuI7mlbTmrrXmoI/nm67lr7zoiKrmoJHvvIgz4oCTMjnvvJrpppbpobXvvI/lhbPkuo7miJHku6zvvI/igKbvvI/lm73pmYXkuqTmtYHnrqHnkIbvvInjgIHmoI/nm67mqKrluYXvvIgzMO+8ieOAgeagj+ebruWQjeOAjOWFmue+pOW3peS9nOOAjeS4jumdouWMheWxkeOAjOmmlumhtSDlhZrnvqTlt6XkvZwg5Zui5a2m5Yqo5oCB44CN77yIMzHigJMzMu+8ieOAgeS6jOe6p+agj+ebruOAjOWFmuW7uuWKqOaAge+8j+WbouWtpuWKqOaAgeOAje+8iDMz4oCTMzTvvInjgIHmraPmlofpobXlpLTph43lpI3nmoTmoIfpopjvvIgzNe+8ieOAgeWPkeW4g+aXtumXtOS4jua1j+iniOasoeaVsO+8iDM277yJ77yM5ZCI5bm25Li644CM6aG16Z2i5qGG5p6244CN5LiA6IqC77yM5a+86Iiq5LiN6YCQ5p2h6K6+6IqC44CCIiwKICAi56ysIDM3IOihjOaYr+a0u+WKqOiDjOaZr+S4juWPt+WPrO+8iOS4pOWPpeivne+8muS4uuS7gOS5iOWKnuOAgeWPt+WPrOS7gOS5iO+8ie+8jOWOn+aWh+acrOaYr+S4gOaVtOauteOAgeayoeacieWwj+agh+mimO+8jOWNleWIl+OAjOa0u+WKqOiDjOaZr+S4juW+gembhuWPt+WPrOOAjeS4gOiKgu+8jHB0LTYwOTYzNjkxYjIg5LiOIHB0LWE0MzdlYzllODQg55qE5byV5paH5YiG5Yir6JC95Zyo6L+Z5LiA6KGM55qE5YmN5ZCO5Y2K5Y+l44CCIiwKICAi5YWt5Lu25L2c5ZOB5ZCE6Ieq5oiQ6IqC77ya5q+P6IqC5piv44CMW+mZhOS7tl0g5Zu+54mH6KGMIOKGkuOAiuS9nOWTgeWQjeOAi+KGkiDlubTnuqfnj63nuqfkuI7kvZzogIUg4oaSIOaLjeaRhOaXtumXtO+8j+WcsOeCue+8j+WvueixoSDihpIg5Yib5L2c6K+05piO77ya4oaSIOivtOaYjuato+aWh+OAjeeahOWbuuWumue7k+aehO+8jOS9nOWTgeWQjeaYr+WOn+aWh+eLrOeri+S4gOihjOOAgeWPr+mAkOWtl+aJvuWIsO+8jOaVhSBoZWFkaW5nIOeUqOWOn+aWh+OAiuKApuOAi+W5tuaghyBhdXRob3LvvJvlm6Dlm77niYfooYzntKfotLTlnKjkvZzlk4HlkI3kuYvliY3jgIHlsZ7kuo7or6XkvZzlk4HmnKzouqvvvIzoioLljLrpl7Tku47lm77niYfooYzlvIDlp4vvvIjkuI3mmK/nuq/pobXnoIHmiJbkuIrkuIDoioLlsL7lj6XvvInvvIzmiYDku6Xmr4/oioLnmoQgbGluZXNbMF0g5piv5Zu+54mH6KGM44CCIiwKICAi56ysIDcwIOihjOeJueauiu+8muWbvueJh+S4juWFtuWQjueahOOAiuWmpeWWhOWuieaUvueahOihjOadjueuseOAi+aMpOWcqOWQjOS4gOihjO+8iOOAjOKApnBuZyDjgIrlpqXlloTlronmlL7nmoTooYzmnY7nrrHjgIvjgI3vvInvvIzor6XoioLnmoTmoIfpopjooYzkuI7lm77niYfooYzph43lkIjvvIzmlYXjgIzjgIrlpqXlloTlronmlL7nmoTooYzmnY7nrrHjgIvjgI3oioLlj6rku44gNzAg6KGM6LW35YiwIDc3IOihjOOAgiIsCiAgIuesrCA3MeKAkzcyIOihjOOAjDI157qn56GV5aOr6Leo5paH5YyW5Lyg5pKt5LiO77yP5Yy65Z+f5Zu95Yir54+t6b2Q5oGs5amn44CN6KKr5pat5oiQ5Lik6KGM77yI5Y6f5paH5oqK54+t57qn5ZCN5o2i6KGM77yJ77yMcHQtMjE0OGZiOTA0ZiDnmoTlvJXmlofmiorkuKTooYzmi7zmjqXmiJDjgIwyNee6p+ehleWjq+i3qOaWh+WMluS8oOaSreS4juWMuuWfn+WbveWIq+ePrem9kOaBrOWpp+OAje+8jOiQveWcqOacrOiKguWMuumXtOWGheOAgiIsCiAgIuesrCA4NiDooYzmmK/mtLvliqjmgLvnu5PvvIjml6LmmK/lr7nmnKzmrKHlvoHpm4bnmoTmhI/kuYnlvZLnurPvvIzkuZ/mmK/lrabpmaLlirPliqjmlZnogrLnmoTlr7zlkJHvvInvvIzljZXliJfkuIDoioLvvJvnrKwgODfigJMxMDQg6KGM5Li66aG16ISa77yabG9nb+OAgeWPi+aDhemTvuaOpeOAgeWFs+S6juaIkeS7rOOAgeWcsOWdgOmCrue8luOAgeeJiOadg+S4juS6rCBJQ1Ag5aSH5qGI5Y+344CB5oqA5pyv5pSv5oyB44CB5Zue5Yiw6aG26YOo44CBW+mZhOS7tl0gL192aXNpdGNvdW50IOiuv+mXrue7n+iuoe+8jOWPpuiuvuOAjOmhteiEmuOAjeS4gOiKgu+8iOivpeiKguaYr+aWh+S7tuacq+ihjO+8ieOAgiIsCiAgIuWFreS7tuS9nOWTgeeahOWwj+iKguayoeaciee8luWPt++8iOWOn+aWh+S9nOWTgeWQjeS4jeW4puW6j+WPt++8ie+8jG5vIOiusOOAjOKAlOOAje+8jGhlYWRpbmcg5omN55So44CK5L2c5ZOB5ZCN44CL77yb5qCH6aKY5bim5Lmm5ZCN5Y+35piv5Y6f5paH5YaZ5rOV77yM5LiN5piv5pys57Si5byV5re75Yqg44CCIiwKICAi5q2j5paH5Lul5oC757uT5q615pS25p2f44CB5YW25ZCO5Y2z6aG16ISa77yM5pyq6KeB5oiq5pat77yMdHJ1bmNhdGVkPWZhbHNl77yb5pys5paH5Lu25pegIGRvYyDnuqcgcnVsZS0qIOadoeebru+8jDIxIOS4qiBwdCDmnaHnm67lhajpg6jlnKjmnKzmloflkb3kuK3okL3ngrnjgIIiCiBdCn0K
+{
+ "key": "20260601-c14745a271195",
+ "title": "“镜头致敬劳动者”影像征集作品",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "页面框架",
+   "heading": "页面标题、站点栏目导航与栏目页头",
+   "heading_kind": "derived",
+   "lines": [1, 36],
+   "items": ["pt-54dd877891"],
+   "chars": 340
+  },
+  {
+   "no": "—",
+   "heading": "活动背景与征集号召",
+   "heading_kind": "derived",
+   "lines": [37, 37],
+   "items": ["pt-60963691b2", "pt-a437ec9e84"],
+   "chars": 208
+  },
+  {
+   "no": "—",
+   "heading": "《进步的阶梯》",
+   "heading_kind": "author",
+   "lines": [38, 45],
+   "items": ["pt-9f20f02dc6", "pt-ad56c881dc", "pt-32931617c9"],
+   "chars": 247
+  },
+  {
+   "no": "—",
+   "heading": "《返校路上的劳动者身影》",
+   "heading_kind": "author",
+   "lines": [46, 53],
+   "items": ["pt-66bcca1952", "pt-59c0197c06", "pt-8833ca08d1"],
+   "chars": 248
+  },
+  {
+   "no": "—",
+   "heading": "《凤梨山下》",
+   "heading_kind": "author",
+   "lines": [54, 61],
+   "items": ["pt-b6e410b9ca", "pt-4644ae5aa2", "pt-0615ec8f3c"],
+   "chars": 237
+  },
+  {
+   "no": "—",
+   "heading": "《劳动的身影》",
+   "heading_kind": "author",
+   "lines": [62, 69],
+   "items": ["pt-f8aceba4ea", "pt-84fff02c89", "pt-64a35d743d"],
+   "chars": 228
+  },
+  {
+   "no": "—",
+   "heading": "《妥善安放的行李箱》",
+   "heading_kind": "author",
+   "lines": [70, 77],
+   "items": ["pt-2148fb904f", "pt-593d0f9fad"],
+   "chars": 231
+  },
+  {
+   "no": "—",
+   "heading": "《平凡里的微光》",
+   "heading_kind": "author",
+   "lines": [78, 85],
+   "items": ["pt-b7e9db794c", "pt-0158c6a9b8", "pt-b6729bebc0"],
+   "chars": 240
+  },
+  {
+   "no": "—",
+   "heading": "活动总结与劳动教育导向",
+   "heading_kind": "derived",
+   "lines": [86, 86],
+   "items": ["pt-ed5b7ba46d"],
+   "chars": 167
+  },
+  {
+   "no": "页脚",
+   "heading": "友情链接、版权备案与访问统计",
+   "heading_kind": "derived",
+   "lines": [87, 104],
+   "items": [],
+   "chars": 405
+  }
+ ],
+ "items": [
+  "pt-54dd877891",
+  "pt-60963691b2",
+  "pt-a437ec9e84",
+  "pt-9f20f02dc6",
+  "pt-ad56c881dc",
+  "pt-32931617c9",
+  "pt-66bcca1952",
+  "pt-59c0197c06",
+  "pt-8833ca08d1",
+  "pt-b6e410b9ca",
+  "pt-4644ae5aa2",
+  "pt-0615ec8f3c",
+  "pt-f8aceba4ea",
+  "pt-84fff02c89",
+  "pt-64a35d743d",
+  "pt-2148fb904f",
+  "pt-593d0f9fad",
+  "pt-b7e9db794c",
+  "pt-0158c6a9b8",
+  "pt-b6729bebc0",
+  "pt-ed5b7ba46d"
+ ],
+ "notes": [
+  "网页公告：第 1–36 行是页面框架，含页面标题（1）、logo 与整段栏目导航树（3–29：首页／关于我们／…／国际交流管理）、栏目横幅（30）、栏目名「党群工作」与面包屑「首页 党群工作 团学动态」（31–32）、二级栏目「党建动态／团学动态」（33–34）、正文页头重复的标题（35）、发布时间与浏览次数（36），合并为「页面框架」一节，导航不逐条设节。",
+  "第 37 行是活动背景与号召（两句话：为什么办、号召什么），原文本是一整段、没有小标题，单列「活动背景与征集号召」一节，pt-60963691b2 与 pt-a437ec9e84 的引文分别落在这一行的前后半句。",
+  "六件作品各自成节：每节是「[附件] 图片行 →《作品名》→ 年级班级与作者 → 拍摄时间／地点／对象 → 创作说明：→ 说明正文」的固定结构，作品名是原文独立一行、可逐字找到，故 heading 用原文《…》并标 author；因图片行紧贴在作品名之前、属于该作品本身，节区间从图片行开始（不是纯页码或上一节尾句），所以每节的 lines[0] 是图片行。",
+  "第 70 行特殊：图片与其后的《妥善安放的行李箱》挤在同一行（「…png 《妥善安放的行李箱》」），该节的标题行与图片行重合，故「《妥善安放的行李箱》」节只从 70 行起到 77 行。",
+  "第 71–72 行「25级硕士跨文化传播与／区域国别班齐恬婧」被断成两行（原文把班级名换行），pt-2148fb904f 的引文把两行拼接成「25级硕士跨文化传播与区域国别班齐恬婧」，落在本节区间内。",
+  "第 86 行是活动总结（既是对本次征集的意义归纳，也是学院劳动教育的导向），单列一节；第 87–104 行为页脚：logo、友情链接、关于我们、地址邮编、版权与京 ICP 备案号、技术支持、回到顶部、[附件] /_visitcount 访问统计，另设「页脚」一节（该节是文件末行）。",
+  "六件作品的小节没有编号（原文作品名不带序号），no 记「—」，heading 才用《作品名》；标题带书名号是原文写法，不是本索引添加。",
+  "正文以总结段收束、其后即页脚，未见截断，truncated=false；本文件无 doc 级 rule-* 条目，21 个 pt 条目全部在本文命中落点。"
+ ]
+}

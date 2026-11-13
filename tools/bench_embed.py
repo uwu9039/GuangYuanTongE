@@ -1,1 +1,31 @@
-IiIi5rWL5LiA5LiL55m+54K8IGVtYmVkZGluZyDnmoTlubblj5HnlJzngrnvvJrkuI3lkIzlubblj5HkuIsgOCDkuKror7fmsYLopoHlpJrkuYXjgIIiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IHRpbWUKZnJvbSBjb25jdXJyZW50LmZ1dHVyZXMgaW1wb3J0IFRocmVhZFBvb2xFeGVjdXRvcgoKZnJvbSByZXRyaWV2YWwuZGVuc2UgaW1wb3J0IGVtYmVkX2JhdGNoCgpURVhUUyA9IFtmIuagoeWbreWNoeihpeWKnua1geeoi+esrHtpfeadoea1i+ivleaWh+acrO+8jOeUqOS6jua1i+mHj+W5tuWPkeWQnuWQkOOAgiIgZm9yIGkgaW4gcmFuZ2UoMjAwKV0KCgpkZWYgcnVuKHdvcmtlcnM6IGludCwgYmF0Y2g6IGludCA9IDEwLCByZXFzOiBpbnQgPSA4KSAtPiBmbG9hdDoKICAgIGJhdGNoZXMgPSBbVEVYVFNbaSAqIGJhdGNoOihpICsgMSkgKiBiYXRjaF0gZm9yIGkgaW4gcmFuZ2UocmVxcyldCiAgICB0MCA9IHRpbWUucGVyZl9jb3VudGVyKCkKICAgIHdpdGggVGhyZWFkUG9vbEV4ZWN1dG9yKG1heF93b3JrZXJzPXdvcmtlcnMpIGFzIGV4OgogICAgICAgIGxpc3QoZXgubWFwKGxhbWJkYSBiOiBlbWJlZF9iYXRjaChiLCB0ZXh0X3R5cGU9ImRvY3VtZW50IiksIGJhdGNoZXMpKQogICAgZHQgPSB0aW1lLnBlcmZfY291bnRlcigpIC0gdDAKICAgIHJldHVybiByZXFzICogYmF0Y2ggLyBkdAoKCmRlZiBtYWluKCkgLT4gTm9uZToKICAgIGZvciB3IGluICgxLCA0LCA4LCAxNiwgMzIpOgogICAgICAgIHRyeToKICAgICAgICAgICAgdHBzID0gcnVuKHcpCiAgICAgICAgICAgIHByaW50KGYid29ya2Vycz17dzoyZH0gIHt0cHM6Ni4xZn0g5p2hL+enkiIpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOiAgIyBub3FhOiBCTEUwMDEKICAgICAgICAgICAgcHJpbnQoZiJ3b3JrZXJzPXt3OjJkfSAg5aSx6LSlIHt0eXBlKGUpLl9fbmFtZV9ffSB7c3RyKGUpWzo4MF19IikKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==
+"""测一下百炼 embedding 的并发甜点：不同并发下 8 个请求要多久。"""
+from __future__ import annotations
+
+import time
+from concurrent.futures import ThreadPoolExecutor
+
+from retrieval.dense import embed_batch
+
+TEXTS = [f"校园卡补办流程第{i}条测试文本，用于测量并发吞吐。" for i in range(200)]
+
+
+def run(workers: int, batch: int = 10, reqs: int = 8) -> float:
+    batches = [TEXTS[i * batch:(i + 1) * batch] for i in range(reqs)]
+    t0 = time.perf_counter()
+    with ThreadPoolExecutor(max_workers=workers) as ex:
+        list(ex.map(lambda b: embed_batch(b, text_type="document"), batches))
+    dt = time.perf_counter() - t0
+    return reqs * batch / dt
+
+
+def main() -> None:
+    for w in (1, 4, 8, 16, 32):
+        try:
+            tps = run(w)
+            print(f"workers={w:2d}  {tps:6.1f} 条/秒")
+        except Exception as e:  # noqa: BLE001
+            print(f"workers={w:2d}  失败 {type(e).__name__} {str(e)[:80]}")
+
+
+if __name__ == "__main__":
+    main()

@@ -1,1 +1,208 @@
-IiIi5pys5Zyw5a2X56ymIG4tZ3JhbSDlkJHph4/mo4DntKLvvJrkuI3kvp3otZbmqKHlnovjgIHkuI3ogZTnvZHvvIznu5nljp/mloflupPlgZrovoXliqnmo4DntKLjgIIKCuaehOW7uuingSB0b29scy9idWlsZF92ZWN0b3IucHnvvJvmn6Xor6LkuI7mnoTlu7rlv4XpobvlhbHnlKjmnKzmlofku7bnmoQgbm9ybWFsaXplL3dlaWdoL2lkZuOAggoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGhhc2hsaWIKaW1wb3J0IGpzb24KaW1wb3J0IG1hdGgKaW1wb3J0IG9zCmltcG9ydCByZQppbXBvcnQgdW5pY29kZWRhdGEKZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCmZyb20gdHlwaW5nIGltcG9ydCBBbnkKClJPT1QgPSBQYXRoKF9fZmlsZV9fKS5wYXJlbnQKIyDlkJHph4/lupPnm67lvZXvvJrpu5jorqQgYHNvdXJjZXMvdmVjdG9yL2DvvIjku5PlupPph4zluKbnmoTmmK8gMyDkuKogNjUgTUIg5YiG54mH77yMRG9ja2VyZmlsZSDmnoTlu7rml7YKIyDmi7zmiJAgdmVjdG9ycy5ucHnvvInjgILmnKzlnLDpg6jnvbLml7YgYHNvdXJjZXMvYCDluLjmmK/lj6ror7vnmoTovpPlhaXmlbDmja7jgIHmi7zkuI3ov5vljrvvvIzmiYDku6XnlZnkuIDkuKoKIyDopobnm5blj6PvvJpgVkVDVE9SX0RJUj085pS+5aW9IHZlY3RvcnMubnB5L2NodW5rcy5qc29ubC9pZGYubnB5L21hbmlmZXN0Lmpzb24g55qE55uu5b2VPmDjgIIKIyDkuI3orr7ov5nkuKrlj5jph4/ml7booYzkuLrkuI7ljp/mnaXlrozlhajkuIDoh7TjgIIKVkRJUiA9IFBhdGgob3MuZW52aXJvbi5nZXQoIlZFQ1RPUl9ESVIiKSBvciAoUk9PVCAvICJzb3VyY2VzIiAvICJ2ZWN0b3IiKSkKRElNID0gMjA0OApXRUlHSFRTID0gezE6IDAuNDUsIDI6IDEuMCwgMzogMC42NX0KS0VFUCA9IHJlLmNvbXBpbGUociJbMC05YS16XHU0ZTAwLVx1OWZmZl0rIikKCl9DQUNIRTogZGljdFtzdHIsIEFueV0gfCBOb25lID0gTm9uZQpfQ0FDSEVfTVRJTUU6IGZsb2F0ID0gMC4wCgoKZGVmIG5vcm1hbGl6ZSh0ZXh0OiBzdHIpIC0+IHN0cjoKICAgIHQgPSB1bmljb2RlZGF0YS5ub3JtYWxpemUoIk5GS0MiLCB0ZXh0IG9yICIiKS5sb3dlcigpCiAgICByZXR1cm4gIiIuam9pbihLRUVQLmZpbmRhbGwodCkpCgoKZGVmIGJ1Y2tldChncmFtOiBzdHIpIC0+IGludDoKICAgIGggPSBoYXNobGliLmJsYWtlMmIoZ3JhbS5lbmNvZGUoInV0Zi04IiksIGRpZ2VzdF9zaXplPTgpLmRpZ2VzdCgpCiAgICByZXR1cm4gaW50LmZyb21fYnl0ZXMoaCwgImxpdHRsZSIpICYgKERJTSAtIDEpCgoKZGVmIGZlYXR1cmVzKHRleHQ6IHN0cikgLT4gZGljdFtpbnQsIGZsb2F0XToKICAgIHMgPSBub3JtYWxpemUodGV4dCkKICAgIG91dDogZGljdFtpbnQsIGZsb2F0XSA9IHt9CiAgICBuX2NoYXJzID0gbGVuKHMpCiAgICBmb3IgbiwgdyBpbiBXRUlHSFRTLml0ZW1zKCk6CiAgICAgICAgaWYgbl9jaGFycyA8IG46CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgZm9yIGkgaW4gcmFuZ2Uobl9jaGFycyAtIG4gKyAxKToKICAgICAgICAgICAgZ3JhbSA9IHNbaTppICsgbl0KICAgICAgICAgICAgaWYgbiA9PSAxIGFuZCBub3QgKCJcdTRlMDAiIDw9IGdyYW0gPD0gIlx1OWZmZiIgb3IgZ3JhbS5pc2FsbnVtKCkpOgogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgYiA9IGJ1Y2tldChncmFtKQogICAgICAgICAgICBvdXRbYl0gPSBvdXQuZ2V0KGIsIDAuMCkgKyB3CiAgICByZXR1cm4gb3V0CgoKZGVmIHZlY3Rvcml6ZSh0ZXh0OiBzdHIsIGlkZjogQW55KSAtPiBBbnk6CiAgICBpbXBvcnQgbnVtcHkgYXMgbnAKCiAgICB2ZWMgPSBucC56ZXJvcyhESU0sIGR0eXBlPW5wLmZsb2F0MzIpCiAgICBmb3IgYiwgdGYgaW4gZmVhdHVyZXModGV4dCkuaXRlbXMoKToKICAgICAgICB2ZWNbYl0gKz0gdGYgKiBmbG9hdChpZGZbYl0pCiAgICBub3JtID0gZmxvYXQobnAubGluYWxnLm5vcm0odmVjKSkKICAgIGlmIG5vcm0gPiAwOgogICAgICAgIHZlYyAvPSBub3JtCiAgICByZXR1cm4gdmVjCgoKZGVmIF9tdGltZSgpIC0+IGZsb2F0OgogICAgZmlsZXMgPSBbVkRJUiAvICJ2ZWN0b3JzLm5weSIsIFZESVIgLyAiY2h1bmtzLmpzb25sIiwgVkRJUiAvICJpZGYubnB5Il0KICAgIHJldHVybiBtYXgoKHAuc3RhdCgpLnN0X210aW1lIGZvciBwIGluIGZpbGVzIGlmIHAuZXhpc3RzKCkpLCBkZWZhdWx0PTAuMCkKCgpkZWYgbG9hZCgpIC0+IGRpY3Rbc3RyLCBBbnldIHwgTm9uZToKICAgIGdsb2JhbCBfQ0FDSEUsIF9DQUNIRV9NVElNRQogICAgaWYgbm90IChWRElSIC8gInZlY3RvcnMubnB5IikuZXhpc3RzKCk6CiAgICAgICAgcmV0dXJuIE5vbmUKICAgIG0gPSBfbXRpbWUoKQogICAgaWYgX0NBQ0hFIGlzIG5vdCBOb25lIGFuZCBtID09IF9DQUNIRV9NVElNRToKICAgICAgICByZXR1cm4gX0NBQ0hFCiAgICB0cnk6CiAgICAgICAgaW1wb3J0IG51bXB5IGFzIG5wCiAgICBleGNlcHQgSW1wb3J0RXJyb3I6CiAgICAgICAgcmV0dXJuIE5vbmUKICAgIHZlY3RvcnMgPSBucC5sb2FkKFZESVIgLyAidmVjdG9ycy5ucHkiLCBtbWFwX21vZGU9InIiKQogICAgaWRmID0gbnAubG9hZChWRElSIC8gImlkZi5ucHkiKQogICAgY2h1bmtzID0gW2pzb24ubG9hZHMobGluZSkgZm9yIGxpbmUgaW4gKFZESVIgLyAiY2h1bmtzLmpzb25sIikub3BlbihlbmNvZGluZz0idXRmLTgiKSBpZiBsaW5lLnN0cmlwKCldCiAgICBtYW5pZmVzdCA9IGpzb24ubG9hZHMoKFZESVIgLyAibWFuaWZlc3QuanNvbiIpLnJlYWRfdGV4dChlbmNvZGluZz0idXRmLTgiKSkKICAgICMga2luZCDliJfljZXni6zlrZjkuIDku73vvJrnrZsga2luZCAvIOaOkumZpCBraW5kIOimgeWcqCBhcmdzb3J0IOS5i+WJjeWBmu+8jAogICAgIyDlkKbliJnoioIgY2h1bmsg5Lya5YWI5oqK5YmNIGsqNiDkuKrlkI3pop3ljaDmu6HvvIxkb2Mg5ZG95Lit6KKr5oyk5Ye656qX5Y+j77yI5Y+j5b6E5bCx5Y+Y5LqG77yJ44CCCiAgICBraW5kcyA9IG5wLmFzYXJyYXkoW3N0cihjLmdldCgia2luZCIpIG9yICIiKSBmb3IgYyBpbiBjaHVua3NdKQogICAgX0NBQ0hFID0geyJ2ZWN0b3JzIjogdmVjdG9ycywgImlkZiI6IGlkZiwgImNodW5rcyI6IGNodW5rcywKICAgICAgICAgICAgICAibWFuaWZlc3QiOiBtYW5pZmVzdCwgImtpbmRzIjoga2luZHN9CiAgICBfQ0FDSEVfTVRJTUUgPSBtCiAgICByZXR1cm4gX0NBQ0hFCgoKZGVmIHN0YXRzKCkgLT4gZGljdFtzdHIsIEFueV06CiAgICBpZHggPSBsb2FkKCkKICAgIGlmIG5vdCBpZHg6CiAgICAgICAgcmV0dXJuIHt9CiAgICBtZiA9IGlkeFsibWFuaWZlc3QiXQogICAgcmV0dXJuIHsKICAgICAgICAidmVjdG9yX3NvdXJjZXMiOiBtZi5nZXQoInNvdXJjZXMiLCAwKSwKICAgICAgICAidmVjdG9yX2NodW5rcyI6IG1mLmdldCgiY2h1bmtzIiwgMCksCiAgICAgICAgInZlY3Rvcl9zZWN0aW9ucyI6IG1mLmdldCgic2VjdGlvbl9jaHVua3MiLCAwKSwKICAgICAgICAidmVjdG9yX2J1aWx0IjogbWYuZ2V0KCJidWlsdCIsICIiKSwKICAgIH0KCgpkZWYgX3F1ZXJpZXMocTogc3RyKSAtPiBsaXN0W3N0cl06CiAgICBwYXJ0cyA9IFtwIGZvciBwIGluIHJlLnNwbGl0KHIiW15cd1x1NGUwMC1cdTlmZmZdKyIsIHEpIGlmIGxlbihwKSA+PSAyXQogICAgb3V0OiBsaXN0W3N0cl0gPSBbXQogICAgZm9yIHAgaW4gc29ydGVkKHBhcnRzLCBrZXk9bGVuLCByZXZlcnNlPVRydWUpOgogICAgICAgIGlmIHAgbm90IGluIG91dDoKICAgICAgICAgICAgb3V0LmFwcGVuZChwKQogICAgZm9yIG4gaW4gKDQsIDMsIDIpOgogICAgICAgIGZvciBpIGluIHJhbmdlKGxlbihub3JtYWxpemUocSkpIC0gbiArIDEpOgogICAgICAgICAgICBnID0gbm9ybWFsaXplKHEpW2k6aSArIG5dCiAgICAgICAgICAgIGlmIGcgbm90IGluIG91dDoKICAgICAgICAgICAgICAgIG91dC5hcHBlbmQoZykKICAgIHJldHVybiBvdXRbOjQwXQoKCmRlZiBzbmlwcGV0KHRleHQ6IHN0ciwgcTogc3RyLCB3aWR0aDogaW50ID0gMjQwKSAtPiBzdHI6CiAgICB0ID0gcmUuc3ViKHIiXHMrIiwgIiAiLCB0ZXh0KS5zdHJpcCgpCiAgICBwb3MgPSAtMQogICAgaGl0ID0gIiIKICAgIGZvciBwcm9iZSBpbiBfcXVlcmllcyhxKToKICAgICAgICBwb3MgPSB0LmZpbmQocHJvYmUpCiAgICAgICAgaWYgcG9zID49IDA6CiAgICAgICAgICAgIGhpdCA9IHByb2JlCiAgICAgICAgICAgIGJyZWFrCiAgICBpZiBwb3MgPCAwOgogICAgICAgIHJldHVybiB0Wzp3aWR0aF0gKyAoIuKApiIgaWYgbGVuKHQpID4gd2lkdGggZWxzZSAiIikKICAgIHN0YXJ0ID0gbWF4KDAsIHBvcyAtIHdpZHRoIC8vIDMpCiAgICBlbmQgPSBtaW4obGVuKHQpLCBzdGFydCArIHdpZHRoKQogICAgc3RhcnQgPSBtYXgoMCwgZW5kIC0gd2lkdGgpCiAgICBvdXQgPSB0W3N0YXJ0OmVuZF0KICAgIGlmIGhpdCBhbmQgaGl0IG5vdCBpbiBvdXQ6CiAgICAgICAgb3V0ID0gdFtwb3M6cG9zICsgd2lkdGhdCiAgICByZXR1cm4gKCLigKYiIGlmIHN0YXJ0IGVsc2UgIiIpICsgb3V0ICsgKCLigKYiIGlmIGVuZCA8IGxlbih0KSBlbHNlICIiKQoKCmRlZiBzZWFyY2gocTogc3RyLCBrOiBpbnQgPSA4LCBtaW5fc2NvcmU6IGZsb2F0ID0gMC4wLCBwZXJfZG9jOiBpbnQgPSAyLAogICAgICAgICAgIGtpbmQ6IHN0ciB8IE5vbmUgPSBOb25lLCBleGNsdWRlOiBzdHIgfCBOb25lID0gTm9uZSkgLT4gbGlzdFtkaWN0W3N0ciwgQW55XV06CiAgICAiIiLmjInlkJHph4/ov5HkvLzmib7mrrXokL3jgIJga2luZD0ic2VjdGlvbiJgIOWPqueci+iKgue6pyBjaHVua++8iOKRoiDnmoToioLnuqfmo4DntKLlhpLng5/nlKjlroPvvInvvJsKICAgIGBleGNsdWRlPSJzZWN0aW9uImAg5Y+N6L+H5p2l5oqK6IqCIGNodW5rIOaMoeWcqCoq5Y+W5YmNIGsg5ZCN5LmL5YmNKirvvIjikaIg5YWz552A5pe255qE5pen5Y+j5b6E77yJ44CCCgogICAgYHBlcl9kb2NgIOaMiSAoZG9jLCBraW5kKSDliIbliKvorqHmlbDvvJroioIgY2h1bmsg5LiO5ZCM5LiA5Lu95paH5qGj55qEIGRvYyBjaHVuayDlhbHnlKggYGRvY2AKICAgIOWtl+aute+8jOiLpeWQiOW5tuiuoeaVsO+8jOiKguWRveS4reS8muaKiuWOn+aWh+WRveS4reaMpOaOie+8jC9hcGkvc2VhcmNoIOeahOWPo+W+hOWwseWPmOS6huOAggogICAgIiIiCiAgICBpZHggPSBsb2FkKCkKICAgIGlmIG5vdCBpZHggb3Igbm90IG5vcm1hbGl6ZShxKToKICAgICAgICByZXR1cm4gW10KICAgIGltcG9ydCBudW1weSBhcyBucAoKICAgIHF2ID0gdmVjdG9yaXplKHEsIGlkeFsiaWRmIl0pCiAgICBpZiBub3QgZmxvYXQobnAubGluYWxnLm5vcm0ocXYpKToKICAgICAgICByZXR1cm4gW10KICAgIHNjb3JlcyA9IG5wLmFzYXJyYXkoaWR4WyJ2ZWN0b3JzIl0gQCBxdikKICAgIGlmIHNjb3Jlcy5zaXplID09IDA6CiAgICAgICAgcmV0dXJuIFtdCiAgICBraW5kcyA9IGlkeC5nZXQoImtpbmRzIikKICAgIGlmIChraW5kIG9yIGV4Y2x1ZGUpIGFuZCBraW5kcyBpcyBub3QgTm9uZSBhbmQgbGVuKGtpbmRzKSA9PSBsZW4oc2NvcmVzKToKICAgICAgICAjIOWcqOaOkuW6jyoq5LmL5YmNKirmjIkga2luZCDliarmnp3vvJrkvZnlvKbliIbpnZ7otJ/vvIwtMSDkuIDlrprokL3liLDnqpflj6PlpJYKICAgICAgICBrZWVwID0gbnAub25lcyhsZW4oa2luZHMpLCBkdHlwZT1ib29sKQogICAgICAgIGlmIGtpbmQ6CiAgICAgICAgICAgIGtlZXAgJj0ga2luZHMgPT0ga2luZAogICAgICAgIGlmIGV4Y2x1ZGU6CiAgICAgICAgICAgIGtlZXAgJj0ga2luZHMgIT0gZXhjbHVkZQogICAgICAgIHNjb3JlcyA9IG5wLndoZXJlKGtlZXAsIHNjb3JlcywgbnAuZmxvYXQzMigtMS4wKSkKICAgICMg55SoIHN0YWJsZSDmjpLluo/vvJroioIgY2h1bmsg6K6p5pWw57uE5LuOIDEzayDmtqjliLAgMjVrIOWQju+8jOm7mOiupOW/q+aOkuWcqCoq5bm25YiX5YiGKirkuIrnmoQKICAgICMg5qyh5bqP5Lya5ryC77yI5ZCM5YiG5paH5qGj5o2i5Liq5L2N572u77yJ77yM5ZCR6YeP6IW/55qE5Y+j5b6E5bCx6Lef552A5ryC77ybc3RhYmxlIOS/neaMgeS4i+agh+asoeW6j++8jAogICAgIyDkuo7mmK/jgIzmjpLpmaToioIgY2h1bmsg5pe244CN5LiO5o6l5YWl5YmN6YCQ5p2h5LiA6Ie044CCCiAgICB0b3AgPSBucC5hcmdzb3J0KC1zY29yZXMsIGtpbmQ9InN0YWJsZSIpWzogbWluKGxlbihzY29yZXMpLCBtYXgoayAqIDYsIDMwKSldCiAgICBoaXRzOiBsaXN0W2RpY3Rbc3RyLCBBbnldXSA9IFtdCiAgICBzZWVuOiBkaWN0W3R1cGxlW3N0ciwgc3RyXSwgaW50XSA9IHt9CiAgICBmb3IgaSBpbiB0b3A6CiAgICAgICAgc2NvcmUgPSBmbG9hdChzY29yZXNbaW50KGkpXSkKICAgICAgICBpZiBzY29yZSA8IG1pbl9zY29yZToKICAgICAgICAgICAgY29udGludWUKICAgICAgICBjID0gaWR4WyJjaHVua3MiXVtpbnQoaSldCiAgICAgICAgY2sgPSBzdHIoYy5nZXQoImtpbmQiKSBvciAiIikKICAgICAgICBpZiBraW5kIGFuZCBjayAhPSBraW5kOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGlmIGV4Y2x1ZGUgYW5kIGNrID09IGV4Y2x1ZGU6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgZG9jID0gYy5nZXQoImRvYyIsICIiKQogICAgICAgIGtleSA9IChkb2MsIGNrKQogICAgICAgIGlmIHNlZW4uZ2V0KGtleSwgMCkgPj0gcGVyX2RvYzoKICAgICAgICAgICAgY29udGludWUKICAgICAgICBzZWVuW2tleV0gPSBzZWVuLmdldChrZXksIDApICsgMQogICAgICAgIGhpdHMuYXBwZW5kKHsKICAgICAgICAgICAgImRvYyI6IGRvYywKICAgICAgICAgICAgInNvdXJjZSI6IGMuZ2V0KCJzb3VyY2UiLCBkb2MpLAogICAgICAgICAgICAidGl0bGUiOiBjLmdldCgidGl0bGUiLCAiIiksCiAgICAgICAgICAgICJraW5kIjogY2ssCiAgICAgICAgICAgICJ1cmwiOiBjLmdldCgidXJsIiwgIiIpLAogICAgICAgICAgICAicGFnZSI6IGMuZ2V0KCJwYWdlIiksCiAgICAgICAgICAgICJsaW5lcyI6IGMuZ2V0KCJsaW5lcyIpLAogICAgICAgICAgICAic2VjdGlvbiI6IGMuZ2V0KCJzZWN0aW9uIiksCiAgICAgICAgICAgICJpdGVtX2lkcyI6IGMuZ2V0KCJpdGVtX2lkcyIsIFtdKSwKICAgICAgICAgICAgInNjb3JlIjogcm91bmQoc2NvcmUsIDQpLAogICAgICAgICAgICAic25pcHBldCI6IHNuaXBwZXQoYy5nZXQoInRleHQiLCAiIiksIHEpLAogICAgICAgIH0pCiAgICAgICAgaWYgbGVuKGhpdHMpID49IGs6CiAgICAgICAgICAgIGJyZWFrCiAgICByZXR1cm4gaGl0cwo=
+"""本地字符 n-gram 向量检索：不依赖模型、不联网，给原文库做辅助检索。
+
+构建见 tools/build_vector.py；查询与构建必须共用本文件的 normalize/weigh/idf。
+"""
+from __future__ import annotations
+
+import hashlib
+import json
+import math
+import os
+import re
+import unicodedata
+from pathlib import Path
+from typing import Any
+
+ROOT = Path(__file__).parent
+# 向量库目录：默认 `sources/vector/`（仓库里带的是 3 个 65 MB 分片，Dockerfile 构建时
+# 拼成 vectors.npy）。本地部署时 `sources/` 常是只读的输入数据、拼不进去，所以留一个
+# 覆盖口：`VECTOR_DIR=<放好 vectors.npy/chunks.jsonl/idf.npy/manifest.json 的目录>`。
+# 不设这个变量时行为与原来完全一致。
+VDIR = Path(os.environ.get("VECTOR_DIR") or (ROOT / "sources" / "vector"))
+DIM = 2048
+WEIGHTS = {1: 0.45, 2: 1.0, 3: 0.65}
+KEEP = re.compile(r"[0-9a-z\u4e00-\u9fff]+")
+
+_CACHE: dict[str, Any] | None = None
+_CACHE_MTIME: float = 0.0
+
+
+def normalize(text: str) -> str:
+    t = unicodedata.normalize("NFKC", text or "").lower()
+    return "".join(KEEP.findall(t))
+
+
+def bucket(gram: str) -> int:
+    h = hashlib.blake2b(gram.encode("utf-8"), digest_size=8).digest()
+    return int.from_bytes(h, "little") & (DIM - 1)
+
+
+def features(text: str) -> dict[int, float]:
+    s = normalize(text)
+    out: dict[int, float] = {}
+    n_chars = len(s)
+    for n, w in WEIGHTS.items():
+        if n_chars < n:
+            continue
+        for i in range(n_chars - n + 1):
+            gram = s[i:i + n]
+            if n == 1 and not ("\u4e00" <= gram <= "\u9fff" or gram.isalnum()):
+                continue
+            b = bucket(gram)
+            out[b] = out.get(b, 0.0) + w
+    return out
+
+
+def vectorize(text: str, idf: Any) -> Any:
+    import numpy as np
+
+    vec = np.zeros(DIM, dtype=np.float32)
+    for b, tf in features(text).items():
+        vec[b] += tf * float(idf[b])
+    norm = float(np.linalg.norm(vec))
+    if norm > 0:
+        vec /= norm
+    return vec
+
+
+def _mtime() -> float:
+    files = [VDIR / "vectors.npy", VDIR / "chunks.jsonl", VDIR / "idf.npy"]
+    return max((p.stat().st_mtime for p in files if p.exists()), default=0.0)
+
+
+def load() -> dict[str, Any] | None:
+    global _CACHE, _CACHE_MTIME
+    if not (VDIR / "vectors.npy").exists():
+        return None
+    m = _mtime()
+    if _CACHE is not None and m == _CACHE_MTIME:
+        return _CACHE
+    try:
+        import numpy as np
+    except ImportError:
+        return None
+    vectors = np.load(VDIR / "vectors.npy", mmap_mode="r")
+    idf = np.load(VDIR / "idf.npy")
+    chunks = [json.loads(line) for line in (VDIR / "chunks.jsonl").open(encoding="utf-8") if line.strip()]
+    manifest = json.loads((VDIR / "manifest.json").read_text(encoding="utf-8"))
+    # kind 列单独存一份：筛 kind / 排除 kind 要在 argsort 之前做，
+    # 否则节 chunk 会先把前 k*6 个名额占满，doc 命中被挤出窗口（口径就变了）。
+    kinds = np.asarray([str(c.get("kind") or "") for c in chunks])
+    _CACHE = {"vectors": vectors, "idf": idf, "chunks": chunks,
+              "manifest": manifest, "kinds": kinds}
+    _CACHE_MTIME = m
+    return _CACHE
+
+
+def stats() -> dict[str, Any]:
+    idx = load()
+    if not idx:
+        return {}
+    mf = idx["manifest"]
+    return {
+        "vector_sources": mf.get("sources", 0),
+        "vector_chunks": mf.get("chunks", 0),
+        "vector_sections": mf.get("section_chunks", 0),
+        "vector_built": mf.get("built", ""),
+    }
+
+
+def _queries(q: str) -> list[str]:
+    parts = [p for p in re.split(r"[^\w\u4e00-\u9fff]+", q) if len(p) >= 2]
+    out: list[str] = []
+    for p in sorted(parts, key=len, reverse=True):
+        if p not in out:
+            out.append(p)
+    for n in (4, 3, 2):
+        for i in range(len(normalize(q)) - n + 1):
+            g = normalize(q)[i:i + n]
+            if g not in out:
+                out.append(g)
+    return out[:40]
+
+
+def snippet(text: str, q: str, width: int = 240) -> str:
+    t = re.sub(r"\s+", " ", text).strip()
+    pos = -1
+    hit = ""
+    for probe in _queries(q):
+        pos = t.find(probe)
+        if pos >= 0:
+            hit = probe
+            break
+    if pos < 0:
+        return t[:width] + ("…" if len(t) > width else "")
+    start = max(0, pos - width // 3)
+    end = min(len(t), start + width)
+    start = max(0, end - width)
+    out = t[start:end]
+    if hit and hit not in out:
+        out = t[pos:pos + width]
+    return ("…" if start else "") + out + ("…" if end < len(t) else "")
+
+
+def search(q: str, k: int = 8, min_score: float = 0.0, per_doc: int = 2,
+           kind: str | None = None, exclude: str | None = None) -> list[dict[str, Any]]:
+    """按向量近似找段落。`kind="section"` 只看节级 chunk（③ 的节级检索冒烟用它）；
+    `exclude="section"` 反过来把节 chunk 挡在**取前 k 名之前**（③ 关着时的旧口径）。
+
+    `per_doc` 按 (doc, kind) 分别计数：节 chunk 与同一份文档的 doc chunk 共用 `doc`
+    字段，若合并计数，节命中会把原文命中挤掉，/api/search 的口径就变了。
+    """
+    idx = load()
+    if not idx or not normalize(q):
+        return []
+    import numpy as np
+
+    qv = vectorize(q, idx["idf"])
+    if not float(np.linalg.norm(qv)):
+        return []
+    scores = np.asarray(idx["vectors"] @ qv)
+    if scores.size == 0:
+        return []
+    kinds = idx.get("kinds")
+    if (kind or exclude) and kinds is not None and len(kinds) == len(scores):
+        # 在排序**之前**按 kind 剪枝：余弦分非负，-1 一定落到窗口外
+        keep = np.ones(len(kinds), dtype=bool)
+        if kind:
+            keep &= kinds == kind
+        if exclude:
+            keep &= kinds != exclude
+        scores = np.where(keep, scores, np.float32(-1.0))
+    # 用 stable 排序：节 chunk 让数组从 13k 涨到 25k 后，默认快排在**并列分**上的
+    # 次序会漂（同分文档换个位置），向量腿的口径就跟着漂；stable 保持下标次序，
+    # 于是「排除节 chunk 时」与接入前逐条一致。
+    top = np.argsort(-scores, kind="stable")[: min(len(scores), max(k * 6, 30))]
+    hits: list[dict[str, Any]] = []
+    seen: dict[tuple[str, str], int] = {}
+    for i in top:
+        score = float(scores[int(i)])
+        if score < min_score:
+            continue
+        c = idx["chunks"][int(i)]
+        ck = str(c.get("kind") or "")
+        if kind and ck != kind:
+            continue
+        if exclude and ck == exclude:
+            continue
+        doc = c.get("doc", "")
+        key = (doc, ck)
+        if seen.get(key, 0) >= per_doc:
+            continue
+        seen[key] = seen.get(key, 0) + 1
+        hits.append({
+            "doc": doc,
+            "source": c.get("source", doc),
+            "title": c.get("title", ""),
+            "kind": ck,
+            "url": c.get("url", ""),
+            "page": c.get("page"),
+            "lines": c.get("lines"),
+            "section": c.get("section"),
+            "item_ids": c.get("item_ids", []),
+            "score": round(score, 4),
+            "snippet": snippet(c.get("text", ""), q),
+        })
+        if len(hits) >= k:
+            break
+    return hits

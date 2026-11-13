@@ -1,1 +1,232 @@
-IiIi5oqK5LuT5bqT6YeM44CM6K+l5Y+R5biD55qE6YKj6YOo5YiG44CN5Lyg5oiQIEdpdEh1YiDku5PlupPnmoTkuIDkuKogY29tbWl077yM5bm25omTIHRhZ+OAggoK5pys5py6IGBnaXRodWIuY29tYCDov57kuI3pgJrvvIjlj6rmnIkgYXBpLmdpdGh1Yi5jb20g6YCa77yJ77yM5omA5Lul5LiN6IO955SoIGdpdCBwdXNo77yaCui/memHjOi1sCBHaXRIdWIg55qEIEdpdCBEYXRhIEFQSe+8iGJsb2Ig4oaSIHRyZWUg4oaSIGNvbW1pdCDihpIgcmVm77yJ77yM5LiA5qyh5Lyg5a6M5YaN5omTIHRhZ+OAggoKICAgIHNldCBHSVRIVUJfVE9LRU49Li4uICAgICAgICAgICAgIyDlj6rku47njq/looPlj5jph4/or7vvvIznu53kuI3lhpnov5vmlofku7YKICAgIHB5dGhvbiB0b29scy9naXRodWJfcHVibGlzaC5weSAtLXJlcG8gR3VhbmdZdWFuVG9uZ0UgLS10YWcgdjAuNjcgWy0tcHJpdmF0ZV0KICAgIHB5dGhvbiB0b29scy9naXRodWJfcHVibGlzaC5weSAtLXJlcG8gWCAtLWRyeS1ydW4gICAgICMg5Y+q55yL5Lya5Lyg5ZOq5Lqb5paH5Lu2Cgrms6jmhI/vvJrkuIrkvKDlhoXlrrnnlKggYHRvb2xzL3ByZXB1Ymxpc2gucHlgIOeahOa4heWNle+8iOW3sue7j+aOkumZpOWvhumSpeOAgee7neWvuei3r+W+hOOAgea0vueUn+aVsOaNru+8ieOAggoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGFyZ3BhcnNlCmltcG9ydCBiYXNlNjQKaW1wb3J0IGpzb24KaW1wb3J0IG9zCmltcG9ydCBzeXMKaW1wb3J0IHRpbWUKaW1wb3J0IHVybGxpYi5lcnJvcgppbXBvcnQgdXJsbGliLnJlcXVlc3QKZnJvbSBjb25jdXJyZW50LmZ1dHVyZXMgaW1wb3J0IFRocmVhZFBvb2xFeGVjdXRvcgpmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgKCnN5cy5wYXRoLmluc2VydCgwLCBzdHIoUGF0aChfX2ZpbGVfXykucmVzb2x2ZSgpLnBhcmVudHNbMV0pKQoKZnJvbSB0b29scy5wcmVwdWJsaXNoIGltcG9ydCB3YWxrICAjIG5vcWE6IEU0MDIgIOWQjOS4gOS7vea4heWNlQoKUk9PVCA9IFBhdGgoX19maWxlX18pLnJlc29sdmUoKS5wYXJlbnRzWzFdCkFQSSA9ICJodHRwczovL2FwaS5naXRodWIuY29tIgoKCmRlZiBfdG9rZW4oKSAtPiBzdHI6CiAgICB0ID0gKG9zLmVudmlyb24uZ2V0KCJHSVRIVUJfVE9LRU4iKSBvciAiIikuc3RyaXAoKQogICAgaWYgbm90IHQ6CiAgICAgICAgcmFpc2UgU3lzdGVtRXhpdCgi57y6IEdJVEhVQl9UT0tFTu+8iOWPquS7jueOr+Wig+WPmOmHj+ivu++8jOS4jeimgeWGmei/m+aWh+S7tu+8iSIpCiAgICByZXR1cm4gdAoKCmRlZiBhcGkocGF0aDogc3RyLCBtZXRob2Q6IHN0ciA9ICJHRVQiLCBib2R5OiBkaWN0IHwgTm9uZSA9IE5vbmUsCiAgICAgICAgdG9rZW46IHN0ciB8IE5vbmUgPSBOb25lLCB0cmllczogaW50ID0gMykgLT4gdHVwbGVbaW50LCBkaWN0XToKICAgIGRhdGEgPSBqc29uLmR1bXBzKGJvZHkpLmVuY29kZSgpIGlmIGJvZHkgaXMgbm90IE5vbmUgZWxzZSBOb25lCiAgICByZXEgPSB1cmxsaWIucmVxdWVzdC5SZXF1ZXN0KAogICAgICAgIEFQSSArIHBhdGgsIGRhdGE9ZGF0YSwgbWV0aG9kPW1ldGhvZCwKICAgICAgICBoZWFkZXJzPXsiQXV0aG9yaXphdGlvbiI6IGYidG9rZW4ge3Rva2VuIG9yIF90b2tlbigpfSIsCiAgICAgICAgICAgICAgICAgIkFjY2VwdCI6ICJhcHBsaWNhdGlvbi92bmQuZ2l0aHViK2pzb24iLAogICAgICAgICAgICAgICAgICJVc2VyLUFnZW50IjogImRzaC1wcmVwdWJsaXNoIiwKICAgICAgICAgICAgICAgICAiQ29udGVudC1UeXBlIjogImFwcGxpY2F0aW9uL2pzb24ifSkKICAgIGZvciBuIGluIHJhbmdlKHRyaWVzKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIHdpdGggdXJsbGliLnJlcXVlc3QudXJsb3BlbihyZXEsIHRpbWVvdXQ9MTIwKSBhcyByOgogICAgICAgICAgICAgICAgcmF3ID0gci5yZWFkKCkuZGVjb2RlKCkKICAgICAgICAgICAgICAgIHJldHVybiByLnN0YXR1cywgKGpzb24ubG9hZHMocmF3KSBpZiByYXcgZWxzZSB7fSkKICAgICAgICBleGNlcHQgdXJsbGliLmVycm9yLkhUVFBFcnJvciBhcyBlOgogICAgICAgICAgICBkZXRhaWwgPSBlLnJlYWQoKS5kZWNvZGUoKVs6NDAwXQogICAgICAgICAgICBpZiBlLmNvZGUgaW4gKDQyMiwgNDA0KSBvciBuID09IHRyaWVzIC0gMToKICAgICAgICAgICAgICAgIHJldHVybiBlLmNvZGUsIHsiZXJyb3IiOiBkZXRhaWx9CiAgICAgICAgICAgIHRpbWUuc2xlZXAoMS41ICogKG4gKyAxKSkKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6ICAjIG5vcWE6IEJMRTAwMQogICAgICAgICAgICBpZiBuID09IHRyaWVzIC0gMToKICAgICAgICAgICAgICAgIHJldHVybiAwLCB7ImVycm9yIjogZiJ7dHlwZShlKS5fX25hbWVfX306IHtlfSJ9CiAgICAgICAgICAgIHRpbWUuc2xlZXAoMS41ICogKG4gKyAxKSkKICAgIHJldHVybiAwLCB7fQoKCmRlZiBtYWluKCkgLT4gaW50OgogICAgYXAgPSBhcmdwYXJzZS5Bcmd1bWVudFBhcnNlcigpCiAgICBhcC5hZGRfYXJndW1lbnQoIi0tcmVwbyIsIHJlcXVpcmVkPVRydWUpCiAgICBhcC5hZGRfYXJndW1lbnQoIi0tdGFnIiwgZGVmYXVsdD0iIikKICAgIGFwLmFkZF9hcmd1bWVudCgiLS1icmFuY2giLCBkZWZhdWx0PSJtYWluIikKICAgIGFwLmFkZF9hcmd1bWVudCgiLS1tZXNzYWdlIiwgZGVmYXVsdD0iIikKICAgIGFwLmFkZF9hcmd1bWVudCgiLS1wcml2YXRlIiwgYWN0aW9uPSJzdG9yZV90cnVlIikKICAgIGFwLmFkZF9hcmd1bWVudCgiLS1kcnktcnVuIiwgYWN0aW9uPSJzdG9yZV90cnVlIikKICAgIGFyZ3MgPSBhcC5wYXJzZV9hcmdzKCkKCiAgICBmaWxlcyA9IHdhbGsoKQogICAgdG90YWwgPSBzdW0ocC5zdGF0KCkuc3Rfc2l6ZSBmb3IgcCBpbiBmaWxlcykKICAgIHByaW50KGYi5riF5Y2V77yae2xlbihmaWxlcyl9IOS4quaWh+S7tiAvIHt0b3RhbC8xMDI0LzEwMjQ6LjFmfSBNQiIpCiAgICBpZiBhcmdzLmRyeV9ydW46CiAgICAgICAgZm9yIHAgaW4gZmlsZXNbOjIwXToKICAgICAgICAgICAgcHJpbnQoIiAgIiwgcC5yZWxhdGl2ZV90byhST09UKSkKICAgICAgICBwcmludChmIiAg4oCm77yI5YWxIHtsZW4oZmlsZXMpfSDkuKrvvIkiKQogICAgICAgIHJldHVybiAwCgogICAgdG9rZW4gPSBfdG9rZW4oKQogICAgc3RhdHVzLCBtZSA9IGFwaSgiL3VzZXIiLCB0b2tlbj10b2tlbikKICAgIGlmIHN0YXR1cyAhPSAyMDA6CiAgICAgICAgcmFpc2UgU3lzdGVtRXhpdChmInRva2VuIOS4jeWPr+eUqO+8mntzdGF0dXN9IHttZX0iKQogICAgb3duZXIgPSBtZVsibG9naW4iXQogICAgcHJpbnQoZiLotKblj7fvvJp7b3duZXJ9IikKCiAgICAjIDEpIOW7uuS7k+W6k++8iOW3suWtmOWcqOWwseWkjeeUqO+8iQogICAgc3RhdHVzLCByZXBvID0gYXBpKCIvdXNlci9yZXBvcyIsICJQT1NUIiwKICAgICAgICAgICAgICAgICAgICAgICB7Im5hbWUiOiBhcmdzLnJlcG8sICJwcml2YXRlIjogYm9vbChhcmdzLnByaXZhdGUpLAogICAgICAgICAgICAgICAgICAgICAgICAiZGVzY3JpcHRpb24iOiAi5qCh5Zut5Yqe5LqL5ZCR5a+8IMK3IOS4reWbveS8oOWqkuWkp+Wtpu+8iOW5v+mZoumAmu+8iXYwLjY3IiwKICAgICAgICAgICAgICAgICAgICAgICAgImhhc19pc3N1ZXMiOiBGYWxzZSwgImhhc193aWtpIjogRmFsc2V9LCB0b2tlbj10b2tlbikKICAgIGlmIHN0YXR1cyBub3QgaW4gKDIwMCwgMjAxKToKICAgICAgICBzdGF0dXMyLCByZXBvID0gYXBpKGYiL3JlcG9zL3tvd25lcn0ve2FyZ3MucmVwb30iLCB0b2tlbj10b2tlbikKICAgICAgICBpZiBzdGF0dXMyICE9IDIwMDoKICAgICAgICAgICAgcmFpc2UgU3lzdGVtRXhpdChmIuW7uuS7k+W6k+Wksei0pSAvIOivu+S7k+W6k+Wksei0pe+8mntzdGF0dXN9IHtyZXBvfSIpCiAgICAgICAgcHJpbnQoIuS7k+W6k+W3suWtmOWcqO+8jOWkjeeUqO+8miIsIHJlcG9bImh0bWxfdXJsIl0pCiAgICBlbHNlOgogICAgICAgIHByaW50KCLku5PlupPlt7LliJvlu7rvvJoiLCByZXBvWyJodG1sX3VybCJdKQoKICAgIGJhc2UgPSBmIi9yZXBvcy97b3duZXJ9L3thcmdzLnJlcG99IgoKICAgICMgMCkg56m65LuT5bqT55u05o6l5bu6IGJsb2Ig5Lya6KKr5ouS77yINDA5IEdpdCBSZXBvc2l0b3J5IGlzIGVtcHR577yJ77yaCiAgICAjICAgIOWFiOeUqCBDb250ZW50cyBBUEkg6JC95LiA5LiqIFJFQURNRe+8jOaLv+WIsOWIneWniyBjb21taXQg5b2T54i25o+Q5Lqk44CCCiAgICBzdCwgcmVmaW5mbyA9IGFwaShmIntiYXNlfS9naXQvcmVmL2hlYWRzL3thcmdzLmJyYW5jaH0iLCB0b2tlbj10b2tlbikKICAgIHBhcmVudCA9ICIiCiAgICBpZiBzdCA9PSAyMDA6CiAgICAgICAgcGFyZW50ID0gKHJlZmluZm8uZ2V0KCJvYmplY3QiKSBvciB7fSkuZ2V0KCJzaGEiLCAiIikKICAgICAgICBwcmludCgi5bey5pyJ5Yid5aeL5o+Q5Lqk77yaIiwgcGFyZW50WzoxMF0pCiAgICBlbHNlOgogICAgICAgIHJlYWRtZSA9IFJPT1QgLyAiUkVBRE1FLm1kIgogICAgICAgIHJhdyA9IHJlYWRtZS5yZWFkX2J5dGVzKCkgaWYgcmVhZG1lLmV4aXN0cygpIGVsc2UgYiIjIEd1YW5nWXVhblRvbmdFXG4iCiAgICAgICAgc3QyLCBvdXQgPSBhcGkoZiJ7YmFzZX0vY29udGVudHMvUkVBRE1FLm1kIiwgIlBVVCIsCiAgICAgICAgICAgICAgICAgICAgICAgeyJtZXNzYWdlIjogImNob3JlOiDliJ3lp4vljJbku5PlupMiLCAiYnJhbmNoIjogYXJncy5icmFuY2gsCiAgICAgICAgICAgICAgICAgICAgICAgICJjb250ZW50IjogYmFzZTY0LmI2NGVuY29kZShyYXcpLmRlY29kZSgpfSwgdG9rZW49dG9rZW4pCiAgICAgICAgaWYgc3QyIGluICgyMDAsIDIwMSk6CiAgICAgICAgICAgIHBhcmVudCA9IG91dFsiY29tbWl0Il1bInNoYSJdCiAgICAgICAgICAgIHByaW50KCLlt7LnlKggUkVBRE1FIOW7uuWIneWni+aPkOS6pO+8miIsIHBhcmVudFs6MTBdKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJhaXNlIFN5c3RlbUV4aXQoZiLliJ3lp4vljJbnqbrku5PlupPlpLHotKXvvJp7c3QyfSB7b3V0fSIpCgogICAgIyAyKSDkuIDmrKHkvKDkuIDkuKrnm67lvZXmoJHvvIzmlofku7blhoXlrrnlhoXogZTlnKggdHJlZSDph4zvvIhgY29udGVudGAgKyBgZW5jb2Rpbmdg77yJ44CCCiAgICAjICAgIOmAkOaWh+S7tuW7uiBibG9iIOS8muaSniBHaXRIdWIg55qEIHNlY29uZGFyeSByYXRlIGxpbWl077yI5YaF5a6555Sf5oiQIH44MCDmrKEv5YiG6ZKf77yJ77yMCiAgICAjICAgIDcyNyDkuKrmlofku7bopoHljYHlh6DliIbpkp/vvJvlhoXogZQgdHJlZSDlj6ropoHlh6DkuKror7fmsYLjgIIKICAgIENIVU5LX0ZJTEVTID0gMTIwCiAgICBDSFVOS19CWVRFUyA9IDggKiAxMDI0ICogMTAyNCAgICAgIyDmr4/or7fmsYIgYmFzZTY0IOWQjiDiiYggMTAgTULvvIznlZnkvZnph48KCiAgICBjaHVua3M6IGxpc3RbbGlzdFtkaWN0XV0gPSBbXQogICAgY3VyOiBsaXN0W2RpY3RdID0gW10KICAgIGN1cl9ieXRlcyA9IDAKICAgIGZvciBwIGluIGZpbGVzOgogICAgICAgIGRhdGEgPSBwLnJlYWRfYnl0ZXMoKQogICAgICAgIGI2NCA9IGJhc2U2NC5iNjRlbmNvZGUoZGF0YSkuZGVjb2RlKCkKICAgICAgICBjdXIuYXBwZW5kKHsicGF0aCI6IHAucmVsYXRpdmVfdG8oUk9PVCkuYXNfcG9zaXgoKSwgIm1vZGUiOiAiMTAwNjQ0IiwKICAgICAgICAgICAgICAgICAgICAidHlwZSI6ICJibG9iIiwgImNvbnRlbnQiOiBiNjQsICJlbmNvZGluZyI6ICJiYXNlNjQifSkKICAgICAgICBjdXJfYnl0ZXMgKz0gbGVuKGI2NCkKICAgICAgICBpZiBsZW4oY3VyKSA+PSBDSFVOS19GSUxFUyBvciBjdXJfYnl0ZXMgPj0gQ0hVTktfQllURVM6CiAgICAgICAgICAgIGNodW5rcy5hcHBlbmQoY3VyKQogICAgICAgICAgICBjdXIsIGN1cl9ieXRlcyA9IFtdLCAwCiAgICBpZiBjdXI6CiAgICAgICAgY2h1bmtzLmFwcGVuZChjdXIpCiAgICBwcmludChmIiAg5YiGIHtsZW4oY2h1bmtzKX0g5qO15qCR5LiK5Lyg77yI5q+P5qO1IOKJpHtDSFVOS19GSUxFU30g5Liq5paH5Lu2IC8g4omIOCBNQu+8iSIpCgogICAgdHJlZV9zaGEgPSAiIgogICAgZm9yIG4sIGNodW5rIGluIGVudW1lcmF0ZShjaHVua3MsIDEpOgogICAgICAgIGJvZHk6IGRpY3QgPSB7InRyZWUiOiBjaHVua30KICAgICAgICBpZiB0cmVlX3NoYToKICAgICAgICAgICAgYm9keVsiYmFzZV90cmVlIl0gPSB0cmVlX3NoYQogICAgICAgIGZvciBhdHRlbXB0IGluIHJhbmdlKDYpOgogICAgICAgICAgICBzdCwgdHJlZSA9IGFwaShmIntiYXNlfS9naXQvdHJlZXMiLCAiUE9TVCIsIGJvZHksIHRva2VuPXRva2VuKQogICAgICAgICAgICBpZiBzdCBpbiAoMjAwLCAyMDEpOgogICAgICAgICAgICAgICAgdHJlZV9zaGEgPSB0cmVlWyJzaGEiXQogICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgaWYgc3QgPT0gNDAzOgogICAgICAgICAgICAgICAgd2FpdCA9IDIwICogKGF0dGVtcHQgKyAxKQogICAgICAgICAgICAgICAgcHJpbnQoZiIgICAg56ysIHtufSDmo7XooqvpmZDmtYHvvIznrYkge3dhaXR9cyDph43or5XigKYiKQogICAgICAgICAgICAgICAgdGltZS5zbGVlcCh3YWl0KQogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgcmFpc2UgU3lzdGVtRXhpdChmInRyZWUg5aSx6LSl77yI56ysIHtufSDmo7XvvInvvJp7c3R9IHt0cmVlfSIpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmFpc2UgU3lzdGVtRXhpdChmInRyZWUg5LiA55u05aSx6LSl77yI56ysIHtufSDmo7XvvIkiKQogICAgICAgIHByaW50KGYiICAgIOesrCB7bn0ve2xlbihjaHVua3MpfSDmo7UgT0vvvJp7bGVuKGNodW5rKX0g5Liq5paH5Lu2IikKCiAgICAjIDMpIGNvbW1pdCDihpIgcmVmCiAgICBtc2cgPSBhcmdzLm1lc3NhZ2Ugb3IgZiLlub/pmaLpgJogdnthcmdzLnRhZy5sc3RyaXAoJ3YnKSBpZiBhcmdzLnRhZyBlbHNlICcnfe+8muajgOe0ouWxguS4pOi9ruS/ruWkjSArIOWJjeerr+S4ieWkhOiwg+aVtCIKICAgIHN0LCBjb21taXQgPSBhcGkoZiJ7YmFzZX0vZ2l0L2NvbW1pdHMiLCAiUE9TVCIsCiAgICAgICAgICAgICAgICAgICAgIHsibWVzc2FnZSI6IG1zZy5zdHJpcCgpLCAidHJlZSI6IHRyZWVfc2hhLAogICAgICAgICAgICAgICAgICAgICAgInBhcmVudHMiOiBbcGFyZW50XSBpZiBwYXJlbnQgZWxzZSBbXX0sIHRva2VuPXRva2VuKQogICAgaWYgc3Qgbm90IGluICgyMDAsIDIwMSk6CiAgICAgICAgcmFpc2UgU3lzdGVtRXhpdChmImNvbW1pdCDlpLHotKXvvJp7c3R9IHtjb21taXR9IikKICAgIHNoYSA9IGNvbW1pdFsic2hhIl0KICAgIHByaW50KCJjb21taXQ6Iiwgc2hhKQoKICAgIHN0LCByZWYgPSBhcGkoZiJ7YmFzZX0vZ2l0L3JlZnMiLCAiUE9TVCIsCiAgICAgICAgICAgICAgICAgIHsicmVmIjogZiJyZWZzL2hlYWRzL3thcmdzLmJyYW5jaH0iLCAic2hhIjogc2hhfSwgdG9rZW49dG9rZW4pCiAgICBpZiBzdCBub3QgaW4gKDIwMCwgMjAxKToKICAgICAgICBzdDIsIHJlZiA9IGFwaShmIntiYXNlfS9naXQvcmVmcy9oZWFkcy97YXJncy5icmFuY2h9IiwgIlBBVENIIiwKICAgICAgICAgICAgICAgICAgICAgICB7InNoYSI6IHNoYSwgImZvcmNlIjogVHJ1ZX0sIHRva2VuPXRva2VuKQogICAgICAgIGlmIHN0MiBub3QgaW4gKDIwMCwgMjAxKToKICAgICAgICAgICAgcmFpc2UgU3lzdGVtRXhpdChmIuW7uuWIhuaUr+Wksei0pe+8mntzdH0ge3JlZn0gLyB7c3QyfSIpCiAgICBwcmludChmIuWIhuaUryB7YXJncy5icmFuY2h9IC0+IHtzaGFbOjEwXX0iKQoKICAgIGlmIGFyZ3MudGFnOgogICAgICAgIHN0LCB0YWcgPSBhcGkoZiJ7YmFzZX0vZ2l0L3JlZnMiLCAiUE9TVCIsCiAgICAgICAgICAgICAgICAgICAgICB7InJlZiI6IGYicmVmcy90YWdzL3thcmdzLnRhZ30iLCAic2hhIjogc2hhfSwgdG9rZW49dG9rZW4pCiAgICAgICAgaWYgc3Qgbm90IGluICgyMDAsIDIwMSk6CiAgICAgICAgICAgIHByaW50KCIgIO+8iHRhZyDlt7LlrZjlnKjmiJblpLHotKXvvJoiLCBzdCwgc3RyKHRhZylbOjEyMF0sICLvvIkiKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHByaW50KCJ0YWc6IiwgYXJncy50YWcpCiAgICAgICAgc3QsIHJlbCA9IGFwaShmIntiYXNlfS9yZWxlYXNlcyIsICJQT1NUIiwKICAgICAgICAgICAgICAgICAgICAgIHsidGFnX25hbWUiOiBhcmdzLnRhZywgInRhcmdldF9jb21taXRpc2giOiBhcmdzLmJyYW5jaCwKICAgICAgICAgICAgICAgICAgICAgICAibmFtZSI6IGFyZ3MudGFnLAogICAgICAgICAgICAgICAgICAgICAgICJib2R5IjogIuagoeWbreWKnuS6i+WQkeWvvO+8iOW5v+mZoumAmu+8icK3IOS4reWbveS8oOWqkuWkp+WtplxuXG4iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiLSDmo4DntKLlsYLvvJpQMCDms5vor43ljovkuLvpopjor43jgIFodWIg5oqi562U44CB5p2h5qy+5a6a5L2N44CBIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIuacieivjeayoeadoeaLkuetlOOAgeS4quS6uuaVsOaNrumXruazleazm+WMllxuIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIi0g5YmN56uv77ya57u85ZCI5Zue562U6buY6K6kIDMg5p2hICsg5oqY5Y+g6ZW/5p2h44CB6LWE5paZ6L+H5pyf5bCP57qi5a2X44CBIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIuaPkOmXruahhuWfuue6v+Wvuem9kFxuIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIi0g57u85ZCI5bGC6Ze46Zeo77ya6L2s5LiT5Lia5o6l5pS26K6h5YiSIC8g56S65L6L6Zeu5rOVIC8g5Y2V5Liq55+t6Zeu55u05o6l562UXG5cbiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICLov5DooYzvvJpgcGlwIGluc3RhbGwgLXIgcmVxdWlyZW1lbnRzLnR4dCAmJiBweXRob24gLW0gcmV0cmlldmFsLmJ1aWxkIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIiAmJiB1dmljb3JuIGFwcDphcHAgLS1wb3J0IDc4NjBgIn0sCiAgICAgICAgICAgICAgICAgICAgICB0b2tlbj10b2tlbikKICAgICAgICBpZiBzdCBpbiAoMjAwLCAyMDEpOgogICAgICAgICAgICBwcmludCgicmVsZWFzZToiLCByZWxbImh0bWxfdXJsIl0pCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcHJpbnQoIiAg77yIcmVsZWFzZSDlpLHotKXvvJoiLCBzdCwgc3RyKHJlbClbOjE2MF0sICLvvIkiKQoKICAgIHByaW50KCLku5PlupPlnLDlnYDvvJoiLCByZXBvLmdldCgiaHRtbF91cmwiKSBvciBmImh0dHBzOi8vZ2l0aHViLmNvbS97b3duZXJ9L3thcmdzLnJlcG99IikKICAgIHJldHVybiAwCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHN5cy5leGl0KG1haW4oKSkK
+"""把仓库里「该发布的那部分」传成 GitHub 仓库的一个 commit，并打 tag。
+
+本机 `github.com` 连不通（只有 api.github.com 通），所以不能用 git push：
+这里走 GitHub 的 Git Data API（blob → tree → commit → ref），一次传完再打 tag。
+
+    set GITHUB_TOKEN=...            # 只从环境变量读，绝不写进文件
+    python tools/github_publish.py --repo GuangYuanTongE --tag v0.67 [--private]
+    python tools/github_publish.py --repo X --dry-run     # 只看会传哪些文件
+
+注意：上传内容用 `tools/prepublish.py` 的清单（已经排除密钥、绝对路径、派生数据）。
+"""
+from __future__ import annotations
+
+import argparse
+import base64
+import json
+import os
+import sys
+import time
+import urllib.error
+import urllib.request
+from concurrent.futures import ThreadPoolExecutor
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+
+from tools.prepublish import walk  # noqa: E402  同一份清单
+
+ROOT = Path(__file__).resolve().parents[1]
+API = "https://api.github.com"
+
+
+def _token() -> str:
+    t = (os.environ.get("GITHUB_TOKEN") or "").strip()
+    if not t:
+        raise SystemExit("缺 GITHUB_TOKEN（只从环境变量读，不要写进文件）")
+    return t
+
+
+def api(path: str, method: str = "GET", body: dict | None = None,
+        token: str | None = None, tries: int = 3) -> tuple[int, dict]:
+    data = json.dumps(body).encode() if body is not None else None
+    req = urllib.request.Request(
+        API + path, data=data, method=method,
+        headers={"Authorization": f"token {token or _token()}",
+                 "Accept": "application/vnd.github+json",
+                 "User-Agent": "dsh-prepublish",
+                 "Content-Type": "application/json"})
+    for n in range(tries):
+        try:
+            with urllib.request.urlopen(req, timeout=120) as r:
+                raw = r.read().decode()
+                return r.status, (json.loads(raw) if raw else {})
+        except urllib.error.HTTPError as e:
+            detail = e.read().decode()[:400]
+            if e.code in (422, 404) or n == tries - 1:
+                return e.code, {"error": detail}
+            time.sleep(1.5 * (n + 1))
+        except Exception as e:  # noqa: BLE001
+            if n == tries - 1:
+                return 0, {"error": f"{type(e).__name__}: {e}"}
+            time.sleep(1.5 * (n + 1))
+    return 0, {}
+
+
+def main() -> int:
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--repo", required=True)
+    ap.add_argument("--tag", default="")
+    ap.add_argument("--branch", default="main")
+    ap.add_argument("--message", default="")
+    ap.add_argument("--private", action="store_true")
+    ap.add_argument("--dry-run", action="store_true")
+    args = ap.parse_args()
+
+    files = walk()
+    total = sum(p.stat().st_size for p in files)
+    print(f"清单：{len(files)} 个文件 / {total/1024/1024:.1f} MB")
+    if args.dry_run:
+        for p in files[:20]:
+            print("  ", p.relative_to(ROOT))
+        print(f"  …（共 {len(files)} 个）")
+        return 0
+
+    token = _token()
+    status, me = api("/user", token=token)
+    if status != 200:
+        raise SystemExit(f"token 不可用：{status} {me}")
+    owner = me["login"]
+    print(f"账号：{owner}")
+
+    # 1) 建仓库（已存在就复用）
+    status, repo = api("/user/repos", "POST",
+                       {"name": args.repo, "private": bool(args.private),
+                        "description": "校园办事向导 · 中国传媒大学（广院通）v0.67",
+                        "has_issues": False, "has_wiki": False}, token=token)
+    if status not in (200, 201):
+        status2, repo = api(f"/repos/{owner}/{args.repo}", token=token)
+        if status2 != 200:
+            raise SystemExit(f"建仓库失败 / 读仓库失败：{status} {repo}")
+        print("仓库已存在，复用：", repo["html_url"])
+    else:
+        print("仓库已创建：", repo["html_url"])
+
+    base = f"/repos/{owner}/{args.repo}"
+
+    # 0) 空仓库直接建 blob 会被拒（409 Git Repository is empty）：
+    #    先用 Contents API 落一个 README，拿到初始 commit 当父提交。
+    st, refinfo = api(f"{base}/git/ref/heads/{args.branch}", token=token)
+    parent = ""
+    if st == 200:
+        parent = (refinfo.get("object") or {}).get("sha", "")
+        print("已有初始提交：", parent[:10])
+    else:
+        readme = ROOT / "README.md"
+        raw = readme.read_bytes() if readme.exists() else b"# GuangYuanTongE\n"
+        st2, out = api(f"{base}/contents/README.md", "PUT",
+                       {"message": "chore: 初始化仓库", "branch": args.branch,
+                        "content": base64.b64encode(raw).decode()}, token=token)
+        if st2 in (200, 201):
+            parent = out["commit"]["sha"]
+            print("已用 README 建初始提交：", parent[:10])
+        else:
+            raise SystemExit(f"初始化空仓库失败：{st2} {out}")
+
+    # 2) 一次传一个目录树，文本内容内联在 tree 里（`content`，默认 utf-8）。
+    #    逐文件建 blob 会撞 GitHub 的 secondary rate limit（内容生成 ~80 次/分钟）；
+    #    但 tree 内联只对**文本**可靠：把二进制也塞进 `content` 会被当成字面量存成
+    #    base64 文本（踩过：整库文件变成 base64 乱码）。所以二进制（.gz/.pdf/.png…）
+    #    仍然单独建 blob —— 只有二三十个，离限流很远。
+    CHUNK_FILES = 120
+    CHUNK_BYTES = 8 * 1024 * 1024     # 每请求 ≈ 8 MB 文本，留余量
+
+    def entry(p: Path) -> dict:
+        rel = p.relative_to(ROOT).as_posix()
+        data = p.read_bytes()
+        try:
+            text = data.decode("utf-8")
+        except UnicodeDecodeError:
+            text = None
+        if text is not None:
+            return {"path": rel, "mode": "100644", "type": "blob", "content": text}
+        st, out = api(f"{base}/git/blobs", "POST",
+                      {"content": base64.b64encode(data).decode(), "encoding": "base64"},
+                      token=token)
+        if st != 201:
+            raise SystemExit(f"二进制 blob 失败 {rel}: {st} {out}")
+        return {"path": rel, "mode": "100644", "type": "blob", "sha": out["sha"]}
+
+    chunks: list[list[dict]] = []
+    cur: list[dict] = []
+    cur_bytes = 0
+    for p in files:
+        e = entry(p)
+        cur.append(e)
+        cur_bytes += len(e.get("content") or "")
+        if len(cur) >= CHUNK_FILES or cur_bytes >= CHUNK_BYTES:
+            chunks.append(cur)
+            cur, cur_bytes = [], 0
+    if cur:
+        chunks.append(cur)
+    print(f"  分 {len(chunks)} 棵树上传（每棵 ≤{CHUNK_FILES} 个文件 / ≈8 MB）")
+
+    tree_sha = ""
+    for n, chunk in enumerate(chunks, 1):
+        body: dict = {"tree": chunk}
+        if tree_sha:
+            body["base_tree"] = tree_sha
+        for attempt in range(6):
+            st, tree = api(f"{base}/git/trees", "POST", body, token=token)
+            if st in (200, 201):
+                tree_sha = tree["sha"]
+                break
+            if st == 403:
+                wait = 20 * (attempt + 1)
+                print(f"    第 {n} 棵被限流，等 {wait}s 重试…")
+                time.sleep(wait)
+                continue
+            raise SystemExit(f"tree 失败（第 {n} 棵）：{st} {tree}")
+        else:
+            raise SystemExit(f"tree 一直失败（第 {n} 棵）")
+        print(f"    第 {n}/{len(chunks)} 棵 OK：{len(chunk)} 个文件")
+
+    # 3) commit → ref
+    msg = args.message or f"广院通 v{args.tag.lstrip('v') if args.tag else ''}：检索层两轮修复 + 前端三处调整"
+    st, commit = api(f"{base}/git/commits", "POST",
+                     {"message": msg.strip(), "tree": tree_sha,
+                      "parents": [parent] if parent else []}, token=token)
+    if st not in (200, 201):
+        raise SystemExit(f"commit 失败：{st} {commit}")
+    sha = commit["sha"]
+    print("commit:", sha)
+
+    st, ref = api(f"{base}/git/refs", "POST",
+                  {"ref": f"refs/heads/{args.branch}", "sha": sha}, token=token)
+    if st not in (200, 201):
+        st2, ref = api(f"{base}/git/refs/heads/{args.branch}", "PATCH",
+                       {"sha": sha, "force": True}, token=token)
+        if st2 not in (200, 201):
+            raise SystemExit(f"建分支失败：{st} {ref} / {st2}")
+    print(f"分支 {args.branch} -> {sha[:10]}")
+
+    if args.tag:
+        st, tag = api(f"{base}/git/refs", "POST",
+                      {"ref": f"refs/tags/{args.tag}", "sha": sha}, token=token)
+        if st not in (200, 201):
+            print("  （tag 已存在或失败：", st, str(tag)[:120], "）")
+        else:
+            print("tag:", args.tag)
+        st, rel = api(f"{base}/releases", "POST",
+                      {"tag_name": args.tag, "target_commitish": args.branch,
+                       "name": args.tag,
+                       "body": "校园办事向导（广院通）· 中国传媒大学\n\n"
+                               "- 检索层：P0 泛词压主题词、hub 抢答、条款定位、"
+                               "有词没条拒答、个人数据问法泛化\n"
+                               "- 前端：综合回答默认 3 条 + 折叠长条、资料过期小红字、"
+                               "提问框基线对齐\n"
+                               "- 综合层闸门：转专业接收计划 / 示例问法 / 单个短问直接答\n\n"
+                               "运行：`pip install -r requirements.txt && python -m retrieval.build"
+                               " && uvicorn app:app --port 7860`"},
+                      token=token)
+        if st in (200, 201):
+            print("release:", rel["html_url"])
+        else:
+            print("  （release 失败：", st, str(rel)[:160], "）")
+
+    print("仓库地址：", repo.get("html_url") or f"https://github.com/{owner}/{args.repo}")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

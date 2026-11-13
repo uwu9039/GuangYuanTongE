@@ -1,1 +1,269 @@
-ewogICJrZXkiOiAiY2ZmODU2MzkiLAogICJ0aXRsZSI6ICIyMDI15bm05YWo5Zu956GV5aOr56CU56m255Sf5oub55Sf6ICD6K+V5Lit5Zu95Lyg5aqS5aSn5a2m6ICD54K577yIMTEzM++8iee9keS4iuehruiupOWFrOWRiiIsCiAgInRydW5jYXRlZCI6IGZhbHNlLAogICJzZWN0aW9ucyI6IFsKICAgIHsKICAgICAgIm5vIjogIuKAlCIsCiAgICAgICJoZWFkaW5nIjogIuagh+mimOS4juWFrOWRiuWJjeiogCIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICAgICJsaW5lcyI6IFsxLCA5XSwKICAgICAgIml0ZW1zIjogWyJydWxlLWNmZjg1NjM5IiwgInB0LTE3M2QzZWMxNTAiLCAicHQtNThjMTBlYjZlYyIsICJwdC03YWQzZjI3NWZmIiwgInB0LTM1MzdlODYyYWIiXSwKICAgICAgImNoYXJzIjogMjY2CiAgICB9LAogICAgewogICAgICAibm8iOiAi5LiA44CBIiwKICAgICAgImhlYWRpbmciOiAi4oCcMTEzM+S4reS8oOiAg+eCueKAneehruiupOimgeaxgiIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzEwLCAzOV0sCiAgICAgICJpdGVtcyI6IFsKICAgICAgICAicHQtYTUwNWVhZTc5OCIsCiAgICAgICAgInB0LWExYTZkNmRlNjMiLAogICAgICAgICJwdC03NTY2YWUzM2QxIiwKICAgICAgICAicHQtMWRiMzQyZmZiZSIsCiAgICAgICAgInB0LWJlNGNlNGRiYmIiLAogICAgICAgICJwdC1hZjMwNjdmMmRkIiwKICAgICAgICAicHQtY2Q5ZDhmYjdmYiIsCiAgICAgICAgInB0LTI1NjBlZDFiNDQiLAogICAgICAgICJwdC0xNzQ5ZGZhODNmIgogICAgICBdLAogICAgICAiY2hhcnMiOiAxMDMyCiAgICB9LAogICAgewogICAgICAibm8iOiAi5LqM44CBIiwKICAgICAgImhlYWRpbmciOiAi4oCcMTEzM+S4reS8oOiAg+eCueKAneehruiupOaWueW8j+OAgeaXtumXtOWSjOiBlOezu+aWueW8jyIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzQwLCA1Nl0sCiAgICAgICJpdGVtcyI6IFsicHQtYmQzMGI1ODYyMCJdLAogICAgICAiY2hhcnMiOiAzOTMKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLkuozjgIExIiwKICAgICAgImhlYWRpbmciOiAiMeOAgeehruiupOaWueW8jyIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzQxLCA0NF0sCiAgICAgICJpdGVtcyI6IFsicHQtNzNiMjFlM2Y1NSJdLAogICAgICAiY2hhcnMiOiAxMDgKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLkuozjgIEyIiwKICAgICAgImhlYWRpbmciOiAiMuOAgee9keS4iuehruiupOaXtumXtCIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzQ1LCA1NF0sCiAgICAgICJpdGVtcyI6IFsicHQtNTAwYzA0NDk1YyIsICJwdC1iNWNmZGFkZDIzIiwgInB0LTBjZWYyNGM1MGMiLCAicHQtOTQ1N2Q3MTRmYSJdLAogICAgICAiY2hhcnMiOiAyMDkKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLkuozjgIEzIiwKICAgICAgImhlYWRpbmciOiAiM+OAgee9keS4iuehruiupOacn+mXtOiBlOezu+aWueW8j++8miIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzU1LCA1Nl0sCiAgICAgICJpdGVtcyI6IFsicHQtZTVhYjFjN2I5OSJdLAogICAgICAiY2hhcnMiOiA1MgogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuS4ieOAgSIsCiAgICAgICJoZWFkaW5nIjogIuKAnDExMzPkuK3kvKDogIPngrnigJ3mnZDmlpnlh4blpIciLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFs1NywgMTE1XSwKICAgICAgIml0ZW1zIjogWyJwdC00YjI5MDk3ZGZjIl0sCiAgICAgICJjaGFycyI6IDE3MDQKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLkuInjgIExIiwKICAgICAgImhlYWRpbmciOiAiMeOAgeWHhuiAg+ivgeeFp+eJhyIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzU4LCA3NF0sCiAgICAgICJpdGVtcyI6IFsKICAgICAgICAicHQtMTk2YzFmZmM3MSIsCiAgICAgICAgInB0LTk0ZTY5NGU0ZmUiLAogICAgICAgICJwdC01MzkyNDRiNzNmIiwKICAgICAgICAicHQtMjVlMWFhYzU0YSIsCiAgICAgICAgInB0LTNkMWRjNjhhY2UiLAogICAgICAgICJwdC0wMTMwNGYxYzZjIiwKICAgICAgICAicHQtMmJmZGI5ZDliOSIsCiAgICAgICAgInB0LTlmYjFiNWFhMTkiLAogICAgICAgICJwdC05NjM4NGE0OTkzIiwKICAgICAgICAicHQtYTRmYTlhMTdiZSIKICAgICAgXSwKICAgICAgImNoYXJzIjogNTA2CiAgICB9LAogICAgewogICAgICAibm8iOiAi5LiJ44CBMiIsCiAgICAgICJoZWFkaW5nIjogIjLjgIHmiYvmjIHor4Hku7bnhafniYciLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFs3NSwgODZdLAogICAgICAiaXRlbXMiOiBbCiAgICAgICAgInB0LWJmNDYwYTY5NjIiLAogICAgICAgICJwdC0zODA1MjZlNTA3IiwKICAgICAgICAicHQtZjY3MjQzZDgwMiIsCiAgICAgICAgInB0LTBiMzk0MTFiOTQiLAogICAgICAgICJwdC00ZWRiYTA0ZTlhIiwKICAgICAgICAicHQtNDQ1ZDU0Zjk1NSIsCiAgICAgICAgInB0LTMxZDM4OGMyNzkiLAogICAgICAgICJwdC1hODEyM2FhYTczIgogICAgICBdLAogICAgICAiY2hhcnMiOiAzMDIKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLkuInjgIEzIiwKICAgICAgImhlYWRpbmciOiAiM+OAgee9keS4iuehruiupOWFtuS7luS4iuS8oOadkOaWmSIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzg3LCA5NV0sCiAgICAgICJpdGVtcyI6IFsicHQtZThkYWFmZWYzYyIsICJwdC0yNDdlYWRhOWQ4IiwgInB0LTMzZmJjYzA0YTYiXSwKICAgICAgImNoYXJzIjogMjc5CiAgICB9LAogICAgewogICAgICAibm8iOiAi5LiJ44CBNCIsCiAgICAgICJoZWFkaW5nIjogIjTjgIHooaXlhYXkuIrkvKDmnZDmlpnvvJoiLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFs5NiwgMTE1XSwKICAgICAgIml0ZW1zIjogWwogICAgICAgICJwdC1hZjVlZTU5Mzg1IiwKICAgICAgICAicHQtZDBkMTlhMGZmNyIsCiAgICAgICAgInB0LWRkYTM2ZDYyM2MiLAogICAgICAgICJwdC0zNmUyMzE1MzU1IiwKICAgICAgICAicHQtMTRkZmFiZjZlZSIsCiAgICAgICAgInB0LTg2MzcxMzViMDEiLAogICAgICAgICJwdC05NzQwZjgwZTcyIiwKICAgICAgICAicHQtMzg2ZjUyOTIyNiIsCiAgICAgICAgInB0LTJjM2I5ODQwOGQiLAogICAgICAgICJwdC05OWZlYmVkMmE5IiwKICAgICAgICAicHQtZmM1Mjc5YzcwNSIKICAgICAgXSwKICAgICAgImNoYXJzIjogNjAxCiAgICB9LAogICAgewogICAgICAibm8iOiAi5Zub44CBIiwKICAgICAgImhlYWRpbmciOiAi4oCcMTEzM+S4reS8oOiAg+eCueKAnee9keS4iuehruiupOa1geeoiyIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzExNiwgMTI1XSwKICAgICAgIml0ZW1zIjogWyJwdC0yNjdiNGI0MThkIl0sCiAgICAgICJjaGFycyI6IDMwOAogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuWbm+OAgTEiLAogICAgICAiaGVhZGluZyI6ICIx44CB56Gu6K6k5oql6ICD5L+h5oGv77yaIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbMTE3LCAxMThdLAogICAgICAiaXRlbXMiOiBbInB0LWU3NDY5YjFjMTIiXSwKICAgICAgImNoYXJzIjogNjYKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLlm5vjgIEyIiwKICAgICAgImhlYWRpbmciOiAiMuOAgeS4iuS8oOadkOaWme+8miIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzExOSwgMTIwXSwKICAgICAgIml0ZW1zIjogWyJwdC0zNjE5ZDEwZDgyIl0sCiAgICAgICJjaGFycyI6IDc1CiAgICB9LAogICAgewogICAgICAibm8iOiAi5Zub44CBMyIsCiAgICAgICJoZWFkaW5nIjogIjPjgIHmn6XnnIvlrqHmoLjnirbmgIHvvJoiLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFsxMjEsIDEyMl0sCiAgICAgICJpdGVtcyI6IFsicHQtZjJmYmVlMTc0ZCIsICJwdC02NDIwZDdhMjBkIl0sCiAgICAgICJjaGFycyI6IDc4CiAgICB9LAogICAgewogICAgICAibm8iOiAi5Zub44CBNCIsCiAgICAgICJoZWFkaW5nIjogIuWuoeaguOmAmui/h+S4juazqOaEj+S6i+mhuSIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICAgICJsaW5lcyI6IFsxMjMsIDEyNV0sCiAgICAgICJpdGVtcyI6IFsicHQtNzk3Yjc2NjI4MiIsICJwdC0zNGYyOTI4YTU0Il0sCiAgICAgICJjaGFycyI6IDcxCiAgICB9LAogICAgewogICAgICAibm8iOiAi5LqU44CBIiwKICAgICAgImhlYWRpbmciOiAi4oCcMTEzM+S4reS8oOiAg+eCueKAnea4qemmqOaPkOmGkiIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzEyNiwgMTM2XSwKICAgICAgIml0ZW1zIjogWwogICAgICAgICJwdC1lMWQyMTM3YzM0IiwKICAgICAgICAicHQtNjRjNzFmMWY3YSIsCiAgICAgICAgInB0LTM2YWM5ZjY4YzEiLAogICAgICAgICJwdC1lNWQ4MWM0YjM1IiwKICAgICAgICAicHQtNDU1YTJmMGRkZCIsCiAgICAgICAgInB0LTYwOGYwMjk0ODciCiAgICAgIF0sCiAgICAgICJjaGFycyI6IDM0MAogICAgfQogIF0sCiAgIml0ZW1zIjogWwogICAgInJ1bGUtY2ZmODU2MzkiLAogICAgInB0LTE3M2QzZWMxNTAiLAogICAgInB0LTU4YzEwZWI2ZWMiLAogICAgInB0LTdhZDNmMjc1ZmYiLAogICAgInB0LTM1MzdlODYyYWIiLAogICAgInB0LWE1MDVlYWU3OTgiLAogICAgInB0LWExYTZkNmRlNjMiLAogICAgInB0LTc1NjZhZTMzZDEiLAogICAgInB0LTFkYjM0MmZmYmUiLAogICAgInB0LWJlNGNlNGRiYmIiLAogICAgInB0LWFmMzA2N2YyZGQiLAogICAgInB0LWNkOWQ4ZmI3ZmIiLAogICAgInB0LTI1NjBlZDFiNDQiLAogICAgInB0LTE3NDlkZmE4M2YiLAogICAgInB0LWJkMzBiNTg2MjAiLAogICAgInB0LTczYjIxZTNmNTUiLAogICAgInB0LTUwMGMwNDQ5NWMiLAogICAgInB0LWI1Y2ZkYWRkMjMiLAogICAgInB0LTBjZWYyNGM1MGMiLAogICAgInB0LWU1YWIxYzdiOTkiLAogICAgInB0LTk0NTdkNzE0ZmEiLAogICAgInB0LTRiMjkwOTdkZmMiLAogICAgInB0LTE5NmMxZmZjNzEiLAogICAgInB0LTk0ZTY5NGU0ZmUiLAogICAgInB0LTUzOTI0NGI3M2YiLAogICAgInB0LTI1ZTFhYWM1NGEiLAogICAgInB0LTNkMWRjNjhhY2UiLAogICAgInB0LTAxMzA0ZjFjNmMiLAogICAgInB0LTJiZmRiOWQ5YjkiLAogICAgInB0LTlmYjFiNWFhMTkiLAogICAgInB0LTk2Mzg0YTQ5OTMiLAogICAgInB0LWE0ZmE5YTE3YmUiLAogICAgInB0LWJmNDYwYTY5NjIiLAogICAgInB0LTM4MDUyNmU1MDciLAogICAgInB0LWY2NzI0M2Q4MDIiLAogICAgInB0LTBiMzk0MTFiOTQiLAogICAgInB0LTRlZGJhMDRlOWEiLAogICAgInB0LTQ0NWQ1NGY5NTUiLAogICAgInB0LTMxZDM4OGMyNzkiLAogICAgInB0LWE4MTIzYWFhNzMiLAogICAgInB0LWU4ZGFhZmVmM2MiLAogICAgInB0LTI0N2VhZGE5ZDgiLAogICAgInB0LTMzZmJjYzA0YTYiLAogICAgInB0LWFmNWVlNTkzODUiLAogICAgInB0LWQwZDE5YTBmZjciLAogICAgInB0LWRkYTM2ZDYyM2MiLAogICAgInB0LTM2ZTIzMTUzNTUiLAogICAgInB0LTE0ZGZhYmY2ZWUiLAogICAgInB0LTg2MzcxMzViMDEiLAogICAgInB0LTk3NDBmODBlNzIiLAogICAgInB0LTM4NmY1MjkyMjYiLAogICAgInB0LTJjM2I5ODQwOGQiLAogICAgInB0LTk5ZmViZWQyYTkiLAogICAgInB0LWZjNTI3OWM3MDUiLAogICAgInB0LTI2N2I0YjQxOGQiLAogICAgInB0LWU3NDY5YjFjMTIiLAogICAgInB0LTM2MTlkMTBkODIiLAogICAgInB0LWYyZmJlZTE3NGQiLAogICAgInB0LTY0MjBkN2EyMGQiLAogICAgInB0LTc5N2I3NjYyODIiLAogICAgInB0LTM0ZjI5MjhhNTQiLAogICAgInB0LWUxZDIxMzdjMzQiLAogICAgInB0LTY0YzcxZjFmN2EiLAogICAgInB0LTM2YWM5ZjY4YzEiLAogICAgInB0LWU1ZDgxYzRiMzUiLAogICAgInB0LTQ1NWEyZjBkZGQiLAogICAgInB0LTYwOGYwMjk0ODciCiAgXSwKICAibm90ZXMiOiBbCiAgICAicnVsZS1jZmY4NTYzOSDml6DlvJXmlofvvIzkuLrmlofmoaPnuqfmnaHnm67vvIzlt7LlkIzml7bliJflhaXmlofmoaPnuqcgaXRlbXMg5LiO5qaC6L+w6IqC77yI56ysMS056KGM44CM5qCH6aKY5LiO5YWs5ZGK5YmN6KiA44CN77yJ44CCIiwKICAgICLnrKwxLTLooYzkuLrmlofmoaPmoIfpopjvvIjlkKvjgIznvZHkuIrnoa7orqTlhazlkYrjgI3mjaLooYzvvInvvIxwdC0xNzNkM2VjMTUw44CBcHQtNThjMTBlYjZlYyDnmoTlvJXmlofliIbliKvotbfkuo7moIfpopjkuKTooYzvvIzmlYXkuI7liY3oqIDlkIjlubbkuLrkuIDoioLjgIIiLAogICAgIueItuiKgu+8muS6jOOAge+8iDQwLTU277yJ5ZCrIDHjgIEy44CBMyDkuInkuKrlrZDoioLvvJvkuInjgIHvvIg1Ny0xMTXvvInlkKsgMeOAgTLjgIEz44CBNCDlm5vkuKrlrZDoioLvvJvlm5vjgIHvvIgxMTYtMTI177yJ5ZCrIDEtNCDlm5vkuKrlrZDoioLjgILlvJXmlofotbfngrnokL3lnKjniLboioLmoIfpopjooYznmoQgcHQtYmQzMGI1ODYyMOOAgXB0LTRiMjkwOTdkZmPjgIFwdC0yNjdiNGI0MThkIOWPquWIl+eItuiKguOAgiIsCiAgICAi5Zub44CB56ysMTIzLTEyNeihjOOAjDTjgIHlrozmiJDkuIrov7DmraXpqqTmtYHnqIvigKbjgI3kuI7jgIznibnliKvms6jmhI/jgI3lkIjlubbkuLrjgIzlrqHmoLjpgJrov4fkuI7ms6jmhI/kuovpobnjgI3vvIhkZXJpdmVk77yJ44CCIiwKICAgICLkupTjgIHmuKnppqjmj5DphpLlm5vlsI/mnaHmnKrlho3liIflrZDoioLvvIznu5/kuIDliJflnKjkupTjgIHoioLlhoXjgIIiLAogICAgIuaWh+acrOeUsSBkb2N4IOi9rCBQREYg5ZCO5oq95Y+W77yM5Y6f5paH5peg6KGM6Ze05Zu+5rOo77yb56ysMTDooYzotbfkuLrnrKzkuIDnq6DvvIzmnKrlj5HnjrDmiKrmlq3jgIIiCiAgXQp9Cg==
+{
+  "key": "cff85639",
+  "title": "2025年全国硕士研究生招生考试中国传媒大学考点（1133）网上确认公告",
+  "truncated": false,
+  "sections": [
+    {
+      "no": "—",
+      "heading": "标题与公告前言",
+      "heading_kind": "derived",
+      "lines": [1, 9],
+      "items": ["rule-cff85639", "pt-173d3ec150", "pt-58c10eb6ec", "pt-7ad3f275ff", "pt-3537e862ab"],
+      "chars": 266
+    },
+    {
+      "no": "一、",
+      "heading": "“1133中传考点”确认要求",
+      "heading_kind": "author",
+      "lines": [10, 39],
+      "items": [
+        "pt-a505eae798",
+        "pt-a1a6d6de63",
+        "pt-7566ae33d1",
+        "pt-1db342ffbe",
+        "pt-be4ce4dbbb",
+        "pt-af3067f2dd",
+        "pt-cd9d8fb7fb",
+        "pt-2560ed1b44",
+        "pt-1749dfa83f"
+      ],
+      "chars": 1032
+    },
+    {
+      "no": "二、",
+      "heading": "“1133中传考点”确认方式、时间和联系方式",
+      "heading_kind": "author",
+      "lines": [40, 56],
+      "items": ["pt-bd30b58620"],
+      "chars": 393
+    },
+    {
+      "no": "二、1",
+      "heading": "1、确认方式",
+      "heading_kind": "author",
+      "lines": [41, 44],
+      "items": ["pt-73b21e3f55"],
+      "chars": 108
+    },
+    {
+      "no": "二、2",
+      "heading": "2、网上确认时间",
+      "heading_kind": "author",
+      "lines": [45, 54],
+      "items": ["pt-500c04495c", "pt-b5cfdadd23", "pt-0cef24c50c", "pt-9457d714fa"],
+      "chars": 209
+    },
+    {
+      "no": "二、3",
+      "heading": "3、网上确认期间联系方式：",
+      "heading_kind": "author",
+      "lines": [55, 56],
+      "items": ["pt-e5ab1c7b99"],
+      "chars": 52
+    },
+    {
+      "no": "三、",
+      "heading": "“1133中传考点”材料准备",
+      "heading_kind": "author",
+      "lines": [57, 115],
+      "items": ["pt-4b29097dfc"],
+      "chars": 1704
+    },
+    {
+      "no": "三、1",
+      "heading": "1、准考证照片",
+      "heading_kind": "author",
+      "lines": [58, 74],
+      "items": [
+        "pt-196c1ffc71",
+        "pt-94e694e4fe",
+        "pt-539244b73f",
+        "pt-25e1aac54a",
+        "pt-3d1dc68ace",
+        "pt-01304f1c6c",
+        "pt-2bfdb9d9b9",
+        "pt-9fb1b5aa19",
+        "pt-96384a4993",
+        "pt-a4fa9a17be"
+      ],
+      "chars": 506
+    },
+    {
+      "no": "三、2",
+      "heading": "2、手持证件照片",
+      "heading_kind": "author",
+      "lines": [75, 86],
+      "items": [
+        "pt-bf460a6962",
+        "pt-380526e507",
+        "pt-f67243d802",
+        "pt-0b39411b94",
+        "pt-4edba04e9a",
+        "pt-445d54f955",
+        "pt-31d388c279",
+        "pt-a8123aaa73"
+      ],
+      "chars": 302
+    },
+    {
+      "no": "三、3",
+      "heading": "3、网上确认其他上传材料",
+      "heading_kind": "author",
+      "lines": [87, 95],
+      "items": ["pt-e8daafef3c", "pt-247eada9d8", "pt-33fbcc04a6"],
+      "chars": 279
+    },
+    {
+      "no": "三、4",
+      "heading": "4、补充上传材料：",
+      "heading_kind": "author",
+      "lines": [96, 115],
+      "items": [
+        "pt-af5ee59385",
+        "pt-d0d19a0ff7",
+        "pt-dda36d623c",
+        "pt-36e2315355",
+        "pt-14dfabf6ee",
+        "pt-8637135b01",
+        "pt-9740f80e72",
+        "pt-386f529226",
+        "pt-2c3b98408d",
+        "pt-99febed2a9",
+        "pt-fc5279c705"
+      ],
+      "chars": 601
+    },
+    {
+      "no": "四、",
+      "heading": "“1133中传考点”网上确认流程",
+      "heading_kind": "author",
+      "lines": [116, 125],
+      "items": ["pt-267b4b418d"],
+      "chars": 308
+    },
+    {
+      "no": "四、1",
+      "heading": "1、确认报考信息：",
+      "heading_kind": "author",
+      "lines": [117, 118],
+      "items": ["pt-e7469b1c12"],
+      "chars": 66
+    },
+    {
+      "no": "四、2",
+      "heading": "2、上传材料：",
+      "heading_kind": "author",
+      "lines": [119, 120],
+      "items": ["pt-3619d10d82"],
+      "chars": 75
+    },
+    {
+      "no": "四、3",
+      "heading": "3、查看审核状态：",
+      "heading_kind": "author",
+      "lines": [121, 122],
+      "items": ["pt-f2fbee174d", "pt-6420d7a20d"],
+      "chars": 78
+    },
+    {
+      "no": "四、4",
+      "heading": "审核通过与注意事项",
+      "heading_kind": "derived",
+      "lines": [123, 125],
+      "items": ["pt-797b766282", "pt-34f2928a54"],
+      "chars": 71
+    },
+    {
+      "no": "五、",
+      "heading": "“1133中传考点”温馨提醒",
+      "heading_kind": "author",
+      "lines": [126, 136],
+      "items": [
+        "pt-e1d2137c34",
+        "pt-64c71f1f7a",
+        "pt-36ac9f68c1",
+        "pt-e5d81c4b35",
+        "pt-455a2f0ddd",
+        "pt-608f029487"
+      ],
+      "chars": 340
+    }
+  ],
+  "items": [
+    "rule-cff85639",
+    "pt-173d3ec150",
+    "pt-58c10eb6ec",
+    "pt-7ad3f275ff",
+    "pt-3537e862ab",
+    "pt-a505eae798",
+    "pt-a1a6d6de63",
+    "pt-7566ae33d1",
+    "pt-1db342ffbe",
+    "pt-be4ce4dbbb",
+    "pt-af3067f2dd",
+    "pt-cd9d8fb7fb",
+    "pt-2560ed1b44",
+    "pt-1749dfa83f",
+    "pt-bd30b58620",
+    "pt-73b21e3f55",
+    "pt-500c04495c",
+    "pt-b5cfdadd23",
+    "pt-0cef24c50c",
+    "pt-e5ab1c7b99",
+    "pt-9457d714fa",
+    "pt-4b29097dfc",
+    "pt-196c1ffc71",
+    "pt-94e694e4fe",
+    "pt-539244b73f",
+    "pt-25e1aac54a",
+    "pt-3d1dc68ace",
+    "pt-01304f1c6c",
+    "pt-2bfdb9d9b9",
+    "pt-9fb1b5aa19",
+    "pt-96384a4993",
+    "pt-a4fa9a17be",
+    "pt-bf460a6962",
+    "pt-380526e507",
+    "pt-f67243d802",
+    "pt-0b39411b94",
+    "pt-4edba04e9a",
+    "pt-445d54f955",
+    "pt-31d388c279",
+    "pt-a8123aaa73",
+    "pt-e8daafef3c",
+    "pt-247eada9d8",
+    "pt-33fbcc04a6",
+    "pt-af5ee59385",
+    "pt-d0d19a0ff7",
+    "pt-dda36d623c",
+    "pt-36e2315355",
+    "pt-14dfabf6ee",
+    "pt-8637135b01",
+    "pt-9740f80e72",
+    "pt-386f529226",
+    "pt-2c3b98408d",
+    "pt-99febed2a9",
+    "pt-fc5279c705",
+    "pt-267b4b418d",
+    "pt-e7469b1c12",
+    "pt-3619d10d82",
+    "pt-f2fbee174d",
+    "pt-6420d7a20d",
+    "pt-797b766282",
+    "pt-34f2928a54",
+    "pt-e1d2137c34",
+    "pt-64c71f1f7a",
+    "pt-36ac9f68c1",
+    "pt-e5d81c4b35",
+    "pt-455a2f0ddd",
+    "pt-608f029487"
+  ],
+  "notes": [
+    "rule-cff85639 无引文，为文档级条目，已同时列入文档级 items 与概述节（第1-9行「标题与公告前言」）。",
+    "第1-2行为文档标题（含「网上确认公告」换行），pt-173d3ec150、pt-58c10eb6ec 的引文分别起于标题两行，故与前言合并为一节。",
+    "父节：二、（40-56）含 1、2、3 三个子节；三、（57-115）含 1、2、3、4 四个子节；四、（116-125）含 1-4 四个子节。引文起点落在父节标题行的 pt-bd30b58620、pt-4b29097dfc、pt-267b4b418d 只列父节。",
+    "四、第123-125行「4、完成上述步骤流程…」与「特别注意」合并为「审核通过与注意事项」（derived）。",
+    "五、温馨提醒四小条未再切子节，统一列在五、节内。",
+    "文本由 docx 转 PDF 后抽取，原文无行间图注；第10行起为第一章，未发现截断。"
+  ]
+}

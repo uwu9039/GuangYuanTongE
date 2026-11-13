@@ -1,1 +1,212 @@
-ew0KICJrZXkiOiAiMjAyNi0wNi0wNy1hNjA5YTA0YiIsDQogInRpdGxlIjogIjIwMjbljbDosaHmiJDnu6nnm5jngrnkuKgxMDLlvKDmoKHogIPlkIjmoLzor4ErODDluK3nu5/ogIPliY3nmb7vvIzoibrogIPoiKrmr43kuI3mmK/or7Tor7TogIzlt7IiLA0KICJ0cnVuY2F0ZWQiOiBmYWxzZSwNCiAic2VjdGlvbnMiOiBbDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi6LSm5Y+35oqs5aS044CB5oiQ57up5qCH562+5LiO5byA56+H5aS05Zu+IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMSwNCiAgICA5DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1lMTE2OWRmMjZjIiwNCiAgICAicHQtOGM3ZTRiN2ExZCINCiAgIF0sDQogICAiY2hhcnMiOiA0NTANCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLlvIDnr4fvvJrlj4jkuIDlubToibrogIPlraPokL3luZUiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMCwNCiAgICAxMw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtYjMzNTg0ZmU4OSIsDQogICAgInB0LWMyMTg2ZmUwMzgiDQogICBdLA0KICAgImNoYXJzIjogMzYzDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAiMjAyNuW5tOagoeiAg+aIkOe7qeaAu+ebmOeCuSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDE0LA0KICAgIDE3DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiA2MDkNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLmoKHogIPmgLvmiJDnu6nvvJoxMDLlvKDlkIjmoLzor4HkuI7lm5vlpKfpmaLmoKHliIbluIMiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNCwNCiAgICAxNA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMjRlNDEyZGI3NSINCiAgIF0sDQogICAiY2hhcnMiOiAxNjANCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLmkq3pn7PlrabpmaLvvJo0OOW8oOWQiOagvOivgeS4juS4reS8oOaSremfszIz6L+e5YagIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMTUsDQogICAgMTUNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTRmM2ViYzZhMzUiDQogICBdLA0KICAgImNoYXJzIjogMjQwDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5a+85ryU5a2m6Zmi77yaMTflvKDlkI3moKHlkIjmoLzor4EiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNiwNCiAgICAxNg0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtN2MyYTkyNjVhMiINCiAgIF0sDQogICAiY2hhcnMiOiA5NQ0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIumfs+S5kOWtpumZou+8mjIw5Lq65Y+C6ICD44CBMzXlvKDmi7/or4EiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNywNCiAgICAxNw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNjNhY2E4ODc5NyINCiAgIF0sDQogICAiY2hhcnMiOiAxMTQNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICIyMDI2IOagoeiAg+aIkOe7qeWkp+ebmOeCueWvvOinhuWbviIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTgsDQogICAgMjANCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTcwODNhYmQ1ZDUiDQogICBdLA0KICAgImNoYXJzIjogMzY5DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAiMjAyNuW5tOe7n+iAg+aIkOe7qe+8muWFqOWRmOmAmui/h+OAgeWJjeeZvjgw5bit5LiO5ZCE5LiT5Lia5YiG5biDIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMjEsDQogICAgMjMNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTY4ZGVhNmMxZTIiLA0KICAgICJwdC1lYTE5MTc3NTdiIg0KICAgXSwNCiAgICJjaGFycyI6IDI3Ng0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIjE35bm0MTflhqAiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDI0LA0KICAgIDI3DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0zMWIxNjEyM2QyIiwNCiAgICAicHQtMmQyYzg3YTIxYiINCiAgIF0sDQogICAiY2hhcnMiOiA0NjkNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLnu5Por63vvJrmlbDlrZfog4zlkI7nmoTkurrkuI7mmI7lubTlho3kvJoiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyOCwNCiAgICAzMQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNzg0OTY3OGQ1NCIsDQogICAgInB0LTdjYmNlYWQ4OWUiDQogICBdLA0KICAgImNoYXJzIjogMjE3DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5bC+6YOo5Zu+54mH5LiO5omL57uY6ZW/5Zu+IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMzIsDQogICAgNTENCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWRiNjkxMjllNTUiLA0KICAgICJwdC0zZjBjNzFkMWUzIiwNCiAgICAicHQtYmE2MWFmNzJlMCIsDQogICAgInB0LThiYmMxZDU1YzkiLA0KICAgICJwdC03NjZiNjQxMTdiIg0KICAgXSwNCiAgICJjaGFycyI6IDMzMzINCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLmlofmnKvmj5DnpLrvvIjpooTop4jjgIHkv67mlLnkuo7jgIHkuI3llpzmrKLvvIkiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1MiwNCiAgICA1NA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTQNCiAgfQ0KIF0sDQogIml0ZW1zIjogWw0KICAicHQtZTExNjlkZjI2YyIsDQogICJwdC04YzdlNGI3YTFkIiwNCiAgInB0LWIzMzU4NGZlODkiLA0KICAicHQtYzIxODZmZTAzOCIsDQogICJwdC0yNGU0MTJkYjc1IiwNCiAgInB0LTRmM2ViYzZhMzUiLA0KICAicHQtN2MyYTkyNjVhMiIsDQogICJwdC02M2FjYTg4Nzk3IiwNCiAgInB0LTcwODNhYmQ1ZDUiLA0KICAicHQtNjhkZWE2YzFlMiIsDQogICJwdC1lYTE5MTc3NTdiIiwNCiAgInB0LTMxYjE2MTIzZDIiLA0KICAicHQtMmQyYzg3YTIxYiIsDQogICJwdC03ODQ5Njc4ZDU0IiwNCiAgInB0LTdjYmNlYWQ4OWUiLA0KICAicHQtZGI2OTEyOWU1NSIsDQogICJwdC0zZjBjNzFkMWUzIiwNCiAgInB0LWJhNjFhZjcyZTAiLA0KICAicHQtOGJiYzFkNTVjOSIsDQogICJwdC03NjZiNjQxMTdiIg0KIF0sDQogIm5vdGVzIjogWw0KICAi5b6u5L+h5YWs5LyX5Y+35paH56ug77yM5peg56ug5p2h57yW5Y+377yb56ysIDHigJM3IOihjOS4uui0puWPt+WbuuWumuagh+etvu+8iOW7uuagoTE35bm044CBMTfmrKHnnIHnu5/ogIPlhqDlhpvjgIExMDXkuKrmoKHogIPnirblhYPnrYnvvInvvIznrKwgOOKAkzkg6KGM5Li6IFvlm75dIOmTvuaOpe+8jOaVtOS9k+W9kuOAjOi0puWPt+aKrOWktOOAgeaIkOe7qeagh+etvuS4juW8gOevh+WktOWbvuOAjeiKguOAgiIsDQogICLnrKwgMTgg6KGM44CMIyAyMDI2IOagoeiAg+aIkOe7qeWkp+ebmOeCueWvvOinhuWbviAj44CN5LiO56ysIDI0IOihjOOAjCMgMTflubQxN+WGoCAj44CN5Li65Y6f5paH5bCP5qCH6aKY77yI5bimICMg5Y+377yJ77yM5Y67ICMg5LiO56m65qC85ZCO6YCQ5a2X5Y+v5p+l77yMaGVhZGluZ19raW5kIOiusCBhdXRob3LjgIIiLA0KICAi56ysIDMy4oCTNTEg6KGM5Yeg5LmO5YWo5Li6IFvlm75dIOmTvuaOpe+8iOaJi+e7mOmVv+WbvuS4juaIkOe7qea4heWNleaIquWbvu+8ie+8jOaWh+acrOWxguWPquacieWbvueJh+WcsOWdgO+8jOaXoOato+aWh+WPr+e0ouW8le+8m+WFtuS4reesrCAyNyDooYzkuI7nrKwgMzMg6KGMIFVSTCDlrozlhajph43lpI3jgIIiLA0KICAi6Iul5bmy5p2h55uu5byV5paH5Lul44CMOi8v44CN5byA5aS077yI5Zu+54mHIFVSTCDliY3mrrXooqvmiKrmlq3vvInvvIzmjInmnIDplb/lhazlhbHliY3nvIDlrprkvY3liLDor6Xlm77miYDlnKjooYzvvIzokL3ngrnop4HlkIToioIgaXRlbXPjgIIiLA0KICAi56ysIDE04oCTMTcg6KGM5Zub5q615qCh6ICD5oiQ57up5Y6f5paH5peg5bCP5qCH6aKY77yM5oyJ44CM5qCh6ICD5oC75oiQ57up77yP5pKt6Z+z77yP5a+85ryU77yP6Z+z5LmQ44CN5ouG5Li65a2Q6IqC77yM54i26IqC44CMMjAyNuW5tOagoeiAg+aIkOe7qeaAu+ebmOeCueOAjeWMuumXtCAxNOKAkzE3IOWMheS9j+Wbm+S4quWtkOiKguOAgiIsDQogICLnrKwgNTLigJM1NCDooYzkuLrlvq7kv6HmlofmnKvlip/og73mj5DnpLrvvIjpooTop4jml7bmoIfnrb7kuI3lj6/ngrnvvI/kv67mlLnkuo7vvI/kuI3llpzmrKLvvInvvIzpnZ7mraPmlofvvIzljZXni6zkuIDoioLjgIIiLA0KICAi5pyr5q615pyJ57uT6K+t5LiO5ZGK5Yir6K+t77yM5pyq6KeB5oiq5pat77yMdHJ1bmNhdGVkPWZhbHNl44CCIg0KIF0NCn0=
+{
+ "key": "2026-06-07-a609a04b",
+ "title": "2026印象成绩盘点丨102张校考合格证+80席统考前百，艺考航母不是说说而已",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "账号抬头、成绩标签与开篇头图",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    9
+   ],
+   "items": [
+    "pt-e1169df26c",
+    "pt-8c7e4b7a1d"
+   ],
+   "chars": 450
+  },
+  {
+   "no": "—",
+   "heading": "开篇：又一年艺考季落幕",
+   "heading_kind": "derived",
+   "lines": [
+    10,
+    13
+   ],
+   "items": [
+    "pt-b33584fe89",
+    "pt-c2186fe038"
+   ],
+   "chars": 363
+  },
+  {
+   "no": "—",
+   "heading": "2026年校考成绩总盘点",
+   "heading_kind": "derived",
+   "lines": [
+    14,
+    17
+   ],
+   "items": [],
+   "chars": 609
+  },
+  {
+   "no": "—",
+   "heading": "校考总成绩：102张合格证与四大院校分布",
+   "heading_kind": "derived",
+   "lines": [
+    14,
+    14
+   ],
+   "items": [
+    "pt-24e412db75"
+   ],
+   "chars": 160
+  },
+  {
+   "no": "—",
+   "heading": "播音学院：48张合格证与中传播音23连冠",
+   "heading_kind": "derived",
+   "lines": [
+    15,
+    15
+   ],
+   "items": [
+    "pt-4f3ebc6a35"
+   ],
+   "chars": 240
+  },
+  {
+   "no": "—",
+   "heading": "导演学院：17张名校合格证",
+   "heading_kind": "derived",
+   "lines": [
+    16,
+    16
+   ],
+   "items": [
+    "pt-7c2a9265a2"
+   ],
+   "chars": 95
+  },
+  {
+   "no": "—",
+   "heading": "音乐学院：20人参考、35张拿证",
+   "heading_kind": "derived",
+   "lines": [
+    17,
+    17
+   ],
+   "items": [
+    "pt-63aca88797"
+   ],
+   "chars": 114
+  },
+  {
+   "no": "—",
+   "heading": "2026 校考成绩大盘点导视图",
+   "heading_kind": "author",
+   "lines": [
+    18,
+    20
+   ],
+   "items": [
+    "pt-7083abd5d5"
+   ],
+   "chars": 369
+  },
+  {
+   "no": "—",
+   "heading": "2026年统考成绩：全员通过、前百80席与各专业分布",
+   "heading_kind": "derived",
+   "lines": [
+    21,
+    23
+   ],
+   "items": [
+    "pt-68dea6c1e2",
+    "pt-ea1917757b"
+   ],
+   "chars": 276
+  },
+  {
+   "no": "—",
+   "heading": "17年17冠",
+   "heading_kind": "author",
+   "lines": [
+    24,
+    27
+   ],
+   "items": [
+    "pt-31b16123d2",
+    "pt-2d2c87a21b"
+   ],
+   "chars": 469
+  },
+  {
+   "no": "—",
+   "heading": "结语：数字背后的人与明年再会",
+   "heading_kind": "derived",
+   "lines": [
+    28,
+    31
+   ],
+   "items": [
+    "pt-7849678d54",
+    "pt-7cbcead89e"
+   ],
+   "chars": 217
+  },
+  {
+   "no": "—",
+   "heading": "尾部图片与手绘长图",
+   "heading_kind": "derived",
+   "lines": [
+    32,
+    51
+   ],
+   "items": [
+    "pt-db69129e55",
+    "pt-3f0c71d1e3",
+    "pt-ba61af72e0",
+    "pt-8bbc1d55c9",
+    "pt-766b64117b"
+   ],
+   "chars": 3332
+  },
+  {
+   "no": "—",
+   "heading": "文末提示（预览、修改于、不喜欢）",
+   "heading_kind": "derived",
+   "lines": [
+    52,
+    54
+   ],
+   "items": [],
+   "chars": 14
+  }
+ ],
+ "items": [
+  "pt-e1169df26c",
+  "pt-8c7e4b7a1d",
+  "pt-b33584fe89",
+  "pt-c2186fe038",
+  "pt-24e412db75",
+  "pt-4f3ebc6a35",
+  "pt-7c2a9265a2",
+  "pt-63aca88797",
+  "pt-7083abd5d5",
+  "pt-68dea6c1e2",
+  "pt-ea1917757b",
+  "pt-31b16123d2",
+  "pt-2d2c87a21b",
+  "pt-7849678d54",
+  "pt-7cbcead89e",
+  "pt-db69129e55",
+  "pt-3f0c71d1e3",
+  "pt-ba61af72e0",
+  "pt-8bbc1d55c9",
+  "pt-766b64117b"
+ ],
+ "notes": [
+  "微信公众号文章，无章条编号；第 1–7 行为账号固定标签（建校17年、17次省统考冠军、105个校考状元等），第 8–9 行为 [图] 链接，整体归「账号抬头、成绩标签与开篇头图」节。",
+  "第 18 行「# 2026 校考成绩大盘点导视图 #」与第 24 行「# 17年17冠 #」为原文小标题（带 # 号），去 # 与空格后逐字可查，heading_kind 记 author。",
+  "第 32–51 行几乎全为 [图] 链接（手绘长图与成绩清单截图），文本层只有图片地址，无正文可索引；其中第 27 行与第 33 行 URL 完全重复。",
+  "若干条目引文以「://」开头（图片 URL 前段被截断），按最长公共前缀定位到该图所在行，落点见各节 items。",
+  "第 14–17 行四段校考成绩原文无小标题，按「校考总成绩／播音／导演／音乐」拆为子节，父节「2026年校考成绩总盘点」区间 14–17 包住四个子节。",
+  "第 52–54 行为微信文末功能提示（预览时标签不可点／修改于／不喜欢），非正文，单独一节。",
+  "末段有结语与告别语，未见截断，truncated=false。"
+ ]
+}

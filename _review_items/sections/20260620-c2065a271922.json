@@ -1,1 +1,108 @@
-ewogImtleSI6ICIyMDI2MDYyMC1jMjA2NWEyNzE5MjIiLAogInRpdGxlIjogIuesrOWFreWxiiDigJzlpKflnLDkvKDlqpLlnYrigJ3vvIgyMDI277yJ5pqR5pyf56S+5Lya6LCD56CU6aG555uu5b6B6ZuG5LukIiwKICJ0cnVuY2F0ZWQiOiBmYWxzZSwKICJzZWN0aW9ucyI6IFsKICB7CiAgICJubyI6ICLpobXpnaLmoYbmnrYiLAogICAiaGVhZGluZyI6ICLnq5nngrnlr7zoiKrjgIHmoI/nm67lm77niYfkuI7pnaLljIXlsZEiLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbMSwgMzJdLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogMjg0CiAgfSwKICB7CiAgICJubyI6ICLmoIfpopgiLAogICAiaGVhZGluZyI6ICLnrKzlha3lsYrigJzlpKflnLDkvKDlqpLlnYrigJ3vvIgyMDI277yJ5pqR5pyf56S+5Lya6LCD56CU6aG555uu5b6B6ZuG5LukIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbMzMsIDM0XSwKICAgIml0ZW1zIjogWyJwdC1hNzkzMzE1NjRjIl0sCiAgICJjaGFycyI6IDUwCiAgfSwKICB7CiAgICJubyI6ICLlr7zor60iLAogICAiaGVhZGluZyI6ICLml7bku6Pog4zmma/jgIHosIPnoJTkvKDnu5/kuI4yMDI25bm05a6a5L2NIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzM1LCAzOF0sCiAgICJpdGVtcyI6IFsicHQtMDQ2MmQ1ZThhMyIsICJwdC05ODU2YTM1ZTE5IiwgInB0LTJjOGQ2Y2M4MzMiLCAicHQtNTM2MDVhMTg5NiJdLAogICAiY2hhcnMiOiA1NTcKICB9LAogIHsKICAgIm5vIjogIjEiLAogICAiaGVhZGluZyI6ICLosIPnoJTkuLvpopgiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFszOSwgNDBdLAogICAiaXRlbXMiOiBbInB0LTQwOTEyZmE4Y2IiXSwKICAgImNoYXJzIjogMTc3CiAgfSwKICB7CiAgICJubyI6ICIyIiwKICAgImhlYWRpbmciOiAi5Y+C5Yqg5a+56LGhIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbNDEsIDQyXSwKICAgIml0ZW1zIjogWyJwdC0wMzQyNTE1NWE4Il0sCiAgICJjaGFycyI6IDYxCiAgfSwKICB7CiAgICJubyI6ICIzIiwKICAgImhlYWRpbmciOiAi5YW35L2T6KaB5rGCIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbNDMsIDQ4XSwKICAgIml0ZW1zIjogWyJwdC1mZTI3YTMwMDg3IiwgInB0LWE2ZTA4ODM5YzkiXSwKICAgImNoYXJzIjogMjE1CiAgfSwKICB7CiAgICJubyI6ICI0IiwKICAgImhlYWRpbmciOiAi57uT6aG56KaB5rGCIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbNDksIDUyXSwKICAgIml0ZW1zIjogWyJwdC1iZmUyOWE0MmExIl0sCiAgICJjaGFycyI6IDEyNAogIH0sCiAgewogICAibm8iOiAiNSIsCiAgICJoZWFkaW5nIjogIuaXtumXtOWuieaOkiIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzUzLCA1N10sCiAgICJpdGVtcyI6IFsicHQtYjMxZjhkOGQzZiJdLAogICAiY2hhcnMiOiAxMjEKICB9LAogIHsKICAgIm5vIjogIumZhOS7tiIsCiAgICJoZWFkaW5nIjogIueUs+aKpeS5puS4juagoeWkluWunuS5oOWunui3teWuieWFqOeuoeeQhuWKnuazlSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFs1OCwgNTldLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogODAKICB9LAogIHsKICAgIm5vIjogIuW+gOacn+S8mOengOaIkOaenCIsCiAgICJoZWFkaW5nIjogIuW+gOacn+S8mOengOaIkOaenCIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzYwLCA2NF0sCiAgICJpdGVtcyI6IFtdLAogICAiY2hhcnMiOiAxNjAKICB9LAogIHsKICAgIm5vIjogIumhteiEmiIsCiAgICJoZWFkaW5nIjogIuWPi+aDhemTvuaOpeOAgeWcsOWdgOeJiOadg+S4juaKgOacr+aUr+aMgSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFs2NSwgODJdLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogNDA1CiAgfQogXSwKICJpdGVtcyI6IFsicHQtYTc5MzMxNTY0YyIsICJwdC0wNDYyZDVlOGEzIiwgInB0LTk4NTZhMzVlMTkiLCAicHQtMmM4ZDZjYzgzMyIsICJwdC01MzYwNWExODk2IiwgInB0LTQwOTEyZmE4Y2IiLCAicHQtMDM0MjUxNTVhOCIsICJwdC1mZTI3YTMwMDg3IiwgInB0LWE2ZTA4ODM5YzkiLCAicHQtYmZlMjlhNDJhMSIsICJwdC1iMzFmOGQ4ZDNmIl0sCiAibm90ZXMiOiBbCiAgIue9kemhteaKveWPlu+8muesrCAxIOihjOaYr+a1j+iniOWZqOagh+mimO+8jOesrCAyIOihjOaYr+ermeeCuSBsb2dvIOWNoOS9je+8jOesrCAz4oCTMjkg6KGM5piv5L+h5oGv5Lyg5pKt5a2m6Zmi5LiA57qn77yP5LqM57qn5a+86Iiq77yI6aaW6aG177yP5YWz5LqO5oiR5Lus77yP5a2m55Sf5Z+55YW777yP5a2m5pyv56CU56m277yP5YWa576k5bel5L2c77yP5Zu96ZmF5ZCI5L2c6YCQ5p2h5oq95Ye677yM44CM5a2m6Zmi6aKG5a+844CN6YeN5aSN5Ye6546w5LiA5qyh77yJ77yM56ysIDMwIOihjOaYr+agj+ebrumFjeWbvuWNoOS9je+8jOesrCAzMeKAkzMyIOihjOaYr+OAjOmAmuefpeWFrOWRiuOAjeagj+ebruagh+etvuS4jumdouWMheWxke+8jOWFqOmDqOW5tuWFpeOAjOmhtemdouahhuaetuOAjeS4gOiKguOAgiIsCiAgIuesrCAzMyDooYzph43lpI3mraPmlofmoIfpopjjgIHnrKwgMzQg6KGM5piv44CM5Y+R5biD5pe26Ze077yaMjAyNi0wNi0yMOa1j+iniOasoeaVsO+8mjEw44CN77yM5LiO5qCH6aKY5ZCI5bm25Li644CM5qCH6aKY44CN5LiA6IqC77yb5qCH6aKY5Y6f5paH44CM56ys5YWt5bGKIOKAnOWkp+WcsOS8oOWqkuWdiuKAneOAjeS4remXtOWkueS4gOS4quWNiuinkuepuuagvO+8jOezu+aKveWPluW4puWFpe+8jOacquaUueOAgiIsCiAgIuesrCAzNeKAkzM4IOihjOaYr+Wbm+auteWvvOivre+8iOaKgOacr+WPmOmdqeiDjOaZr++8j+ekvuS8muiwg+eglOeahOaEj+S5ie+8j+S8oOaSreeglOeptumZouS4juOAjOWkp+WcsOS8oOWqkuWdiuOAjeeahOeUseadpe+8jzIwMjYg5bm05a6a5L2N77yJ77yM5peg5bCP5qCH6aKY77yM5ZCI5bm25Li644CM5a+86K+t44CN5LiA6IqC44CCIiwKICAi5q2j5paH57uT5p6E5Y+q5pyJIDHigJM1IOS6lOS4qumYv+aLieS8r+aVsOWtl+e8luWPt++8iOOAjDHosIPnoJTkuLvpopjjgI3igKbjgIw15pe26Ze05a6J5o6S44CN77yM5pWw5a2X5LiO5qCH6aKY6Ze05peg5YiG6ZqU77yJ77yM5rKh5pyJ44CM56ysWOeroO+8j+esrFjmnaHjgI3vvIzmlYXoioLlj7flj5bljp/mlofnvJblj7fvvJvlsI/moIfpopjjgIzosIPnoJTkuLvpopjvvI/lj4LliqDlr7nosaHvvI/lhbfkvZPopoHmsYLvvI/nu5PpobnopoHmsYLvvI/ml7bpl7TlronmjpLjgI3pgJDlrZfokL3lnKjoioLpppbooYzlhoXvvIzmoIcgYXV0aG9y44CCIiwKICAi5Lik5p2h5p2h55uu55qE5byV5paH6Leo6LaK44CM57yW5Y+35qCH6aKY6KGM77yL5LiL5LiA6KGM5q2j5paH44CN77yacHQtNDA5MTJmYThjYu+8iDEg6LCD56CU5Li76aKY77yJ44CBcHQtMDM0MjUxNTVhOO+8iDIg5Y+C5Yqg5a+56LGh77yJ44CBcHQtZmUyN2EzMDA4N++8iDMg5YW35L2T6KaB5rGC77yJ44CBcHQtYmZlMjlhNDJhMe+8iDQg57uT6aG56KaB5rGC77yJ44CBcHQtYjMxZjhkOGQzZu+8iDUg5pe26Ze05a6J5o6S77yJ5Z2H5oyJ5qCH6aKY6IqC55qE6KGM5Yy66Ze05a6a5L2N77yM5LiN5Y+m5ouG5a2Q6IqC44CCIiwKICAicHQtYTZlMDg4MzljOSDnmoTlvJXmlofmmK/jgIwz5YW35L2T6KaB5rGC44CN5pyr5p2h44CM6LCD56CU5Zui6Zif6ZyA6KaB6YG15a6I5a2m5qCh5ZKM6LCD56CU5Zyw55qE5a6J5YWo6KaB5rGC44CC77yI6ZmE5Lu244CK5Lit5Zu95Lyg5aqS5aSn5a2m5qCh5aSW5a6e5Lmg5a6e6Le15a6J5YWo566h55CG5Yqe5rOV44CL5Lit5Lyg5pS/5a2XMjAyNiAzNOWPt++8ieOAje+8jOiQveWcqOesrCA0OCDooYzvvIzmlYXliJflnKggMyDoioLvvJvljp/mlofmloflj7flhpnkvZzjgIzkuK3kvKDmlL/lrZcyMDI2IDM05Y+344CN77yM5LiO56ysIDU5IOihjOmZhOS7tuWQjeOAjOS4reS8oOaUv+Wtl+OAlDIwMjbjgJUzNOWPt+OAjeagvOW8j+S4jeS4gOiHtO+8jOaMieWOn+aWh+S/neeVmeOAgiIsCiAgIuesrCA1OOKAkzU5IOihjOaYr+S4pOS7vemZhOS7tueahOaWh+S7tuWQje+8iOeUs+aKpeS5piAuZG9jeOOAgeWuieWFqOeuoeeQhuWKnuazlSAucGRm77yJ77yM5LiN5piv5q2j5paH5q616JC977yM5Y2V5YiX44CM6ZmE5Lu244CN5LiA6IqC44CCIiwKICAi56ysIDYw4oCTNjQg6KGM44CM5b6A5pyf5LyY56eA5oiQ5p6c44CN5Y+K5YW25LiL5Zub5p2h5oiQ5p6c5bGV56S65qCH6aKY5bGe6aG16Z2i5o6o6I2Q5L2N77yM6Z2e5pys5paH5q2j5paH77yM5Y2V5YiX5LiA6IqC5LiU5LiN5oyC5p2h55uu44CCIiwKICAi56ysIDY14oCTODIg6KGM5Li66aG16ISa77yabG9nbyDkuI4gdGFnIOWbvuWNoOS9jeOAgeWPi+aDhemTvuaOpeS5neadoeOAgeOAjOWFs+S6juaIkeS7rOOAjeWcsOWdgOmCrue8luOAgeeJiOadg+aJgOacieS4juS6rElDUO+8j+S6rOWFrOe9keWuieWkh+WPt+OAgeaKgOacr+aUr+aMgeOAgeOAjOWbnuWIsOmhtumDqOOAjeS4juiuv+mXrue7n+iuoeWNoOS9je+8jOWQiOW5tuS4uuOAjOmhteiEmuOAjeS4gOiKguOAgiIsCiAgIjExIOadoeadoeebrueahOW8leaWh+WFqOmDqOiQveWcqOacrOaWh+WGhe+8iOaXoOi3qOaWh+S7tuW8leeUqO+8ie+8m+ato+aWh+WIsOesrCA1NyDooYzjgIw0LuaIkOaenOaxh+aKpeWPiumigeWllu+8mjIwMjblubQxMOaciOOAjee7k+adn++8jOWFtuWQjuS4uumZhOS7tuS4jumhteiEmu+8jOacquingeWQjue7reeroOiKgu+8jHRydW5jYXRlZD1mYWxzZeOAgiIKIF0KfQo=
+{
+ "key": "20260620-c2065a271922",
+ "title": "第六届 “大地传媒坊”（2026）暑期社会调研项目征集令",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "页面框架",
+   "heading": "站点导航、栏目图片与面包屑",
+   "heading_kind": "derived",
+   "lines": [1, 32],
+   "items": [],
+   "chars": 284
+  },
+  {
+   "no": "标题",
+   "heading": "第六届“大地传媒坊”（2026）暑期社会调研项目征集令",
+   "heading_kind": "author",
+   "lines": [33, 34],
+   "items": ["pt-a79331564c"],
+   "chars": 50
+  },
+  {
+   "no": "导语",
+   "heading": "时代背景、调研传统与2026年定位",
+   "heading_kind": "derived",
+   "lines": [35, 38],
+   "items": ["pt-0462d5e8a3", "pt-9856a35e19", "pt-2c8d6cc833", "pt-53605a1896"],
+   "chars": 557
+  },
+  {
+   "no": "1",
+   "heading": "调研主题",
+   "heading_kind": "author",
+   "lines": [39, 40],
+   "items": ["pt-40912fa8cb"],
+   "chars": 177
+  },
+  {
+   "no": "2",
+   "heading": "参加对象",
+   "heading_kind": "author",
+   "lines": [41, 42],
+   "items": ["pt-03425155a8"],
+   "chars": 61
+  },
+  {
+   "no": "3",
+   "heading": "具体要求",
+   "heading_kind": "author",
+   "lines": [43, 48],
+   "items": ["pt-fe27a30087", "pt-a6e08839c9"],
+   "chars": 215
+  },
+  {
+   "no": "4",
+   "heading": "结项要求",
+   "heading_kind": "author",
+   "lines": [49, 52],
+   "items": ["pt-bfe29a42a1"],
+   "chars": 124
+  },
+  {
+   "no": "5",
+   "heading": "时间安排",
+   "heading_kind": "author",
+   "lines": [53, 57],
+   "items": ["pt-b31f8d8d3f"],
+   "chars": 121
+  },
+  {
+   "no": "附件",
+   "heading": "申报书与校外实习实践安全管理办法",
+   "heading_kind": "derived",
+   "lines": [58, 59],
+   "items": [],
+   "chars": 80
+  },
+  {
+   "no": "往期优秀成果",
+   "heading": "往期优秀成果",
+   "heading_kind": "author",
+   "lines": [60, 64],
+   "items": [],
+   "chars": 160
+  },
+  {
+   "no": "页脚",
+   "heading": "友情链接、地址版权与技术支持",
+   "heading_kind": "derived",
+   "lines": [65, 82],
+   "items": [],
+   "chars": 405
+  }
+ ],
+ "items": ["pt-a79331564c", "pt-0462d5e8a3", "pt-9856a35e19", "pt-2c8d6cc833", "pt-53605a1896", "pt-40912fa8cb", "pt-03425155a8", "pt-fe27a30087", "pt-a6e08839c9", "pt-bfe29a42a1", "pt-b31f8d8d3f"],
+ "notes": [
+  "网页抽取：第 1 行是浏览器标题，第 2 行是站点 logo 占位，第 3–29 行是信息传播学院一级／二级导航（首页／关于我们／学生培养／学术研究／党群工作／国际合作逐条抽出，「学院领导」重复出现一次），第 30 行是栏目配图占位，第 31–32 行是「通知公告」栏目标签与面包屑，全部并入「页面框架」一节。",
+  "第 33 行重复正文标题、第 34 行是「发布时间：2026-06-20浏览次数：10」，与标题合并为「标题」一节；标题原文「第六届 “大地传媒坊”」中间夹一个半角空格，系抽取带入，未改。",
+  "第 35–38 行是四段导语（技术变革背景／社会调研的意义／传播研究院与「大地传媒坊」的由来／2026 年定位），无小标题，合并为「导语」一节。",
+  "正文结构只有 1–5 五个阿拉伯数字编号（「1调研主题」…「5时间安排」，数字与标题间无分隔），没有「第X章／第X条」，故节号取原文编号；小标题「调研主题／参加对象／具体要求／结项要求／时间安排」逐字落在节首行内，标 author。",
+  "两条条目的引文跨越「编号标题行＋下一行正文」：pt-40912fa8cb（1 调研主题）、pt-03425155a8（2 参加对象）、pt-fe27a30087（3 具体要求）、pt-bfe29a42a1（4 结项要求）、pt-b31f8d8d3f（5 时间安排）均按标题节的行区间定位，不另拆子节。",
+  "pt-a6e08839c9 的引文是「3具体要求」末条「调研团队需要遵守学校和调研地的安全要求。（附件《中国传媒大学校外实习实践安全管理办法》中传政字2026 34号）」，落在第 48 行，故列在 3 节；原文文号写作「中传政字2026 34号」，与第 59 行附件名「中传政字〔2026〕34号」格式不一致，按原文保留。",
+  "第 58–59 行是两份附件的文件名（申报书 .docx、安全管理办法 .pdf），不是正文段落，单列「附件」一节。",
+  "第 60–64 行「往期优秀成果」及其下四条成果展示标题属页面推荐位，非本文正文，单列一节且不挂条目。",
+  "第 65–82 行为页脚：logo 与 tag 图占位、友情链接九条、「关于我们」地址邮编、版权所有与京ICP／京公网安备号、技术支持、「回到顶部」与访问统计占位，合并为「页脚」一节。",
+  "11 条条目的引文全部落在本文内（无跨文件引用）；正文到第 57 行「4.成果汇报及颁奖：2026年10月」结束，其后为附件与页脚，未见后续章节，truncated=false。"
+ ]
+}

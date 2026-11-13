@@ -1,1 +1,132 @@
-ewogImtleSI6ICJ6ei16aGVuZ2NlIiwKICJ0aXRsZSI6ICLlhajlm73lrabnlJ/otYTliqnnrqHnkIbkuK3lv4MgLSDmlL/nrZbmlofku7YgLSDpq5jmoKHlrabnlJ/otYTliqkiLAogInRydW5jYXRlZCI6IGZhbHNlLAogInNlY3Rpb25zIjogWwogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIuWFqOWbveWtpueUn+i1hOWKqeeuoeeQhuS4reW/gy3mlL/nrZbmlofku7Yt6auY5qCh5a2m55Sf6LWE5YqpIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbMSwgNl0sCiAgICJpdGVtcyI6IFsicnVsZS16ei16aGVuZ2NlIiwgInB0LTEzMGE1MjA5N2UiLCAicHQtZDA1OTE3YWZkMiJdLAogICAiY2hhcnMiOiAyNAogIH0sCiAgewogICAibm8iOiAi56uZ54K55a+86IiqIiwKICAgImhlYWRpbmciOiAi5Lit5b+D5LuL57uN44CB5pS/562W5paH5Lu25LiO57uP6aqM5Lqk5rWB5ZCE5qCP55uuIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzcsIDQ3XSwKICAgIml0ZW1zIjogW10sCiAgICJjaGFycyI6IDIxMQogIH0sCiAgewogICAibm8iOiAi5qCP55uu5qCH562+IiwKICAgImhlYWRpbmciOiAi5pS/562W5paH5Lu25LiL55qE5a2m5q615qCP55uu5YiH5o2i5qCH562+IiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzQ4LCA1NV0sCiAgICJpdGVtcyI6IFsicHQtYTQ3NDZhZjlmYyJdLAogICAiY2hhcnMiOiA0OAogIH0sCiAgewogICAibm8iOiAiMjAyNTAzLTMxIiwKICAgImhlYWRpbmciOiAi6LSi5pS/6YOo44CB5pWZ6IKy6YOo562J5Zub6YOo6Zeo5Y2w5Y+R44CK5YWz5LqO5YGa5aW9MjAyNeW5tOWbveWutuWKqeWtpui0t+asvuWFjeaBr+WPiuacrOmHkeW7tuacn+WBv+i/mC4uLiIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzU2LCA1OV0sCiAgICJpdGVtcyI6IFtdLAogICAiY2hhcnMiOiAxODUKICB9LAogIHsKICAgIm5vIjogIjIwMjQxMS0wNiIsCiAgICJoZWFkaW5nIjogIui0ouaUv+mDqCDmlZnogrLpg6gg5Lit5Zu95Lq65rCR6ZO26KGMIOmHkeiejeebkeeuoeaAu+WxgOWFs+S6juiwg+aVtOWujOWWhOWbveWutuWKqeWtpui0t+asvuacieWFs+aUv+etlueahC4uLiIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzYwLCA2M10sCiAgICJpdGVtcyI6IFsicHQtMGQ5NjRhNWUyZCJdLAogICAiY2hhcnMiOiAxODUKICB9LAogIHsKICAgIm5vIjogIjIwMjQxMC0yOSIsCiAgICJoZWFkaW5nIjogIui0ouaUv+mDqCDmlZnogrLpg6gg5Lq65Yqb6LWE5rqQ56S+5Lya5L+d6Zqc6YOo5YWz5LqO6LCD5pW06auY562J5pWZ6IKy6Zi25q615ZKM6auY5Lit6Zi25q615Zu95a625aWW5Yqp5a2m6YeRLi4uIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbNjQsIDY3XSwKICAgIml0ZW1zIjogWyJwdC1mOWYxYWU4NTA1Il0sCiAgICJjaGFycyI6IDE4NwogIH0sCiAgewogICAibm8iOiAiMjAyMjAxLTA3IiwKICAgImhlYWRpbmciOiAi5YWz5LqO5Y2w5Y+R44CK55Sf5rqQ5Zyw5L+h55So5Yqp5a2m6LS35qy+6aOO6Zmp6KGl5YG/6YeR566h55CG5Yqe5rOV44CL55qE6YCa55+l77yI6LSi5pWZ44CUMjAyMuOAlTHlj7cuLi4iLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs2OCwgNzFdLAogICAiaXRlbXMiOiBbInB0LWRlZmI2ZmIyNmMiLCAicHQtNDRhMzk5YTY3OSJdLAogICAiY2hhcnMiOiAxODcKICB9LAogIHsKICAgIm5vIjogIjIwMjExMC0yMiIsCiAgICJoZWFkaW5nIjogIui0ouaUv+mDqCDmlZnogrLpg6gg5Lq65rCR6ZO26KGMIOmTtuS/neebkeS8muWFs+S6jui/m+S4gOatpeWujOWWhOWbveWutuWKqeWtpui0t+asvuaUv+etlueahOmAmuefpSjotKLmlZkuLi4iLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs3MiwgNzVdLAogICAiaXRlbXMiOiBbInB0LTFiNjkzOGIyNGMiXSwKICAgImNoYXJzIjogMTg1CiAgfSwKICB7CiAgICJubyI6ICIyMDIxMTAtMjEiLAogICAiaGVhZGluZyI6ICLpgIDlvbnlhpvkurrkuovliqHpg6jnrYnkuIPpg6jpl6jlhbPkuo7lhajpnaLlgZrlpb3pgIDlvbnlo6vlhbXmlZnogrLln7norq3lt6XkvZznmoTmjIflr7zmhI/op4Eo6YCA5b255Yab5Lq66YOoLi4uIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbNzYsIDc4XSwKICAgIml0ZW1zIjogWyJwdC0xMTk3ODNkMzUyIl0sCiAgICJjaGFycyI6IDE4OQogIH0sCiAgewogICAibm8iOiAiMjAyMDA3LTI3IiwKICAgImhlYWRpbmciOiAi5pWZ6IKy6YOoIOi0ouaUv+mDqCDkuK3lm73kurrmsJHpk7booYwg6ZO25L+d55uR5Lya5YWz5LqO6LCD5pW05a6M5ZaE5Zu95a625Yqp5a2m6LS35qy+5pyJ5YWz5pS/562WLi4uIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbNzksIDgyXSwKICAgIml0ZW1zIjogWyJwdC0zZjEzYTY3N2UxIl0sCiAgICJjaGFycyI6IDE4NAogIH0sCiAgewogICAibm8iOiAiMjAxOTEwLTA5IiwKICAgImhlYWRpbmciOiAi5pWZ6IKy6YOoIOi0ouaUv+mDqOWFs+S6juWNsOWPkeOAiuacrOS4k+enkeeUn+WbveWutuWlluWtpumHkeivhOWuoeWKnuazleOAi+eahOmAmuefpSjmlZnotKLlh73jgJQyMDE5Li4uIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbODMsIDg2XSwKICAgIml0ZW1zIjogWyJwdC02NjA4ZWZjZDkwIl0sCiAgICJjaGFycyI6IDE4NQogIH0sCiAgewogICAibm8iOiAiMjAxOTA3LTE2IiwKICAgImhlYWRpbmciOiAi6LSi5pS/6YOoIOaVmeiCsumDqOWFs+S6juiwg+aVtOiBjOS4mumZouagoeWlluWKqeWtpumHkeaUv+etlueahOmAmuefpe+8iOi0ouaVmeOAlDIwMTnjgJUyNeWPt++8iSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzg3LCA5MF0sCiAgICJpdGVtcyI6IFsicHQtZDQyOWVjZGQzNyJdLAogICAiY2hhcnMiOiAxODEKICB9LAogIHsKICAgIm5vIjogIjIwMTkwMS0xNiIsCiAgICJoZWFkaW5nIjogIuaVmeiCsumDqCDotKLmlL/pg6jlhbPkuo7ljbDlj5HjgIrmma7pgJrpq5jnrYnlrabmoKHnoJTnqbbnlJ/lm73lrrblpZblrabph5Hor4TlrqHlip7ms5XjgIvnmoTpgJrnn6Uo5pWZ6LSi44CULi4uIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbOTEsIDk0XSwKICAgIml0ZW1zIjogWyJwdC1hYWFkYzZhNjFlIl0sCiAgICJjaGFycyI6IDE4NQogIH0sCiAgewogICAibm8iOiAi6aG16ISaIiwKICAgImhlYWRpbmciOiAi5YWs5LyX5Y+35YWz5rOo44CB6IGU57O75oiR5Lus5LiO5aSH5qGI5Y+3IiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzk1LCAxMDNdLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogMTAyCiAgfQogXSwKICJpdGVtcyI6IFsicnVsZS16ei16aGVuZ2NlIiwgInB0LTEzMGE1MjA5N2UiLCAicHQtZDA1OTE3YWZkMiIsICJwdC1hNDc0NmFmOWZjIiwgInB0LTBkOTY0YTVlMmQiLCAicHQtZjlmMWFlODUwNSIsICJwdC1kZWZiNmZiMjZjIiwgInB0LTQ0YTM5OWE2NzkiLCAicHQtMWI2OTM4YjI0YyIsICJwdC0xMTk3ODNkMzUyIiwgInB0LTNmMTNhNjc3ZTEiLCAicHQtNjYwOGVmY2Q5MCIsICJwdC1kNDI5ZWNkZDM3IiwgInB0LWFhYWRjNmE2MWUiXSwKICJub3RlcyI6IFsKICAi6KeE5YiZ5p2h55uuIHJ1bGUtenotemhlbmdjZe+8iOOAjOmrmOagoeWtpueUn+i1hOWKqcK35pS/562W5paH5Lu277yI5YWo5Zu95a2m55Sf6LWE5Yqp566h55CG5Lit5b+D77yJ44CN77yJ5rKh5pyJ5Lu75L2V5byV5paH77yM5bGe5paH5qGj57qn5p2h55uu77yM5bey5YiX6L+b5paH5qGj57qnIGl0ZW1zIOW5tuaUvui/m+mmluiKgu+8iOiKguWPt+OAjOKAlOOAje+8ie+8jOacrOiKguWQjOaXtuijheermeeCueagh+mimOS4juW9k+WJjeagj+ebruWQjeS4pOadoeOAgiIsCiAgIue9kemhteaKveWPlu+8muesrCAx4oCTNSDooYzmmK/nq5nngrnmoIfpopjnmoTov57lhpnjgIzlhajlm73lrabnlJ/otYTliqnnrqHnkIbkuK3lv4MgLSDmlL/nrZbmlofku7YgLSDpq5jmoKHlrabnlJ/otYTliqnjgI3vvIjkuKTkuKrjgIwt44CN5ZCE5Y2g5LiA6KGM77yM56ysIDYg6KGM5piv44CM5pCc57Si44CN6L6T5YWl5qGG5Y2g5L2N77yJ77yM5ZCI5Li66aaW6IqC77yb6aaW6IqCIGhlYWRpbmcg55So5Y6f5paH6YKj5LiJ5Liq54mH5q615Yqg5Y2K6KeS6L+e5a2X56ym5ou85oiQ77yM6IO95Zyo56ysIDHigJM1IOihjOmAkOWtl+aJvuWIsO+8jOaVheaghyBhdXRob3LjgIIiLAogICLnrKwgN+KAkzQ3IOihjOaYr+aVtOermeWvvOiIqu+8iOmmlumhte+8j+S4reW/g+S7i+e7je+8j+W3peS9nOWKqOaAge+8j+aUv+etluaWh+S7tu+8j+aUv+etlueugOS7i++8j+e7j+mqjOS6pOa1ge+8j+eQhuiuuuaOouiuqO+8j+S4k+mimOeJh++8j+S/oeaBr+ezu+e7n+WFseS5nee7hO+8jOmAkOadoeaKveWHuu+8ie+8i+OAjOaCqOeOsOWcqOeahOS9jee9ru+8muOAjemdouWMheWxke+8iOmmlumhtSA+IOaUv+etluaWh+S7tiA+IOmrmOagoeWtpueUn+i1hOWKqe+8jOavj+S4quOAjD7jgI3lkITljaDkuIDooYzvvInvvIzlkIjlubbkuLrjgIznq5nngrnlr7zoiKrjgI3kuIDoioLjgIIiLAogICLnrKwgNDjigJM1NSDooYzmmK/liJfooajkuIrmlrnnmoTmoI/nm67moIfnrb7ooYzvvIjmlL/nrZbmlofku7bvvI/nu7zlkIjmlL/nrZbvvI/lrabliY3mlZnogrLotYTliqnvvI/kuYnliqHmlZnogrLlrabnlJ/otYTliqnvvI/mma7pgJrpq5jkuK3lrabnlJ/otYTliqnvvI/kuK3ogYzlrabnlJ/otYTliqnvvI/pq5jmoKHlrabnlJ/otYTliqnvvInvvIzlhbbkuK3jgIzpq5jmoKHlrabnlJ/otYTliqnjgI3ov57nu63lh7rnjrDkuKTmrKHvvIjnrKwgNTTjgIE1NSDooYzvvIzmoIfnrb7vvIvlvZPliY3pgInkuK3pobnvvInvvIzljp/mloflpoLmraTjgIHmnKrljrvph43jgIIiLAogICLnrKwgNTbigJM5NCDooYzmmK/mlL/nrZbmlofku7bliJfooajvvIzlhbEgMTAg5p2h77yM5q+P5p2h5Zu65a6a5oq95Ye6IDQg6KGM77ya5pel5pyf6KGM77yI5aaC44CMMjAyNTAzLTMx44CN77yJ77yP5qCH6aKY6KGM77yI5YiX6KGo5qCH6aKY77yM5pyr5bC+5LiA5b6L55So44CMLi4u44CN5oiq5pat77yJ77yP5Li76YCB5py65YWz6KGM77yP5pGY5b2V6KGM77yI5pyr5bC+55So44CMLi4uW+afpeeci+abtOWkml3jgI3miKrmlq3vvInjgILnrKwgNzbigJM3OCDooYzpgqPmnaHvvIjpgIDlvbnlo6vlhbXmlZnogrLln7norq3mjIflr7zmhI/op4HvvInlj6rmnIkgMyDooYzvvJrkuLvpgIHmnLrlhbPlvojplb/vvIzmkZjlvZXnm7TmjqXpu4/lnKjor6XooYzmnKvlsL7nmoTjgIwuLi5b5p+l55yL5pu05aSaXeOAje+8jOaVheivpeiKgiBjaGFycyDnlaXlpKfjgIIiLAogICLliJfooajpobnnmoTmoIfpopjmnKzouqvlsLHmmK/ljp/mloflsI/moIfpopjvvIzmlYUgMTAg5p2h5YiX6KGo6IqC55qEIGhlYWRpbmcg5YWo6YOo54Wn5oqE5qCH6aKY6KGM77yI5ZCr5pyr5bC+55qE44CMLi4u44CN77yJ77yMaGVhZGluZ19raW5kPWF1dGhvcu+8m+iKguWPt+WPluaXpeacn+ihjOWOn+aWh++8iOWOn+aWh+eahOaXpeacn+WGmeS9nOOAjDIwMjUwMy0zMeOAjei/meenjeOAjOW5tCvmnIgt5pel44CN5b2i5byP77yM5LiN5piv5qCH5YeG5pel5pyf77yJ44CCIiwKICAicHQtNDRhMzk5YTY3OSDnmoTokL3ngrnpnIDopoHor7TmmI7vvJrlroPnmoTlvJXmloflvIDlpLTjgIzlkITnnIHjgIHoh6rmsrvljLrjgIHnm7TovpbluILjgIHorqHliJLljZXliJfluILotKLmlL/ljoXvvIjlsYDvvInjgIHmlZnogrLljoXigKbjgI3lnKjnrKwgNTgg6KGM77yIMjAyNTAzLTMxIOmCo+adoeeahOS4u+mAgeacuuWFs++8ieS5n+mAkOWtl+WHuueOsO+8jOS9huaVtOadoeW8leaWh+aOpeeahOaYr+OAjOKApu+8iOWxgOOAgeaVmeWnlO+8ie+8jOacieWFs+mHkeiejeacuuaehO+8muagueaNruOAiui0ouaUv+mDqCDmlZnogrLpg6gg5Lq65rCR6ZO26KGMIOmTtuS/neebkeS8muWFs+S6jui/m+S4gOatpeWujOWWhOWbveWutuWKqeWtpui0t+asvuaUv+etlueahOmAmuefpeOAi+i0ouaVmeOAlDIwMjHjgJUxNjTlj7fopoHmsYLigKbjgI3vvIzlj6rkuI7nrKwgNzDigJM3MSDooYzvvIgyMDIyMDEtMDcg6YKj5p2h55qE5q2j5paH77yJ5a+55b6X5LiK77yM5pWF6JC95ZyoIDIwMjIwMS0wNyDoioLvvIzkuI3lnKggMjAyNTAzLTMxIOiKguOAgiIsCiAgIuesrCA5NeKAkzEwMyDooYzkuLrpobXohJrvvJrlhbPms6jlvq7kv6HlhazkvJflj7fvvI/op4bpopHlj7fjgIHogZTns7vmiJHku6zjgIHlhbPkuo7miJHku6zjgIHkvb/nlKjluK7liqnjgIHmlofmoaPkuIvovb3jgIHnrKwgMTAxIOihjOaui+eVmeeahCBIVE1MIOazqOmHiuespuOAjC0tPuOAjeOAgeeJiOadg+aJgOacieS4juWcsOWdgOOAgeS6rElDUOWkhzIwMjAwMzczMznlj7ctMe+8j+S6rOWFrOe9keWuieWkhzExMDQwMjQzMDExOO+8jOWQiOW5tuS4uuOAjOmhteiEmuOAjeS4gOiKguOAgiIsCiAgIuWOn+aWh+W8guW4uO+8muWIl+ihqOagh+mimOS4juaRmOW9leWdh+S7peOAjC4uLuOAjeaIluOAjC4uLlvmn6XnnIvmm7TlpJpd44CN5oiq5pat77yM6L+Z5piv56uZ54K55YiX6KGo6aG155qE5pGY6KaB5oiq5pat77yM5LiN5piv5pys5paH5oq95Y+W5LiN5a6M5pW077yI5q2j5paH6aG15LiN5Zyo5pys5paH5Lu277yJ77yM5pWFIHRydW5jYXRlZD1mYWxzZe+8m+mAmuevh+aXoOOAjOesrFjnq6DjgI3jgIznrKxY5p2h44CN44CCIiwKICAiMTQg5p2h5p2h55uu5LitIDEzIOadoeacieW8leaWh+OAgeWFqOmDqOiQveWcqOacrOaWh+WGhe+8iOaXoOi3qOaWh+S7tuW8leeUqO+8ie+8jDEg5p2h5Li65paH5qGj57qn6KeE5YiZ5p2h55uu77yI6KeB56ysIDEg5p2h6K+05piO77yJ77yb6aG16Z2i5Yiw56ysIDEwMyDooYzlpIfmoYjlj7fnu5PmnZ/vvIzmnKrop4HlkI7nu63lhoXlrrnjgIIiCiBdCn0K
+{
+ "key": "zz-zhengce",
+ "title": "全国学生资助管理中心 - 政策文件 - 高校学生资助",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "全国学生资助管理中心-政策文件-高校学生资助",
+   "heading_kind": "author",
+   "lines": [1, 6],
+   "items": ["rule-zz-zhengce", "pt-130a52097e", "pt-d05917afd2"],
+   "chars": 24
+  },
+  {
+   "no": "站点导航",
+   "heading": "中心介绍、政策文件与经验交流各栏目",
+   "heading_kind": "derived",
+   "lines": [7, 47],
+   "items": [],
+   "chars": 211
+  },
+  {
+   "no": "栏目标签",
+   "heading": "政策文件下的学段栏目切换标签",
+   "heading_kind": "derived",
+   "lines": [48, 55],
+   "items": ["pt-a4746af9fc"],
+   "chars": 48
+  },
+  {
+   "no": "202503-31",
+   "heading": "财政部、教育部等四部门印发《关于做好2025年国家助学贷款免息及本金延期偿还...",
+   "heading_kind": "author",
+   "lines": [56, 59],
+   "items": [],
+   "chars": 185
+  },
+  {
+   "no": "202411-06",
+   "heading": "财政部 教育部 中国人民银行 金融监管总局关于调整完善国家助学贷款有关政策的...",
+   "heading_kind": "author",
+   "lines": [60, 63],
+   "items": ["pt-0d964a5e2d"],
+   "chars": 185
+  },
+  {
+   "no": "202410-29",
+   "heading": "财政部 教育部 人力资源社会保障部关于调整高等教育阶段和高中阶段国家奖助学金...",
+   "heading_kind": "author",
+   "lines": [64, 67],
+   "items": ["pt-f9f1ae8505"],
+   "chars": 187
+  },
+  {
+   "no": "202201-07",
+   "heading": "关于印发《生源地信用助学贷款风险补偿金管理办法》的通知（财教〔2022〕1号...",
+   "heading_kind": "author",
+   "lines": [68, 71],
+   "items": ["pt-defb6fb26c", "pt-44a399a679"],
+   "chars": 187
+  },
+  {
+   "no": "202110-22",
+   "heading": "财政部 教育部 人民银行 银保监会关于进一步完善国家助学贷款政策的通知(财教...",
+   "heading_kind": "author",
+   "lines": [72, 75],
+   "items": ["pt-1b6938b24c"],
+   "chars": 185
+  },
+  {
+   "no": "202110-21",
+   "heading": "退役军人事务部等七部门关于全面做好退役士兵教育培训工作的指导意见(退役军人部...",
+   "heading_kind": "author",
+   "lines": [76, 78],
+   "items": ["pt-119783d352"],
+   "chars": 189
+  },
+  {
+   "no": "202007-27",
+   "heading": "教育部 财政部 中国人民银行 银保监会关于调整完善国家助学贷款有关政策...",
+   "heading_kind": "author",
+   "lines": [79, 82],
+   "items": ["pt-3f13a677e1"],
+   "chars": 184
+  },
+  {
+   "no": "201910-09",
+   "heading": "教育部 财政部关于印发《本专科生国家奖学金评审办法》的通知(教财函〔2019...",
+   "heading_kind": "author",
+   "lines": [83, 86],
+   "items": ["pt-6608efcd90"],
+   "chars": 185
+  },
+  {
+   "no": "201907-16",
+   "heading": "财政部 教育部关于调整职业院校奖助学金政策的通知（财教〔2019〕25号）",
+   "heading_kind": "author",
+   "lines": [87, 90],
+   "items": ["pt-d429ecdd37"],
+   "chars": 181
+  },
+  {
+   "no": "201901-16",
+   "heading": "教育部 财政部关于印发《普通高等学校研究生国家奖学金评审办法》的通知(教财〔...",
+   "heading_kind": "author",
+   "lines": [91, 94],
+   "items": ["pt-aaadc6a61e"],
+   "chars": 185
+  },
+  {
+   "no": "页脚",
+   "heading": "公众号关注、联系我们与备案号",
+   "heading_kind": "derived",
+   "lines": [95, 103],
+   "items": [],
+   "chars": 102
+  }
+ ],
+ "items": ["rule-zz-zhengce", "pt-130a52097e", "pt-d05917afd2", "pt-a4746af9fc", "pt-0d964a5e2d", "pt-f9f1ae8505", "pt-defb6fb26c", "pt-44a399a679", "pt-1b6938b24c", "pt-119783d352", "pt-3f13a677e1", "pt-6608efcd90", "pt-d429ecdd37", "pt-aaadc6a61e"],
+ "notes": [
+  "规则条目 rule-zz-zhengce（「高校学生资助·政策文件（全国学生资助管理中心）」）没有任何引文，属文档级条目，已列进文档级 items 并放进首节（节号「—」），本节同时装站点标题与当前栏目名两条。",
+  "网页抽取：第 1–5 行是站点标题的连写「全国学生资助管理中心 - 政策文件 - 高校学生资助」（两个「-」各占一行，第 6 行是「搜索」输入框占位），合为首节；首节 heading 用原文那三个片段加半角连字符拼成，能在第 1–5 行逐字找到，故标 author。",
+  "第 7–47 行是整站导航（首页／中心介绍／工作动态／政策文件／政策简介／经验交流／理论探讨／专题片／信息系统共九组，逐条抽出）＋「您现在的位置：」面包屑（首页 > 政策文件 > 高校学生资助，每个「>」各占一行），合并为「站点导航」一节。",
+  "第 48–55 行是列表上方的栏目标签行（政策文件／综合政策／学前教育资助／义务教育学生资助／普通高中学生资助／中职学生资助／高校学生资助），其中「高校学生资助」连续出现两次（第 54、55 行，标签＋当前选中项），原文如此、未去重。",
+  "第 56–94 行是政策文件列表，共 10 条，每条固定抽出 4 行：日期行（如「202503-31」）／标题行（列表标题，末尾一律用「...」截断）／主送机关行／摘录行（末尾用「...[查看更多]」截断）。第 76–78 行那条（退役士兵教育培训指导意见）只有 3 行：主送机关很长，摘录直接黏在该行末尾的「...[查看更多]」，故该节 chars 略大。",
+  "列表项的标题本身就是原文小标题，故 10 条列表节的 heading 全部照抄标题行（含末尾的「...」），heading_kind=author；节号取日期行原文（原文的日期写作「202503-31」这种「年+月-日」形式，不是标准日期）。",
+  "pt-44a399a679 的落点需要说明：它的引文开头「各省、自治区、直辖市、计划单列市财政厅（局）、教育厅…」在第 58 行（202503-31 那条的主送机关）也逐字出现，但整条引文接的是「…（局、教委），有关金融机构：根据《财政部 教育部 人民银行 银保监会关于进一步完善国家助学贷款政策的通知》财教〔2021〕164号要求…」，只与第 70–71 行（202201-07 那条的正文）对得上，故落在 202201-07 节，不在 202503-31 节。",
+  "第 95–103 行为页脚：关注微信公众号／视频号、联系我们、关于我们、使用帮助、文档下载、第 101 行残留的 HTML 注释符「-->」、版权所有与地址、京ICP备2020037339号-1／京公网安备110402430118，合并为「页脚」一节。",
+  "原文异常：列表标题与摘录均以「...」或「...[查看更多]」截断，这是站点列表页的摘要截断，不是本文抽取不完整（正文页不在本文件），故 truncated=false；通篇无「第X章」「第X条」。",
+  "14 条条目中 13 条有引文、全部落在本文内（无跨文件引用），1 条为文档级规则条目（见第 1 条说明）；页面到第 103 行备案号结束，未见后续内容。"
+ ]
+}

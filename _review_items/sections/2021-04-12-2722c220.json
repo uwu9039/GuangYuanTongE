@@ -1,1 +1,73 @@
-ew0KICJrZXkiOiAiMjAyMS0wNC0xMi0yNzIyYzIyMCIsDQogInRpdGxlIjogIuaguOahg+agoeWbreS4qOivt+WPq+aIkeaguOahg+KAnOWvvOiIquWQm+KAnSIsDQogInRydW5jYXRlZCI6IGZhbHNlLA0KICJzZWN0aW9ucyI6IFsNCiAgew0KICAgIm5vIjogIuW8gOevhyIsDQogICAiaGVhZGluZyI6ICLlvIDnr4flr7zor63vvJrluK7lsI/nmb3mnajov73mm7TmoKHlm63mnIDmlrDkv6Hmga/nmoTlha3kuKrluLjnlKjnvZHnq5kiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsxLCAxMF0sDQogICAiaXRlbXMiOiBbInB0LWUwNDBmYTE2ZWEiLCAicHQtMDI3ZmRjMTQ2ZSIsICJwdC04MjFkYjU1YjhmIiwgInB0LWJjZDA0NzZmMDQiXSwNCiAgICJjaGFycyI6IDIxNg0KICB9LA0KICB7DQogICAibm8iOiAi572R56uZ5LiAIiwNCiAgICJoZWFkaW5nIjogIuS4reWbveS8oOWqkuWkp+WtpuWumOe9kSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbMTEsIDE0XSwNCiAgICJpdGVtcyI6IFsicHQtNzg2YzMxN2MzNCIsICJwdC01ZDljZWRkMWUxIl0sDQogICAiY2hhcnMiOiAyNjMNCiAgfSwNCiAgew0KICAgIm5vIjogIue9keermeS6jCIsDQogICAiaGVhZGluZyI6ICLkuK3lm73kvKDlqpLlpKflrabkuJrliqHmnI3liqHkuK3lv4MiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWzE1LCAxOF0sDQogICAiaXRlbXMiOiBbInB0LTY4ZTQ4YjA3ZjMiXSwNCiAgICJjaGFycyI6IDI3NA0KICB9LA0KICB7DQogICAibm8iOiAi572R56uZ5LiJIiwNCiAgICJoZWFkaW5nIjogIuS4reWbveS8oOWqkuWkp+WtpuWbvuS5pummhiIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbMTksIDIyXSwNCiAgICJpdGVtcyI6IFsicHQtMjk1Mjk4OGJjYSIsICJwdC1kYmE1N2MzZWI3Il0sDQogICAiY2hhcnMiOiAzMDINCiAgfSwNCiAgew0KICAgIm5vIjogIue9keermeWbmyIsDQogICAiaGVhZGluZyI6ICLkuK3lm73kvKDlqpLlpKflrabnoJTnqbbnlJ/pmaLnvZHnq5kiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWzIzLCAyNl0sDQogICAiaXRlbXMiOiBbInB0LTM3Y2MwNTljMDMiXSwNCiAgICJjaGFycyI6IDMyMQ0KICB9LA0KICB7DQogICAibm8iOiAi572R56uZ5LqUIiwNCiAgICJoZWFkaW5nIjogIueglOeptueUn+mAieivvuezu+e7nyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbMjcsIDMwXSwNCiAgICJpdGVtcyI6IFsicHQtMDE2MmU5ZjczYyJdLA0KICAgImNoYXJzIjogMjk0DQogIH0sDQogIHsNCiAgICJubyI6ICLnvZHnq5nlha0iLA0KICAgImhlYWRpbmciOiAi5Lit5Zu95Lyg5aqS5aSn5a2m5ZCO5Yuk57u85ZCI5pyN5Yqh572RIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFszMSwgMzRdLA0KICAgIml0ZW1zIjogWyJwdC1lMjQxOTI5YzIxIiwgInB0LTRhMzAzZGYwYWEiXSwNCiAgICJjaGFycyI6IDI4Nw0KICB9LA0KICB7DQogICAibm8iOiAi57uT5bC+IiwNCiAgICJoZWFkaW5nIjogIue7k+WwvuWvvOivreOAgeaWh+Wtl+S4juaOkueJiOe9suWQjeOAgeaWh+acq+mFjeWbviIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWzM1LCA0MF0sDQogICAiaXRlbXMiOiBbInB0LWExMDE5M2M2NzkiLCAicHQtYjllMGI3NDRjZiJdLA0KICAgImNoYXJzIjogMjM0DQogIH0NCiBdLA0KICJpdGVtcyI6IFsicHQtZTA0MGZhMTZlYSIsICJwdC0wMjdmZGMxNDZlIiwgInB0LTgyMWRiNTViOGYiLCAicHQtYmNkMDQ3NmYwNCIsICJwdC03ODZjMzE3YzM0IiwgInB0LTVkOWNlZGQxZTEiLCAicHQtNjhlNDhiMDdmMyIsICJwdC0yOTUyOTg4YmNhIiwgInB0LWRiYTU3YzNlYjciLCAicHQtMzdjYzA1OWMwMyIsICJwdC0wMTYyZTlmNzNjIiwgInB0LWUyNDE5MjljMjEiLCAicHQtNGEzMDNkZjBhYSIsICJwdC1hMTAxOTNjNjc5IiwgInB0LWI5ZTBiNzQ0Y2YiXSwNCiAibm90ZXMiOiBbIuWFrOS8l+WPt+i9rOWGmeaWh+acrOayoeacieagh+mimOihjO+8jOesrCAx4oCTNCDooYzmmK/liIbooYzmjpLnmoTmoIfpopjlvI/lvIDnr4fvvIjjgIzlnKjkv6Hmga/ms5vmu6XnmoTku4rlpKnvvI/lsI/nmb3mnajku6zmnInmsqHmnInvvI/lm6DkuLrplJnov4fph43opoHkv6Hmga/vvI/mh4rmgbzkuI3lt7LnmoTml7blgJnjgI3vvInvvJvmlofmoaMgdGl0bGUg5Y+W6K+l5Y+35Y+R5biD5qCH6aKY44CM5qC45qGD5qCh5Zut5Lio6K+35Y+r5oiR5qC45qGD4oCc5a+86Iiq5ZCb4oCd44CN77yI6KeBIHNvdXJjZXMg57Si5byV77yJ77yM5q2j5paH6YeM5p+l5LiN5Yiw6L+Z5LiA5Liy44CCIiwgIuW8gOevh+iKgu+8iDHigJMxMCDooYzvvInvvJ0x4oCTNCDooYzliIbooYzlvIDnr4fvvIvnrKwgNSDooYzliqjlm77vvIs24oCTOSDooYzlr7zor63vvIvnrKwgMTAg6KGM44CM5b+r5p2l5LiA6LW355yL55yL5ZCn77yB44CN77yM5Zug5piv5YiG6KGM55+t5Y+l77yM5qCHIGRlcml2ZWTjgIIiLCAi5YWt5Liq572R56uZ5ZCE5oiQ5LiA6IqC77yIMTHigJMxNOOAgTE14oCTMTjjgIExOeKAkzIy44CBMjPigJMyNuOAgTI34oCTMzDjgIEzMeKAkzM0IOihjO+8ie+8muagh+mimOihjCDihpIg5oiq5Zu+6ZmE5Lu2IFVSTCDihpIg572R5Z2AIOKGkiDku4vnu43mrrXvvIzmoIfpopjooYzlnYfkuLrljp/mlofpgJDlrZfvvIzmlYUgaGVhZGluZ19raW5kPWF1dGhvcu+8jOS4jiBub++8iOe9keermeS4gOKApue9keermeWFre+8jOS4uuWumuS9jeeUqOe8luWPt++8ieS4jeWQjOOAgiIsICLnrKwgMzUg6KGM5piv57uT5bC+5a+86K+t77yI44CM6K6w5b6X5pS26JeP5Lul6Ziy6L+36Lev4oCm44CN77yJ77yMMzbigJMzNyDooYzmmK/jgIzil47mloflrZd86Z+m5Y2a6ZuF44CN44CM4peO5o6S54mIfOabueiVtOWkqeOAjee9suWQje+8jDM4IOihjOaWh+acq+mFjeWbvu+8jDM54oCTNDAg6KGM44CM6aKE6KeI5pe25qCH562+5LiN5Y+v54K577yP5LiN5Zac5qyi44CN5piv5YWs5LyX5Y+36aG16Z2i5q6L55WZ77yM5ZCI5bm25Li65LiA6IqC44CM57uT5bC+44CN44CCIiwgInB0LTAyN2ZkYzE0NmUg5LiOIHB0LWI5ZTBiNzQ0Y2Yg55qE5byV5paH6YO95piv5Zu+54mHIFVSTO+8iG1tYml6LnFwaWMuY24g55qEIGdpZi9qcGVnIOebtOmTvu+8ie+8jOWIhuWIq+iQveWcqOesrCA1IOihjOOAgeesrCAzOCDooYzmiYDlnKjnmoToioLjgIIiLCAiMTUg5p2h5p2h55uu5byV5paH5YWo6YOo6JC95Zyo5pys5paH5YaF77yM5peg6Leo5paH5Lu25byV55So77yb5q2j5paH5Yiw56ysIDQwIOihjOOAjOS4jeWWnOasouOAjee7k+adn++8iOWFrOS8l+WPt+mhtemdouWwvuW3tO+8ie+8jOWFreS4que9keermem9kOWFqO+8jHRydW5jYXRlZD1mYWxzZeOAgiJdDQp9DQo=
+{
+ "key": "2021-04-12-2722c220",
+ "title": "核桃校园丨请叫我核桃“导航君”",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "开篇",
+   "heading": "开篇导语：帮小白杨追更校园最新信息的六个常用网站",
+   "heading_kind": "derived",
+   "lines": [1, 10],
+   "items": ["pt-e040fa16ea", "pt-027fdc146e", "pt-821db55b8f", "pt-bcd0476f04"],
+   "chars": 216
+  },
+  {
+   "no": "网站一",
+   "heading": "中国传媒大学官网",
+   "heading_kind": "author",
+   "lines": [11, 14],
+   "items": ["pt-786c317c34", "pt-5d9cedd1e1"],
+   "chars": 263
+  },
+  {
+   "no": "网站二",
+   "heading": "中国传媒大学业务服务中心",
+   "heading_kind": "author",
+   "lines": [15, 18],
+   "items": ["pt-68e48b07f3"],
+   "chars": 274
+  },
+  {
+   "no": "网站三",
+   "heading": "中国传媒大学图书馆",
+   "heading_kind": "author",
+   "lines": [19, 22],
+   "items": ["pt-2952988bca", "pt-dba57c3eb7"],
+   "chars": 302
+  },
+  {
+   "no": "网站四",
+   "heading": "中国传媒大学研究生院网站",
+   "heading_kind": "author",
+   "lines": [23, 26],
+   "items": ["pt-37cc059c03"],
+   "chars": 321
+  },
+  {
+   "no": "网站五",
+   "heading": "研究生选课系统",
+   "heading_kind": "author",
+   "lines": [27, 30],
+   "items": ["pt-0162e9f73c"],
+   "chars": 294
+  },
+  {
+   "no": "网站六",
+   "heading": "中国传媒大学后勤综合服务网",
+   "heading_kind": "author",
+   "lines": [31, 34],
+   "items": ["pt-e241929c21", "pt-4a303df0aa"],
+   "chars": 287
+  },
+  {
+   "no": "结尾",
+   "heading": "结尾导语、文字与排版署名、文末配图",
+   "heading_kind": "derived",
+   "lines": [35, 40],
+   "items": ["pt-a10193c679", "pt-b9e0b744cf"],
+   "chars": 234
+  }
+ ],
+ "items": ["pt-e040fa16ea", "pt-027fdc146e", "pt-821db55b8f", "pt-bcd0476f04", "pt-786c317c34", "pt-5d9cedd1e1", "pt-68e48b07f3", "pt-2952988bca", "pt-dba57c3eb7", "pt-37cc059c03", "pt-0162e9f73c", "pt-e241929c21", "pt-4a303df0aa", "pt-a10193c679", "pt-b9e0b744cf"],
+ "notes": ["公众号转写文本没有标题行，第 1–4 行是分行排的标题式开篇（「在信息泛滥的今天／小白杨们有没有／因为错过重要信息／懊恼不已的时候」）；文档 title 取该号发布标题「核桃校园丨请叫我核桃“导航君”」（见 sources 索引），正文里查不到这一串。", "开篇节（1–10 行）＝1–4 行分行开篇＋第 5 行动图＋6–9 行导语＋第 10 行「快来一起看看吧！」，因是分行短句，标 derived。", "六个网站各成一节（11–14、15–18、19–22、23–26、27–30、31–34 行）：标题行 → 截图附件 URL → 网址 → 介绍段，标题行均为原文逐字，故 heading_kind=author，与 no（网站一…网站六，为定位用编号）不同。", "第 35 行是结尾导语（「记得收藏以防迷路…」），36–37 行是「◎文字|韦博雅」「◎排版|曹蕴天」署名，38 行文末配图，39–40 行「预览时标签不可点／不喜欢」是公众号页面残留，合并为一节「结尾」。", "pt-027fdc146e 与 pt-b9e0b744cf 的引文都是图片 URL（mmbiz.qpic.cn 的 gif/jpeg 直链），分别落在第 5 行、第 38 行所在的节。", "15 条条目引文全部落在本文内，无跨文件引用；正文到第 40 行「不喜欢」结束（公众号页面尾巴），六个网站齐全，truncated=false。"]
+}

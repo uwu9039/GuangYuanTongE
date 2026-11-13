@@ -1,1 +1,137 @@
-IiIi5LiA5qyh5oCn5oq95Y+W77ya5oyR5LiA57uE5pyJ5Luj6KGo5oCn55qE55yf5a6e5p2h55uu77yM5L6b5YmN56uv6aKE6KeI5pyN5Yqh5L2/55So44CCCgrlj6ror7vku5PlupPmoLnnm67lvZXnmoQgaXRlbXMuanNvbiAvIGNvbnRhY3RzLmpzb24gLyBwcmVzZXRzLmpzb24gLyBjYW1wdXMtbWFwLmpzb27vvIwK5LiN5pS55Yqo5a6D5Lus77yb5Lqn5Ye65YWo6YOo5YaZ5Zyo5pys55uu5b2V55qEIGZpeHR1cmVzLyDkuIvvvIzkvpsgbW9ja19zZXJ2ZXIucHkg5ZCv5Yqo5pe25Yqg6L2944CCCgrnlKjms5XvvIjku5PlupPmoLnnm67lvZXvvInvvJoKICAgIC52ZW52XFxTY3JpcHRzXFxweXRob24uZXhlIHdlYi1uZXh0XFxfcHJldmlld1xcYnVpbGRfZml4dHVyZXMucHkKIiIiCgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQganNvbgppbXBvcnQgc2h1dGlsCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAoKSEVSRSA9IFBhdGgoX19maWxlX18pLnJlc29sdmUoKS5wYXJlbnQKV0VCID0gSEVSRS5wYXJlbnQgICAgICAgICAgICAgICAgICMgd2ViLW5leHQvClJPT1QgPSBXRUIucGFyZW50ICAgICAgICAgICAgICAgICAjIOS7k+W6k+aguQpGSVggPSBIRVJFIC8gImZpeHR1cmVzIgoKIyDkuIDmnaHmnaHnm67nmoTjgIzkv6Hmga/ph4/jgI3vvJrlrZfmrrXotorlpJrjgIHmlbDnu4Totorplb/vvIzotorpgILlkIjlvZPorr7orqHmoLflvKAKUklDSF9GSUVMRFMgPSAoImxvY2F0aW9uIiwgImhvdXJzIiwgIndpbmRvdyIsICJmZWUiLCAiZHVyYXRpb24iLCAiYW5zd2VyIiwgIm5vdGUiLCAic3VtbWFyeSIsICJkcmFmdCIpClJJQ0hfTElTVFMgPSAoIm1hdGVyaWFscyIsICJzdGVwcyIsICJwaXRmYWxscyIsICJjaGFubmVsIiwgImV4cGVyaWVuY2UiLCAiYWR2aXNvcnkiLCAicmVxdWlyZSIpCgoKZGVmIHJpY2huZXNzKGl0OiBkaWN0KSAtPiBpbnQ6CiAgICBuID0gMAogICAgZm9yIGsgaW4gUklDSF9MSVNUUzoKICAgICAgICBuICs9IGxlbihpdC5nZXQoaykgb3IgW10pCiAgICBmb3IgayBpbiBSSUNIX0ZJRUxEUzoKICAgICAgICBpZiBpdC5nZXQoayk6CiAgICAgICAgICAgIG4gKz0gMgogICAgc3JjID0gaXQuZ2V0KCJzb3VyY2UiKQogICAgbiArPSBsZW4oc3JjKSBpZiBpc2luc3RhbmNlKHNyYywgbGlzdCkgZWxzZSAoMSBpZiBzcmMgZWxzZSAwKQogICAgbiArPSAyICogKGxlbihpdC5nZXQoInFyIikgb3IgW10pICsgbGVuKGl0LmdldCgicGRmIikgb3IgW10pKQogICAgcmV0dXJuIG4KCgpkZWYgc2xpbShpdDogZGljdCkgLT4gZGljdDoKICAgICIiIuWOu+aOieWvueeVjOmdouaXoOeUqOeahOmHjeWtl+aute+8jOmVv+aWh+acrOaIquaWre+8jOmBv+WFjSBmaXh0dXJlcyDov4flpKfjgIIiIiIKICAgIG91dCA9IHtrOiB2IGZvciBrLCB2IGluIGl0Lml0ZW1zKCkgaWYgayBub3QgaW4gKCJleGNsdWRlIiwgImV4Y2x1ZGVfZXhhY3QiKX0KICAgIGlmIGlzaW5zdGFuY2Uob3V0LmdldCgiZXZpZGVuY2UiKSwgZGljdCkgYW5kIGxlbihvdXRbImV2aWRlbmNlIl0pID4gNDA6CiAgICAgICAga2VlcCA9IGxpc3Qob3V0WyJldmlkZW5jZSJdLml0ZW1zKCkpWzo0MF0KICAgICAgICBvdXRbImV2aWRlbmNlIl0gPSBkaWN0KGtlZXApCgogICAgZGVmIGN1dCh2KToKICAgICAgICBpZiBpc2luc3RhbmNlKHYsIHN0cik6CiAgICAgICAgICAgIHJldHVybiB2IGlmIGxlbih2KSA8PSA5MDAgZWxzZSB2Wzo5MDBdICsgIuKApiIKICAgICAgICBpZiBpc2luc3RhbmNlKHYsIGxpc3QpOgogICAgICAgICAgICByZXR1cm4gW2N1dCh4KSBmb3IgeCBpbiB2XQogICAgICAgIGlmIGlzaW5zdGFuY2UodiwgZGljdCk6CiAgICAgICAgICAgIHJldHVybiB7azogY3V0KHgpIGZvciBrLCB4IGluIHYuaXRlbXMoKX0KICAgICAgICByZXR1cm4gdgoKICAgIHJldHVybiB7azogY3V0KHYpIGZvciBrLCB2IGluIG91dC5pdGVtcygpfQoKCmRlZiBtYWluKCkgLT4gTm9uZToKICAgIGRhdGEgPSBqc29uLmxvYWRzKChST09UIC8gIml0ZW1zLmpzb24iKS5yZWFkX3RleHQoZW5jb2Rpbmc9InV0Zi04IikpCiAgICBhbGxfaXRlbXM6IGxpc3RbZGljdF0gPSBkYXRhWyJpdGVtcyJdCgogICAgcGlja2VkOiBkaWN0W3N0ciwgZGljdF0gPSB7fQoKICAgIGRlZiB0YWtlKGl0ZW1zLCBjYXApOgogICAgICAgIG4gPSAwCiAgICAgICAgZm9yIGl0IGluIGl0ZW1zOgogICAgICAgICAgICBpZiBuID49IGNhcDoKICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgICAgIGlmIGl0WyJpZCJdIGluIHBpY2tlZDoKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIHBpY2tlZFtpdFsiaWQiXV0gPSBpdAogICAgICAgICAgICBuICs9IDEKCiAgICAjIDEpIOavj+enjeeJueauiue7k+aehOmDveimgeacie+8muWPjemXruanveOAgeS6jOe7tOeggeOAgemZhOS7tuOAgee7j+mqjOW4luOAgeW7uuiurgogICAgdGFrZShbaSBmb3IgaSBpbiBhbGxfaXRlbXMgaWYgaS5nZXQoInNsb3RzIildLCAyMikKICAgIHRha2UoW2kgZm9yIGkgaW4gYWxsX2l0ZW1zIGlmIGkuZ2V0KCJxciIpXSwgMTIpCiAgICB0YWtlKFtpIGZvciBpIGluIGFsbF9pdGVtcyBpZiBpLmdldCgicGRmIildLCAxMikKICAgIHRha2UoW2kgZm9yIGkgaW4gYWxsX2l0ZW1zIGlmIGkuZ2V0KCJleHBlcmllbmNlIikgb3IgaS5nZXQoImFkdmlzb3J5IildLCA2KQogICAgdGFrZShbaSBmb3IgaSBpbiBhbGxfaXRlbXMgaWYgaS5nZXQoImRyYWZ0IildLCAyKQogICAgIyAyKSDkv6Hmga/ph4/mnIDlpKfnmoTkuIDmibnvvJrmraPluLjnrZTmoYjljaHplb/ku4DkuYjmoLcKICAgIHRha2Uoc29ydGVkKGFsbF9pdGVtcywga2V5PXJpY2huZXNzLCByZXZlcnNlPVRydWUpLCAyNikKICAgICMgMykg54q25oCB5qC35pys77yadmVyaWZpZWQgLyBzb3VyY2UtdGhpbiAvIHBhcnRpYWwg5LiJ56eN5qCH562+CiAgICB0YWtlKFtpIGZvciBpIGluIGFsbF9pdGVtcyBpZiBpLmdldCgic3RhdHVzIikgPT0gInNvdXJjZS10aGluIl0sIDQpCiAgICB0YWtlKFtpIGZvciBpIGluIGFsbF9pdGVtcyBpZiBpLmdldCgic3RhdHVzIikgPT0gInBhcnRpYWwiXSwgMykKICAgICMgNCkg5p6B56uv5qCH6aKY77ya6LaF6ZW/5qCH6aKY44CB5Y2V6K+N5qCH6aKYIOKAlOKAlCDlvq7osIPmjpLniYjml7bmnIDlrrnmmJPooqvljovlnY/nmoTkuKTnsbsKICAgIHRha2Uoc29ydGVkKGFsbF9pdGVtcywga2V5PWxhbWJkYSBpOiBsZW4oaS5nZXQoInRpdGxlIikgb3IgIiIpLCByZXZlcnNlPVRydWUpLCAzKQogICAgdGFrZShzb3J0ZWQoYWxsX2l0ZW1zLCBrZXk9bGFtYmRhIGk6IGxlbihpLmdldCgidGl0bGUiKSBvciAiIikpLCA0KQogICAgIyA1KSDmsqHmnIkgc3RlcHMvbWF0ZXJpYWxzIOeahOOAjOiWhOadoeebruOAje+8muetlOahiOWNoeWPquWJqeS4gOS4pOauteaXtueahOagt+WtkAogICAgdGFrZShbaSBmb3IgaSBpbiBhbGxfaXRlbXMgaWYgbm90IGkuZ2V0KCJzdGVwcyIpIGFuZCBub3QgaS5nZXQoIm1hdGVyaWFscyIpXSwgNCkKCiAgICBpdGVtcyA9IFtzbGltKGkpIGZvciBpIGluIHBpY2tlZC52YWx1ZXMoKV0KICAgIEZJWC5ta2RpcihwYXJlbnRzPVRydWUsIGV4aXN0X29rPVRydWUpCiAgICAoRklYIC8gIml0ZW1zLmpzb24iKS53cml0ZV90ZXh0KAogICAgICAgIGpzb24uZHVtcHMoeyJ2ZXJzaW9uIjogZGF0YS5nZXQoInZlcnNpb24iKSwgInVwZGF0ZWQiOiBkYXRhLmdldCgidXBkYXRlZCIpLCAiaXRlbXMiOiBpdGVtc30sCiAgICAgICAgICAgICAgICAgICBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKSwKICAgICAgICBlbmNvZGluZz0idXRmLTgiLAogICAgKQoKICAgIGZvciBzcmMsIGRzdCBpbiAoKCJjb250YWN0cy5qc29uIiwgImNvbnRhY3RzLmpzb24iKSwKICAgICAgICAgICAgICAgICAgICAgKCJwcmVzZXRzLmpzb24iLCAicHJlc2V0cy5qc29uIiksCiAgICAgICAgICAgICAgICAgICAgICgiY2FtcHVzLW1hcC5qc29uIiwgImNhbXB1cy5qc29uIikpOgogICAgICAgIHNodXRpbC5jb3B5ZmlsZShST09UIC8gc3JjLCBGSVggLyBkc3QpCgogICAgbWV0YSA9IHsKICAgICAgICAidG90YWxfaXRlbXMiOiBsZW4oYWxsX2l0ZW1zKSwKICAgICAgICAidmVyaWZpZWQiOiBzdW0oMSBmb3IgaSBpbiBhbGxfaXRlbXMgaWYgaS5nZXQoInN0YXR1cyIpID09ICJ2ZXJpZmllZCIpLAogICAgICAgICJzb3VyY2VfdGhpbiI6IHN1bSgxIGZvciBpIGluIGFsbF9pdGVtcyBpZiBpLmdldCgic3RhdHVzIikgPT0gInNvdXJjZS10aGluIiksCiAgICAgICAgInBhcnRpYWwiOiBzdW0oMSBmb3IgaSBpbiBhbGxfaXRlbXMgaWYgaS5nZXQoInN0YXR1cyIpID09ICJwYXJ0aWFsIiksCiAgICAgICAgImZhY3RzIjogc3VtKGxlbihpLmdldCgiZXZpZGVuY2UiKSBvciB7fSkgZm9yIGkgaW4gYWxsX2l0ZW1zKSwKICAgICAgICAiZGF0YV92ZXJzaW9uIjogZGF0YS5nZXQoInZlcnNpb24iKSwKICAgICAgICAiZGF0YV91cGRhdGVkIjogZGF0YS5nZXQoInVwZGF0ZWQiKSwKICAgICAgICAiZml4dHVyZV9pdGVtcyI6IGxlbihpdGVtcyksCiAgICB9CiAgICAjIOmhtuagj+mCo+ihjOe7n+iuoe+8iOS6i+mhuSAvIOW3suaguOmqjCAvIOWOn+aWh+S7veaVsO+8ieimgei3n+ecn+W6k+WvueW+l+S4iu+8jOWQpuWImemihOiniOmHjOaVsOWtl+aYryAwCiAgICBjb3JwdXMgPSBST09UIC8gInNvdXJjZXMiIC8gImNvcnB1cy1pbmRleC5qc29uIgogICAgaWYgY29ycHVzLmV4aXN0cygpOgogICAgICAgIHRyeToKICAgICAgICAgICAgbWV0YVsic291cmNlcyJdID0gbGVuKGpzb24ubG9hZHMoY29ycHVzLnJlYWRfdGV4dChlbmNvZGluZz0idXRmLTgiKSkpCiAgICAgICAgZXhjZXB0IChqc29uLkpTT05EZWNvZGVFcnJvciwgVW5pY29kZURlY29kZUVycm9yKToKICAgICAgICAgICAgcGFzcwogICAgbWFuaWZlc3QgPSBST09UIC8gInNvdXJjZXMiIC8gInZlY3RvciIgLyAibWFuaWZlc3QuanNvbiIKICAgIGlmIG1hbmlmZXN0LmV4aXN0cygpOgogICAgICAgIHRyeToKICAgICAgICAgICAgbWYgPSBqc29uLmxvYWRzKG1hbmlmZXN0LnJlYWRfdGV4dChlbmNvZGluZz0idXRmLTgiKSkKICAgICAgICAgICAgbWV0YVsidmVjdG9yX3NvdXJjZXMiXSA9IG1mLmdldCgic291cmNlcyIsIDApCiAgICAgICAgICAgIG1ldGFbInZlY3Rvcl9jaHVua3MiXSA9IG1mLmdldCgiY2h1bmtzIiwgMCkKICAgICAgICBleGNlcHQgKGpzb24uSlNPTkRlY29kZUVycm9yLCBVbmljb2RlRGVjb2RlRXJyb3IpOgogICAgICAgICAgICBwYXNzCiAgICAoRklYIC8gIm1ldGEuanNvbiIpLndyaXRlX3RleHQoanNvbi5kdW1wcyhtZXRhLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKSwgZW5jb2Rpbmc9InV0Zi04IikKCiAgICBwcmludChmImZpeHR1cmVzOiB7bGVuKGl0ZW1zKX0g5p2h5qC35pysIC8g5YWo5bqTIHtsZW4oYWxsX2l0ZW1zKX0g5p2hIOKGkiB7RklYfSIpCiAgICBmb3IgaXQgaW4gaXRlbXNbOjZdOgogICAgICAgIHByaW50KCIgIC0iLCBpdFsiaWQiXSwgInwiLCAoaXQuZ2V0KCJ0aXRsZSIpIG9yICIiKVs6MzhdKQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBtYWluKCkK
+"""一次性抽取：挑一组有代表性的真实条目，供前端预览服务使用。
+
+只读仓库根目录的 items.json / contacts.json / presets.json / campus-map.json，
+不改动它们；产出全部写在本目录的 fixtures/ 下，供 mock_server.py 启动时加载。
+
+用法（仓库根目录）：
+    .venv\\Scripts\\python.exe web-next\\_preview\\build_fixtures.py
+"""
+
+from __future__ import annotations
+
+import json
+import shutil
+from pathlib import Path
+
+HERE = Path(__file__).resolve().parent
+WEB = HERE.parent                 # web-next/
+ROOT = WEB.parent                 # 仓库根
+FIX = HERE / "fixtures"
+
+# 一条条目的「信息量」：字段越多、数组越长，越适合当设计样张
+RICH_FIELDS = ("location", "hours", "window", "fee", "duration", "answer", "note", "summary", "draft")
+RICH_LISTS = ("materials", "steps", "pitfalls", "channel", "experience", "advisory", "require")
+
+
+def richness(it: dict) -> int:
+    n = 0
+    for k in RICH_LISTS:
+        n += len(it.get(k) or [])
+    for k in RICH_FIELDS:
+        if it.get(k):
+            n += 2
+    src = it.get("source")
+    n += len(src) if isinstance(src, list) else (1 if src else 0)
+    n += 2 * (len(it.get("qr") or []) + len(it.get("pdf") or []))
+    return n
+
+
+def slim(it: dict) -> dict:
+    """去掉对界面无用的重字段，长文本截断，避免 fixtures 过大。"""
+    out = {k: v for k, v in it.items() if k not in ("exclude", "exclude_exact")}
+    if isinstance(out.get("evidence"), dict) and len(out["evidence"]) > 40:
+        keep = list(out["evidence"].items())[:40]
+        out["evidence"] = dict(keep)
+
+    def cut(v):
+        if isinstance(v, str):
+            return v if len(v) <= 900 else v[:900] + "…"
+        if isinstance(v, list):
+            return [cut(x) for x in v]
+        if isinstance(v, dict):
+            return {k: cut(x) for k, x in v.items()}
+        return v
+
+    return {k: cut(v) for k, v in out.items()}
+
+
+def main() -> None:
+    data = json.loads((ROOT / "items.json").read_text(encoding="utf-8"))
+    all_items: list[dict] = data["items"]
+
+    picked: dict[str, dict] = {}
+
+    def take(items, cap):
+        n = 0
+        for it in items:
+            if n >= cap:
+                break
+            if it["id"] in picked:
+                continue
+            picked[it["id"]] = it
+            n += 1
+
+    # 1) 每种特殊结构都要有：反问槽、二维码、附件、经验帖、建议
+    take([i for i in all_items if i.get("slots")], 22)
+    take([i for i in all_items if i.get("qr")], 12)
+    take([i for i in all_items if i.get("pdf")], 12)
+    take([i for i in all_items if i.get("experience") or i.get("advisory")], 6)
+    take([i for i in all_items if i.get("draft")], 2)
+    # 2) 信息量最大的一批：正常答案卡长什么样
+    take(sorted(all_items, key=richness, reverse=True), 26)
+    # 3) 状态样本：verified / source-thin / partial 三种标签
+    take([i for i in all_items if i.get("status") == "source-thin"], 4)
+    take([i for i in all_items if i.get("status") == "partial"], 3)
+    # 4) 极端标题：超长标题、单词标题 —— 微调排版时最容易被压坏的两类
+    take(sorted(all_items, key=lambda i: len(i.get("title") or ""), reverse=True), 3)
+    take(sorted(all_items, key=lambda i: len(i.get("title") or "")), 4)
+    # 5) 没有 steps/materials 的「薄条目」：答案卡只剩一两段时的样子
+    take([i for i in all_items if not i.get("steps") and not i.get("materials")], 4)
+
+    items = [slim(i) for i in picked.values()]
+    FIX.mkdir(parents=True, exist_ok=True)
+    (FIX / "items.json").write_text(
+        json.dumps({"version": data.get("version"), "updated": data.get("updated"), "items": items},
+                   ensure_ascii=False, indent=1),
+        encoding="utf-8",
+    )
+
+    for src, dst in (("contacts.json", "contacts.json"),
+                     ("presets.json", "presets.json"),
+                     ("campus-map.json", "campus.json")):
+        shutil.copyfile(ROOT / src, FIX / dst)
+
+    meta = {
+        "total_items": len(all_items),
+        "verified": sum(1 for i in all_items if i.get("status") == "verified"),
+        "source_thin": sum(1 for i in all_items if i.get("status") == "source-thin"),
+        "partial": sum(1 for i in all_items if i.get("status") == "partial"),
+        "facts": sum(len(i.get("evidence") or {}) for i in all_items),
+        "data_version": data.get("version"),
+        "data_updated": data.get("updated"),
+        "fixture_items": len(items),
+    }
+    # 顶栏那行统计（事项 / 已核验 / 原文份数）要跟真库对得上，否则预览里数字是 0
+    corpus = ROOT / "sources" / "corpus-index.json"
+    if corpus.exists():
+        try:
+            meta["sources"] = len(json.loads(corpus.read_text(encoding="utf-8")))
+        except (json.JSONDecodeError, UnicodeDecodeError):
+            pass
+    manifest = ROOT / "sources" / "vector" / "manifest.json"
+    if manifest.exists():
+        try:
+            mf = json.loads(manifest.read_text(encoding="utf-8"))
+            meta["vector_sources"] = mf.get("sources", 0)
+            meta["vector_chunks"] = mf.get("chunks", 0)
+        except (json.JSONDecodeError, UnicodeDecodeError):
+            pass
+    (FIX / "meta.json").write_text(json.dumps(meta, ensure_ascii=False, indent=1), encoding="utf-8")
+
+    print(f"fixtures: {len(items)} 条样本 / 全库 {len(all_items)} 条 → {FIX}")
+    for it in items[:6]:
+        print("  -", it["id"], "|", (it.get("title") or "")[:38])
+
+
+if __name__ == "__main__":
+    main()

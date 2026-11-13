@@ -1,1 +1,58 @@
-IiIi56ys5LqM6L2u5YmN56uvL+mTvui3r+mqjOaUtu+8muaXoOiuoeWIkuWtpumZouOAgeekuuS+i+mXruazleOAgeWkjeWQiOmimOOAgei9rOS4k+S4muiuoeWIkuW5tOS7veOAggoKICAgIHB5dGhvbiB0b29scy9wcm9iZV9hc2sucHkKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBqc29uCmltcG9ydCB1cmxsaWIucGFyc2UKaW1wb3J0IHVybGxpYi5yZXF1ZXN0CgpCQVNFID0gImh0dHA6Ly8xMjcuMC4wLjE6Nzg2MCIKCgpkZWYgYXNrKHRleHQ6IHN0ciwgc3ludGg6IGJvb2wgPSBUcnVlKSAtPiBkaWN0OgogICAgcmVxID0gdXJsbGliLnJlcXVlc3QuUmVxdWVzdCgKICAgICAgICBCQVNFICsgIi9hcGkvYXNrIiwKICAgICAgICBkYXRhPWpzb24uZHVtcHMoeyJ0ZXh0IjogdGV4dCwgInJvdXRlcl9sbG0iOiBGYWxzZSwgInN5bnRoIjogc3ludGh9KS5lbmNvZGUoKSwKICAgICAgICBoZWFkZXJzPXsiQ29udGVudC1UeXBlIjogImFwcGxpY2F0aW9uL2pzb24ifSwgbWV0aG9kPSJQT1NUIikKICAgIHdpdGggdXJsbGliLnJlcXVlc3QudXJsb3BlbihyZXEsIHRpbWVvdXQ9MzAwKSBhcyByOgogICAgICAgIHJldHVybiBqc29uLmxvYWRzKHIucmVhZCgpLmRlY29kZSgidXRmLTgiKSkKCgpkZWYgbGluZSh0YWc6IHN0ciwgcTogc3RyLCBkOiBkaWN0KSAtPiBOb25lOgogICAgcGxhbiA9IChkLmdldCgicGxhbiIpIG9yIHt9KS5nZXQoImNvbGxlZ2UiKSBvciAiLSIKICAgIHByaW50KGYiICB7dGFnOjEwc30ge3FbOjI2XToyOHN9IHBsYW49e3BsYW5bOjEyXToxM3N9IG5vX3BsYW49e3N0cihkLmdldCgncGxhbl9ub19maWxlJykpOjVzfSAiCiAgICAgICAgICBmInN5bnRoPXsn5pyJJyBpZiBkLmdldCgnc3ludGgnKSBlbHNlICfml6AnfSBtYXRjaGVkPXtzdHIoZC5nZXQoJ21hdGNoZWQnKSk6NXN9ICIKICAgICAgICAgIGYifCB7KGQuZ2V0KCdub3JtYWxpemVkJykgb3IgJycpWzozNF19IikKCgpkZWYgbWFpbigpIC0+IE5vbmU6CiAgICBwcmludCgiPT0g5pyJ6K6h5YiS55qE5a2m6Zmi77yI5bqU5Ye65pW056+H6K6h5YiS77yM5LiN6LWw6K+t6KiA57uE57uH77yJIikKICAgIGZvciBxIGluICgi6L2s5LiT5Lia5Yiw5L+h5oGv5LiO6YCa5L+h5bel56iL5a2m6ZmiIiwgIuaWsOmXu+WtpumZoui9rOS4k+S4muaOpeaUtuiuoeWIkiIpOgogICAgICAgIGxpbmUoInBsYW4iLCBxLCBhc2socSkpCgogICAgcHJpbnQoIlxuPT0g5rKh5pyJ6K6h5YiS55qE5a2m6Zmi77yI5bqU57uZ44CM5pqC5peg5o6l5pS26K6h5YiS44CN55qE6K+05piO77yM5LiN57yW77yJIikKICAgIGZvciBxIGluICgi6L2s5LiT5Lia5Yiw6ams5YWL5oCd5Li75LmJ5a2m6ZmiIiwgIui9rOS4k+S4muWIsOS9k+iCsumDqCIsICLovazkuJPkuJrliLDlm73pmYXkvKDlqpLmlZnogrLlrabpmaIiKToKICAgICAgICBkID0gYXNrKHEpCiAgICAgICAgbGluZSgibm9fcGxhbiIsIHEsIGQpCiAgICAgICAgaWYgZC5nZXQoIm5vdGUiKToKICAgICAgICAgICAgcHJpbnQoZiIgICAgICAgICAgICAg6K+05piO77yae3N0cihkWydub3RlJ10pWzo4MF19IikKCiAgICBwcmludCgiXG49PSDnpLrkvovpl67ms5XvvIjlupTnm7TmjqXnrZTvvIzkuI3otbDor63oqIDnu4Tnu4fvvIkiKQogICAgZm9yIHEgaW4gKCLooaXpgInor77opoHluKbku4DkuYgiLCAi5qCh5Y2h5oCO5LmI6KGl5YqeIiwgIjQ45pWZ5Zyo5ZOqIiwgIuWlluWtpumHkeaAjuS5iOeUs+ivtyIpOgogICAgICAgIGxpbmUoInByZXNldCIsIHEsIGFzayhxKSkKCiAgICBwcmludCgiXG49PSDpnZ7npLrkvovnmoTlpI3lkIjpopjvvIjlupTotbDor63oqIDnu4Tnu4fvvIkiKQogICAgZCA9IGFzaygi6K6w6L+H5aSE5YiG5Yiw5pyf5LqG77yM6IO96K+E5aWW5a2m6YeR5ZCX77yf6IO95L+d56CU5ZCX77yfIikKICAgIHMgPSBkLmdldCgic3ludGgiKSBvciB7fQogICAgbGluZSgiY29tcG91bmQiLCAi6K6w6L+H5aSE5YiG5Yiw5pyf5LqG77yM6IO96K+E5aWW5a2m6YeR5ZCX77yf6IO95L+d56CU5ZCX77yfIiwgZCkKICAgIHByaW50KGYiICAgIHByZW1pc2VzPXtsZW4ocy5nZXQoJ3ByZW1pc2VzJykgb3IgW10pfSBsYXllcnM9e2xlbihzLmdldCgnbGF5ZXJzJykgb3IgW10pfSIpCgogICAgcHJpbnQoIlxuPT0g6K6h5YiS5bm05Lu96L+b5LqG44CM55CG6Kej5oiQ44CN6YKj5LiA6KGMIikKICAgIGQgPSBhc2soIui9rOS4k+S4muWIsOS/oeaBr+S4jumAmuS/oeW3peeoi+WtpumZoiIpCiAgICBwcmludCgiICAgIiwgZC5nZXQoIm5vcm1hbGl6ZWQiKSkKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==
+"""第二轮前端/链路验收：无计划学院、示例问法、复合题、转专业计划年份。
+
+    python tools/probe_ask.py
+"""
+from __future__ import annotations
+
+import json
+import urllib.parse
+import urllib.request
+
+BASE = "http://127.0.0.1:7860"
+
+
+def ask(text: str, synth: bool = True) -> dict:
+    req = urllib.request.Request(
+        BASE + "/api/ask",
+        data=json.dumps({"text": text, "router_llm": False, "synth": synth}).encode(),
+        headers={"Content-Type": "application/json"}, method="POST")
+    with urllib.request.urlopen(req, timeout=300) as r:
+        return json.loads(r.read().decode("utf-8"))
+
+
+def line(tag: str, q: str, d: dict) -> None:
+    plan = (d.get("plan") or {}).get("college") or "-"
+    print(f"  {tag:10s} {q[:26]:28s} plan={plan[:12]:13s} no_plan={str(d.get('plan_no_file')):5s} "
+          f"synth={'有' if d.get('synth') else '无'} matched={str(d.get('matched')):5s} "
+          f"| {(d.get('normalized') or '')[:34]}")
+
+
+def main() -> None:
+    print("== 有计划的学院（应出整篇计划，不走语言组织）")
+    for q in ("转专业到信息与通信工程学院", "新闻学院转专业接收计划"):
+        line("plan", q, ask(q))
+
+    print("\n== 没有计划的学院（应给「暂无接收计划」的说明，不编）")
+    for q in ("转专业到马克思主义学院", "转专业到体育部", "转专业到国际传媒教育学院"):
+        d = ask(q)
+        line("no_plan", q, d)
+        if d.get("note"):
+            print(f"             说明：{str(d['note'])[:80]}")
+
+    print("\n== 示例问法（应直接答，不走语言组织）")
+    for q in ("补选课要带什么", "校卡怎么补办", "48教在哪", "奖学金怎么申请"):
+        line("preset", q, ask(q))
+
+    print("\n== 非示例的复合题（应走语言组织）")
+    d = ask("记过处分到期了，能评奖学金吗？能保研吗？")
+    s = d.get("synth") or {}
+    line("compound", "记过处分到期了，能评奖学金吗？能保研吗？", d)
+    print(f"    premises={len(s.get('premises') or [])} layers={len(s.get('layers') or [])}")
+
+    print("\n== 计划年份进了「理解成」那一行")
+    d = ask("转专业到信息与通信工程学院")
+    print("   ", d.get("normalized"))
+
+
+if __name__ == "__main__":
+    main()

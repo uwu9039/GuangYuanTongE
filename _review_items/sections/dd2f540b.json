@@ -1,1 +1,164 @@
-ewogImtleSI6ICJkZDJmNTQwYiIsCiAidGl0bGUiOiAi5oub55Sf5aSE44CQMjAyM+OAkTAwOSDlj7cg5YWz5LqO5byA5bGVIDIwMjMg57qn5paw55Sf5YWl5a2m6LWE5qC85aSN5p+l5bel5L2c55qE6YCa55+lIiwKICJ0cnVuY2F0ZWQiOiBmYWxzZSwKICJzZWN0aW9ucyI6IFsKICB7CiAgICJubyI6ICLmloflpLQiLAogICAiaGVhZGluZyI6ICLmloflj7fkuI7pgJrnn6XmoIfpopgiLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbMSwgMl0sCiAgICJpdGVtcyI6IFsicnVsZS1kZDJmNTQwYiJdLAogICAiY2hhcnMiOiAzNQogIH0sCiAgewogICAibm8iOiAi5a+86K+tIiwKICAgImhlYWRpbmciOiAi5Yi25a6a5L6d5o2u5LiO6YCa55+l5LqL55SxIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzMsIDddLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogMTQ0CiAgfSwKICB7CiAgICJubyI6ICLkuIDjgIEiLAogICAiaGVhZGluZyI6ICLnu4Tnu4fpooblr7wiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs4LCAxN10sCiAgICJpdGVtcyI6IFsicHQtNjkwMDQ0ZmQ1ZSIsICJwdC0yZGNlOWZhNGQzIl0sCiAgICJjaGFycyI6IDIyNgogIH0sCiAgewogICAibm8iOiAi5LqM44CBIiwKICAgImhlYWRpbmciOiAi5aSN5p+l5a+56LGhIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbMTgsIDIyXSwKICAgIml0ZW1zIjogWyJwdC0xYzY0MWQ4NTUyIl0sCiAgICJjaGFycyI6IDEwMAogIH0sCiAgewogICAibm8iOiAi5LiJ44CBIiwKICAgImhlYWRpbmciOiAi6LWE5qC85aSN5p+l5bel5L2c5Li76KaB5YaF5a655Y+K6IGU57O75Lq6IiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbMjMsIDEwNV0sCiAgICJpdGVtcyI6IFsicHQtOGFhY2FhZDM1YiJdLAogICAiY2hhcnMiOiAxODkxCiAgfSwKICB7CiAgICJubyI6ICIxLiIsCiAgICJoZWFkaW5nIjogIuS4u+imgeW3peS9nOWGheWuuSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzI0LCA5N10sCiAgICJpdGVtcyI6IFtdLAogICAiY2hhcnMiOiAxNzA1CiAgfSwKICB7CiAgICJubyI6ICIoMSkiLAogICAiaGVhZGluZyI6ICLlvZXlj5bmiYvnu63lj4rnqIvluo/vvIjlkKvlvZXlj5botYTmoLzvvInlpI3mn6UiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsyNSwgMjhdLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogODkKICB9LAogIHsKICAgIm5vIjogIigyKSIsCiAgICJoZWFkaW5nIjogIuaWsOeUn+S/oeaBr+mHh+mbhiIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzI5LCAzM10sCiAgICJpdGVtcyI6IFsicHQtNDQ5MWVlMzUxNSJdLAogICAiY2hhcnMiOiA5MwogIH0sCiAgewogICAibm8iOiAiKDMpIiwKICAgImhlYWRpbmciOiAi5paw55Sf6Lqr5Lu95L+h5oGv5qC45p+lIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbMzQsIDQzXSwKICAgIml0ZW1zIjogWyJwdC1hZDIyMTFkNWIxIiwgInB0LTJjZDljYTE4NjYiXSwKICAgImNoYXJzIjogMjQwCiAgfSwKICB7CiAgICJubyI6ICIoNCkiLAogICAiaGVhZGluZyI6ICLmlrDnlJ/kurrlg4/mr5Tlr7nmn6XpqowiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs0NCwgNDldLAogICAiaXRlbXMiOiBbInB0LTdhNGEwYjhjMmEiXSwKICAgImNoYXJzIjogMTI3CiAgfSwKICB7CiAgICJubyI6ICIoNSkiLAogICAiaGVhZGluZyI6ICLpq5jogIPliqDliIblj4rlm73lrrbkuJPpobnjgIHpq5jmoKHkuJPpobnorqHliJLotYTmoLzlpI3lrqEiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs1MCwgNTVdLAogICAiaXRlbXMiOiBbInB0LWIzZTlhNmJhNjAiXSwKICAgImNoYXJzIjogMTM1CiAgfSwKICB7CiAgICJubyI6ICIoNikiLAogICAiaGVhZGluZyI6ICLoibrmnK/nsbvmnKznp5HkuJPkuJrlpI3mtYsiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs1NiwgNjJdLAogICAiaXRlbXMiOiBbInB0LWQzMzViOGE0YmEiXSwKICAgImNoYXJzIjogMTU3CiAgfSwKICB7CiAgICJubyI6ICIoNykiLAogICAiaGVhZGluZyI6ICLnoJTnqbbnlJ/lrabljoblrabkvY3mnZDmlpnlrqHmoLjjgIHlrprlkJHljY/orq7kuabmlLblj5YiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs2MywgNzNdLAogICAiaXRlbXMiOiBbInB0LWZjZjFmNjQ0ZGEiLCAicHQtNzE4OTNiOWE2OCJdLAogICAiY2hhcnMiOiAyODUKICB9LAogIHsKICAgIm5vIjogIig4KSIsCiAgICJoZWFkaW5nIjogIuaWsOeUn+aho+ahiOaguOafpSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzc0LCA4NF0sCiAgICJpdGVtcyI6IFsicHQtOWE1ZTJlNmFlMiIsICJwdC0xYWE0OTRmNDUzIl0sCiAgICJjaGFycyI6IDI1NwogIH0sCiAgewogICAibm8iOiAiKDkpIiwKICAgImhlYWRpbmciOiAi5paw55Sf6Lqr5L2T5qOA5p+lIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbODUsIDk3XSwKICAgIml0ZW1zIjogWyJwdC1kN2IwMjk1MjFiIiwgInB0LWFmOGZiYzc4ZjMiXSwKICAgImNoYXJzIjogMzE0CiAgfSwKICB7CiAgICJubyI6ICIyLiIsCiAgICJoZWFkaW5nIjogIuiBlOezu+S6uuWPiuiBlOezu+aWueW8jyIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzk4LCAxMDVdLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogMTcwCiAgfSwKICB7CiAgICJubyI6ICLlm5vjgIEiLAogICAiaGVhZGluZyI6ICLotYTmoLzlpI3mn6Xlt6XkvZzmg4XlhrXmiqXpgIHopoHmsYIiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsxMDYsIDExMV0sCiAgICJpdGVtcyI6IFsicHQtYWExMjVkMWEyYSJdLAogICAiY2hhcnMiOiAxMzAKICB9LAogIHsKICAgIm5vIjogIumZhOS7tiIsCiAgICJoZWFkaW5nIjogIuS4pOS4qumZhOS7tuS4juiQveasviIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFsxMTIsIDExNl0sCiAgICJpdGVtcyI6IFsicHQtYWE1Y2UzYzg3ZCJdLAogICAiY2hhcnMiOiA4MgogIH0KIF0sCiAiaXRlbXMiOiBbInJ1bGUtZGQyZjU0MGIiLCAicHQtNjkwMDQ0ZmQ1ZSIsICJwdC0yZGNlOWZhNGQzIiwgInB0LTFjNjQxZDg1NTIiLCAicHQtOGFhY2FhZDM1YiIsICJwdC00NDkxZWUzNTE1IiwgInB0LWFkMjIxMWQ1YjEiLCAicHQtMmNkOWNhMTg2NiIsICJwdC03YTRhMGI4YzJhIiwgInB0LWIzZTlhNmJhNjAiLCAicHQtZDMzNWI4YTRiYSIsICJwdC1mY2YxZjY0NGRhIiwgInB0LTcxODkzYjlhNjgiLCAicHQtOWE1ZTJlNmFlMiIsICJwdC0xYWE0OTRmNDUzIiwgInB0LWQ3YjAyOTUyMWIiLCAicHQtYWY4ZmJjNzhmMyIsICJwdC1hYTEyNWQxYTJhIiwgInB0LWFhNWNlM2M4N2QiXSwKICJub3RlcyI6IFsKICAi56ysIDEg6KGM5Li65paH5Y+344CM5oub55Sf5aSE44CQMjAyM+OAkTAwOSDlj7fjgI3jgIHnrKwgMiDooYzkuLrpgJrnn6XmoIfpopjvvIjljZXooYzvvInvvIzlkIjkuLrjgIzmloflpLTjgI3kuIDoioLvvJtydWxlLWRkMmY1NDBiIOaYr+aWh+aho+e6p+adoeebru+8iOagh+mimOKJiOaWh+aho+WQje+8ie+8jOaXoOW8leaWh++8jOaMiee6puWumuWIl+i/m+aWh+aho+e6pyBpdGVtcyDlubbokL3lnKjmnKzoioLvvIjmpoLov7DoioLvvInvvIzmnKzoioLljbPlhbbokL3ngrnkvp3mja7jgIIiLAogICLnrKwgM+KAkzgg6KGM5piv5LiA5pW05Y+l5Yi25paH5L6d5o2u77yI5pWZ6IKy6YOo5Luk56ysIDQxIOWPt+OAgeaVmeWtplsyMDE0XTExIOWPt+OAgeWMl+S6rOW4guaVmeWnlOmAmuefpe+8ie+8i+OAjOeOsOWwhuKApumAmuefpeWmguS4i++8muOAjeOAgnB0LTY5MDA0NGZkNWUg55qE5byV5paH5LuO56ysIDgg6KGM5Lit5q616LW3566X77yI44CM57qn5ZCE5bGC5qyh5paw55Sf5YWl5a2m6LWE5qC85aSN5p+l5bel5L2c55u45YWz5LqL5a6c6YCa55+l5aaC5LiL77ya5LiA44CB57uE57uH6aKG5a+85a2m5qCh5a+5IDIwMjMg57qn4oCm44CN77yJ77yM6Leo6L+b44CM5LiA44CB44CN5qCH6aKY6KGM77yb5oyJ6IqC6aaW5Yik5o2u55qE5L6L5aSW5p2h5qy+77yM44CM5LiA44CB57uE57uH6aKG5a+844CN6IqC5LuO56ysIDgg6KGM6LW377yI5ZCr6L+Z5q615bC+5Y+l77yJ77yM5ZCm5YiZ6K+l5p2h5byV5paH6aaWIDI2IOWtl+aXoOWkhOWPr+iQve+8m+OAjOWvvOivreOAjeiKguWboOatpOaUtiAz4oCTNyDooYzjgIIiLAogICLmnKzmlofku7YqKuayoeaciemhteeggeihjCoq77yM5YWoIDExNiDooYzooqvlkIToioLlrozmlbTopobnm5bvvIzml6Dopobnm5bnqbrpmpnjgIIiLAogICLjgIzkuIDjgIHjgI3igJTjgIzlm5vjgIHjgI3lm5vkuKrlsI/moIfpopjmmK/ljp/mlofoh6rluKbvvIhhdXRob3LvvIzpgJDlrZflj6/mn6XvvInvvJvjgIzkuInjgIHjgI3mmK/niLboioLvvIgyM+KAkzEwNSDooYzvvInvvIzlhbbkuIvjgIwxLuS4u+imgeW3peS9nOWGheWuueOAje+8iDI04oCTOTcg6KGM77yM5YaF5ZCrICgxKeKAlCg5KSDkuZ3kuKrlsI/pobnvvInkuI7jgIwyLuiBlOezu+S6uuWPiuiBlOezu+aWueW8j+OAje+8iDk44oCTMTA1IOihjO+8ieS4uuWtkOiKgu+8jOS4uuecn+W1jOWll+OAguOAjOS4ieOAgeOAjeiKguiHqui6q+aMgiBwdC04YWFjYWFkMzVi4oCU4oCU5YW25byV5paH5LuO44CM5LiJ44CB44CN5qCH6aKY6KGM6LW3566X5bm26L+e6K+744CMMS7kuLvopoHlt6XkvZzlhoXlrrkoMSnlvZXlj5bmiYvnu63lj4rnqIvluo/igKbjgI3vvIzokL3niLboioLmiY3okL3lvpfkvY/jgIIiLAogICIoMSnigJQoOSkg55qE5bGC57qn5qCH6aKY77yI44CMKDEp5b2V5Y+W5omL57ut5Y+K56iL5bqP77yI5ZCr5b2V5Y+W6LWE5qC877yJ5aSN5p+l44CN562J77yJ5piv5Y6f5paH6Ieq5bim77yMaGVhZGluZyDljrvmjonluo/lj7flkI7pgJDlrZflj6/mn6XvvIzmlYXmoIcgYXV0aG9y77yb6IqC5Y+35L+d55WZ5Y6f5paH55qE44CMMS7jgI3jgIwoMSnjgI3lhpnms5XvvIjljp/mlocgKDcpKDgpKDkpIOeahOe8luWPt+WQjuaXoOepuuagvOOAgeS4juato+aWh+i/nuaOku+8jOaMieWOn+aWh++8ieOAgiIsCiAgInB0LWIzZTlhNmJhNjAg55qE5byV5paH5Zyo44CMKDUp44CN5qCH6aKY6KGM5ZCO55u05o6l5o6l5q2j5paH44CM5ZCE5a2m6Zmi5qC55o2u5oub55Sf5aSE5o+Q5L6b55qE5pys56eR55Sf5Y+K6aKE56eR55Sf5paw55Sf5b2V5Y+W5ZCN5Y2V4oCm44CN77yb44CMKDUp6auY6ICD5Yqg5YiG5Y+K5Zu95a625LiT6aG544CB6auY5qCh5LiT6aG56K6h5YiS6LWE5qC85aSN5a6h44CN55qE5qCH6aKY5Zyo5Y6f5paH56ysIDUwIOihjOeLrOWNoOS4gOihjOOAgiIsCiAgIuWQjOS4gOadoeWGheS4pOaute+8iOWmgiAoMykg55qE5qC45p+l6KaB5rGC77yL5LiN56ym5aSE55CG44CBKDcpIOeahOWtpuWOhuWtpuS9jeWuoeaguO+8i+WumuWQkeWNj+iuruS5puaUtuWPluOAgSg4KSDnmoTmoaPmoYjmoLjmn6XvvIvmuK/mvrPlj7DkvqjmoaPmoYjml7bpmZDjgIEoOSkg55qE5L2T5qOA77yL5L+d55WZ5YWl5a2m6LWE5qC877yJ5ZCE55Sx5Lik5p2h5p2h55uu5YiG5byV77yM5oyJ5byV5paH6LW354K55YiG5Yir6JC95Zyo5ZCM5LiA6IqC55qEIGl0ZW1zIOmHjO+8jOacquaLhuWtkOiKguOAgiIsCiAgIuesrCA5OOKAkzEwNSDooYzmmK/jgIwyLuiBlOezu+S6uuWPiuiBlOezu+aWueW8j+OAje+8jOS4uiA3IOS4quWNleS9jeiBlOezu+S6uu+8i+WKnuWFrOeUteivne+8iOaLm+eUn+WkhOacrOenkeeUn+aLm+eUn+iigeeri+mjnuOAgeeglOeptueUn+aLm+eUn+adjuaZk+iWh+OAgeacrOenkeeUn+mZouadjuazouOAgeeglOeptueUn+mZouiDoee6ouaWjOOAgeWtpueUn+W3peS9nOmDqO+8iOWkhO+8iemprOeIseiKrOOAgeWig+WkluWtpueUn+S6i+WKoeS4reW/g+W8oOiVvuOAgeagoeWMu+mZouenpuengOWyre+8ie+8jOaXoOadoeebruW8leaWh++8jOaVhSBpdGVtcyDkuLrnqbrjgIIiLAogICLnrKwgMTEy4oCTMTE2IOihjOS4uumZhOS7tuS4gOOAgemZhOS7tuS6jOmimOWQjeS4juiQveasvuOAjOS4reWbveS8oOWqkuWkp+WtpuaLm+eUn+WkhO+8jzIwMjMg5bm0IDkg5pyIIDExIOaXpeOAje+8jOWQiOS4uuOAjOmZhOS7tuOAjeS4gOiKgu+8m3B0LWFhNWNlM2M4N2Qg55qE5byV5paH5Y2z6ZmE5Lu26aKY5ZCN6L+e6K+777yL6JC95qy+5Y2V5L2N44CCIiwKICAi5q2j5paH5Yiw56ysIDExNiDooYzokL3mrL7nu5PmnZ/vvIzkuIDjgIHkuozjgIHkuInjgIHlm5vlm5vnuqfmnaHnm67ov57lj7fpvZDlhajvvIgoMSnigJQoOSkg5peg6Lez5Y+377yJ77yM5peg5oiq5pat77yMdHJ1bmNhdGVkPWZhbHNl44CCIgogXQp9Cg==
+{
+ "key": "dd2f540b",
+ "title": "招生处【2023】009 号 关于开展 2023 级新生入学资格复查工作的通知",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "文头",
+   "heading": "文号与通知标题",
+   "heading_kind": "derived",
+   "lines": [1, 2],
+   "items": ["rule-dd2f540b"],
+   "chars": 35
+  },
+  {
+   "no": "导语",
+   "heading": "制定依据与通知事由",
+   "heading_kind": "derived",
+   "lines": [3, 7],
+   "items": [],
+   "chars": 144
+  },
+  {
+   "no": "一、",
+   "heading": "组织领导",
+   "heading_kind": "author",
+   "lines": [8, 17],
+   "items": ["pt-690044fd5e", "pt-2dce9fa4d3"],
+   "chars": 226
+  },
+  {
+   "no": "二、",
+   "heading": "复查对象",
+   "heading_kind": "author",
+   "lines": [18, 22],
+   "items": ["pt-1c641d8552"],
+   "chars": 100
+  },
+  {
+   "no": "三、",
+   "heading": "资格复查工作主要内容及联系人",
+   "heading_kind": "author",
+   "lines": [23, 105],
+   "items": ["pt-8aacaad35b"],
+   "chars": 1891
+  },
+  {
+   "no": "1.",
+   "heading": "主要工作内容",
+   "heading_kind": "author",
+   "lines": [24, 97],
+   "items": [],
+   "chars": 1705
+  },
+  {
+   "no": "(1)",
+   "heading": "录取手续及程序（含录取资格）复查",
+   "heading_kind": "author",
+   "lines": [25, 28],
+   "items": [],
+   "chars": 89
+  },
+  {
+   "no": "(2)",
+   "heading": "新生信息采集",
+   "heading_kind": "author",
+   "lines": [29, 33],
+   "items": ["pt-4491ee3515"],
+   "chars": 93
+  },
+  {
+   "no": "(3)",
+   "heading": "新生身份信息核查",
+   "heading_kind": "author",
+   "lines": [34, 43],
+   "items": ["pt-ad2211d5b1", "pt-2cd9ca1866"],
+   "chars": 240
+  },
+  {
+   "no": "(4)",
+   "heading": "新生人像比对查验",
+   "heading_kind": "author",
+   "lines": [44, 49],
+   "items": ["pt-7a4a0b8c2a"],
+   "chars": 127
+  },
+  {
+   "no": "(5)",
+   "heading": "高考加分及国家专项、高校专项计划资格复审",
+   "heading_kind": "author",
+   "lines": [50, 55],
+   "items": ["pt-b3e9a6ba60"],
+   "chars": 135
+  },
+  {
+   "no": "(6)",
+   "heading": "艺术类本科专业复测",
+   "heading_kind": "author",
+   "lines": [56, 62],
+   "items": ["pt-d335b8a4ba"],
+   "chars": 157
+  },
+  {
+   "no": "(7)",
+   "heading": "研究生学历学位材料审核、定向协议书收取",
+   "heading_kind": "author",
+   "lines": [63, 73],
+   "items": ["pt-fcf1f644da", "pt-71893b9a68"],
+   "chars": 285
+  },
+  {
+   "no": "(8)",
+   "heading": "新生档案核查",
+   "heading_kind": "author",
+   "lines": [74, 84],
+   "items": ["pt-9a5e2e6ae2", "pt-1aa494f453"],
+   "chars": 257
+  },
+  {
+   "no": "(9)",
+   "heading": "新生身体检查",
+   "heading_kind": "author",
+   "lines": [85, 97],
+   "items": ["pt-d7b029521b", "pt-af8fbc78f3"],
+   "chars": 314
+  },
+  {
+   "no": "2.",
+   "heading": "联系人及联系方式",
+   "heading_kind": "author",
+   "lines": [98, 105],
+   "items": [],
+   "chars": 170
+  },
+  {
+   "no": "四、",
+   "heading": "资格复查工作情况报送要求",
+   "heading_kind": "author",
+   "lines": [106, 111],
+   "items": ["pt-aa125d1a2a"],
+   "chars": 130
+  },
+  {
+   "no": "附件",
+   "heading": "两个附件与落款",
+   "heading_kind": "derived",
+   "lines": [112, 116],
+   "items": ["pt-aa5ce3c87d"],
+   "chars": 82
+  }
+ ],
+ "items": ["rule-dd2f540b", "pt-690044fd5e", "pt-2dce9fa4d3", "pt-1c641d8552", "pt-8aacaad35b", "pt-4491ee3515", "pt-ad2211d5b1", "pt-2cd9ca1866", "pt-7a4a0b8c2a", "pt-b3e9a6ba60", "pt-d335b8a4ba", "pt-fcf1f644da", "pt-71893b9a68", "pt-9a5e2e6ae2", "pt-1aa494f453", "pt-d7b029521b", "pt-af8fbc78f3", "pt-aa125d1a2a", "pt-aa5ce3c87d"],
+ "notes": [
+  "第 1 行为文号「招生处【2023】009 号」、第 2 行为通知标题（单行），合为「文头」一节；rule-dd2f540b 是文档级条目（标题≈文档名），无引文，按约定列进文档级 items 并落在本节（概述节），本节即其落点依据。",
+  "第 3–8 行是一整句制文依据（教育部令第 41 号、教学[2014]11 号、北京市教委通知）＋「现将…通知如下：」。pt-690044fd5e 的引文从第 8 行中段起算（「级各层次新生入学资格复查工作相关事宜通知如下：一、组织领导学校对 2023 级…」），跨进「一、」标题行；按节首判据的例外条款，「一、组织领导」节从第 8 行起（含这段尾句），否则该条引文首 26 字无处可落；「导语」节因此收 3–7 行。",
+  "本文件**没有页码行**，全 116 行被各节完整覆盖，无覆盖空隙。",
+  "「一、」—「四、」四个小标题是原文自带（author，逐字可查）；「三、」是父节（23–105 行），其下「1.主要工作内容」（24–97 行，内含 (1)—(9) 九个小项）与「2.联系人及联系方式」（98–105 行）为子节，为真嵌套。「三、」节自身挂 pt-8aacaad35b——其引文从「三、」标题行起算并连读「1.主要工作内容(1)录取手续及程序…」，落父节才落得住。",
+  "(1)—(9) 的层级标题（「(1)录取手续及程序（含录取资格）复查」等）是原文自带，heading 去掉序号后逐字可查，故标 author；节号保留原文的「1.」「(1)」写法（原文 (7)(8)(9) 的编号后无空格、与正文连排，按原文）。",
+  "pt-b3e9a6ba60 的引文在「(5)」标题行后直接接正文「各学院根据招生处提供的本科生及预科生新生录取名单…」；「(5)高考加分及国家专项、高校专项计划资格复审」的标题在原文第 50 行独占一行。",
+  "同一条内两段（如 (3) 的核查要求＋不符处理、(7) 的学历学位审核＋定向协议书收取、(8) 的档案核查＋港澳台侨档案时限、(9) 的体检＋保留入学资格）各由两条条目分引，按引文起点分别落在同一节的 items 里，未拆子节。",
+  "第 98–105 行是「2.联系人及联系方式」，为 7 个单位联系人＋办公电话（招生处本科生招生袁立飞、研究生招生李晓薇、本科生院李波、研究生院胡红斌、学生工作部（处）马爱芬、境外学生事务中心张蕾、校医院秦秀岭），无条目引文，故 items 为空。",
+  "第 112–116 行为附件一、附件二题名与落款「中国传媒大学招生处／2023 年 9 月 11 日」，合为「附件」一节；pt-aa5ce3c87d 的引文即附件题名连读＋落款单位。",
+  "正文到第 116 行落款结束，一、二、三、四四级条目连号齐全（(1)—(9) 无跳号），无截断，truncated=false。"
+ ]
+}

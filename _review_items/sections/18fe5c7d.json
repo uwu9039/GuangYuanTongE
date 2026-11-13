@@ -1,1 +1,93 @@
-ewogImtleSI6ICIxOGZlNWM3ZCIsCiAidGl0bGUiOiAiUUHnn6Xor4bmqKHmnb8iLAogInRydW5jYXRlZCI6IGZhbHNlLAogInNlY3Rpb25zIjogWwogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIlFB55+l6K+G5qih5p2/IiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbCiAgICAxLAogICAgMQogICBdLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogOAogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi6Zeu6aKY772c562U5qGI6Zeu562U6KGoIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWwogICAgMiwKICAgIDU0CiAgIF0sCiAgICJpdGVtcyI6IFsKICAgICJwdC02ZWUwYzYxYTZiIiwKICAgICJwdC1jZGE4M2M2NTI0IiwKICAgICJwdC1jNjc4Y2IzZDc4IiwKICAgICJwdC0zOTBiNGRkZjU2IiwKICAgICJwdC1mMjAwMDExMmI4IiwKICAgICJwdC0zYWQ0YzIyNDljIiwKICAgICJwdC1kMWIwNDYwYzQ4IiwKICAgICJwdC1jYjA0N2MzNDUxIiwKICAgICJwdC0zZTA1ZTIzM2I5IiwKICAgICJwdC1lYzkxMDFhYjUxIiwKICAgICJwdC01NTlmMzA1MmQxIiwKICAgICJwdC1iMzJiOWEzZTUxIiwKICAgICJwdC05ZjdlOTg5Y2IwIiwKICAgICJwdC04M2EyYTIzYjg4IiwKICAgICJwdC05OGIyMjU4NjExIiwKICAgICJwdC04MDQ0NTUxNDIzIiwKICAgICJwdC00NzUzYWVjMGM4IiwKICAgICJwdC02MGMzYzU5ZTYzIiwKICAgICJwdC0zYjNhZjhjMzg3IiwKICAgICJwdC0wMmU1MTU5MGVmIiwKICAgICJwdC1iYzkwMDUyMzdiIiwKICAgICJwdC04M2Q4OGI3OGE2IiwKICAgICJwdC0xM2EyYWMyYTU0IiwKICAgICJwdC1jYzczZjc1OTQ2IiwKICAgICJwdC0zNWZhNDE4Zjc0IiwKICAgICJwdC0zODZiOTkyNDkxIiwKICAgICJwdC0zZjIxOWExMjU2IiwKICAgICJwdC1hZjRiZGJhN2YzIgogICBdLAogICAiY2hhcnMiOiA1Nzk5CiAgfQogXSwKICJpdGVtcyI6IFsKICAicHQtNmVlMGM2MWE2YiIsCiAgInB0LWNkYTgzYzY1MjQiLAogICJwdC1jNjc4Y2IzZDc4IiwKICAicHQtMzkwYjRkZGY1NiIsCiAgInB0LWYyMDAwMTEyYjgiLAogICJwdC0zYWQ0YzIyNDljIiwKICAicHQtZDFiMDQ2MGM0OCIsCiAgInB0LWNiMDQ3YzM0NTEiLAogICJwdC0zZTA1ZTIzM2I5IiwKICAicHQtZWM5MTAxYWI1MSIsCiAgInB0LTU1OWYzMDUyZDEiLAogICJwdC1iMzJiOWEzZTUxIiwKICAicHQtOWY3ZTk4OWNiMCIsCiAgInB0LTgzYTJhMjNiODgiLAogICJwdC05OGIyMjU4NjExIiwKICAicHQtODA0NDU1MTQyMyIsCiAgInB0LTQ3NTNhZWMwYzgiLAogICJwdC02MGMzYzU5ZTYzIiwKICAicHQtM2IzYWY4YzM4NyIsCiAgInB0LTAyZTUxNTkwZWYiLAogICJwdC1iYzkwMDUyMzdiIiwKICAicHQtODNkODhiNzhhNiIsCiAgInB0LTEzYTJhYzJhNTQiLAogICJwdC1jYzczZjc1OTQ2IiwKICAicHQtMzVmYTQxOGY3NCIsCiAgInB0LTM4NmI5OTI0OTEiLAogICJwdC0zZjIxOWExMjU2IiwKICAicHQtYWY0YmRiYTdmMyIKIF0sCiAibm90ZXMiOiBbCiAgIuWFqOaWh+S4uuOAjOmXrumimCB8IOetlOahiOOAjeS4pOWIl+ihqOagvO+8jOaXoOS9nOiAheWwj+agh+mimO+8jOaVheaVtOihqOS9nOS4uuS4gOS4quiKgu+8iOesrCAyIOihjOS4uuihqOWktO+8ieOAgiIsCiAgIuihjOWPt+aMiSBzcGxpdCgnXFxuJykg5Y+j5b6E77yb5Y6f5paHIDU0IOihjOOAgeaXoOepuuihjOOAgeaXoOWIhumhteespuOAgiIsCiAgIjI4IOadoeadoeebruWdh+S4uuihqOS4remXruetlOeJh+aute+8jOWFqOmDqOiQveWcqOWQjOS4gOS4quihqOagvOiKguOAgiIKIF0KfQo=
+{
+ "key": "18fe5c7d",
+ "title": "QA知识模板",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "QA知识模板",
+   "heading_kind": "author",
+   "lines": [
+    1,
+    1
+   ],
+   "items": [],
+   "chars": 8
+  },
+  {
+   "no": "—",
+   "heading": "问题｜答案问答表",
+   "heading_kind": "derived",
+   "lines": [
+    2,
+    54
+   ],
+   "items": [
+    "pt-6ee0c61a6b",
+    "pt-cda83c6524",
+    "pt-c678cb3d78",
+    "pt-390b4ddf56",
+    "pt-f2000112b8",
+    "pt-3ad4c2249c",
+    "pt-d1b0460c48",
+    "pt-cb047c3451",
+    "pt-3e05e233b9",
+    "pt-ec9101ab51",
+    "pt-559f3052d1",
+    "pt-b32b9a3e51",
+    "pt-9f7e989cb0",
+    "pt-83a2a23b88",
+    "pt-98b2258611",
+    "pt-8044551423",
+    "pt-4753aec0c8",
+    "pt-60c3c59e63",
+    "pt-3b3af8c387",
+    "pt-02e51590ef",
+    "pt-bc9005237b",
+    "pt-83d88b78a6",
+    "pt-13a2ac2a54",
+    "pt-cc73f75946",
+    "pt-35fa418f74",
+    "pt-386b992491",
+    "pt-3f219a1256",
+    "pt-af4bdba7f3"
+   ],
+   "chars": 5799
+  }
+ ],
+ "items": [
+  "pt-6ee0c61a6b",
+  "pt-cda83c6524",
+  "pt-c678cb3d78",
+  "pt-390b4ddf56",
+  "pt-f2000112b8",
+  "pt-3ad4c2249c",
+  "pt-d1b0460c48",
+  "pt-cb047c3451",
+  "pt-3e05e233b9",
+  "pt-ec9101ab51",
+  "pt-559f3052d1",
+  "pt-b32b9a3e51",
+  "pt-9f7e989cb0",
+  "pt-83a2a23b88",
+  "pt-98b2258611",
+  "pt-8044551423",
+  "pt-4753aec0c8",
+  "pt-60c3c59e63",
+  "pt-3b3af8c387",
+  "pt-02e51590ef",
+  "pt-bc9005237b",
+  "pt-83d88b78a6",
+  "pt-13a2ac2a54",
+  "pt-cc73f75946",
+  "pt-35fa418f74",
+  "pt-386b992491",
+  "pt-3f219a1256",
+  "pt-af4bdba7f3"
+ ],
+ "notes": [
+  "全文为「问题 | 答案」两列表格，无作者小标题，故整表作为一个节（第 2 行为表头）。",
+  "行号按 split('\\n') 口径；原文 54 行、无空行、无分页符。",
+  "28 条条目均为表中问答片段，全部落在同一个表格节。"
+ ]
+}

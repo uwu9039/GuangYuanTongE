@@ -1,1 +1,108 @@
-ewogICJrZXkiOiAiMjAxODEyMjQtYzI3NTJhMTAxNDk0IiwKICAidGl0bGUiOiAi5pWZ6IKy6YOo5Yqe5YWs5Y6F5YWz5LqO5LiL6L6+MjAxOeW5tOKAnOmAgOW9ueWkp+WtpueUn+Wjq+WFteKAneS4k+mhueehleWjq+eglOeptueUn+aLm+eUn+iuoeWIkueahOmAmuefpe+8iOaVmeWtpuWOheOAlDIwMTjjgJU55Y+377yJIiwKICAidHJ1bmNhdGVkIjogZmFsc2UsCiAgInNlY3Rpb25zIjogWwogICAgewogICAgICAibm8iOiAiIiwKICAgICAgImhlYWRpbmciOiAi5pWZ6IKy6YOo5Yqe5YWs5Y6F5YWz5LqO5LiL6L6+MjAxOeW5tOKAnOmAgOW9ueWkp+WtpueUn+Wjq+WFteKAneS4k+mhueehleWjq+eglOeptueUn+aLm+eUn+iuoeWIkueahOmAmuefpSIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzEsIDFdLAogICAgICAiaXRlbXMiOiBbXSwKICAgICAgImNoYXJzIjogNTcKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICIiLAogICAgICAiaGVhZGluZyI6ICLnvZHnq5nlr7zoiKrkuI7moI/nm67oj5zljZUiLAogICAgICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAgICAibGluZXMiOiBbMiwgNDFdLAogICAgICAiaXRlbXMiOiBbXSwKICAgICAgImNoYXJzIjogMTc0CiAgICB9LAogICAgewogICAgICAibm8iOiAiIiwKICAgICAgImhlYWRpbmciOiAi6aG16Z2i5qCH6aKY44CB5Y+R5biD5L+h5oGv5LiO6K6/6Zeu6K6h5pWwIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgICAgImxpbmVzIjogWzQyLCA0M10sCiAgICAgICJpdGVtcyI6IFsicHQtMTQyYzM1MDI5NiJdLAogICAgICAiY2hhcnMiOiA4NQogICAgfSwKICAgIHsKICAgICAgIm5vIjogIiIsCiAgICAgICJoZWFkaW5nIjogIue9kemhteS/oeaBr+agj++8iOS/oeaBr+WQjeensOOAgeS/oeaBr+e0ouW8leOAgeeUn+aIkOaXpeacn+OAgeWPkeaWh+acuuaehOOAgeWPkeaWh+Wtl+WPt+OAgeS/oeaBr+exu+WIq+OAgeWGheWuueamgui/sO+8iSIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICAgICJsaW5lcyI6IFs0NCwgNTddLAogICAgICAiaXRlbXMiOiBbInB0LTUxMzQ1ZTEyODIiLCAicHQtNDVmOTEwY2ZhMiIsICJwdC0yN2IzNDM1ZjFmIiwgInB0LWVkYzhhNjg5N2YiXSwKICAgICAgImNoYXJzIjogMTY4CiAgICB9LAogICAgewogICAgICAibm8iOiAiIiwKICAgICAgImhlYWRpbmciOiAi5paH5Lu25oqs5aS044CB5qCH6aKY5LiO5Li76YCB5py65YWzIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgICAgImxpbmVzIjogWzU4LCA2Ml0sCiAgICAgICJpdGVtcyI6IFsicHQtZmMwNmQxYTEwZCJdLAogICAgICAiY2hhcnMiOiAxMzAKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICIiLAogICAgICAiaGVhZGluZyI6ICLlj5HmlofnvJjnlLHkuI7mlL/nrZbkvp3mja4iLAogICAgICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAgICAibGluZXMiOiBbNjMsIDYzXSwKICAgICAgIml0ZW1zIjogW10sCiAgICAgICJjaGFycyI6IDE3MQogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuS4gOOAgSIsCiAgICAgICJoZWFkaW5nIjogIjIwMTnlubTmi5vnlJ/orqHliJLop4TmqKHjgIHmib/mi4XpmaLmoKHkuI7kuJPpobnkuJPnlKjopoHmsYIiLAogICAgICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAgICAibGluZXMiOiBbNjQsIDY0XSwKICAgICAgIml0ZW1zIjogWyJwdC0zZDQ5NjdhYTFkIiwgInB0LWUwMmFjNzMwOTEiXSwKICAgICAgImNoYXJzIjogOTkKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLkuozjgIEiLAogICAgICAiaGVhZGluZyI6ICLmi5vnlJ/lvZXlj5blt6XkvZznmoTnu4Tnu4flrp7mlr3kuI7ljp/liJkiLAogICAgICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAgICAibGluZXMiOiBbNjUsIDY1XSwKICAgICAgIml0ZW1zIjogWyJwdC01ODU1ZGRhMDIyIl0sCiAgICAgICJjaGFycyI6IDEyNwogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuS4ieOAgSIsCiAgICAgICJoZWFkaW5nIjogIuecgee6p+aVmeiCsuaLm+eUn+iAg+ivlemDqOmXqOeahOaMh+WvvOS4juebkeedo+ajgOafpSIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICAgICJsaW5lcyI6IFs2NiwgNjZdLAogICAgICAiaXRlbXMiOiBbInB0LTQ5Nzc0YWQwOWQiLCAicHQtZThmMDExMWRhZSJdLAogICAgICAiY2hhcnMiOiA5OQogICAgfSwKICAgIHsKICAgICAgIm5vIjogIiIsCiAgICAgICJoZWFkaW5nIjogIumZhOS7tuS4jumhteiEmiIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICAgICJsaW5lcyI6IFs2NywgNzBdLAogICAgICAiaXRlbXMiOiBbXSwKICAgICAgImNoYXJzIjogMTQwCiAgICB9CiAgXSwKICAiaXRlbXMiOiBbCiAgICAicHQtZmMwNmQxYTEwZCIsCiAgICAicHQtM2Q0OTY3YWExZCIsCiAgICAicHQtZTAyYWM3MzA5MSIsCiAgICAicHQtNTg1NWRkYTAyMiIsCiAgICAicHQtNDk3NzRhZDA5ZCIsCiAgICAicHQtMTQyYzM1MDI5NiIsCiAgICAicHQtNTEzNDVlMTI4MiIsCiAgICAicHQtNDVmOTEwY2ZhMiIsCiAgICAicHQtMjdiMzQzNWYxZiIsCiAgICAicHQtZWRjOGE2ODk3ZiIsCiAgICAicHQtZThmMDExMWRhZSIKICBdLAogICJub3RlcyI6IFsKICAgICLljp/mlofkuLrlrabmoKHlrabnlJ/lt6XkvZzpg6jpl6jnvZHnq5novazovb3nmoTmlZnogrLpg6jmlofku7bpobXvvJrnrKwx6KGM5Li66aG16Z2i5oqs5aS05qCH6aKY77yM56ysMuKAlDQx6KGM5Li656uZ54K55a+86Iiq6I+c5Y2V5LiO5qCP55uu5YiX6KGo77yM56ysNDLigJQ0M+ihjOS4uumHjeWkjeagh+mimOS4juWPkeW4g+S/oeaBr++8jOesrDQ04oCUNTfooYzkuLrmlL/liqHlhazlvIDkv6Hmga/moI/vvIjkv6Hmga/lkI3np7Av5L+h5oGv57Si5byVL+eUn+aIkOaXpeacny/lj5HmlofmnLrmnoQv5Y+R5paH5a2X5Y+3L+S/oeaBr+exu+WIqy/lhoXlrrnmpoLov7DvvIzljp/mlofpgJDooYzmoIfnrb7jgIHml6DlsI/moIfpopjvvInvvIznrKw1OOihjOi1t+aJjeaYr+aWh+S7tuato+aWh+OAgiIsCiAgICAi5paH5Lu25q2j5paH5Y+q5pyJ44CM5LiA44CB5LqM44CB5LiJ44CN5LiJ5Liq5bqP5Y+35p2h77yM5peg44CM56ysWOeroOOAjee6p+e7k+aehO+8m+S4ieadoeWOn+aWh+Wdh+aXoOWwj+mimO+8jGhlYWRpbmcg5Li65o2u5pys5p2h5YaF5a655qaC5ous77yIZGVyaXZlZO+8ie+8jG5vIOWPluWOn+aWh+W6j+WPt+OAgiIsCiAgICAicHQtZWRjOGE2ODk3ZuOAgXB0LWU4ZjAxMTFkYWUg5Lik5p2h5byV5paH55Sx5aSa5q615paH5a2X55So44CM772c44CN5ou85o6l77yM6aaW5q615ZCr44CM44CB44CN5YiG6ZqU56ym77yM5Zyo5Y6f5paH5Lit5bm25LiN6L+e57ut77yM5oyJ6K+t5LmJ5YiG5Yir5b2S5YWl44CM572R6aG15L+h5oGv5qCP44CN5LiO44CM5LiJ44CB44CN5Lik6IqC77yb5YW26aaWIDI2IOWtl+WcqOato+aWh+S4reaXoOWPr+WMuemFjeS4su+8jOaVheS4jeaehOaIkOiQveeCuemUmeS9jeOAgiIsCiAgICAi5paH5Lu25oqs5aS044CM5pWZIOiCsiDpg6gg5YqeIOWFrCDljoUg5paHIOS7tuOAjeaMieWFrOaWh+eJiOW8j+mAkOWtl+WKoOepuuagvO+8jHB0LWZjMDZkMWExMGQg55qE5byV5paH77yI5Y6756m655m95ZCO77yJ5omN6L+e5oiQ5LiA5Y+l77yM6JC954K55Zyo44CM5paH5Lu25oqs5aS044CB5qCH6aKY5LiO5Li76YCB5py65YWz44CN6IqC44CCIiwKICAgICLnrKw2N+ihjOS4uumZhOS7tuWQjeensO+8jOesrDY44oCUNzDooYzkuLrpobXohJrvvIjniYjmnYPjgIHlpIfmoYjlj7fjgIHpgJrkv6HlnLDlnYDvvInkuI7pmYTku7borqHmlbDpk77mjqXvvIzlkIjlubbkuLrjgIzpmYTku7bkuI7pobXohJrjgI3kuIDoioLjgIIiLAogICAgIuesrDLigJQ0MeihjOWvvOiIqumhueaXoOS7u+S9leadoeebruW8leeUqO+8jOS9huWFtumdnuepuuihjOWdh+W3suiiq+OAjOe9keermeWvvOiIquS4juagj+ebruiPnOWNleOAjeiKguimhueblu+8jOWFqOaWh+aXoOacquimhuebluiKguauteOAgiIKICBdCn0K
+{
+  "key": "20181224-c2752a101494",
+  "title": "教育部办公厅关于下达2019年“退役大学生士兵”专项硕士研究生招生计划的通知（教学厅〔2018〕9号）",
+  "truncated": false,
+  "sections": [
+    {
+      "no": "",
+      "heading": "教育部办公厅关于下达2019年“退役大学生士兵”专项硕士研究生招生计划的通知",
+      "heading_kind": "author",
+      "lines": [1, 1],
+      "items": [],
+      "chars": 57
+    },
+    {
+      "no": "",
+      "heading": "网站导航与栏目菜单",
+      "heading_kind": "derived",
+      "lines": [2, 41],
+      "items": [],
+      "chars": 174
+    },
+    {
+      "no": "",
+      "heading": "页面标题、发布信息与访问计数",
+      "heading_kind": "derived",
+      "lines": [42, 43],
+      "items": ["pt-142c350296"],
+      "chars": 85
+    },
+    {
+      "no": "",
+      "heading": "网页信息栏（信息名称、信息索引、生成日期、发文机构、发文字号、信息类别、内容概述）",
+      "heading_kind": "derived",
+      "lines": [44, 57],
+      "items": ["pt-51345e1282", "pt-45f910cfa2", "pt-27b3435f1f", "pt-edc8a6897f"],
+      "chars": 168
+    },
+    {
+      "no": "",
+      "heading": "文件抬头、标题与主送机关",
+      "heading_kind": "derived",
+      "lines": [58, 62],
+      "items": ["pt-fc06d1a10d"],
+      "chars": 130
+    },
+    {
+      "no": "",
+      "heading": "发文缘由与政策依据",
+      "heading_kind": "derived",
+      "lines": [63, 63],
+      "items": [],
+      "chars": 171
+    },
+    {
+      "no": "一、",
+      "heading": "2019年招生计划规模、承担院校与专项专用要求",
+      "heading_kind": "derived",
+      "lines": [64, 64],
+      "items": ["pt-3d4967aa1d", "pt-e02ac73091"],
+      "chars": 99
+    },
+    {
+      "no": "二、",
+      "heading": "招生录取工作的组织实施与原则",
+      "heading_kind": "derived",
+      "lines": [65, 65],
+      "items": ["pt-5855dda022"],
+      "chars": 127
+    },
+    {
+      "no": "三、",
+      "heading": "省级教育招生考试部门的指导与监督检查",
+      "heading_kind": "derived",
+      "lines": [66, 66],
+      "items": ["pt-49774ad09d", "pt-e8f0111dae"],
+      "chars": 99
+    },
+    {
+      "no": "",
+      "heading": "附件与页脚",
+      "heading_kind": "derived",
+      "lines": [67, 70],
+      "items": [],
+      "chars": 140
+    }
+  ],
+  "items": [
+    "pt-fc06d1a10d",
+    "pt-3d4967aa1d",
+    "pt-e02ac73091",
+    "pt-5855dda022",
+    "pt-49774ad09d",
+    "pt-142c350296",
+    "pt-51345e1282",
+    "pt-45f910cfa2",
+    "pt-27b3435f1f",
+    "pt-edc8a6897f",
+    "pt-e8f0111dae"
+  ],
+  "notes": [
+    "原文为学校学生工作部门网站转载的教育部文件页：第1行为页面抬头标题，第2—41行为站点导航菜单与栏目列表，第42—43行为重复标题与发布信息，第44—57行为政务公开信息栏（信息名称/信息索引/生成日期/发文机构/发文字号/信息类别/内容概述，原文逐行标签、无小标题），第58行起才是文件正文。",
+    "文件正文只有「一、二、三」三个序号条，无「第X章」级结构；三条原文均无小题，heading 为据本条内容概括（derived），no 取原文序号。",
+    "pt-edc8a6897f、pt-e8f0111dae 两条引文由多段文字用「｜」拼接，首段含「、」分隔符，在原文中并不连续，按语义分别归入「网页信息栏」与「三、」两节；其首 26 字在正文中无可匹配串，故不构成落点错位。",
+    "文件抬头「教 育 部 办 公 厅 文 件」按公文版式逐字加空格，pt-fc06d1a10d 的引文（去空白后）才连成一句，落点在「文件抬头、标题与主送机关」节。",
+    "第67行为附件名称，第68—70行为页脚（版权、备案号、通信地址）与附件计数链接，合并为「附件与页脚」一节。",
+    "第2—41行导航项无任何条目引用，但其非空行均已被「网站导航与栏目菜单」节覆盖，全文无未覆盖节段。"
+  ]
+}

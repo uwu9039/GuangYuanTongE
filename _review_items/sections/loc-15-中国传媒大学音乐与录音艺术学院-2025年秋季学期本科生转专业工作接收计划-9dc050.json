@@ -1,1 +1,124 @@
-ewogImtleSI6ICJsb2MtMTUt5Lit5Zu95Lyg5aqS5aSn5a2m6Z+z5LmQ5LiO5b2V6Z+z6Im65pyv5a2m6ZmiLTIwMjXlubTnp4vlraPlrabmnJ/mnKznp5HnlJ/ovazkuJPkuJrlt6XkvZzmjqXmlLborqHliJItOWRjMDUwIiwKICJ0aXRsZSI6ICIyMDI15bm056eL5a2j5a2m5pyf5Lit5Zu95Lyg5aqS5aSn5a2m6Z+z5b2V5a2m6Zmi5pys56eR55Sf6L2s5LiT5Lia5bel5L2c5o6l5pS26K6h5YiSIiwKICJ0cnVuY2F0ZWQiOiBmYWxzZSwKICJzZWN0aW9ucyI6IFsKICB7CiAgICJubyI6ICLlhajooagiLAogICAiaGVhZGluZyI6ICLovazkuJPkuJrlt6XkvZzmjqXmlLborqHliJLkuIDop4jooajvvIjooajlpLTkuI4gNyDkuKrkuJPkuJrvvIkiLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbMSwgMTYxXSwKICAgIml0ZW1zIjogWyJwdC1iNzI1NTlhM2I4Il0sCiAgICJjaGFycyI6IDIyNDkKICB9LAogIHsKICAgIm5vIjogIuihqOWktCIsCiAgICJoZWFkaW5nIjogIjIwMjXlubTnp4vlraPlrabmnJ/kuK3lm73kvKDlqpLlpKflrabpn7PlvZXlrabpmaLmnKznp5HnlJ/ovazkuJPkuJrlt6XkvZzmjqXmlLborqHliJIiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsxLCAzXSwKICAgIml0ZW1zIjogWyJydWxlLWxvYy0xNS0yMDI1LTlkYzA1MCIsICJwdC00MzZjN2IyNGM3IiwgInB0LTdlYTg1ZWNkMWEiXSwKICAgImNoYXJzIjogMTExCiAgfSwKICB7CiAgICJubyI6ICLkuJPkuJoxIiwKICAgImhlYWRpbmciOiAi5b2V6Z+z6Im65pyv77yI6Z+z5ZON5a+85ryU5pa55ZCR77yJIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbNCwgMjZdLAogICAiaXRlbXMiOiBbInB0LTYyZmY1MGRhMTYiLCAicHQtOTE3MTFjMTJkOCIsICJwdC0zOTIxZTgxMmM5IiwgInB0LWY3NmQ5Y2UwMTIiLCAicHQtZmM1YTk4MDYwNCJdLAogICAiY2hhcnMiOiAzMjAKICB9LAogIHsKICAgIm5vIjogIuS4k+S4mjIiLAogICAiaGVhZGluZyI6ICLlvZXpn7PoibrmnK/vvIjlvZXpn7Plt6XnqIvmlrnlkJHvvIkiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsyNywgNDhdLAogICAiaXRlbXMiOiBbInB0LTJkMWFmNDRkN2IiLCAicHQtZTk0NDA0YzI5NyIsICJwdC04MTdjMTE2MmZmIiwgInB0LTE1M2FhZDg2ODAiLCAicHQtODhjYTYwNjFkNCIsICJwdC01YjZjNGQ5M2IyIiwgInB0LTQyZjI1MTY3NmYiXSwKICAgImNoYXJzIjogMjUyCiAgfSwKICB7CiAgICJubyI6ICLkuJPkuJozIiwKICAgImhlYWRpbmciOiAi6Z+z5LmQ6KGo5ryU77yI5aOw5LmQ5ryU5ZSx5pa55ZCR77yJIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbNDksIDcyXSwKICAgIml0ZW1zIjogWyJwdC00YmQ5NzAyNzFmIiwgInB0LWNhMDhhZWM3ZDgiLCAicHQtMTZiODNkZDE5ZCIsICJwdC00YWZmNWI3NTI2IiwgInB0LTljODBlMDMxOTciLCAicHQtNjY4MDgzYmY3YyJdLAogICAiY2hhcnMiOiAyODQKICB9LAogIHsKICAgIm5vIjogIuS4k+S4mjQiLAogICAiaGVhZGluZyI6ICLkvZzmm7LkuI7kvZzmm7LmioDmnK/nkIborrrvvIjnlLXlrZDpn7PkuZDmlrnlkJHvvIkiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs3MywgOThdLAogICAiaXRlbXMiOiBbInB0LTM4YWZmOWRlYTYiLCAicHQtZGIxOTQ1ZWFjOCIsICJwdC0wNzIzNmQ1YzlkIiwgInB0LTYyN2IxNTdiN2IiXSwKICAgImNoYXJzIjogNDI4CiAgfSwKICB7CiAgICJubyI6ICLkuJPkuJo1IiwKICAgImhlYWRpbmciOiAi6Z+z5LmQ5a2m77yI6Z+z5LmQ5Lyg5pKt5pa55ZCR77yJIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbOTksIDEyM10sCiAgICJpdGVtcyI6IFsicHQtMGM1YTdmMTRmMiIsICJwdC0zOGRhNzA3NDM4IiwgInB0LTVjZjk1ZWUxNjYiXSwKICAgImNoYXJzIjogMzIyCiAgfSwKICB7CiAgICJubyI6ICLkuJPkuJo2IiwKICAgImhlYWRpbmciOiAi6Z+z5LmQ5a2m77yI6Z+z5LmQ57yW5a+85pa55ZCR77yJIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbMTI0LCAxNDFdLAogICAiaXRlbXMiOiBbInB0LTA2ZjQ3ZTA4YTciLCAicHQtMzdhNjE4NmQwYiIsICJwdC0yMWI5MGE5YzVlIl0sCiAgICJjaGFycyI6IDI2MwogIH0sCiAgewogICAibm8iOiAi5LiT5LiaNyIsCiAgICJoZWFkaW5nIjogIumfs+S5kOWtpu+8iOmfs+S5kOe8lui+keaWueWQke+8iSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzE0MiwgMTYxXSwKICAgIml0ZW1zIjogWyJwdC1lNWJkOGI1YjY3IiwgInB0LTU0M2JhNDA3YzMiLCAicHQtOTg5MWM4NjJhNCIsICJwdC00YmMxZDU0ODcxIl0sCiAgICJjaGFycyI6IDI2OQogIH0KIF0sCiAiaXRlbXMiOiBbCiAgInJ1bGUtbG9jLTE1LTIwMjUtOWRjMDUwIiwKICAicHQtZTk0NDA0YzI5NyIsCiAgInB0LWNhMDhhZWM3ZDgiLAogICJwdC0xNmI4M2RkMTlkIiwKICAicHQtNGFmZjViNzUyNiIsCiAgInB0LWRiMTk0NWVhYzgiLAogICJwdC0wNzIzNmQ1YzlkIiwKICAicHQtMGM1YTdmMTRmMiIsCiAgInB0LTM4ZGE3MDc0MzgiLAogICJwdC0wNmY0N2UwOGE3IiwKICAicHQtNDM2YzdiMjRjNyIsCiAgInB0LTdlYTg1ZWNkMWEiLAogICJwdC02MmZmNTBkYTE2IiwKICAicHQtOTE3MTFjMTJkOCIsCiAgInB0LTM5MjFlODEyYzkiLAogICJwdC1mNzZkOWNlMDEyIiwKICAicHQtZmM1YTk4MDYwNCIsCiAgInB0LTJkMWFmNDRkN2IiLAogICJwdC04MTdjMTE2MmZmIiwKICAicHQtMTUzYWFkODY4MCIsCiAgInB0LTg4Y2E2MDYxZDQiLAogICJwdC01YjZjNGQ5M2IyIiwKICAicHQtNDJmMjUxNjc2ZiIsCiAgInB0LTRiZDk3MDI3MWYiLAogICJwdC05YzgwZTAzMTk3IiwKICAicHQtNjY4MDgzYmY3YyIsCiAgInB0LWI3MjU1OWEzYjgiLAogICJwdC0zOGFmZjlkZWE2IiwKICAicHQtNjI3YjE1N2I3YiIsCiAgInB0LTVjZjk1ZWUxNjYiLAogICJwdC0zN2E2MTg2ZDBiIiwKICAicHQtMjFiOTBhOWM1ZSIsCiAgInB0LWU1YmQ4YjViNjciLAogICJwdC01NDNiYTQwN2MzIiwKICAicHQtOTg5MWM4NjJhNCIsCiAgInB0LTRiYzFkNTQ4NzEiCiBdLAogIm5vdGVzIjogWwogICLmlofmoaPmmK/kuIDlvKDmqKrooajvvIjovazkuJPkuJrlt6XkvZzmjqXmlLborqHliJLvvInvvIzooajlpLTkuLrjgIzkuJPkuJrlkI3np7DvvI/njrDmnInlubTnuqfvvI/mjqXmlLbmnaHku7bvvI/nlLPor7fmnZDmlpnopoHmsYLvvI/ogIPmoLjmlrnlvI/jgIHml7bpl7Tlj4rlnLDngrnvvI/ogZTns7vmlrnlvI/jgI3vvIjnrKwgMyDooYzvvInvvIzlhbblkI7mjIkgNyDkuKrkuJPkuJrlkITmiJDkuIDmrrXvvIjnrKwgNOKAkzE2MSDooYzvvInvvJvnrKwgNzMg6KGM6YeN5aSN5Ye6546w5LiA5qyh5YiX5ZCN77yM5L2c5Li66Leo6aG16KGo5aS055WZ5Zyo44CM5LiT5LiaNOOAjeiKguWGheOAgiIsCiAgIuaXoOeroOadoee8luWPt++8jOS4k+S4muWQjeaYr+WOn+aWh+iHquW4pueahOauteagh+mimO+8jOaVhSA3IOS4quS4k+S4muiKgiBoZWFkaW5nIOWFqOmDqCBhdXRob3LvvJvlhbbkuK3jgIzkvZzmm7LkuI7kvZzmm7LmioDmnK/nkIborrrvvIjnlLXlrZDpn7PkuZDmlrnlkJHvvInjgI3lnKjljp/mlofooqvmjaLooYzliIfmiJDjgIzigKbvvIjnlLXlrZDpn7PjgI3vvIvjgIzkuZDmlrnlkJHvvInjgI3vvIjnrKwgNzTigJM3NSDooYzvvInvvIzmjInljrvnqbrnmb3lkI7ku43pgJDlrZflj6/mn6XvvIzorrAgYXV0aG9y44CCIiwKICAicnVsZS1sb2MtMTUtMjAyNS05ZGMwNTAg5piv5paH5qGj57qn5p2h55uu77yI5qCH6aKY4omI5paH5qGj5ZCN77yM5peg5byV5paH77yJ77yM5YiX5YWl44CM6KGo5aS044CN6IqC5bm25Zyo5paH5qGj57qnIGl0ZW1zIOS/neeVmeOAgiIsCiAgInB0LWI3MjU1OWEzYjgg55qE5byV5paH5piv44CM6KGo5aS05YiX5ZCN77yL6Leo6aG16YeN5aSN5YiX5ZCN77yL5L2c5puy5LiT5Lia5ZCN44CN55qE5ou85o6l77yM5ZG95Lit6JC95Zyo56ysIDMg6KGM77yI6Leo6aG16KGo5aS077yJ77yM5pWF6K6w5Zyo54i26IqC44CM5YWo6KGo44CNWzEsMTYxXSDogIzpnZ7jgIzkuJPkuJo044CN77yb54i26IqC5LiOIDcg5Liq5LiT5Lia6IqC44CB6KGo5aS06IqC5Z2H5Li655yf5bWM5aWX44CCIiwKICAi54mI5byP5q6L55WZ77ya5q+P5q6156ys5LiA5YiX44CM5LiT5Lia5ZCN56ew44CN5LiO44CM546w5pyJ5bm057qn44CN77yI5aaC56ysIDTigJM2IOihjOeahOOAjOW9lemfs+iJuuacr++8iOmfs+WTjeWvvOa8lOaWueWQke+8ieOAje+8i+OAjDIwMjXnuqfjgI3vvInliIbooYzmir3lh7rvvIzlkITlubTnuqfvvIgyMDI157qnLzIwMjTnuqcvMjAyM+e6py8yMDIy57qn77yJ5Lmf5ZCE5Y2g5LiA6KGM77yb5oyJ5Y6f5paH5L+d55WZ77yM5pyq6YeN5o6S44CCIgogXQp9Cg==
+{
+ "key": "loc-15-中国传媒大学音乐与录音艺术学院-2025年秋季学期本科生转专业工作接收计划-9dc050",
+ "title": "2025年秋季学期中国传媒大学音录学院本科生转专业工作接收计划",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "全表",
+   "heading": "转专业工作接收计划一览表（表头与 7 个专业）",
+   "heading_kind": "derived",
+   "lines": [1, 161],
+   "items": ["pt-b72559a3b8"],
+   "chars": 2249
+  },
+  {
+   "no": "表头",
+   "heading": "2025年秋季学期中国传媒大学音录学院本科生转专业工作接收计划",
+   "heading_kind": "author",
+   "lines": [1, 3],
+   "items": ["rule-loc-15-2025-9dc050", "pt-436c7b24c7", "pt-7ea85ecd1a"],
+   "chars": 111
+  },
+  {
+   "no": "专业1",
+   "heading": "录音艺术（音响导演方向）",
+   "heading_kind": "author",
+   "lines": [4, 26],
+   "items": ["pt-62ff50da16", "pt-91711c12d8", "pt-3921e812c9", "pt-f76d9ce012", "pt-fc5a980604"],
+   "chars": 320
+  },
+  {
+   "no": "专业2",
+   "heading": "录音艺术（录音工程方向）",
+   "heading_kind": "author",
+   "lines": [27, 48],
+   "items": ["pt-2d1af44d7b", "pt-e94404c297", "pt-817c1162ff", "pt-153aad8680", "pt-88ca6061d4", "pt-5b6c4d93b2", "pt-42f251676f"],
+   "chars": 252
+  },
+  {
+   "no": "专业3",
+   "heading": "音乐表演（声乐演唱方向）",
+   "heading_kind": "author",
+   "lines": [49, 72],
+   "items": ["pt-4bd970271f", "pt-ca08aec7d8", "pt-16b83dd19d", "pt-4aff5b7526", "pt-9c80e03197", "pt-668083bf7c"],
+   "chars": 284
+  },
+  {
+   "no": "专业4",
+   "heading": "作曲与作曲技术理论（电子音乐方向）",
+   "heading_kind": "author",
+   "lines": [73, 98],
+   "items": ["pt-38aff9dea6", "pt-db1945eac8", "pt-07236d5c9d", "pt-627b157b7b"],
+   "chars": 428
+  },
+  {
+   "no": "专业5",
+   "heading": "音乐学（音乐传播方向）",
+   "heading_kind": "author",
+   "lines": [99, 123],
+   "items": ["pt-0c5a7f14f2", "pt-38da707438", "pt-5cf95ee166"],
+   "chars": 322
+  },
+  {
+   "no": "专业6",
+   "heading": "音乐学（音乐编导方向）",
+   "heading_kind": "author",
+   "lines": [124, 141],
+   "items": ["pt-06f47e08a7", "pt-37a6186d0b", "pt-21b90a9c5e"],
+   "chars": 263
+  },
+  {
+   "no": "专业7",
+   "heading": "音乐学（音乐编辑方向）",
+   "heading_kind": "author",
+   "lines": [142, 161],
+   "items": ["pt-e5bd8b5b67", "pt-543ba407c3", "pt-9891c862a4", "pt-4bc1d54871"],
+   "chars": 269
+  }
+ ],
+ "items": [
+  "rule-loc-15-2025-9dc050",
+  "pt-e94404c297",
+  "pt-ca08aec7d8",
+  "pt-16b83dd19d",
+  "pt-4aff5b7526",
+  "pt-db1945eac8",
+  "pt-07236d5c9d",
+  "pt-0c5a7f14f2",
+  "pt-38da707438",
+  "pt-06f47e08a7",
+  "pt-436c7b24c7",
+  "pt-7ea85ecd1a",
+  "pt-62ff50da16",
+  "pt-91711c12d8",
+  "pt-3921e812c9",
+  "pt-f76d9ce012",
+  "pt-fc5a980604",
+  "pt-2d1af44d7b",
+  "pt-817c1162ff",
+  "pt-153aad8680",
+  "pt-88ca6061d4",
+  "pt-5b6c4d93b2",
+  "pt-42f251676f",
+  "pt-4bd970271f",
+  "pt-9c80e03197",
+  "pt-668083bf7c",
+  "pt-b72559a3b8",
+  "pt-38aff9dea6",
+  "pt-627b157b7b",
+  "pt-5cf95ee166",
+  "pt-37a6186d0b",
+  "pt-21b90a9c5e",
+  "pt-e5bd8b5b67",
+  "pt-543ba407c3",
+  "pt-9891c862a4",
+  "pt-4bc1d54871"
+ ],
+ "notes": [
+  "文档是一张横表（转专业工作接收计划），表头为「专业名称／现有年级／接收条件／申请材料要求／考核方式、时间及地点／联系方式」（第 3 行），其后按 7 个专业各成一段（第 4–161 行）；第 73 行重复出现一次列名，作为跨页表头留在「专业4」节内。",
+  "无章条编号，专业名是原文自带的段标题，故 7 个专业节 heading 全部 author；其中「作曲与作曲技术理论（电子音乐方向）」在原文被换行切成「…（电子音」＋「乐方向）」（第 74–75 行），按去空白后仍逐字可查，记 author。",
+  "rule-loc-15-2025-9dc050 是文档级条目（标题≈文档名，无引文），列入「表头」节并在文档级 items 保留。",
+  "pt-b72559a3b8 的引文是「表头列名＋跨页重复列名＋作曲专业名」的拼接，命中落在第 3 行（跨页表头），故记在父节「全表」[1,161] 而非「专业4」；父节与 7 个专业节、表头节均为真嵌套。",
+  "版式残留：每段第一列「专业名称」与「现有年级」（如第 4–6 行的「录音艺术（音响导演方向）」＋「2025级」）分行抽出，各年级（2025级/2024级/2023级/2022级）也各占一行；按原文保留，未重排。"
+ ]
+}

@@ -1,1 +1,178 @@
-ew0KICJrZXkiOiAiZTJkZjc1NTYiLA0KICJ0aXRsZSI6ICLkuK3lm73kvKDlqpLlpKflrabmnKznp5HnlJ/liJvmlrDliJvkuJrlrabliIborqTlrprnrqHnkIblip7ms5XvvIjor5XooYzvvIkiLA0KICJ0cnVuY2F0ZWQiOiBmYWxzZSwNCiAic2VjdGlvbnMiOiBbDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5Lit5Zu95Lyg5aqS5aSn5a2m5pys56eR55Sf5Yib5paw5Yib5Lia5a2m5YiG6K6k5a6a566h55CG5Yqe5rOV77yI6K+V6KGM77yJIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxLA0KICAgIDMNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInJ1bGUtZTJkZjc1NTYiDQogICBdLA0KICAgImNoYXJzIjogODENCiAgfSwNCiAgew0KICAgIm5vIjogIuS4gOOAgSIsDQogICAiaGVhZGluZyI6ICLkuIDjgIHliJvmlrDlrabliIbnmoTorqTlrpoiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDQsDQogICAgNDENCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTgxYThmZTQ4YWYiDQogICBdLA0KICAgImNoYXJzIjogODIyDQogIH0sDQogIHsNCiAgICJubyI6ICLvvIjlm5vvvIkiLA0KICAgImhlYWRpbmciOiAi77yI5Zub77yJ5Yib5paw5a2m5YiG6K6k5a6a5qCH5YeGIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMSwNCiAgICAzMQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtY2FhMWY5MWFhZSIsDQogICAgInB0LWQxYWYzZGY1ZjkiLA0KICAgICJwdC0zMjQxMjdhZDM1IiwNCiAgICAicHQtZDA4ZTNjMWUwZCIsDQogICAgInB0LTk1YzZjOWY3NmIiLA0KICAgICJwdC0yZjNlMGVhNjllIiwNCiAgICAicHQtMmM0NWMzMTkxYyIsDQogICAgInB0LWJlNzZmOGQzN2MiLA0KICAgICJwdC1lYmFjODhkOTQ1IiwNCiAgICAicHQtN2Y3NzQyMDA2ZiINCiAgIF0sDQogICAiY2hhcnMiOiA0NjMNCiAgfSwNCiAgew0KICAgIm5vIjogIu+8iOS6lO+8iSIsDQogICAiaGVhZGluZyI6ICLvvIjkupTvvInotZvkuovnuqfliKsiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDMyLA0KICAgIDQxDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAxOTENCiAgfSwNCiAgew0KICAgIm5vIjogIuS6jOOAgSIsDQogICAiaGVhZGluZyI6ICLkuozjgIHliJvkuJrlrabliIborqTlrprlip7ms5UiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDQyLA0KICAgIDYwDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1jNTc1NGYyNzQ5Ig0KICAgXSwNCiAgICJjaGFycyI6IDQ0MA0KICB9LA0KICB7DQogICAibm8iOiAi77yI5Zub77yJIiwNCiAgICJoZWFkaW5nIjogIu+8iOWbm++8ieWIm+S4muWtpuWIhuiupOWumuagh+WHhiIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNTAsDQogICAgNjANCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTJmODViODQ4YjAiLA0KICAgICJwdC02YmY2YTNlYWY5IiwNCiAgICAicHQtMjQ5OTE1ZjEwOSINCiAgIF0sDQogICAiY2hhcnMiOiAyNzANCiAgfSwNCiAgew0KICAgIm5vIjogIuS4ieOAgSIsDQogICAiaGVhZGluZyI6ICLkuInjgIHliJvmlrDjgIHliJvkuJrlrabliIbnlLPmiqXlj4rorqTlrprml7bpl7QiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDYxLA0KICAgIDY0DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0yMGE1NzU3ODIzIiwNCiAgICAicHQtOGZlMDNmNGNjYyINCiAgIF0sDQogICAiY2hhcnMiOiA5MQ0KICB9LA0KICB7DQogICAibm8iOiAi5Zub44CBIiwNCiAgICJoZWFkaW5nIjogIuWbm+OAgeWIm+aWsOWIm+S4muWtpuWIhuiupOWumuaWueW8j+WPiua1geeoiyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNjUsDQogICAgNzcNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTlkOGM2Zjc3NjciLA0KICAgICJwdC1kOGNjMjk1YTViIg0KICAgXSwNCiAgICJjaGFycyI6IDI4MA0KICB9LA0KICB7DQogICAibm8iOiAi5LqU44CBIiwNCiAgICJoZWFkaW5nIjogIuS6lOOAgeS6ieiuruWkhOeQhuWKnuazlSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNzgsDQogICAgODQNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTRhMjJjZWEzNmYiLA0KICAgICJwdC04OThiNDFkNGZjIg0KICAgXSwNCiAgICJjaGFycyI6IDE0Mw0KICB9LA0KICB7DQogICAibm8iOiAi5YWt44CBIiwNCiAgICJoZWFkaW5nIjogIuagoemVv+WKnuWFrOS8muWuoeiurumAmui/h+OAgeaJp+ihjOaXtumXtOS4juino+mHiumDqOmXqCIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDg1LA0KICAgIDg2DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiA1MQ0KICB9DQogXSwNCiAiaXRlbXMiOiBbDQogICJydWxlLWUyZGY3NTU2IiwNCiAgInB0LTgxYThmZTQ4YWYiLA0KICAicHQtY2FhMWY5MWFhZSIsDQogICJwdC1kMWFmM2RmNWY5IiwNCiAgInB0LTMyNDEyN2FkMzUiLA0KICAicHQtZDA4ZTNjMWUwZCIsDQogICJwdC05NWM2YzlmNzZiIiwNCiAgInB0LTJmM2UwZWE2OWUiLA0KICAicHQtMmM0NWMzMTkxYyIsDQogICJwdC1iZTc2ZjhkMzdjIiwNCiAgInB0LWViYWM4OGQ5NDUiLA0KICAicHQtN2Y3NzQyMDA2ZiIsDQogICJwdC1jNTc1NGYyNzQ5IiwNCiAgInB0LTJmODViODQ4YjAiLA0KICAicHQtNmJmNmEzZWFmOSIsDQogICJwdC0yNDk5MTVmMTA5IiwNCiAgInB0LTIwYTU3NTc4MjMiLA0KICAicHQtOGZlMDNmNGNjYyIsDQogICJwdC05ZDhjNmY3NzY3IiwNCiAgInB0LWQ4Y2MyOTVhNWIiLA0KICAicHQtNGEyMmNlYTM2ZiIsDQogICJwdC04OThiNDFkNGZjIg0KIF0sDQogIm5vdGVzIjogWw0KICAi5LiA44CB5LqM5Lik5Liq5aSn6aG55LiL5ZCE5pyJ44CM77yI5Zub77yJ4oCm6K6k5a6a5qCH5YeG44CN5bCP5qCH6aKY77yI5Y+m5pyJ5LiA44CB77yI5LqU77yJ6LWb5LqL57qn5Yir77yJ77yM5oyJ55yf5bWM5aWX5aSE55CG77ya54i26IqCID0g5LiA44CBL+S6jOOAgeWFqOWMuumXtO+8jOWtkOiKgiA9IO+8iOWbm++8ie+8iOS6lO+8ieWwj+agh+mimOWMuumXtOOAgiIsDQogICLjgIzlha3jgIHjgI3ljp/mlofmsqHmnInlsI/moIfpopjvvIzlj6rmnInkuIDlj6XjgIzmnKznrqHnkIblip7ms5Xnu48gMjAxOOW5tCAxIOaciCAyIOaXpeagoemVv+WKnuWFrOS8muWuoeiurumAmui/h+KApuKApuOAjeato+aWh++8jOaVhSBoZWFkaW5nIOeUqCBkZXJpdmVk44CCIiwNCiAgIuOAjO+8iOS6jO+8ieWtpueUn+iOt+W+l+eahOWIm+aWsOWtpuWIhuWPr+S7peS9nOS4uuWunui3teWtpuWIhuiuoeWFpeWtpueUn+aIkOe7qeWNleOAjeetie+8iOS4gO+8iSjkuowpKOS4iSnml6Dni6znq4vlsI/moIfpopjvvIzkuI3lho3liIflrZDoioLvvIzmnaHnm67nu5/okL3niLboioLjgIIiLA0KICAicnVsZS1lMmRmNzU1NiDkuLrmlofmoaPnuqfmnaHnm67jgIHml6DlvJXmlofvvIzokL3moIfpopjoioLlubbliJflhaXmlofmoaPnuqcgaXRlbXPjgIIiLA0KICAi77yI5LqU77yJ6LWb5LqL57qn5Yir5LiO44CM5YWt44CB44CN5peg5a+55bqUIHB0IOadoeebruiQveeCueOAgiINCiBdDQp9DQo=
+{
+ "key": "e2df7556",
+ "title": "中国传媒大学本科生创新创业学分认定管理办法（试行）",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "中国传媒大学本科生创新创业学分认定管理办法（试行）",
+   "heading_kind": "author",
+   "lines": [
+    1,
+    3
+   ],
+   "items": [
+    "rule-e2df7556"
+   ],
+   "chars": 81
+  },
+  {
+   "no": "一、",
+   "heading": "一、创新学分的认定",
+   "heading_kind": "author",
+   "lines": [
+    4,
+    41
+   ],
+   "items": [
+    "pt-81a8fe48af"
+   ],
+   "chars": 822
+  },
+  {
+   "no": "（四）",
+   "heading": "（四）创新学分认定标准",
+   "heading_kind": "author",
+   "lines": [
+    11,
+    31
+   ],
+   "items": [
+    "pt-caa1f91aae",
+    "pt-d1af3df5f9",
+    "pt-324127ad35",
+    "pt-d08e3c1e0d",
+    "pt-95c6c9f76b",
+    "pt-2f3e0ea69e",
+    "pt-2c45c3191c",
+    "pt-be76f8d37c",
+    "pt-ebac88d945",
+    "pt-7f7742006f"
+   ],
+   "chars": 463
+  },
+  {
+   "no": "（五）",
+   "heading": "（五）赛事级别",
+   "heading_kind": "author",
+   "lines": [
+    32,
+    41
+   ],
+   "items": [],
+   "chars": 191
+  },
+  {
+   "no": "二、",
+   "heading": "二、创业学分认定办法",
+   "heading_kind": "author",
+   "lines": [
+    42,
+    60
+   ],
+   "items": [
+    "pt-c5754f2749"
+   ],
+   "chars": 440
+  },
+  {
+   "no": "（四）",
+   "heading": "（四）创业学分认定标准",
+   "heading_kind": "author",
+   "lines": [
+    50,
+    60
+   ],
+   "items": [
+    "pt-2f85b848b0",
+    "pt-6bf6a3eaf9",
+    "pt-249915f109"
+   ],
+   "chars": 270
+  },
+  {
+   "no": "三、",
+   "heading": "三、创新、创业学分申报及认定时间",
+   "heading_kind": "author",
+   "lines": [
+    61,
+    64
+   ],
+   "items": [
+    "pt-20a5757823",
+    "pt-8fe03f4ccc"
+   ],
+   "chars": 91
+  },
+  {
+   "no": "四、",
+   "heading": "四、创新创业学分认定方式及流程",
+   "heading_kind": "author",
+   "lines": [
+    65,
+    77
+   ],
+   "items": [
+    "pt-9d8c6f7767",
+    "pt-d8cc295a5b"
+   ],
+   "chars": 280
+  },
+  {
+   "no": "五、",
+   "heading": "五、争议处理办法",
+   "heading_kind": "author",
+   "lines": [
+    78,
+    84
+   ],
+   "items": [
+    "pt-4a22cea36f",
+    "pt-898b41d4fc"
+   ],
+   "chars": 143
+  },
+  {
+   "no": "六、",
+   "heading": "校长办公会审议通过、执行时间与解释部门",
+   "heading_kind": "derived",
+   "lines": [
+    85,
+    86
+   ],
+   "items": [],
+   "chars": 51
+  }
+ ],
+ "items": [
+  "rule-e2df7556",
+  "pt-81a8fe48af",
+  "pt-caa1f91aae",
+  "pt-d1af3df5f9",
+  "pt-324127ad35",
+  "pt-d08e3c1e0d",
+  "pt-95c6c9f76b",
+  "pt-2f3e0ea69e",
+  "pt-2c45c3191c",
+  "pt-be76f8d37c",
+  "pt-ebac88d945",
+  "pt-7f7742006f",
+  "pt-c5754f2749",
+  "pt-2f85b848b0",
+  "pt-6bf6a3eaf9",
+  "pt-249915f109",
+  "pt-20a5757823",
+  "pt-8fe03f4ccc",
+  "pt-9d8c6f7767",
+  "pt-d8cc295a5b",
+  "pt-4a22cea36f",
+  "pt-898b41d4fc"
+ ],
+ "notes": [
+  "一、二两个大项下各有「（四）…认定标准」小标题（另有一、（五）赛事级别），按真嵌套处理：父节 = 一、/二、全区间，子节 = （四）（五）小标题区间。",
+  "「六、」原文没有小标题，只有一句「本管理办法经 2018年 1 月 2 日校长办公会审议通过……」正文，故 heading 用 derived。",
+  "「（二）学生获得的创新学分可以作为实践学分计入学生成绩单」等（一）(二)(三)无独立小标题，不再切子节，条目统落父节。",
+  "rule-e2df7556 为文档级条目、无引文，落标题节并列入文档级 items。",
+  "（五）赛事级别与「六、」无对应 pt 条目落点。"
+ ]
+}

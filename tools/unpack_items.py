@@ -1,1 +1,26 @@
-IiIi5oqK5Y+R5biD55So55qEIGl0ZW1zLmpzb24uZ3og6L+Y5Y6f5oiQIGl0ZW1zLmpzb27jgIIKCuS7k+W6k+mHjOWkp+aWh+S7tuS7pSBneiDlj5HluIPvvIjmmI7mlocgMzFNQu+8jEdpdEh1YiDlpKfor7fmsYLkvZPkvKDkuI3kuIrljrvvvInvvJthcHAucHkg5Lik56eN6YO96K6k77yMCuS9humDqOWIhuW8gOWPkeiEmuacrOWPquivu+aYjuaWh++8jOi3keWug+S7rOS5i+WJjeaJp+ihjOS4gOasoeacrOiEmuacrOWNs+WPr+OAggrnlKjms5XvvJpweXRob24gdG9vbHMvdW5wYWNrX2l0ZW1zLnB5CiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgZ3ppcApmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgKClJPT1QgPSBQYXRoKF9fZmlsZV9fKS5yZXNvbHZlKCkucGFyZW50LnBhcmVudAoKCmRlZiBtYWluKCkgLT4gTm9uZToKICAgIHBsYWluID0gUk9PVCAvICJpdGVtcy5qc29uIgogICAgZ3ogPSBST09UIC8gIml0ZW1zLmpzb24uZ3oiCiAgICBpZiBwbGFpbi5leGlzdHMoKToKICAgICAgICBwcmludCgiaXRlbXMuanNvbiDlt7LlrZjlnKjvvIzot7Pov4ciKQogICAgICAgIHJldHVybgogICAgcGxhaW4ud3JpdGVfYnl0ZXMoZ3ppcC5kZWNvbXByZXNzKGd6LnJlYWRfYnl0ZXMoKSkpCiAgICBwcmludChmIuW3sui/mOWOnyBpdGVtcy5qc29u77yIe3BsYWluLnN0YXQoKS5zdF9zaXplIC8gMTA0ODU3NjouMWZ9IE1C77yJIikKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==
+"""把发布用的 items.json.gz 还原成 items.json。
+
+仓库里大文件以 gz 发布（明文 31MB，GitHub 大请求体传不上去）；app.py 两种都认，
+但部分开发脚本只读明文，跑它们之前执行一次本脚本即可。
+用法：python tools/unpack_items.py
+"""
+from __future__ import annotations
+
+import gzip
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+
+
+def main() -> None:
+    plain = ROOT / "items.json"
+    gz = ROOT / "items.json.gz"
+    if plain.exists():
+        print("items.json 已存在，跳过")
+        return
+    plain.write_bytes(gzip.decompress(gz.read_bytes()))
+    print(f"已还原 items.json（{plain.stat().st_size / 1048576:.1f} MB）")
+
+
+if __name__ == "__main__":
+    main()

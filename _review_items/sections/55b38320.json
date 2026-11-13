@@ -1,1 +1,154 @@
-ew0KICJrZXkiOiAiNTViMzgzMjAiLA0KICJ0aXRsZSI6ICLjgJDono3lkIjpl6jmiLfjgJHmnI3liqEg5a6e6aqM5a6k5LiO6K6+5aSH566h55CG5aSEIiwNCiAidHJ1bmNhdGVkIjogZmFsc2UsDQogInNlY3Rpb25zIjogWw0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuWunumqjOWupOW7uuiuvumhueebrumqjOaUtueUs+ivtyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMSwNCiAgICAyOA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicnVsZS01NWIzODMyMCIsDQogICAgInB0LWUyYzkxOGJmNTYiLA0KICAgICJwdC1kNWIzZWM2NzE4IiwNCiAgICAicHQtNzkwZjk3ZDI4NiIsDQogICAgInB0LTQ5ZmQwMjdlZDYiLA0KICAgICJwdC02OWM1MmRmNGEyIiwNCiAgICAicHQtODBmMGYzZTE4MyIsDQogICAgInB0LTRhNGIzOTczYWYiDQogICBdLA0KICAgImNoYXJzIjogNjQ1DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5byA5pS+5YWx5Lqr5LiO6K6+5aSH5YCf55SoIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyOSwNCiAgICA1Mw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNmQ3MzUwMTkzNiIsDQogICAgInB0LTM0ZWIyZDY0ZDAiLA0KICAgICJwdC0zNTljMzkzYTk4IiwNCiAgICAicHQtNmQ0ZGI3MWJmMyIsDQogICAgInB0LTQxYjcxZmFmYmMiLA0KICAgICJwdC00MDViZjA1Yzc3IiwNCiAgICAicHQtN2EyZThiMzc0ZiIsDQogICAgInB0LWE5YmIwOTMzMmUiLA0KICAgICJwdC02MDM1M2ZlOGM1Ig0KICAgXSwNCiAgICJjaGFycyI6IDQyOQ0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuWunumqjOWupOW8gOaUvumihOe6piIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNTQsDQogICAgNzUNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWFjZjZlN2FiNzMiLA0KICAgICJwdC0yZTY2ZDAzMGRmIiwNCiAgICAicHQtM2E2YWJmNGJkYyINCiAgIF0sDQogICAiY2hhcnMiOiAyOTUNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLlrp7pqozlrqTlronlhajlh4blhaUiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDc2LA0KICAgIDk1DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0yMWJhNDA1MzJjIiwNCiAgICAicHQtODg4ZmI0MDI0YSIsDQogICAgInB0LWUzMzliNGE2OGUiDQogICBdLA0KICAgImNoYXJzIjogMjMzDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5ZCI5ZCM566h55CGIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA5NiwNCiAgICA5Nw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZGY1YmIzODMxMyINCiAgIF0sDQogICAiY2hhcnMiOiAzOQ0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuWunumqjOWupOWuieWFqOajgOafpSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgOTgsDQogICAgOTkNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTM4ZjEzOWQyZGEiDQogICBdLA0KICAgImNoYXJzIjogNjYNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLlrp7pqozlrqTnrqHnkIbns7vnu58iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDEwMCwNCiAgICAxMDENCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTczZDk5NjRkYzMiDQogICBdLA0KICAgImNoYXJzIjogNDUNCiAgfQ0KIF0sDQogIml0ZW1zIjogWw0KICAicnVsZS01NWIzODMyMCIsDQogICJwdC00MWI3MWZhZmJjIiwNCiAgInB0LTQwNWJmMDVjNzciLA0KICAicHQtN2EyZThiMzc0ZiIsDQogICJwdC02MDM1M2ZlOGM1IiwNCiAgInB0LWUyYzkxOGJmNTYiLA0KICAicHQtZDViM2VjNjcxOCIsDQogICJwdC03OTBmOTdkMjg2IiwNCiAgInB0LTQ5ZmQwMjdlZDYiLA0KICAicHQtNjljNTJkZjRhMiIsDQogICJwdC04MGYwZjNlMTgzIiwNCiAgInB0LTRhNGIzOTczYWYiLA0KICAicHQtNmQ3MzUwMTkzNiIsDQogICJwdC0zNGViMmQ2NGQwIiwNCiAgInB0LTM1OWMzOTNhOTgiLA0KICAicHQtNmQ0ZGI3MWJmMyIsDQogICJwdC1hOWJiMDkzMzJlIiwNCiAgInB0LWFjZjZlN2FiNzMiLA0KICAicHQtMmU2NmQwMzBkZiIsDQogICJwdC0zYTZhYmY0YmRjIiwNCiAgInB0LWUzMzliNGE2OGUiLA0KICAicHQtMjFiYTQwNTMyYyIsDQogICJwdC04ODhmYjQwMjRhIiwNCiAgInB0LWRmNWJiMzgzMTMiLA0KICAicHQtMzhmMTM5ZDJkYSIsDQogICJwdC03M2Q5OTY0ZGMzIg0KIF0sDQogIm5vdGVzIjogWw0KICAi5pys5Lu25piv44CM6J6N5ZCI6Zeo5oi344CN5pyN5Yqh6aG15a+85Ye655qEIGRvY3jihpJQREYg5oq95Y+W56i/77ya5rKh5pyJ56ug6IqC5Y+377yM5Y+q5pyJIDcg5Liq5pyN5Yqh5LqL6aG55ZCN56ew5ZCE6Ieq5oiQ5q6144CB5q+P6aG55LiL6Z2i5oyJICgxKS0oMTApIOWbuuWumuWtl+auteaOkuWIl++8iOacjeWKoeWGheWuue+8j+acjeWKoeWvueixoe+8j+S4muWKoeWRqOacn++8j+WKnueQhuexu+Wei++8j+WSqOivoueUteivne+8j+WKnueQhumhu+efpe+8j+WKnueQhua1geeoi++8j+WKnueQhuaXtumXtO+8j+WKnueQhuWcsOeCue+8j+ebuOWFs+mTvuaOpe+8ieOAgigxKS0oMTApIOaYr+Wtl+auteWPt+S4jeaYr+eroOiKguagh+mimO+8jOaVheacquaMieWtl+auteaLhuiKgu+8jOS4gOS4quacjeWKoeS6i+mhueS4gOiKguOAgWBub2Ag5LiA5b6L44CM4oCU44CN44CCIiwNCiAgIuesrCAxIOihjOOAjOWunumqjOWupOS4juiuvuWkh+euoeeQhuWkhOOAjeaYr+mDqOmXqOWQje+8jOesrCAyIOihjOOAjOWunumqjOWupOW7uuiuvumhueebrumqjOaUtueUs+ivt+OAjeaYr+esrOS4gOS4quacjeWKoeWQje+8jOesrCAzIOihjOOAjOebuOS8vOacjeWKoe+8muKApuOAjeaYr+WFtumZhOazqO+8m+S4ieiAheWQjOWxnuesrOS4gOiKgu+8jOiKgueahOWMuumXtOS7juesrCAxIOihjOi1t+OAgiIsDQogICLjgIzlkIjlkIznrqHnkIbjgI3jgIzlrp7pqozlrqTlronlhajmo4Dmn6XjgI3jgIzlrp7pqozlrqTnrqHnkIbns7vnu5/jgI3kuInpobnvvIjnrKwgOTYtMTAxIOihjO+8ieWcqOWOn+aWh+mHjOWPquacieWFpeWPo+mTvuaOpeOAgeayoeaciSAoMSktKDEwKSDlrZfmrrXvvIzmlYXlkIToh6rljZXliJfmiJDkuIDoioLjgIIiLA0KICAi5Y6f5paH5byC5bi477yI5oq95Y+W5oqK6K+N5bqP5ZKM56m65qC85omT5Lmx77yM5oyJ5Y6f5paH5L+d55WZ5pyq5pS577yJ77ya6ZO+5o6l6KKr5ouG5pWj5aaC44CMW3Bj6ZO+5o6lIGQgTSBkIGRdKGh0dHBzOi8vZXNwYWNlLmN1Yy5lIHUuY24vZ2VtaW5pL3N5cy9TWVNYIFlTU1EvaW4gZXguIG8p44CN44CMW+aJi+acuumTvuaOpV0oKeOAjeOAjFvlrp7pqozlrqTlronlhajmo4Dmn6XlhaXlj6NdKCBkIGRodHRwOi8vbGVtIHN5cy5jdWMuZSB1LmNuL2Nhc2xvZ2luLmFzcHg/dHlwZT0xKeOAje+8m+Wtl+auteato+aWh+S5n+acieaui+WPpeWmguOAjDIu44CQ5Luq5Zmo6K6+5aSH5YCf55So5oyJ5YW35L2T6K6+5aSH5YWx5Lqr5Lit5b+D6KaB5rGC44CC44CN44CCIiwNCiAgIuWOn+aWh+eVmeeZve+8muesrCA1MCDooYzjgIwoOSnlvIDmlL7lhbHkuqvkuI7orr7lpIflgJ/nlKjlip7nkIblnLDngrnjgI3jgIHnrKwgNzIg6KGM44CMKDkp5a6e6aqM5a6k5byA5pS+6aKE57qm5Yqe55CG5Zyw54K544CN44CB56ysIDkyIOihjOOAjCg4KeWunumqjOWupOWuieWFqOWHhuWFpeWKnueQhuaXtumXtOOAjeOAgeesrCA5MyDooYzjgIwoOSnigKblip7nkIblnLDngrnjgI3lkI7pnaLpg73mmK/nqbrnmoTvvJvlrp7pqozlrqTlronlhajlh4blhaXnmoQgKDEpIOacjeWKoeWGheWuueS4uuepuuOAgSg2KSDlip7nkIbpobvnn6XkuI4gKDcpIOWKnueQhua1geeoi+WGmeOAjOW+heihpeWFheOAjeKAlOKAlOWOn+aWh+WmguatpO+8jOacquihpeWGheWuueOAgiIsDQogICJwdC1lMzM5YjRhNjhlIOeahOagh+mimOiiq+S4iua4uOeZu+iusOaIkOOAjCgxMCnlrp7pqozlrqTlvIDmlL7pooTnuqbnm7jlhbPpk77mjqUg5a6e6aqM5a6k5a6J5YWo5YeG5YWl44CN77yM5L2G5YW25byV5paH44CM5a6e6aqM5a6k5a6J5YWo5YeG5YWl55u45Ly85pyN5Yqh77ya5a6e6aqM5a6k566h55CG57O757uf44CN5a6e6ZmF6JC95Zyo56ysIDc2LTc3IOihjO+8jOaMieW8leaWh+W9kuWFpeOAjOWunumqjOWupOWuieWFqOWHhuWFpeOAjeS4gOiKgu+8jOacquaMieagh+mimOWhnui/m+OAjOWunumqjOWupOW8gOaUvumihOe6puOAjeOAgiIsDQogICJydWxlLTU1YjM4MzIwIOS4uuaWh+aho+e6p+adoeebru+8iOaXoOW8leaWh++8ie+8jOWFtuagh+mimOKJiOacrOS7tuaWh+S7tuWQje+8jOaMieWPo+W+hOaUvui/m+esrOS4gOiKguOAjOWunumqjOWupOW7uuiuvumhueebrumqjOaUtueUs+ivt+OAjeOAgiINCiBdDQp9DQo=
+{
+ "key": "55b38320",
+ "title": "【融合门户】服务 实验室与设备管理处",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "实验室建设项目验收申请",
+   "heading_kind": "author",
+   "lines": [
+    1,
+    28
+   ],
+   "items": [
+    "rule-55b38320",
+    "pt-e2c918bf56",
+    "pt-d5b3ec6718",
+    "pt-790f97d286",
+    "pt-49fd027ed6",
+    "pt-69c52df4a2",
+    "pt-80f0f3e183",
+    "pt-4a4b3973af"
+   ],
+   "chars": 645
+  },
+  {
+   "no": "—",
+   "heading": "开放共享与设备借用",
+   "heading_kind": "author",
+   "lines": [
+    29,
+    53
+   ],
+   "items": [
+    "pt-6d73501936",
+    "pt-34eb2d64d0",
+    "pt-359c393a98",
+    "pt-6d4db71bf3",
+    "pt-41b71fafbc",
+    "pt-405bf05c77",
+    "pt-7a2e8b374f",
+    "pt-a9bb09332e",
+    "pt-60353fe8c5"
+   ],
+   "chars": 429
+  },
+  {
+   "no": "—",
+   "heading": "实验室开放预约",
+   "heading_kind": "author",
+   "lines": [
+    54,
+    75
+   ],
+   "items": [
+    "pt-acf6e7ab73",
+    "pt-2e66d030df",
+    "pt-3a6abf4bdc"
+   ],
+   "chars": 295
+  },
+  {
+   "no": "—",
+   "heading": "实验室安全准入",
+   "heading_kind": "author",
+   "lines": [
+    76,
+    95
+   ],
+   "items": [
+    "pt-21ba40532c",
+    "pt-888fb4024a",
+    "pt-e339b4a68e"
+   ],
+   "chars": 233
+  },
+  {
+   "no": "—",
+   "heading": "合同管理",
+   "heading_kind": "author",
+   "lines": [
+    96,
+    97
+   ],
+   "items": [
+    "pt-df5bb38313"
+   ],
+   "chars": 39
+  },
+  {
+   "no": "—",
+   "heading": "实验室安全检查",
+   "heading_kind": "author",
+   "lines": [
+    98,
+    99
+   ],
+   "items": [
+    "pt-38f139d2da"
+   ],
+   "chars": 66
+  },
+  {
+   "no": "—",
+   "heading": "实验室管理系统",
+   "heading_kind": "author",
+   "lines": [
+    100,
+    101
+   ],
+   "items": [
+    "pt-73d9964dc3"
+   ],
+   "chars": 45
+  }
+ ],
+ "items": [
+  "rule-55b38320",
+  "pt-41b71fafbc",
+  "pt-405bf05c77",
+  "pt-7a2e8b374f",
+  "pt-60353fe8c5",
+  "pt-e2c918bf56",
+  "pt-d5b3ec6718",
+  "pt-790f97d286",
+  "pt-49fd027ed6",
+  "pt-69c52df4a2",
+  "pt-80f0f3e183",
+  "pt-4a4b3973af",
+  "pt-6d73501936",
+  "pt-34eb2d64d0",
+  "pt-359c393a98",
+  "pt-6d4db71bf3",
+  "pt-a9bb09332e",
+  "pt-acf6e7ab73",
+  "pt-2e66d030df",
+  "pt-3a6abf4bdc",
+  "pt-e339b4a68e",
+  "pt-21ba40532c",
+  "pt-888fb4024a",
+  "pt-df5bb38313",
+  "pt-38f139d2da",
+  "pt-73d9964dc3"
+ ],
+ "notes": [
+  "本件是「融合门户」服务页导出的 docx→PDF 抽取稿：没有章节号，只有 7 个服务事项名称各自成段、每项下面按 (1)-(10) 固定字段排列（服务内容／服务对象／业务周期／办理类型／咨询电话／办理须知／办理流程／办理时间／办理地点／相关链接）。(1)-(10) 是字段号不是章节标题，故未按字段拆节，一个服务事项一节、`no` 一律「—」。",
+  "第 1 行「实验室与设备管理处」是部门名，第 2 行「实验室建设项目验收申请」是第一个服务名，第 3 行「相似服务：…」是其附注；三者同属第一节，节的区间从第 1 行起。",
+  "「合同管理」「实验室安全检查」「实验室管理系统」三项（第 96-101 行）在原文里只有入口链接、没有 (1)-(10) 字段，故各自单列成一节。",
+  "原文异常（抽取把词序和空格打乱，按原文保留未改）：链接被拆散如「[pc链接 d M d d](https://espace.cuc.e u.cn/gemini/sys/SYSX YSSQ/in ex. o)」「[手机链接]()」「[实验室安全检查入口]( d dhttp://lem sys.cuc.e u.cn/caslogin.aspx?type=1)」；字段正文也有残句如「2.【仪器设备借用按具体设备共享中心要求。」。",
+  "原文留白：第 50 行「(9)开放共享与设备借用办理地点」、第 72 行「(9)实验室开放预约办理地点」、第 92 行「(8)实验室安全准入办理时间」、第 93 行「(9)…办理地点」后面都是空的；实验室安全准入的 (1) 服务内容为空、(6) 办理须知与 (7) 办理流程写「待补充」——原文如此，未补内容。",
+  "pt-e339b4a68e 的标题被上游登记成「(10)实验室开放预约相关链接 实验室安全准入」，但其引文「实验室安全准入相似服务：实验室管理系统」实际落在第 76-77 行，按引文归入「实验室安全准入」一节，未按标题塞进「实验室开放预约」。",
+  "rule-55b38320 为文档级条目（无引文），其标题≈本件文件名，按口径放进第一节「实验室建设项目验收申请」。"
+ ]
+}

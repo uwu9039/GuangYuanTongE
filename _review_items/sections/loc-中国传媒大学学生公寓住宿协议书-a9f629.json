@@ -1,1 +1,297 @@
-ew0KICJrZXkiOiAibG9jLeS4reWbveS8oOWqkuWkp+WtpuWtpueUn+WFrOWvk+S9j+Wuv+WNj+iuruS5pi1hOWY2MjkiLA0KICJ0aXRsZSI6ICLkuK3lm73kvKDlqpLlpKflrablrabnlJ/lhazlr5PkvY/lrr/ljY/orq7kuaYiLA0KICJ0cnVuY2F0ZWQiOiBmYWxzZSwNCiAic2VjdGlvbnMiOiBbDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi56uL57qm5YmN6KiA77ya55Sy5LmZ5Y+M5pa55LiO6K6i57qm55uu55qEIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMSwNCiAgICA1DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJydWxlLWxvYy1hOWY2MjkiLA0KICAgICJwdC0wODUzOWNjZWM4IiwNCiAgICAicHQtZDc4OWI4MzE3MCINCiAgIF0sDQogICAiY2hhcnMiOiAxMTkNCiAgfSwNCiAgew0KICAgIm5vIjogIuS4gCIsDQogICAiaGVhZGluZyI6ICLlhaXlrablhaXkvY/miYvnu63vvJrlvZXlj5bjgIHnvLTotLnjgIHnrb7orqLljY/orq4iLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA2LA0KICAgIDgNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTM1YjJjZWU4YTgiDQogICBdLA0KICAgImNoYXJzIjogNjANCiAgfSwNCiAgew0KICAgIm5vIjogIuS6jCIsDQogICAiaGVhZGluZyI6ICLmiL/pl7TkuI7luorkvY3nlLHnlLLmlrnlronmjpLjgIHosIPlrr/pobvnlLPor7ciLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA5LA0KICAgIDExDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1mYzMzZGM1YjBjIg0KICAgXSwNCiAgICJjaGFycyI6IDYxDQogIH0sDQogIHsNCiAgICJubyI6ICLkuIkiLA0KICAgImhlYWRpbmciOiAi5Lil6YeN6L+d6KeE5pe257uI5q2i5Y2P6K6u44CB6ZmQ5pyf6YCA5a6/5bm25oql6YCB5aSE55CGIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMTIsDQogICAgMTUNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTlhNGNhODI0NDkiDQogICBdLA0KICAgImNoYXJzIjogOTgNCiAgfSwNCiAgew0KICAgIm5vIjogIuWbmyIsDQogICAiaGVhZGluZyI6ICLnlLLmlrnnmoTmnYPliKnlkozkuYnliqEiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDE2LA0KICAgIDMxDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1hOTNmNmFjOTM5Ig0KICAgXSwNCiAgICJjaGFycyI6IDMxNQ0KICB9LA0KICB7DQogICAibm8iOiAi77yI5LiA77yJIiwNCiAgICJoZWFkaW5nIjogIuWFrOWvk+aXpeW4uOacjeWKoeeuoeeQhuiBjOi0oyIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDE3LA0KICAgIDE4DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAzNw0KICB9LA0KICB7DQogICAibm8iOiAi77yI5LqM77yJIiwNCiAgICJoZWFkaW5nIjogIuWtpuS5oOeUn+a0u+mFjeWll+iuvuaWveS4juWFpeS9j+WJjeS/nea0geajgOS/riIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDE5LA0KICAgIDIxDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC03MWE1NzkzNDExIg0KICAgXSwNCiAgICJjaGFycyI6IDU3DQogIH0sDQogIHsNCiAgICJubyI6ICLvvIjkuInvvIkiLA0KICAgImhlYWRpbmciOiAi5a6J5YWo5beh5p+l44CB5raI6Ziy6ZqQ5oKj5o6S5p+l5LiO5YaF5Yqh5qOA5p+lIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMjIsDQogICAgMjQNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWE4Njg2ZDM2MGIiDQogICBdLA0KICAgImNoYXJzIjogNjANCiAgfSwNCiAgew0KICAgIm5vIjogIu+8iOWbm++8iSIsDQogICAiaGVhZGluZyI6ICLlhazlhbHorr7mlr3mo4Dkv67lhbvmiqTkuI7lhazlhbHljLrln5/kv53mtIHmtojmnYAiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyNSwNCiAgICAyNw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMjcxNjFlNzQ3YiINCiAgIF0sDQogICAiY2hhcnMiOiA2NA0KICB9LA0KICB7DQogICAibm8iOiAi77yI5LqU77yJIiwNCiAgICJoZWFkaW5nIjogIuS9j+Wuv+WuieWFqOWuo+S8oOaVmeiCsuS4jui/neinhOihjOS4uue6oOatoyIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDI4LA0KICAgIDMxDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC01YTE0YTRmNTQxIg0KICAgXSwNCiAgICJjaGFycyI6IDg2DQogIH0sDQogIHsNCiAgICJubyI6ICLkupQiLA0KICAgImhlYWRpbmciOiAi5LmZ5pa555qE5p2D5Yip5ZKM5LmJ5YqhIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzMiwNCiAgICA1OA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZjY5NDMxZWZhMSINCiAgIF0sDQogICAiY2hhcnMiOiA2MTkNCiAgfSwNCiAgew0KICAgIm5vIjogIu+8iOS4gO+8iSIsDQogICAiaGVhZGluZyI6ICLkvp3op4Tlip7nkIblhaXkvY/osIPlrr/pgIDlrr/lubbmjqXlj5fov53op4TlpITnkIYiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzMywNCiAgICAzNg0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogODENCiAgfSwNCiAgew0KICAgIm5vIjogIu+8iOS6jO+8iSIsDQogICAiaGVhZGluZyI6ICLnm5HnnaPmnI3liqHnrqHnkIbkuI7kuInkuKrlj43ppojmuKDpgZMiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzNywNCiAgICAzOQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtY2FhOGI0MTkyYyINCiAgIF0sDQogICAiY2hhcnMiOiA3NQ0KICB9LA0KICB7DQogICAibm8iOiAi77yI5LiJ77yJIiwNCiAgICJoZWFkaW5nIjogIumFjeWQiOaXpeW4uOajgOafpeS4juWPguS4juWFrOWvk+aWh+WMluW7uuiuviIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDQwLA0KICAgIDQyDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0xNzVhODRlMDczIg0KICAgXSwNCiAgICJjaGFycyI6IDYzDQogIH0sDQogIHsNCiAgICJubyI6ICLvvIjlm5vvvIkiLA0KICAgImhlYWRpbmciOiAi5a6J5YWo6LSj5Lu744CB6Zeo56qX6ZKl5YyZ5L+d566h5LiO5YWF55S15a6d5L2/55SoIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNDMsDQogICAgNDkNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWNjYWY5NjgwZDMiLA0KICAgICJwdC03YjJjNWYzY2MwIg0KICAgXSwNCiAgICJjaGFycyI6IDE3Mg0KICB9LA0KICB7DQogICAibm8iOiAi77yI5LqU77yJIiwNCiAgICJoZWFkaW5nIjogIui/neemgeeJqeWTgeeahOeOsOWcuuWkhOe9ruS4jueZu+iusOaaguaJoyIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDUwLA0KICAgIDU0DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC01YzlkNWJiOTQyIg0KICAgXSwNCiAgICJjaGFycyI6IDExNQ0KICB9LA0KICB7DQogICAibm8iOiAi77yI5YWt77yJIiwNCiAgICJoZWFkaW5nIjogIuagoeaWueWboOS/rue8ruiwg+aVtOWuv+iIjeaXtuS5meaWuemhu+acjeS7jiIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDU1LA0KICAgIDU4DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0wOTk3Mjc0ZDVjIg0KICAgXSwNCiAgICJjaGFycyI6IDEwMg0KICB9LA0KICB7DQogICAibm8iOiAi5YWtIiwNCiAgICJoZWFkaW5nIjogIuacquWwveS6i+WunOS+neWbveWutuazleinhOS4juWtpuagoeWItuW6puaJp+ihjCIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDU5LA0KICAgIDYwDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0zNjY4OGFjN2JhIg0KICAgXSwNCiAgICJjaGFycyI6IDM0DQogIH0sDQogIHsNCiAgICJubyI6ICLkuIMiLA0KICAgImhlYWRpbmciOiAi5Y2P6K6u5Lu95pWw44CB55Sf5pWI5p2h5Lu25LiO57qm5p2f5pWI5YqbIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNjEsDQogICAgNjMNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTgxMmRmMjFmYmYiDQogICBdLA0KICAgImNoYXJzIjogNTgNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLokL3mrL7vvJrnlLLmlrnnm5bnq6DjgIHkuZnmlrnnrb7lrZfkuI7lrablj7fmpbzlj7flrr/oiI3lj7ciLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA2NCwNCiAgICA3MA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtODhkNzRiZWU5OSINCiAgIF0sDQogICAiY2hhcnMiOiA1NQ0KICB9DQogXSwNCiAiaXRlbXMiOiBbDQogICJydWxlLWxvYy1hOWY2MjkiLA0KICAicHQtMzViMmNlZThhOCIsDQogICJwdC05YTRjYTgyNDQ5IiwNCiAgInB0LWY2OTQzMWVmYTEiLA0KICAicHQtY2FhOGI0MTkyYyIsDQogICJwdC03YjJjNWYzY2MwIiwNCiAgInB0LTA5OTcyNzRkNWMiLA0KICAicHQtMDg1MzljY2VjOCIsDQogICJwdC1kNzg5YjgzMTcwIiwNCiAgInB0LWZjMzNkYzViMGMiLA0KICAicHQtYTkzZjZhYzkzOSIsDQogICJwdC03MWE1NzkzNDExIiwNCiAgInB0LWE4Njg2ZDM2MGIiLA0KICAicHQtMjcxNjFlNzQ3YiIsDQogICJwdC01YTE0YTRmNTQxIiwNCiAgInB0LTE3NWE4NGUwNzMiLA0KICAicHQtY2NhZjk2ODBkMyIsDQogICJwdC01YzlkNWJiOTQyIiwNCiAgInB0LTM2Njg4YWM3YmEiLA0KICAicHQtODEyZGYyMWZiZiIsDQogICJwdC04OGQ3NGJlZTk5Ig0KIF0sDQogIm5vdGVzIjogWw0KICAi5Y6f5paH5Li65Y2P6K6u5Lmm77yM55So44CM5LiA44CB44CN5Yiw44CM5LiD44CB44CN5YiG5LiD5p2h77yM5peg56ug44CB5peg57yW5Y+35bCP5qCH6aKY77yb56ys5Zub5p2h5LiO56ys5LqU5p2h55qE5p2h5ZCN5piv5L2c6ICF5YaZ55qE77yI44CM5Zub44CB55Sy5pa555qE5p2D5Yip5ZKM5LmJ5Yqh77ya44CN44CM5LqU44CB5LmZ5pa555qE5p2D5Yip5ZKM5LmJ5Yqh77ya44CN77yJ77yM6L+Z5Lik6IqC5qCHIGF1dGhvcu+8jOWFtuS9meiKguWQjeaYr+aMieadoeaEj+amguaLrOeahO+8jOaghyBkZXJpdmVk44CCIiwNCiAgIuesrOWbm+OAgeesrOS6lOS4pOadoeS4i+iuvu+8iOS4gO+8ieiHs++8iOS6lO+8ie+8j++8iOS4gO+8ieiHs++8iOWFre+8ieWtkOmhue+8jOW3suWQhOaLhuS4uuWtkOiKguW5tuecn+W1jOWll+WcqOaJgOWxnuadoeWGhe+8m+WtkOiKgueahOiKguWQjeWQjOagt+S4uuamguaLrO+8iGRlcml2ZWTvvInvvIzljp/mloflrZDpobnlj6rmnInjgIzvvIjkuIDvvInjgI3ov5nnsbvluo/lj7fvvIzmsqHmnInmoIfpopjor43jgIIiLA0KICAicHQtYTkzZjZhYzkzOe+8iOWbm8K377yI5LiA77yJ5pel5bi45pyN5Yqh566h55CG77yJ5LiOIHB0LWY2OTQzMWVmYTHvvIjkupTCt++8iOS4gO+8ieS+neinhOWKnueQhuaJi+e7re+8ieeahOW8leaWh+mDveS7juadoeWQjeOAjOWbm+OAgeeUsuaWueeahOadg+WIqeWSjOS5ieWKoe+8muOAjeOAjOS6lOOAgeS5meaWueeahOadg+WIqeWSjOS5ieWKoe+8muOAjei1t+WktO+8jOi3qOS6huadoeWQjeihjOS4juWtkOmhuemmluihjO+8jOaVheiQveWcqOaJgOWxnuadoeeahOeItuiKgu+8jOacquaUvui/m+WtkOiKguOAgiIsDQogICJwdC0wODUzOWNjZWM4IOeahOW8leaWh+S7juagh+mimOihjOOAjOS4reWbveS8oOWqkuWkp+WtpuWtpueUn+WFrOWvk+S9j+Wuv+WNj+iuruS5puOAjeebtOaOpei/nuWIsOOAjOS4uuWKoOW8uuWtpueUn+WFrOWvk+euoeeQhuKApuOAje+8jOiQveWcqOWJjeiogOiKgu+8m3B0LWQ3ODliODMxNzAg55qE5byV5paH6LW35LqO56ysIDUg6KGM44CM4oCm5YWx5ZCM562+6K6i5pys5L2P5a6/5Y2P6K6u77ya44CN5bm25o6l5Yiw56ys5LiA5p2h77yM5oyJ5byV5paH6LW354K55b2S5YWl5YmN6KiA6IqC77yI5qCH6aKY6YeM5Lmf5bim552A56ys5LiA5p2h5YmN5Y2K5Y+l77yJ44CCIiwNCiAgIuesrCA2NOKAkzcwIOihjOS4uuiQveasvuagj++8iOeUsuaWueeblueroOOAgeaXpeacn+OAgeS5meaWueetvuWtl+OAgeWtpuWPt+OAgeWFrOWvk+alvOWPt+OAgeWuv+iIjeWPt+OAgeaXpeacn++8ie+8jOaXoOadoeWPt++8jGBub2Ag55So44CM4oCU44CN44CCIiwNCiAgInJ1bGUtbG9jLWE5ZjYyOSDmmK/mlofmoaPnuqfmnaHnm67vvIjml6DlvJXmlofvvInvvIzliJflnKjliY3oqIDoioLjgIIiDQogXQ0KfQ0K
+{
+ "key": "loc-中国传媒大学学生公寓住宿协议书-a9f629",
+ "title": "中国传媒大学学生公寓住宿协议书",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "立约前言：甲乙双方与订约目的",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    5
+   ],
+   "items": [
+    "rule-loc-a9f629",
+    "pt-08539ccec8",
+    "pt-d789b83170"
+   ],
+   "chars": 119
+  },
+  {
+   "no": "一",
+   "heading": "入学入住手续：录取、缴费、签订协议",
+   "heading_kind": "derived",
+   "lines": [
+    6,
+    8
+   ],
+   "items": [
+    "pt-35b2cee8a8"
+   ],
+   "chars": 60
+  },
+  {
+   "no": "二",
+   "heading": "房间与床位由甲方安排、调宿须申请",
+   "heading_kind": "derived",
+   "lines": [
+    9,
+    11
+   ],
+   "items": [
+    "pt-fc33dc5b0c"
+   ],
+   "chars": 61
+  },
+  {
+   "no": "三",
+   "heading": "严重违规时终止协议、限期退宿并报送处理",
+   "heading_kind": "derived",
+   "lines": [
+    12,
+    15
+   ],
+   "items": [
+    "pt-9a4ca82449"
+   ],
+   "chars": 98
+  },
+  {
+   "no": "四",
+   "heading": "甲方的权利和义务",
+   "heading_kind": "author",
+   "lines": [
+    16,
+    31
+   ],
+   "items": [
+    "pt-a93f6ac939"
+   ],
+   "chars": 315
+  },
+  {
+   "no": "（一）",
+   "heading": "公寓日常服务管理职责",
+   "heading_kind": "derived",
+   "lines": [
+    17,
+    18
+   ],
+   "items": [],
+   "chars": 37
+  },
+  {
+   "no": "（二）",
+   "heading": "学习生活配套设施与入住前保洁检修",
+   "heading_kind": "derived",
+   "lines": [
+    19,
+    21
+   ],
+   "items": [
+    "pt-71a5793411"
+   ],
+   "chars": 57
+  },
+  {
+   "no": "（三）",
+   "heading": "安全巡查、消防隐患排查与内务检查",
+   "heading_kind": "derived",
+   "lines": [
+    22,
+    24
+   ],
+   "items": [
+    "pt-a8686d360b"
+   ],
+   "chars": 60
+  },
+  {
+   "no": "（四）",
+   "heading": "公共设施检修养护与公共区域保洁消杀",
+   "heading_kind": "derived",
+   "lines": [
+    25,
+    27
+   ],
+   "items": [
+    "pt-27161e747b"
+   ],
+   "chars": 64
+  },
+  {
+   "no": "（五）",
+   "heading": "住宿安全宣传教育与违规行为纠正",
+   "heading_kind": "derived",
+   "lines": [
+    28,
+    31
+   ],
+   "items": [
+    "pt-5a14a4f541"
+   ],
+   "chars": 86
+  },
+  {
+   "no": "五",
+   "heading": "乙方的权利和义务",
+   "heading_kind": "author",
+   "lines": [
+    32,
+    58
+   ],
+   "items": [
+    "pt-f69431efa1"
+   ],
+   "chars": 619
+  },
+  {
+   "no": "（一）",
+   "heading": "依规办理入住调宿退宿并接受违规处理",
+   "heading_kind": "derived",
+   "lines": [
+    33,
+    36
+   ],
+   "items": [],
+   "chars": 81
+  },
+  {
+   "no": "（二）",
+   "heading": "监督服务管理与三个反馈渠道",
+   "heading_kind": "derived",
+   "lines": [
+    37,
+    39
+   ],
+   "items": [
+    "pt-caa8b4192c"
+   ],
+   "chars": 75
+  },
+  {
+   "no": "（三）",
+   "heading": "配合日常检查与参与公寓文化建设",
+   "heading_kind": "derived",
+   "lines": [
+    40,
+    42
+   ],
+   "items": [
+    "pt-175a84e073"
+   ],
+   "chars": 63
+  },
+  {
+   "no": "（四）",
+   "heading": "安全责任、门窗钥匙保管与充电宝使用",
+   "heading_kind": "derived",
+   "lines": [
+    43,
+    49
+   ],
+   "items": [
+    "pt-ccaf9680d3",
+    "pt-7b2c5f3cc0"
+   ],
+   "chars": 172
+  },
+  {
+   "no": "（五）",
+   "heading": "违禁物品的现场处置与登记暂扣",
+   "heading_kind": "derived",
+   "lines": [
+    50,
+    54
+   ],
+   "items": [
+    "pt-5c9d5bb942"
+   ],
+   "chars": 115
+  },
+  {
+   "no": "（六）",
+   "heading": "校方因修缮调整宿舍时乙方须服从",
+   "heading_kind": "derived",
+   "lines": [
+    55,
+    58
+   ],
+   "items": [
+    "pt-0997274d5c"
+   ],
+   "chars": 102
+  },
+  {
+   "no": "六",
+   "heading": "未尽事宜依国家法规与学校制度执行",
+   "heading_kind": "derived",
+   "lines": [
+    59,
+    60
+   ],
+   "items": [
+    "pt-36688ac7ba"
+   ],
+   "chars": 34
+  },
+  {
+   "no": "七",
+   "heading": "协议份数、生效条件与约束效力",
+   "heading_kind": "derived",
+   "lines": [
+    61,
+    63
+   ],
+   "items": [
+    "pt-812df21fbf"
+   ],
+   "chars": 58
+  },
+  {
+   "no": "—",
+   "heading": "落款：甲方盖章、乙方签字与学号楼号宿舍号",
+   "heading_kind": "derived",
+   "lines": [
+    64,
+    70
+   ],
+   "items": [
+    "pt-88d74bee99"
+   ],
+   "chars": 55
+  }
+ ],
+ "items": [
+  "rule-loc-a9f629",
+  "pt-35b2cee8a8",
+  "pt-9a4ca82449",
+  "pt-f69431efa1",
+  "pt-caa8b4192c",
+  "pt-7b2c5f3cc0",
+  "pt-0997274d5c",
+  "pt-08539ccec8",
+  "pt-d789b83170",
+  "pt-fc33dc5b0c",
+  "pt-a93f6ac939",
+  "pt-71a5793411",
+  "pt-a8686d360b",
+  "pt-27161e747b",
+  "pt-5a14a4f541",
+  "pt-175a84e073",
+  "pt-ccaf9680d3",
+  "pt-5c9d5bb942",
+  "pt-36688ac7ba",
+  "pt-812df21fbf",
+  "pt-88d74bee99"
+ ],
+ "notes": [
+  "原文为协议书，用「一、」到「七、」分七条，无章、无编号小标题；第四条与第五条的条名是作者写的（「四、甲方的权利和义务：」「五、乙方的权利和义务：」），这两节标 author，其余节名是按条意概括的，标 derived。",
+  "第四、第五两条下设（一）至（五）／（一）至（六）子项，已各拆为子节并真嵌套在所属条内；子节的节名同样为概括（derived），原文子项只有「（一）」这类序号，没有标题词。",
+  "pt-a93f6ac939（四·（一）日常服务管理）与 pt-f69431efa1（五·（一）依规办理手续）的引文都从条名「四、甲方的权利和义务：」「五、乙方的权利和义务：」起头，跨了条名行与子项首行，故落在所属条的父节，未放进子节。",
+  "pt-08539ccec8 的引文从标题行「中国传媒大学学生公寓住宿协议书」直接连到「为加强学生公寓管理…」，落在前言节；pt-d789b83170 的引文起于第 5 行「…共同签订本住宿协议：」并接到第一条，按引文起点归入前言节（标题里也带着第一条前半句）。",
+  "第 64–70 行为落款栏（甲方盖章、日期、乙方签字、学号、公寓楼号、宿舍号、日期），无条号，`no` 用「—」。",
+  "rule-loc-a9f629 是文档级条目（无引文），列在前言节。"
+ ]
+}

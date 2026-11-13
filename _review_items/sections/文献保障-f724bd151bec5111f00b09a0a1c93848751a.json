@@ -1,1 +1,98 @@
-ew0KICJrZXkiOiAi5paH54yu5L+d6ZqcLWY3MjRiZDE1MWJlYzUxMTFmMDBiMDlhMGExYzkzODQ4NzUxYSIsDQogInRpdGxlIjogIuWbvuS5pummhjIwMjPlubTlm73lhoXmnJ/liIrnm67lvZUiLA0KICJ0cnVuY2F0ZWQiOiBmYWxzZSwNCiAic2VjdGlvbnMiOiBbDQogIHsNCiAgICJubyI6ICLpobXpnaLmoYbmnrYiLA0KICAgImhlYWRpbmciOiAi5qCH6aKY44CB5p2l5rqQ44CB5qCP55uu5LiO5Y+R5biD5pe26Ze0IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMSwNCiAgICA1DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0yYTFjYjI2YWVkIg0KICAgXSwNCiAgICJjaGFycyI6IDIxMQ0KICB9LA0KICB7DQogICAibm8iOiAi6KGo5aS0IiwNCiAgICJoZWFkaW5nIjogIuihqOmimOS4juWIl+WQje+8iOW6j+WPt++9nOmCruWPkeS7o+WPt++9nOWIiuWQje+9nOWIiumike+8iSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDcsDQogICAgOA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMzMNCiAgfSwNCiAgew0KICAgIm5vIjogIuW6j+WPtzHigJMxOTAiLA0KICAgImhlYWRpbmciOiAi5Zu95YaF5pyf5YiK6K6w5b2V77yI5bqP5Y+3IDHigJMxOTDvvIkiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA5LA0KICAgIDc2OA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMTNhOWMxY2VlOSINCiAgIF0sDQogICAiY2hhcnMiOiAzODIyDQogIH0sDQogIHsNCiAgICJubyI6ICLluo/lj7cxOTHigJM1NzAiLA0KICAgImhlYWRpbmciOiAi5Zu95YaF5pyf5YiK6K6w5b2V77yI5bqP5Y+3IDE5MeKAkzU3MO+8iSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDc2OSwNCiAgICAyMjg4DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1mY2FhOTFiZGZiIiwNCiAgICAicHQtM2ZjOTk1YzU2ZCIsDQogICAgInB0LTZmNGQ0NzUzMDgiDQogICBdLA0KICAgImNoYXJzIjogNzczNQ0KICB9LA0KICB7DQogICAibm8iOiAi5bqP5Y+3NTcx4oCTNzU4IiwNCiAgICJoZWFkaW5nIjogIuWbveWGheacn+WIiuiusOW9le+8iOW6j+WPtyA1NzHigJM3NTjvvIkiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyMjg5LA0KICAgIDMwNDANCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTczYTVhYWEzNmIiLA0KICAgICJwdC1iYzk1OTgzZTI2IiwNCiAgICAicHQtZmI4YzlmZWZjMSIsDQogICAgInB0LWIwMTZhZTYxZDkiLA0KICAgICJwdC1hODU4YjE1MDkyIiwNCiAgICAicHQtMTcwYWFjMzk3NCIsDQogICAgInB0LTU5YTM5MGM5MTgiDQogICBdLA0KICAgImNoYXJzIjogMzE0OQ0KICB9DQogXSwNCiAiaXRlbXMiOiBbDQogICJwdC0yYTFjYjI2YWVkIiwNCiAgInB0LTEzYTljMWNlZTkiLA0KICAicHQtZmNhYTkxYmRmYiIsDQogICJwdC0zZmM5OTVjNTZkIiwNCiAgInB0LTZmNGQ0NzUzMDgiLA0KICAicHQtNzNhNWFhYTM2YiIsDQogICJwdC1iYzk1OTgzZTI2IiwNCiAgInB0LWZiOGM5ZmVmYzEiLA0KICAicHQtYjAxNmFlNjFkOSIsDQogICJwdC1hODU4YjE1MDkyIiwNCiAgInB0LTE3MGFhYzM5NzQiLA0KICAicHQtNTlhMzkwYzkxOCINCiBdLA0KICJub3RlcyI6IFsNCiAgIuihqOagvOexu+aWh+acrO+8iOWbvuS5pummhuOAjOaWh+eMruS/nemanOOAjeagj+ebru+8jOaKpeWIiuebruW9leerluaOku+8ie+8muesrCAxIOihjOagh+mimO+8m+esrCAy4oCTNSDooYzmmK/jgIzmnaXmupDvvI/moI/nm67vvI/kvZzogIXvvI/lj5HluIPml7bpl7TjgI3lhYPkv6Hmga/vvIjlj5HluIPml7bpl7Tlj6rmnInml6XmnJ/jgIwyMDIzLTAyLTI044CN77yM5peg5pe25YiG77yJ77yb56ysIDYg6KGM56m66KGM77yb56ysIDcg6KGM6KGo6aKY6YeN5aSN77yb56ysIDgg6KGM5piv5ZCI5bm25oiQ5LiA6KGM55qE5YiX5ZCN44CM5bqP5Y+3IHwg6YKu5Y+R5Luj5Y+3IHwg5YiK5ZCNIHwg5YiK6aKR44CN77yI5LiO5YmN5Yeg5bm05bqm5YiG5oiQ5Zub6KGM5LiN5ZCM77yJ77yb56ysIDkg6KGM6LW35Li66K6w5b2V77yM5q+P5p2h5Zu65a6a5Y2gIDQg6KGM77yI5bqP5Y+344CB6YKu5Y+R5Luj5Y+344CB5YiK5ZCN44CB5YiK6aKR77yJ77yM5bqP5Y+3IDHigJM3NTgg6L+e57ut5peg57y65Y+377yM5YWxIDc1OCDmnaHvvJvnrKwgMzA0MSDooYzkuLrmnKvlsL7nqbrooYzjgIIiLA0KICAi5peg56ug5p2h57yW5Y+377yM5YWo6YOo6IqC5Li6IGRlcml2ZWTvvJvmlbTooajmjInluo/lj7fliIflnZfvvJo54oCTNzY4IOihjO+8nTHigJMxOTAg5Y+377yMNzY54oCTMjI4OCDooYzvvJ0xOTHigJM1NzAg5Y+377yMMjI4OeKAkzMwNDAg6KGM77ydNTcx4oCTNzU4IOWPt+OAguWIh+eCuemDveiQveWcqOiusOW9lei+ueeVjO+8iDQg6KGM5LiA57uE77yJ5LiK77yM5pyq5YiH5pat5Lu75L2V5p2h55uu5byV5paH77yI5aaCIHB0LWE4NThiMTUwOTIg6LeoIDI3MDfigJMyNzcxIOihjOOAgXB0LWZiOGM5ZmVmYzEg6LeoIDI1MTHigJMyNjA3IOihjO+8jOWdh+aVtOauteeVmeWcqOWQjOS4gOWdl+WGhe+8ieOAgiIsDQogICLjgIzooajlpLTjgI3oioLlj6rmnInnrKwgN+KAkzgg6KGM5LiU5rKh5pyJ5p2h55uu77ya56ysIDcg6KGM5piv6KGo6aKY6YeN5aSN77yI6aG16Z2i5qCH6aKY6KGM77yJ77yM56ysIDgg6KGM5piv5YiX5ZCN77yb5pys5paH5Lu25rKh5pyJ5p2h55uu55qE5byV5paH6JC95Zyo6KGo5aS077yM5pWFIGl0ZW1zIOS4uuepuu+8jOS4pOihjOS7jeWNleWIl+S4gOiKguS7peS/neaMgeihqOagvOaWh+acrOeahOe7k+aehOWujOaVtOOAgiIsDQogICLmupDmlbDmja7lsI/nkZXnlrXvvJo3NTgg5p2h5Lit5pyJIDIyOCDmnaHnmoTpgq7lj5Hku6Plj7fkuI3mmK/jgIwwMi0wMjLjgI3lvI/nmoTkuInkvY3lhpnms5XvvIjlpoLjgIw0LTgwMOOAjeOAjDgtMjLjgI3jgIwyNi0xN+OAje+8ie+8m+esrCA0NjLjgIE2NDfjgIE2NDjjgIE2NjHjgIE2NzIg5Y+355qE5YiK6aKR5qCP5YaZ5L2c44CM5pes5YiK44CN44CM5ZGo5YiK44CN44CM5Y+M5ZGo5YiK44CN6ICM6Z2e5pyf5pWw44CC5oyJ5Y6f5paH5L+d55WZ77yM5pyq5pS55YaZ44CC5p2h55uu5oq95qC36ZuG5Lit5Zyo5Lit5ZCO5q6177yM5YmNIDE5MCDlj7flj6rmnIkgMSDmnaHmnaHnm67vvIzlsZ4gaXRlbXMuanNvbiDmir3moLfkuI3lnYfvvIzpnZ7okL3ngrnpgZfmvI/jgIIiDQogXQ0KfQ==
+{
+ "key": "文献保障-f724bd151bec5111f00b09a0a1c93848751a",
+ "title": "图书馆2023年国内期刊目录",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "页面框架",
+   "heading": "标题、来源、栏目与发布时间",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    5
+   ],
+   "items": [
+    "pt-2a1cb26aed"
+   ],
+   "chars": 211
+  },
+  {
+   "no": "表头",
+   "heading": "表题与列名（序号｜邮发代号｜刊名｜刊频）",
+   "heading_kind": "derived",
+   "lines": [
+    7,
+    8
+   ],
+   "items": [],
+   "chars": 33
+  },
+  {
+   "no": "序号1–190",
+   "heading": "国内期刊记录（序号 1–190）",
+   "heading_kind": "derived",
+   "lines": [
+    9,
+    768
+   ],
+   "items": [
+    "pt-13a9c1cee9"
+   ],
+   "chars": 3822
+  },
+  {
+   "no": "序号191–570",
+   "heading": "国内期刊记录（序号 191–570）",
+   "heading_kind": "derived",
+   "lines": [
+    769,
+    2288
+   ],
+   "items": [
+    "pt-fcaa91bdfb",
+    "pt-3fc995c56d",
+    "pt-6f4d475308"
+   ],
+   "chars": 7735
+  },
+  {
+   "no": "序号571–758",
+   "heading": "国内期刊记录（序号 571–758）",
+   "heading_kind": "derived",
+   "lines": [
+    2289,
+    3040
+   ],
+   "items": [
+    "pt-73a5aaa36b",
+    "pt-bc95983e26",
+    "pt-fb8c9fefc1",
+    "pt-b016ae61d9",
+    "pt-a858b15092",
+    "pt-170aac3974",
+    "pt-59a390c918"
+   ],
+   "chars": 3149
+  }
+ ],
+ "items": [
+  "pt-2a1cb26aed",
+  "pt-13a9c1cee9",
+  "pt-fcaa91bdfb",
+  "pt-3fc995c56d",
+  "pt-6f4d475308",
+  "pt-73a5aaa36b",
+  "pt-bc95983e26",
+  "pt-fb8c9fefc1",
+  "pt-b016ae61d9",
+  "pt-a858b15092",
+  "pt-170aac3974",
+  "pt-59a390c918"
+ ],
+ "notes": [
+  "表格类文本（图书馆「文献保障」栏目，报刊目录竖排）：第 1 行标题；第 2–5 行是「来源／栏目／作者／发布时间」元信息（发布时间只有日期「2023-02-24」，无时分）；第 6 行空行；第 7 行表题重复；第 8 行是合并成一行的列名「序号 | 邮发代号 | 刊名 | 刊频」（与前几年度分成四行不同）；第 9 行起为记录，每条固定占 4 行（序号、邮发代号、刊名、刊频），序号 1–758 连续无缺号，共 758 条；第 3041 行为末尾空行。",
+  "无章条编号，全部节为 derived；整表按序号切块：9–768 行＝1–190 号，769–2288 行＝191–570 号，2289–3040 行＝571–758 号。切点都落在记录边界（4 行一组）上，未切断任何条目引文（如 pt-a858b15092 跨 2707–2771 行、pt-fb8c9fefc1 跨 2511–2607 行，均整段留在同一块内）。",
+  "「表头」节只有第 7–8 行且没有条目：第 7 行是表题重复（页面标题行），第 8 行是列名；本文件没有条目的引文落在表头，故 items 为空，两行仍单列一节以保持表格文本的结构完整。",
+  "源数据小瑕疵：758 条中有 228 条的邮发代号不是「02-022」式的三位写法（如「4-800」「8-22」「26-17」）；第 462、647、648、661、672 号的刊频栏写作「旬刊」「周刊」「双周刊」而非期数。按原文保留，未改写。条目抽样集中在中后段，前 190 号只有 1 条条目，属 items.json 抽样不均，非落点遗漏。"
+ ]
+}

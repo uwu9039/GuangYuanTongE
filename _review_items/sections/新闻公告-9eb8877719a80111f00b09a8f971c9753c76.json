@@ -1,1 +1,130 @@
-ew0KICJrZXkiOiAi5paw6Ze75YWs5ZGKLTllYjg4Nzc3MTlhODAxMTFmMDBiMDlhOGY5NzFjOTc1M2M3NiIsDQogInRpdGxlIjogIuWbvuS5pummhuWFs+S6juaOqOWHuuKAnOiKuOaCpuivu+KAneacjeWKoeeahOmAmuefpSIsDQogInRydW5jYXRlZCI6IGZhbHNlLA0KICJzZWN0aW9ucyI6IFsNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLpobXpnaLkv6Hmga/kuI7mraPmloflvJXoqIAiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxLA0KICAgIDEwDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1jYmY2MjRkZmFkIiwNCiAgICAicHQtNjdhZDFkMDJhZSINCiAgIF0sDQogICAiY2hhcnMiOiA0ODINCiAgfSwNCiAgew0KICAgIm5vIjogIuS4gOOAgSIsDQogICAiaGVhZGluZyI6ICLnmbvlvZXmlrnlvI8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDExLA0KICAgIDE5DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0wN2MzNzcyODVkIg0KICAgXSwNCiAgICJjaGFycyI6IDIwNA0KICB9LA0KICB7DQogICAibm8iOiAiMS4iLA0KICAgImhlYWRpbmciOiAiUEPnq6/nmbvlvZUiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDEzLA0KICAgIDE1DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC02NjVmN2VlM2JjIiwNCiAgICAicHQtZjdjZGMzM2VmOCINCiAgIF0sDQogICAiY2hhcnMiOiA2NA0KICB9LA0KICB7DQogICAibm8iOiAiMi4iLA0KICAgImhlYWRpbmciOiAi56e75Yqo56uv55m75b2VIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNiwNCiAgICAxOQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNDFlNTE0Mjc2NCIsDQogICAgInB0LWQ3OGRmMGE0NGMiLA0KICAgICJwdC1jYzc5MDM3MjVjIg0KICAgXSwNCiAgICJjaGFycyI6IDc3DQogIH0sDQogIHsNCiAgICJubyI6ICLkuozjgIEiLA0KICAgImhlYWRpbmciOiAi5L2/55So6KeE5YiZIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyMCwNCiAgICAyOQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMjZiZDFkMTg5ZSIsDQogICAgInB0LWJiNDU0M2QwZDkiLA0KICAgICJwdC0wZTYwYWQ2MGY3IiwNCiAgICAicHQtYmRmNzVjNDZjZCIsDQogICAgInB0LWZmNmRiNGEyM2MiLA0KICAgICJwdC1kMjc4YjY3MDlhIiwNCiAgICAicHQtOTcxZWUwNTEwYyIsDQogICAgInB0LTUwZTkwNDg0ODIiLA0KICAgICJwdC1mMGE1YjVlZjU5Ig0KICAgXSwNCiAgICJjaGFycyI6IDQxNw0KICB9LA0KICB7DQogICAibm8iOiAi5LiJ44CBIiwNCiAgICJoZWFkaW5nIjogIuS9v+eUqOaWueazlSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMzAsDQogICAgMzgNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTM3NDJmZjE2YzUiLA0KICAgICJwdC05Yjg5NjlkZTcxIiwNCiAgICAicHQtYzc1MjBhOWMzZCIsDQogICAgInB0LTY3ZThkOTdmZmEiDQogICBdLA0KICAgImNoYXJzIjogMTU0DQogIH0NCiBdLA0KICJpdGVtcyI6IFsNCiAgInB0LWNiZjYyNGRmYWQiLA0KICAicHQtNjdhZDFkMDJhZSIsDQogICJwdC0wN2MzNzcyODVkIiwNCiAgInB0LTY2NWY3ZWUzYmMiLA0KICAicHQtZjdjZGMzM2VmOCIsDQogICJwdC00MWU1MTQyNzY0IiwNCiAgInB0LWQ3OGRmMGE0NGMiLA0KICAicHQtY2M3OTAzNzI1YyIsDQogICJwdC0yNmJkMWQxODllIiwNCiAgInB0LWJiNDU0M2QwZDkiLA0KICAicHQtMGU2MGFkNjBmNyIsDQogICJwdC1iZGY3NWM0NmNkIiwNCiAgInB0LWZmNmRiNGEyM2MiLA0KICAicHQtZDI3OGI2NzA5YSIsDQogICJwdC05NzFlZTA1MTBjIiwNCiAgInB0LTUwZTkwNDg0ODIiLA0KICAicHQtZjBhNWI1ZWY1OSIsDQogICJwdC0zNzQyZmYxNmM1IiwNCiAgInB0LTliODk2OWRlNzEiLA0KICAicHQtYzc1MjBhOWMzZCIsDQogICJwdC02N2U4ZDk3ZmZhIg0KIF0sDQogIm5vdGVzIjogWw0KICAi572R6aG15q2j5paH77yIaWxpYiDmlrDpl7vlhazlkYrvvInvvIznrKwgMeKAkzYg6KGM5piv6aG16Z2i5qGG5p6277ya56ysIDEg6KGM5qCH6aKY44CB56ysIDIg6KGM5p2l5rqQIFVSTOOAgeesrCAzIOihjOOAjOagj+ebru+8muaWsOmXu+WFrOWRiuOAjeOAgeesrCA0IOihjOOAjOS9nOiAhe+8muWbvuS5pummhuOAjeOAgeesrCA1IOihjOOAjOWPkeW4g+aXtumXtO+8mjIwMjEtMDktMjfjgI3jgIHnrKwgNiDooYznqbrooYzvvJvnrKwgNyDooYzph43lpI3moIfpopjvvIznrKwgOOKAkzEwIOihjOaYr+ensOiwk+S4juato+aWh+W8leiogO+8jOWQiOS4uuOAjOmhtemdouS/oeaBr+S4juato+aWh+W8leiogOOAjeS4gOiKgu+8iG5vIOeUqOOAjOKAlOOAje+8ieOAgiIsDQogICLlsI/moIfpopjkuLrljp/mlofmiYDmnInvvJrjgIzkuIDjgIHnmbvlvZXmlrnlvI/jgI3jgIzkuozjgIHkvb/nlKjop4TliJnjgI3jgIzkuInjgIHkvb/nlKjmlrnms5XjgI3nm7TmjqXlj5boh6rnrKwgMTHjgIEyMOOAgTMwIOihjO+8iGF1dGhvcu+8ie+8m+WFtuS4i+OAjDEuUEPnq6/nmbvlvZXjgI3jgIwyLuenu+WKqOerr+eZu+W9leOAje+8iOesrCAxM+OAgTE2IOihjO+8ieS5n+aYr+WOn+aWh+Wwj+agh+mimO+8jOaVheS9nOOAjOS4gOOAgeOAjeeahOWtkOiKgu+8jOeItuWtkOecn+W1jOWll++8m+OAjOS6jOOAgeOAjeS4i+eahCAxLuKAkzku44CB44CM5LiJ44CB44CN5LiL55qEIDEu4oCTNC4g5piv6KeE5YiZL+atpemqpOadoeebru+8jOacquWGjeaLhuiKguOAgiIsDQogICLnrKwgMzcg6KGM44CM54m55q2k6YCa55+l44CN5LiO56ysIDM4IOihjOeahOmhteeggeOAjDTjgI3lubblhaXjgIzkuInjgIHkvb/nlKjmlrnms5XjgI3kuIDoioLjgIIiLA0KICAi5pys5Lu25rKh5pyJIHJ1bGUtKiDmlofmoaPnuqfmnaHnm67vvJvmlofmoaPnuqcgaXRlbXMg55qEIDIxIOadoemDveaYr+acrOmimOWOn+aWh+aKveWPlueahOadoeebru+8jOWdh+W3suiQveWIsOWFt+S9k+iKgu+8iOaXoOi3qOaWh+S7tuW8leaWh++8ieOAgiIsDQogICJ0cnVuY2F0ZWQ9ZmFsc2Ug55qE5L6d5o2u77ya5q2j5paH5Lul44CM54m55q2k6YCa55+l44CN5pS25bC+77yM5LiA44CB5LqM44CB5LiJIOS4ieiKgum9kOWFqO+8jOacq+ihjOOAjDTjgI3mmK/pobXnoIHogIzpnZ7mlq3lj6XjgIIiDQogXQ0KfQ0K
+{
+ "key": "新闻公告-9eb8877719a80111f00b09a8f971c9753c76",
+ "title": "图书馆关于推出“芸悦读”服务的通知",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "页面信息与正文引言",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    10
+   ],
+   "items": [
+    "pt-cbf624dfad",
+    "pt-67ad1d02ae"
+   ],
+   "chars": 482
+  },
+  {
+   "no": "一、",
+   "heading": "登录方式",
+   "heading_kind": "author",
+   "lines": [
+    11,
+    19
+   ],
+   "items": [
+    "pt-07c377285d"
+   ],
+   "chars": 204
+  },
+  {
+   "no": "1.",
+   "heading": "PC端登录",
+   "heading_kind": "author",
+   "lines": [
+    13,
+    15
+   ],
+   "items": [
+    "pt-665f7ee3bc",
+    "pt-f7cdc33ef8"
+   ],
+   "chars": 64
+  },
+  {
+   "no": "2.",
+   "heading": "移动端登录",
+   "heading_kind": "author",
+   "lines": [
+    16,
+    19
+   ],
+   "items": [
+    "pt-41e5142764",
+    "pt-d78df0a44c",
+    "pt-cc7903725c"
+   ],
+   "chars": 77
+  },
+  {
+   "no": "二、",
+   "heading": "使用规则",
+   "heading_kind": "author",
+   "lines": [
+    20,
+    29
+   ],
+   "items": [
+    "pt-26bd1d189e",
+    "pt-bb4543d0d9",
+    "pt-0e60ad60f7",
+    "pt-bdf75c46cd",
+    "pt-ff6db4a23c",
+    "pt-d278b6709a",
+    "pt-971ee0510c",
+    "pt-50e9048482",
+    "pt-f0a5b5ef59"
+   ],
+   "chars": 417
+  },
+  {
+   "no": "三、",
+   "heading": "使用方法",
+   "heading_kind": "author",
+   "lines": [
+    30,
+    38
+   ],
+   "items": [
+    "pt-3742ff16c5",
+    "pt-9b8969de71",
+    "pt-c7520a9c3d",
+    "pt-67e8d97ffa"
+   ],
+   "chars": 154
+  }
+ ],
+ "items": [
+  "pt-cbf624dfad",
+  "pt-67ad1d02ae",
+  "pt-07c377285d",
+  "pt-665f7ee3bc",
+  "pt-f7cdc33ef8",
+  "pt-41e5142764",
+  "pt-d78df0a44c",
+  "pt-cc7903725c",
+  "pt-26bd1d189e",
+  "pt-bb4543d0d9",
+  "pt-0e60ad60f7",
+  "pt-bdf75c46cd",
+  "pt-ff6db4a23c",
+  "pt-d278b6709a",
+  "pt-971ee0510c",
+  "pt-50e9048482",
+  "pt-f0a5b5ef59",
+  "pt-3742ff16c5",
+  "pt-9b8969de71",
+  "pt-c7520a9c3d",
+  "pt-67e8d97ffa"
+ ],
+ "notes": [
+  "网页正文（ilib 新闻公告），第 1–6 行是页面框架：第 1 行标题、第 2 行来源 URL、第 3 行「栏目：新闻公告」、第 4 行「作者：图书馆」、第 5 行「发布时间：2021-09-27」、第 6 行空行；第 7 行重复标题，第 8–10 行是称谓与正文引言，合为「页面信息与正文引言」一节（no 用「—」）。",
+  "小标题为原文所有：「一、登录方式」「二、使用规则」「三、使用方法」直接取自第 11、20、30 行（author）；其下「1.PC端登录」「2.移动端登录」（第 13、16 行）也是原文小标题，故作「一、」的子节，父子真嵌套；「二、」下的 1.–9.、「三、」下的 1.–4. 是规则/步骤条目，未再拆节。",
+  "第 37 行「特此通知」与第 38 行的页码「4」并入「三、使用方法」一节。",
+  "本件没有 rule-* 文档级条目；文档级 items 的 21 条都是本题原文抽取的条目，均已落到具体节（无跨文件引文）。",
+  "truncated=false 的依据：正文以「特此通知」收尾，一、二、三 三节齐全，末行「4」是页码而非断句。"
+ ]
+}

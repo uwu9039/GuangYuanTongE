@@ -1,1 +1,312 @@
-ew0KICJrZXkiOiAiYXR0LTdlMGRiYzlmZTkiLA0KICJ0aXRsZSI6ICLkuK3lm73kvKDlqpLlpKflrabkuabnlLvnkIborrrkuI7lrp7ot7Xlvq7kuJPkuJoyMDI25bm056eL5a2j5oub55Sf566A56ugIiwNCiAidHJ1bmNhdGVkIjogZmFsc2UsDQogInNlY3Rpb25zIjogWw0KICB7DQogICAibm8iOiAi5qCH6aKYIiwNCiAgICJoZWFkaW5nIjogIjIwMjblubTnp4vlraPmi5vnlJ/nroDnq6AiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDEsDQogICAgNA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMjM0MzFhNWUzNCINCiAgIF0sDQogICAiY2hhcnMiOiAyNw0KICB9LA0KICB7DQogICAibm8iOiAi5LiA44CBIiwNCiAgICJoZWFkaW5nIjogIuW+ruS4k+S4muS7i+e7jSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNSwNCiAgICAxMQ0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTUxDQogIH0sDQogIHsNCiAgICJubyI6ICLkuozjgIEiLA0KICAgImhlYWRpbmciOiAi5Z+55YW755uu5qCHIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMywNCiAgICAxOQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMjUyOTgxOGJkYiINCiAgIF0sDQogICAiY2hhcnMiOiAxNTkNCiAgfSwNCiAgew0KICAgIm5vIjogIuS4ieOAgSIsDQogICAiaGVhZGluZyI6ICLln7nlhbvopoHmsYIiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDIxLA0KICAgIDI2DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1hNzk2YWZlMWRhIg0KICAgXSwNCiAgICJjaGFycyI6IDExMQ0KICB9LA0KICB7DQogICAibm8iOiAi5Zub44CBIiwNCiAgICJoZWFkaW5nIjogIuaLm+eUn+WvueixoeWPiuadoeS7tiIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMjgsDQogICAgMzYNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTQ0ZjhjZmIzMGMiDQogICBdLA0KICAgImNoYXJzIjogMTU1DQogIH0sDQogIHsNCiAgICJubyI6ICLlrabliLbmjojor77vvIjniLboioLvvIkiLA0KICAgImhlYWRpbmciOiAi5a2m5Yi25LiO5o6I6K++5pa55byPIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMzgsDQogICAgNDcNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTIzNTBhODE0MzMiDQogICBdLA0KICAgImNoYXJzIjogMTI1DQogIH0sDQogIHsNCiAgICJubyI6ICLkupTjgIEiLA0KICAgImhlYWRpbmciOiAi5a2m5Yi2IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzOCwNCiAgICAzOQ0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogNg0KICB9LA0KICB7DQogICAibm8iOiAi5YWt44CBIiwNCiAgICJoZWFkaW5nIjogIuaOiOivvuaWueW8jyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNDEsDQogICAgNDcNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDExOQ0KICB9LA0KICB7DQogICAibm8iOiAi5LiD44CBIiwNCiAgICJoZWFkaW5nIjogIuWtpuWIhuiupOWumuS4juivgeS5pumigeWPkSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNDksDQogICAgNTYNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTI2Nzk2YWM4NjUiDQogICBdLA0KICAgImNoYXJzIjogMTQ1DQogIH0sDQogIHsNCiAgICJubyI6ICLlhavjgIEiLA0KICAgImhlYWRpbmciOiAi5oub55Sf5pe26Ze05a6J5o6S5Y+K5oql5ZCN5pa55byPIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1OCwNCiAgICA3MQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtYzFhNTUzMmExYSIsDQogICAgInB0LTlmMDkxMTcxOGUiDQogICBdLA0KICAgImNoYXJzIjogMjIzDQogIH0sDQogIHsNCiAgICJubyI6ICLkuZ3jgIEiLA0KICAgImhlYWRpbmciOiAi5ZKo6K+i5pa55byPIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA3MywNCiAgICA3NQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZjAxY2M4MWQ4ZCINCiAgIF0sDQogICAiY2hhcnMiOiA0OA0KICB9LA0KICB7DQogICAibm8iOiAi5Y2B44CBIiwNCiAgICJoZWFkaW5nIjogIuW+ruS4k+S4muivvueoi+i0ueeUqCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNzcsDQogICAgODANCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWU2NTdkMTkzNjIiDQogICBdLA0KICAgImNoYXJzIjogNTcNCiAgfSwNCiAgew0KICAgIm5vIjogIuivvueoi+S4jueugOS7i++8iOeItuiKgu+8iSIsDQogICAiaGVhZGluZyI6ICLor77nqIvorr7nva7kuI7or77nqIvnroDku4siLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA4MiwNCiAgICAxMzkNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWI4NmRmNjlhMDIiDQogICBdLA0KICAgImNoYXJzIjogOTg0DQogIH0sDQogIHsNCiAgICJubyI6ICLljYHkuIDjgIEiLA0KICAgImhlYWRpbmciOiAi6K++56iL6K6+572u5Y+K5a2m5pe25YiG6YWN6KGoIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA4MiwNCiAgICAxMDINCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTdiNzM0MzNlMmEiLA0KICAgICJwdC1lOTVlOWE0ZjNlIg0KICAgXSwNCiAgICJjaGFycyI6IDE4NQ0KICB9LA0KICB7DQogICAibm8iOiAi5Y2B5LqM44CBIiwNCiAgICJoZWFkaW5nIjogIuW+ruS4k+S4muivvueoi+eugOS7iyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTAzLA0KICAgIDEzOQ0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogNzk5DQogIH0sDQogIHsNCiAgICJubyI6ICLnroDku4sxIiwNCiAgICJoZWFkaW5nIjogIuS4reWbvee7mOeUu+iJuuacr+WPsiIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTA0LA0KICAgIDEwOA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTAyDQogIH0sDQogIHsNCiAgICJubyI6ICLnroDku4syIiwNCiAgICJoZWFkaW5nIjogIuilv+aWuee7mOeUu+iJuuacr+WPsiIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTA5LA0KICAgIDExNA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtOWY1MjZkMTA0MSINCiAgIF0sDQogICAiY2hhcnMiOiAxNDANCiAgfSwNCiAgew0KICAgIm5vIjogIueugOS7izMiLA0KICAgImhlYWRpbmciOiAi5Lit5Zu955S75oqA5rOV5LiO5a6e6Le1IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMTUsDQogICAgMTIxDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1kODU4ZDIwYjY3Ig0KICAgXSwNCiAgICJjaGFycyI6IDE1MQ0KICB9LA0KICB7DQogICAibm8iOiAi566A5LuLNCIsDQogICAiaGVhZGluZyI6ICLoibLlvankuI7msLTlvakiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDEyMiwNCiAgICAxMjYNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWU5MWI4ZTJiMmMiDQogICBdLA0KICAgImNoYXJzIjogMTEwDQogIH0sDQogIHsNCiAgICJubyI6ICLnroDku4s1IiwNCiAgICJoZWFkaW5nIjogIue7mOeUu+eQhuiuuuS4jumJtOi1jyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTI3LA0KICAgIDEzMg0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMjQzNjQ0ZDkwZiINCiAgIF0sDQogICAiY2hhcnMiOiAxMzMNCiAgfSwNCiAgew0KICAgIm5vIjogIueugOS7izYiLA0KICAgImhlYWRpbmciOiAi5Lmm5rOV55CG6K665LiO5a6e6Le1IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMzMsDQogICAgMTM5DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1kMGJhYzk0NjhlIg0KICAgXSwNCiAgICJjaGFycyI6IDE1Mw0KICB9LA0KICB7DQogICAibm8iOiAi6JC95qy+IiwNCiAgICJoZWFkaW5nIjogIuS4reWbveS8oOWqkuWkp+WtpuiJuuacr+eglOeptumZoiIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTQxLA0KICAgIDE0Mg0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTgNCiAgfQ0KIF0sDQogIml0ZW1zIjogWw0KICAicHQtMjM0MzFhNWUzNCIsDQogICJwdC0yNTI5ODE4YmRiIiwNCiAgInB0LWE3OTZhZmUxZGEiLA0KICAicHQtNDRmOGNmYjMwYyIsDQogICJwdC0yMzUwYTgxNDMzIiwNCiAgInB0LTI2Nzk2YWM4NjUiLA0KICAicHQtYzFhNTUzMmExYSIsDQogICJwdC05ZjA5MTE3MThlIiwNCiAgInB0LWYwMWNjODFkOGQiLA0KICAicHQtZTY1N2QxOTM2MiIsDQogICJwdC03YjczNDMzZTJhIiwNCiAgInB0LWU5NWU5YTRmM2UiLA0KICAicHQtYjg2ZGY2OWEwMiIsDQogICJwdC05ZjUyNmQxMDQxIiwNCiAgInB0LWQ4NThkMjBiNjciLA0KICAicHQtZTkxYjhlMmIyYyIsDQogICJwdC0yNDM2NDRkOTBmIiwNCiAgInB0LWQwYmFjOTQ2OGUiDQogXSwNCiAibm90ZXMiOiBbDQogICLnrKwgMeKAkzMg6KGM5piv5YiG5LiJ6KGM5o6S55qE5qCH6aKY77yI5Lit5Zu95Lyg5aqS5aSn5a2m77yP5Lmm55S755CG6K665LiO5a6e6Le15b6u5LiT5Lia77yPMjAyNiDlubTnp4vlraPmi5vnlJ/nroDnq6DvvInvvIznrKwgNCDooYznqbrooYzvvIzlkIjkuLrjgIzmoIfpopjjgI3kuIDoioLvvIxoZWFkaW5nIOWPluesrCAzIOihjOWOn+aWh+OAgiIsDQogICLmnInkuKTkuKrniLboioLmmK/kuLrlronmlL7ot6jlrZDoioLovrnnlYznmoTlvJXmlofogIznq4vnmoTjgIzlkIjlubbljLrpl7TjgI3oioLvvIhkZXJpdmVk77yM55yf5bWM5aWX77yJ77ya4pGg44CM5a2m5Yi25LiO5o6I6K++5pa55byP44CNMzjigJM0NyDooYzljIXkvY/jgIzkupTjgIHlrabliLbjgI3vvIjku4XnrKwgMzjigJMzOSDooYzjgIHmraPmloflj6rmnInjgIzkuIDlubTjgI3vvInkuI7jgIzlha3jgIHmjojor77mlrnlvI/jgI3vvJvikaHjgIzor77nqIvorr7nva7kuI7or77nqIvnroDku4vjgI04MuKAkzEzOSDooYzljIXkvY/jgIzljYHkuIDjgIHjgI3ooajmoLzkuI7jgIzljYHkuozjgIHjgI3or77nqIvnroDku4vvvIjlkKsgNiDkuKror77nqIvlrZDoioLvvInjgIIiLA0KICAicHQtMjM1MGE4MTQzMyDnmoTlvJXmlofku47nrKwgMzgg6KGM44CM5LqU44CB5a2m5Yi244CN6L+e5Yiw56ysIDQyIOihjOOAjOWFreOAgeaOiOivvuaWueW8j+OAjeato+aWh++8jDI2IOWtl+WJjee8gOi3qCAzOOKAkzQyIOihjO+8jOaVheaMgueItuiKguOAjOWtpuWItuS4juaOiOivvuaWueW8j+OAje+8jOS4jeWhnui/m+S6lOOAgeaIluWFreOAgeOAgiIsDQogICJwdC1iODZkZjY5YTAyIOeahOagh+mimOiiq+S4iua4uOaLvOaIkOOAjOWNgeS6jOOAgeW+ruS4k+S4muivvueoi+eugOS7iyAxLuS4reWbvee7mOeUu+iJuuacr+WPsuOAje+8jOS9huW8leaWh+WunumZheS7juesrCAxMDAg6KGM6KGo5qC85pyr6KGM44CMNiDkuabms5XnkIborrrkuI7lrp7ot7UgMiA0OCAxNiAzMuOAjei/nuWIsOesrCAxMDMg6KGM44CM5Y2B5LqM44CB5b6u5LiT5Lia6K++56iL566A5LuL44CN5LiO566A5LuL56ysIDEg5p2h77yM6Leo44CM5Y2B5LiA44CB44CN44CM5Y2B5LqM44CB44CN5Lik6IqC77yM5pWF5oyC54i26IqC44CM6K++56iL6K6+572u5LiO6K++56iL566A5LuL44CN44CCIiwNCiAgIuWOn+aWh+W8guW4uO+8iOihqOagvOaVo+aetu+8ie+8muesrCA4MuKAkzEwMiDooYznmoTjgIzor77nqIvorr7nva7lj4rlrabml7bliIbphY3ooajjgI3ooqvmir3miJDplJnkvY3ljZXlhYPmoLzigJTigJTooajlpLTmi4blnKggODTigJM4OCDooYzvvIjjgIzlrablrabvvI/lrabml7bliIbphY3vvI/lvIDorr7lrabvvI/luo/lj7cg6K++56iL5Lit5paH5ZCN56ewIOWIhuaXtiDnkIborrog6K++5YaFIOWunumqjCDor77lpJYg5pyfIOivvueoi+aAp+i0qOOAje+8ie+8jOesrCA5NyDooYzjgIwyMDI3IOaYpSDlv4Xkv67jgI3mmK/nrKwgNCDooYzjgIzoibLlvankuI7msLTlvanjgI3nmoTor77nqIvmgKfotKjooqvmjKTliLDljZXni6zkuIDooYzvvIznrKwgMTAw4oCTMTAyIOihjOe8uuOAjOivvueoi+aAp+i0qOOAjeWIl++8m+aVtOihqOaMieWOn+aWh+eri+OAjOWNgeS4gOOAgeOAjeS4gOiKgu+8jOacqumHjeaOkuOAgiIsDQogICLnrKwgNjUg6KGM44CM77yI5pys5qCh5a2m55Sf5oql5ZCN5YWl5Y+j77yJIO+8iOagoeWkluS6uuWRmOaKpeWQjeWFpeWPo++8ieOAjeaYr+S4pOWkhOS6jOe7tOeggeWNoOS9jeaWh+Wtl++8jOWxnuOAjOWFq+OAgeOAjeiKguWGhe+8jOacquWNleWIl+OAgiIsDQogICLnrKwgMTQx4oCTMTQyIOihjOS4uuiQveasvu+8iOS4reWbveS8oOWqkuWkp+WtpuiJuuacr+eglOeptumZou+8jzIwMjYg5bm0IDcg5pyI77yJ77yM5Y2V5YiX44CM6JC95qy+44CN5LiA6IqC77yIaGVhZGluZyDlj5bljp/mlofljZXkvY3lkI3vvInjgIIiDQogXQ0KfQ==
+{
+ "key": "att-7e0dbc9fe9",
+ "title": "中国传媒大学书画理论与实践微专业2026年秋季招生简章",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "标题",
+   "heading": "2026年秋季招生简章",
+   "heading_kind": "author",
+   "lines": [
+    1,
+    4
+   ],
+   "items": [
+    "pt-23431a5e34"
+   ],
+   "chars": 27
+  },
+  {
+   "no": "一、",
+   "heading": "微专业介绍",
+   "heading_kind": "author",
+   "lines": [
+    5,
+    11
+   ],
+   "items": [],
+   "chars": 151
+  },
+  {
+   "no": "二、",
+   "heading": "培养目标",
+   "heading_kind": "author",
+   "lines": [
+    13,
+    19
+   ],
+   "items": [
+    "pt-2529818bdb"
+   ],
+   "chars": 159
+  },
+  {
+   "no": "三、",
+   "heading": "培养要求",
+   "heading_kind": "author",
+   "lines": [
+    21,
+    26
+   ],
+   "items": [
+    "pt-a796afe1da"
+   ],
+   "chars": 111
+  },
+  {
+   "no": "四、",
+   "heading": "招生对象及条件",
+   "heading_kind": "author",
+   "lines": [
+    28,
+    36
+   ],
+   "items": [
+    "pt-44f8cfb30c"
+   ],
+   "chars": 155
+  },
+  {
+   "no": "学制授课（父节）",
+   "heading": "学制与授课方式",
+   "heading_kind": "derived",
+   "lines": [
+    38,
+    47
+   ],
+   "items": [
+    "pt-2350a81433"
+   ],
+   "chars": 125
+  },
+  {
+   "no": "五、",
+   "heading": "学制",
+   "heading_kind": "author",
+   "lines": [
+    38,
+    39
+   ],
+   "items": [],
+   "chars": 6
+  },
+  {
+   "no": "六、",
+   "heading": "授课方式",
+   "heading_kind": "author",
+   "lines": [
+    41,
+    47
+   ],
+   "items": [],
+   "chars": 119
+  },
+  {
+   "no": "七、",
+   "heading": "学分认定与证书颁发",
+   "heading_kind": "author",
+   "lines": [
+    49,
+    56
+   ],
+   "items": [
+    "pt-26796ac865"
+   ],
+   "chars": 145
+  },
+  {
+   "no": "八、",
+   "heading": "招生时间安排及报名方式",
+   "heading_kind": "author",
+   "lines": [
+    58,
+    71
+   ],
+   "items": [
+    "pt-c1a5532a1a",
+    "pt-9f0911718e"
+   ],
+   "chars": 223
+  },
+  {
+   "no": "九、",
+   "heading": "咨询方式",
+   "heading_kind": "author",
+   "lines": [
+    73,
+    75
+   ],
+   "items": [
+    "pt-f01cc81d8d"
+   ],
+   "chars": 48
+  },
+  {
+   "no": "十、",
+   "heading": "微专业课程费用",
+   "heading_kind": "author",
+   "lines": [
+    77,
+    80
+   ],
+   "items": [
+    "pt-e657d19362"
+   ],
+   "chars": 57
+  },
+  {
+   "no": "课程与简介（父节）",
+   "heading": "课程设置与课程简介",
+   "heading_kind": "derived",
+   "lines": [
+    82,
+    139
+   ],
+   "items": [
+    "pt-b86df69a02"
+   ],
+   "chars": 984
+  },
+  {
+   "no": "十一、",
+   "heading": "课程设置及学时分配表",
+   "heading_kind": "author",
+   "lines": [
+    82,
+    102
+   ],
+   "items": [
+    "pt-7b73433e2a",
+    "pt-e95e9a4f3e"
+   ],
+   "chars": 185
+  },
+  {
+   "no": "十二、",
+   "heading": "微专业课程简介",
+   "heading_kind": "author",
+   "lines": [
+    103,
+    139
+   ],
+   "items": [],
+   "chars": 799
+  },
+  {
+   "no": "简介1",
+   "heading": "中国绘画艺术史",
+   "heading_kind": "author",
+   "lines": [
+    104,
+    108
+   ],
+   "items": [],
+   "chars": 102
+  },
+  {
+   "no": "简介2",
+   "heading": "西方绘画艺术史",
+   "heading_kind": "author",
+   "lines": [
+    109,
+    114
+   ],
+   "items": [
+    "pt-9f526d1041"
+   ],
+   "chars": 140
+  },
+  {
+   "no": "简介3",
+   "heading": "中国画技法与实践",
+   "heading_kind": "author",
+   "lines": [
+    115,
+    121
+   ],
+   "items": [
+    "pt-d858d20b67"
+   ],
+   "chars": 151
+  },
+  {
+   "no": "简介4",
+   "heading": "色彩与水彩",
+   "heading_kind": "author",
+   "lines": [
+    122,
+    126
+   ],
+   "items": [
+    "pt-e91b8e2b2c"
+   ],
+   "chars": 110
+  },
+  {
+   "no": "简介5",
+   "heading": "绘画理论与鉴赏",
+   "heading_kind": "author",
+   "lines": [
+    127,
+    132
+   ],
+   "items": [
+    "pt-243644d90f"
+   ],
+   "chars": 133
+  },
+  {
+   "no": "简介6",
+   "heading": "书法理论与实践",
+   "heading_kind": "author",
+   "lines": [
+    133,
+    139
+   ],
+   "items": [
+    "pt-d0bac9468e"
+   ],
+   "chars": 153
+  },
+  {
+   "no": "落款",
+   "heading": "中国传媒大学艺术研究院",
+   "heading_kind": "author",
+   "lines": [
+    141,
+    142
+   ],
+   "items": [],
+   "chars": 18
+  }
+ ],
+ "items": [
+  "pt-23431a5e34",
+  "pt-2529818bdb",
+  "pt-a796afe1da",
+  "pt-44f8cfb30c",
+  "pt-2350a81433",
+  "pt-26796ac865",
+  "pt-c1a5532a1a",
+  "pt-9f0911718e",
+  "pt-f01cc81d8d",
+  "pt-e657d19362",
+  "pt-7b73433e2a",
+  "pt-e95e9a4f3e",
+  "pt-b86df69a02",
+  "pt-9f526d1041",
+  "pt-d858d20b67",
+  "pt-e91b8e2b2c",
+  "pt-243644d90f",
+  "pt-d0bac9468e"
+ ],
+ "notes": [
+  "第 1–3 行是分三行排的标题（中国传媒大学／书画理论与实践微专业／2026 年秋季招生简章），第 4 行空行，合为「标题」一节，heading 取第 3 行原文。",
+  "有两个父节是为安放跨子节边界的引文而立的「合并区间」节（derived，真嵌套）：①「学制与授课方式」38–47 行包住「五、学制」（仅第 38–39 行、正文只有「一年」）与「六、授课方式」；②「课程设置与课程简介」82–139 行包住「十一、」表格与「十二、」课程简介（含 6 个课程子节）。",
+  "pt-2350a81433 的引文从第 38 行「五、学制」连到第 42 行「六、授课方式」正文，26 字前缀跨 38–42 行，故挂父节「学制与授课方式」，不塞进五、或六、。",
+  "pt-b86df69a02 的标题被上游拼成「十二、微专业课程简介 1.中国绘画艺术史」，但引文实际从第 100 行表格末行「6 书法理论与实践 2 48 16 32」连到第 103 行「十二、微专业课程简介」与简介第 1 条，跨「十一、」「十二、」两节，故挂父节「课程设置与课程简介」。",
+  "原文异常（表格散架）：第 82–102 行的「课程设置及学时分配表」被抽成错位单元格——表头拆在 84–88 行（「学学／学时分配／开设学／序号 课程中文名称 分时 理论 课内 实验 课外 期 课程性质」），第 97 行「2027 春 必修」是第 4 行「色彩与水彩」的课程性质被挤到单独一行，第 100–102 行缺「课程性质」列；整表按原文立「十一、」一节，未重排。",
+  "第 65 行「（本校学生报名入口） （校外人员报名入口）」是两处二维码占位文字，属「八、」节内，未单列。",
+  "第 141–142 行为落款（中国传媒大学艺术研究院／2026 年 7 月），单列「落款」一节（heading 取原文单位名）。"
+ ]
+}

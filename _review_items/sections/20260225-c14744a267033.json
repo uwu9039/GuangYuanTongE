@@ -1,1 +1,66 @@
-ew0KICAia2V5IjogIjIwMjYwMjI1LWMxNDc0NGEyNjcwMzMiLA0KICAidGl0bGUiOiAi5L+h5oGv5Lyg5pKt5a2m6Zmi5Y+s5byA5YWa5ZGY5aSn5Lya6YCJ5Li+5Ye65bit5a2m5qCh56ys5Zub5qyh5YWa5Luj5Lya5Luj6KGoIiwNCiAgInRydW5jYXRlZCI6IGZhbHNlLA0KICAic2VjdGlvbnMiOiBbDQogICAgew0KICAgICAgIm5vIjogIuKAlCIsDQogICAgICAiaGVhZGluZyI6ICLkv6Hmga/kvKDmkq3lrabpmaLlj6zlvIDlhZrlkZjlpKfkvJrpgInkuL7lh7rluK3lrabmoKHnrKzlm5vmrKHlhZrku6PkvJrku6PooagiLA0KICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgICAgImxpbmVzIjogWw0KICAgICAgICAxLA0KICAgICAgICAzNg0KICAgICAgXSwNCiAgICAgICJpdGVtcyI6IFsNCiAgICAgICAgInB0LWNiYTY2M2UzYzciDQogICAgICBdLA0KICAgICAgImNoYXJzIjogMzU2DQogICAgfSwNCiAgICB7DQogICAgICAibm8iOiAi4oCUIiwNCiAgICAgICJoZWFkaW5nIjogIuWFmuWRmOWkp+S8muWPrOW8gOS4juS7o+ihqOmAieS4vui/h+eoi++8iOaMieWbvueJh+ivtOaYjuWIhuaute+8iSIsDQogICAgICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgICAgImxpbmVzIjogWw0KICAgICAgICAzNywNCiAgICAgICAgNTUNCiAgICAgIF0sDQogICAgICAiaXRlbXMiOiBbDQogICAgICAgICJwdC04ODQyNGJjYmFmIiwNCiAgICAgICAgInB0LTlhYjVhMGRjZmIiLA0KICAgICAgICAicHQtNTUyOGExOWU1OSIsDQogICAgICAgICJwdC1iYmQxZDY0YmI2IiwNCiAgICAgICAgInB0LTQ3NmFiM2RkZTciLA0KICAgICAgICAicHQtNTBlMmYzODVlZCIsDQogICAgICAgICJwdC01N2IzYWM5NWQ1Ig0KICAgICAgXSwNCiAgICAgICJjaGFycyI6IDExNzYNCiAgICB9LA0KICAgIHsNCiAgICAgICJubyI6ICLigJQiLA0KICAgICAgImhlYWRpbmciOiAi6aG16ISa77yI5Y+L5oOF6ZO+5o6l44CB5Zyw5Z2A5LiO54mI5p2D5L+h5oGv77yJIiwNCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAgICAibGluZXMiOiBbDQogICAgICAgIDU2LA0KICAgICAgICA3Mw0KICAgICAgXSwNCiAgICAgICJpdGVtcyI6IFtdLA0KICAgICAgImNoYXJzIjogMzkzDQogICAgfQ0KICBdLA0KICAiaXRlbXMiOiBbDQogICAgInB0LWNiYTY2M2UzYzciLA0KICAgICJwdC04ODQyNGJjYmFmIiwNCiAgICAicHQtOWFiNWEwZGNmYiIsDQogICAgInB0LTU1MjhhMTllNTkiLA0KICAgICJwdC1iYmQxZDY0YmI2IiwNCiAgICAicHQtNDc2YWIzZGRlNyIsDQogICAgInB0LTUwZTJmMzg1ZWQiLA0KICAgICJwdC01N2IzYWM5NWQ1Ig0KICBdLA0KICAibm90ZXMiOiBbDQogICAgIue9kemhteaKk+WPluaWh+acrO+8mjHigJMzNiDooYzmmK/pobXpnaLmoYbmnrbvvIjmoIfpopjjgIHnq5nngrkgbG9nb+OAgeWvvOiIquiPnOWNleOAjOmmlumhte+8j+WFs+S6juaIkeS7rO+8j+WtpueUn+WfueWFu++8j+Wtpuacr+eglOeptu+8j+WFmue+pOW3peS9nOKApuOAjeOAgemdouWMheWxkeOAjOmmlumhtSDlhZrnvqTlt6XkvZwg5YWa5bu65Yqo5oCB44CN44CB6YeN5aSN5qCH6aKY44CB5Y+R5biD5pe26Ze05LiO5rWP6KeI5qyh5pWw77yJ77yM5ZCI5bm25oiQ5LiA6IqC77yb5q2j5paHIDM34oCTNTUg6KGM77ybNTbigJM3MyDooYzmmK/pobXohJrvvIjlj4vmg4Xpk77mjqXjgIHlnLDlnYDpgq7nvJbjgIHniYjmnYPkuI7lpIfmoYjlj7fjgIHlm57liLDpobbpg6jjgIHorr/pl67nu5/orqHvvInjgIIiLA0KICAgICLmraPmlofnlKjlm77niYfor7TmmI7kvZzliIbmrrXvvIjjgIzlj4LkvJrkurrlkZjlkIjllLHjgIrlm73mrYzjgIvjgI3jgIzlhZrlkZjkuL7miYvooajlhrPjgI3jgIzlhZrlkZjloavlhpnpgInnpajjgI3jgIzmipXnpajnjq/oioLjgI3jgIzlj4LkvJrkurrlkZjlkIjllLHjgIrlm73pmYXmrYzjgIvjgI3jgIzlhZrlkZjlpKfkvJrnjrDlnLrjgI3vvInvvIzov5nkupvmmK/lm77niYfor7TmmI7ogIzpnZ7nq6DoioLlsI/moIfpopjvvIzmlYXmraPmloflkIjmiJDkuIDoioLjgIFoZWFkaW5nIOaghyBkZXJpdmVk44CCIiwNCiAgICAi5q2j5paH5LiO6aG16ISa5LmL6Ze05aS55pyJIFvpmYTku7ZdIOWbvueJh+ihjO+8iDM444CBNDHjgIE0NOOAgTQ344CBNTDjgIE1NOOAgTU244CBNTfjgIE3MuOAgTczIOihjO+8ie+8jOS/neeVmeWcqOaJgOWxnuiKguOAgiIsDQogICAgInB0LTU3YjNhYzk1ZDUg5byV5paH5LuF44CM5YWa5ZGY5aSn5Lya546w5Zy644CN77yINTUg6KGM77yM5Zu+54mH6K+05piO77yJ77yM6JC95Zyo5q2j5paH6IqC44CCIg0KICBdDQp9DQo=
+{
+  "key": "20260225-c14744a267033",
+  "title": "信息传播学院召开党员大会选举出席学校第四次党代会代表",
+  "truncated": false,
+  "sections": [
+    {
+      "no": "—",
+      "heading": "信息传播学院召开党员大会选举出席学校第四次党代会代表",
+      "heading_kind": "author",
+      "lines": [
+        1,
+        36
+      ],
+      "items": [
+        "pt-cba663e3c7"
+      ],
+      "chars": 356
+    },
+    {
+      "no": "—",
+      "heading": "党员大会召开与代表选举过程（按图片说明分段）",
+      "heading_kind": "derived",
+      "lines": [
+        37,
+        55
+      ],
+      "items": [
+        "pt-88424bcbaf",
+        "pt-9ab5a0dcfb",
+        "pt-5528a19e59",
+        "pt-bbd1d64bb6",
+        "pt-476ab3dde7",
+        "pt-50e2f385ed",
+        "pt-57b3ac95d5"
+      ],
+      "chars": 1176
+    },
+    {
+      "no": "—",
+      "heading": "页脚（友情链接、地址与版权信息）",
+      "heading_kind": "derived",
+      "lines": [
+        56,
+        73
+      ],
+      "items": [],
+      "chars": 393
+    }
+  ],
+  "items": [
+    "pt-cba663e3c7",
+    "pt-88424bcbaf",
+    "pt-9ab5a0dcfb",
+    "pt-5528a19e59",
+    "pt-bbd1d64bb6",
+    "pt-476ab3dde7",
+    "pt-50e2f385ed",
+    "pt-57b3ac95d5"
+  ],
+  "notes": [
+    "网页抓取文本：1–36 行是页面框架（标题、站点 logo、导航菜单「首页／关于我们／学生培养／学术研究／党群工作…」、面包屑「首页 党群工作 党建动态」、重复标题、发布时间与浏览次数），合并成一节；正文 37–55 行；56–73 行是页脚（友情链接、地址邮编、版权与备案号、回到顶部、访问统计）。",
+    "正文用图片说明作分段（「参会人员合唱《国歌》」「党员举手表决」「党员填写选票」「投票环节」「参会人员合唱《国际歌》」「党员大会现场」），这些是图片说明而非章节小标题，故正文合成一节、heading 标 derived。",
+    "正文与页脚之间夹有 [附件] 图片行（38、41、44、47、50、54、56、57、72、73 行），保留在所属节。",
+    "pt-57b3ac95d5 引文仅「党员大会现场」（55 行，图片说明），落在正文节。"
+  ]
+}

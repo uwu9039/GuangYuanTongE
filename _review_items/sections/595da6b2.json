@@ -1,1 +1,112 @@
-ew0KICJrZXkiOiAiNTk1ZGE2YjIiLA0KICJ0aXRsZSI6ICLmlZnogrLmnI3liqHkuK3lv4Ppg6jpl6jmpoLlhrXvvIjlkKvnp5HlrqTogYzotKPkuI7mlZnlrabnqbrpl7Tlip7lhazlrqTogZTns7vmlrnlvI/vvIkiLA0KICJ0cnVuY2F0ZWQiOiB0cnVlLA0KICJzZWN0aW9ucyI6IFsNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLmoIfpopjkuI7miqzlpLQiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxLA0KICAgIDINCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgIndkLTU5NWRhNmIyIg0KICAgXSwNCiAgICJjaGFycyI6IDMzDQogIH0sDQogIHsNCiAgICJubyI6ICLkuIDjgIEiLA0KICAgImhlYWRpbmciOiAi5pWZ6IKy5pyN5Yqh5Lit5b+D6YOo6Zeo5qaC5Ya1IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzLA0KICAgIDEwDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJ3ZC01OTVkYTZiMiINCiAgIF0sDQogICAiY2hhcnMiOiAyMjYNCiAgfSwNCiAgew0KICAgIm5vIjogIuS6jOOAgSIsDQogICAiaGVhZGluZyI6ICLnp5HlrqTogYzotKMiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDExLA0KICAgIDU5DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAxMTg3DQogIH0sDQogIHsNCiAgICJubyI6ICLkuInjgIEiLA0KICAgImhlYWRpbmciOiAi5Yqe5YWs5Zyw5Z2A5Y+K6IGU57O75pa55byPIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA2MCwNCiAgICA5Mw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAid2QtNTk1ZGE2YjIiDQogICBdLA0KICAgImNoYXJzIjogNDgyDQogIH0sDQogIHsNCiAgICJubyI6ICLlm5vjgIEiLA0KICAgImhlYWRpbmciOiAi5pWZ6IKy5pyN5Yqh5Lit5b+D55qE5ZCE6aG56KeE56ug5Yi25bqm5oiW566h55CG6KeE5a6aIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA5NCwNCiAgICA5NQ0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogNDINCiAgfSwNCiAgew0KICAgIm5vIjogIuS6lOOAgSIsDQogICAiaGVhZGluZyI6ICLlhbPkuo7mtbfljZciLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDk2LA0KICAgIDk5DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiA4MA0KICB9LA0KICB7DQogICAibm8iOiAi5YWt44CBIiwNCiAgICJoZWFkaW5nIjogIuS4jeWxnuS6juaVmeiCsuacjeWKoeS4reW/g+euoei+lueahOWcuuWcsCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTAwLA0KICAgIDEwMg0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogNzINCiAgfSwNCiAgew0KICAgIm5vIjogIuS4g+OAgSIsDQogICAiaGVhZGluZyI6ICLkuI3lsZ7kuo7mlZnogrLmnI3liqHkuK3lv4PnrqHovpbnmoTlnLrlnLAiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDEwMywNCiAgICAxMDQNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDMzDQogIH0NCiBdLA0KICJpdGVtcyI6IFsNCiAgIndkLTU5NWRhNmIyIg0KIF0sDQogIm5vdGVzIjogWw0KICAi5q2j5paH5oiq6Iez56ysIDEwNCDooYwgLyDnuqYgMjM1NCDlrZfvvJrmnKvoioLjgIzkuIPjgIHjgI3mraLkuo7nrKwgMTA0IOihjOOAjOeZveadqOWkp+mbhuOAgeWwj+ekvOWgguOAgeWQhOWtpumZoueahOaVmeWupOOAguOAjeKAlOKAlCoq5oyJ5LiK5ri45qCH6K6w6K6wIHRydW5jYXRlZO+8jOS9huS4g+iKgue8luWPt+i/nue7re+8iOS4gOOAgeiHs+S4g+OAge+8ieOAgeacq+iKguS7peWujOaVtOWPpeaUtuWwvu+8jOacquingee8uueroOe8uuWPpSoq44CCIiwNCiAgIuWOn+aWh+W8guW4uO+8iOS4pOS4quWQjOWQjeeroO+8ie+8muOAjOWFreOAgSDkuI3lsZ7kuo7mlZnogrLmnI3liqHkuK3lv4PnrqHovpbnmoTlnLrlnLDvvJrjgI3vvIgxMDAg6KGM77yJ5LiO44CM5LiD44CBIOS4jeWxnuS6juaVmeiCsuacjeWKoeS4reW/g+euoei+lueahOWcuuWcsO+8muOAje+8iDEwMyDooYzvvIkqKuagh+mimOWujOWFqOebuOWQjCoq77yM5LiUIDEwM+KAkzEwNCDooYznmoTlhoXlrrnvvIjnmb3mnajlpKfpm4bjgIHlsI/npLzloILjgIHlkITlrabpmaLnmoTmlZnlrqTvvInkuI4gMTAw4oCTMTAyIOihjOeahOWQjuWNiumHjeWkjeOAguaMieWOn+aWh+S/neeVmeS4pOS4quWQjOWQjeiKguOAgeacquaUueWQje+8iOWPo+W+hO+8mue8luWPt+mHjeWkjeeFp+WOn+aWh+S/neeVmeOAgeWcqCBub3RlcyDor7TmmI7vvInvvIzor7vogIXpnIDmjInooYzlj7fljLrliIbjgIIiLA0KICAi5Y6f5paH5byC5bi477yI6aaW6KGM57KY6L+e77yJ77ya56ysIDEg6KGM5pivIGRvY3gg5paH5Lu25ZCN6KGM77yM6KGM5bC+6L+Y57KY5LqG44CM5Yqe5YWs5Zyw5Z2A5Y+K6IGU57O75pa55byP77yaIOaVmeWtpuepuumXtOWKnuWFrOWupOOAje+8iOato+aWh+esrOS4ieOAgeS4ieiKgueahOWwj+agh+mimOiiq+aPkOWJjeaKveWIsOesrOS4gOihjO+8ie+8jOS4juesrCAyIOihjOS4gOW5tuW5tuWFpeOAjOagh+mimOS4juaKrOWktOOAjeS4gOiKguOAgiIsDQogICLljp/mloflvILluLjvvIjogYzotKPmnaHlj7fot7Plj7fvvInvvJrjgIzlrp7ot7XmlZnlrabotYTmupDpg6jogYzotKPjgI3nmoTmnaHlj7fku44gMeOAgTLjgIEz44CBNCDnm7TmjqXot7PliLAgNu+8iOesrCA0MCDooYzmmK/jgIw244CB6LSf6LSj5a2m5qCh5YWs5YWx5a6e6Le15pWZ5a2m6LWE5rqQ5LiO5oql5ZGK5Y6F5L2/55So5a6h5om54oCm44CN77yJ77yMKirnvLrnrKwgNSDmnaEqKu+8m+aMieWOn+aWh+S/neeVme+8jOacquihpeOAgiIsDQogICLjgIzkuozjgIHnp5HlrqTogYzotKPjgI3kuIvnmoTlm5vkuKrnp5HlrqTvvIjmlZnlrabnqbrpl7Tlip7lhazlrqTvvI/lr7nlpJbmnI3liqHlip7lhazlrqTvvI/lrp7ot7XmlZnlrabotYTmupDpg6jvvI/mioDmnK/mlK/mjIHpg6jvvIwxMuKAkzU5IOihjO+8ieS4juOAjOS4ieOAgeOAjeS4i+eahOWFree7hOWKnuWFrOWcsOWdgO+8iDYx4oCTOTMg6KGM77yJ6YO95piv6IqC5YaF5bm25YiX5bCP5qCH562+44CB5LiN5piv57yW5Y+35bGC57qn77yM5pWF5pyq5YaN5ouG6IqC44CCIiwNCiAgIndkLTU5NWRhNmIyIOS4uuaWh+aho+e6p+adoeebru+8jDMg5q615byV5paH6LeoIDIg6IqC77ya56ysIDEg5q6177yI5paH5Lu25ZCN6KGM77yL5oqs5aS077yJ6JC95Zyo44CM5qCH6aKY5LiO5oqs5aS044CN77yM56ysIDIg5q6177yI44CM5LiA44CBIOaVmeiCsuacjeWKoeS4reW/g+mDqOmXqOamguWGteOAje+8ieiQveWcqOOAjOS4gOOAgeOAje+8jOesrCAzIOaute+8iOOAjOS4ieOAgSDlip7lhazlnLDlnYDlj4rogZTns7vmlrnlvI/vvJrjgI3vvInokL3lnKjjgIzkuInjgIHjgI3vvJvmjInlj6PlvoTlnKjov5kgMyDoioLlkITliJfkuIDmrKHjgIIiDQogXQ0KfQ0K
+{
+ "key": "595da6b2",
+ "title": "教育服务中心部门概况（含科室职责与教学空间办公室联系方式）",
+ "truncated": true,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "标题与抬头",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    2
+   ],
+   "items": [
+    "wd-595da6b2"
+   ],
+   "chars": 33
+  },
+  {
+   "no": "一、",
+   "heading": "教育服务中心部门概况",
+   "heading_kind": "author",
+   "lines": [
+    3,
+    10
+   ],
+   "items": [
+    "wd-595da6b2"
+   ],
+   "chars": 226
+  },
+  {
+   "no": "二、",
+   "heading": "科室职责",
+   "heading_kind": "author",
+   "lines": [
+    11,
+    59
+   ],
+   "items": [],
+   "chars": 1187
+  },
+  {
+   "no": "三、",
+   "heading": "办公地址及联系方式",
+   "heading_kind": "author",
+   "lines": [
+    60,
+    93
+   ],
+   "items": [
+    "wd-595da6b2"
+   ],
+   "chars": 482
+  },
+  {
+   "no": "四、",
+   "heading": "教育服务中心的各项规章制度或管理规定",
+   "heading_kind": "author",
+   "lines": [
+    94,
+    95
+   ],
+   "items": [],
+   "chars": 42
+  },
+  {
+   "no": "五、",
+   "heading": "关于海南",
+   "heading_kind": "author",
+   "lines": [
+    96,
+    99
+   ],
+   "items": [],
+   "chars": 80
+  },
+  {
+   "no": "六、",
+   "heading": "不属于教育服务中心管辖的场地",
+   "heading_kind": "author",
+   "lines": [
+    100,
+    102
+   ],
+   "items": [],
+   "chars": 72
+  },
+  {
+   "no": "七、",
+   "heading": "不属于教育服务中心管辖的场地",
+   "heading_kind": "author",
+   "lines": [
+    103,
+    104
+   ],
+   "items": [],
+   "chars": 33
+  }
+ ],
+ "items": [
+  "wd-595da6b2"
+ ],
+ "notes": [
+  "正文截至第 104 行 / 约 2354 字：末节「七、」止于第 104 行「白杨大集、小礼堂、各学院的教室。」——**按上游标记记 truncated，但七节编号连续（一、至七、）、末节以完整句收尾，未见缺章缺句**。",
+  "原文异常（两个同名章）：「六、 不属于教育服务中心管辖的场地：」（100 行）与「七、 不属于教育服务中心管辖的场地：」（103 行）**标题完全相同**，且 103–104 行的内容（白杨大集、小礼堂、各学院的教室）与 100–102 行的后半重复。按原文保留两个同名节、未改名（口径：编号重复照原文保留、在 notes 说明），读者需按行号区分。",
+  "原文异常（首行粘连）：第 1 行是 docx 文件名行，行尾还粘了「办公地址及联系方式： 教学空间办公室」（正文第三、三节的小标题被提前抽到第一行），与第 2 行一并并入「标题与抬头」一节。",
+  "原文异常（职责条号跳号）：「实践教学资源部职责」的条号从 1、2、3、4 直接跳到 6（第 40 行是「6、负责学校公共实践教学资源与报告厅使用审批…」），**缺第 5 条**；按原文保留，未补。",
+  "「二、科室职责」下的四个科室（教学空间办公室／对外服务办公室／实践教学资源部／技术支持部，12–59 行）与「三、」下的六组办公地址（61–93 行）都是节内并列小标签、不是编号层级，故未再拆节。",
+  "wd-595da6b2 为文档级条目，3 段引文跨 2 节：第 1 段（文件名行＋抬头）落在「标题与抬头」，第 2 段（「一、 教育服务中心部门概况」）落在「一、」，第 3 段（「三、 办公地址及联系方式：」）落在「三、」；按口径在这 3 节各列一次。"
+ ]
+}

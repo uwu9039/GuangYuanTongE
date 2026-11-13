@@ -1,1 +1,216 @@
-ew0KICJrZXkiOiAiZTQ0NDQwNzQiLA0KICJ0aXRsZSI6ICLlhbPkuo7ljbDlj5HjgIrkuK3lm73kvKDlqpLlpKflrabmnKznp5HnlJ/kvZPogrLor77nqIvnrqHnkIbop4TlrprjgIvnmoTpgJrnn6XvvIjmnKznp5HnlJ/pmaLjgJQyMDIz44CVNjLlj7fvvIkiLA0KICJ0cnVuY2F0ZWQiOiBmYWxzZSwNCiAic2VjdGlvbnMiOiBbDQogIHsNCiAgICJubyI6ICLpgJrnn6UiLA0KICAgImhlYWRpbmciOiAi5paH5aS05LiO5Y2w5Y+R6YCa55+lIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMSwNCiAgICAxMg0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicnVsZS1lNDQ0NDA3NCINCiAgIF0sDQogICAiY2hhcnMiOiAyMDYNCiAgfSwNCiAgew0KICAgIm5vIjogIuagh+mimCIsDQogICAiaGVhZGluZyI6ICLmoIfpopjkuI7liLblrprkvp3mja4iLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMywNCiAgICAxNw0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTI5DQogIH0sDQogIHsNCiAgICJubyI6ICLkuIDjgIEiLA0KICAgImhlYWRpbmciOiAi5L2T6IKy6K++56iL5Z+65pys6KaB5rGCIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxOCwNCiAgICAyNQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNmU1ZWE4ODQ5NiINCiAgIF0sDQogICAiY2hhcnMiOiAyMTkNCiAgfSwNCiAgew0KICAgIm5vIjogIuS4gOOAge+8iOS4gO+8iSIsDQogICAiaGVhZGluZyI6ICLlv4Xkv67lrabliIbkuI7lrabliIbmnoTmiJAiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxOSwNCiAgICAyMQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMTU5YzE3NDI2ZCINCiAgIF0sDQogICAiY2hhcnMiOiA5MA0KICB9LA0KICB7DQogICAibm8iOiAi5LiA44CB77yI5LqM77yJIiwNCiAgICJoZWFkaW5nIjogIuWtpuacn+mAiemhueWItuS4juS4k+mhuemAieaLqSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDIyLA0KICAgIDI1DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0zM2I4YzY3ZWY1IiwNCiAgICAicHQtMWFiZWE0Y2MxNSIsDQogICAgInB0LTFlYzJlOWZhN2IiDQogICBdLA0KICAgImNoYXJzIjogMTE5DQogIH0sDQogIHsNCiAgICJubyI6ICLkuozjgIEiLA0KICAgImhlYWRpbmciOiAi5L2T6IKy6K++56iL6ICD5qC45LiO5oiQ57up6K+E5a6aIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyNiwNCiAgICAyOQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtOWE5ODhkN2ZlYSINCiAgIF0sDQogICAiY2hhcnMiOiA4Mw0KICB9LA0KICB7DQogICAibm8iOiAi5LiJ44CBIiwNCiAgICJoZWFkaW5nIjogIuS9k+iCsuivvueoi+mHjeiAg+OAgemHjeS/ruOAgeWFjeS/ruWPiue8k+iAg+WKnuazlSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMzAsDQogICAgNDMNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTEyMzE1MDEzZGYiDQogICBdLA0KICAgImNoYXJzIjogMzgzDQogIH0sDQogIHsNCiAgICJubyI6ICLkuInjgIHvvIjkuIDvvIkiLA0KICAgImhlYWRpbmciOiAi6YeN6ICDIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzMSwNCiAgICAzMw0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogODQNCiAgfSwNCiAgew0KICAgIm5vIjogIuS4ieOAge+8iOS6jO+8iSIsDQogICAiaGVhZGluZyI6ICLph43kv64iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDM0LA0KICAgIDM2DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiA4NQ0KICB9LA0KICB7DQogICAibm8iOiAi5LiJ44CB77yI5LiJ77yJIiwNCiAgICJoZWFkaW5nIjogIuWFjeS/riIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMzcsDQogICAgMzkNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDgwDQogIH0sDQogIHsNCiAgICJubyI6ICLkuInjgIHvvIjlm5vvvIkiLA0KICAgImhlYWRpbmciOiAi57yT6ICDIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA0MCwNCiAgICA0Mw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMjdlNmRmOGY5OSIsDQogICAgInB0LWE3OGMyMTAzYmMiDQogICBdLA0KICAgImNoYXJzIjogMTE1DQogIH0sDQogIHsNCiAgICJubyI6ICLlm5vjgIEiLA0KICAgImhlYWRpbmciOiAi5a2m55Sf5L2T6LSo5YGl5bq35qCH5YeG5rWL6K+V6KaB5rGCIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNDQsDQogICAgNDcNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWY2MzM2MDI5MTQiDQogICBdLA0KICAgImNoYXJzIjogMTA1DQogIH0sDQogIHsNCiAgICJubyI6ICLkupTjgIEiLA0KICAgImhlYWRpbmciOiAi5pyq5bC95LqL5a6c55qE6YCC55So6KeE5a6aIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNDgsDQogICAgNDgNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDI5DQogIH0sDQogIHsNCiAgICJubyI6ICLlha3jgIEiLA0KICAgImhlYWRpbmciOiAi5pa96KGM6LW35aeL5bm057qnIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNDksDQogICAgNDkNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWYzMGE1YTZkNmYiDQogICBdLA0KICAgImNoYXJzIjogMTkNCiAgfSwNCiAgew0KICAgIm5vIjogIuS4g+OAgSIsDQogICAiaGVhZGluZyI6ICLop6Pph4rmnYPlvZLlsZ4iLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1MCwNCiAgICA1MA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTkNCiAgfQ0KIF0sDQogIml0ZW1zIjogWw0KICAicnVsZS1lNDQ0NDA3NCIsDQogICJwdC02ZTVlYTg4NDk2IiwNCiAgInB0LTE1OWMxNzQyNmQiLA0KICAicHQtMzNiOGM2N2VmNSIsDQogICJwdC0xYWJlYTRjYzE1IiwNCiAgInB0LTFlYzJlOWZhN2IiLA0KICAicHQtOWE5ODhkN2ZlYSIsDQogICJwdC0xMjMxNTAxM2RmIiwNCiAgInB0LTI3ZTZkZjhmOTkiLA0KICAicHQtYTc4YzIxMDNiYyIsDQogICJwdC1mNjMzNjAyOTE0IiwNCiAgInB0LWYzMGE1YTZkNmYiDQogXSwNCiAibm90ZXMiOiBbDQogICLliY3ljYrmrrXvvIgx4oCTMTIg6KGM77yJ5piv572R6aG15oq95Y+W5Ye65p2l55qE5Y2w5Y+R6YCa55+l77ya56ysIDEg6KGM5paH5Y+344CB56ysIDLigJMzIOihjOmAmuefpeagh+mimOOAgeesrCA04oCTOSDooYzkuLvpgIHkuI7mraPmlofjgIHnrKwgMTDigJMxMiDooYzokL3mrL7vvIjmnKznp5HnlJ/pmaLvvI/kvZPogrLpg6jvvI8yMDIzIOW5tCA4IOaciCAzMCDml6XvvInvvIzlkIjlubbkuLrkuIDoioLjgIzmloflpLTkuI7ljbDlj5HpgJrnn6XjgI3jgIIiLA0KICAi56ysIDEzIOihjOOAjOS4reWbveS8oOWqkuWkp+WtpuacrOenkeeUn+S9k+iCsuivvueoi+euoeeQhuinhOWumuOAjeaYr+aWh+S7tuato+aWh+agh+mimO+8jOS4jiAxNOKAkzE3IOihjOacque8luWPt+eahOWItuWumuS+neaNruauteW5tuaIkOS4gOiKgu+8iOagh+mimOihjOWNleWIl+S8muWPquacieS4gOS4quagh+mimOOAgeaXoOazleaJv+i9veS7u+S9leadoeebru+8ieOAgiIsDQogICLljp/mlofkuIDnuqflsI/moIfpopjmmK/jgIzkuIDjgIHjgI3oh7PjgIzkuIPjgIHjgI3vvIzmiJHmjInljp/mlofmoIfms6jvvIhhdXRob3LvvInvvJvjgIzkuIDjgIHjgI3kuI7jgIzkuInjgIHjgI3kuIvlj6bmnInjgIzvvIjkuIDvvInvvIjkuozvvInigKbjgI3lrZDpobnvvIzmjInnnJ/ltYzlpZfmi4blrZDoioLvvIzniLboioLljLrpl7TlrozmlbTljIXkvY/lrZDoioLjgIIiLA0KICAi44CM5LiA44CB44CN44CM5LqM44CB44CN44CM5LiJ44CB44CN5LiJ6IqC5qCHIGF1dGhvciDnmoTkvp3mja7mmK/mnKzoioLooYzljLrpl7TlhoXpgJDlrZflkKvor6XlsI/moIfpopjvvIjnrKwgMTjjgIEyNuOAgTMwIOihjO+8ie+8m+OAjOS4ieOAge+8iOS4gO+8ie+9nu+8iOWbm++8ieOAjeWbm+iKgueahOWwj+agh+mimOaYr+ihjOWGheOAjO+8iOS4gO+8iemHjeiAg++8muOAjei/meenjeW4puWGkuWPt+eahOW8leWvvOivje+8jOWQjOagt+mAkOWtl+WPr+inge+8jOaVheS5n+aghyBhdXRob3LjgIIiLA0KICAicHQtMTIzMTUwMTNkZiDnmoTlvJXmlofot6jjgIzkuInjgIHjgI3moIfpopjooYzkuI7jgIzvvIjkuIDvvInph43ogIPjgI3lvIDlpLTvvIwyNiDlrZfliY3nvIDlj6rmnInniLboioLog73lkb3kuK3vvIzmlYXliJflnKjniLboioLjgIzkuInjgIHjgI3ogIzpnZ7jgIzkuInjgIHvvIjkuIDvvInjgI3jgIIiLA0KICAi44CM5Zub44CB44CN6Iez44CM5LiD44CB44CN5Y6f5paH5rKh5pyJ5bCP5qCH6aKY77yM5piv44CM5Zub44CB5Zyo5a2m5qCh6KeE5a6a55qE5pyA6ZW/5pyJ5pWI5L+u5Lia5bm06ZmQ5YaF4oCm4oCm44CN6L+Z57G755u05o6l5o6l5q2j5paH55qE57yW5Y+35q6177yM6IqC5ZCN5oyJ5YaF5a655qaC5ous77yIZGVyaXZlZO+8ieOAgiIsDQogICJydWxlLWU0NDQ0MDc0IOaYr+aWh+aho+e6p+adoeebru+8iOaXoOW8leaWh++8ie+8jOaUvuWcqOmmluiKguOAjOaWh+WktOS4juWNsOWPkemAmuefpeOAjeOAgiINCiBdDQp9DQo=
+{
+ "key": "e4444074",
+ "title": "关于印发《中国传媒大学本科生体育课程管理规定》的通知（本科生院〔2023〕62号）",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "通知",
+   "heading": "文头与印发通知",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    12
+   ],
+   "items": [
+    "rule-e4444074"
+   ],
+   "chars": 206
+  },
+  {
+   "no": "标题",
+   "heading": "标题与制定依据",
+   "heading_kind": "derived",
+   "lines": [
+    13,
+    17
+   ],
+   "items": [],
+   "chars": 129
+  },
+  {
+   "no": "一、",
+   "heading": "体育课程基本要求",
+   "heading_kind": "author",
+   "lines": [
+    18,
+    25
+   ],
+   "items": [
+    "pt-6e5ea88496"
+   ],
+   "chars": 219
+  },
+  {
+   "no": "一、（一）",
+   "heading": "必修学分与学分构成",
+   "heading_kind": "derived",
+   "lines": [
+    19,
+    21
+   ],
+   "items": [
+    "pt-159c17426d"
+   ],
+   "chars": 90
+  },
+  {
+   "no": "一、（二）",
+   "heading": "学期选项制与专项选择",
+   "heading_kind": "derived",
+   "lines": [
+    22,
+    25
+   ],
+   "items": [
+    "pt-33b8c67ef5",
+    "pt-1abea4cc15",
+    "pt-1ec2e9fa7b"
+   ],
+   "chars": 119
+  },
+  {
+   "no": "二、",
+   "heading": "体育课程考核与成绩评定",
+   "heading_kind": "author",
+   "lines": [
+    26,
+    29
+   ],
+   "items": [
+    "pt-9a988d7fea"
+   ],
+   "chars": 83
+  },
+  {
+   "no": "三、",
+   "heading": "体育课程重考、重修、免修及缓考办法",
+   "heading_kind": "author",
+   "lines": [
+    30,
+    43
+   ],
+   "items": [
+    "pt-12315013df"
+   ],
+   "chars": 383
+  },
+  {
+   "no": "三、（一）",
+   "heading": "重考",
+   "heading_kind": "author",
+   "lines": [
+    31,
+    33
+   ],
+   "items": [],
+   "chars": 84
+  },
+  {
+   "no": "三、（二）",
+   "heading": "重修",
+   "heading_kind": "author",
+   "lines": [
+    34,
+    36
+   ],
+   "items": [],
+   "chars": 85
+  },
+  {
+   "no": "三、（三）",
+   "heading": "免修",
+   "heading_kind": "author",
+   "lines": [
+    37,
+    39
+   ],
+   "items": [],
+   "chars": 80
+  },
+  {
+   "no": "三、（四）",
+   "heading": "缓考",
+   "heading_kind": "author",
+   "lines": [
+    40,
+    43
+   ],
+   "items": [
+    "pt-27e6df8f99",
+    "pt-a78c2103bc"
+   ],
+   "chars": 115
+  },
+  {
+   "no": "四、",
+   "heading": "学生体质健康标准测试要求",
+   "heading_kind": "derived",
+   "lines": [
+    44,
+    47
+   ],
+   "items": [
+    "pt-f633602914"
+   ],
+   "chars": 105
+  },
+  {
+   "no": "五、",
+   "heading": "未尽事宜的适用规定",
+   "heading_kind": "derived",
+   "lines": [
+    48,
+    48
+   ],
+   "items": [],
+   "chars": 29
+  },
+  {
+   "no": "六、",
+   "heading": "施行起始年级",
+   "heading_kind": "derived",
+   "lines": [
+    49,
+    49
+   ],
+   "items": [
+    "pt-f30a5a6d6f"
+   ],
+   "chars": 19
+  },
+  {
+   "no": "七、",
+   "heading": "解释权归属",
+   "heading_kind": "derived",
+   "lines": [
+    50,
+    50
+   ],
+   "items": [],
+   "chars": 19
+  }
+ ],
+ "items": [
+  "rule-e4444074",
+  "pt-6e5ea88496",
+  "pt-159c17426d",
+  "pt-33b8c67ef5",
+  "pt-1abea4cc15",
+  "pt-1ec2e9fa7b",
+  "pt-9a988d7fea",
+  "pt-12315013df",
+  "pt-27e6df8f99",
+  "pt-a78c2103bc",
+  "pt-f633602914",
+  "pt-f30a5a6d6f"
+ ],
+ "notes": [
+  "前半段（1–12 行）是网页抽取出来的印发通知：第 1 行文号、第 2–3 行通知标题、第 4–9 行主送与正文、第 10–12 行落款（本科生院／体育部／2023 年 8 月 30 日），合并为一节「文头与印发通知」。",
+  "第 13 行「中国传媒大学本科生体育课程管理规定」是文件正文标题，与 14–17 行未编号的制定依据段并成一节（标题行单列会只有一个标题、无法承载任何条目）。",
+  "原文一级小标题是「一、」至「七、」，我按原文标注（author）；「一、」与「三、」下另有「（一）（二）…」子项，按真嵌套拆子节，父节区间完整包住子节。",
+  "「一、」「二、」「三、」三节标 author 的依据是本节行区间内逐字含该小标题（第 18、26、30 行）；「三、（一）～（四）」四节的小标题是行内「（一）重考：」这种带冒号的引导词，同样逐字可见，故也标 author。",
+  "pt-12315013df 的引文跨「三、」标题行与「（一）重考」开头，26 字前缀只有父节能命中，故列在父节「三、」而非「三、（一）」。",
+  "「四、」至「七、」原文没有小标题，是「四、在学校规定的最长有效修业年限内……」这类直接接正文的编号段，节名按内容概括（derived）。",
+  "rule-e4444074 是文档级条目（无引文），放在首节「文头与印发通知」。"
+ ]
+}

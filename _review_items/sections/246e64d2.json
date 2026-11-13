@@ -1,1 +1,119 @@
-ew0KICJrZXkiOiAiMjQ2ZTY0ZDIiLA0KICJ0aXRsZSI6ICLlm73mnInotYTkuqfnrqHnkIblpITlj4rlkITnp5HlrqTmnLrmnoTogYzog70iLA0KICJ0cnVuY2F0ZWQiOiBmYWxzZSwNCiAic2VjdGlvbnMiOiBbDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5Zu95pyJ6LWE5Lqn566h55CG5aSEIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxLA0KICAgIDMwDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJ3ZC0yNDZlNjRkMiINCiAgIF0sDQogICAiY2hhcnMiOiA4NDANCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLph4fotK3kuI7mi5vmoIfnrqHnkIblip7lhazlrqQiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDMxLA0KICAgIDM4DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAxODgNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLnu7zlkIjlip7lhazlrqQiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDM5LA0KICAgIDU1DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAzNTENCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLmiL/lsYvlnJ/lnLDnrqHnkIbnp5HvvIjkurrmsJHpmLLnqbrlip7lhazlrqTvvIkiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDU2LA0KICAgIDc1DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiA0NzUNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLotYTkuqfkv6Hmga/np5EiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDc2LA0KICAgIDkwDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAzMTkNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLml6DlvaLotYTkuqfnrqHnkIbnp5EiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDkxLA0KICAgIDEwNQ0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMzAyDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi6K6+5aSH566h55CG56eRIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMDYsDQogICAgMTIwDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAyODcNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLph4fotK3kuI7mi5vmoIfnrqHnkIblip7lhazlrqQt6K6+5aSH6YeH6LSt5LiO5oub5qCH56eRIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMjEsDQogICAgMTM3DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAzMzkNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLph4fotK3kuI7mi5vmoIfnrqHnkIblip7lhazlrqQt5bel56iL6YeH6LSt5LiO5oub5qCH56eRIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMzgsDQogICAgMTUyDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAyOTANCiAgfQ0KIF0sDQogIml0ZW1zIjogWw0KICAid2QtMjQ2ZTY0ZDIiDQogXSwNCiAibm90ZXMiOiBbDQogICLmnKzku7bmmK/mnLrmnoTogYzog73msYfnvJbvvIznu5PmnoTkuLrjgIzlpITvvIjlkKvmjILpnaDlip7lhazlrqTvvInihpIg5ZCE56eR5a6kIOKGkiDnp5HlrqTogYzotKMgMeKAk04g5p2hIO+8iyDlip7lhazlnLDlnYAg77yLIOenkeWupOi0n+i0o+S6uuWPiuiBlOezu+eUteivneOAjeOAgumZpOmDqOmXqOWQjeOAgeenkeWupOWQjeWklu+8jOWFqOaWh+ayoeacieS7u+S9lee8luWPt++8iOayoeacieOAjOesrFjnq6DvvI/nrKxY5p2h77yP5LiA44CB44CN77yJ77yM5pWF5ZCE6IqCIGBub2Ag5LiA5b6L55So44CM4oCU44CN77yM56eR5a6k5ZCN5L2cIGhlYWRpbmfvvIjpgJDlrZfnhafljp/mlofvvInjgIIiLA0KICAi5Y6f5paH5byC5bi477yI5qCH6aKY5Y2z6aaW5Liq6YOo6Zeo55qE5ZCN56ew77yJ77ya5YWo5paH5rKh5pyJ5oC755qE5paH5Lu25qCH6aKY77yM56ysIDEg6KGM44CM5Zu95pyJ6LWE5Lqn566h55CG5aSE44CN5pei5piv5paH5Lu25oqs5aS044CB5Lmf5piv56ys5LiA6IqC55qE5qCH6aKY77ybYGRvYy50aXRsZWAg55So55qE5piv57Si5byV6YeM55qE44CM5Zu95pyJ6LWE5Lqn566h55CG5aSE5Y+K5ZCE56eR5a6k5py65p6E6IGM6IO944CN44CCIiwNCiAgIuWOn+aWh+W8guW4uO+8iOmDqOmXqOWQjeW1jOWcqOWPpemmlu+8ie+8muesrCAzMSDooYzjgIzph4fotK3kuI7mi5vmoIfnrqHnkIblip7lhazlrqTmmK/lm73mnInotYTkuqfnrqHnkIblpITnmoTmjILpnaDpg6jpl6jvvIzotJ/otKPlrabmoKHnmoTph4fotK3kuI7mi5vmoIflt6XkvZzjgILkuLvopoHogYzotKPkuLrvvJrjgI3igJTigJTjgIzph4fotK3kuI7mi5vmoIfnrqHnkIblip7lhazlrqTjgI3ov5nkuKrpg6jpl6jlkI3msqHmnInni6znq4vmiJDooYzvvIzogIzmmK/ov5nkuIDmrrXnmoTlj6XpppbvvIzmlYXor6XoioLku47nrKwgMzEg6KGM6LW3566X77yb5a6D5LiL6Z2iIDEy4oCTMjkg6KGM55qEIDHigJMxMiDmnaHkuI4gMzPigJMzOCDooYznmoQgMeKAkzUg5p2h5YiG5Yir5piv6K+l5aSE5LiO5oyC6Z2g5Yqe5YWs5a6k55qE6IGM6LSj44CCIiwNCiAgIuWOn+aWh+W8guW4uO+8iOiBjOi0o+adoeWPt+avj+iKgumHjeaWsOi1t+eul++8ie+8muavj+S4quenkeWupOeahOOAjOenkeWupOiBjOi0o+OAjemDveS7jiAxLiDph43mlrDnvJblj7fvvIzkuJTpg6jliIbnp5HlrqTvvIjnu7zlkIjlip7lhazlrqTjgIHmiL/lsYvlnJ/lnLDnrqHnkIbnp5HvvInnlKjlhajop5LjgIwx77yO44CN44CB5YW25LuW56eR5a6k55So5Y2K6KeS44CMMS7jgI3vvIzljp/mloflpoLmraTvvIzmnKrnu5/kuIDjgIIiLA0KICAi5ZCE56eR5a6k5bC+6YOo5Zu65a6a55qE44CM5Yqe5YWs5Zyw5Z2A77yP56eR5a6k6LSf6LSj5Lq65Y+K6IGU57O755S16K+d44CN5Lik5qCP55WZ5Zyo5omA5bGe6IqC5YaF77yM5pyq5Y2V5YiX44CCIiwNCiAgIndkLTI0NmU2NGQyIOS4uuaWh+aho+e6p+adoeebru+8jOWFtuWUr+S4gOS4gOauteW8leaWh+S7juesrCAxIOihjOOAjOWbveaciei1hOS6p+euoeeQhuWkhOOAjei1t+OAgeaOpeesrCAyIOihjOiBjOi0o+aute+8jOiQveWcqOesrOS4gOiKgu+8iOWbveaciei1hOS6p+euoeeQhuWkhO+8ie+8jOaVheWPquWcqOivpeiKguWIl+S4gOasoeOAgiINCiBdDQp9DQo=
+{
+ "key": "246e64d2",
+ "title": "国有资产管理处及各科室机构职能",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "国有资产管理处",
+   "heading_kind": "author",
+   "lines": [
+    1,
+    30
+   ],
+   "items": [
+    "wd-246e64d2"
+   ],
+   "chars": 840
+  },
+  {
+   "no": "—",
+   "heading": "采购与招标管理办公室",
+   "heading_kind": "author",
+   "lines": [
+    31,
+    38
+   ],
+   "items": [],
+   "chars": 188
+  },
+  {
+   "no": "—",
+   "heading": "综合办公室",
+   "heading_kind": "author",
+   "lines": [
+    39,
+    55
+   ],
+   "items": [],
+   "chars": 351
+  },
+  {
+   "no": "—",
+   "heading": "房屋土地管理科（人民防空办公室）",
+   "heading_kind": "author",
+   "lines": [
+    56,
+    75
+   ],
+   "items": [],
+   "chars": 475
+  },
+  {
+   "no": "—",
+   "heading": "资产信息科",
+   "heading_kind": "author",
+   "lines": [
+    76,
+    90
+   ],
+   "items": [],
+   "chars": 319
+  },
+  {
+   "no": "—",
+   "heading": "无形资产管理科",
+   "heading_kind": "author",
+   "lines": [
+    91,
+    105
+   ],
+   "items": [],
+   "chars": 302
+  },
+  {
+   "no": "—",
+   "heading": "设备管理科",
+   "heading_kind": "author",
+   "lines": [
+    106,
+    120
+   ],
+   "items": [],
+   "chars": 287
+  },
+  {
+   "no": "—",
+   "heading": "采购与招标管理办公室-设备采购与招标科",
+   "heading_kind": "author",
+   "lines": [
+    121,
+    137
+   ],
+   "items": [],
+   "chars": 339
+  },
+  {
+   "no": "—",
+   "heading": "采购与招标管理办公室-工程采购与招标科",
+   "heading_kind": "author",
+   "lines": [
+    138,
+    152
+   ],
+   "items": [],
+   "chars": 290
+  }
+ ],
+ "items": [
+  "wd-246e64d2"
+ ],
+ "notes": [
+  "本件是机构职能汇编，结构为「处（含挂靠办公室）→ 各科室 → 科室职责 1–N 条 ＋ 办公地址 ＋ 科室负责人及联系电话」。除部门名、科室名外，全文没有任何编号（没有「第X章／第X条／一、」），故各节 `no` 一律用「—」，科室名作 heading（逐字照原文）。",
+  "原文异常（标题即首个部门的名称）：全文没有总的文件标题，第 1 行「国有资产管理处」既是文件抬头、也是第一节的标题；`doc.title` 用的是索引里的「国有资产管理处及各科室机构职能」。",
+  "原文异常（部门名嵌在句首）：第 31 行「采购与招标管理办公室是国有资产管理处的挂靠部门，负责学校的采购与招标工作。主要职责为：」——「采购与招标管理办公室」这个部门名没有独立成行，而是这一段的句首，故该节从第 31 行起算；它下面 12–29 行的 1–12 条与 33–38 行的 1–5 条分别是该处与挂靠办公室的职责。",
+  "原文异常（职责条号每节重新起算）：每个科室的「科室职责」都从 1. 重新编号，且部分科室（综合办公室、房屋土地管理科）用全角「1．」、其他科室用半角「1.」，原文如此，未统一。",
+  "各科室尾部固定的「办公地址／科室负责人及联系电话」两栏留在所属节内，未单列。",
+  "wd-246e64d2 为文档级条目，其唯一一段引文从第 1 行「国有资产管理处」起、接第 2 行职责段，落在第一节（国有资产管理处），故只在该节列一次。"
+ ]
+}

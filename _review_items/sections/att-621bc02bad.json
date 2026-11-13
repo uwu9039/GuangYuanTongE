@@ -1,1 +1,143 @@
-ewogICJrZXkiOiAiYXR0LTYyMWJjMDJiYWQiLAogICJ0aXRsZSI6ICLkuK3lm73kvKDlqpLlpKflrabooYzmlL/nrqHnkIbvvIjlqpLku4vkuI7lhazlhbHmsrvnkIbmlrnlkJHvvInkuJPkuJoyMDI25bm06L6F5L+u5oub55Sf566A56ugIiwKICAidHJ1bmNhdGVkIjogZmFsc2UsCiAgInNlY3Rpb25zIjogWwogICAgewogICAgICAibm8iOiAi4oCUIiwKICAgICAgImhlYWRpbmciOiAi5bCB6Z2i5LiO5LiT5Lia5LuL57uNIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgICAgImxpbmVzIjogWzEsIDE1XSwKICAgICAgIml0ZW1zIjogWyJwdC02NjAwNDJhZWI4IiwgInB0LWNiY2Y1MzkwYTciLCAicHQtYWJlMWJmNmQ2MyJdLAogICAgICAiY2hhcnMiOiAzMTYKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLkuozjgIEiLAogICAgICAiaGVhZGluZyI6ICLln7nlhbvnm67moIciLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFsxNywgMjVdLAogICAgICAiaXRlbXMiOiBbInB0LWQ0ZWY4ODlkMGUiXSwKICAgICAgImNoYXJzIjogMjMyCiAgICB9LAogICAgewogICAgICAibm8iOiAi5LiJ44CBIiwKICAgICAgImhlYWRpbmciOiAi5oub55Sf5a+56LGhIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbMjcsIDM1XSwKICAgICAgIml0ZW1zIjogWyJwdC02OTMyYTljNDQ5IiwgInB0LWY5MmQ5YTg4YjYiLCAicHQtMmU1NjFjZmNjNSJdLAogICAgICAiY2hhcnMiOiAxMjQKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLlm5vjgIEiLAogICAgICAiaGVhZGluZyI6ICLmjojor77mlrnlvI8iLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFszNywgNDBdLAogICAgICAiaXRlbXMiOiBbInB0LTVmMzMxMzA2MWQiXSwKICAgICAgImNoYXJzIjogNTgKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLkupTjgIEiLAogICAgICAiaGVhZGluZyI6ICLlrabliIborqTlrpoiLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFs0MiwgNDVdLAogICAgICAiaXRlbXMiOiBbInB0LTYyNmZhZTMyMTIiXSwKICAgICAgImNoYXJzIjogNTAKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLlha3jgIEiLAogICAgICAiaGVhZGluZyI6ICLmjojkuojor4HkuabmnaHku7YiLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFs0NywgNjRdLAogICAgICAiaXRlbXMiOiBbInB0LTQ4NTJiZmM1NDMiLCAicHQtNmQzMjllMjcyNiJdLAogICAgICAiY2hhcnMiOiAzNTUKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLkuIPjgIEiLAogICAgICAiaGVhZGluZyI6ICLkv67or7vmnJ/pmZAiLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFs2NiwgNjddLAogICAgICAiaXRlbXMiOiBbInB0LWJmMjlmZTVlMzYiXSwKICAgICAgImNoYXJzIjogMzYKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLlhavjgIEiLAogICAgICAiaGVhZGluZyI6ICLor4HkuabnlLPor7ciLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFs2OCwgNzFdLAogICAgICAiaXRlbXMiOiBbInB0LWE5NjQ5ZThjMjEiXSwKICAgICAgImNoYXJzIjogNTMKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLkuZ3jgIEiLAogICAgICAiaGVhZGluZyI6ICLmi5vnlJ/ml7bpl7TlronmjpLlj4rmiqXlkI3mlrnlvI8iLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFs3MywgODZdLAogICAgICAiaXRlbXMiOiBbCiAgICAgICAgInB0LTVjMjI5YmUyMGYiLAogICAgICAgICJwdC03ZmRmNzc5NGQ3IiwKICAgICAgICAicHQtM2FjMDBkOTI1ZCIsCiAgICAgICAgInB0LTRjMDRkOTZjNjEiLAogICAgICAgICJwdC1jYjhkNDAzMDIwIiwKICAgICAgICAicHQtZmQ2OWYyNjQ3NCIKICAgICAgXSwKICAgICAgImNoYXJzIjogMjQ5CiAgICB9LAogICAgewogICAgICAibm8iOiAi5Y2B44CBIiwKICAgICAgImhlYWRpbmciOiAi5ZKo6K+i6IGU57O75pa55byPIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbODgsIDkwXSwKICAgICAgIml0ZW1zIjogWyJwdC1lMTQwN2Q2YTU4Il0sCiAgICAgICJjaGFycyI6IDYxCiAgICB9LAogICAgewogICAgICAibm8iOiAi5Y2B5LiA44CBIiwKICAgICAgImhlYWRpbmciOiAi6L6F5L+u5a2m6LS5IiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbOTIsIDkzXSwKICAgICAgIml0ZW1zIjogWyJwdC1lY2I4MzIyYTEzIl0sCiAgICAgICJjaGFycyI6IDQyCiAgICB9LAogICAgewogICAgICAibm8iOiAi5Y2B5LqM44CBIiwKICAgICAgImhlYWRpbmciOiAi6K++56iL6K6+572u5Y+K5a2m5YiGIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbOTUsIDE4MF0sCiAgICAgICJpdGVtcyI6IFsicHQtNzI4NGM1MGZiZSIsICJwdC1jNmYwZDMyYWZmIiwgInB0LTgxYzQxMGU5YTYiXSwKICAgICAgImNoYXJzIjogMTA0MQogICAgfQogIF0sCiAgIml0ZW1zIjogWwogICAgInB0LTY2MDA0MmFlYjgiLAogICAgInB0LWNiY2Y1MzkwYTciLAogICAgInB0LWFiZTFiZjZkNjMiLAogICAgInB0LWQ0ZWY4ODlkMGUiLAogICAgInB0LTY5MzJhOWM0NDkiLAogICAgInB0LWY5MmQ5YTg4YjYiLAogICAgInB0LTJlNTYxY2ZjYzUiLAogICAgInB0LTVmMzMxMzA2MWQiLAogICAgInB0LTYyNmZhZTMyMTIiLAogICAgInB0LTQ4NTJiZmM1NDMiLAogICAgInB0LTZkMzI5ZTI3MjYiLAogICAgInB0LWJmMjlmZTVlMzYiLAogICAgInB0LWE5NjQ5ZThjMjEiLAogICAgInB0LTVjMjI5YmUyMGYiLAogICAgInB0LTdmZGY3Nzk0ZDciLAogICAgInB0LTNhYzAwZDkyNWQiLAogICAgInB0LTRjMDRkOTZjNjEiLAogICAgInB0LWNiOGQ0MDMwMjAiLAogICAgInB0LWZkNjlmMjY0NzQiLAogICAgInB0LWUxNDA3ZDZhNTgiLAogICAgInB0LWVjYjgzMjJhMTMiLAogICAgInB0LTcyODRjNTBmYmUiLAogICAgInB0LWM2ZjBkMzJhZmYiLAogICAgInB0LTgxYzQxMGU5YTYiCiAgXSwKICAibm90ZXMiOiBbCiAgICAi5bCB6Z2i5LiJ6KGM77yI5qCh5ZCNL+S4k+S4muWQjS8yMDI25bm06L6F5L+u5oub55Sf566A56ug77yJ5LiO44CM5LiA44CB5LiT5Lia5LuL57uN44CN5ZCI5bm25Li65LiA6IqC77yacHQtY2JjZjUzOTBhNyDnmoTlvJXmlofotbfngrnlnKjlsIHpnaLmnKvooYzlubbov57nu63ot6jliLDnrKw36KGM5q2j5paH77yM5Y2V54us56uL6IqC5peg5rOV6JC95Zyw77yM5pWF5pys6IqCIGhlYWRpbmcg5qCHIGRlcml2ZWTjgIIiLAogICAgIuOAjOS4gOOAgeS4k+S4muS7i+e7jeOAjeS4uuWOn+aWh+Wwj+agh+mimO+8jOW3suiiq+W5tuWFpeS4iui/sOiKgu+8jOacquWNleWIl++8m+WFtuS9meWQhOiKgiBoZWFkaW5nIOWdh+S4uuWOn+aWh+Wwj+agh+mimOmAkOWtl++8iGF1dGhvcu+8ieOAgiIsCiAgICAi5LiJ44CB6IqC5YaF44CM5LiT5Lia77ya44CN54us5Y2g56ysMzHooYzvvIznrKwzMi0zNeihjOS4uuS4jeWPr+eUs+ivt+S4k+S4muihqO+8iOWOn+aWh+S4uuihqOagvO+8ie+8jOmaj+acrOiKguS/neeVmeOAgiIsCiAgICAi5Y2B5LqM44CB6IqC5YaF6K++56iL6K6+572u6KGo5Li6IFBERiDmir3lh7rnmoTlpJrmoI/plJnooYzooajvvIjliJfplJnkvY3jgIHor77nqIvlkI3kuI7lrabliIbliIbmiJDlpJrooYzvvInvvIzmjInmlbTooajkuIDoioLlpITnkIbvvJvnrKwxNzktMTgw6KGM6JC95qy+77yI5Lit5Zu95Lyg5aqS5aSn5a2m5pS/5bqc5LiO5YWs5YWx5LqL5Yqh5a2m6Zmi77yPMjAyNuW5tDTmnIjvvInlubblhaXmnKzoioLljLrpl7TvvIzlm6AgcHQtODFjNDEwZTlhNiDnmoTlvJXmlofku47ooajlsL7jgIzlkI7nu63lrabliIbkv67or7vlkIzml7blj6/nlLPor7flvIDpopjjgI3kuIDnm7Tlu7bnu63liLDokL3mrL7ooYzvvIzljZXni6znq4voioLkvJrkuI7lhbblvJXmlofljLrpl7TlhrLnqoHjgIIiLAogICAgIuWFqOaWh+acquWPkeeOsOaIquaWre+8jOacq+ihjOS4uuiQveasvuaXpeacn+OAgiIKICBdCn0K
+{
+  "key": "att-621bc02bad",
+  "title": "中国传媒大学行政管理（媒介与公共治理方向）专业2026年辅修招生简章",
+  "truncated": false,
+  "sections": [
+    {
+      "no": "—",
+      "heading": "封面与专业介绍",
+      "heading_kind": "derived",
+      "lines": [1, 15],
+      "items": ["pt-660042aeb8", "pt-cbcf5390a7", "pt-abe1bf6d63"],
+      "chars": 316
+    },
+    {
+      "no": "二、",
+      "heading": "培养目标",
+      "heading_kind": "author",
+      "lines": [17, 25],
+      "items": ["pt-d4ef889d0e"],
+      "chars": 232
+    },
+    {
+      "no": "三、",
+      "heading": "招生对象",
+      "heading_kind": "author",
+      "lines": [27, 35],
+      "items": ["pt-6932a9c449", "pt-f92d9a88b6", "pt-2e561cfcc5"],
+      "chars": 124
+    },
+    {
+      "no": "四、",
+      "heading": "授课方式",
+      "heading_kind": "author",
+      "lines": [37, 40],
+      "items": ["pt-5f3313061d"],
+      "chars": 58
+    },
+    {
+      "no": "五、",
+      "heading": "学分认定",
+      "heading_kind": "author",
+      "lines": [42, 45],
+      "items": ["pt-626fae3212"],
+      "chars": 50
+    },
+    {
+      "no": "六、",
+      "heading": "授予证书条件",
+      "heading_kind": "author",
+      "lines": [47, 64],
+      "items": ["pt-4852bfc543", "pt-6d329e2726"],
+      "chars": 355
+    },
+    {
+      "no": "七、",
+      "heading": "修读期限",
+      "heading_kind": "author",
+      "lines": [66, 67],
+      "items": ["pt-bf29fe5e36"],
+      "chars": 36
+    },
+    {
+      "no": "八、",
+      "heading": "证书申请",
+      "heading_kind": "author",
+      "lines": [68, 71],
+      "items": ["pt-a9649e8c21"],
+      "chars": 53
+    },
+    {
+      "no": "九、",
+      "heading": "招生时间安排及报名方式",
+      "heading_kind": "author",
+      "lines": [73, 86],
+      "items": [
+        "pt-5c229be20f",
+        "pt-7fdf7794d7",
+        "pt-3ac00d925d",
+        "pt-4c04d96c61",
+        "pt-cb8d403020",
+        "pt-fd69f26474"
+      ],
+      "chars": 249
+    },
+    {
+      "no": "十、",
+      "heading": "咨询联系方式",
+      "heading_kind": "author",
+      "lines": [88, 90],
+      "items": ["pt-e1407d6a58"],
+      "chars": 61
+    },
+    {
+      "no": "十一、",
+      "heading": "辅修学费",
+      "heading_kind": "author",
+      "lines": [92, 93],
+      "items": ["pt-ecb8322a13"],
+      "chars": 42
+    },
+    {
+      "no": "十二、",
+      "heading": "课程设置及学分",
+      "heading_kind": "author",
+      "lines": [95, 180],
+      "items": ["pt-7284c50fbe", "pt-c6f0d32aff", "pt-81c410e9a6"],
+      "chars": 1041
+    }
+  ],
+  "items": [
+    "pt-660042aeb8",
+    "pt-cbcf5390a7",
+    "pt-abe1bf6d63",
+    "pt-d4ef889d0e",
+    "pt-6932a9c449",
+    "pt-f92d9a88b6",
+    "pt-2e561cfcc5",
+    "pt-5f3313061d",
+    "pt-626fae3212",
+    "pt-4852bfc543",
+    "pt-6d329e2726",
+    "pt-bf29fe5e36",
+    "pt-a9649e8c21",
+    "pt-5c229be20f",
+    "pt-7fdf7794d7",
+    "pt-3ac00d925d",
+    "pt-4c04d96c61",
+    "pt-cb8d403020",
+    "pt-fd69f26474",
+    "pt-e1407d6a58",
+    "pt-ecb8322a13",
+    "pt-7284c50fbe",
+    "pt-c6f0d32aff",
+    "pt-81c410e9a6"
+  ],
+  "notes": [
+    "封面三行（校名/专业名/2026年辅修招生简章）与「一、专业介绍」合并为一节：pt-cbcf5390a7 的引文起点在封面末行并连续跨到第7行正文，单独立节无法落地，故本节 heading 标 derived。",
+    "「一、专业介绍」为原文小标题，已被并入上述节，未单列；其余各节 heading 均为原文小标题逐字（author）。",
+    "三、节内「专业：」独占第31行，第32-35行为不可申请专业表（原文为表格），随本节保留。",
+    "十二、节内课程设置表为 PDF 抽出的多栏错行表（列错位、课程名与学分分成多行），按整表一节处理；第179-180行落款（中国传媒大学政府与公共事务学院／2026年4月）并入本节区间，因 pt-81c410e9a6 的引文从表尾「后续学分修读同时可申请开题」一直延续到落款行，单独立节会与其引文区间冲突。",
+    "全文未发现截断，末行为落款日期。"
+  ]
+}

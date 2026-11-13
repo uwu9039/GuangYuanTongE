@@ -1,1 +1,227 @@
-IiIi55So5peg5aS0IEVkZ2Ug57uZ5YmN56uv5pS55Yqo5ouN5Zu+77yI5o6i6ZKI6aG1ICsg5oiq5Zu+ICsg6KOB5YiHICsg5Z+657q/5rWL6YeP77yJ77yM5Y+q55So5LqO5pys5Zyw6aqM6K+B44CCCgrmgJ3ot6/vvJpgd2ViLW5leHQvYCDmmK/lj6ror7vnmoTvvIzmiYDku6XmioogZmllbGQuaHRtbCDlpI3liLbliLAgLnRtcO+8jOmdmeaAgei1hOa6kOaMh+WbnuWOn+ebruW9le+8mwrlho3mioogL2FwaS9hc2sg55qEKirnnJ/lrp7lk43lupQqKumihOWFiOWPluWlveWGheiBlOi/m+mhtemdou+8iOabv+aNoiBmZXRjaO+8ie+8jArov5nmoLfmuLLmn5PmmK/lkIzmraXnmoTvvIzml6DlpLTmtY/op4jlmajkuI3nlKjnrYnnnJ/nvZHnu5zvvIzmiKrlm77lsLHkuIDlrprog73mi43liLDljaHniYfjgIIKCiAgICBweXRob24gdG9vbHMvcHJvYmVfdWkucHkKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBqc29uCmltcG9ydCBvcwppbXBvcnQgc2h1dGlsCmltcG9ydCBzdWJwcm9jZXNzCmltcG9ydCBzeXMKaW1wb3J0IHVybGxpYi5wYXJzZQppbXBvcnQgdXJsbGliLnJlcXVlc3QKZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCgpST09UID0gUGF0aChfX2ZpbGVfXykucmVzb2x2ZSgpLnBhcmVudHNbMV0KT1VUID0gUk9PVCAvICIudG1wIiAvICJwcm9iZSIKIyDmtY/op4jlmajvvJrnjq/looPlj5jph48gQlJPV1NFUiDkvJjlhYjvvIzlhbbmrKEgUEFUSCDph4znmoTvvIzlho3pgIDliLDlkITlubPlj7DnmoTluLjop4Tlronoo4XkvY3nva4KIyDvvIjpg73nlKjnjq/looPlj5jph4/mi7zvvIzkuI3lhpnmrbvmnKzmnLrnu53lr7not6/lvoTvvIkKZGVmIF9icm93c2VyX2NhbmRpZGF0ZXMoKSAtPiBsaXN0W1BhdGhdOgogICAgb3V0OiBsaXN0W1BhdGhdID0gW10KICAgIGZvciBuYW1lIGluICgibXNlZGdlIiwgImNocm9tZSIsICJjaHJvbWl1bSIsICJjaHJvbWl1bS1icm93c2VyIiwgImdvb2dsZS1jaHJvbWUiKToKICAgICAgICBoaXQgPSBzaHV0aWwud2hpY2gobmFtZSkKICAgICAgICBpZiBoaXQ6CiAgICAgICAgICAgIG91dC5hcHBlbmQoUGF0aChoaXQpKQogICAgcm9vdHMgPSBbb3MuZW52aXJvbi5nZXQoIlByb2dyYW1GaWxlcyIpLCBvcy5lbnZpcm9uLmdldCgiUHJvZ3JhbUZpbGVzKHg4NikiKSwKICAgICAgICAgICAgIG9zLmVudmlyb24uZ2V0KCJMT0NBTEFQUERBVEEiKV0KICAgIHJlbHMgPSAociJNaWNyb3NvZnRcRWRnZVxBcHBsaWNhdGlvblxtc2VkZ2UuZXhlIiwKICAgICAgICAgICAgciJHb29nbGVcQ2hyb21lXEFwcGxpY2F0aW9uXGNocm9tZS5leGUiKQogICAgZm9yIHJvb3QgaW4gcm9vdHM6CiAgICAgICAgaWYgbm90IHJvb3Q6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgZm9yIHJlbCBpbiByZWxzOgogICAgICAgICAgICBvdXQuYXBwZW5kKFBhdGgocm9vdCkgLyByZWwpCiAgICBvdXQuYXBwZW5kKFBhdGgoIi9BcHBsaWNhdGlvbnMvR29vZ2xlIENocm9tZS5hcHAvQ29udGVudHMvTWFjT1MvR29vZ2xlIENocm9tZSIpKQogICAgcmV0dXJuIG91dAoKCmRlZiBfZmluZF9icm93c2VyKCkgLT4gUGF0aDoKICAgIGVudiA9IG9zLmVudmlyb24uZ2V0KCJCUk9XU0VSIikgb3IgIiIKICAgIGlmIGVudjoKICAgICAgICByZXR1cm4gUGF0aChlbnYpCiAgICBmb3IgcCBpbiBfYnJvd3Nlcl9jYW5kaWRhdGVzKCk6CiAgICAgICAgaWYgcC5leGlzdHMoKToKICAgICAgICAgICAgcmV0dXJuIHAKICAgIHJldHVybiBQYXRoKCJtc2VkZ2UiKQoKCkVER0UgPSBfZmluZF9icm93c2VyKCkKQkFTRSA9ICJodHRwOi8vMTI3LjAuMC4xOjc4NjAiCgpDQVNFUyA9IHsKICAgICJzeW50aCI6ICgi6K6w6L+H5aSE5YiG5Yiw5pyf5LqG77yM6IO96K+E5aWW5a2m6YeR5ZCX77yf6IO95L+d56CU5ZCX77yfIiwgVHJ1ZSksCiAgICAic3RhbGUiOiAoIuWFrOi0ueWMu+eWl+aAjuS5iOaKpemUgCIsIEZhbHNlKSwKICAgICJwbGFuIjogKCLovazkuJPkuJrliLDkv6Hmga/kuI7pgJrkv6Hlt6XnqIvlrabpmaIiLCBGYWxzZSksCiAgICAibGliIjogKCLlm77kuabppobog73nu63lgJ/lkJciLCBGYWxzZSksCn0KCgpkZWYgYXNrKHRleHQ6IHN0ciwgc3ludGg6IGJvb2wpIC0+IGRpY3Q6CiAgICByZXEgPSB1cmxsaWIucmVxdWVzdC5SZXF1ZXN0KAogICAgICAgIEJBU0UgKyAiL2FwaS9hc2siLAogICAgICAgIGRhdGE9anNvbi5kdW1wcyh7InRleHQiOiB0ZXh0LCAicm91dGVyX2xsbSI6IEZhbHNlLCAic3ludGgiOiBzeW50aH0pLmVuY29kZSgpLAogICAgICAgIGhlYWRlcnM9eyJDb250ZW50LVR5cGUiOiAiYXBwbGljYXRpb24vanNvbiJ9LCBtZXRob2Q9IlBPU1QiKQogICAgd2l0aCB1cmxsaWIucmVxdWVzdC51cmxvcGVuKHJlcSwgdGltZW91dD0yNDApIGFzIHI6CiAgICAgICAgcmV0dXJuIGpzb24ubG9hZHMoci5yZWFkKCkuZGVjb2RlKCJ1dGYtOCIpKQoKCkZFVENIX1BBVENIID0gIiIiCjxzY3JpcHQ+Ci8qIOaOoumSiOmhteS7jiBmaWxlOi8vIOaJk+W8gO+8jC9hcGkvYXNrIOeahOWTjeW6lOWcqOi/memHjOWGheiBlOi/lOWbnu+8iOecn+WunuWTjeW6lO+8jOS6i+WFiOWPluWlve+8ieOAgiAqLwooZnVuY3Rpb24gKCkgewogIGNvbnN0IEZBS0UgPSB3aW5kb3cuX19GQUtFX18gfHwge307CiAgY29uc3Qgb3JpZyA9IHdpbmRvdy5mZXRjaDsKICB3aW5kb3cuZmV0Y2ggPSBmdW5jdGlvbiAodSwgbykgewogICAgY29uc3QgdXJsID0gdHlwZW9mIHUgPT09ICJzdHJpbmciID8gdSA6ICh1ICYmIHUudXJsKSB8fCAiIjsKICAgIGlmICh1cmwuaW5kZXhPZigiL2FwaS9hc2siKSA+PSAwKSB7CiAgICAgIGNvbnN0IGJvZHkgPSBKU09OLnN0cmluZ2lmeShGQUtFW25ldyBVUkxTZWFyY2hQYXJhbXMobG9jYXRpb24uc2VhcmNoKS5nZXQoImNhc2UiKV0gfHwge30pOwogICAgICByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKG5ldyBSZXNwb25zZShib2R5LCB7IHN0YXR1czogMjAwLCBzdGF0dXNUZXh0OiAiT0siLAogICAgICAgIGhlYWRlcnM6IHsgIkNvbnRlbnQtVHlwZSI6ICJhcHBsaWNhdGlvbi9qc29uIiB9IH0pKTsKICAgIH0KICAgIGlmICh1cmwuc3RhcnRzV2l0aCgiLyIpKSB1ID0gImh0dHA6Ly8xMjcuMC4wLjE6Nzg2MCIgKyB1OwogICAgcmV0dXJuIG9yaWcuY2FsbCh0aGlzLCB1LCBvKTsKICB9Owp9KSgpOwo8L3NjcmlwdD4KIiIiCgpEUklWRVIgPSAiIiIKPHNjcmlwdD4KKGZ1bmN0aW9uICgpIHsKICBjb25zdCBQID0gbmV3IFVSTFNlYXJjaFBhcmFtcyhsb2NhdGlvbi5zZWFyY2gpOwogIGNvbnN0IG1vZGUgPSBQLmdldCgiYWxpZ24iKTsKICBjb25zdCBxID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoInEiKTsKICBjb25zdCB3cmFwID0gZG9jdW1lbnQucXVlcnlTZWxlY3RvcigiLnF3cmFwIC50eXBlci10ZXh0Iik7CiAgY29uc3Qgc2hvd1R5cGVyID0gKCkgPT4geyBjb25zdCB0ID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoInR5cGVyIik7IGlmICh0KSB0LnN0eWxlLm9wYWNpdHkgPSAiMSI7IH07CiAgY29uc3QgaGlkZVR5cGVyID0gKCkgPT4geyBjb25zdCB0ID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoInR5cGVyIik7IGlmICh0KSB0LnN0eWxlLmRpc3BsYXkgPSAibm9uZSI7IH07CiAgLy8g5o6i6ZKI6aG16Ieq5bex5oql6ZSZ77ya5oqK5byC5bi45YaZ5Zyo6aG16Z2i6aG25LiK77yM5oiq5Zu+5bCx6IO955yL6KeB77yI5Lqn5ZOB6aG15LiN5Yqg6L+Z5Liq77yJCiAgY29uc3QgcmVwb3J0ID0gKG1zZykgPT4gewogICAgY29uc3QgZCA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoInByZSIpOwogICAgZC5zdHlsZS5jc3NUZXh0ID0gInBvc2l0aW9uOmZpeGVkO2xlZnQ6MDt0b3A6MDtyaWdodDowO3otaW5kZXg6OTk5OTttYXJnaW46MDtwYWRkaW5nOjhweDsiCiAgICAgICsgImJhY2tncm91bmQ6I2ZlZTtjb2xvcjojOTAwO2ZvbnQ6MTJweC8xLjQgbW9ub3NwYWNlO3doaXRlLXNwYWNlOnByZS13cmFwIjsKICAgIGQudGV4dENvbnRlbnQgPSAiUFJPQkUtRVJSICIgKyBtc2c7CiAgICBkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKGQpOwogIH07CiAgd2luZG93LmFkZEV2ZW50TGlzdGVuZXIoImVycm9yIiwgKGUpID0+IHJlcG9ydCgoZS5tZXNzYWdlIHx8ICIiKSArICIgQCIgKyAoZS5maWxlbmFtZSB8fCAiIikuc3BsaXQoIi8iKS5wb3AoKSArICI6IiArIGUubGluZW5vKSk7CiAgd2luZG93LmFkZEV2ZW50TGlzdGVuZXIoInVuaGFuZGxlZHJlamVjdGlvbiIsIChlKSA9PiByZXBvcnQoInJlamVjdDogIiArIChlLnJlYXNvbiAmJiAoZS5yZWFzb24uc3RhY2sgfHwgZS5yZWFzb24ubWVzc2FnZSB8fCBlLnJlYXNvbikpKSk7CiAgY29uc3Qgc3RhcnQgPSAoKSA9PiB7CiAgICB0cnkgewogICAgICBkb2N1bWVudC5ib2R5LnNldEF0dHJpYnV0ZSgiZGF0YS1tb2RlIiwgIndvcmsiKTsKICAgICAgaWYgKG1vZGUpIHsKICAgICAgICBkb2N1bWVudC5ib2R5LnNldEF0dHJpYnV0ZSgiZGF0YS1wcm9iZSIsICJhbGlnbiIpOwogICAgICAgIGlmIChtb2RlID09PSAiQSIpIHsgcS52YWx1ZSA9ICLmoKHlm63lip7kuovmjIfljZciOyBoaWRlVHlwZXIoKTsgfQogICAgICAgIGVsc2UgaWYgKG1vZGUgPT09ICJCIikgeyBpZiAod3JhcCkgd3JhcC50ZXh0Q29udGVudCA9ICLmoKHlm63lip7kuovmjIfljZciOyBzaG93VHlwZXIoKTsgfQogICAgICAgIGVsc2UgeyBxLnZhbHVlID0gIuagoeWbreWKnuS6i+aMh+WNlyI7IGlmICh3cmFwKSB3cmFwLnRleHRDb250ZW50ID0gIuagoeWbreWKnuS6i+aMh+WNlyI7IHNob3dUeXBlcigpOyB9CiAgICAgICAgcmV0dXJuOwogICAgICB9CiAgICAgIGNvbnN0IHRleHQgPSBQLmdldCgicSIpOwogICAgICBpZiAoIXRleHQpIHJldHVybjsKICAgICAgY29uc3Qgc3cgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgic3ludGhzdyIpOwogICAgICBpZiAoc3cpIHN3LmNoZWNrZWQgPSBQLmdldCgic3ludGgiKSAhPT0gIjAiOwogICAgICBxLnZhbHVlID0gdGV4dDsKICAgICAgcS5kaXNwYXRjaEV2ZW50KG5ldyBFdmVudCgiaW5wdXQiLCB7IGJ1YmJsZXM6IHRydWUgfSkpOwogICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgiY29tcG9zZXIiKQogICAgICAgIC5kaXNwYXRjaEV2ZW50KG5ldyBFdmVudCgic3VibWl0IiwgeyBidWJibGVzOiB0cnVlLCBjYW5jZWxhYmxlOiB0cnVlIH0pKTsKICAgICAgZG9jdW1lbnQuYm9keS5zZXRBdHRyaWJ1dGUoImRhdGEtcHJvYmUiLCAiYXNrIik7CiAgICB9IGNhdGNoIChlKSB7IHJlcG9ydCgic3RhcnQ6ICIgKyAoZSAmJiBlLnN0YWNrIHx8IGUpKTsgfQogIH07CiAgaWYgKGRvY3VtZW50LnJlYWR5U3RhdGUgPT09ICJjb21wbGV0ZSIpIHNldFRpbWVvdXQoc3RhcnQsIDQwMCk7CiAgZWxzZSB3aW5kb3cuYWRkRXZlbnRMaXN0ZW5lcigibG9hZCIsICgpID0+IHNldFRpbWVvdXQoc3RhcnQsIDQwMCkpOwp9KSgpOwo8L3NjcmlwdD4KIiIiCgpBTElHTl9DU1MgPSAiIiIKPHN0eWxlPgogIGJvZHlbZGF0YS1wcm9iZT0iYWxpZ24iXSAuaGVybywKICBib2R5W2RhdGEtcHJvYmU9ImFsaWduIl0gLmZpZWxkLWxheWVyLAogIGJvZHlbZGF0YS1wcm9iZT0iYWxpZ24iXSAucGFnZS1mb290ZXIsCiAgYm9keVtkYXRhLXByb2JlPSJhbGlnbiJdIC5wcmVzZXRzIHsgZGlzcGxheTogbm9uZSAhaW1wb3J0YW50OyB9Cjwvc3R5bGU+CiIiIgoKCmRlZiBidWlsZF9wcm9iZShwYXlsb2FkczogZGljdFtzdHIsIGRpY3RdKSAtPiBQYXRoOgogICAgaHRtbCA9IChST09UIC8gIndlYi1uZXh0IiAvICJmaWVsZC5odG1sIikucmVhZF90ZXh0KGVuY29kaW5nPSJ1dGYtOCIpCiAgICBmb3IgbmFtZSBpbiAoImZpZWxkLmNzcyIsICJmaWVsZC5qcyIsICJ2ZW5kb3IvbGVhZmxldC9sZWFmbGV0LmNzcyIsICJ2ZW5kb3IvbGVhZmxldC9sZWFmbGV0LmpzIiwKICAgICAgICAgICAgICAgICAiYXNzZXRzLyIpOgogICAgICAgIGh0bWwgPSBodG1sLnJlcGxhY2UoZicie25hbWV9JywgZiciLi4vLi4vd2ViLW5leHQve25hbWV9JykKICAgIGRhdGEgPSAiPHNjcmlwdD53aW5kb3cuX19GQUtFX18gPSAiICsganNvbi5kdW1wcyhwYXlsb2FkcywgZW5zdXJlX2FzY2lpPUZhbHNlKSArICI7PC9zY3JpcHQ+IgogICAgaHRtbCA9IGh0bWwucmVwbGFjZSgiPC9oZWFkPiIsIEFMSUdOX0NTUyArIGRhdGEgKyAiPC9oZWFkPiIpCiAgICBodG1sID0gaHRtbC5yZXBsYWNlKCc8c2NyaXB0IHNyYz0iLi4vLi4vd2ViLW5leHQvZmllbGQuanMiIGRlZmVyPjwvc2NyaXB0PicsCiAgICAgICAgICAgICAgICAgICAgICAgIEZFVENIX1BBVENIICsgJzxzY3JpcHQgc3JjPSIuLi8uLi93ZWItbmV4dC9maWVsZC5qcyIgZGVmZXI+PC9zY3JpcHQ+JykKICAgIGh0bWwgPSBodG1sLnJlcGxhY2UoIjwvYm9keT4iLCBEUklWRVIgKyAiPC9ib2R5PiIpCiAgICBkZXN0ID0gT1VUIC8gIl9wcm9iZS5odG1sIgogICAgZGVzdC5wYXJlbnQubWtkaXIocGFyZW50cz1UcnVlLCBleGlzdF9vaz1UcnVlKQogICAgZGVzdC53cml0ZV90ZXh0KGh0bWwsIGVuY29kaW5nPSJ1dGYtOCIpCiAgICByZXR1cm4gZGVzdAoKCmRlZiBzaG90KG5hbWU6IHN0ciwgcXVlcnk6IHN0ciwgKiwgd2lkdGg6IGludCwgaGVpZ2h0OiBpbnQsIGJ1ZGdldDogaW50ID0gODAwMCkgLT4gUGF0aDoKICAgIHVybCA9IChPVVQgLyAiX3Byb2JlLmh0bWwiKS5hc191cmkoKSArIGYiP3txdWVyeX0iCiAgICBwbmcgPSBPVVQgLyBmIntuYW1lfS5wbmciCiAgICBjbWQgPSBbc3RyKEVER0UpLCAiLS1oZWFkbGVzcz1uZXciLCAiLS1kaXNhYmxlLWdwdSIsICItLWhpZGUtc2Nyb2xsYmFycyIsCiAgICAgICAgICAgIi0tZm9yY2UtcHJlZmVycy1yZWR1Y2VkLW1vdGlvbiIsICItLWRpc2FibGUtd2ViLXNlY3VyaXR5IiwKICAgICAgICAgICAiLS1hbGxvdy1maWxlLWFjY2Vzcy1mcm9tLWZpbGVzIiwgZiItLXVzZXItZGF0YS1kaXI9e09VVCAvICgncHJvZmlsZV8nICsgbmFtZSl9IiwKICAgICAgICAgICBmIi0td2luZG93LXNpemU9e3dpZHRofSx7aGVpZ2h0fSIsCiAgICAgICAgICAgZiItLXZpcnR1YWwtdGltZS1idWRnZXQ9e2J1ZGdldH0iLCBmIi0tc2NyZWVuc2hvdD17cG5nfSIsIHVybF0KICAgIHN1YnByb2Nlc3MucnVuKGNtZCwgdGltZW91dD0yNDAsIGNhcHR1cmVfb3V0cHV0PVRydWUpCiAgICBwcmludCgiICDihpIiLCBwbmcubmFtZSwgcG5nLmV4aXN0cygpIGFuZCBmIntwbmcuc3RhdCgpLnN0X3NpemUvLzEwMjR9IEtCIiBvciAiRkFJTEVEIikKICAgIHJldHVybiBwbmcKCgpkZWYgaW5rX3Jvd3MocG5nOiBQYXRoLCBib3g6IHR1cGxlW2ludCwgaW50LCBpbnQsIGludF0pIC0+IHR1cGxlW2ludCwgaW50XToKICAgICIiIuWcqOe7meWumuWMuuWfn+mHjOaJvuOAjOacieWiqOOAjeeahOihjOiMg+WbtO+8iOWIpOWumuWfuue6v+eUqO+8ieOAgiIiIgogICAgZnJvbSBQSUwgaW1wb3J0IEltYWdlCiAgICBpbSA9IEltYWdlLm9wZW4ocG5nKS5jb252ZXJ0KCJMIikuY3JvcChib3gpCiAgICB3LCBoID0gaW0uc2l6ZQogICAgcHggPSBpbS5sb2FkKCkKICAgIHJvd3MgPSBbXQogICAgZm9yIHkgaW4gcmFuZ2UoaCk6CiAgICAgICAgZGFyayA9IHN1bSgxIGZvciB4IGluIHJhbmdlKHcpIGlmIHB4W3gsIHldIDwgMTcwKQogICAgICAgIGlmIGRhcmsgPj0gMjoKICAgICAgICAgICAgcm93cy5hcHBlbmQoeSkKICAgIHJldHVybiAocm93c1swXSArIGJveFsxXSwgcm93c1stMV0gKyBib3hbMV0pIGlmIHJvd3MgZWxzZSAoLTEsIC0xKQoKCmRlZiBtYWluKCkgLT4gTm9uZToKICAgIGlmIG5vdCBFREdFLmV4aXN0cygpOgogICAgICAgIHJhaXNlIFN5c3RlbUV4aXQoZiLmsqHmib7liLAgRWRnZe+8mntFREdFfe+8iOaNouaIkOacrOacuuS7u+S4gCBDaHJvbWl1bSDlhoXmoLjmtY/op4jlmajnmoTot6/lvoTljbPlj6/vvIkiKQogICAgT1VULm1rZGlyKHBhcmVudHM9VHJ1ZSwgZXhpc3Rfb2s9VHJ1ZSkKICAgIHBheWxvYWRzID0ge2s6IGFzayhxLCBzKSBmb3IgaywgKHEsIHMpIGluIENBU0VTLml0ZW1zKCl9CiAgICBidWlsZF9wcm9iZShwYXlsb2FkcykKCiAgICBzaG90KCJhbGlnbkEiLCAiYWxpZ249QSIsIHdpZHRoPTkwMCwgaGVpZ2h0PTM4MCwgYnVkZ2V0PTQwMDApCiAgICBzaG90KCJhbGlnbkIiLCAiYWxpZ249QiIsIHdpZHRoPTkwMCwgaGVpZ2h0PTM4MCwgYnVkZ2V0PTQwMDApCiAgICBmb3IgbmFtZSBpbiAoInN5bnRoIiwgInN0YWxlIiwgInBsYW4iLCAibGliIik6CiAgICAgICAgdGV4dCwgc3ludGggPSBDQVNFU1tuYW1lXQogICAgICAgIHNob3QobmFtZSwgZiJjYXNlPXtuYW1lfSZxPXt1cmxsaWIucGFyc2UucXVvdGUodGV4dCl9JnN5bnRoPXsxIGlmIHN5bnRoIGVsc2UgMH0iLAogICAgICAgICAgICAgd2lkdGg9MTE4MCwgaGVpZ2h0PTE5MDApCgogICAgdHJ5OgogICAgICAgIGZyb20gUElMIGltcG9ydCBJbWFnZSAgIyBub3FhOiBGNDAxCiAgICBleGNlcHQgRXhjZXB0aW9uOiAgIyBub3FhOiBCTEUwMDEKICAgICAgICBwcmludCgi77yI5rKh5pyJIFBpbGxvd++8jOi3s+i/h+ijgeWIh+S4jua1i+mHj++8iSIpCiAgICAgICAgcmV0dXJuCgogICAgYmFuZCA9ICg0MCwgMTIwLCA4NjAsIDI0MCkgICAgICAjIOaPkOmXruahhumHjOmCo+S4gOihjOWtlwogICAgYSwgYiA9IGlua19yb3dzKE9VVCAvICJhbGlnbkEucG5nIiwgYmFuZCksIGlua19yb3dzKE9VVCAvICJhbGlnbkIucG5nIiwgYmFuZCkKICAgIHByaW50KGYiXG7ln7rnur/mtYvph4/vvJrovpPlhaXmoYbmloflrZfooYwge2F9ICDngbDoibLmj5DnpLrooYwge2J9ICDlgY/np7sge2JbMF0tYVswXX0gcHgiKQogICAgcHJpbnQoIiAg77yIMCA9IOWujOWFqOWQjOmrmO+8m0EvQiDlkIToh6rotbfmraLlt64gMXB4IOS7peWGheeul+Wvuem9kO+8iSIpCgogICAgZm9yIG5hbWUsIGJveCBpbiAoKCJhbGlnbkEiLCAoMCwgOTAsIDkwMCwgMjYwKSksICgiYWxpZ25CIiwgKDAsIDkwLCA5MDAsIDI2MCkpLAogICAgICAgICAgICAgICAgICAgICAgKCJzeW50aCIsICgwLCA0MCwgMTE4MCwgMTgwMCkpLCAoInN0YWxlIiwgKDAsIDQwLCAxMTgwLCAxMDAwKSksCiAgICAgICAgICAgICAgICAgICAgICAoInBsYW4iLCAoMCwgNDAsIDExODAsIDEwMDApKSwgKCJsaWIiLCAoMCwgNDAsIDExODAsIDkwMCkpKToKICAgICAgICBzcmMgPSBPVVQgLyBmIntuYW1lfS5wbmciCiAgICAgICAgaWYgc3JjLmV4aXN0cygpOgogICAgICAgICAgICBJbWFnZS5vcGVuKHNyYykuY3JvcChib3gpLnNhdmUoT1VUIC8gZiJ7bmFtZX1fY3JvcC5wbmciKQogICAgcHJpbnQoIiAg4pyCIOijgeWIh+WujOaIkCIpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHN5cy5leGl0KG1haW4oKSkK
+"""用无头 Edge 给前端改动拍图（探针页 + 截图 + 裁切 + 基线测量），只用于本地验证。
+
+思路：`web-next/` 是只读的，所以把 field.html 复制到 .tmp，静态资源指回原目录；
+再把 /api/ask 的**真实响应**预先取好内联进页面（替换 fetch），
+这样渲染是同步的，无头浏览器不用等真网络，截图就一定能拍到卡片。
+
+    python tools/probe_ui.py
+"""
+from __future__ import annotations
+
+import json
+import os
+import shutil
+import subprocess
+import sys
+import urllib.parse
+import urllib.request
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+OUT = ROOT / ".tmp" / "probe"
+# 浏览器：环境变量 BROWSER 优先，其次 PATH 里的，再退到各平台的常规安装位置
+# （都用环境变量拼，不写死本机绝对路径）
+def _browser_candidates() -> list[Path]:
+    out: list[Path] = []
+    for name in ("msedge", "chrome", "chromium", "chromium-browser", "google-chrome"):
+        hit = shutil.which(name)
+        if hit:
+            out.append(Path(hit))
+    roots = [os.environ.get("ProgramFiles"), os.environ.get("ProgramFiles(x86)"),
+             os.environ.get("LOCALAPPDATA")]
+    rels = (r"Microsoft\Edge\Application\msedge.exe",
+            r"Google\Chrome\Application\chrome.exe")
+    for root in roots:
+        if not root:
+            continue
+        for rel in rels:
+            out.append(Path(root) / rel)
+    out.append(Path("/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"))
+    return out
+
+
+def _find_browser() -> Path:
+    env = os.environ.get("BROWSER") or ""
+    if env:
+        return Path(env)
+    for p in _browser_candidates():
+        if p.exists():
+            return p
+    return Path("msedge")
+
+
+EDGE = _find_browser()
+BASE = "http://127.0.0.1:7860"
+
+CASES = {
+    "synth": ("记过处分到期了，能评奖学金吗？能保研吗？", True),
+    "stale": ("公费医疗怎么报销", False),
+    "plan": ("转专业到信息与通信工程学院", False),
+    "lib": ("图书馆能续借吗", False),
+}
+
+
+def ask(text: str, synth: bool) -> dict:
+    req = urllib.request.Request(
+        BASE + "/api/ask",
+        data=json.dumps({"text": text, "router_llm": False, "synth": synth}).encode(),
+        headers={"Content-Type": "application/json"}, method="POST")
+    with urllib.request.urlopen(req, timeout=240) as r:
+        return json.loads(r.read().decode("utf-8"))
+
+
+FETCH_PATCH = """
+<script>
+/* 探针页从 file:// 打开，/api/ask 的响应在这里内联返回（真实响应，事先取好）。 */
+(function () {
+  const FAKE = window.__FAKE__ || {};
+  const orig = window.fetch;
+  window.fetch = function (u, o) {
+    const url = typeof u === "string" ? u : (u && u.url) || "";
+    if (url.indexOf("/api/ask") >= 0) {
+      const body = JSON.stringify(FAKE[new URLSearchParams(location.search).get("case")] || {});
+      return Promise.resolve(new Response(body, { status: 200, statusText: "OK",
+        headers: { "Content-Type": "application/json" } }));
+    }
+    if (url.startsWith("/")) u = "http://127.0.0.1:7860" + u;
+    return orig.call(this, u, o);
+  };
+})();
+</script>
+"""
+
+DRIVER = """
+<script>
+(function () {
+  const P = new URLSearchParams(location.search);
+  const mode = P.get("align");
+  const q = document.getElementById("q");
+  const wrap = document.querySelector(".qwrap .typer-text");
+  const showTyper = () => { const t = document.getElementById("typer"); if (t) t.style.opacity = "1"; };
+  const hideTyper = () => { const t = document.getElementById("typer"); if (t) t.style.display = "none"; };
+  // 探针页自己报错：把异常写在页面顶上，截图就能看见（产品页不加这个）
+  const report = (msg) => {
+    const d = document.createElement("pre");
+    d.style.cssText = "position:fixed;left:0;top:0;right:0;z-index:9999;margin:0;padding:8px;"
+      + "background:#fee;color:#900;font:12px/1.4 monospace;white-space:pre-wrap";
+    d.textContent = "PROBE-ERR " + msg;
+    document.body.appendChild(d);
+  };
+  window.addEventListener("error", (e) => report((e.message || "") + " @" + (e.filename || "").split("/").pop() + ":" + e.lineno));
+  window.addEventListener("unhandledrejection", (e) => report("reject: " + (e.reason && (e.reason.stack || e.reason.message || e.reason))));
+  const start = () => {
+    try {
+      document.body.setAttribute("data-mode", "work");
+      if (mode) {
+        document.body.setAttribute("data-probe", "align");
+        if (mode === "A") { q.value = "校园办事指南"; hideTyper(); }
+        else if (mode === "B") { if (wrap) wrap.textContent = "校园办事指南"; showTyper(); }
+        else { q.value = "校园办事指南"; if (wrap) wrap.textContent = "校园办事指南"; showTyper(); }
+        return;
+      }
+      const text = P.get("q");
+      if (!text) return;
+      const sw = document.getElementById("synthsw");
+      if (sw) sw.checked = P.get("synth") !== "0";
+      q.value = text;
+      q.dispatchEvent(new Event("input", { bubbles: true }));
+      document.getElementById("composer")
+        .dispatchEvent(new Event("submit", { bubbles: true, cancelable: true }));
+      document.body.setAttribute("data-probe", "ask");
+    } catch (e) { report("start: " + (e && e.stack || e)); }
+  };
+  if (document.readyState === "complete") setTimeout(start, 400);
+  else window.addEventListener("load", () => setTimeout(start, 400));
+})();
+</script>
+"""
+
+ALIGN_CSS = """
+<style>
+  body[data-probe="align"] .hero,
+  body[data-probe="align"] .field-layer,
+  body[data-probe="align"] .page-footer,
+  body[data-probe="align"] .presets { display: none !important; }
+</style>
+"""
+
+
+def build_probe(payloads: dict[str, dict]) -> Path:
+    html = (ROOT / "web-next" / "field.html").read_text(encoding="utf-8")
+    for name in ("field.css", "field.js", "vendor/leaflet/leaflet.css", "vendor/leaflet/leaflet.js",
+                 "assets/"):
+        html = html.replace(f'"{name}', f'"../../web-next/{name}')
+    data = "<script>window.__FAKE__ = " + json.dumps(payloads, ensure_ascii=False) + ";</script>"
+    html = html.replace("</head>", ALIGN_CSS + data + "</head>")
+    html = html.replace('<script src="../../web-next/field.js" defer></script>',
+                        FETCH_PATCH + '<script src="../../web-next/field.js" defer></script>')
+    html = html.replace("</body>", DRIVER + "</body>")
+    dest = OUT / "_probe.html"
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    dest.write_text(html, encoding="utf-8")
+    return dest
+
+
+def shot(name: str, query: str, *, width: int, height: int, budget: int = 8000) -> Path:
+    url = (OUT / "_probe.html").as_uri() + f"?{query}"
+    png = OUT / f"{name}.png"
+    cmd = [str(EDGE), "--headless=new", "--disable-gpu", "--hide-scrollbars",
+           "--force-prefers-reduced-motion", "--disable-web-security",
+           "--allow-file-access-from-files", f"--user-data-dir={OUT / ('profile_' + name)}",
+           f"--window-size={width},{height}",
+           f"--virtual-time-budget={budget}", f"--screenshot={png}", url]
+    subprocess.run(cmd, timeout=240, capture_output=True)
+    print("  →", png.name, png.exists() and f"{png.stat().st_size//1024} KB" or "FAILED")
+    return png
+
+
+def ink_rows(png: Path, box: tuple[int, int, int, int]) -> tuple[int, int]:
+    """在给定区域里找「有墨」的行范围（判定基线用）。"""
+    from PIL import Image
+    im = Image.open(png).convert("L").crop(box)
+    w, h = im.size
+    px = im.load()
+    rows = []
+    for y in range(h):
+        dark = sum(1 for x in range(w) if px[x, y] < 170)
+        if dark >= 2:
+            rows.append(y)
+    return (rows[0] + box[1], rows[-1] + box[1]) if rows else (-1, -1)
+
+
+def main() -> None:
+    if not EDGE.exists():
+        raise SystemExit(f"没找到 Edge：{EDGE}（换成本机任一 Chromium 内核浏览器的路径即可）")
+    OUT.mkdir(parents=True, exist_ok=True)
+    payloads = {k: ask(q, s) for k, (q, s) in CASES.items()}
+    build_probe(payloads)
+
+    shot("alignA", "align=A", width=900, height=380, budget=4000)
+    shot("alignB", "align=B", width=900, height=380, budget=4000)
+    for name in ("synth", "stale", "plan", "lib"):
+        text, synth = CASES[name]
+        shot(name, f"case={name}&q={urllib.parse.quote(text)}&synth={1 if synth else 0}",
+             width=1180, height=1900)
+
+    try:
+        from PIL import Image  # noqa: F401
+    except Exception:  # noqa: BLE001
+        print("（没有 Pillow，跳过裁切与测量）")
+        return
+
+    band = (40, 120, 860, 240)      # 提问框里那一行字
+    a, b = ink_rows(OUT / "alignA.png", band), ink_rows(OUT / "alignB.png", band)
+    print(f"\n基线测量：输入框文字行 {a}  灰色提示行 {b}  偏移 {b[0]-a[0]} px")
+    print("  （0 = 完全同高；A/B 各自起止差 1px 以内算对齐）")
+
+    for name, box in (("alignA", (0, 90, 900, 260)), ("alignB", (0, 90, 900, 260)),
+                      ("synth", (0, 40, 1180, 1800)), ("stale", (0, 40, 1180, 1000)),
+                      ("plan", (0, 40, 1180, 1000)), ("lib", (0, 40, 1180, 900))):
+        src = OUT / f"{name}.png"
+        if src.exists():
+            Image.open(src).crop(box).save(OUT / f"{name}_crop.png")
+    print("  ✂ 裁切完成")
+
+
+if __name__ == "__main__":
+    sys.exit(main())

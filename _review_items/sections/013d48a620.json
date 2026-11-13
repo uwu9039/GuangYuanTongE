@@ -1,1 +1,342 @@
-ew0KICJrZXkiOiAiMDEzZDQ4YTYyMCIsDQogInRpdGxlIjogIuS4reWbveS8oOWqkuWkp+WtpuWFrOi0ueWMu+eWl+euoeeQhuWKnuazle+8iOS4reS8oOagoeWMu+Wtl+OAlDIwMDXjgJUyMDIg5Y+377yJIiwNCiAidHJ1bmNhdGVkIjogZmFsc2UsDQogInNlY3Rpb25zIjogWw0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuS4reWbveS8oOWqkuWkp+WtpuWFrOi0ueWMu+eWl+euoeeQhuWKnuazlSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMSwNCiAgICAyDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJydWxlLTAxM2Q0OGE2MjAiLA0KICAgICJwdC00MjU3ZjM3MWFmIiwNCiAgICAicHQtM2Y3M2EyMGVmYiINCiAgIF0sDQogICAiY2hhcnMiOiAxNw0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuermeeCueagj+ebruWvvOiIquS4jumHjeWkjeagh+mimCIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDMsDQogICAgMTANCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTA3ODFiMTdiYmIiLA0KICAgICJwdC05YTYyYTRkODhkIg0KICAgXSwNCiAgICJjaGFycyI6IDM4DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5Y+R5biD5L+h5oGv77yI5Y+R5biD6ICF44CB5Y+R5biD5pe26Ze05LiO5rWP6KeI5qyh5pWw77yJIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMTEsDQogICAgMTENCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDM0DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5paH5Y+35LiO5Yi25a6a5pys5Yqe5rOV55qE55uu55qE44CB5L6d5o2uIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMTIsDQogICAgMTMNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTYwZjIwZDYwODEiDQogICBdLA0KICAgImNoYXJzIjogMTU1DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuIDmnaEiLA0KICAgImhlYWRpbmciOiAi5Lqr5Y+X5YWs6LS55Yy755aX5b6F6YGH5Lq65ZGY6IyD5Zu0IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNCwNCiAgICAxOQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZmE5Njk5OTc4MiIsDQogICAgInB0LTNmNDRhZmE0MWIiLA0KICAgICJwdC01YTVhZjlhYzZlIiwNCiAgICAicHQtMDQxZmE2ZmQyZSINCiAgIF0sDQogICAiY2hhcnMiOiAxNzcNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS6jOadoSIsDQogICAiaGVhZGluZyI6ICLlsLHor4rvvJrlrprngrnlsLHljLvjgIHpgJDnuqfovazor4rkuI7lvIDoja/ph4/pmZDliLYiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyMCwNCiAgICAzMA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMWIxZWI5YWIyYiIsDQogICAgInB0LTNhNzUyZDc5ODciLA0KICAgICJwdC1jM2JhZWY2ZDM4IiwNCiAgICAicHQtZTIwYzdiNjQxYSIsDQogICAgInB0LTBhYjhlYzY2YTEiDQogICBdLA0KICAgImNoYXJzIjogNzY5DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuInmnaEiLA0KICAgImhlYWRpbmciOiAi6L2s6K+K77ya6L2s6K+K5p2h5Lu244CB5Y+v6L2s5Yy76Zmi6IyD5Zu05LiO6L2s6K+K5Y2V5pyJ5pWI5pyfIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMzEsDQogICAgNDMNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTkwMjZhMzY3OWQiLA0KICAgICJwdC1hMDkxMzMxNmY2IiwNCiAgICAicHQtNzg4NDAzMDhmNCIsDQogICAgInB0LTFjZWZkMjg5OGYiLA0KICAgICJwdC05MjNhY2U2ZjMxIg0KICAgXSwNCiAgICJjaGFycyI6IDUwOA0KICB9LA0KICB7DQogICAibm8iOiAi56ys5Zub5p2hIiwNCiAgICJoZWFkaW5nIjogIuaApeiviu+8muaApeiviuiMg+WbtOOAgeWwsei/keWwseiviuS4juaKpemUgOWHreivgSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDQ0LA0KICAgIDQ4DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1kYTlkOWM0ZjI4IiwNCiAgICAicHQtYjAxYjlkOTE3NiINCiAgIF0sDQogICAiY2hhcnMiOiAxODQNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS6lOadoSIsDQogICAiaGVhZGluZyI6ICLkvY/pmaLvvJrkvY/pmaLmiYvnu63jgIHmlK/npajkuI7mirzph5HjgIHlh7rpmaLnu5PnrpciLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA0OSwNCiAgICA1Nw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNzAwYjBiZWExZCIsDQogICAgInB0LTI5NDU0M2EwZTYiLA0KICAgICJwdC1hNDllMTVmODNmIiwNCiAgICAicHQtZDMyNzY1YWQ5ZSIsDQogICAgInB0LWUwNDIxZjM0YWMiDQogICBdLA0KICAgImNoYXJzIjogNDkxDQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzlha3mnaEiLA0KICAgImhlYWRpbmciOiAi5oql6ZSA6IyD5Zu05Y+K5Yqe5rOVIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1OCwNCiAgICA3NA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNjNmZGQ5Yjc2MiIsDQogICAgInB0LTAwMTdjOTViOWYiLA0KICAgICJwdC0zYjg4NjJlOGI0IiwNCiAgICAicHQtODhkNmQ3ZTY2MyIsDQogICAgInB0LTQ4YjVlY2M5NDUiLA0KICAgICJwdC1iMmM3OTY3ZjE2IiwNCiAgICAicHQtMTI4MjYwMDRmYSIsDQogICAgInB0LTU1NmQ2MzAwYzciLA0KICAgICJwdC03MzY5MGFiOWQ0Ig0KICAgXSwNCiAgICJjaGFycyI6IDEyNzgNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS4g+adoSIsDQogICAiaGVhZGluZyI6ICLmiqXplIDmr5TkvosiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDc1LA0KICAgIDg3DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC05MWRhNjE4OGI2IiwNCiAgICAicHQtZTE4NzdlYTQ0ZCIsDQogICAgInB0LTk3ZjQyMzNhZDAiLA0KICAgICJwdC02ZjYxNDI4NGEwIiwNCiAgICAicHQtMzZlMmI5NjJlMSIsDQogICAgInB0LTdhZjg0OGZkYzEiLA0KICAgICJwdC04NmIyODliZWRkIiwNCiAgICAicHQtZWQwOTYzMGMzNCINCiAgIF0sDQogICAiY2hhcnMiOiA2MTYNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWFq+adoSIsDQogICAiaGVhZGluZyI6ICLlrabmoKHlhazotLnljLvnlpfnrqHnkIblp5TlkZjkvJrotJ/otKPmlL/nrZbliLblrprkuI7op6Pph4oiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA4OCwNCiAgICA4OA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogODINCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS5neadoSIsDQogICAiaGVhZGluZyI6ICLmoKHljLvpmaLkuIvorr7lhazotLnljLvnlpfnrqHnkIblip7lhazlrqTkuI7lkITljZXkvY3ljY/liqnogYzotKMiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA4OSwNCiAgICA4OQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtYTBlZGQzZjBhNCINCiAgIF0sDQogICAiY2hhcnMiOiA4Nw0KICB9LA0KICB7DQogICAibm8iOiAi56ys5Y2B5p2hIiwNCiAgICJoZWFkaW5nIjogIuacrOWKnuazleeUseWtpuagoeWFrOi0ueWMu+eWl+euoeeQhuWnlOWRmOS8mui0n+i0o+ino+mHiiIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDkwLA0KICAgIDkwDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAyOQ0KICB9LA0KICB7DQogICAibm8iOiAi56ys5Y2B5LiA5p2hIiwNCiAgICJoZWFkaW5nIjogIuacrOWKnuazleiHquWFrOW4g+S5i+aXpei1t+aJp+ihjO+8jOaKteinpuinhOWumuWQjOaXtuW6n+atoiIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDkxLA0KICAgIDkxDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiA0NA0KICB9LA0KICB7DQogICAibm8iOiAi5rOoIiwNCiAgICJoZWFkaW5nIjogIuazqO+8muWMu+iNr+i0ueiMg+WbtOS4juWNq+eUn+mDqOinhOWumueahOaApeiviuiMg+WbtOWNgeWbm+mhue+8iOWQq+WFrOi0ueWMu+eWl+WnlOWRmOS8mue9suWQje+8iSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDkyLA0KICAgIDEwOQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZDQ4ZTU2MmIxMSIsDQogICAgInB0LTZlOWI0ODEwMTIiLA0KICAgICJwdC0xYzUxMDFlNzU1IiwNCiAgICAicHQtNjViZTBiZWQyOSIsDQogICAgInB0LTExMGUwNzdlOTgiLA0KICAgICJwdC0yODk3MGI0ZDIyIiwNCiAgICAicHQtM2FjNjE1MmFhMCIsDQogICAgInB0LTJhYzgwMmRhNDAiLA0KICAgICJwdC1hMjk2MzJiYTEwIiwNCiAgICAicHQtNzc2NDg0OTA0OSIsDQogICAgInB0LTk3YTlkNGRiZDAiLA0KICAgICJwdC0wMjYxYjg1ODdjIg0KICAgXSwNCiAgICJjaGFycyI6IDM1MA0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuiQveasvuaXpeacnyAyMDA0IOW5tCAxMiDmnIggMjgg5pelIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMTEwLA0KICAgIDExMA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTENCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLniYjmnYPlpIfmoYjkuI7orr/pl67nu5/orqHpmYTku7bmoIforrAiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMTEsDQogICAgMTEyDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAxMDYNCiAgfQ0KIF0sDQogIml0ZW1zIjogWw0KICAicnVsZS0wMTNkNDhhNjIwIiwNCiAgInB0LTFiMWViOWFiMmIiLA0KICAicHQtM2E3NTJkNzk4NyIsDQogICJwdC05MDI2YTM2NzlkIiwNCiAgInB0LWRhOWQ5YzRmMjgiLA0KICAicHQtMjk0NTQzYTBlNiIsDQogICJwdC1hNDllMTVmODNmIiwNCiAgInB0LTYzZmRkOWI3NjIiLA0KICAicHQtOTFkYTYxODhiNiIsDQogICJwdC03YWY4NDhmZGMxIiwNCiAgInB0LWIwMWI5ZDkxNzYiLA0KICAicHQtNTU2ZDYzMDBjNyIsDQogICJwdC02ZjYxNDI4NGEwIiwNCiAgInB0LTNmNzNhMjBlZmIiLA0KICAicHQtMDc4MWIxN2JiYiIsDQogICJwdC05YTYyYTRkODhkIiwNCiAgInB0LTQyNTdmMzcxYWYiLA0KICAicHQtNjBmMjBkNjA4MSIsDQogICJwdC1mYTk2OTk5NzgyIiwNCiAgInB0LTNmNDRhZmE0MWIiLA0KICAicHQtNWE1YWY5YWM2ZSIsDQogICJwdC0wNDFmYTZmZDJlIiwNCiAgInB0LWMzYmFlZjZkMzgiLA0KICAicHQtZTIwYzdiNjQxYSIsDQogICJwdC0wYWI4ZWM2NmExIiwNCiAgInB0LWEwOTEzMzE2ZjYiLA0KICAicHQtNzg4NDAzMDhmNCIsDQogICJwdC0xY2VmZDI4OThmIiwNCiAgInB0LTkyM2FjZTZmMzEiLA0KICAicHQtNzAwYjBiZWExZCIsDQogICJwdC1kMzI3NjVhZDllIiwNCiAgInB0LWUwNDIxZjM0YWMiLA0KICAicHQtMDAxN2M5NWI5ZiIsDQogICJwdC0zYjg4NjJlOGI0IiwNCiAgInB0LTg4ZDZkN2U2NjMiLA0KICAicHQtNDhiNWVjYzk0NSIsDQogICJwdC1iMmM3OTY3ZjE2IiwNCiAgInB0LTEyODI2MDA0ZmEiLA0KICAicHQtNzM2OTBhYjlkNCIsDQogICJwdC1lMTg3N2VhNDRkIiwNCiAgInB0LTk3ZjQyMzNhZDAiLA0KICAicHQtMzZlMmI5NjJlMSIsDQogICJwdC04NmIyODliZWRkIiwNCiAgInB0LWVkMDk2MzBjMzQiLA0KICAicHQtYTBlZGQzZjBhNCIsDQogICJwdC1kNDhlNTYyYjExIiwNCiAgInB0LTZlOWI0ODEwMTIiLA0KICAicHQtMWM1MTAxZTc1NSIsDQogICJwdC02NWJlMGJlZDI5IiwNCiAgInB0LTExMGUwNzdlOTgiLA0KICAicHQtMjg5NzBiNGQyMiIsDQogICJwdC0zYWM2MTUyYWEwIiwNCiAgInB0LTJhYzgwMmRhNDAiLA0KICAicHQtYTI5NjMyYmExMCIsDQogICJwdC03NzY0ODQ5MDQ5IiwNCiAgInB0LTk3YTlkNGRiZDAiLA0KICAicHQtMDI2MWI4NTg3YyINCiBdLA0KICJub3RlcyI6IFsNCiAgIk9DUiDovazlhpnmnInmjZ/kvKTvvJrmnaHlj7fooqvlhpnmiJDjgIznrKzigJXmnaE/44CN77yI44CM4oCV44CN5pivIFUrMjAxNe+8jOS4jeaYr+OAjOS4gOOAje+8ie+8jOato+aWh+mHjOi/mOWkueedgOOAjD8/P+OAjeWNoOS9jeespuS4juihjOWGheWkmuS9meepuuagvOOAguWboOatpOadoee6pyBoZWFkaW5nIOS4gOW+i+S4jeeFp+aKhOadoeWPt++8muesrOS4gOadoeOAgeesrOWFreadoeOAgeesrOS4g+adoeeUqOWOn+aWh+adoeWQje+8iOmAkOWtl+WPr+WcqOacrOiKguihjOWMuumXtOaJvuWIsO+8jOaghyBhdXRob3LvvInvvIznrKzkuozmnaHoh7PnrKzkupTmnaHnmoTljp/mnaHlkI3lj6rmnInjgIzlsLHor4rjgI3jgIzovazor4rjgI3jgIzmgKXor4rjgI3jgIzkvY/pmaLjgI3kuKTlrZfvvIznrKzlhavmnaHoh7PnrKzljYHkuIDmnaHml6DmnaHlkI3vvIzlnYfmjInlhoXlrrnmpoLmi6zmoIcgZGVyaXZlZOOAgiIsDQogICLnrKwgMTkg6KGM5ZCM5pe25ZCr56ys5LiA5p2h55qE5bC+5Y+l77yI44CM5LiN5YyF5ous77ya6auY6IGM55Sf44CB5YWo5pel5Yi25aSc5aSn55Sf4oCm5Ye65Zu955WZ5a2m5Lq65ZGY44CC44CN77yJ5LiO56ys5LqM5p2h55qE5qCH6aKY44CM56ys5LqM5p2hPyDlsLHor4rjgI3vvIzooYzlhoXml6Dms5Xlho3liIfvvJvor6XooYzlvZLnrKzkuIDmnaHvvIgxNOKAkzE577yJ77yM56ys5LqM5p2h6IqC5LuO56ysIDIwIOihjOOAjO+8iOS4gO+8ieaMieeFp+WMl+S6rOW4guWFrOi0ueWMu+eWl+euoeeQhuWnlOWRmOS8muKApuOAjei1t+OAgiIsDQogICLnrKwgMTA44oCTMTA5IOihjOaYr+aApeiviuiMg+WbtOesrO+8iDE077yJ6aG55LiO44CM5Lit5Zu95Lyg5aqS5aSn5a2m5YWs6LS55Yy755aX5aeU5ZGY5Lya44CN572y5ZCN55qE6L+e6K+777yM5pWF44CM5rOo44CN6IqC5Y+W5Yiw56ysIDEwOSDooYzvvJvnrKwgMTEwIOihjOaYr+iQveasvuaXpeacn++8jOWNleWIl+S4gOiKguOAgiIsDQogICLnrKwgMeKAkzIg6KGM5Li66aG16Z2i5qCH6aKY5LiO44CM5qCh5Yy76Zmi44CN56uZ54K55ZCN77yM56ysIDPigJMxMCDooYzkuLrmoI/nm67lr7zoiKrvvIjpppbpobUv5pyA5paw6YCa5ZGKL+enkeWupOS7i+e7jS/op4Tnq6DliLbluqYv5L+d5YGl55+l6K+GL+acjeWKoeaMh+WNl++8ieS4jumHjeWkjeagh+mimO+8jOesrCAxMSDooYzkuLrlj5HluIPkv6Hmga/vvIgyMDE4LTExLTAx77yM5rWP6KeI5qyh5pWwIDEyNDM077yJ44CCIiwNCiAgInJ1bGUtMDEzZDQ4YTYyMCDmmK/mlofmoaPnuqfmnaHnm67vvIjmoIfpopjiiYjmlofmoaPlkI3jgIHml6DlvJXmlofvvInvvIzmjInnuqblrprliJfov5vmlofmoaPnuqcgaXRlbXMg5bm25pS+6L+b56ys5LiA6IqC77yM5Zyo5q2k6K+05piO44CCIiwNCiAgIuesrCAxMiDooYzmmK/mloflj7fjgIzkuK3kvKDmoKHljLvlrZfjgJQyMDA144CVMjAy5Y+344CN77yM56ysIDEzIOihjOaYr+WItuWumuebrueahOS4juS+neaNru+8iOWMl+S6rOW4guWNq+eUn+WxgOOAgei0ouaUv+WxgO+8iDkw77yJ5Lqs5Y2r5YWs5a2X56ysMTAw5Y+35paH77yJ77yM5ZCI5Li65LiA6IqC77ybcHQtNjBmMjBkNjA4MSDnmoTlvJXmlofmraPmmK/ov5nkuKTooYznmoTov57or7vjgIIiLA0KICAiNTcg5p2h5p2h55uu77yI5ZCrIHJ1bGUtMDEzZDQ4YTYyMO+8ieW3suWcqOaWh+aho+e6pyBpdGVtcyDliJflhajvvJs1NiDmnaHluKblvJXmlofnmoTmnaHnm67lnYfokL3lnKjmnKzmloflhoXvvIzml6Dot6jmlofku7blvJXnlKjjgILmraPmlofliLDnrKwgMTA4IOihjOaApeiviuiMg+WbtOesrO+8iDE077yJ6aG557uT5p2f77yM56ysIDEwOeKAkzExMCDooYzkuLrnvbLlkI3kuI7ml6XmnJ/vvIwxMTIg6KGM5Li66K6/6Zeu57uf6K6h6ZmE5Lu25qCH6K6w77yMdHJ1bmNhdGVkPWZhbHNl44CCIg0KIF0NCn0=
+{
+ "key": "013d48a620",
+ "title": "中国传媒大学公费医疗管理办法（中传校医字〔2005〕202 号）",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "中国传媒大学公费医疗管理办法",
+   "heading_kind": "author",
+   "lines": [
+    1,
+    2
+   ],
+   "items": [
+    "rule-013d48a620",
+    "pt-4257f371af",
+    "pt-3f73a20efb"
+   ],
+   "chars": 17
+  },
+  {
+   "no": "—",
+   "heading": "站点栏目导航与重复标题",
+   "heading_kind": "derived",
+   "lines": [
+    3,
+    10
+   ],
+   "items": [
+    "pt-0781b17bbb",
+    "pt-9a62a4d88d"
+   ],
+   "chars": 38
+  },
+  {
+   "no": "—",
+   "heading": "发布信息（发布者、发布时间与浏览次数）",
+   "heading_kind": "derived",
+   "lines": [
+    11,
+    11
+   ],
+   "items": [],
+   "chars": 34
+  },
+  {
+   "no": "—",
+   "heading": "文号与制定本办法的目的、依据",
+   "heading_kind": "derived",
+   "lines": [
+    12,
+    13
+   ],
+   "items": [
+    "pt-60f20d6081"
+   ],
+   "chars": 155
+  },
+  {
+   "no": "第一条",
+   "heading": "享受公费医疗待遇人员范围",
+   "heading_kind": "author",
+   "lines": [
+    14,
+    19
+   ],
+   "items": [
+    "pt-fa96999782",
+    "pt-3f44afa41b",
+    "pt-5a5af9ac6e",
+    "pt-041fa6fd2e"
+   ],
+   "chars": 177
+  },
+  {
+   "no": "第二条",
+   "heading": "就诊：定点就医、逐级转诊与开药量限制",
+   "heading_kind": "derived",
+   "lines": [
+    20,
+    30
+   ],
+   "items": [
+    "pt-1b1eb9ab2b",
+    "pt-3a752d7987",
+    "pt-c3baef6d38",
+    "pt-e20c7b641a",
+    "pt-0ab8ec66a1"
+   ],
+   "chars": 769
+  },
+  {
+   "no": "第三条",
+   "heading": "转诊：转诊条件、可转医院范围与转诊单有效期",
+   "heading_kind": "derived",
+   "lines": [
+    31,
+    43
+   ],
+   "items": [
+    "pt-9026a3679d",
+    "pt-a0913316f6",
+    "pt-78840308f4",
+    "pt-1cefd2898f",
+    "pt-923ace6f31"
+   ],
+   "chars": 508
+  },
+  {
+   "no": "第四条",
+   "heading": "急诊：急诊范围、就近就诊与报销凭证",
+   "heading_kind": "derived",
+   "lines": [
+    44,
+    48
+   ],
+   "items": [
+    "pt-da9d9c4f28",
+    "pt-b01b9d9176"
+   ],
+   "chars": 184
+  },
+  {
+   "no": "第五条",
+   "heading": "住院：住院手续、支票与押金、出院结算",
+   "heading_kind": "derived",
+   "lines": [
+    49,
+    57
+   ],
+   "items": [
+    "pt-700b0bea1d",
+    "pt-294543a0e6",
+    "pt-a49e15f83f",
+    "pt-d32765ad9e",
+    "pt-e0421f34ac"
+   ],
+   "chars": 491
+  },
+  {
+   "no": "第六条",
+   "heading": "报销范围及办法",
+   "heading_kind": "author",
+   "lines": [
+    58,
+    74
+   ],
+   "items": [
+    "pt-63fdd9b762",
+    "pt-0017c95b9f",
+    "pt-3b8862e8b4",
+    "pt-88d6d7e663",
+    "pt-48b5ecc945",
+    "pt-b2c7967f16",
+    "pt-12826004fa",
+    "pt-556d6300c7",
+    "pt-73690ab9d4"
+   ],
+   "chars": 1278
+  },
+  {
+   "no": "第七条",
+   "heading": "报销比例",
+   "heading_kind": "author",
+   "lines": [
+    75,
+    87
+   ],
+   "items": [
+    "pt-91da6188b6",
+    "pt-e1877ea44d",
+    "pt-97f4233ad0",
+    "pt-6f614284a0",
+    "pt-36e2b962e1",
+    "pt-7af848fdc1",
+    "pt-86b289bedd",
+    "pt-ed09630c34"
+   ],
+   "chars": 616
+  },
+  {
+   "no": "第八条",
+   "heading": "学校公费医疗管理委员会负责政策制定与解释",
+   "heading_kind": "derived",
+   "lines": [
+    88,
+    88
+   ],
+   "items": [],
+   "chars": 82
+  },
+  {
+   "no": "第九条",
+   "heading": "校医院下设公费医疗管理办公室与各单位协助职责",
+   "heading_kind": "derived",
+   "lines": [
+    89,
+    89
+   ],
+   "items": [
+    "pt-a0edd3f0a4"
+   ],
+   "chars": 87
+  },
+  {
+   "no": "第十条",
+   "heading": "本办法由学校公费医疗管理委员会负责解释",
+   "heading_kind": "derived",
+   "lines": [
+    90,
+    90
+   ],
+   "items": [],
+   "chars": 29
+  },
+  {
+   "no": "第十一条",
+   "heading": "本办法自公布之日起执行，抵触规定同时废止",
+   "heading_kind": "derived",
+   "lines": [
+    91,
+    91
+   ],
+   "items": [],
+   "chars": 44
+  },
+  {
+   "no": "注",
+   "heading": "注：医药费范围与卫生部规定的急诊范围十四项（含公费医疗委员会署名）",
+   "heading_kind": "derived",
+   "lines": [
+    92,
+    109
+   ],
+   "items": [
+    "pt-d48e562b11",
+    "pt-6e9b481012",
+    "pt-1c5101e755",
+    "pt-65be0bed29",
+    "pt-110e077e98",
+    "pt-28970b4d22",
+    "pt-3ac6152aa0",
+    "pt-2ac802da40",
+    "pt-a29632ba10",
+    "pt-7764849049",
+    "pt-97a9d4dbd0",
+    "pt-0261b8587c"
+   ],
+   "chars": 350
+  },
+  {
+   "no": "—",
+   "heading": "落款日期 2004 年 12 月 28 日",
+   "heading_kind": "derived",
+   "lines": [
+    110,
+    110
+   ],
+   "items": [],
+   "chars": 11
+  },
+  {
+   "no": "—",
+   "heading": "版权备案与访问统计附件标记",
+   "heading_kind": "derived",
+   "lines": [
+    111,
+    112
+   ],
+   "items": [],
+   "chars": 106
+  }
+ ],
+ "items": [
+  "rule-013d48a620",
+  "pt-1b1eb9ab2b",
+  "pt-3a752d7987",
+  "pt-9026a3679d",
+  "pt-da9d9c4f28",
+  "pt-294543a0e6",
+  "pt-a49e15f83f",
+  "pt-63fdd9b762",
+  "pt-91da6188b6",
+  "pt-7af848fdc1",
+  "pt-b01b9d9176",
+  "pt-556d6300c7",
+  "pt-6f614284a0",
+  "pt-3f73a20efb",
+  "pt-0781b17bbb",
+  "pt-9a62a4d88d",
+  "pt-4257f371af",
+  "pt-60f20d6081",
+  "pt-fa96999782",
+  "pt-3f44afa41b",
+  "pt-5a5af9ac6e",
+  "pt-041fa6fd2e",
+  "pt-c3baef6d38",
+  "pt-e20c7b641a",
+  "pt-0ab8ec66a1",
+  "pt-a0913316f6",
+  "pt-78840308f4",
+  "pt-1cefd2898f",
+  "pt-923ace6f31",
+  "pt-700b0bea1d",
+  "pt-d32765ad9e",
+  "pt-e0421f34ac",
+  "pt-0017c95b9f",
+  "pt-3b8862e8b4",
+  "pt-88d6d7e663",
+  "pt-48b5ecc945",
+  "pt-b2c7967f16",
+  "pt-12826004fa",
+  "pt-73690ab9d4",
+  "pt-e1877ea44d",
+  "pt-97f4233ad0",
+  "pt-36e2b962e1",
+  "pt-86b289bedd",
+  "pt-ed09630c34",
+  "pt-a0edd3f0a4",
+  "pt-d48e562b11",
+  "pt-6e9b481012",
+  "pt-1c5101e755",
+  "pt-65be0bed29",
+  "pt-110e077e98",
+  "pt-28970b4d22",
+  "pt-3ac6152aa0",
+  "pt-2ac802da40",
+  "pt-a29632ba10",
+  "pt-7764849049",
+  "pt-97a9d4dbd0",
+  "pt-0261b8587c"
+ ],
+ "notes": [
+  "OCR 转写有损伤：条号被写成「第―条?」（「―」是 U+2015，不是「一」），正文里还夹着「???」占位符与行内多余空格。因此条级 heading 一律不照抄条号：第一条、第六条、第七条用原文条名（逐字可在本节行区间找到，标 author），第二条至第五条的原条名只有「就诊」「转诊」「急诊」「住院」两字，第八条至第十一条无条名，均按内容概括标 derived。",
+  "第 19 行同时含第一条的尾句（「不包括：高职生、全日制夜大生…出国留学人员。」）与第二条的标题「第二条? 就诊」，行内无法再切；该行归第一条（14–19），第二条节从第 20 行「（一）按照北京市公费医疗管理委员会…」起。",
+  "第 108–109 行是急诊范围第（14）项与「中国传媒大学公费医疗委员会」署名的连读，故「注」节取到第 109 行；第 110 行是落款日期，单列一节。",
+  "第 1–2 行为页面标题与「校医院」站点名，第 3–10 行为栏目导航（首页/最新通告/科室介绍/规章制度/保健知识/服务指南）与重复标题，第 11 行为发布信息（2018-11-01，浏览次数 12434）。",
+  "rule-013d48a620 是文档级条目（标题≈文档名、无引文），按约定列进文档级 items 并放进第一节，在此说明。",
+  "第 12 行是文号「中传校医字〔2005〕202号」，第 13 行是制定目的与依据（北京市卫生局、财政局（90）京卫公字第100号文），合为一节；pt-60f20d6081 的引文正是这两行的连读。",
+  "57 条条目（含 rule-013d48a620）已在文档级 items 列全；56 条带引文的条目均落在本文内，无跨文件引用。正文到第 108 行急诊范围第（14）项结束，第 109–110 行为署名与日期，112 行为访问统计附件标记，truncated=false。"
+ ]
+}

@@ -1,1 +1,136 @@
-ew0KICJrZXkiOiAiaGI5NzRjNDlhNDQ0IiwNCiAidGl0bGUiOiAi5Lit5Zu95Lyg5aqS5aSn5a2m5LiT5Lia5a2m5L2N56GV5aOr56CU56m255Sf5a2m5L2N6K665paH562U6L6p5bel5L2c5Yqe5rOVIiwNCiAidHJ1bmNhdGVkIjogdHJ1ZSwNCiAic2VjdGlvbnMiOiBbDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi6aKE562U6L6p5bel5L2c5Yqe5rOV77yI5pys6aG15LuF5a2Y5pyr5q615p2h5paH77yJIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMiwNCiAgICAxMA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZmU1ODJlYTgwYyIsDQogICAgInB0LWFlYzBhNzc1OTYiLA0KICAgICJwdC0xNDljNzgzNDI5IiwNCiAgICAicHQtZGNkMGY1MzY0NiINCiAgIF0sDQogICAiY2hhcnMiOiAzMDYNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLkuK3lm73kvKDlqpLlpKflrablrabmnK/lrabkvY3noZXlo6vnoJTnqbbnlJ/lrabkvY3orrrmlofnrZTovqnlt6XkvZzlip7ms5UiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDEzLA0KICAgIDU5DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0wYTVlMjE0YmUyIiwNCiAgICAicHQtOGYzM2QwYmZhMiIsDQogICAgInB0LTlmYjMzNTc2ZjQiLA0KICAgICJwdC1hZWRkYzdiMzk0IiwNCiAgICAicHQtMDNmMjRhN2MzNyIsDQogICAgInB0LTg3MDRiY2I3MjMiLA0KICAgICJwdC1iOGQ1MjRjYWUyIiwNCiAgICAicHQtZGJkZmU2ZTY5MiIsDQogICAgInB0LWIzNTEyNjZkOGMiLA0KICAgICJwdC0yYmFlYzA4Y2FlIiwNCiAgICAicHQtMzhkMDEzMDBlOCIsDQogICAgInB0LTE3MWM3NTA4ZjkiDQogICBdLA0KICAgImNoYXJzIjogMTQzMQ0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuS4reWbveS8oOWqkuWkp+WtpuS4k+S4muWtpuS9jeehleWjq+eglOeptueUn+WtpuS9jeiuuuaWh+etlOi+qeW3peS9nOWKnuazlSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNjEsDQogICAgMTEzDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJydWxlLWhiOTc0YzQ5YTQ0NCIsDQogICAgInB0LTRkNzJiMTdmZDgiLA0KICAgICJwdC0xNzA4ZjM5MTg3IiwNCiAgICAicHQtZmI2ZWQzOGZkNiIsDQogICAgInB0LWVjYTYyZGQzYTciLA0KICAgICJwdC02OGI3MmNmOWQ3IiwNCiAgICAicHQtMWE1MDA5MWM3MCIsDQogICAgInB0LTdiOGRkODRiMzEiLA0KICAgICJwdC05YmNkZjYxZmVlIiwNCiAgICAicHQtOTEyNjllYTg4NiIsDQogICAgInB0LTY4N2VmNjg3ZGYiLA0KICAgICJwdC03NmNhZDg5NDZiIiwNCiAgICAicHQtOWJmNTY1ZDBmZSIsDQogICAgInB0LWNhNmQxZTZjZTYiLA0KICAgICJwdC01ZDRkZjdjNDM4IiwNCiAgICAicHQtMzdjNDNkZTcyZSIsDQogICAgInB0LTg4NjRkMGIyNjgiLA0KICAgICJwdC00NDgyM2U3NjY1IiwNCiAgICAicHQtMDkxNGE5YzllMyIsDQogICAgInB0LTE0NmE1ODY0NWYiLA0KICAgICJwdC0xZjU0NDY1ZmExIiwNCiAgICAicHQtOTU1MzQzOTM3NSIsDQogICAgInB0LTc4NTAwMDE3NjgiLA0KICAgICJwdC05OGE3YTAxMzlhIiwNCiAgICAicHQtNzcxMjJhNTI1OCINCiAgIF0sDQogICAiY2hhcnMiOiAxNjQ3DQogIH0NCiBdLA0KICJpdGVtcyI6IFsNCiAgInJ1bGUtaGI5NzRjNDlhNDQ0IiwNCiAgInB0LTRkNzJiMTdmZDgiLA0KICAicHQtMTcwOGYzOTE4NyIsDQogICJwdC1mYjZlZDM4ZmQ2IiwNCiAgInB0LWVjYTYyZGQzYTciLA0KICAicHQtNjhiNzJjZjlkNyIsDQogICJwdC0xYTUwMDkxYzcwIiwNCiAgInB0LTdiOGRkODRiMzEiLA0KICAicHQtOWJjZGY2MWZlZSIsDQogICJwdC05MTI2OWVhODg2IiwNCiAgInB0LTY4N2VmNjg3ZGYiLA0KICAicHQtZmU1ODJlYTgwYyIsDQogICJwdC1hZWMwYTc3NTk2IiwNCiAgInB0LTE0OWM3ODM0MjkiLA0KICAicHQtZGNkMGY1MzY0NiIsDQogICJwdC0wYTVlMjE0YmUyIiwNCiAgInB0LThmMzNkMGJmYTIiLA0KICAicHQtOWZiMzM1NzZmNCIsDQogICJwdC1hZWRkYzdiMzk0IiwNCiAgInB0LTAzZjI0YTdjMzciLA0KICAicHQtODcwNGJjYjcyMyIsDQogICJwdC1iOGQ1MjRjYWUyIiwNCiAgInB0LWRiZGZlNmU2OTIiLA0KICAicHQtYjM1MTI2NmQ4YyIsDQogICJwdC0yYmFlYzA4Y2FlIiwNCiAgInB0LTM4ZDAxMzAwZTgiLA0KICAicHQtMTcxYzc1MDhmOSIsDQogICJwdC03NmNhZDg5NDZiIiwNCiAgInB0LTliZjU2NWQwZmUiLA0KICAicHQtY2E2ZDFlNmNlNiIsDQogICJwdC01ZDRkZjdjNDM4IiwNCiAgInB0LTM3YzQzZGU3MmUiLA0KICAicHQtODg2NGQwYjI2OCIsDQogICJwdC00NDgyM2U3NjY1IiwNCiAgInB0LTA5MTRhOWM5ZTMiLA0KICAicHQtMTQ2YTU4NjQ1ZiIsDQogICJwdC0xZjU0NDY1ZmExIiwNCiAgInB0LTk1NTM0MzkzNzUiLA0KICAicHQtNzg1MDAwMTc2OCIsDQogICJwdC05OGE3YTAxMzlhIiwNCiAgInB0LTc3MTIyYTUyNTgiDQogXSwNCiAibm90ZXMiOiBbDQogICLmnKzku7bmmK/msYfnvJbnrKwgMjE44oCTMjIyIOmhteeahOS6lOmhteaKveWPlu+8jCoq5paH6aaW6KKr5oiq5patKirvvJrnrKwgMSDooYzmmK/pobXnoIHjgIwtIDIxOCAt44CN77yM56ysIDIg6KGM44CM77yI5Y2B5LiA77yJ5LiT5a625bCP57uE57uE6ZW/5a6j5biD6aKE562U6L6p5Lya57uT5p2f44CC44CN6LW35om/5o6l5LiK5paH77yM6K+l44CK6aKE562U6L6p5bel5L2c5Yqe5rOV44CL55qE5qCH6aKY5LiO56ys5LiA5p2h6Iez56ys5Y2B5LiA5p2h5pyq5Zyo5pys5Lu25YaF77yI5bqU5Zyo5LiK5LiA6aG177yJ77yM5pWF6K6wIHRydW5jYXRlZD10cnVl77yb56ysIDLigJMxMCDooYzvvIjnrKzljYHkuIDmnaHmnKvpobnoh7PnrKzljYHkupTmnaHvvInljZXliJfkuIDoioLjgIIiLA0KICAi56ysIDExIOihjO+8iC0gMjE5IC3vvInkuYvlkI7mmK/jgIrkuK3lm73kvKDlqpLlpKflrablrabmnK/lrabkvY3noZXlo6vnoJTnqbbnlJ/lrabkvY3orrrmlofnrZTovqnlt6XkvZzlip7ms5XjgIvvvIjnoJTnqbbnlJ/pmaLjgJQyMDI144CVOSDlj7fvvInvvJrnrKwgMTPigJMxNCDooYzmoIfpopjkuI7mloflj7fjgIHnrKwgMTXigJM1OSDooYznrKzkuIDmnaHoh7PnrKzljYHlm5vmnaHvvJvnrKwgNDUg6KGM5aS5552A6aG156CB44CMLSAyMjAgLeOAje+8jOWxnuiKguWGhemhteeggeOAgiIsDQogICLnrKwgNjAg6KGM77yILSAyMjEgLe+8ieS5i+WQjuaYr+OAiuS4reWbveS8oOWqkuWkp+WtpuS4k+S4muWtpuS9jeehleWjq+eglOeptueUn+WtpuS9jeiuuuaWh+etlOi+qeW3peS9nOWKnuazleOAi++8iOeglOeptueUn+mZouOAlDIwMjXjgJUxMSDlj7fvvInvvJrnrKwgNjHigJM2MiDooYzmoIfpopjkuI7mloflj7fjgIHnrKwgNjPigJMxMTMg6KGM56ys5LiA5p2h6Iez56ys5Y2B5LqU5p2h77yb56ysIDkzIOihjOWkueedgOmhteeggeOAjC0gMjIyIC3jgI3jgIIiLA0KICAi5Lik5Lu95Yqe5rOV6YO95Y+q55So44CM56ysWOadoeOAjee8luWPt+OAgeayoeacieeroOS4gOe6p+Wwj+agh+mimO+8jOaVheaMieOAjOS4gOS7veWKnuazlSA9IOS4gOiKguOAjeWIh+WIhu+8jOiKguWQjeeUqOWQhOiHqueahOaWh+S7tuagh+mimO+8iOmAkOWtl+WPr+inge+8jGF1dGhvcu+8ie+8m+adoeWGheeahOOAjO+8iOS4gO+8ieKApu+8iOWNgeS6jO+8ieOAjeaYr+adoeaWh+WIhumhue+8jOacquWGjeaLhuWtkOiKguOAgiIsDQogICLnrKwgMeOAgTEx44CBNjAg6KGM55qE6aG156CB5pyq6KKr5Lu75L2V6IqC6KaG55uW77yI57qv6aG156CB6KGM5LiN5L2c6IqC6aaW77yJ77yM5b2i5oiQ6KaG55uW56m66ZqZ77yb56ysIDEyIOihjOaYr+WPquWQq+epuuagvOeahOepuuihjOOAgiIsDQogICJydWxlLWhiOTc0YzQ5YTQ0NCDmmK/ml6DlvJXmlofnmoTmlofmoaPnuqfmnaHnm67vvIzlhbbmoIfpopjljbPmnKzku7bnrKzkuInku73lip7ms5XnmoTmlofku7blkI3vvIzmlYXmjInjgIzmnIDotLTpopjnmoTpgqPkuIDoioLjgI3mjILlnKjnrKzkuInoioLvvIzlubblkIzml7bnlZnlnKjmlofmoaPnuqcgaXRlbXPjgIIiLA0KICAi5p2h55uu6YeN5aSN77ya5ZCM5LiA5q615p2h5paH6KKr5oq95Y+W5Lik5qyh77yI5bim5p2h5Y+35LiO5LiN5bim5p2h5Y+35ZCE5LiA5p2h77yJ77yM5aaCIHB0LTE3MDhmMzkxODcgLyBwdC0zN2M0M2RlNzJl77yI56ys5Zub5p2h77yJ44CBcHQtZWNhNjJkZDNhNyAvIHB0LTg4NjRkMGIyNjjvvIjnrKzlha3mnaHvvInjgIFwdC02OGI3MmNmOWQ3IC8gcHQtNDQ4MjNlNzY2Ne+8iOesrOS4g+adoe+8ieOAgXB0LTFhNTAwOTFjNzAgLyBwdC0wOTE0YTljOWUz77yI56ys5YWr5p2h77yJ77yM5Lik5p2h6YO95Zyo5ZCM5LiA6IqC5YaF77yM5LiN5L2c5ZCI5bm244CCIg0KIF0NCn0=
+{
+ "key": "hb974c49a444",
+ "title": "中国传媒大学专业学位硕士研究生学位论文答辩工作办法",
+ "truncated": true,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "预答辩工作办法（本页仅存末段条文）",
+   "heading_kind": "derived",
+   "lines": [
+    2,
+    10
+   ],
+   "items": [
+    "pt-fe582ea80c",
+    "pt-aec0a77596",
+    "pt-149c783429",
+    "pt-dcd0f53646"
+   ],
+   "chars": 306
+  },
+  {
+   "no": "—",
+   "heading": "中国传媒大学学术学位硕士研究生学位论文答辩工作办法",
+   "heading_kind": "author",
+   "lines": [
+    13,
+    59
+   ],
+   "items": [
+    "pt-0a5e214be2",
+    "pt-8f33d0bfa2",
+    "pt-9fb33576f4",
+    "pt-aeddc7b394",
+    "pt-03f24a7c37",
+    "pt-8704bcb723",
+    "pt-b8d524cae2",
+    "pt-dbdfe6e692",
+    "pt-b351266d8c",
+    "pt-2baec08cae",
+    "pt-38d01300e8",
+    "pt-171c7508f9"
+   ],
+   "chars": 1431
+  },
+  {
+   "no": "—",
+   "heading": "中国传媒大学专业学位硕士研究生学位论文答辩工作办法",
+   "heading_kind": "author",
+   "lines": [
+    61,
+    113
+   ],
+   "items": [
+    "rule-hb974c49a444",
+    "pt-4d72b17fd8",
+    "pt-1708f39187",
+    "pt-fb6ed38fd6",
+    "pt-eca62dd3a7",
+    "pt-68b72cf9d7",
+    "pt-1a50091c70",
+    "pt-7b8dd84b31",
+    "pt-9bcdf61fee",
+    "pt-91269ea886",
+    "pt-687ef687df",
+    "pt-76cad8946b",
+    "pt-9bf565d0fe",
+    "pt-ca6d1e6ce6",
+    "pt-5d4df7c438",
+    "pt-37c43de72e",
+    "pt-8864d0b268",
+    "pt-44823e7665",
+    "pt-0914a9c9e3",
+    "pt-146a58645f",
+    "pt-1f54465fa1",
+    "pt-9553439375",
+    "pt-7850001768",
+    "pt-98a7a0139a",
+    "pt-77122a5258"
+   ],
+   "chars": 1647
+  }
+ ],
+ "items": [
+  "rule-hb974c49a444",
+  "pt-4d72b17fd8",
+  "pt-1708f39187",
+  "pt-fb6ed38fd6",
+  "pt-eca62dd3a7",
+  "pt-68b72cf9d7",
+  "pt-1a50091c70",
+  "pt-7b8dd84b31",
+  "pt-9bcdf61fee",
+  "pt-91269ea886",
+  "pt-687ef687df",
+  "pt-fe582ea80c",
+  "pt-aec0a77596",
+  "pt-149c783429",
+  "pt-dcd0f53646",
+  "pt-0a5e214be2",
+  "pt-8f33d0bfa2",
+  "pt-9fb33576f4",
+  "pt-aeddc7b394",
+  "pt-03f24a7c37",
+  "pt-8704bcb723",
+  "pt-b8d524cae2",
+  "pt-dbdfe6e692",
+  "pt-b351266d8c",
+  "pt-2baec08cae",
+  "pt-38d01300e8",
+  "pt-171c7508f9",
+  "pt-76cad8946b",
+  "pt-9bf565d0fe",
+  "pt-ca6d1e6ce6",
+  "pt-5d4df7c438",
+  "pt-37c43de72e",
+  "pt-8864d0b268",
+  "pt-44823e7665",
+  "pt-0914a9c9e3",
+  "pt-146a58645f",
+  "pt-1f54465fa1",
+  "pt-9553439375",
+  "pt-7850001768",
+  "pt-98a7a0139a",
+  "pt-77122a5258"
+ ],
+ "notes": [
+  "本件是汇编第 218–222 页的五页抽取，**文首被截断**：第 1 行是页码「- 218 -」，第 2 行「（十一）专家小组组长宣布预答辩会结束。」起承接上文，该《预答辩工作办法》的标题与第一条至第十一条未在本件内（应在上一页），故记 truncated=true；第 2–10 行（第十一条末项至第十五条）单列一节。",
+  "第 11 行（- 219 -）之后是《中国传媒大学学术学位硕士研究生学位论文答辩工作办法》（研究生院〔2025〕9 号）：第 13–14 行标题与文号、第 15–59 行第一条至第十四条；第 45 行夹着页码「- 220 -」，属节内页码。",
+  "第 60 行（- 221 -）之后是《中国传媒大学专业学位硕士研究生学位论文答辩工作办法》（研究生院〔2025〕11 号）：第 61–62 行标题与文号、第 63–113 行第一条至第十五条；第 93 行夹着页码「- 222 -」。",
+  "两份办法都只用「第X条」编号、没有章一级小标题，故按「一份办法 = 一节」切分，节名用各自的文件标题（逐字可见，author）；条内的「（一）…（十二）」是条文分项，未再拆子节。",
+  "第 1、11、60 行的页码未被任何节覆盖（纯页码行不作节首），形成覆盖空隙；第 12 行是只含空格的空行。",
+  "rule-hb974c49a444 是无引文的文档级条目，其标题即本件第三份办法的文件名，故按「最贴题的那一节」挂在第三节，并同时留在文档级 items。",
+  "条目重复：同一段条文被抽取两次（带条号与不带条号各一条），如 pt-1708f39187 / pt-37c43de72e（第四条）、pt-eca62dd3a7 / pt-8864d0b268（第六条）、pt-68b72cf9d7 / pt-44823e7665（第七条）、pt-1a50091c70 / pt-0914a9c9e3（第八条），两条都在同一节内，不作合并。"
+ ]
+}

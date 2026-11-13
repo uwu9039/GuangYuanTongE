@@ -1,1 +1,94 @@
-IiIi6K6t57uD44CM5bimIGRlbnNlIOmAmumBk+OAjeeahOaOkuW6j+WZqO+8mmBweXRob24gLW0gdG9vbHMudHJhaW5fZGVuc2VfcmFua2VyIFstLW1heC1xdWVyaWVzIDMwMDBdYAoK5LiOIGB0b29scy90cmFpbl9yYW5rZXIucHlgIOWQjOS4gOWll+ato+i0n+S+i+aehOmAoO+8iOWIq+WQjS/moIfpopjlvZPmn6Xor6LvvIxCTTI1IOWJjeWIl+W9k+ehrOi0n+S+i++8ie+8jArljLrliKvlj6rmnInkuKTngrnvvJoKCjEuIOeJueW+gemHjOWkmuS6hiBgZGVuc2Vfc2NvcmVgIC8gYGRlbnNlX3JhbmtfcmVjaXBg77yIZGVuc2Ug6YCa6YGT5Y+s5Zue55qE5YiG5LiO5ZCN5qyh77yJ77ybCjIuIOafpeivouWQkemHj+imgeecn+iwg+S6keerr++8jOaJgOS7peWFiCoq5om56YeP6aKE57yW56CBKirvvIjluKbnvJPlrZjvvInvvIzlho3pgJDmnaHot5HnibnlvoHjgIIKCuS6p+eJqSBgcmV0cmlldmFsL21vZGVsL3Jhbmtlcl9kZW5zZS5qc29uYO+8m+Wtl+mdouaooeWeiyBgcmFua2VyLmpzb25gIOS4jeWKqO+8jOS4pOWll+adg+mHjeWFseeUqArlkIzkuIDlpZfnibnlvoHkvY3vvIhkZW5zZSDlhbPpl63ml7bpgqPkuKTnu7TmgZLkuLogMO+8ieOAggoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGFyZ3BhcnNlCmltcG9ydCBqc29uCmltcG9ydCByYW5kb20KaW1wb3J0IHN5cwppbXBvcnQgdGltZQpmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgKCmltcG9ydCBudW1weSBhcyBucAoKUk9PVCA9IFBhdGgoX19maWxlX18pLnJlc29sdmUoKS5wYXJlbnRzWzFdCnN5cy5wYXRoLmluc2VydCgwLCBzdHIoUk9PVCkpCgpmcm9tIHJldHJpZXZhbC5kZW5zZSBpbXBvcnQgVmVjdG9yQ2FjaGUsIGVtYmVkX3RleHRzICAjIG5vcWE6IEU0MDIKZnJvbSByZXRyaWV2YWwuZW5naW5lIGltcG9ydCBFbmdpbmUgICAgICAgICAgICAgICAgICAgIyBub3FhOiBFNDAyCmZyb20gcmV0cmlldmFsLmZlYXR1cmVzIGltcG9ydCBGRUFUVVJFX05BTUVTICAgICAgICAgICMgbm9xYTogRTQwMgpmcm9tIHJldHJpZXZhbC5yYW5rZXIgaW1wb3J0IFJhbmtlciAgICAgICAgICAgICAgICAgICAjIG5vcWE6IEU0MDIKZnJvbSByZXRyaWV2YWwudGV4dCBpbXBvcnQgcXVlcnlfdGV4dCAgICAgICAgICAgICAgICAgIyBub3FhOiBFNDAyCmZyb20gdG9vbHMudHJhaW5fcmFua2VyIGltcG9ydCAoTl9IQVJELCBOX1JBTkRPTSwgYnVpbGRfcXVlcmllcywgICMgbm9xYTogRTQwMgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV2YWxfc3RyaW5ncywgZXZhbHVhdGUpCgpBUlQgPSBST09UIC8gInJldHJpZXZhbCIgLyAiYXJ0aWZhY3RzIgpNT0RFTCA9IFJPT1QgLyAicmV0cmlldmFsIiAvICJtb2RlbCIKCgpkZWYgbWFpbigpIC0+IE5vbmU6CiAgICBhcCA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKCkKICAgIGFwLmFkZF9hcmd1bWVudCgiLS1tYXgtcXVlcmllcyIsIHR5cGU9aW50LCBkZWZhdWx0PTMwMDApCiAgICBhcC5hZGRfYXJndW1lbnQoIi0tcm91bmRzIiwgdHlwZT1pbnQsIGRlZmF1bHQ9MSkKICAgIGFwLmFkZF9hcmd1bWVudCgiLS13b3JrZXJzIiwgdHlwZT1pbnQsIGRlZmF1bHQ9NCkKICAgIGFyZ3MgPSBhcC5wYXJzZV9hcmdzKCkKICAgIHJuZyA9IHJhbmRvbS5SYW5kb20oMTcpCiAgICB0MCA9IHRpbWUudGltZSgpCgogICAgZW5nID0gRW5naW5lLmxvYWQoZGVuc2U9VHJ1ZSkKICAgIGlmIG5vdCBlbmcudXNlX2RlbnNlOgogICAgICAgIHJhaXNlIFN5c3RlbUV4aXQoImRlbnNlIOe0ouW8leaIliBkZW5zZSDmnYPph43nvLrlpLHvvJrlhYjot5EgcHl0aG9uIC1tIHRvb2xzLmJ1aWxkX2RlbnNlIikKICAgIHByaW50KGYiZGVuc2Ug57Si5byVIHtlbmcuZGVuc2UubWF0LnNoYXBlfSBtb2RlbD17ZW5nLmRlbnNlLm1vZGVsfSIsIGZsdXNoPVRydWUpCgogICAgcXVlcmllcyA9IGJ1aWxkX3F1ZXJpZXMoZW5nLCBhcmdzLm1heF9xdWVyaWVzLCBybmcpCiAgICB0ZXh0cyA9IFtxIGZvciBxLCBfIGluIHF1ZXJpZXNdCiAgICBwcmludChmIuiuree7g+afpeivoiB7bGVuKHRleHRzKX0g5p2h77yM5YWI5om56YeP57yW56CB5p+l6K+i5ZCR6YeP4oCmIiwgZmx1c2g9VHJ1ZSkKICAgIGNhY2hlID0gVmVjdG9yQ2FjaGUoQVJUIC8gImRlbnNlIiAvICJjYWNoZS5zcWxpdGUiKQogICAgdmVjcyA9IGVtYmVkX3RleHRzKHRleHRzLCB0ZXh0X3R5cGU9InF1ZXJ5IiwgbW9kZWw9ZW5nLmRlbnNlLm1vZGVsLCBkaW09ZW5nLmRlbnNlLmRpbSwKICAgICAgICAgICAgICAgICAgICAgICB3b3JrZXJzPWFyZ3Mud29ya2VycywgY2FjaGU9Y2FjaGUsCiAgICAgICAgICAgICAgICAgICAgICAgb25fcHJvZ3Jlc3M9bGFtYmRhIGQsIG46IHByaW50KGYiICAgIHtkfS97bn0iLCBmbHVzaD1UcnVlKSBpZiBkICUgNTAwIDwgYXJncy53b3JrZXJzIGVsc2UgTm9uZSkKICAgIGZvciB0LCB2IGluIHppcCh0ZXh0cywgdmVjcyk6CiAgICAgICAgZW5nLl9xdlt0XSA9IHYKICAgIHByaW50KGYi5p+l6K+i5ZCR6YeP5bCx57uqIHt0aW1lLnRpbWUoKS10MDouMGZ9cyIsIGZsdXNoPVRydWUpCgogICAgWHMsIHlzID0gW10sIFtdCiAgICBmb3VuZCA9IDAKICAgIGZvciBuLCAoY29yZSwgZ29sZCkgaW4gZW51bWVyYXRlKHF1ZXJpZXMsIDEpOgogICAgICAgIGN0eCwgX2ZzLCBjYW5kLCBYID0gZW5nLnJldHJpZXZlKGNvcmUsIHVzZV9kZW5zZT1UcnVlLCByYXc9Y29yZSkKICAgICAgICBpZiBub3QgY2FuZCBvciBnb2xkIG5vdCBpbiBjYW5kOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIHBvcyA9IGNhbmQuaW5kZXgoZ29sZCkKICAgICAgICBmb3VuZCArPSAxCiAgICAgICAgcmFua19mZWF0ID0gWFs6LCBGRUFUVVJFX05BTUVTLmluZGV4KCJibTI1X3JhbmtfcmVjaXAiKV0KICAgICAgICBvcmRlciA9IG5wLmFyZ3NvcnQoLXJhbmtfZmVhdCkKICAgICAgICBuZWdzID0gW2ludChpKSBmb3IgaSBpbiBvcmRlciBpZiBpICE9IHBvc11bOk5fSEFSRF0KICAgICAgICBpZiBsZW4ob3JkZXIpID4gTl9IQVJEOgogICAgICAgICAgICBuZWdzICs9IHJuZy5zYW1wbGUoW2ludChpKSBmb3IgaSBpbiBvcmRlcltOX0hBUkQ6XV0sIG1pbihOX1JBTkRPTSwgbGVuKG9yZGVyKSAtIE5fSEFSRCkpCiAgICAgICAgcm93cyA9IFtwb3NdICsgbmVncwogICAgICAgIFhzLmFwcGVuZChYW3Jvd3NdKQogICAgICAgIHlzLmFwcGVuZChucC5hc2FycmF5KFsxLjBdICsgWzAuMF0gKiAobGVuKHJvd3MpIC0gMSksIGR0eXBlPW5wLmZsb2F0MzIpKQogICAgICAgIGlmIG4gJSA1MDAgPT0gMDoKICAgICAgICAgICAgcHJpbnQoZiIgICAge259L3tsZW4ocXVlcmllcyl9IOWRveS4reato+S+iyB7Zm91bmR9ICB7dGltZS50aW1lKCktdDA6LjBmfXMiLCBmbHVzaD1UcnVlKQogICAgWCA9IG5wLnZzdGFjayhYcykKICAgIHkgPSBucC5jb25jYXRlbmF0ZSh5cykKICAgIHByaW50KGYi6K6t57uD5a+5IHtsZW4oeSl977yI5q2j5L6LIHtpbnQoeS5zdW0oKSl977yJ77yM5YCZ6YCJ5Y+s5ZueIHtmb3VuZC9sZW4ocXVlcmllcyk6LjRmfSIsIGZsdXNoPVRydWUpCiAgICByYW5rZXIgPSBSYW5rZXIudHJhaW4oWCwgeSwgbDI9MC42LCBpdGVycz0xNCkKICAgIHJhbmtlci5zYXZlKE1PREVMIC8gInJhbmtlcl9kZW5zZS5qc29uIikKICAgIHByaW50KCLmnYPph43liY0gMTLvvJoiLCByYW5rZXIudG9wX2ZlYXR1cmVzKDEyKSwgZmx1c2g9VHJ1ZSkKICAgIGVuZy5yYW5rZXJfZGVuc2UgPSByYW5rZXIKICAgIGVuZy51c2VfZGVuc2UgPSBUcnVlCiAgICBwcmludCgi6K+E5rWL77yaIiwgZXZhbHVhdGUoZW5nKSwgZmx1c2g9VHJ1ZSkKICAgIHByaW50KGYi5a6M5oiQIHt0aW1lLnRpbWUoKS10MDouMGZ9cyIpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+"""训练「带 dense 通道」的排序器：`python -m tools.train_dense_ranker [--max-queries 3000]`
+
+与 `tools/train_ranker.py` 同一套正负例构造（别名/标题当查询，BM25 前列当硬负例），
+区别只有两点：
+
+1. 特征里多了 `dense_score` / `dense_rank_recip`（dense 通道召回的分与名次）；
+2. 查询向量要真调云端，所以先**批量预编码**（带缓存），再逐条跑特征。
+
+产物 `retrieval/model/ranker_dense.json`；字面模型 `ranker.json` 不动，两套权重共用
+同一套特征位（dense 关闭时那两维恒为 0）。
+"""
+from __future__ import annotations
+
+import argparse
+import json
+import random
+import sys
+import time
+from pathlib import Path
+
+import numpy as np
+
+ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT))
+
+from retrieval.dense import VectorCache, embed_texts  # noqa: E402
+from retrieval.engine import Engine                   # noqa: E402
+from retrieval.features import FEATURE_NAMES          # noqa: E402
+from retrieval.ranker import Ranker                   # noqa: E402
+from retrieval.text import query_text                 # noqa: E402
+from tools.train_ranker import (N_HARD, N_RANDOM, build_queries,  # noqa: E402
+                                eval_strings, evaluate)
+
+ART = ROOT / "retrieval" / "artifacts"
+MODEL = ROOT / "retrieval" / "model"
+
+
+def main() -> None:
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--max-queries", type=int, default=3000)
+    ap.add_argument("--rounds", type=int, default=1)
+    ap.add_argument("--workers", type=int, default=4)
+    args = ap.parse_args()
+    rng = random.Random(17)
+    t0 = time.time()
+
+    eng = Engine.load(dense=True)
+    if not eng.use_dense:
+        raise SystemExit("dense 索引或 dense 权重缺失：先跑 python -m tools.build_dense")
+    print(f"dense 索引 {eng.dense.mat.shape} model={eng.dense.model}", flush=True)
+
+    queries = build_queries(eng, args.max_queries, rng)
+    texts = [q for q, _ in queries]
+    print(f"训练查询 {len(texts)} 条，先批量编码查询向量…", flush=True)
+    cache = VectorCache(ART / "dense" / "cache.sqlite")
+    vecs = embed_texts(texts, text_type="query", model=eng.dense.model, dim=eng.dense.dim,
+                       workers=args.workers, cache=cache,
+                       on_progress=lambda d, n: print(f"    {d}/{n}", flush=True) if d % 500 < args.workers else None)
+    for t, v in zip(texts, vecs):
+        eng._qv[t] = v
+    print(f"查询向量就绪 {time.time()-t0:.0f}s", flush=True)
+
+    Xs, ys = [], []
+    found = 0
+    for n, (core, gold) in enumerate(queries, 1):
+        ctx, _fs, cand, X = eng.retrieve(core, use_dense=True, raw=core)
+        if not cand or gold not in cand:
+            continue
+        pos = cand.index(gold)
+        found += 1
+        rank_feat = X[:, FEATURE_NAMES.index("bm25_rank_recip")]
+        order = np.argsort(-rank_feat)
+        negs = [int(i) for i in order if i != pos][:N_HARD]
+        if len(order) > N_HARD:
+            negs += rng.sample([int(i) for i in order[N_HARD:]], min(N_RANDOM, len(order) - N_HARD))
+        rows = [pos] + negs
+        Xs.append(X[rows])
+        ys.append(np.asarray([1.0] + [0.0] * (len(rows) - 1), dtype=np.float32))
+        if n % 500 == 0:
+            print(f"    {n}/{len(queries)} 命中正例 {found}  {time.time()-t0:.0f}s", flush=True)
+    X = np.vstack(Xs)
+    y = np.concatenate(ys)
+    print(f"训练对 {len(y)}（正例 {int(y.sum())}），候选召回 {found/len(queries):.4f}", flush=True)
+    ranker = Ranker.train(X, y, l2=0.6, iters=14)
+    ranker.save(MODEL / "ranker_dense.json")
+    print("权重前 12：", ranker.top_features(12), flush=True)
+    eng.ranker_dense = ranker
+    eng.use_dense = True
+    print("评测：", evaluate(eng), flush=True)
+    print(f"完成 {time.time()-t0:.0f}s")
+
+
+if __name__ == "__main__":
+    main()

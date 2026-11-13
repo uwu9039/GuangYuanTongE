@@ -1,1 +1,70 @@
-IiIi5ouS562U6KeE5YiZ5b2S5Zug77ya5q+P5p2h6Zeu5Y+l6KKr5ZOq5p2h6KeE5YiZ5oum5LiL77yM55So5p2l5qCH5a6a6ZiI5YC844CCCgogICAgcHl0aG9uIC1tIF9ldmFsLmdhdGVfcnVsZV9wcm9iZQoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGpzb24KZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgQ291bnRlcgpmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgKCmZyb20gcmV0cmlldmFsLmVuZ2luZSBpbXBvcnQgRW5naW5lCmZyb20gcmV0cmlldmFsLmdhdGUgaW1wb3J0IGNvbnRleHRfZmVhdHVyZXMsIG90aGVyX3NjaG9vbHNfaGl0LCBvdXRfb2Zfc2NvcGVfaGl0LCBwZXJzb25hbF9oaXQKZnJvbSByZXRyaWV2YWwudGV4dCBpbXBvcnQgcXVlcnlfdGV4dAoKUk9PVCA9IFBhdGgoX19maWxlX18pLnJlc29sdmUoKS5wYXJlbnRzWzFdClNFVFMgPSBST09UIC8gIl9ldmFsIiAvICJzZXRzIgoKCmRlZiBsb2FkKG5hbWU6IHN0cikgLT4gbGlzdFtkaWN0XToKICAgIHAgPSBTRVRTIC8gZiJ7bmFtZX0uanNvbmwiCiAgICByZXR1cm4gW2pzb24ubG9hZHMobG4pIGZvciBsbiBpbiBwLnJlYWRfdGV4dChlbmNvZGluZz0idXRmLTgiKS5zcGxpdGxpbmVzKCkgaWYgbG4uc3RyaXAoKV0KCgpkZWYgbWFpbigpIC0+IE5vbmU6CiAgICBlbmcgPSBFbmdpbmUubG9hZCgpCiAgICBzZXRzID0ge246IGxvYWQobikgZm9yIG4gaW4gKCJwcmVzZXRzIiwgInBhcmFwaHJhc2UiLCAibmVnYXRpdmVzIiwgIm5lZ2F0aXZlc19oYXJkIil9CiAgICBmb3IgbmFtZSwgcm93cyBpbiBzZXRzLml0ZW1zKCk6CiAgICAgICAgY2F0czogQ291bnRlcltzdHJdID0gQ291bnRlcigpCiAgICAgICAgcnVsZV9oaXRzOiBDb3VudGVyW3N0cl0gPSBDb3VudGVyKCkKICAgICAgICB2YWxzID0gW10KICAgICAgICBmb3IgciBpbiByb3dzOgogICAgICAgICAgICByZXMgPSBlbmcuc2VhcmNoKHJbInEiXSwgaz01KQogICAgICAgICAgICBjb3JlID0gcXVlcnlfdGV4dChyWyJxIl0pCiAgICAgICAgICAgIGlmIHBlcnNvbmFsX2hpdChjb3JlKToKICAgICAgICAgICAgICAgIHJ1bGVfaGl0c1sicGVyc29uYWwiXSArPSAxCiAgICAgICAgICAgIGVsaWYgb3RoZXJfc2Nob29sc19oaXQoY29yZSk6CiAgICAgICAgICAgICAgICBydWxlX2hpdHNbIm90aGVyX3NjaG9vbCJdICs9IDEKICAgICAgICAgICAgZWxpZiBvdXRfb2Zfc2NvcGVfaGl0KGNvcmUpOgogICAgICAgICAgICAgICAgcnVsZV9oaXRzWyJvdXRfb2Zfc2NvcGUiXSArPSAxCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBjdHgsIF9mcywgY2FuZCwgWCA9IGVuZy5yZXRyaWV2ZShjb3JlKQogICAgICAgICAgICAgICAgaWYgbm90IGNhbmQ6CiAgICAgICAgICAgICAgICAgICAgcnVsZV9oaXRzWyJlbXB0eSJdICs9IDEKICAgICAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICAgICAgbG9naXRzID0gZW5nLnJhbmtlci5zY29yZShYKQogICAgICAgICAgICAgICAgb3JkZXIgPSBfX2ltcG9ydF9fKCJudW1weSIpLmFyZ3NvcnQoLWxvZ2l0cykKICAgICAgICAgICAgICAgIHByb2JzID0gMS4wIC8gKDEuMCArIF9faW1wb3J0X18oIm51bXB5IikuZXhwKC1fX2ltcG9ydF9fKCJudW1weSIpLmNsaXAobG9naXRzW29yZGVyXSwgLTMwLCAzMCkpKQogICAgICAgICAgICAgICAgZiA9IGNvbnRleHRfZmVhdHVyZXMoZW5nLml4LCBlbmcuY2FjaGUsIGN0eCwgWFtvcmRlclswXV0sIHByb2JzWzo1XSkKICAgICAgICAgICAgICAgIHZhbHMuYXBwZW5kKGYpCiAgICAgICAgICAgICAgICBpZiBmWzVdIDwgMC41NSBvciBmWzddICogbWF4KGxlbihjb3JlKSwgMSkgPj0gMzoKICAgICAgICAgICAgICAgICAgICBydWxlX2hpdHNbIm9mZl9kb21haW4iXSArPSAxCiAgICAgICAgICAgICAgICBlbGlmIGZbMl0gPCAwLjIyIGFuZCBmWzNdIDwgMC41IGFuZCBmWzRdIDwgMToKICAgICAgICAgICAgICAgICAgICBydWxlX2hpdHNbIm5vX21hdGNoX2NvdiJdICs9IDEKICAgICAgICAgICAgICAgIGVsaWYgZlswXSA8IDAuMTg6CiAgICAgICAgICAgICAgICAgICAgcnVsZV9oaXRzWyJub19tYXRjaF9wcm9iIl0gKz0gMQogICAgICAgICAgICBjYXRzW3Jlcy5yZWZ1c2VkIGFuZCAocmVzLnJlYXNvbiBvciAiPyIpWzo2XSBvciAib2siXSArPSAxCiAgICAgICAgcHJpbnQoZiJcblt7bmFtZX1dIG49e2xlbihyb3dzKX0g5ouS562UIHtzdW0oMSBmb3IgciBpbiByb3dzIGlmIGVuZy5zZWFyY2goclsncSddLCBrPTEpLnJlZnVzZWQpfSIpCiAgICAgICAgcHJpbnQoIiAg6KeE5YiZ5ZG95Lit77yaIiwgZGljdChydWxlX2hpdHMpKQogICAgICAgIGlmIHZhbHM6CiAgICAgICAgICAgIGltcG9ydCBudW1weSBhcyBucAogICAgICAgICAgICBhID0gbnAuYXNhcnJheSh2YWxzLCBkdHlwZT1mbG9hdCkKICAgICAgICAgICAgZm9yIGksIGtleSBpbiBlbnVtZXJhdGUoKCJ0b3BfcHJvYiIsICJtYXJnaW4iLCAiY292X3Nob3J0IiwgImV4YWN0IiwgInBocmFzZV9oaXQiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImNvdl9jb3JwdXMiLCAib292X3JhdGlvIiwgImxvbmdlc3Rfb292IikpOgogICAgICAgICAgICAgICAgcHJpbnQoZiIgICAge2tleToxMnN9IHAwNT17bnAucGVyY2VudGlsZShhWzosaV0sNSk6Ni4zZn0gcDI1PXtucC5wZXJjZW50aWxlKGFbOixpXSwyNSk6Ni4zZn0iCiAgICAgICAgICAgICAgICAgICAgICBmIiBtZWQ9e25wLm1lZGlhbihhWzosaV0pOjYuM2Z9IHA3NT17bnAucGVyY2VudGlsZShhWzosaV0sNzUpOjYuM2Z9IgogICAgICAgICAgICAgICAgICAgICAgZiIgcDk1PXtucC5wZXJjZW50aWxlKGFbOixpXSw5NSk6Ni4zZn0iKQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBtYWluKCkK
+"""拒答规则归因：每条问句被哪条规则拦下，用来标定阈值。
+
+    python -m _eval.gate_rule_probe
+"""
+from __future__ import annotations
+
+import json
+from collections import Counter
+from pathlib import Path
+
+from retrieval.engine import Engine
+from retrieval.gate import context_features, other_schools_hit, out_of_scope_hit, personal_hit
+from retrieval.text import query_text
+
+ROOT = Path(__file__).resolve().parents[1]
+SETS = ROOT / "_eval" / "sets"
+
+
+def load(name: str) -> list[dict]:
+    p = SETS / f"{name}.jsonl"
+    return [json.loads(ln) for ln in p.read_text(encoding="utf-8").splitlines() if ln.strip()]
+
+
+def main() -> None:
+    eng = Engine.load()
+    sets = {n: load(n) for n in ("presets", "paraphrase", "negatives", "negatives_hard")}
+    for name, rows in sets.items():
+        cats: Counter[str] = Counter()
+        rule_hits: Counter[str] = Counter()
+        vals = []
+        for r in rows:
+            res = eng.search(r["q"], k=5)
+            core = query_text(r["q"])
+            if personal_hit(core):
+                rule_hits["personal"] += 1
+            elif other_schools_hit(core):
+                rule_hits["other_school"] += 1
+            elif out_of_scope_hit(core):
+                rule_hits["out_of_scope"] += 1
+            else:
+                ctx, _fs, cand, X = eng.retrieve(core)
+                if not cand:
+                    rule_hits["empty"] += 1
+                    continue
+                logits = eng.ranker.score(X)
+                order = __import__("numpy").argsort(-logits)
+                probs = 1.0 / (1.0 + __import__("numpy").exp(-__import__("numpy").clip(logits[order], -30, 30)))
+                f = context_features(eng.ix, eng.cache, ctx, X[order[0]], probs[:5])
+                vals.append(f)
+                if f[5] < 0.55 or f[7] * max(len(core), 1) >= 3:
+                    rule_hits["off_domain"] += 1
+                elif f[2] < 0.22 and f[3] < 0.5 and f[4] < 1:
+                    rule_hits["no_match_cov"] += 1
+                elif f[0] < 0.18:
+                    rule_hits["no_match_prob"] += 1
+            cats[res.refused and (res.reason or "?")[:6] or "ok"] += 1
+        print(f"\n[{name}] n={len(rows)} 拒答 {sum(1 for r in rows if eng.search(r['q'], k=1).refused)}")
+        print("  规则命中：", dict(rule_hits))
+        if vals:
+            import numpy as np
+            a = np.asarray(vals, dtype=float)
+            for i, key in enumerate(("top_prob", "margin", "cov_short", "exact", "phrase_hit",
+                                     "cov_corpus", "oov_ratio", "longest_oov")):
+                print(f"    {key:12s} p05={np.percentile(a[:,i],5):6.3f} p25={np.percentile(a[:,i],25):6.3f}"
+                      f" med={np.median(a[:,i]):6.3f} p75={np.percentile(a[:,i],75):6.3f}"
+                      f" p95={np.percentile(a[:,i],95):6.3f}")
+
+
+if __name__ == "__main__":
+    main()

@@ -1,1 +1,224 @@
-ew0KICJrZXkiOiAi5paw6Ze75YWs5ZGKLTlmMDIwMjkxNDk5MTQxMTFmMDBiMDlhOGUzZWY0ZGYxMDQ2ZCIsDQogInRpdGxlIjogIuWbvuS5pummhuWFs+S6jjIwMjLlsYrmr5XkuJrnlJ/lip7nkIblm77kuablvZLov5jkuovlrpznmoTpgJrnn6UiLA0KICJ0cnVuY2F0ZWQiOiBmYWxzZSwNCiAic2VjdGlvbnMiOiBbDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5paH5Lu25aS077yI5qCH6aKY44CB5p2l5rqQ6ZO+5o6l44CB5qCP55uu44CB5L2c6ICF5LiO5Y+R5biD5pe26Ze077yJIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMSwNCiAgICA1DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC00Mjk4Yjc3OWVmIg0KICAgXSwNCiAgICJjaGFycyI6IDIyMQ0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuiHtOavleS4mueUn+eahOmAmuefpeW8gOevhyIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDcsDQogICAgOA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtOWM0ZTMwMWRmMiINCiAgIF0sDQogICAiY2hhcnMiOiA3NA0KICB9LA0KICB7DQogICAibm8iOiAi5LiA44CBIiwNCiAgICJoZWFkaW5nIjogIuS4gOOAgeWcqOagoeWGheeahOavleS4mueUnyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgOSwNCiAgICAyMw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZjkzOTA3YjU5MyINCiAgIF0sDQogICAiY2hhcnMiOiA0NDANCiAgfSwNCiAgew0KICAgIm5vIjogIuS4gMK3MSIsDQogICAiaGVhZGluZyI6ICLkuIDjgIHnjrDkvY/lnKjmooblrZDkupXlrabnlJ/lhazlr5PnmoTmr5XkuJrnlJ8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDExLA0KICAgIDE1DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1iNzM1OTA5ZTU4IiwNCiAgICAicHQtZGM2NDFjODg5OCIsDQogICAgInB0LWI3MzMwMGQxY2MiDQogICBdLA0KICAgImNoYXJzIjogMTE3DQogIH0sDQogIHsNCiAgICJubyI6ICLkuIDCtzIiLA0KICAgImhlYWRpbmciOiAi5LqM44CB546w5L2P5Zyo5Lit6JOd44CB5qCh5YaF5YWs5a+T5L2P5a6/55qE5q+V5Lia55SfIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNiwNCiAgICAxOQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNGQ5NDdkMTJhYSINCiAgIF0sDQogICAiY2hhcnMiOiA2NQ0KICB9LA0KICB7DQogICAibm8iOiAi5LiAwrczIiwNCiAgICJoZWFkaW5nIjogIuS4ieOAgemBl+WkseWbvuS5pui1lOWBv++8iOagoeWGhei/mOS5pua4oOmBk++8iSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDIwLA0KICAgIDIzDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1lYzcyMWJjMTQxIiwNCiAgICAicHQtMmVjZTNlNmMxYSINCiAgIF0sDQogICAiY2hhcnMiOiAxOTUNCiAgfSwNCiAgew0KICAgIm5vIjogIuS6jOOAgSIsDQogICAiaGVhZGluZyI6ICLkuozjgIHlnKjmoKHlpJbnmoTmr5XkuJrnlJ8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDI0LA0KICAgIDQ3DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC04ODI5OTIwZWQ1Ig0KICAgXSwNCiAgICJjaGFycyI6IDc0Nw0KICB9LA0KICB7DQogICAibm8iOiAi5LqMwrcxIiwNCiAgICJoZWFkaW5nIjogIuS4gOOAgeW/q+mAkui/mOS5piIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMjYsDQogICAgMzYNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTM0Yjk3NTZhM2EiLA0KICAgICJwdC1mMDBmYzU1MmVlIiwNCiAgICAicHQtYjkzOGZjNGYxZiINCiAgIF0sDQogICAiY2hhcnMiOiAyODUNCiAgfSwNCiAgew0KICAgIm5vIjogIuS6jMK3MiIsDQogICAiaGVhZGluZyI6ICLkuozjgIHlrr/oiI3mlLbkuaYiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDM3LA0KICAgIDQzDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC00YTliZDBhNDJlIiwNCiAgICAicHQtNjAwZWJlMTczYSIsDQogICAgInB0LTI0NTU0ODE3MzIiDQogICBdLA0KICAgImNoYXJzIjogMTc4DQogIH0sDQogIHsNCiAgICJubyI6ICLkuozCtzMiLA0KICAgImhlYWRpbmciOiAi5LiJ44CB6YGX5aSx5Zu+5Lmm6LWU5YG/77yI5qCh5aSW6L+Y5Lmm5rig6YGT77yJIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNDQsDQogICAgNDcNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDIxMQ0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIue7k+ivreOAgeiQveasvuS4juesrOS6jOS7veaWh+S7tueahOagh+mimCIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDQ4LA0KICAgIDUxDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1hMmRiMTE4Y2UzIg0KICAgXSwNCiAgICJjaGFycyI6IDUwDQogIH0sDQogIHsNCiAgICJubyI6ICLmjIfljZfCt+S4gCIsDQogICAiaGVhZGluZyI6ICLkuIDjgIFQQ+erryIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNTIsDQogICAgNjANCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTcwMzEwN2EyYjIiLA0KICAgICJwdC1jNDc2Yzc0ZDUwIiwNCiAgICAicHQtMjgyZThhNWZhZCIsDQogICAgInB0LTBmMDk4NDI4MjEiDQogICBdLA0KICAgImNoYXJzIjogNTY3DQogIH0sDQogIHsNCiAgICJubyI6ICLmjIfljZfCt+S6jCIsDQogICAiaGVhZGluZyI6ICLkuozjgIHnp7vliqjnq68iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDYxLA0KICAgIDcxDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC05NmUwNzMxOTU1IiwNCiAgICAicHQtOWUxNjdjZjM0OSIsDQogICAgInB0LThiNWEzYjM0OTUiLA0KICAgICJwdC1jMDRjNWNhOGEwIg0KICAgXSwNCiAgICJjaGFycyI6IDY2Mw0KICB9DQogXSwNCiAiaXRlbXMiOiBbDQogICJwdC00Mjk4Yjc3OWVmIiwNCiAgInB0LTljNGUzMDFkZjIiLA0KICAicHQtZjkzOTA3YjU5MyIsDQogICJwdC1iNzM1OTA5ZTU4IiwNCiAgInB0LWRjNjQxYzg4OTgiLA0KICAicHQtYjczMzAwZDFjYyIsDQogICJwdC00ZDk0N2QxMmFhIiwNCiAgInB0LTg4Mjk5MjBlZDUiLA0KICAicHQtMzRiOTc1NmEzYSIsDQogICJwdC1mMDBmYzU1MmVlIiwNCiAgInB0LWI5MzhmYzRmMWYiLA0KICAicHQtNGE5YmQwYTQyZSIsDQogICJwdC02MDBlYmUxNzNhIiwNCiAgInB0LTI0NTU0ODE3MzIiLA0KICAicHQtZWM3MjFiYzE0MSIsDQogICJwdC0yZWNlM2U2YzFhIiwNCiAgInB0LWEyZGIxMThjZTMiLA0KICAicHQtYzQ3NmM3NGQ1MCIsDQogICJwdC0yODJlOGE1ZmFkIiwNCiAgInB0LTBmMDk4NDI4MjEiLA0KICAicHQtNzAzMTA3YTJiMiIsDQogICJwdC05NmUwNzMxOTU1IiwNCiAgInB0LTllMTY3Y2YzNDkiLA0KICAicHQtOGI1YTNiMzQ5NSIsDQogICJwdC1jMDRjNWNhOGEwIg0KIF0sDQogIm5vdGVzIjogWw0KICAi5pys5paH5Lu25YW25a6e5pivKirkuKTku73mlofmoaPpppblsL7nm7jmjqUqKu+8muesrCAx4oCTNTAg6KGM5Li644CK5Zu+5Lmm6aaG5YWz5LqOMjAyMuWxiuavleS4mueUn+WKnueQhuWbvuS5puW9kui/mOS6i+WunOeahOmAmuefpeOAi++8iOesrCA0OeKAkzUwIOihjOiQveasvuOAjOS4reWbveS8oOWqkuWkp+WtpuWbvuS5pummhu+8jzIwMjLlubQ15pyIMjfml6XjgI3vvInvvIznrKwgNTEg6KGM6LW35piv56ys5LqM5Lu944CK5p+l6K+i5YCf6ZiF5L+h5oGv5Y+K5Lmm55uu6K+m57uG5L+h5oGv5oyH5Y2X44CL77yI5peg6JC95qy+77yM6Iez56ysIDcxIOihjOe7k+adn++8ieOAguagh+mimOWPluesrOS4gOS7veeahOagh+mimOOAgiIsDQogICLnvJblj7fph43lpI3vvJrnrKzkuIDku73ph4zjgIzkuIDjgIHlnKjmoKHlhoXnmoTmr5XkuJrnlJ/jgI3kuIvlj4jnlKjjgIzkuIDjgIHigKbmr5XkuJrnlJ/vvI/kuozjgIHigKbmr5XkuJrnlJ/vvI/kuInjgIHpgZflpLHlm77kuabotZTlgb/jgI3vvIznrKzkuozku73nmoTjgIzkuozjgIHlnKjmoKHlpJbnmoTmr5XkuJrnlJ/jgI3kuIvlkIzmoLfph43mjpLjgIzkuIDjgIHlv6vpgJLov5jkuabvvI/kuozjgIHlrr/oiI3mlLbkuabvvI/kuInjgIHpgZflpLHlm77kuabotZTlgb/jgI3igJTigJTljbPjgIzkuIDvvI/kuozvvI/kuInjgI3lnKjmlofkuK3lh7rnjrDkuKTova7vvIzoioIgYG5vYCDnlKjjgIzkuIDCtzHjgI3jgIzkuozCtzPjgI3ljLrliIblsYLnuqfkuI7ova7mrKHvvIzkuI3mjInlh7rnjrDpobrluo/nvJblj7fjgIIiLA0KICAi5Lik5Liq44CM5LiJ44CB6YGX5aSx5Zu+5Lmm6LWU5YG/44CN77yI56ysIDIwIOihjOOAgeesrCA0NCDooYzvvInmmK/moKHlhoXlpJbkuKTmnaHmuKDpgZPlkIToh6rnmoTotZTlgb/mnaHmrL7vvIzmraPmloflh6DkuY7nm7jlkIzvvIjnrKwgNDUg6KGM55qE54mI5pys5aSa5LiA5Y+l44CM6Iul6LSt5Lmw55qE5Zu+5Lmm5LiO5Y6f5Lmm54mI5pys5LiN5ZCM77yM6LWU5Lmm5omL57ut5bCG5LiN6IO95Yqe55CG44CN77yJ77yM5pWF5ZCE56uL5LiA6IqC44CB5LiN5ZCI5bm244CCIiwNCiAgIueItuWtkOiKgu+8muesrCA54oCTMjMg6KGM44CM5LiA44CB5Zyo5qCh5YaF55qE5q+V5Lia55Sf44CN5Li654i26IqC77yM56ysIDEx77yPMTbvvI8yMCDooYznmoTkuInmnaHkuLrlrZDoioLvvJvnrKwgMjTigJM0NyDooYzjgIzkuozjgIHlnKjmoKHlpJbnmoTmr5XkuJrnlJ/jgI3kuLrniLboioLvvIznrKwgMjbvvI8zN++8jzQ0IOihjOeahOS4ieadoeS4uuWtkOiKgu+8m+Wdh+ecn+W1jOWll+OAgiIsDQogICLnrKwgNiDooYzkuLrnqbrooYzvvJvnrKwgNDjigJM1MSDooYzmiornrKzkuIDku73nmoTnpZ3npo/or63kuI7okL3mrL7jgIHnrKzkuozku73nmoTmoIfpopjmlL7lnKjlkIzkuIDoioLigJTigJRwdC1hMmRiMTE4Y2UzIOeahOW8leaWh+S7juesrCA0OSDooYzokL3mrL7otbfjgIHot6jnrKwgNTDigJM1MSDooYzvvIzkuI3lubbov5vmnKzoioLlsLHokL3kuI3kuoblnLDjgIIiLA0KICAi56ys5LqM5Lu95paH5Lu25Y+q5pyJ44CM5LiA44CBUEPnq6/jgI3jgIzkuozjgIHnp7vliqjnq6/jgI3kuKTkuKrlsI/moIfpopjvvIjnrKwgNTLjgIE2MSDooYzvvIzpgJDlrZflj6/mn6XvvIzorrAgYXV0aG9y77yJ77yM5YW25LiL55So44CMMeOAgTLjgIEz44CB44CN57yW5Y+35LiU5q+P5q2l5ZCO6Lef5LiA6KGM44CMW+Wbvl0gL2VkaXRvci9wYy9maWxlcy9pbWFnZT9yZXNpZD3igKbjgI3vvIzov5nkupvlm77ooYzmmK/mraXpqqTphY3lm77jgIHkuI3ljZXni6znq4voioLvvIzmjInmraXlubblhaXmiYDlsZ7nq6/jgIIiLA0KICAicHQtNGQ5NDdkMTJhYSDnmoQgcXVvdGUg5LuO56ysIDE2IOihjOOAjOS6jOOAgeeOsOS9j+WcqOS4reiTneKApuOAjei1t+OAgeS4gOebtOS4suWIsOesrCAyMiDooYznmoTotZTlgb/mnaHmrL7vvIzmqKrot6jmnKzoioLkuI7kuIvkuIDoioLvvIzmjInlvJXmlofotbfngrnlvZLlhaXjgIzkuIDCtzLjgI3vvJtwdC03MDMxMDdhMmIyIOeahCBxdW90ZSDlsLHmmK/nrKwgNTQg6KGM55qE5Zu+54mH5Zyw5Z2A6KGM44CCIiwNCiAgIjI1IOS4quadoeebruWFqOacieW8leaWh+S4lOWFqOiQveWcqOacrOaWh++8jOaXoOaWh+aho+e6pyBydWxlLSog5p2h55uu44CB5peg6Leo5paH5Lu25byV55So77yb5q2j5paH5peg5oiq5pat44CCIg0KIF0NCn0=
+{
+ "key": "新闻公告-9f02029149914111f00b09a8e3ef4df1046d",
+ "title": "图书馆关于2022届毕业生办理图书归还事宜的通知",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "文件头（标题、来源链接、栏目、作者与发布时间）",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    5
+   ],
+   "items": [
+    "pt-4298b779ef"
+   ],
+   "chars": 221
+  },
+  {
+   "no": "—",
+   "heading": "致毕业生的通知开篇",
+   "heading_kind": "derived",
+   "lines": [
+    7,
+    8
+   ],
+   "items": [
+    "pt-9c4e301df2"
+   ],
+   "chars": 74
+  },
+  {
+   "no": "一、",
+   "heading": "一、在校内的毕业生",
+   "heading_kind": "author",
+   "lines": [
+    9,
+    23
+   ],
+   "items": [
+    "pt-f93907b593"
+   ],
+   "chars": 440
+  },
+  {
+   "no": "一·1",
+   "heading": "一、现住在梆子井学生公寓的毕业生",
+   "heading_kind": "author",
+   "lines": [
+    11,
+    15
+   ],
+   "items": [
+    "pt-b735909e58",
+    "pt-dc641c8898",
+    "pt-b73300d1cc"
+   ],
+   "chars": 117
+  },
+  {
+   "no": "一·2",
+   "heading": "二、现住在中蓝、校内公寓住宿的毕业生",
+   "heading_kind": "author",
+   "lines": [
+    16,
+    19
+   ],
+   "items": [
+    "pt-4d947d12aa"
+   ],
+   "chars": 65
+  },
+  {
+   "no": "一·3",
+   "heading": "三、遗失图书赔偿（校内还书渠道）",
+   "heading_kind": "derived",
+   "lines": [
+    20,
+    23
+   ],
+   "items": [
+    "pt-ec721bc141",
+    "pt-2ece3e6c1a"
+   ],
+   "chars": 195
+  },
+  {
+   "no": "二、",
+   "heading": "二、在校外的毕业生",
+   "heading_kind": "author",
+   "lines": [
+    24,
+    47
+   ],
+   "items": [
+    "pt-8829920ed5"
+   ],
+   "chars": 747
+  },
+  {
+   "no": "二·1",
+   "heading": "一、快递还书",
+   "heading_kind": "author",
+   "lines": [
+    26,
+    36
+   ],
+   "items": [
+    "pt-34b9756a3a",
+    "pt-f00fc552ee",
+    "pt-b938fc4f1f"
+   ],
+   "chars": 285
+  },
+  {
+   "no": "二·2",
+   "heading": "二、宿舍收书",
+   "heading_kind": "author",
+   "lines": [
+    37,
+    43
+   ],
+   "items": [
+    "pt-4a9bd0a42e",
+    "pt-600ebe173a",
+    "pt-2455481732"
+   ],
+   "chars": 178
+  },
+  {
+   "no": "二·3",
+   "heading": "三、遗失图书赔偿（校外还书渠道）",
+   "heading_kind": "derived",
+   "lines": [
+    44,
+    47
+   ],
+   "items": [],
+   "chars": 211
+  },
+  {
+   "no": "—",
+   "heading": "结语、落款与第二份文件的标题",
+   "heading_kind": "derived",
+   "lines": [
+    48,
+    51
+   ],
+   "items": [
+    "pt-a2db118ce3"
+   ],
+   "chars": 50
+  },
+  {
+   "no": "指南·一",
+   "heading": "一、PC端",
+   "heading_kind": "author",
+   "lines": [
+    52,
+    60
+   ],
+   "items": [
+    "pt-703107a2b2",
+    "pt-c476c74d50",
+    "pt-282e8a5fad",
+    "pt-0f09842821"
+   ],
+   "chars": 567
+  },
+  {
+   "no": "指南·二",
+   "heading": "二、移动端",
+   "heading_kind": "author",
+   "lines": [
+    61,
+    71
+   ],
+   "items": [
+    "pt-96e0731955",
+    "pt-9e167cf349",
+    "pt-8b5a3b3495",
+    "pt-c04c5ca8a0"
+   ],
+   "chars": 663
+  }
+ ],
+ "items": [
+  "pt-4298b779ef",
+  "pt-9c4e301df2",
+  "pt-f93907b593",
+  "pt-b735909e58",
+  "pt-dc641c8898",
+  "pt-b73300d1cc",
+  "pt-4d947d12aa",
+  "pt-8829920ed5",
+  "pt-34b9756a3a",
+  "pt-f00fc552ee",
+  "pt-b938fc4f1f",
+  "pt-4a9bd0a42e",
+  "pt-600ebe173a",
+  "pt-2455481732",
+  "pt-ec721bc141",
+  "pt-2ece3e6c1a",
+  "pt-a2db118ce3",
+  "pt-c476c74d50",
+  "pt-282e8a5fad",
+  "pt-0f09842821",
+  "pt-703107a2b2",
+  "pt-96e0731955",
+  "pt-9e167cf349",
+  "pt-8b5a3b3495",
+  "pt-c04c5ca8a0"
+ ],
+ "notes": [
+  "本文件其实是**两份文档首尾相接**：第 1–50 行为《图书馆关于2022届毕业生办理图书归还事宜的通知》（第 49–50 行落款「中国传媒大学图书馆／2022年5月27日」），第 51 行起是第二份《查询借阅信息及书目详细信息指南》（无落款，至第 71 行结束）。标题取第一份的标题。",
+  "编号重复：第一份里「一、在校内的毕业生」下又用「一、…毕业生／二、…毕业生／三、遗失图书赔偿」，第二份的「二、在校外的毕业生」下同样重排「一、快递还书／二、宿舍收书／三、遗失图书赔偿」——即「一／二／三」在文中出现两轮，节 `no` 用「一·1」「二·3」区分层级与轮次，不按出现顺序编号。",
+  "两个「三、遗失图书赔偿」（第 20 行、第 44 行）是校内外两条渠道各自的赔偿条款，正文几乎相同（第 45 行的版本多一句「若购买的图书与原书版本不同，赔书手续将不能办理」），故各立一节、不合并。",
+  "父子节：第 9–23 行「一、在校内的毕业生」为父节，第 11／16／20 行的三条为子节；第 24–47 行「二、在校外的毕业生」为父节，第 26／37／44 行的三条为子节；均真嵌套。",
+  "第 6 行为空行；第 48–51 行把第一份的祝福语与落款、第二份的标题放在同一节——pt-a2db118ce3 的引文从第 49 行落款起、跨第 50–51 行，不并进本节就落不了地。",
+  "第二份文件只有「一、PC端」「二、移动端」两个小标题（第 52、61 行，逐字可查，记 author），其下用「1、2、3、」编号且每步后跟一行「[图] /editor/pc/files/image?resid=…」，这些图行是步骤配图、不单独立节，按步并入所属端。",
+  "pt-4d947d12aa 的 quote 从第 16 行「二、现住在中蓝…」起、一直串到第 22 行的赔偿条款，横跨本节与下一节，按引文起点归入「一·2」；pt-703107a2b2 的 quote 就是第 54 行的图片地址行。",
+  "25 个条目全有引文且全落在本文，无文档级 rule-* 条目、无跨文件引用；正文无截断。"
+ ]
+}

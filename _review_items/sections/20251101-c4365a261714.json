@@ -1,1 +1,161 @@
-ewogICJrZXkiOiAiMjAyNTExMDEtYzQzNjVhMjYxNzE0IiwKICAidGl0bGUiOiAi56ys5LiD5bGK5YWo5Zu96auY562J6Zmi5qCh5L+h5oGv5Lyg5pKt5biI6LWE54+t5Zyo5q2m5rGJ5Li+5YqeIiwKICAidHJ1bmNhdGVkIjogZmFsc2UsCiAgInNlY3Rpb25zIjogWwogICAgewogICAgICAibm8iOiAi4oCUIiwKICAgICAgImhlYWRpbmciOiAi6aG16Z2i5qGG5p62IiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgICAgImxpbmVzIjogWzEsIDM0XSwKICAgICAgIml0ZW1zIjogWyJwdC1mZTI2MDUwODJjIl0sCiAgICAgICJjaGFycyI6IDMxNQogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuKAlCIsCiAgICAgICJoZWFkaW5nIjogIua0u+WKqOamguWGtSIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICAgICJsaW5lcyI6IFszNSwgMzVdLAogICAgICAiaXRlbXMiOiBbInB0LWM5OWE2NjI3NzEiXSwKICAgICAgImNoYXJzIjogMTIxCiAgICB9LAogICAgewogICAgICAibm8iOiAi4oCUIiwKICAgICAgImhlYWRpbmciOiAi5byA5bmV5byP6Ie06L6eIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgICAgImxpbmVzIjogWzM2LCAzN10sCiAgICAgICJpdGVtcyI6IFsicHQtOWZiNWY0ZTczNiJdLAogICAgICAiY2hhcnMiOiAyNDMKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLigJQiLAogICAgICAiaGVhZGluZyI6ICLkuK3lm73kvKDlqpLlpKflrablia/moKHplb/mn7TliZHlubPmlZnmjogiLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFszOCwgNDBdLAogICAgICAiaXRlbXMiOiBbInB0LTBiOTFhM2QyNmQiLCAicHQtNzA5NDU3MDFkNCJdLAogICAgICAiY2hhcnMiOiAzMDUKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLigJQiLAogICAgICAiaGVhZGluZyI6ICLkuK3ljZfmsJHml4/lpKflrablia/moKHplb/mlrnlvrfmlozmlZnmjogiLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFs0MSwgNDNdLAogICAgICAiaXRlbXMiOiBbInB0LTM4ZWMzYjA4YTQiXSwKICAgICAgImNoYXJzIjogMjQ5CiAgICB9LAogICAgewogICAgICAibm8iOiAi4oCUIiwKICAgICAgImhlYWRpbmciOiAi5a2m5ZGY5Luj6KGo5Y+R6KiAIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgICAgImxpbmVzIjogWzQ0LCA0N10sCiAgICAgICJpdGVtcyI6IFsicHQtN2JiZjY3ZjA2YSIsICJwdC1iZjFmZTQxODE1Il0sCiAgICAgICJjaGFycyI6IDI1MgogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuKAlCIsCiAgICAgICJoZWFkaW5nIjogIuWbm+WcuuS4u+mimOa8lOiusuamguiniCIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICAgICJsaW5lcyI6IFs0OCwgNDldLAogICAgICAiaXRlbXMiOiBbInB0LWNmMzU0NTJjZTciXSwKICAgICAgImNoYXJzIjogMjAxCiAgICB9LAogICAgewogICAgICAibm8iOiAi4oCUIiwKICAgICAgImhlYWRpbmciOiAi5YyX5Lqs5aSn5a2m5paw6Ze75LiO5Lyg5pKt5a2m6Zmi5Ymv6Zmi6ZW/44CB5Zu96ZmF5Lyg5pKt56CU56m26Zmi6Zmi6ZW/546L57u05L2z5pWZ5o6IIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbNTAsIDUyXSwKICAgICAgIml0ZW1zIjogWyJwdC03YWNkNjU5OGQ0Il0sCiAgICAgICJjaGFycyI6IDI4MgogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuKAlCIsCiAgICAgICJoZWFkaW5nIjogIuWNjuS4reenkeaKgOWkp+WtpuaWsOmXu+S4juS/oeaBr+S8oOaSreWtpumZouWNmuWjq+eUn+WvvOW4iOadjuWNq+S4nOaVmeaOiCIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzUzLCA1NF0sCiAgICAgICJpdGVtcyI6IFsicHQtYzdiNDA0OGU5MyJdLAogICAgICAiY2hhcnMiOiAxNDMKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLigJQiLAogICAgICAiaGVhZGluZyI6ICLkuK3lm73kvKDlqpLlpKflrabljZrlo6vnlJ/lr7zluIjjgIHjgIrnjrDku6PkvKDmkq3jgIvnvJbovpHpg6jkuLvku7vliJjkv4rmlZnmjogiLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFs1NSwgNTddLAogICAgICAiaXRlbXMiOiBbInB0LTdhZDE3NmJhZmQiXSwKICAgICAgImNoYXJzIjogMzM5CiAgICB9LAogICAgewogICAgICAibm8iOiAi4oCUIiwKICAgICAgImhlYWRpbmciOiAi56eR5aSn6K6v6aOe5pm65oWn5Lyg5aqS5Lia5Yqh6YOo5oC755uR6YK16Z2SIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbNTgsIDYwXSwKICAgICAgIml0ZW1zIjogWyJwdC02ZDRlYjllNGQyIl0sCiAgICAgICJjaGFycyI6IDIyNgogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuKAlCIsCiAgICAgICJoZWFkaW5nIjogIumXreW5leW8j+S4jue7k+S4muivgeS5pumigeWPkSIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICAgICJsaW5lcyI6IFs2MSwgNjVdLAogICAgICAiaXRlbXMiOiBbInB0LTdiZmViNGU3ZDEiLCAicHQtMDA3ZjkwODU0OCJdLAogICAgICAiY2hhcnMiOiAzNzUKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLigJQiLAogICAgICAiaGVhZGluZyI6ICLluIjotYTnj63lrablkZjku6Pooajlp5zmpaAiLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFs2NiwgNjhdLAogICAgICAiaXRlbXMiOiBbInB0LTMzZjEyMGZlOGIiXSwKICAgICAgImNoYXJzIjogMjE2CiAgICB9LAogICAgewogICAgICAibm8iOiAi4oCUIiwKICAgICAgImhlYWRpbmciOiAi5Lit5Zu95Lyg5aqS5aSn5a2m5L+h5oGv5Lyg5pKt5a2m6Zmi5Ymv6Zmi6ZW/5p2O57un5Lic5pWZ5o6IIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbNjksIDcxXSwKICAgICAgIml0ZW1zIjogWyJwdC04NTQxZDAyNTY3Il0sCiAgICAgICJjaGFycyI6IDI4NAogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuKAlCIsCiAgICAgICJoZWFkaW5nIjogIuW4iOi1hOePreiDjOaZryIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICAgICJsaW5lcyI6IFs3MiwgNzNdLAogICAgICAiaXRlbXMiOiBbInB0LWY0MThiNTA0N2MiXSwKICAgICAgImNoYXJzIjogMTEyCiAgICB9LAogICAgewogICAgICAibm8iOiAi4oCUIiwKICAgICAgImhlYWRpbmciOiAi6aG16ISa5LiO5Y+L5oOF6ZO+5o6lIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgICAgImxpbmVzIjogWzc0LCA5MV0sCiAgICAgICJpdGVtcyI6IFtdLAogICAgICAiY2hhcnMiOiAzOTMKICAgIH0KICBdLAogICJpdGVtcyI6IFsKICAgICJwdC1mZTI2MDUwODJjIiwKICAgICJwdC1jOTlhNjYyNzcxIiwKICAgICJwdC05ZmI1ZjRlNzM2IiwKICAgICJwdC0wYjkxYTNkMjZkIiwKICAgICJwdC03MDk0NTcwMWQ0IiwKICAgICJwdC0zOGVjM2IwOGE0IiwKICAgICJwdC03YmJmNjdmMDZhIiwKICAgICJwdC1iZjFmZTQxODE1IiwKICAgICJwdC1jZjM1NDUyY2U3IiwKICAgICJwdC03YWNkNjU5OGQ0IiwKICAgICJwdC1jN2I0MDQ4ZTkzIiwKICAgICJwdC03YWQxNzZiYWZkIiwKICAgICJwdC02ZDRlYjllNGQyIiwKICAgICJwdC03YmZlYjRlN2QxIiwKICAgICJwdC0wMDdmOTA4NTQ4IiwKICAgICJwdC0zM2YxMjBmZThiIiwKICAgICJwdC04NTQxZDAyNTY3IiwKICAgICJwdC1mNDE4YjUwNDdjIgogIF0sCiAgIm5vdGVzIjogWwogICAgIuacrOaWh+S4uue9kemhteaWsOmXu+mhte+8muesrDEtMzTooYzkuLrnq5nngrnlr7zoiKrjgIHmoI/nm67lpLTjgIHmraPmlofmoIfpopjph43lpI3kuI7lj5HluIPml7bpl7TvvIzlvZLjgIzpobXpnaLmoYbmnrbjgI3oioLvvJtwdC1mZTI2MDUwODJjIOeahOW8leaWh+WNs+mhtemdouagh+mimO+8jOiQveWcqOatpOiKguOAgiIsCiAgICAi5q2j5paH5peg5bCP5qCH6aKY77yM5LuF5pyJ5Zu+54mH6K+05piO77yI44CM5Lit5Zu95Lyg5aqS5aSn5a2m5Ymv5qCh6ZW/5p+05YmR5bmz5pWZ5o6I44CN562J5Lq654mp5Zu+5rOo77yJ77yb6L+Z5Lqb5Zu+5rOo6KGM5ZCM5pe25piv5ZCE5Y+R6KiA5q616JC955qE5a6e6ZmF6LW35aeL6KGM77yM5aSa5Liq5p2h55uu55qE5byV5paH6LW354K55q2j6JC95Zyo5Zu+5rOo6KGM77yM5pWF5oyJ5Zu+5rOo6KGM5YiH5YiG5Li65Y+R6KiA5bCP6IqC5bm25qCHIGF1dGhvcu+8iOWbvuazqOaWh+Wtl+WPr+WcqOacrOiKgumAkOWtl+afpeWIsO+8ieOAgiIsCiAgICAi56ysNDQtNDfooYzjgIzlrablkZjku6Pooajlj5HoqIDjgI3oioLoh6rlm77ms6jooYzotbfvvIzlm6AgcHQtN2JiZjY3ZjA2YeOAgXB0LWJmMWZlNDE4MTUg55qE5byV5paH5YiG5Yir6LW35LqO56ysNDTjgIE0NuihjOWbvuazqOOAgiIsCiAgICAi56ysNzQtOTHooYzkuLrpobXohJrjgIHlj4vmg4Xpk77mjqXkuI7lpIfmoYjkv6Hmga/vvIzml6DmnaHnm67jgIIiCiAgXQp9Cg==
+{
+  "key": "20251101-c4365a261714",
+  "title": "第七届全国高等院校信息传播师资班在武汉举办",
+  "truncated": false,
+  "sections": [
+    {
+      "no": "—",
+      "heading": "页面框架",
+      "heading_kind": "derived",
+      "lines": [1, 34],
+      "items": ["pt-fe2605082c"],
+      "chars": 315
+    },
+    {
+      "no": "—",
+      "heading": "活动概况",
+      "heading_kind": "derived",
+      "lines": [35, 35],
+      "items": ["pt-c99a662771"],
+      "chars": 121
+    },
+    {
+      "no": "—",
+      "heading": "开幕式致辞",
+      "heading_kind": "derived",
+      "lines": [36, 37],
+      "items": ["pt-9fb5f4e736"],
+      "chars": 243
+    },
+    {
+      "no": "—",
+      "heading": "中国传媒大学副校长柴剑平教授",
+      "heading_kind": "author",
+      "lines": [38, 40],
+      "items": ["pt-0b91a3d26d", "pt-70945701d4"],
+      "chars": 305
+    },
+    {
+      "no": "—",
+      "heading": "中南民族大学副校长方德斌教授",
+      "heading_kind": "author",
+      "lines": [41, 43],
+      "items": ["pt-38ec3b08a4"],
+      "chars": 249
+    },
+    {
+      "no": "—",
+      "heading": "学员代表发言",
+      "heading_kind": "derived",
+      "lines": [44, 47],
+      "items": ["pt-7bbf67f06a", "pt-bf1fe41815"],
+      "chars": 252
+    },
+    {
+      "no": "—",
+      "heading": "四场主题演讲概览",
+      "heading_kind": "derived",
+      "lines": [48, 49],
+      "items": ["pt-cf35452ce7"],
+      "chars": 201
+    },
+    {
+      "no": "—",
+      "heading": "北京大学新闻与传播学院副院长、国际传播研究院院长王维佳教授",
+      "heading_kind": "author",
+      "lines": [50, 52],
+      "items": ["pt-7acd6598d4"],
+      "chars": 282
+    },
+    {
+      "no": "—",
+      "heading": "华中科技大学新闻与信息传播学院博士生导师李卫东教授",
+      "heading_kind": "author",
+      "lines": [53, 54],
+      "items": ["pt-c7b4048e93"],
+      "chars": 143
+    },
+    {
+      "no": "—",
+      "heading": "中国传媒大学博士生导师、《现代传播》编辑部主任刘俊教授",
+      "heading_kind": "author",
+      "lines": [55, 57],
+      "items": ["pt-7ad176bafd"],
+      "chars": 339
+    },
+    {
+      "no": "—",
+      "heading": "科大讯飞智慧传媒业务部总监邵青",
+      "heading_kind": "author",
+      "lines": [58, 60],
+      "items": ["pt-6d4eb9e4d2"],
+      "chars": 226
+    },
+    {
+      "no": "—",
+      "heading": "闭幕式与结业证书颁发",
+      "heading_kind": "derived",
+      "lines": [61, 65],
+      "items": ["pt-7bfeb4e7d1", "pt-007f908548"],
+      "chars": 375
+    },
+    {
+      "no": "—",
+      "heading": "师资班学员代表姜楠",
+      "heading_kind": "author",
+      "lines": [66, 68],
+      "items": ["pt-33f120fe8b"],
+      "chars": 216
+    },
+    {
+      "no": "—",
+      "heading": "中国传媒大学信息传播学院副院长李继东教授",
+      "heading_kind": "author",
+      "lines": [69, 71],
+      "items": ["pt-8541d02567"],
+      "chars": 284
+    },
+    {
+      "no": "—",
+      "heading": "师资班背景",
+      "heading_kind": "derived",
+      "lines": [72, 73],
+      "items": ["pt-f418b5047c"],
+      "chars": 112
+    },
+    {
+      "no": "—",
+      "heading": "页脚与友情链接",
+      "heading_kind": "derived",
+      "lines": [74, 91],
+      "items": [],
+      "chars": 393
+    }
+  ],
+  "items": [
+    "pt-fe2605082c",
+    "pt-c99a662771",
+    "pt-9fb5f4e736",
+    "pt-0b91a3d26d",
+    "pt-70945701d4",
+    "pt-38ec3b08a4",
+    "pt-7bbf67f06a",
+    "pt-bf1fe41815",
+    "pt-cf35452ce7",
+    "pt-7acd6598d4",
+    "pt-c7b4048e93",
+    "pt-7ad176bafd",
+    "pt-6d4eb9e4d2",
+    "pt-7bfeb4e7d1",
+    "pt-007f908548",
+    "pt-33f120fe8b",
+    "pt-8541d02567",
+    "pt-f418b5047c"
+  ],
+  "notes": [
+    "本文为网页新闻页：第1-34行为站点导航、栏目头、正文标题重复与发布时间，归「页面框架」节；pt-fe2605082c 的引文即页面标题，落在此节。",
+    "正文无小标题，仅有图片说明（「中国传媒大学副校长柴剑平教授」等人物图注）；这些图注行同时是各发言段落的实际起始行，多个条目的引文起点正落在图注行，故按图注行切分为发言小节并标 author（图注文字可在本节逐字查到）。",
+    "第44-47行「学员代表发言」节自图注行起，因 pt-7bbf67f06a、pt-bf1fe41815 的引文分别起于第44、46行图注。",
+    "第74-91行为页脚、友情链接与备案信息，无条目。"
+  ]
+}

@@ -1,1 +1,44 @@
-IiIi5oqK5Yeg6YGT5YW45Z6L5qGI5L6L55qE54m55b6B5pGK5byA77yM55yL5piv5ZOq5LiA57u05oqK5q2j56Gu562U5qGI5Y6L5LiL5Y6755qE44CCIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBudW1weSBhcyBucAoKZnJvbSByZXRyaWV2YWwgaW1wb3J0IEVuZ2luZQpmcm9tIHJldHJpZXZhbC5mZWF0dXJlcyBpbXBvcnQgRkVBVFVSRV9OQU1FUwoKQ0FTRVMgPSBbCiAgICAoIuWbvuS5pummhuiDvee7reWAn+WQlyIsICJsaWItamlleXVlIiksCiAgICAoIue7n+S4gOi6q+S7veiupOivgei0puWPt+iiq+mUgeS6hueUs+iviSIsICJpdC1zaGVuc3UiKSwKICAgICgi5a2m55Sf55S15a2Q5Lqk6YCa5Y2h5oCO5LmI55Sz6aKG77yfIiwgIml0LWppYW90b25nIiksCiAgICAoIuaNoeWIsOS4gOW8oOagoeWbreWNoeS6pOWIsOWTqiIsICJ4eWsteWlzaGkiKSwKXQpTSE9XID0gKCJsb2dfYm0yNV90b3RhbCIsICJsb2dfYm0yNV9zaG9ydCIsICJsb2dfZ190aXRsZSIsICJsb2dfZ19ib2R5IiwgInRpdGxlX2VxIiwKICAgICAgICAidGl0bGVfaW5fcSIsICJhbGlhc19lcSIsICJhbGlhc19pbl9xIiwgImNvdl9zaG9ydCIsICJjb3ZfYm9keSIsICJraW5kX2hhbmQiLAogICAgICAgICJraW5kX2F1dG8iLCAia2luZF9wYXJhIiwgImhhbmRfdHdpbiIsICJ0d2luX25vbmhhbmQiLCAibG9nX2RvY19sZW4iLAogICAgICAgICJkZW5zZV9zY29yZSIsICJkZW5zZV9yYW5rX3JlY2lwIikKCgpkZWYgbWFpbigpIC0+IE5vbmU6CiAgICBlbmcgPSBFbmdpbmUubG9hZChkZW5zZT1UcnVlKQogICAgZm9yIHEsIGdvbGQgaW4gQ0FTRVM6CiAgICAgICAgcmVzID0gZW5nLnNlYXJjaChxLCBrPTMpCiAgICAgICAgY3R4LCBfZnMsIGNhbmQsIHggPSBlbmcucmV0cmlldmUocmVzLmNvcmUsIHVzZV9kZW5zZT1UcnVlLCByYXc9cSkKICAgICAgICBsb2dpdHMgPSAoZW5nLnJhbmtlcl9kZW5zZSBvciBlbmcucmFua2VyKS5zY29yZSh4KQogICAgICAgIG9yZGVyID0gbnAuYXJnc29ydCgtbG9naXRzKVs6M10KICAgICAgICBwcmludChmIlxuPT09IHtxfSAgICjmnJ/mnJsge2dvbGR9OiB7ZW5nLml0ZW1zLmdldChnb2xkLCB7fSkuZ2V0KCd0aXRsZScsICc/JylbOjI4XX0pIikKICAgICAgICBmb3IgaSBpbiBvcmRlcjoKICAgICAgICAgICAgZGkgPSBjYW5kW2ludChpKV0KICAgICAgICAgICAgZCA9IGVuZy5peC5kb2NzW2RpXQogICAgICAgICAgICBmZWF0cyA9IHtuOiByb3VuZChmbG9hdCh4W2ludChpKSwgRkVBVFVSRV9OQU1FUy5pbmRleChuKV0pLCAyKSBmb3IgbiBpbiBTSE9XfQogICAgICAgICAgICBwcmludChmIiAge2QuaWQ6MjJzfSB7ZC50aXRsZVs6MjRdOjI2c30gbG9naXQ9e2xvZ2l0c1tpbnQoaSldOi4yZn0gIgogICAgICAgICAgICAgICAgICBmImtpbmQ9e2Qua2luZH0gYXJjaD17ZC5hcmNoaXZlfSIpCiAgICAgICAgICAgIHByaW50KGYiICAgICB7ZmVhdHN9IikKICAgICAgICBpZiBnb2xkIGluIHtlbmcuaXguZG9jc1tjYW5kW2ludChpKV1dLmlkIGZvciBpIGluIG9yZGVyfToKICAgICAgICAgICAgcHJpbnQoIiAg77yIZ29sZCDlnKjliY0gM++8iSIpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgZGkgPSBlbmcuX2RvY19vZi5nZXQoZ29sZCwgLTEpCiAgICAgICAgICAgIHByaW50KGYiICBnb2xkIOaYr+WQpuWcqOWAmemAieaxoO+8mntkaSBpbiBjYW5kfSIpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+"""把几道典型案例的特征摊开，看是哪一维把正确答案压下去的。"""
+from __future__ import annotations
+
+import numpy as np
+
+from retrieval import Engine
+from retrieval.features import FEATURE_NAMES
+
+CASES = [
+    ("图书馆能续借吗", "lib-jieyue"),
+    ("统一身份认证账号被锁了申诉", "it-shensu"),
+    ("学生电子交通卡怎么申领？", "it-jiaotong"),
+    ("捡到一张校园卡交到哪", "xyk-yishi"),
+]
+SHOW = ("log_bm25_total", "log_bm25_short", "log_g_title", "log_g_body", "title_eq",
+        "title_in_q", "alias_eq", "alias_in_q", "cov_short", "cov_body", "kind_hand",
+        "kind_auto", "kind_para", "hand_twin", "twin_nonhand", "log_doc_len",
+        "dense_score", "dense_rank_recip")
+
+
+def main() -> None:
+    eng = Engine.load(dense=True)
+    for q, gold in CASES:
+        res = eng.search(q, k=3)
+        ctx, _fs, cand, x = eng.retrieve(res.core, use_dense=True, raw=q)
+        logits = (eng.ranker_dense or eng.ranker).score(x)
+        order = np.argsort(-logits)[:3]
+        print(f"\n=== {q}   (期望 {gold}: {eng.items.get(gold, {}).get('title', '?')[:28]})")
+        for i in order:
+            di = cand[int(i)]
+            d = eng.ix.docs[di]
+            feats = {n: round(float(x[int(i), FEATURE_NAMES.index(n)]), 2) for n in SHOW}
+            print(f"  {d.id:22s} {d.title[:24]:26s} logit={logits[int(i)]:.2f} "
+                  f"kind={d.kind} arch={d.archive}")
+            print(f"     {feats}")
+        if gold in {eng.ix.docs[cand[int(i)]].id for i in order}:
+            print("  （gold 在前 3）")
+        else:
+            di = eng._doc_of.get(gold, -1)
+            print(f"  gold 是否在候选池：{di in cand}")
+
+
+if __name__ == "__main__":
+    main()

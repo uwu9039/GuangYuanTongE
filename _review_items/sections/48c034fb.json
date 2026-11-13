@@ -1,1 +1,151 @@
-ew0KICJrZXkiOiAiNDhjMDM0ZmIiLA0KICJ0aXRsZSI6ICLmoKHlhoXlip7lhaznlLXor53nm7jlhbPkuJrliqHmtYHnqIsiLA0KICJ0cnVuY2F0ZWQiOiBmYWxzZSwNCiAic2VjdGlvbnMiOiBbDQogIHsNCiAgICJubyI6ICLkuIAiLA0KICAgImhlYWRpbmciOiAi5qCh5YaF5Yqe5YWs55S16K+d5aaC5L2V6L+b6KGM5oql5L+u44CB5ZKo6K+i44CB5p+l5Y+3IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxLA0KICAgIDMNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInJ1bGUtNDhjMDM0ZmIiLA0KICAgICJwdC0xOGRjYjkyYmRlIg0KICAgXSwNCiAgICJjaGFycyI6IDYyDQogIH0sDQogIHsNCiAgICJubyI6ICLkuowiLA0KICAgImhlYWRpbmciOiAi5qCh5YaF5Yqe5YWs55S16K+d55Sz6K+35byA6YCa5Y+K5rOo6ZSA5Lia5Yqh5rWB56iLIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA0LA0KICAgIDIwDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC04MmEzY2Y3Nzc4IiwNCiAgICAicHQtZjFkNTNjOGViZiINCiAgIF0sDQogICAiY2hhcnMiOiA0NDYNCiAgfSwNCiAgew0KICAgIm5vIjogIuS6jOOAgTEiLA0KICAgImhlYWRpbmciOiAi572R5LiK5aGr5oql55Sz6K+3IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1LA0KICAgIDEzDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC04NGE3NTI3YWFjIg0KICAgXSwNCiAgICJjaGFycyI6IDI1Mg0KICB9LA0KICB7DQogICAibm8iOiAi5LqM44CBMiIsDQogICAiaGVhZGluZyI6ICLotLnnlKjmlK/ku5giLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDE0LA0KICAgIDE3DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0wZGFkM2Q4YTA3Ig0KICAgXSwNCiAgICJjaGFycyI6IDk1DQogIH0sDQogIHsNCiAgICJubyI6ICLkuIkiLA0KICAgImhlYWRpbmciOiAi5qCh5YaF5Yqe5YWs55S16K+d55Sz6K+356e75py65oiW5paw6KOF55S16K+d55qE5q2l6aqkIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyMSwNCiAgICA1MA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNTQyZjZjM2IxMyINCiAgIF0sDQogICAiY2hhcnMiOiA2MjINCiAgfSwNCiAgew0KICAgIm5vIjogIuS4ieOAgTEiLA0KICAgImhlYWRpbmciOiAi546w5Zy65YuY5p+lIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyNCwNCiAgICAyNw0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogNzkNCiAgfSwNCiAgew0KICAgIm5vIjogIuS4ieOAgTIiLA0KICAgImhlYWRpbmciOiAi5YeG5aSH55u45YWz5p2Q5paZIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyOCwNCiAgICAzOA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtYWZiNGNiZDYxMCIsDQogICAgInB0LWVlMDRkNGRlODAiDQogICBdLA0KICAgImNoYXJzIjogMjcwDQogIH0sDQogIHsNCiAgICJubyI6ICLkuInjgIEzIiwNCiAgICJoZWFkaW5nIjogIue9keS4iuWhq+aKpeeUs+ivtyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMzksDQogICAgNDcNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTY3Zjg4OWRjNWEiLA0KICAgICJwdC03ZmU3NDE4ZDhhIiwNCiAgICAicHQtOWYyMjRjNmYzYiINCiAgIF0sDQogICAiY2hhcnMiOiAxOTANCiAgfSwNCiAgew0KICAgIm5vIjogIuS4ieOAgTQiLA0KICAgImhlYWRpbmciOiAi6LS555So5pSv5LuYIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA0OCwNCiAgICA1MA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtYmMzNjhlOTkwYSINCiAgIF0sDQogICAiY2hhcnMiOiA1Mw0KICB9DQogXSwNCiAiaXRlbXMiOiBbDQogICJydWxlLTQ4YzAzNGZiIiwNCiAgInB0LTE4ZGNiOTJiZGUiLA0KICAicHQtODJhM2NmNzc3OCIsDQogICJwdC04NGE3NTI3YWFjIiwNCiAgInB0LTBkYWQzZDhhMDciLA0KICAicHQtZjFkNTNjOGViZiIsDQogICJwdC01NDJmNmMzYjEzIiwNCiAgInB0LWFmYjRjYmQ2MTAiLA0KICAicHQtZWUwNGQ0ZGU4MCIsDQogICJwdC02N2Y4ODlkYzVhIiwNCiAgInB0LTdmZTc0MThkOGEiLA0KICAicHQtOWYyMjRjNmYzYiIsDQogICJwdC1iYzM2OGU5OTBhIg0KIF0sDQogIm5vdGVzIjogWw0KICAi5Y6f5paH5peg44CM56ugL+adoeOAje+8jOWPquacieS4ieS4quS4gOe6p+Wwj+agh+mimO+8iOS4gOOAgeS6jOOAgeS4ie+8ieS4juWQhOiHqueahOe8luWPt+atpemqpO+8m2hlYWRpbmcg5Y+W5Y6f5paH5bCP5qCH6aKY6YCQ5a2X77yIYXV0aG9y77yJ77yM5bqP5Y+35pS+5ZyoIG5vIOWtl+auteOAgiIsDQogICLnrKzkuIDoioLljLrpl7Toh6rnrKwx6KGM77yI5paH5qGj5qCH6aKY44CM5qCh5YaF5Yqe5YWs55S16K+d55u45YWz5Lia5Yqh5rWB56iL44CN77yJ6LW377ya5p2h55uuIHB0LTE4ZGNiOTJiZGUg55qE5byV5paH5LuO5paH5qGj5qCH6aKY6KGM6LW35Y+l77yM5pWF5oqK5qCH6aKY6KGM5ZyI6L+b56ys5LiA6IqC44CCIiwNCiAgIuesrOS6jOiKguWQq+S4pOS4quWtkOatpemqpO+8iDEg572R5LiK5aGr5oql55Sz6K+344CBMiDotLnnlKjmlK/ku5jvvInkuI7mnKvlsL7jgIzms6jvvJrmnKznu7zlkIjlrqHmibnlubPlj7DigKblhaXlj6PigKbjgI3vvIjnrKwxOOKAlDIw6KGM77yM5peg54us56uL5qCH6aKY77yJ77yb54i26IqCIGl0ZW1zIOWPquaUvuiQveWcqOi/meS4pOWkhOS5i+WklueahOihjO+8iOazqOS4juOAjOeUs+ivt+a1geeoi+WmguWbvuaJgOekuuOAje+8ieeahOadoeebruOAgiIsDQogICLnrKzkuInoioLljLrpl7Toh6rnrKwyMeihjOOAjOeUs+ivt+a1geeoi+WmguWbvuaJgOekuu+8muOAjei1t++8muadoeebriBwdC01NDJmNmMzYjEzIOeahOW8leaWh+S7juivpeWbvuazqOi3qOWIsOesrOS4ieiKguagh+mimOihjO+8jOivpeWbvuWNs+enu+acui/mlrDoo4XmtYHnqIvphY3lm77vvIzmlYXlm77ms6jooYzlvZLlhaXnrKzkuInoioLjgIIiLA0KICAi5paH5qGj57qn5p2h55uuIHJ1bGUtNDhjMDM0ZmIg5peg5byV5paH77yM5oyJ57qm5a6a6JC95Zyo56ys5LiA6IqC77yI5paH5qGj5byA5aS077yJ77yM5bm25YiX5YWl5paH5qGj57qnIGl0ZW1z44CCIiwNCiAgIueItuiKgu+8iOS6jOOAgeS4ie+8iWNoYXJzIOWQq+WFtuWtkOiKguWMuumXtO+8iOecn+W1jOWll++8jOWMuumXtOWtl+espuaVsOmHjeWkjeiuoeeul++8jOaVheWQhOiKguS5i+WSjOWkp+S6juWFqOaWhyAxMTc5IOWtl++8ieOAgiIsDQogICLnrKwyMuihjOS4uuepuuihjO+8m+acq+WPpeOAjOKApuWcqOWKnueQhuWujOaIkOeahOW9k+aciOivnei0ueS4reaJo+mZpOOAguOAjeiHqueEtuaUtuadn+OAguWOnyBkb2N4IOagh+ensCA2IOmhteiAjOato+aWh+S7hSAxMTc5IOWtl++8jOaWh+S4reS4pOWkhOOAjOWmguWbvuaJgOekuuOAjeeahOa1geeoi+ekuuaEj+Wbvuacquiiq+aPkOWPluaIkOaWh+Wtl++8jOacquWPkeeOsOaWh+Wtl+iiq+aIquaWreeahOeXlei/ueOAgiINCiBdDQp9DQo=
+{
+ "key": "48c034fb",
+ "title": "校内办公电话相关业务流程",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "一",
+   "heading": "校内办公电话如何进行报修、咨询、查号",
+   "heading_kind": "author",
+   "lines": [
+    1,
+    3
+   ],
+   "items": [
+    "rule-48c034fb",
+    "pt-18dcb92bde"
+   ],
+   "chars": 62
+  },
+  {
+   "no": "二",
+   "heading": "校内办公电话申请开通及注销业务流程",
+   "heading_kind": "author",
+   "lines": [
+    4,
+    20
+   ],
+   "items": [
+    "pt-82a3cf7778",
+    "pt-f1d53c8ebf"
+   ],
+   "chars": 446
+  },
+  {
+   "no": "二、1",
+   "heading": "网上填报申请",
+   "heading_kind": "author",
+   "lines": [
+    5,
+    13
+   ],
+   "items": [
+    "pt-84a7527aac"
+   ],
+   "chars": 252
+  },
+  {
+   "no": "二、2",
+   "heading": "费用支付",
+   "heading_kind": "author",
+   "lines": [
+    14,
+    17
+   ],
+   "items": [
+    "pt-0dad3d8a07"
+   ],
+   "chars": 95
+  },
+  {
+   "no": "三",
+   "heading": "校内办公电话申请移机或新装电话的步骤",
+   "heading_kind": "author",
+   "lines": [
+    21,
+    50
+   ],
+   "items": [
+    "pt-542f6c3b13"
+   ],
+   "chars": 622
+  },
+  {
+   "no": "三、1",
+   "heading": "现场勘查",
+   "heading_kind": "author",
+   "lines": [
+    24,
+    27
+   ],
+   "items": [],
+   "chars": 79
+  },
+  {
+   "no": "三、2",
+   "heading": "准备相关材料",
+   "heading_kind": "author",
+   "lines": [
+    28,
+    38
+   ],
+   "items": [
+    "pt-afb4cbd610",
+    "pt-ee04d4de80"
+   ],
+   "chars": 270
+  },
+  {
+   "no": "三、3",
+   "heading": "网上填报申请",
+   "heading_kind": "author",
+   "lines": [
+    39,
+    47
+   ],
+   "items": [
+    "pt-67f889dc5a",
+    "pt-7fe7418d8a",
+    "pt-9f224c6f3b"
+   ],
+   "chars": 190
+  },
+  {
+   "no": "三、4",
+   "heading": "费用支付",
+   "heading_kind": "author",
+   "lines": [
+    48,
+    50
+   ],
+   "items": [
+    "pt-bc368e990a"
+   ],
+   "chars": 53
+  }
+ ],
+ "items": [
+  "rule-48c034fb",
+  "pt-18dcb92bde",
+  "pt-82a3cf7778",
+  "pt-84a7527aac",
+  "pt-0dad3d8a07",
+  "pt-f1d53c8ebf",
+  "pt-542f6c3b13",
+  "pt-afb4cbd610",
+  "pt-ee04d4de80",
+  "pt-67f889dc5a",
+  "pt-7fe7418d8a",
+  "pt-9f224c6f3b",
+  "pt-bc368e990a"
+ ],
+ "notes": [
+  "原文无「章/条」，只有三个一级小标题（一、二、三）与各自的编号步骤；heading 取原文小标题逐字（author），序号放在 no 字段。",
+  "第一节区间自第1行（文档标题「校内办公电话相关业务流程」）起：条目 pt-18dcb92bde 的引文从文档标题行起句，故把标题行圈进第一节。",
+  "第二节含两个子步骤（1 网上填报申请、2 费用支付）与末尾「注：本综合审批平台…入口…」（第18—20行，无独立标题）；父节 items 只放落在这两处之外的行（注与「申请流程如图所示」）的条目。",
+  "第三节区间自第21行「申请流程如图所示：」起：条目 pt-542f6c3b13 的引文从该图注跨到第三节标题行，该图即移机/新装流程配图，故图注行归入第三节。",
+  "文档级条目 rule-48c034fb 无引文，按约定落在第一节（文档开头），并列入文档级 items。",
+  "父节（二、三）chars 含其子节区间（真嵌套，区间字符数重复计算，故各节之和大于全文 1179 字）。",
+  "第22行为空行；末句「…在办理完成的当月话费中扣除。」自然收束。原 docx 标称 6 页而正文仅 1179 字，文中两处「如图所示」的流程示意图未被提取成文字，未发现文字被截断的痕迹。"
+ ]
+}

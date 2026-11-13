@@ -1,1 +1,211 @@
-ewogICJrZXkiOiAiYXR0LTI1MGNiN2E5MzkiLAogICJ0aXRsZSI6ICLkuK3lm73kvKDlqpLlpKflrabmlbDlrZflqpLkvZPnu4/mtY7lvq7kuJPkuJoyMDI25bm056eL5a2j5oub55Sf566A56ugIiwKICAidHJ1bmNhdGVkIjogZmFsc2UsCiAgInNlY3Rpb25zIjogWwogICAgewogICAgICAibm8iOiAi4oCUIiwKICAgICAgImhlYWRpbmciOiAi6aG16Z2i5qGG5p62IiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgICAgImxpbmVzIjogWzEsIDZdLAogICAgICAiaXRlbXMiOiBbInB0LTRjZDAwNDljNDkiXSwKICAgICAgImNoYXJzIjogMjYKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLkuIDjgIEiLAogICAgICAiaGVhZGluZyI6ICLlvq7kuJPkuJrku4vnu40iLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFs3LCAzMV0sCiAgICAgICJpdGVtcyI6IFsicHQtNDI5YWMzODNlZCIsICJwdC1iZmI2MjkyNDcwIiwgInB0LTBlODUwYmVmN2IiLCAicHQtYTgxMDA2Y2YyZiJdLAogICAgICAiY2hhcnMiOiA2OTcKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLkuozjgIEiLAogICAgICAiaGVhZGluZyI6ICLln7nlhbvnm67moIciLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFszMywgMzldLAogICAgICAiaXRlbXMiOiBbInB0LTI2YzEzMWUwNWMiXSwKICAgICAgImNoYXJzIjogMTU2CiAgICB9LAogICAgewogICAgICAibm8iOiAi5LiJ44CBIiwKICAgICAgImhlYWRpbmciOiAi5Z+55YW76KaB5rGCIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbNDEsIDQ3XSwKICAgICAgIml0ZW1zIjogWyJwdC01YWMyNWI0NTlhIiwgInB0LTE2ZmI3NDE3YmQiLCAicHQtYzlmMGVmYTViOSJdLAogICAgICAiY2hhcnMiOiAxNDAKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLlm5vjgIEiLAogICAgICAiaGVhZGluZyI6ICLmi5vnlJ/lr7nosaHlj4rmnaHku7YiLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFs0OSwgNTZdLAogICAgICAiaXRlbXMiOiBbInB0LWRkZGRhZGU0NGQiXSwKICAgICAgImNoYXJzIjogMTI3CiAgICB9LAogICAgewogICAgICAibm8iOiAi5LqU44CB5YWt44CBIiwKICAgICAgImhlYWRpbmciOiAi5a2m5Yi25LiO5o6I6K++5pa55byPIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgICAgImxpbmVzIjogWzU4LCA2M10sCiAgICAgICJpdGVtcyI6IFsicHQtMGQzYjA1YjJmYyJdLAogICAgICAiY2hhcnMiOiA1NgogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuS4g+OAgSIsCiAgICAgICJoZWFkaW5nIjogIuWtpuWIhuiupOWumuS4juivgeS5pumigeWPkSIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzY1LCA3Ml0sCiAgICAgICJpdGVtcyI6IFsicHQtMjIyY2I3MGM0NiJdLAogICAgICAiY2hhcnMiOiAxNTQKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLlhavjgIEiLAogICAgICAiaGVhZGluZyI6ICLmi5vnlJ/ml7bpl7TlronmjpLlj4rmiqXlkI3mlrnlvI8iLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFs3MywgOTBdLAogICAgICAiaXRlbXMiOiBbInB0LWQ0OWI0ZGU2MmQiLCAicHQtMDI0ZDQ4NTdmZiIsICJwdC01ODFmYmYyYmZkIl0sCiAgICAgICJjaGFycyI6IDI1MgogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuS5neOAgSIsCiAgICAgICJoZWFkaW5nIjogIuWSqOivouaWueW8jyIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzkxLCA5M10sCiAgICAgICJpdGVtcyI6IFsicHQtN2MwZDcwZTUwZCJdLAogICAgICAiY2hhcnMiOiA4NQogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuWNgeOAgSIsCiAgICAgICJoZWFkaW5nIjogIuW+ruS4k+S4muivvueoi+i0ueeUqCIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzk1LCA5OF0sCiAgICAgICJpdGVtcyI6IFsicHQtZmU4NjM5NzIxOSJdLAogICAgICAiY2hhcnMiOiA1OQogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuWNgeS4gOOAgSIsCiAgICAgICJoZWFkaW5nIjogIuivvueoi+iuvue9ruWPiuWtpuaXtuWIhumFjeihqCIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzEwMCwgMTIwXSwKICAgICAgIml0ZW1zIjogWyJwdC03MjUwZTlhZTdkIiwgInB0LTYxNGM3MjE4ZDkiXSwKICAgICAgImNoYXJzIjogMjM0CiAgICB9LAogICAgewogICAgICAibm8iOiAi5Y2B5LqM44CBIiwKICAgICAgImhlYWRpbmciOiAi5b6u5LiT5Lia6K++56iL566A5LuLIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbMTIyLCAxNjldLAogICAgICAiaXRlbXMiOiBbXSwKICAgICAgImNoYXJzIjogMTIxOQogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuWNgeS6jO+8iDHvvIkiLAogICAgICAiaGVhZGluZyI6ICIxLue7j+a1juWtpuWOn+eQhiIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzEyMywgMTI5XSwKICAgICAgIml0ZW1zIjogWyJwdC1kNTY2NGEzMjM2Il0sCiAgICAgICJjaGFycyI6IDE3OAogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuWNgeS6jO+8iDLvvIkiLAogICAgICAiaGVhZGluZyI6ICIyLuaVsOWtl+WqkuS9k+e7j+a1juWtpiIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzEzMSwgMTM2XSwKICAgICAgIml0ZW1zIjogWyJwdC1hOWIwZTcxZDE2Il0sCiAgICAgICJjaGFycyI6IDE1MQogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuWNgeS6jO+8iDPvvIkiLAogICAgICAiaGVhZGluZyI6ICIzLuW9k+S7o+S4reWbvee7j+a1jiIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzEzNywgMTQyXSwKICAgICAgIml0ZW1zIjogWyJwdC04ZjE2NTdmZjM4Il0sCiAgICAgICJjaGFycyI6IDE1MQogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuWNgeS6jO+8iDTvvIkiLAogICAgICAiaGVhZGluZyI6ICI0LuaVsOWtl+iQpemUgEEiLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFsxNDMsIDE0OF0sCiAgICAgICJpdGVtcyI6IFsicHQtMmUwODBhY2NiNCJdLAogICAgICAiY2hhcnMiOiAxNTcKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLljYHkuozvvIg177yJIiwKICAgICAgImhlYWRpbmciOiAiNS7mlbDlrZflqpLkvZPkuqfkuJrmlL/nrZYiLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFsxNDksIDE1M10sCiAgICAgICJpdGVtcyI6IFsicHQtMzM3ODJhOTRjNSJdLAogICAgICAiY2hhcnMiOiAxNDIKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLljYHkuozvvIg277yJIiwKICAgICAgImhlYWRpbmciOiAiNi7mlbDlrZfnu4/mtY7mmbrog73lubPlj7Dku7/nnJ8iLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFsxNTQsIDE1OF0sCiAgICAgICJpdGVtcyI6IFsicHQtOTVkM2I0YTIzNiJdLAogICAgICAiY2hhcnMiOiAxMTkKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLljYHkuozvvIg377yJIiwKICAgICAgImhlYWRpbmciOiAiNy7llYbliqHlpKfmlbDmja7liIbmnpAiLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFsxNTksIDE2NF0sCiAgICAgICJpdGVtcyI6IFsicHQtMDllZWNmZTc5MiJdLAogICAgICAiY2hhcnMiOiAxNzgKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLljYHkuozvvIg477yJIiwKICAgICAgImhlYWRpbmciOiAiOC7kupLogZTnvZHkvIHkuJrlj4Lorr/kuqTmtYEiLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFsxNjUsIDE2OV0sCiAgICAgICJpdGVtcyI6IFsicHQtNjg4YWZkYjQxNiJdLAogICAgICAiY2hhcnMiOiAxMzMKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLigJQiLAogICAgICAiaGVhZGluZyI6ICLokL3mrL4iLAogICAgICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAgICAibGluZXMiOiBbMTcxLCAxNzJdLAogICAgICAiaXRlbXMiOiBbXSwKICAgICAgImNoYXJzIjogMjAKICAgIH0KICBdLAogICJpdGVtcyI6IFsKICAgICJwdC00Y2QwMDQ5YzQ5IiwKICAgICJwdC00MjlhYzM4M2VkIiwKICAgICJwdC1iZmI2MjkyNDcwIiwKICAgICJwdC0wZTg1MGJlZjdiIiwKICAgICJwdC1hODEwMDZjZjJmIiwKICAgICJwdC0yNmMxMzFlMDVjIiwKICAgICJwdC01YWMyNWI0NTlhIiwKICAgICJwdC0xNmZiNzQxN2JkIiwKICAgICJwdC1jOWYwZWZhNWI5IiwKICAgICJwdC1kZGRkYWRlNDRkIiwKICAgICJwdC0wZDNiMDViMmZjIiwKICAgICJwdC0yMjJjYjcwYzQ2IiwKICAgICJwdC1kNDliNGRlNjJkIiwKICAgICJwdC0wMjRkNDg1N2ZmIiwKICAgICJwdC01ODFmYmYyYmZkIiwKICAgICJwdC03YzBkNzBlNTBkIiwKICAgICJwdC1mZTg2Mzk3MjE5IiwKICAgICJwdC03MjUwZTlhZTdkIiwKICAgICJwdC02MTRjNzIxOGQ5IiwKICAgICJwdC1kNTY2NGEzMjM2IiwKICAgICJwdC1hOWIwZTcxZDE2IiwKICAgICJwdC04ZjE2NTdmZjM4IiwKICAgICJwdC0yZTA4MGFjY2I0IiwKICAgICJwdC0zMzc4MmE5NGM1IiwKICAgICJwdC05NWQzYjRhMjM2IiwKICAgICJwdC0wOWVlY2ZlNzkyIiwKICAgICJwdC02ODhhZmRiNDE2IgogIF0sCiAgIm5vdGVzIjogWwogICAgIumhtemdouahhuaetuiKguS4uuWwgemdouS4ieihjO+8iOagoeWQjS/lvq7kuJPkuJrlkI0v5bm05Lu977yJ77yMcHQtNGNkMDA0OWM0OSDnmoTlvJXmlofotbfngrnljbPlnKjmraTvvIjmraPmlofmoIfpopjkuI7liY3mrrXph43lpI3vvInvvIzmlYXliJfmnKzoioLjgIIiLAogICAgIuOAjOS6lOOAgeWtpuWItuOAjeS4juOAjOWFreOAgeaOiOivvuaWueW8j+OAjeWQiOW5tuS4uuS4gOiKgu+8iOS4pOiKguWQhOS7hSAxLTMg6KGM77yJ77yMcHQtMGQzYjA1YjJmYyDnmoTlvJXmlofot6jov5nkuKToioLjgIIiLAogICAgIuWNgeS4gCDoioLlhoXor77nqIvooajkuLogUERGIOaKveWHuueahOWkmuagj+mUmeihjOihqO+8jOaMieaVtOihqOS9nOS4gOiKgu+8m3B0LTYxNGM3MjE4ZDkg55qE5byV5paH6LW354K56JC95Zyo6KGo5bC+77yI56ysMTEyLTEyMOihjO+8ie+8jOaVheWIl+WcqOihqOaJgOWcqOiKgu+8jOWFtuato+aWh+WGheWuueWxnuOAjOWNgeS6jOOAgeW+ruS4k+S4muivvueoi+eugOS7iyAxLue7j+a1juWtpuWOn+eQhuOAjeOAgiIsCiAgICAi5Y2B5LqMIOS4uueItuiKgu+8iOesrDEyMi0xNjnooYzvvInvvIzkuIvlkKsgOCDpl6jor77nqIvlrZDoioLvvJvlrZDoioLljLrpl7TlnYflnKjniLboioLlhoXjgIIiLAogICAgIuiQveasvuiKgu+8iOesrDE3MS0xNzLooYzvvInml6DmnaHnm67jgIIiCiAgXQp9Cg==
+{
+  "key": "att-250cb7a939",
+  "title": "中国传媒大学数字媒体经济微专业2026年秋季招生简章",
+  "truncated": false,
+  "sections": [
+    {
+      "no": "—",
+      "heading": "页面框架",
+      "heading_kind": "derived",
+      "lines": [1, 6],
+      "items": ["pt-4cd0049c49"],
+      "chars": 26
+    },
+    {
+      "no": "一、",
+      "heading": "微专业介绍",
+      "heading_kind": "author",
+      "lines": [7, 31],
+      "items": ["pt-429ac383ed", "pt-bfb6292470", "pt-0e850bef7b", "pt-a81006cf2f"],
+      "chars": 697
+    },
+    {
+      "no": "二、",
+      "heading": "培养目标",
+      "heading_kind": "author",
+      "lines": [33, 39],
+      "items": ["pt-26c131e05c"],
+      "chars": 156
+    },
+    {
+      "no": "三、",
+      "heading": "培养要求",
+      "heading_kind": "author",
+      "lines": [41, 47],
+      "items": ["pt-5ac25b459a", "pt-16fb7417bd", "pt-c9f0efa5b9"],
+      "chars": 140
+    },
+    {
+      "no": "四、",
+      "heading": "招生对象及条件",
+      "heading_kind": "author",
+      "lines": [49, 56],
+      "items": ["pt-ddddade44d"],
+      "chars": 127
+    },
+    {
+      "no": "五、六、",
+      "heading": "学制与授课方式",
+      "heading_kind": "derived",
+      "lines": [58, 63],
+      "items": ["pt-0d3b05b2fc"],
+      "chars": 56
+    },
+    {
+      "no": "七、",
+      "heading": "学分认定与证书颁发",
+      "heading_kind": "author",
+      "lines": [65, 72],
+      "items": ["pt-222cb70c46"],
+      "chars": 154
+    },
+    {
+      "no": "八、",
+      "heading": "招生时间安排及报名方式",
+      "heading_kind": "author",
+      "lines": [73, 90],
+      "items": ["pt-d49b4de62d", "pt-024d4857ff", "pt-581fbf2bfd"],
+      "chars": 252
+    },
+    {
+      "no": "九、",
+      "heading": "咨询方式",
+      "heading_kind": "author",
+      "lines": [91, 93],
+      "items": ["pt-7c0d70e50d"],
+      "chars": 85
+    },
+    {
+      "no": "十、",
+      "heading": "微专业课程费用",
+      "heading_kind": "author",
+      "lines": [95, 98],
+      "items": ["pt-fe86397219"],
+      "chars": 59
+    },
+    {
+      "no": "十一、",
+      "heading": "课程设置及学时分配表",
+      "heading_kind": "author",
+      "lines": [100, 120],
+      "items": ["pt-7250e9ae7d", "pt-614c7218d9"],
+      "chars": 234
+    },
+    {
+      "no": "十二、",
+      "heading": "微专业课程简介",
+      "heading_kind": "author",
+      "lines": [122, 169],
+      "items": [],
+      "chars": 1219
+    },
+    {
+      "no": "十二（1）",
+      "heading": "1.经济学原理",
+      "heading_kind": "author",
+      "lines": [123, 129],
+      "items": ["pt-d5664a3236"],
+      "chars": 178
+    },
+    {
+      "no": "十二（2）",
+      "heading": "2.数字媒体经济学",
+      "heading_kind": "author",
+      "lines": [131, 136],
+      "items": ["pt-a9b0e71d16"],
+      "chars": 151
+    },
+    {
+      "no": "十二（3）",
+      "heading": "3.当代中国经济",
+      "heading_kind": "author",
+      "lines": [137, 142],
+      "items": ["pt-8f1657ff38"],
+      "chars": 151
+    },
+    {
+      "no": "十二（4）",
+      "heading": "4.数字营销A",
+      "heading_kind": "author",
+      "lines": [143, 148],
+      "items": ["pt-2e080accb4"],
+      "chars": 157
+    },
+    {
+      "no": "十二（5）",
+      "heading": "5.数字媒体产业政策",
+      "heading_kind": "author",
+      "lines": [149, 153],
+      "items": ["pt-33782a94c5"],
+      "chars": 142
+    },
+    {
+      "no": "十二（6）",
+      "heading": "6.数字经济智能平台仿真",
+      "heading_kind": "author",
+      "lines": [154, 158],
+      "items": ["pt-95d3b4a236"],
+      "chars": 119
+    },
+    {
+      "no": "十二（7）",
+      "heading": "7.商务大数据分析",
+      "heading_kind": "author",
+      "lines": [159, 164],
+      "items": ["pt-09eecfe792"],
+      "chars": 178
+    },
+    {
+      "no": "十二（8）",
+      "heading": "8.互联网企业参访交流",
+      "heading_kind": "author",
+      "lines": [165, 169],
+      "items": ["pt-688afdb416"],
+      "chars": 133
+    },
+    {
+      "no": "—",
+      "heading": "落款",
+      "heading_kind": "derived",
+      "lines": [171, 172],
+      "items": [],
+      "chars": 20
+    }
+  ],
+  "items": [
+    "pt-4cd0049c49",
+    "pt-429ac383ed",
+    "pt-bfb6292470",
+    "pt-0e850bef7b",
+    "pt-a81006cf2f",
+    "pt-26c131e05c",
+    "pt-5ac25b459a",
+    "pt-16fb7417bd",
+    "pt-c9f0efa5b9",
+    "pt-ddddade44d",
+    "pt-0d3b05b2fc",
+    "pt-222cb70c46",
+    "pt-d49b4de62d",
+    "pt-024d4857ff",
+    "pt-581fbf2bfd",
+    "pt-7c0d70e50d",
+    "pt-fe86397219",
+    "pt-7250e9ae7d",
+    "pt-614c7218d9",
+    "pt-d5664a3236",
+    "pt-a9b0e71d16",
+    "pt-8f1657ff38",
+    "pt-2e080accb4",
+    "pt-33782a94c5",
+    "pt-95d3b4a236",
+    "pt-09eecfe792",
+    "pt-688afdb416"
+  ],
+  "notes": [
+    "页面框架节为封面三行（校名/微专业名/年份），pt-4cd0049c49 的引文起点即在此（正文标题与前段重复），故列本节。",
+    "「五、学制」与「六、授课方式」合并为一节（两节各仅 1-3 行），pt-0d3b05b2fc 的引文跨这两节。",
+    "十一 节内课程表为 PDF 抽出的多栏错行表，按整表作一节；pt-614c7218d9 的引文起点落在表尾（第112-120行），故列在表所在节，其正文内容属「十二、微专业课程简介 1.经济学原理」。",
+    "十二 为父节（第122-169行），下含 8 门课程子节；子节区间均在父节内。",
+    "落款节（第171-172行）无条目。"
+  ]
+}

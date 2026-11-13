@@ -1,1 +1,258 @@
-ew0KICJrZXkiOiAiMjAyNC0xMC0yMy03MGY2OGQ4NCIsDQogInRpdGxlIjogIuivvueoi+S7i+e7jSB8IOacrOWtpuacn+iJuuacr+aso+i1j+exu+OAgeWIm+aWsOWIm+S4muexu+e6v+S4i+mAmuivhumAieS/ruivvumAieivvumihOmAmuefpSIsDQogInRydW5jYXRlZCI6IGZhbHNlLA0KICJzZWN0aW9ucyI6IFsNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLpgInor77pooTpgJrnn6XkuI7lubTnuqfpmZDliLbor7TmmI4iLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxLA0KICAgIDQNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTQ0ODI1ZjkzMjYiLA0KICAgICJwdC1jMjlkZWQ3NWFmIg0KICAgXSwNCiAgICJjaGFycyI6IDI3OA0KICB9LA0KICB7DQogICAibm8iOiAiMSIsDQogICAiaGVhZGluZyI6ICLjgIrkuK3lm73ojLbmlofljJbjgIsiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDUsDQogICAgMTINCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTZhNjNmNDRjNmQiLA0KICAgICJwdC0xZGNkZjE4Yjk2Ig0KICAgXSwNCiAgICJjaGFycyI6IDQwMA0KICB9LA0KICB7DQogICAibm8iOiAiMiIsDQogICAiaGVhZGluZyI6ICLjgIrkuK3lm73lj6TpkrHluIHpibTotY/jgIsiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDEzLA0KICAgIDE5DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC01ZmIyNTQwMzdlIiwNCiAgICAicHQtYjljNzMwNWU1OCIsDQogICAgInB0LWEzMmNmOTk2N2UiDQogICBdLA0KICAgImNoYXJzIjogNTE3DQogIH0sDQogIHsNCiAgICJubyI6ICIzIiwNCiAgICJoZWFkaW5nIjogIuOAiuS4reWbveS8oOe7n+aWh+WMluS4juWutuWbveaDheaAgOOAiyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMjAsDQogICAgMjcNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTRjM2U2ZjBhZGYiLA0KICAgICJwdC0wZjQwMzMyMWExIiwNCiAgICAicHQtNzBiZTYxNjE0NyIsDQogICAgInB0LTVmYWMxYTdlMGEiLA0KICAgICJwdC0zZWM1NTFlZGI0Ig0KICAgXSwNCiAgICJjaGFycyI6IDkyNQ0KICB9LA0KICB7DQogICAibm8iOiAiNCIsDQogICAiaGVhZGluZyI6ICLjgIrkuabms5XpibTotY/jgIsiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDI4LA0KICAgIDM0DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1lZGQ0ZmU2Yjg3IiwNCiAgICAicHQtZjQ1MzhjY2YxZSINCiAgIF0sDQogICAiY2hhcnMiOiAzNjYNCiAgfSwNCiAgew0KICAgIm5vIjogIjUiLA0KICAgImhlYWRpbmciOiAi44CK57uf6K6h5bm06Ym06K+755So44CLIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzNSwNCiAgICA0Mw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNmQwNDUwNmU4ZiIsDQogICAgInB0LWQ0N2YzNzA3ZTMiLA0KICAgICJwdC01OWM0MGE3NjBiIiwNCiAgICAicHQtMmQwZjk3OWM3OSIsDQogICAgInB0LTA2ZWE3YjJmMmMiDQogICBdLA0KICAgImNoYXJzIjogNjkyDQogIH0sDQogIHsNCiAgICJubyI6ICI2IiwNCiAgICJoZWFkaW5nIjogIuOAiuaZrumAmuivneivremfs+S4juWPkeWjsOOAiyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNDQsDQogICAgNTENCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTk2YmYxMDY3Y2MiLA0KICAgICJwdC00MWIxYTRkNDNjIiwNCiAgICAicHQtOGM0OGZlMmU2MyINCiAgIF0sDQogICAiY2hhcnMiOiA0ODENCiAgfSwNCiAgew0KICAgIm5vIjogIjciLA0KICAgImhlYWRpbmciOiAi44CK55S15ZWG5paH5qGI5Yib5L2c44CLIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1MiwNCiAgICA1OQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNzJkNzkzOGQ3MCIsDQogICAgInB0LTIzYzI3ZTlkNjciLA0KICAgICJwdC00YjY3MmM3YWRmIg0KICAgXSwNCiAgICJjaGFycyI6IDUzMA0KICB9LA0KICB7DQogICAibm8iOiAiOCIsDQogICAiaGVhZGluZyI6ICLjgIroibrmnK/mjqLnp5jvvJrku47lj6Toh7Pku4rnmoTnvo7lrabkuYvml4XjgIsiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDYwLA0KICAgIDY2DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC05Mjk4OWYwM2E2IiwNCiAgICAicHQtMmJiYjM0ZTdiMCIsDQogICAgInB0LWMyMzlmYzg1MWIiDQogICBdLA0KICAgImNoYXJzIjogNDg4DQogIH0sDQogIHsNCiAgICJubyI6ICI5IiwNCiAgICJoZWFkaW5nIjogIuOAiuWcsOeQhuinhumHjuOAiyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNjcsDQogICAgNzQNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWE4Nzg4ODllNWYiLA0KICAgICJwdC02N2VjOTMwYTU5IiwNCiAgICAicHQtMTViZDEyZTM2ZiIsDQogICAgInB0LTA5ODMxNzI4OGIiLA0KICAgICJwdC0xOGUzNzJkNGU1IiwNCiAgICAicHQtZjAyNjU1YTZiNSINCiAgIF0sDQogICAiY2hhcnMiOiA5NjMNCiAgfSwNCiAgew0KICAgIm5vIjogIjEwIiwNCiAgICJoZWFkaW5nIjogIuOAiuWkp+WtpueUn+S4juWIm+S4muOAiyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNzUsDQogICAgODENCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTMwOTM5M2RhYWIiLA0KICAgICJwdC00MjdiNzcwMjFjIiwNCiAgICAicHQtMWRlZTk5NjlmYSIsDQogICAgInB0LTQ0NjliN2E4ZDIiLA0KICAgICJwdC00Y2E2MTc5MGZjIg0KICAgXSwNCiAgICJjaGFycyI6IDY4NA0KICB9LA0KICB7DQogICAibm8iOiAiMTEiLA0KICAgImhlYWRpbmciOiAi44CK5Yib5Lia566h55CG5a6e6Le144CLIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA4MiwNCiAgICA4OA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMzc3ZmZhNTRmZiIsDQogICAgInB0LTk4ZDJjNTVkMjkiDQogICBdLA0KICAgImNoYXJzIjogNDg0DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5aSH5rOo44CB5b6A5pyf5o6o6I2Q5LiO5paH5pyr5qCH562+IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgODksDQogICAgOTkNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWY0NTdiMDcxMTgiLA0KICAgICJwdC0zYzk5MmRmNzY0IiwNCiAgICAicHQtYWE3NTQxNzhiNiINCiAgIF0sDQogICAiY2hhcnMiOiAzNDANCiAgfQ0KIF0sDQogIml0ZW1zIjogWw0KICAicHQtNDQ4MjVmOTMyNiIsDQogICJwdC1jMjlkZWQ3NWFmIiwNCiAgInB0LTZhNjNmNDRjNmQiLA0KICAicHQtMWRjZGYxOGI5NiIsDQogICJwdC01ZmIyNTQwMzdlIiwNCiAgInB0LWI5YzczMDVlNTgiLA0KICAicHQtYTMyY2Y5OTY3ZSIsDQogICJwdC00YzNlNmYwYWRmIiwNCiAgInB0LTBmNDAzMzIxYTEiLA0KICAicHQtNzBiZTYxNjE0NyIsDQogICJwdC01ZmFjMWE3ZTBhIiwNCiAgInB0LTNlYzU1MWVkYjQiLA0KICAicHQtZWRkNGZlNmI4NyIsDQogICJwdC1mNDUzOGNjZjFlIiwNCiAgInB0LTZkMDQ1MDZlOGYiLA0KICAicHQtZDQ3ZjM3MDdlMyIsDQogICJwdC01OWM0MGE3NjBiIiwNCiAgInB0LTJkMGY5NzljNzkiLA0KICAicHQtMDZlYTdiMmYyYyIsDQogICJwdC05NmJmMTA2N2NjIiwNCiAgInB0LTQxYjFhNGQ0M2MiLA0KICAicHQtOGM0OGZlMmU2MyIsDQogICJwdC03MmQ3OTM4ZDcwIiwNCiAgInB0LTIzYzI3ZTlkNjciLA0KICAicHQtNGI2NzJjN2FkZiIsDQogICJwdC05Mjk4OWYwM2E2IiwNCiAgInB0LTJiYmIzNGU3YjAiLA0KICAicHQtYzIzOWZjODUxYiIsDQogICJwdC1hODc4ODg5ZTVmIiwNCiAgInB0LTY3ZWM5MzBhNTkiLA0KICAicHQtMTViZDEyZTM2ZiIsDQogICJwdC0wOTgzMTcyODhiIiwNCiAgInB0LTE4ZTM3MmQ0ZTUiLA0KICAicHQtZjAyNjU1YTZiNSIsDQogICJwdC0zMDkzOTNkYWFiIiwNCiAgInB0LTQyN2I3NzAyMWMiLA0KICAicHQtMWRlZTk5NjlmYSIsDQogICJwdC00NDY5YjdhOGQyIiwNCiAgInB0LTRjYTYxNzkwZmMiLA0KICAicHQtMzc3ZmZhNTRmZiIsDQogICJwdC05OGQyYzU1ZDI5IiwNCiAgInB0LWY0NTdiMDcxMTgiLA0KICAicHQtM2M5OTJkZjc2NCIsDQogICJwdC1hYTc1NDE3OGI2Ig0KIF0sDQogIm5vdGVzIjogWw0KICAi5Y6f5paH5Li65YWs5LyX5Y+35o6o5paH77yM5peg56ug5p2h57yW5Y+377yb5q2j5paH5oyJIDExIOmXqOivvueoi+WQhOiHquaIkOiKgu+8jOiKguWPt+ayv+eUqOivvueoi+W6j+WPtyAx4oCTMTHjgIIiLA0KICAi56ysIDUg6KGM44CM6K++56iL5LuL57uN5aaC5LiL77ya44CN5piv6K++56iL5YiX6KGo5byV6K+t77yM5bm25YWl56ysIDEg6Zeo6K++56iL6IqC77yIcHQtNmE2M2Y0NGM2ZCDnmoQgcXVvdGUg6LW354K56JC95Zyo6K+l6KGM77yM5LiN5bm25YWl5YiZ5peg5rOV6JC95Zyw77yJ44CCIiwNCiAgIuacq+iKgiA4OeKAkzk5IOihjOWQjOaXtuWMheWQq+esrCAxMSDpl6jor77nmoTjgIzlpIfms6jvvJrov5vlhaXnj63nuqflrabnlJ/pnIDpnaLor5XpgInmi5TjgI3jgIHlvoDmnJ/mjqjojZDliJfooajkuI7lhazkvJflj7fmlofmnKvmoIfnrb7vvJtwdC1mNDU3YjA3MTE4IOeahCBxdW90ZSDot6ggODnigJM5NSDooYzvvIzlj6rog73okL3lnKjor6XoioLjgIIiDQogXQ0KfQ==
+{
+ "key": "2024-10-23-70f68d84",
+ "title": "课程介绍 | 本学期艺术欣赏类、创新创业类线下通识选修课选课预通知",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "选课预通知与年级限制说明",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    4
+   ],
+   "items": [
+    "pt-44825f9326",
+    "pt-c29ded75af"
+   ],
+   "chars": 278
+  },
+  {
+   "no": "1",
+   "heading": "《中国茶文化》",
+   "heading_kind": "author",
+   "lines": [
+    5,
+    12
+   ],
+   "items": [
+    "pt-6a63f44c6d",
+    "pt-1dcdf18b96"
+   ],
+   "chars": 400
+  },
+  {
+   "no": "2",
+   "heading": "《中国古钱币鉴赏》",
+   "heading_kind": "author",
+   "lines": [
+    13,
+    19
+   ],
+   "items": [
+    "pt-5fb254037e",
+    "pt-b9c7305e58",
+    "pt-a32cf9967e"
+   ],
+   "chars": 517
+  },
+  {
+   "no": "3",
+   "heading": "《中国传统文化与家国情怀》",
+   "heading_kind": "author",
+   "lines": [
+    20,
+    27
+   ],
+   "items": [
+    "pt-4c3e6f0adf",
+    "pt-0f403321a1",
+    "pt-70be616147",
+    "pt-5fac1a7e0a",
+    "pt-3ec551edb4"
+   ],
+   "chars": 925
+  },
+  {
+   "no": "4",
+   "heading": "《书法鉴赏》",
+   "heading_kind": "author",
+   "lines": [
+    28,
+    34
+   ],
+   "items": [
+    "pt-edd4fe6b87",
+    "pt-f4538ccf1e"
+   ],
+   "chars": 366
+  },
+  {
+   "no": "5",
+   "heading": "《统计年鉴读用》",
+   "heading_kind": "author",
+   "lines": [
+    35,
+    43
+   ],
+   "items": [
+    "pt-6d04506e8f",
+    "pt-d47f3707e3",
+    "pt-59c40a760b",
+    "pt-2d0f979c79",
+    "pt-06ea7b2f2c"
+   ],
+   "chars": 692
+  },
+  {
+   "no": "6",
+   "heading": "《普通话语音与发声》",
+   "heading_kind": "author",
+   "lines": [
+    44,
+    51
+   ],
+   "items": [
+    "pt-96bf1067cc",
+    "pt-41b1a4d43c",
+    "pt-8c48fe2e63"
+   ],
+   "chars": 481
+  },
+  {
+   "no": "7",
+   "heading": "《电商文案创作》",
+   "heading_kind": "author",
+   "lines": [
+    52,
+    59
+   ],
+   "items": [
+    "pt-72d7938d70",
+    "pt-23c27e9d67",
+    "pt-4b672c7adf"
+   ],
+   "chars": 530
+  },
+  {
+   "no": "8",
+   "heading": "《艺术探秘：从古至今的美学之旅》",
+   "heading_kind": "author",
+   "lines": [
+    60,
+    66
+   ],
+   "items": [
+    "pt-92989f03a6",
+    "pt-2bbb34e7b0",
+    "pt-c239fc851b"
+   ],
+   "chars": 488
+  },
+  {
+   "no": "9",
+   "heading": "《地理视野》",
+   "heading_kind": "author",
+   "lines": [
+    67,
+    74
+   ],
+   "items": [
+    "pt-a878889e5f",
+    "pt-67ec930a59",
+    "pt-15bd12e36f",
+    "pt-098317288b",
+    "pt-18e372d4e5",
+    "pt-f02655a6b5"
+   ],
+   "chars": 963
+  },
+  {
+   "no": "10",
+   "heading": "《大学生与创业》",
+   "heading_kind": "author",
+   "lines": [
+    75,
+    81
+   ],
+   "items": [
+    "pt-309393daab",
+    "pt-427b77021c",
+    "pt-1dee9969fa",
+    "pt-4469b7a8d2",
+    "pt-4ca61790fc"
+   ],
+   "chars": 684
+  },
+  {
+   "no": "11",
+   "heading": "《创业管理实践》",
+   "heading_kind": "author",
+   "lines": [
+    82,
+    88
+   ],
+   "items": [
+    "pt-377ffa54ff",
+    "pt-98d2c55d29"
+   ],
+   "chars": 484
+  },
+  {
+   "no": "—",
+   "heading": "备注、往期推荐与文末标签",
+   "heading_kind": "derived",
+   "lines": [
+    89,
+    99
+   ],
+   "items": [
+    "pt-f457b07118",
+    "pt-3c992df764",
+    "pt-aa754178b6"
+   ],
+   "chars": 340
+  }
+ ],
+ "items": [
+  "pt-44825f9326",
+  "pt-c29ded75af",
+  "pt-6a63f44c6d",
+  "pt-1dcdf18b96",
+  "pt-5fb254037e",
+  "pt-b9c7305e58",
+  "pt-a32cf9967e",
+  "pt-4c3e6f0adf",
+  "pt-0f403321a1",
+  "pt-70be616147",
+  "pt-5fac1a7e0a",
+  "pt-3ec551edb4",
+  "pt-edd4fe6b87",
+  "pt-f4538ccf1e",
+  "pt-6d04506e8f",
+  "pt-d47f3707e3",
+  "pt-59c40a760b",
+  "pt-2d0f979c79",
+  "pt-06ea7b2f2c",
+  "pt-96bf1067cc",
+  "pt-41b1a4d43c",
+  "pt-8c48fe2e63",
+  "pt-72d7938d70",
+  "pt-23c27e9d67",
+  "pt-4b672c7adf",
+  "pt-92989f03a6",
+  "pt-2bbb34e7b0",
+  "pt-c239fc851b",
+  "pt-a878889e5f",
+  "pt-67ec930a59",
+  "pt-15bd12e36f",
+  "pt-098317288b",
+  "pt-18e372d4e5",
+  "pt-f02655a6b5",
+  "pt-309393daab",
+  "pt-427b77021c",
+  "pt-1dee9969fa",
+  "pt-4469b7a8d2",
+  "pt-4ca61790fc",
+  "pt-377ffa54ff",
+  "pt-98d2c55d29",
+  "pt-f457b07118",
+  "pt-3c992df764",
+  "pt-aa754178b6"
+ ],
+ "notes": [
+  "原文为公众号推文，无章条编号；正文按 11 门课程各自成节，节号沿用课程序号 1–11。",
+  "第 5 行「课程介绍如下：」是课程列表引语，并入第 1 门课程节（pt-6a63f44c6d 的 quote 起点落在该行，不并入则无法落地）。",
+  "末节 89–99 行同时包含第 11 门课的「备注：进入班级学生需面试选拔」、往期推荐列表与公众号文末标签；pt-f457b07118 的 quote 跨 89–95 行，只能落在该节。"
+ ]
+}

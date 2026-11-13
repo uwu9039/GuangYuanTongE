@@ -1,1 +1,227 @@
-ewogImtleSI6ICIxY2U4ODhmYiIsCiAidGl0bGUiOiAi5Lit5Zu95Lyg5aqS5aSn5a2m5YWo5pel5Yi25pys56eR55Sf5a2m5aOr5a2m5L2N5o6I5LqI5bel5L2c5a6e5pa95Yqe5rOV77yI5Lit5Lyg5pWZ5a2X44CUMjAyNeOAlTflj7fvvIkiLAogInRydW5jYXRlZCI6IGZhbHNlLAogInNlY3Rpb25zIjogWwogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIuWPkeaWh+WktOS4juaWh+WPtyIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFsKICAgIDEsCiAgICA1CiAgIF0sCiAgICJpdGVtcyI6IFsKICAgICJwdC02MDhlMWQ1MjA0IiwKICAgICJwdC03M2NhMzU5NWQ4IgogICBdLAogICAiY2hhcnMiOiA2MgogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi5Y2w5Y+R6YCa55+l5q2j5paHIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWwogICAgNiwKICAgIDEzCiAgIF0sCiAgICJpdGVtcyI6IFsKICAgICJwdC04NjQzZDIxYzFlIgogICBdLAogICAiY2hhcnMiOiAxNDEKICB9LAogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIuaWh+aho+agh+mimOS4juS/ruiuouivtOaYjiIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFsKICAgIDE1LAogICAgMTcKICAgXSwKICAgIml0ZW1zIjogWwogICAgInB0LWI2MmVhZGQ0MTMiLAogICAgInB0LThhYjcwZWYzYzQiLAogICAgInJ1bGUtMWNlODg4ZmIiCiAgIF0sCiAgICJjaGFycyI6IDU3CiAgfSwKICB7CiAgICJubyI6ICLnrKzkuIDnq6AiLAogICAiaGVhZGluZyI6ICLnrKzkuIDnq6Ag5oC75YiZIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbCiAgICAxOCwKICAgIDI5CiAgIF0sCiAgICJpdGVtcyI6IFsKICAgICJwdC04Zjk5NTdjYmM3IiwKICAgICJwdC0zYWY0NTg4NTczIiwKICAgICJwdC01NWRkOTdjYjE1IiwKICAgICJwdC01ZjhjNWI0ZTkzIiwKICAgICJwdC0wZDQ4MWJkYjU3IgogICBdLAogICAiY2hhcnMiOiAyODEKICB9LAogIHsKICAgIm5vIjogIuesrOS6jOeroCIsCiAgICJoZWFkaW5nIjogIuesrOS6jOeroCDlrabkvY3mjojkuojmnaHku7YiLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbCiAgICAzMCwKICAgIDU5CiAgIF0sCiAgICJpdGVtcyI6IFsKICAgICJwdC1lOGIyNzY3NjBiIiwKICAgICJwdC1mNWY0ZDI2NWU4IiwKICAgICJwdC01MzAwMjg3NDlkIiwKICAgICJwdC05NWJhMGVjYTBjIiwKICAgICJwdC1lYjA1M2ZiNDk0IiwKICAgICJwdC03NDRmMmM0OThjIiwKICAgICJwdC1jNWQ3ODA0YzgxIiwKICAgICJwdC0xMjdlYmRlYjZjIiwKICAgICJwdC0yOGY5MjdmM2VlIiwKICAgICJwdC0zNjkxZDNlNTRjIiwKICAgICJwdC0yZmUzYmY0YmMyIiwKICAgICJwdC05ZDU3Njk5ZThmIiwKICAgICJwdC1kOTgwOTM3MjRlIgogICBdLAogICAiY2hhcnMiOiA2MjQKICB9LAogIHsKICAgIm5vIjogIuesrOS4ieeroCIsCiAgICJoZWFkaW5nIjogIuesrOS4ieeroCDlrabkvY3mjojkuojnqIvluo8iLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbCiAgICA2MCwKICAgIDc0CiAgIF0sCiAgICJpdGVtcyI6IFsKICAgICJwdC05NmU2YTE4YjU0IiwKICAgICJwdC1iMGFmYjliMTQwIiwKICAgICJwdC1iNGZhNmVhNGVlIiwKICAgICJwdC1mOTI2MDUyZWJmIiwKICAgICJwdC0wZDRiMDA0MTU0IgogICBdLAogICAiY2hhcnMiOiAzMjIKICB9LAogIHsKICAgIm5vIjogIuesrOWbm+eroCIsCiAgICJoZWFkaW5nIjogIuesrOWbm+eroCDotKjph4/kv53pmpwiLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbCiAgICA3NSwKICAgIDEwOAogICBdLAogICAiaXRlbXMiOiBbCiAgICAicHQtNGE4YWZiMWNlYiIsCiAgICAicHQtZTRmMTQyMjc2MyIsCiAgICAicHQtNGQ3MzU4MDQ2NSIsCiAgICAicHQtMjZlZGRlYzAwMSIsCiAgICAicHQtNDEzZDAyMzQ3NyIsCiAgICAicHQtY2VlMzFiMjVkNCIsCiAgICAicHQtZWQ2MDM3ODRlYSIsCiAgICAicHQtZDBhNjc0NTMzZCIsCiAgICAicHQtMmQ2NmFjNGQ1YyIsCiAgICAicHQtMDE5MzZkMDkwYiIsCiAgICAicHQtMWUwZGVhYzA2MCIsCiAgICAicHQtYjc1M2M4YWJkMyIsCiAgICAicHQtM2VmN2RkMzcwNSIsCiAgICAicHQtODE3YmQyOTZmMSIsCiAgICAicHQtMWU1M2ZjMDk2ZSIsCiAgICAicHQtYWYyNThhNWQxOCIKICAgXSwKICAgImNoYXJzIjogNzExCiAgfSwKICB7CiAgICJubyI6ICLnrKzkupTnq6AiLAogICAiaGVhZGluZyI6ICLnrKzkupTnq6Ag6ZmE5YiZIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbCiAgICAxMDksCiAgICAxMTgKICAgXSwKICAgIml0ZW1zIjogWwogICAgInB0LTY4NjkxYTAzODAiLAogICAgInB0LTg1NzIyZGEwOGQiLAogICAgInB0LTExNmE0Yzk4YTEiLAogICAgInB0LTI3ZDg5ZjUwNTciLAogICAgInB0LTY2M2M1ODdiYTIiLAogICAgInB0LWQ1MmMxYjczMWEiCiAgIF0sCiAgICJjaGFycyI6IDIxMwogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi54mI6K6w77yI5Y2w5Y+R5py65YWz5LiO5YWs5byA5bGe5oCn77yJIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWwogICAgMTE5LAogICAgMTIxCiAgIF0sCiAgICJpdGVtcyI6IFtdLAogICAiY2hhcnMiOiAxMjAKICB9CiBdLAogIml0ZW1zIjogWwogICJydWxlLTFjZTg4OGZiIiwKICAicHQtM2FmNDU4ODU3MyIsCiAgInB0LTU1ZGQ5N2NiMTUiLAogICJwdC01ZjhjNWI0ZTkzIiwKICAicHQtMGQ0ODFiZGI1NyIsCiAgInB0LWU4YjI3Njc2MGIiLAogICJwdC1mNWY0ZDI2NWU4IiwKICAicHQtNTMwMDI4NzQ5ZCIsCiAgInB0LTk1YmEwZWNhMGMiLAogICJwdC1lYjA1M2ZiNDk0IiwKICAicHQtNzQ0ZjJjNDk4YyIsCiAgInB0LWM1ZDc4MDRjODEiLAogICJwdC0xMjdlYmRlYjZjIiwKICAicHQtMjhmOTI3ZjNlZSIsCiAgInB0LTJmZTNiZjRiYzIiLAogICJwdC05ZDU3Njk5ZThmIiwKICAicHQtZDk4MDkzNzI0ZSIsCiAgInB0LWIwYWZiOWIxNDAiLAogICJwdC1iNGZhNmVhNGVlIiwKICAicHQtZjkyNjA1MmViZiIsCiAgInB0LTBkNGIwMDQxNTQiLAogICJwdC1lNGYxNDIyNzYzIiwKICAicHQtNGQ3MzU4MDQ2NSIsCiAgInB0LTI2ZWRkZWMwMDEiLAogICJwdC00MTNkMDIzNDc3IiwKICAicHQtY2VlMzFiMjVkNCIsCiAgInB0LWVkNjAzNzg0ZWEiLAogICJwdC1kMGE2NzQ1MzNkIiwKICAicHQtMmQ2NmFjNGQ1YyIsCiAgInB0LTFlMGRlYWMwNjAiLAogICJwdC0zZWY3ZGQzNzA1IiwKICAicHQtYjc1M2M4YWJkMyIsCiAgInB0LTg1NzIyZGEwOGQiLAogICJwdC0xMTZhNGM5OGExIiwKICAicHQtMjdkODlmNTA1NyIsCiAgInB0LWQ1MmMxYjczMWEiLAogICJwdC02MDhlMWQ1MjA0IiwKICAicHQtNzNjYTM1OTVkOCIsCiAgInB0LTg2NDNkMjFjMWUiLAogICJwdC1iNjJlYWRkNDEzIiwKICAicHQtOGFiNzBlZjNjNCIsCiAgInB0LThmOTk1N2NiYzciLAogICJwdC0zNjkxZDNlNTRjIiwKICAicHQtOTZlNmExOGI1NCIsCiAgInB0LTRhOGFmYjFjZWIiLAogICJwdC0wMTkzNmQwOTBiIiwKICAicHQtODE3YmQyOTZmMSIsCiAgInB0LTFlNTNmYzA5NmUiLAogICJwdC1hZjI1OGE1ZDE4IiwKICAicHQtNjg2OTFhMDM4MCIsCiAgInB0LTY2M2M1ODdiYTIiCiBdLAogIm5vdGVzIjogWwogICLljp/mlofmmK8gT0NSIOaKveWPluS7tu+8jOWtl+W6j+mUmeS5seaZrumBjeWtmOWcqO+8muaWh+WPt+ihjOS9nOOAjOWtpiDku7bkuK3lm73kvKDlqpLlpKcg5paH44CN44CB5qCH6aKY6KGM5L2c44CM5a2mIOeUn+WtpiDlrabkvY3kuK3lm73kvKDlqpLlpKcg5YWo5pel5Yi25pys56eRIOWjqyDmjojkuojlt6XkvZwg5Yqe5a6e5pa9IOazleOAjeOAgeeroOagh+mimOihjOS9nOOAjOS6jOeroOWtpuS9jeesrCDmjojkuojmnaHku7bjgI3jgIznq6DlrabkvY0g56iL56ys5LiJIOaOiOS6iCDluo/jgI3jgIznq6DlrabkvY3nrKzlm5sg6LSo6YeP5L+d6Zqc44CN77yM5a2X6Z2i5q6L55WZ5oyJ5Y6f5paH5L+d55WZ77yM6IqC5ZCN5oyJ6K+t5LmJ6L+Y5Y6f44CCIiwKICAi5LqU56ug57uT5p6E77ya56ys5LiA56ug5oC75YiZ77yI56ysIDE4IOihjO+8ieOAgeesrOS6jOeroOWtpuS9jeaOiOS6iOadoeS7tu+8iOesrCAzMCDooYzvvInjgIHnrKzkuInnq6DlrabkvY3mjojkuojnqIvluo/vvIjnrKwgNjAg6KGM77yJ44CB56ys5Zub56ug6LSo6YeP5L+d6Zqc77yI56ysIDc1IOihjO+8ieOAgeesrOS6lOeroOmZhOWIme+8iOesrCAxMDkg6KGM77yJ44CC5YW25Lit56ys5LiA44CB5LqU56ug5qCH6aKY5Y675o6J56m655m95ZCO6IO95LiO5Y6f5paH6YCQ5a2X5a+55bqU77yI44CM56ys5LiA56ug5oC75YiZ44CN44CM56ys5LqU56ug6ZmE5YiZ44CN77yJ77yM6K6wIGF1dGhvcu+8m+esrOS6jOOAgeS4ieOAgeWbm+eroOeahOagh+mimOihjOaKiuOAjOesrFjnq6DjgI3kuI7nq6DlkI3mkIXlnKjkuIDotbfvvIjlpoLnrKwgMzAg6KGM5piv44CM5LqM56ug5a2m5L2N56ysIOaOiOS6iOadoeS7tuOAje+8ie+8jOi/mOWOn+WQjueahOOAjOesrOS6jOeroCDlrabkvY3mjojkuojmnaHku7bjgI3lnKjmnKzoioLooYzljLrpl7Tph4zpgJDlrZfmib7kuI3liLDvvIzmjInnoazliKTmja7mlLnorrAgZGVyaXZlZOOAgiIsCiAgIuesrCAx4oCUNSDooYzmmK/lj5HmloflpLTvvIjlkKvmloflj7fvvInvvIznrKwgNuKAlDEzIOihjOaYr+WNsOWPkemAmuefpeato+aWh++8iOiQveasvuOAjOS4reWbveS8oOWqkuWkp+WtpiAyMDI1IOW5tCAxIOaciCAxIOaXpeOAjeWcqOesrCAxMuKAlDEzIOihjO+8ie+8jOesrCAxNeKAlDE3IOihjOaJjeaYr+aWh+S7tuato+mimOWQjeS4juOAjDIwMjQg5bm0IDEyIOaciCAyNCDml6XmoKHplb/lip7lhazkvJrorq7kv67orqLjgI3mi6zms6jvvIzmlYXliY3kuInoioLmjInjgIzlj5HmloflpLTvvI/pgJrnn6XvvI/moIfpopjjgI3liIbnq4vvvIzlnYforrAgZGVyaXZlZOOAgW5vIOeUqOOAjOKAlOOAjeOAgiIsCiAgIumhteeggeihjOWFsSA2IOWkhO+8iOesrCAxNOOAgTM144CBNTjjgIE3OeOAgTEwMuOAgTEyMSDooYzvvInvvIzlj6rmnInnrKwgMTQg6KGM44CM4oCUMeKAlOOAjeeLrOeri+aIkOauteOAgeS4jeWcqOS7u+S9leiKguWGhe+8iOS4pOiKguS5i+mXtOeahOe6r+mhteeggeihjO+8jOaMieiKgummluWIpOaNruS4jeW5tuWFpe+8jOiuoSAxIOWkhOimhuebluepuumame+8ie+8m+WFtuS9memhteeggeihjOWkueWcqOadoeaWh+S4reaute+8jOmaj+aJgOWcqOiKguS/neeVmeOAgiIsCiAgIuacq+iKguOAjOeJiOiusOOAjeaUtuesrCAxMTnigJQxMjEg6KGM77yI44CM5Lit5Zu95Lyg5aqS5aSn5a2m5YWa5pS/5Yqe5YWs5a6kIOS4u+WKqOWFrOW8gCAyMDI1IOW5tCAxIOaciOOAje+8i+aNouihjOWQjueahOOAjOWPkeOAje+8i+mhteeggeOAjOKAlDbigJTjgI3vvInvvIzmmK/lhazmlofniYjorrDvvIzljZXliJfkuIDoioLjgIHkuI3mjILmnaHnm67jgIIiLAogICJydWxlLTFjZTg4OGZiIOaYr+aWh+aho+e6p+adoeebruOAgeaXoOW8leaWh++8iOagh+mimOKJiOaWh+aho+WQje+8ie+8jOaMieWPo+W+hOWIl+i/m+aWh+aho+e6pyBpdGVtc++8jOW5tuaUvui/m+OAjOaWh+aho+agh+mimOS4juS/ruiuouivtOaYjuOAjeS4gOiKgu+8iOato+mimOWQjeaJgOWcqOihjO+8ieiQveS9jeOAgiIsCiAgIuesrOS6lOOAgeWFreOAgeS4g+OAgeWFq+adoeWGhemDqOeUqOOAjCjkuIApKOS6jCnigKbjgI3liIbpobnvvIznrKzljYHmnaHjgIHnrKzljYHkuozmnaHlkIzmoLfliIbpobnvvJvov5nkupvliIbpobnkuI3mmK/lsI/moIfpopjvvIjljp/mlofml6Dni6znq4vmoIfpopjooYzvvInvvIzmnKrlho3mi4blrZDoioLvvIzlhajpg6jlubblhaXmiYDlsZ7nq6DjgIIiCiBdCn0K
+{
+ "key": "1ce888fb",
+ "title": "中国传媒大学全日制本科生学士学位授予工作实施办法（中传教字〔2025〕7号）",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "发文头与文号",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    5
+   ],
+   "items": [
+    "pt-608e1d5204",
+    "pt-73ca3595d8"
+   ],
+   "chars": 62
+  },
+  {
+   "no": "—",
+   "heading": "印发通知正文",
+   "heading_kind": "derived",
+   "lines": [
+    6,
+    13
+   ],
+   "items": [
+    "pt-8643d21c1e"
+   ],
+   "chars": 141
+  },
+  {
+   "no": "—",
+   "heading": "文档标题与修订说明",
+   "heading_kind": "derived",
+   "lines": [
+    15,
+    17
+   ],
+   "items": [
+    "pt-b62eadd413",
+    "pt-8ab70ef3c4",
+    "rule-1ce888fb"
+   ],
+   "chars": 57
+  },
+  {
+   "no": "第一章",
+   "heading": "第一章 总则",
+   "heading_kind": "author",
+   "lines": [
+    18,
+    29
+   ],
+   "items": [
+    "pt-8f9957cbc7",
+    "pt-3af4588573",
+    "pt-55dd97cb15",
+    "pt-5f8c5b4e93",
+    "pt-0d481bdb57"
+   ],
+   "chars": 281
+  },
+  {
+   "no": "第二章",
+   "heading": "第二章 学位授予条件",
+   "heading_kind": "derived",
+   "lines": [
+    30,
+    59
+   ],
+   "items": [
+    "pt-e8b276760b",
+    "pt-f5f4d265e8",
+    "pt-530028749d",
+    "pt-95ba0eca0c",
+    "pt-eb053fb494",
+    "pt-744f2c498c",
+    "pt-c5d7804c81",
+    "pt-127ebdeb6c",
+    "pt-28f927f3ee",
+    "pt-3691d3e54c",
+    "pt-2fe3bf4bc2",
+    "pt-9d57699e8f",
+    "pt-d98093724e"
+   ],
+   "chars": 624
+  },
+  {
+   "no": "第三章",
+   "heading": "第三章 学位授予程序",
+   "heading_kind": "derived",
+   "lines": [
+    60,
+    74
+   ],
+   "items": [
+    "pt-96e6a18b54",
+    "pt-b0afb9b140",
+    "pt-b4fa6ea4ee",
+    "pt-f926052ebf",
+    "pt-0d4b004154"
+   ],
+   "chars": 322
+  },
+  {
+   "no": "第四章",
+   "heading": "第四章 质量保障",
+   "heading_kind": "derived",
+   "lines": [
+    75,
+    108
+   ],
+   "items": [
+    "pt-4a8afb1ceb",
+    "pt-e4f1422763",
+    "pt-4d73580465",
+    "pt-26eddec001",
+    "pt-413d023477",
+    "pt-cee31b25d4",
+    "pt-ed603784ea",
+    "pt-d0a674533d",
+    "pt-2d66ac4d5c",
+    "pt-01936d090b",
+    "pt-1e0deac060",
+    "pt-b753c8abd3",
+    "pt-3ef7dd3705",
+    "pt-817bd296f1",
+    "pt-1e53fc096e",
+    "pt-af258a5d18"
+   ],
+   "chars": 711
+  },
+  {
+   "no": "第五章",
+   "heading": "第五章 附则",
+   "heading_kind": "author",
+   "lines": [
+    109,
+    118
+   ],
+   "items": [
+    "pt-68691a0380",
+    "pt-85722da08d",
+    "pt-116a4c98a1",
+    "pt-27d89f5057",
+    "pt-663c587ba2",
+    "pt-d52c1b731a"
+   ],
+   "chars": 213
+  },
+  {
+   "no": "—",
+   "heading": "版记（印发机关与公开属性）",
+   "heading_kind": "derived",
+   "lines": [
+    119,
+    121
+   ],
+   "items": [],
+   "chars": 120
+  }
+ ],
+ "items": [
+  "rule-1ce888fb",
+  "pt-3af4588573",
+  "pt-55dd97cb15",
+  "pt-5f8c5b4e93",
+  "pt-0d481bdb57",
+  "pt-e8b276760b",
+  "pt-f5f4d265e8",
+  "pt-530028749d",
+  "pt-95ba0eca0c",
+  "pt-eb053fb494",
+  "pt-744f2c498c",
+  "pt-c5d7804c81",
+  "pt-127ebdeb6c",
+  "pt-28f927f3ee",
+  "pt-2fe3bf4bc2",
+  "pt-9d57699e8f",
+  "pt-d98093724e",
+  "pt-b0afb9b140",
+  "pt-b4fa6ea4ee",
+  "pt-f926052ebf",
+  "pt-0d4b004154",
+  "pt-e4f1422763",
+  "pt-4d73580465",
+  "pt-26eddec001",
+  "pt-413d023477",
+  "pt-cee31b25d4",
+  "pt-ed603784ea",
+  "pt-d0a674533d",
+  "pt-2d66ac4d5c",
+  "pt-1e0deac060",
+  "pt-3ef7dd3705",
+  "pt-b753c8abd3",
+  "pt-85722da08d",
+  "pt-116a4c98a1",
+  "pt-27d89f5057",
+  "pt-d52c1b731a",
+  "pt-608e1d5204",
+  "pt-73ca3595d8",
+  "pt-8643d21c1e",
+  "pt-b62eadd413",
+  "pt-8ab70ef3c4",
+  "pt-8f9957cbc7",
+  "pt-3691d3e54c",
+  "pt-96e6a18b54",
+  "pt-4a8afb1ceb",
+  "pt-01936d090b",
+  "pt-817bd296f1",
+  "pt-1e53fc096e",
+  "pt-af258a5d18",
+  "pt-68691a0380",
+  "pt-663c587ba2"
+ ],
+ "notes": [
+  "原文是 OCR 抽取件，字序错乱普遍存在：文号行作「学 件中国传媒大 文」、标题行作「学 生学 学位中国传媒大 全日制本科 士 授予工作 办实施 法」、章标题行作「二章学位第 授予条件」「章学位 程第三 授予 序」「章学位第四 质量保障」，字面残留按原文保留，节名按语义还原。",
+  "五章结构：第一章总则（第 18 行）、第二章学位授予条件（第 30 行）、第三章学位授予程序（第 60 行）、第四章质量保障（第 75 行）、第五章附则（第 109 行）。其中第一、五章标题去掉空白后能与原文逐字对应（「第一章总则」「第五章附则」），记 author；第二、三、四章的标题行把「第X章」与章名搅在一起（如第 30 行是「二章学位第 授予条件」），还原后的「第二章 学位授予条件」在本节行区间里逐字找不到，按硬判据改记 derived。",
+  "第 1—5 行是发文头（含文号），第 6—13 行是印发通知正文（落款「中国传媒大学 2025 年 1 月 1 日」在第 12—13 行），第 15—17 行才是文件正题名与「2024 年 12 月 24 日校长办公会议修订」括注，故前三节按「发文头／通知／标题」分立，均记 derived、no 用「—」。",
+  "页码行共 6 处（第 14、35、58、79、102、121 行），只有第 14 行「—1—」独立成段、不在任何节内（两节之间的纯页码行，按节首判据不并入，计 1 处覆盖空隙）；其余页码行夹在条文中段，随所在节保留。",
+  "末节「版记」收第 119—121 行（「中国传媒大学党政办公室 主动公开 2025 年 1 月」＋换行后的「发」＋页码「—6—」），是公文版记，单列一节、不挂条目。",
+  "rule-1ce888fb 是文档级条目、无引文（标题≈文档名），按口径列进文档级 items，并放进「文档标题与修订说明」一节（正题名所在行）落位。",
+  "第五、六、七、八条内部用「(一)(二)…」分项，第十条、第十二条同样分项；这些分项不是小标题（原文无独立标题行），未再拆子节，全部并入所属章。"
+ ]
+}

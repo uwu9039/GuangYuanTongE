@@ -1,1 +1,416 @@
-IiIi5YCZ6YCJ5a+554m55b6B44CCCgrmjpLluo/lmajkuI3nnIvjgIzliIbmlbDpmIjlgLzjgI3vvIznnIvnmoTmmK/mr4/kuKrlgJnpgInnmoTkuIDnu4Tlj6/mr5TnibnlvoHvvJrkuKTkuKrpgJrpgZPvvIjlrZfnrKbkuozlhYPnu4QgLwrpoobln5/or43vvInlnKggNSDkuKrlrZfmrrXkuIrnmoTliIbjgIHlrZfpnaLopobnm5bluqbvvIhJREYg5Yqg5p2D77yJ44CB5qCH6aKYL+WIq+WQjemHjeWQiOOAgeadoeebruenjeexu+WFiOmqjOOAgQrmmK/lkKblrZjmoaPmnaHnm67vvIzku6Xlj4rjgIzlrZfpnaLlkb3kuK0gw5cg5q2j5paH5ZG95Lit44CN6L+Z57G75Lqk5LqS6aG577yI57q/5oCn5qih5Z6L5rKh5pyJ5Lqk5LqS5bCx5a2m5LiN5Ye6CuOAjOagh+mimOWOn+agt+WRveS4reaXtuS4jeivpeiiq+ato+aWh+abtOmVv+eahOWIhuauteadoeebruaMpOaOieOAje+8ieOAggoK6KaG55uW5bqm5YWo6YOo5piv5ZCR6YeP5YyW566X55qE77ya5p+l6K+i6K+N5p2h6aG6552AIHBvc3RpbmdzIOS4gOasoee0r+WKoOWHuuOAjOavj+S4quaWh+aho+WRveS4reWHoOS4quivjeadoeOAje+8jArlgJnpgInlj6rlgZrmlbDnu4TliIfniYfvvIzmsqHmnInpgJDmnaHnm67nmoTlrZfnrKbkuLLmr5TovoPvvIzljZXmn6Xor6Lmr6vnp5LnuqfjgIIKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmZyb20gZGF0YWNsYXNzZXMgaW1wb3J0IGRhdGFjbGFzcywgZmllbGQKZnJvbSB0eXBpbmcgaW1wb3J0IFNlcXVlbmNlCgppbXBvcnQgbnVtcHkgYXMgbnAKCmZyb20gLmluZGV4IGltcG9ydCBGSUVMRFMsIEluZGV4CmZyb20gLnRleHQgaW1wb3J0IChMZXhpY29uLCBiaWdyYW1zLCBjb250ZW50X3dvcmRzLCBjb3JlX3RpdGxlLCBpc19odWJfdGl0bGUsCiAgICAgICAgICAgICAgICAgICBpc19xdWVzdGlvbl90aXRsZSwgbm9ybSwgc3RyaXBfbW9kYWwsIHRvcGljX3RleHQpCgpGRUFUVVJFX05BTUVTOiB0dXBsZVtzdHIsIC4uLl0gPSAoCiAgICAibG9nX2JtMjVfdG90YWwiLCAibG9nX2JtMjVfc2hvcnQiLCAibG9nX2dfdGl0bGUiLCAibG9nX2dfYWxpYXMiLCAibG9nX2dfa3ciLAogICAgImxvZ19nX2JvZHkiLCAibG9nX3BfdGl0bGUiLCAibG9nX3BfYWxpYXMiLCAibG9nX3Bfa3ciLCAibG9nX3BfdG90YWwiLAogICAgInRpdGxlX2VxIiwgInRpdGxlX2luX3EiLCAicV9pbl90aXRsZSIsICJhbGlhc19lcSIsICJhbGlhc19pbl9xIiwgInFfaW5fYWxpYXMiLAogICAgImNvdl9zaG9ydCIsICJjb3ZfdGl0bGUiLCAiY292X2JvZHkiLCAiZGljZV90aXRsZSIsICJkaWNlX2FsaWFzIiwgImRpY2Vfa3ciLAogICAgImxlbl9yYXRpb190aXRsZSIsICJsZW5fcmF0aW9fYWxpYXMiLCAia2luZF9oYW5kIiwgImtpbmRfYXV0byIsICJraW5kX2NsYXVzZSIsCiAgICAia2luZF9wYXJhIiwgImFyY2hpdmUiLCAicGhyYXNlX2hpdF9rdyIsICJkZXB0X2hpdCIsICJsb2dfdGl0bGVfbGVuIiwKICAgICJsb2dfZG9jX2xlbiIsICJibTI1X3JhbmtfcmVjaXAiLCAicGhyYXNlX2hpdF9zaG9ydCIsCiAgICAidGl0bGVfY292X3JldiIsICJzaG9ydF9leGFjdCIsICJleGFjdF94X3RvdGFsIiwgImV4YWN0X3hfYm9keSIsICJwaHJhc2VfaW5fdGl0bGUiLAogICAgImhhbmRfeF9leGFjdCIsICJhbGlhc19jb3ZlciIsICJ0aXRsZV9jb3ZlciIsCiAgICAjIOWQjOWQjeadoeebru+8muW6k+mHjOWQjOS4gOS4quS6i+mhueW4uOacieOAjOS6uuW3peaVtOeQhiArIOiHquWKqOaKveWPliArIOWOn+aWh+adoeasvuOAjeWkmuS7ve+8jAogICAgIyDnlKjmiLfpl67nmoTmmK/pgqPmnaHmnI3liqHvvIzkuI3mmK/mnaHmlofnoo7niYfvvJvov5nkuKTkuKrnibnlvoHorqnmjpLluo/lmajlrabkvJrmiorpnZ7kurrlt6XnmoTlkIzlkI3ku7bljovkuIvljrvjgIIKICAgICJoYW5kX3R3aW4iLCAidHdpbl9ub25oYW5kIiwKICAgICMgZGVuc2Ug6YCa6YGT77yI5Y+v5YWz77yb5YWz5LqG6L+Z5Lik5Liq54m55b6B5oGS5Li6IDDvvIkKICAgICJkZW5zZV9zY29yZSIsICJkZW5zZV9yYW5rX3JlY2lwIiwKICAgICMg5Li76aKY77yI5Yml5o6J6Zeu5Y+l5qGG5p626K+N5ZCO55qE5q+U5a+577yJ5LiO44CM5qCH6aKY5pys6Lqr5piv6Zeu5Y+l44CN55qE56KO54mH5p2h55uu44CCCiAgICAjIOmXruWPpemHjOeahOOAjOS7gOS5iOaXtuWAmSAvIOWcqOWTqumHjCAvIOaAjuS5iOOAjeWSjOWAmemAieagh+mimOmHjOeahOWQjOagt+WHoOS4quWtl+WvueS4iu+8jOWtl+mdouWIhuiZmumrmO+8mwogICAgIyDliaXmjonmoYbmnrbor43kuYvlkI7ov5jlhbHkuqvnmoTpgqPpg6jliIbvvIzmiY3mmK/jgIzorrLnmoTmmK/lkIzkuIDku7bkuovjgI3jgIIKICAgICJ0b3BpY19jb3ZfdGl0bGUiLCAidG9waWNfZGljZV90aXRsZSIsICJ0b3BpY19jb3Zfc2hvcnQiLCAidG9waWNfaW5fdGl0bGUiLAogICAgInF0aXRsZV9kb2MiLCAicXRpdGxlX3hfZ3RpdGxlIiwKICAgICMg5a6e6K+N6KaG55uW77ya6Zeu5Y+l6YeM55qE6aKG5Z+f5a6e6K+N5pyJ5Yeg5Liq5Ye6546w5Zyo5YCZ6YCJ55qE5ZCN5a2X77yI5qCH6aKYIC8g5Yir5ZCNIC8g5YWz6ZSu6K+N77yJ6YeM44CCCiAgICAjIOS6jOWFg+e7hOimhuebluS8muiiq+ahhuaetuivjeeBjOawtO+8iOOAjOS7gOS5iOaXtuWAmeOAjeWFseS6qyAzIOS4quS6jOWFg+e7hO+8ie+8jOWunuivjeS4jeS8muOAggogICAgIndvcmRfY292X3RpdGxlIiwgIndvcmRfY292X25hbWUiLAogICAgIyDlpKfmnYLng6nmnaHnm67vvIjluLjop4Hpl67popggLyDmsYfmgLsgLyDkuIDop4ggLyDluKbnvZHlnYDnmoTmlbTmrrXnvZHpobXnrZTmoYjvvInvvJrlkb3kuK3mrKHmlbDlvojlsJHvvIwKICAgICMg5L2G5LiA5pem5b2T5LiKIHRvcDEg6KeC5oSf5p6B5beu77yM5Y2V54us57uZ5LiA57u06K6p5o6S5bqP5Zmo5LiO6KeE5YiZ6YO96IO955So44CCCiAgICAiaHViX2RvYyIsCikKCgpjbGFzcyBUb3BpY0luZGV4OgogICAgIiIi5Li76aKY5LqM5YWD57uE55qE5YCS5o6S77yI5Y+q5bu65Zyo44CM5p2h55uu5ZCN5YiG44CN5LiK77ya5qCH6aKYIC8g5Yir5ZCNIC8g5YWz6ZSu6K+N77yJ44CCCgogICAg5ZKMIGBJbmRleC5jb3ZlcmAg55qE5Yy65Yir77ya6L+Z6YeM55qE6K+N5p2h5pivKirliaXmjonpl67lj6XmoYbmnrbor43kuYvlkI4qKueahOS6jOWFg+e7hAogICAg77yIYHRleHQudG9waWNfdGV4dGDvvInjgILjgIzku4DkuYjml7blgJnliqDlhaXnj63nuqfnvqTjgI3ov5nnp43lgJnpgInmoIfpopjliaXlrozlj6rlianjgIzliqDlhaXnj63nuqfnvqTjgI3vvIwKICAgIOS4juOAjOmAieivvuS7gOS5iOaXtuWAmeW8gOWni+OAjeS4jeWGjeWFseS6q+S7u+S9leivjeadoe+8jOWtl+mdouiZmumrmOWcqOS4u+mimOi/meS4gOi3r+WwseW9kumbtuS6huOAggoKICAgIOS9k+mHj+W+iOWwj++8iOavj+S4quS6jOWFg+e7hOW5s+WdhyAyIOadoSBwb3N0aW5n77yJ77yM5LiA5qyh5p+l6K+i5Y+q56Kw5ZG95Lit6YKj5Yeg5Liq6K+N5p2h77yMCiAgICDmiYDku6Xlj6/ku6Xnm7TmjqXlnKggMy45IOS4h+adoeS4iuWBmuaVsOe7hOe0r+WKoO+8jOS4jemcgOimgeWGjei1sOWAmemAieWIh+eJh+OAggogICAgIiIiCgogICAgX19zbG90c19fID0gKCJuIiwgInBvc3RfdGl0bGUiLCAicG9zdF9zaG9ydCIsICJsZW5fdGl0bGUiLCAibGVuX3Nob3J0IiwKICAgICAgICAgICAgICAgICAidGl0bGVfdG9waWMiKQoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBuOiBpbnQpIC0+IE5vbmU6CiAgICAgICAgc2VsZi5uID0gbgogICAgICAgIHNlbGYucG9zdF90aXRsZTogZGljdFtzdHIsIGxpc3RbaW50XV0gPSB7fQogICAgICAgIHNlbGYucG9zdF9zaG9ydDogZGljdFtzdHIsIGxpc3RbaW50XV0gPSB7fQogICAgICAgIHNlbGYubGVuX3RpdGxlID0gbnAuemVyb3MobiwgZHR5cGU9bnAuZmxvYXQzMikKICAgICAgICBzZWxmLmxlbl9zaG9ydCA9IG5wLnplcm9zKG4sIGR0eXBlPW5wLmZsb2F0MzIpCiAgICAgICAgc2VsZi50aXRsZV90b3BpYzogbGlzdFtzdHJdID0gWyIiXSAqIG4KCiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBidWlsZChjbHMsIGl4OiBJbmRleCwgdGl0bGVfa2V5OiBsaXN0W3N0cl0sIGFsaWFzX2tleXM6IGxpc3RbdHVwbGVbc3RyLCAuLi5dXSwKICAgICAgICAgICAgICBrd19rZXlzOiBsaXN0W3R1cGxlW3N0ciwgLi4uXV0pIC0+ICJUb3BpY0luZGV4IjoKICAgICAgICB0aSA9IGNscyhpeC5uKQogICAgICAgIGZvciBkaSBpbiByYW5nZShpeC5uKToKICAgICAgICAgICAgdHQgPSB0b3BpY190ZXh0KHRpdGxlX2tleVtkaV0pCiAgICAgICAgICAgIGlmIGxlbih0dCkgPj0gMjoKICAgICAgICAgICAgICAgIHRpLnRpdGxlX3RvcGljW2RpXSA9IHR0CiAgICAgICAgICAgICAgICBnID0gc2V0KGJpZ3JhbXModHQpKQogICAgICAgICAgICAgICAgdGkubGVuX3RpdGxlW2RpXSA9IGxlbihnKQogICAgICAgICAgICAgICAgZm9yIHggaW4gZzoKICAgICAgICAgICAgICAgICAgICB0aS5wb3N0X3RpdGxlLnNldGRlZmF1bHQoeCwgW10pLmFwcGVuZChkaSkKICAgICAgICAgICAgICAgIHN0ID0gdHQKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHN0ID0gIiIKICAgICAgICAgICAgcGFydHMgPSBbdHQsICooYSBmb3IgYSBpbiBhbGlhc19rZXlzW2RpXSBpZiBsZW4oYSkgPj0gMiksCiAgICAgICAgICAgICAgICAgICAgICooayBmb3IgayBpbiBrd19rZXlzW2RpXSBpZiBsZW4oaykgPj0gMildCiAgICAgICAgICAgIHNnOiBzZXRbc3RyXSA9IHNldCgpCiAgICAgICAgICAgIGZvciBwIGluIHBhcnRzOgogICAgICAgICAgICAgICAgdHAgPSB0b3BpY190ZXh0KHApCiAgICAgICAgICAgICAgICBpZiBsZW4odHApID49IDI6CiAgICAgICAgICAgICAgICAgICAgc2cudXBkYXRlKGJpZ3JhbXModHApKQogICAgICAgICAgICBpZiBzZzoKICAgICAgICAgICAgICAgIHRpLmxlbl9zaG9ydFtkaV0gPSBsZW4oc2cpCiAgICAgICAgICAgICAgICBmb3IgeCBpbiBzZzoKICAgICAgICAgICAgICAgICAgICB0aS5wb3N0X3Nob3J0LnNldGRlZmF1bHQoeCwgW10pLmFwcGVuZChkaSkKICAgICAgICByZXR1cm4gdGkKCiAgICBkZWYgX2NvdmVyKHNlbGYsIGdyYW1zLCBwb3N0KSAtPiBucC5uZGFycmF5OgogICAgICAgIGNudCA9IG5wLnplcm9zKHNlbGYubiwgZHR5cGU9bnAuZmxvYXQzMikKICAgICAgICBmb3IgZyBpbiBncmFtczoKICAgICAgICAgICAgZCA9IHBvc3QuZ2V0KGcpCiAgICAgICAgICAgIGlmIGQ6CiAgICAgICAgICAgICAgICBjbnRbZF0gKz0gMS4wCiAgICAgICAgcmV0dXJuIGNudAoKICAgIGRlZiBjb3Zlcl90aXRsZShzZWxmLCBncmFtcykgLT4gbnAubmRhcnJheToKICAgICAgICByZXR1cm4gc2VsZi5fY292ZXIoZ3JhbXMsIHNlbGYucG9zdF90aXRsZSkKCiAgICBkZWYgY292ZXJfc2hvcnQoc2VsZiwgZ3JhbXMpIC0+IG5wLm5kYXJyYXk6CiAgICAgICAgcmV0dXJuIHNlbGYuX2NvdmVyKGdyYW1zLCBzZWxmLnBvc3Rfc2hvcnQpCgoKY2xhc3MgSW5kZXhDYWNoZToKICAgICIiIue0ouW8leeahOWPquivu+a0vueUn+inhuWbvu+8iOS4jeWkjeWItuivjeadoembhuWQiO+8jOWPque8k+WtmOiDveW/q+mAn+WPluWIsOeahOagh+mHjy/lrZfnrKbkuLLvvInjgIIiIiIKCiAgICBfX3Nsb3RzX18gPSAoIml4IiwgImxleCIsICJpZGZfbGlzdCIsICJ0aXRsZV9rZXkiLCAiYWxpYXNfa2V5cyIsICJkZXB0X2tleXMiLCAia2luZCIsCiAgICAgICAgICAgICAgICAgImFyY2hpdmUiLCAidGl0bGVfbGVuIiwgImRvY19sZW4iLCAibG9nX3RpdGxlX2xlbiIsICJsb2dfZG9jX2xlbiIsCiAgICAgICAgICAgICAgICAgImFsaWFzMF9sZW4iLCAiaXNfaGFuZCIsICJpc19hdXRvIiwgImlzX2NsYXVzZSIsICJpc19wYXJhIiwgImhhbmRfdHdpbiIsCiAgICAgICAgICAgICAgICAgInR3aW5fb2YiLCAidG9waWMiLCAicXRpdGxlIiwgInRpdGxlX3JhdyIsICJuYW1lX3JhdyIsICJodWIiKQoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBpeDogSW5kZXgsIGxleDogTGV4aWNvbiB8IE5vbmUgPSBOb25lKSAtPiBOb25lOgogICAgICAgIHNlbGYuaXggPSBpeAogICAgICAgIHNlbGYubGV4ID0gbGV4IG9yIExleGljb24oKCkpCiAgICAgICAgc2VsZi5pZGZfbGlzdCA9IFtmbG9hdCh4KSBmb3IgeCBpbiBpeC5wb3N0WyJzaG9ydCJdWyJpZGYiXV0KICAgICAgICBzZWxmLnRpdGxlX2tleTogbGlzdFtzdHJdID0gW2NvcmVfdGl0bGUoZC50aXRsZSkgZm9yIGQgaW4gaXguZG9jc10KICAgICAgICBzZWxmLmFsaWFzX2tleXM6IGxpc3RbdHVwbGVbc3RyLCAuLi5dXSA9IFt0dXBsZShub3JtKGEpIGZvciBhIGluIGQuYWxpYXNlcykgZm9yIGQgaW4gaXguZG9jc10KICAgICAgICBzZWxmLmRlcHRfa2V5czogbGlzdFtzdHJdID0gW25vcm0oZC5kZXB0KSBmb3IgZCBpbiBpeC5kb2NzXQogICAgICAgIHNlbGYua2luZDogbGlzdFtzdHJdID0gW2Qua2luZCBmb3IgZCBpbiBpeC5kb2NzXQogICAgICAgIHNlbGYuYXJjaGl2ZTogbnAubmRhcnJheSA9IG5wLmFycmF5KFtkLmFyY2hpdmUgZm9yIGQgaW4gaXguZG9jc10sIGR0eXBlPW5wLmZsb2F0MzIpCiAgICAgICAgc2VsZi50aXRsZV9sZW4gPSBucC5hcnJheShbbGVuKGspIGZvciBrIGluIHNlbGYudGl0bGVfa2V5XSwgZHR5cGU9bnAuZmxvYXQzMikKICAgICAgICBzZWxmLmFsaWFzMF9sZW4gPSBucC5hcnJheShbbGVuKGFbMF0pIGlmIGEgZWxzZSAwIGZvciBhIGluIHNlbGYuYWxpYXNfa2V5c10sIGR0eXBlPW5wLmZsb2F0MzIpCiAgICAgICAgc2VsZi5kb2NfbGVuID0gKGl4LnVuaXFbInNob3J0Il0gKyBpeC51bmlxWyJib2R5Il0pLmFzdHlwZShucC5mbG9hdDMyKQogICAgICAgIHNlbGYubG9nX3RpdGxlX2xlbiA9IG5wLmxvZzFwKHNlbGYudGl0bGVfbGVuKS5hc3R5cGUobnAuZmxvYXQzMikKICAgICAgICBzZWxmLmxvZ19kb2NfbGVuID0gbnAubG9nMXAoc2VsZi5kb2NfbGVuKS5hc3R5cGUobnAuZmxvYXQzMikKICAgICAgICBzZWxmLmlzX2hhbmQgPSBucC5hcnJheShbZC5raW5kID09ICJoYW5kIiBmb3IgZCBpbiBpeC5kb2NzXSwgZHR5cGU9bnAuZmxvYXQzMikKICAgICAgICBzZWxmLmlzX2F1dG8gPSBucC5hcnJheShbZC5raW5kID09ICJhdXRvIiBmb3IgZCBpbiBpeC5kb2NzXSwgZHR5cGU9bnAuZmxvYXQzMikKICAgICAgICBzZWxmLmlzX2NsYXVzZSA9IG5wLmFycmF5KFtkLmtpbmQgPT0gImNsYXVzZSIgZm9yIGQgaW4gaXguZG9jc10sIGR0eXBlPW5wLmZsb2F0MzIpCiAgICAgICAgc2VsZi5pc19wYXJhID0gbnAuYXJyYXkoW2Qua2luZCA9PSAicGFyYSIgZm9yIGQgaW4gaXguZG9jc10sIGR0eXBlPW5wLmZsb2F0MzIpCiAgICAgICAgc2VsZi5oYW5kX3R3aW4gPSBzZWxmLl9oYW5kX3R3aW4oKQogICAgICAgIGt3X2tleXMgPSBbdHVwbGUobm9ybShrKSBmb3IgayBpbiBkLmtleXdvcmRzKSBmb3IgZCBpbiBpeC5kb2NzXQogICAgICAgIHNlbGYudG9waWMgPSBUb3BpY0luZGV4LmJ1aWxkKGl4LCBzZWxmLnRpdGxlX2tleSwgc2VsZi5hbGlhc19rZXlzLCBrd19rZXlzKQogICAgICAgICMg5qCH6aKY5piv6Zeu5Y+lIC8g5pW05Y+l44CB5Y+I5LiN5piv5Lq65bel5pW055CG5p2h55uuIOKAlOKAlCDov5nnsbvjgIzljp/mlofnoo7niYfjgI3kuI3mmK/kuovpobnmnaHnm67vvIwKICAgICAgICAjIOS9huWug+eahOagh+mimOaBsOWlveWQq+mXruWPpeahhuaetuivje+8jOWtl+mdouWIhuS8muiZmumrmO+8iGh1YiDmiqLnrZTnmoTmoLnlm6DvvInjgIIKICAgICAgICBpc19xID0gbnAuYXJyYXkoW2lzX3F1ZXN0aW9uX3RpdGxlKGQudGl0bGUpIGZvciBkIGluIGl4LmRvY3NdLCBkdHlwZT1ucC5mbG9hdDMyKQogICAgICAgIHNlbGYucXRpdGxlID0gaXNfcSAqICgxLjAgLSBzZWxmLmlzX2hhbmQpCiAgICAgICAgIyDlkI3lrZfnmoTljp/lp4vkuLLvvIjkuI3liaXmi6zlj7fjgIHkuI3liaXmloflj7fvvInvvJrlrp7or43opobnm5bopoHmjInjgIznlKjmiLfnnJ/og73nnIvliLDnmoTlrZfjgI3mr5Tlr7kKICAgICAgICBzZWxmLnRpdGxlX3JhdzogbGlzdFtzdHJdID0gW25vcm0oZC50aXRsZSkgZm9yIGQgaW4gaXguZG9jc10KICAgICAgICBzZWxmLm5hbWVfcmF3OiBsaXN0W3N0cl0gPSBbdCArICIiLmpvaW4oYSkgKyAiIi5qb2luKGspIGZvciB0LCBhLCBrCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGluIHppcChzZWxmLnRpdGxlX3Jhdywgc2VsZi5hbGlhc19rZXlzLCBrd19rZXlzKV0KICAgICAgICBzZWxmLmh1YiA9IG5wLmFycmF5KFtpc19odWJfdGl0bGUoZC50aXRsZSkgZm9yIGQgaW4gaXguZG9jc10sIGR0eXBlPW5wLmZsb2F0MzIpCgogICAgZGVmIF9oYW5kX3R3aW4oc2VsZikgLT4gbnAubmRhcnJheToKICAgICAgICAiIiLpnZ7kurrlt6XmnaHnm67kuI7mn5DmnaHkurrlt6XmnaHnm67nmoTmoIfpopjnm7jkvLzluqbvvIjkuozlhYPnu4Tph43lkIjvvInjgIIKCiAgICAgICAg44CM5a2m55Sf55S15a2Q5Lqk6YCa5Y2h55Sz6aKG44CN6L+Z57G75ZCM5ZCN5p2h55uu5Zyo5bqT6YeM5ZCM5pe25pyJIGhhbmQgLyBhdXRvIC8gcnVsZSAvIGRvYyDlm5vku73vvIwKICAgICAgICDosIPmjaLkuIDkuIvor43luo/lsLHourLov4fnsr7noa7ljLnphY3vvJvov5nph4znlKjkuozlhYPnu4Topobnm5blhZzkvY/vvIzorqnmjpLluo/lmajlrabliLDjgIzlkIzlkI3kvJjlhYjkurrlt6XniYjjgI3jgIIKICAgICAgICAiIiIKICAgICAgICBoYW5kX2lkeCA9IFtpIGZvciBpLCBrIGluIGVudW1lcmF0ZShzZWxmLmtpbmQpIGlmIGsgPT0gImhhbmQiXQogICAgICAgIHBvc3RpbmdzOiBkaWN0W3N0ciwgbGlzdFtpbnRdXSA9IHt9CiAgICAgICAgZm9yIGggaW4gaGFuZF9pZHg6CiAgICAgICAgICAgIGZvciBnIGluIHNldChzbGljZV9uZ3JhbXMoc2VsZi50aXRsZV9rZXlbaF0pKToKICAgICAgICAgICAgICAgIGlmIGxlbihzZWxmLnRpdGxlX2tleVtoXSkgPj0gMjoKICAgICAgICAgICAgICAgICAgICBwb3N0aW5ncy5zZXRkZWZhdWx0KGcsIFtdKS5hcHBlbmQoaCkKICAgICAgICBvdXQgPSBucC56ZXJvcyhsZW4oc2VsZi5raW5kKSwgZHR5cGU9bnAuZmxvYXQzMikKICAgICAgICB0d2luX29mID0gbnAuZnVsbChsZW4oc2VsZi5raW5kKSwgLTEsIGR0eXBlPW5wLmludDMyKQogICAgICAgIGZvciBpLCBjb3JlIGluIGVudW1lcmF0ZShzZWxmLnRpdGxlX2tleSk6CiAgICAgICAgICAgIGlmIHNlbGYua2luZFtpXSA9PSAiaGFuZCIgb3IgbGVuKGNvcmUpIDwgMjoKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIGdyYW1zID0gc2V0KHNsaWNlX25ncmFtcyhjb3JlKSkKICAgICAgICAgICAgaWYgbm90IGdyYW1zOgogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgaGl0czogZGljdFtpbnQsIGludF0gPSB7fQogICAgICAgICAgICBmb3IgZyBpbiBncmFtczoKICAgICAgICAgICAgICAgIGZvciBoIGluIHBvc3RpbmdzLmdldChnLCAoKSk6ICAjIG5vcWE6IEU1MDEKICAgICAgICAgICAgICAgICAgICBoaXRzW2hdID0gaGl0cy5nZXQoaCwgMCkgKyAxCiAgICAgICAgICAgIGlmIG5vdCBoaXRzOgogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgYmVzdCwgYmVzdF9oID0gMC4wLCAtMQogICAgICAgICAgICBmb3IgaCwgYyBpbiBoaXRzLml0ZW1zKCk6CiAgICAgICAgICAgICAgICAjIOmHjeWPoOezu+aVsO+8iOmZpOS7pei+g+efreS4gOaWue+8ie+8jOivjeW6j+iwg+aNouS5n+iupO+8muOAjOeUteWtkOWtpueUn+S6pOmAmuWNoeOAjeKGlOOAjOWtpueUn+eUteWtkOS6pOmAmuWNoeOAjQogICAgICAgICAgICAgICAgZGVub20gPSBtaW4obGVuKGdyYW1zKSwgbGVuKHNldChzbGljZV9uZ3JhbXMoc2VsZi50aXRsZV9rZXlbaF0pKSkpCiAgICAgICAgICAgICAgICBzY29yZSA9IGMgLyBkZW5vbSBpZiBkZW5vbSBlbHNlIDAuMAogICAgICAgICAgICAgICAgaWYgc2NvcmUgPiBiZXN0OgogICAgICAgICAgICAgICAgICAgIGJlc3QsIGJlc3RfaCA9IHNjb3JlLCBoCiAgICAgICAgICAgIGlmIGJlc3QgPj0gMC42OgogICAgICAgICAgICAgICAgb3V0W2ldID0gYmVzdAogICAgICAgICAgICAgICAgdHdpbl9vZltpXSA9IGJlc3RfaAogICAgICAgIHNlbGYudHdpbl9vZiA9IHR3aW5fb2YKICAgICAgICByZXR1cm4gb3V0CgoKQGRhdGFjbGFzcwpjbGFzcyBRdWVyeUN0eDoKICAgIHJhdzogc3RyCiAgICBjb3JlOiBzdHIKICAgIGdyYW1faWRzOiBucC5uZGFycmF5CiAgICBncmFtX3c6IG5wLm5kYXJyYXkKICAgIHBocmFzZV9pZHM6IG5wLm5kYXJyYXkKICAgIGdyYW1fc2V0OiBmcm96ZW5zZXRbaW50XQogICAgcGhyYXNlX3NldDogZnJvemVuc2V0W2ludF0KICAgIGRlcHQ6IHN0ciA9ICIiCiAgICBjb3JlX206IHN0ciA9ICIiICAgICAgICAgICAgICAgICAgICAjIOWOu+aOieaDheaAgeivje+8iOiDvS/lj6/ku6XvvInlkI7nmoTkuLvpopjkuLLvvIzlj6rnlKjkuo7lrZfpnaLljIXlkKvmr5Tlr7kKICAgIHRvcGljOiBzdHIgPSAiIiAgICAgICAgICAgICAgICAgICAgICMg5Yml5o6J6Zeu5Y+l5qGG5p626K+N5ZCO55qE5Li76aKY5Liy77yI5Li76aKY5q+U5a+555So77yJCiAgICB0b3BpY19ncmFtczogZnJvemVuc2V0W3N0cl0gPSBmcm96ZW5zZXQoKQogICAgd29yZHM6IHR1cGxlW3N0ciwgLi4uXSA9ICgpICAgICAgICAgICMg6Zeu5Y+l6YeM55qE6aKG5Z+f5a6e6K+N77yI5qGG5p626K+N5bey5YmU6Zmk77yJCiAgICBfaWRmX2Rlbm9tOiBmbG9hdCA9IGZpZWxkKGRlZmF1bHQ9MC4wLCByZXByPUZhbHNlKQoKCmRlZiBzbGljZV9uZ3JhbXMoczogc3RyKSAtPiBsaXN0W3N0cl06CiAgICByZXR1cm4gW3NbaTppICsgMl0gZm9yIGkgaW4gcmFuZ2UobGVuKHMpIC0gMSldCgoKREVQVFMgPSAoIuS/oeaBr+WMluWkhCIsICLmlZnliqEiLCAi5a2m55Sf5bel5L2c6YOoIiwgIuWbvuS5pummhiIsICLlkI7li6QiLCAi5L+d5Y2r5aSEIiwgIuagoeWMu+mZoiIsICLkvZPogrLpg6giLAogICAgICAgICAi6LSi5YqhIiwgIuWtpuW3pSIsICLnoJTnqbbnlJ/pmaIiLCAi5bCx5LiaIiwgIuS6uuWKmyIsICLmi5vnlJ8iKQoKCmRlZiBtYWtlX2N0eChpeDogSW5kZXgsIGNhY2hlOiBJbmRleENhY2hlLCByYXc6IHN0ciwgY29yZTogc3RyKSAtPiBRdWVyeUN0eDoKICAgIGdyYW1zID0gbGlzdChkaWN0LmZyb21rZXlzKGJpZ3JhbXMoY29yZSkpKQogICAgZ2lkcyA9IFtpeC52b2NhYlsiRzoiICsgZ10gZm9yIGcgaW4gZ3JhbXMgaWYgIkc6IiArIGcgaW4gaXgudm9jYWJdCiAgICBwaHJhc2VzID0gW3cgZm9yIHcgaW4gY2FjaGUubGV4Lm1hdGNoKGNvcmUpIGlmIGxlbih3KSA+PSAzXQogICAgcGlkcyA9IFtpeC52b2NhYlsiUDoiICsgd10gZm9yIHcgaW4gcGhyYXNlcyBpZiAiUDoiICsgdyBpbiBpeC52b2NhYl0KICAgIG5jID0gbm9ybShjb3JlKQogICAgZGVwdCA9ICIiCiAgICBmb3IgZCBpbiBERVBUUzoKICAgICAgICBpZiBub3JtKGQpIGluIG5jOgogICAgICAgICAgICBkZXB0ID0gbm9ybShkKQogICAgICAgICAgICBicmVhawogICAgY3R4ID0gUXVlcnlDdHgocmF3PXJhdywgY29yZT1jb3JlLAogICAgICAgICAgICAgICAgICAgZ3JhbV9pZHM9bnAuYXNhcnJheShnaWRzLCBkdHlwZT1ucC5pbnQzMiksCiAgICAgICAgICAgICAgICAgICBncmFtX3c9bnAub25lcyhsZW4oZ2lkcyksIGR0eXBlPW5wLmZsb2F0MzIpLAogICAgICAgICAgICAgICAgICAgcGhyYXNlX2lkcz1ucC5hc2FycmF5KHBpZHMsIGR0eXBlPW5wLmludDMyKSwKICAgICAgICAgICAgICAgICAgIGdyYW1fc2V0PWZyb3plbnNldChnaWRzKSwgcGhyYXNlX3NldD1mcm96ZW5zZXQocGlkcyksIGRlcHQ9ZGVwdCwKICAgICAgICAgICAgICAgICAgIGNvcmVfbT1zdHJpcF9tb2RhbChjb3JlKSkKICAgIHRwID0gdG9waWNfdGV4dChjb3JlKQogICAgY3R4LnRvcGljID0gdHAKICAgIGN0eC50b3BpY19ncmFtcyA9IGZyb3plbnNldChiaWdyYW1zKHRwKSkKICAgICMg5a6e6K+N77ya6aKG5Z+f6K+N6KGo5YiH5LiA6YGN77yM5YmU5o6J5qGG5p626K+N77yb5LiA5Liq6YO95rKh5YiH5Ye65p2l5pe26YCA5Zue5Li76aKY5LqM5YWD57uECiAgICB3b3JkcyA9IGNvbnRlbnRfd29yZHMoY2FjaGUubGV4LCB0cCkKICAgIGlmIG5vdCB3b3JkcyBhbmQgbGVuKHRwKSA+PSAyOgogICAgICAgIHdvcmRzID0gW3RwXQogICAgY3R4LndvcmRzID0gdHVwbGUod29yZHMpCiAgICBjdHguX2lkZl9kZW5vbSA9IHN1bShjYWNoZS5pZGZfbGlzdFt0XSBmb3IgdCBpbiBjdHguZ3JhbV9zZXQpIG9yIDEuMAogICAgcmV0dXJuIGN0eAoKCmRlZiBjb3ZlcmFnZShpeDogSW5kZXgsIGN0eDogUXVlcnlDdHgpIC0+IGRpY3Rbc3RyLCB0dXBsZVtucC5uZGFycmF5LCBucC5uZGFycmF5XV06CiAgICAiIiLkuIDmrKHnrpflh7rlkITlrZfmrrXnmoTopobnm5bluqbvvIjor43mnaHmlbAgLyBJREYg5ZKM77yJ77yM5L6bIGZlYXR1cml6ZSDlj5bnlKjjgIIiIiIKICAgIG91dDogZGljdFtzdHIsIHR1cGxlW25wLm5kYXJyYXksIG5wLm5kYXJyYXldXSA9IHt9CiAgICBncmFtcyA9IFsoIkc6IiArIGN0eC5jb3JlW2k6aSArIDJdKSBmb3IgaSBpbiByYW5nZShtYXgobGVuKGN0eC5jb3JlKSAtIDEsIDApKV0KICAgIGdyYW1zID0gbGlzdChkaWN0LmZyb21rZXlzKGdyYW1zKSkKICAgIGZvciBmIGluICgic2hvcnQiLCAidGl0bGUiLCAiYWxpYXMiLCAia3ciLCAiYm9keSIpOgogICAgICAgIG91dFtmXSA9IGl4LmNvdmVyKGdyYW1zLCBmKQogICAgcmV0dXJuIG91dAoKCmRlZiBfbG9nKHg6IG5wLm5kYXJyYXkpIC0+IG5wLm5kYXJyYXk6CiAgICByZXR1cm4gbnAubG9nMXAobnAubWF4aW11bSh4LCAwLjApKS5hc3R5cGUobnAuZmxvYXQzMikKCgpkZWYgZmVhdHVyaXplKGNhY2hlOiBJbmRleENhY2hlLCBjdHg6IFF1ZXJ5Q3R4LCBkb2NfaWRzOiBTZXF1ZW5jZVtpbnRdLAogICAgICAgICAgICAgIGZpZWxkX3Njb3JlczogZGljdFtzdHIsIGRpY3Rbc3RyLCBucC5uZGFycmF5XV0gfCBOb25lID0gTm9uZSwKICAgICAgICAgICAgICBibTI1X29yZGVyOiBkaWN0W2ludCwgaW50XSB8IE5vbmUgPSBOb25lLAogICAgICAgICAgICAgIGNvdjogZGljdFtzdHIsIHR1cGxlW25wLm5kYXJyYXksIG5wLm5kYXJyYXldXSB8IE5vbmUgPSBOb25lLAogICAgICAgICAgICAgIHBocmFzZV9jb3Y6IGRpY3Rbc3RyLCBucC5uZGFycmF5XSB8IE5vbmUgPSBOb25lLAogICAgICAgICAgICAgIGRlbnNlOiBkaWN0W2ludCwgdHVwbGVbZmxvYXQsIGludF1dIHwgTm9uZSA9IE5vbmUpIC0+IG5wLm5kYXJyYXk6CiAgICAiIiLov5Tlm54gKGxlbihkb2NfaWRzKSwgRikg55qE54m55b6B55+p6Zi144CCIiIiCiAgICBpeCA9IGNhY2hlLml4CiAgICBpZHMgPSBucC5hc2FycmF5KGxpc3QoZG9jX2lkcyksIGR0eXBlPW5wLmludDY0KQogICAgbSA9IGxlbihpZHMpCiAgICB4ID0gbnAuemVyb3MoKG0sIGxlbihGRUFUVVJFX05BTUVTKSksIGR0eXBlPW5wLmZsb2F0MzIpCiAgICBpZiBtID09IDA6CiAgICAgICAgcmV0dXJuIHgKICAgIHplcm8gPSBucC56ZXJvcyhtLCBkdHlwZT1ucC5mbG9hdDMyKQoKICAgIGRlZiBmcyhjaGFuOiBzdHIsIGY6IHN0cikgLT4gbnAubmRhcnJheToKICAgICAgICBpZiBub3QgZmllbGRfc2NvcmVzIG9yIGNoYW4gbm90IGluIGZpZWxkX3Njb3JlczoKICAgICAgICAgICAgcmV0dXJuIHplcm8KICAgICAgICByZXR1cm4gZmllbGRfc2NvcmVzW2NoYW5dW2ZdW2lkc10KCiAgICBnID0ge2Y6IGZzKCJnIiwgZikgZm9yIGYgaW4gRklFTERTfQogICAgcCA9IHtmOiBmcygicCIsIGYpIGZvciBmIGluIEZJRUxEU30KICAgIHRvdGFsID0gc3VtKGdbZl0gZm9yIGYgaW4gRklFTERTKSArIDEuMzUgKiBzdW0ocFtmXSBmb3IgZiBpbiBGSUVMRFMpCiAgICBzaG9ydCA9IGdbInRpdGxlIl0gKyBnWyJhbGlhcyJdICsgZ1sia3ciXSArIDEuMzUgKiAocFsidGl0bGUiXSArIHBbImFsaWFzIl0gKyBwWyJrdyJdKQogICAgeFs6LCAwXSwgeFs6LCAxXSA9IF9sb2codG90YWwpLCBfbG9nKHNob3J0KQogICAgeFs6LCAyXSwgeFs6LCAzXSwgeFs6LCA0XSwgeFs6LCA1XSA9IF9sb2coZ1sidGl0bGUiXSksIF9sb2coZ1siYWxpYXMiXSksIF9sb2coZ1sia3ciXSksIF9sb2coZ1siYm9keSJdKQogICAgeFs6LCA2XSwgeFs6LCA3XSwgeFs6LCA4XSA9IF9sb2cocFsidGl0bGUiXSksIF9sb2cocFsiYWxpYXMiXSksIF9sb2cocFsia3ciXSkKICAgIHhbOiwgOV0gPSBfbG9nKHN1bShwW2ZdIGZvciBmIGluIEZJRUxEUykpCgogICAgbnEgPSBtYXgobGVuKGN0eC5ncmFtX3NldCksIDEpCiAgICBpZGZfZGVub20gPSBtYXgoY3R4Ll9pZGZfZGVub20sIDFlLTYpCiAgICBjb3YgPSBjb3Ygb3Ige30KICAgIGNfc2hvcnQsIGlfc2hvcnQgPSAoY292LmdldCgic2hvcnQiKSBvciAoemVybywgemVybykpCiAgICBjX3RpdGxlID0gKGNvdi5nZXQoInRpdGxlIikgb3IgKHplcm8sIHplcm8pKVswXQogICAgY19hbGlhcyA9IChjb3YuZ2V0KCJhbGlhcyIpIG9yICh6ZXJvLCB6ZXJvKSlbMF0KICAgIGNfa3cgPSAoY292LmdldCgia3ciKSBvciAoemVybywgemVybykpWzBdCiAgICBjX2JvZHkgPSAoY292LmdldCgiYm9keSIpIG9yICh6ZXJvLCB6ZXJvKSlbMF0KICAgIHhbOiwgMTZdID0gaV9zaG9ydFtpZHNdIC8gaWRmX2Rlbm9tCiAgICB4WzosIDE3XSA9IGNfdGl0bGVbaWRzXSAvIG5xCiAgICB4WzosIDE4XSA9IGNfYm9keVtpZHNdIC8gbnEKICAgIHhbOiwgMTldID0gMi4wICogY190aXRsZVtpZHNdIC8gbnAubWF4aW11bShpeC51bmlxWyJ0aXRsZSJdW2lkc10gKyBucSwgMSkKICAgIHhbOiwgMjBdID0gMi4wICogY19hbGlhc1tpZHNdIC8gbnAubWF4aW11bShpeC51bmlxWyJhbGlhcyJdW2lkc10gKyBucSwgMSkKICAgIHhbOiwgMjFdID0gMi4wICogY19rd1tpZHNdIC8gbnAubWF4aW11bShpeC51bmlxWyJrdyJdW2lkc10gKyBucSwgMSkKICAgIGlmIHBocmFzZV9jb3Y6CiAgICAgICAgeFs6LCAzNF0gPSBwaHJhc2VfY292WyJzaG9ydCJdW2lkc10gLyBtYXgobGVuKGN0eC5waHJhc2Vfc2V0KSwgMSkKICAgICAgICB4WzosIDI5XSA9IHBocmFzZV9jb3ZbImt3Il1baWRzXQogICAgICAgIHhbOiwgMzldID0gKHBocmFzZV9jb3ZbInRpdGxlIl1baWRzXSA+IDApLmFzdHlwZShucC5mbG9hdDMyKQoKICAgIHhbOiwgMjJdID0gbnAubWluaW11bShjYWNoZS50aXRsZV9sZW5baWRzXSwgbGVuKGN0eC5jb3JlKSkgLyBucC5tYXhpbXVtKGNhY2hlLnRpdGxlX2xlbltpZHNdLCBsZW4oY3R4LmNvcmUpKQogICAgeFs6LCAyM10gPSBucC5taW5pbXVtKGNhY2hlLmFsaWFzMF9sZW5baWRzXSwgbGVuKGN0eC5jb3JlKSkgLyBucC5tYXhpbXVtKGNhY2hlLmFsaWFzMF9sZW5baWRzXSwgbGVuKGN0eC5jb3JlKSkKICAgIHhbOiwgMjRdID0gY2FjaGUuaXNfaGFuZFtpZHNdCiAgICB4WzosIDI1XSA9IGNhY2hlLmlzX2F1dG9baWRzXQogICAgeFs6LCAyNl0gPSBjYWNoZS5pc19jbGF1c2VbaWRzXQogICAgeFs6LCAyN10gPSBjYWNoZS5pc19wYXJhW2lkc10KICAgIHhbOiwgMjhdID0gY2FjaGUuYXJjaGl2ZVtpZHNdCiAgICBpZiBjdHguZGVwdDoKICAgICAgICB4WzosIDMwXSA9IG5wLmFycmF5KFtjdHguZGVwdCBpbiBjYWNoZS5kZXB0X2tleXNbZF0gZm9yIGQgaW4gaWRzXSwgZHR5cGU9bnAuZmxvYXQzMikKICAgIHhbOiwgMzFdID0gY2FjaGUubG9nX3RpdGxlX2xlbltpZHNdCiAgICB4WzosIDMyXSA9IGNhY2hlLmxvZ19kb2NfbGVuW2lkc10KCiAgICBjb3JlID0gY3R4LmNvcmUKICAgIGNvcmVfbSA9IGN0eC5jb3JlX20gb3IgY29yZSAgICAgICMg5Y675o6J5oOF5oCB6K+N5ZCO55qE5ZCM5LiA5Y+l77yM55So5LqO5a2X6Z2i5YyF5ZCr5q+U5a+5CiAgICAjIOmXruWPpemHjOWHuueOsOeahOagh+mimCAvIOWIq+WQje+8muWFiOeUqOOAjOmXruWPpeWtkOS4siDihpIg5paH5qGj44CN55qE5a2X5YW45p+l6KGo77yM6YG/5YWN6YCQ5YCZ6YCJ5YGa5a2X56ym5Liy5q+U6L6DCiAgICB0aXRsZV9pbl9xOiBzZXRbaW50XSA9IHNldCgpCiAgICBhbGlhc19pbl9xOiBzZXRbaW50XSA9IHNldCgpCiAgICB0aXRsZV9lcTogc2V0W2ludF0gPSBzZXQoKQogICAgYWxpYXNfZXE6IHNldFtpbnRdID0gc2V0KCkKICAgIHRrID0gY2FjaGUuaXgudGl0bGVfa2V5cwogICAgYWsgPSBjYWNoZS5peC5hbGlhc19rZXlzCiAgICBmb3IgZm9ybSBpbiAoY29yZSwgY29yZV9tKToKICAgICAgICBmb3IgZCBpbiB0ay5nZXQoZm9ybSwgKCkpOgogICAgICAgICAgICB0aXRsZV9lcS5hZGQoZCkKICAgICAgICAgICAgdGl0bGVfaW5fcS5hZGQoZCkKICAgICAgICBmb3IgZCBpbiBhay5nZXQoZm9ybSwgKCkpOgogICAgICAgICAgICBhbGlhc19lcS5hZGQoZCkKICAgICAgICAgICAgYWxpYXNfaW5fcS5hZGQoZCkKICAgICAgICBuX2Zvcm0gPSBsZW4oZm9ybSkKICAgICAgICBmb3IgaSBpbiByYW5nZShuX2Zvcm0pOgogICAgICAgICAgICBmb3IgTCBpbiByYW5nZSgzLCBtaW4obl9mb3JtIC0gaSwgMTYpICsgMSk6CiAgICAgICAgICAgICAgICBzdWIgPSBmb3JtW2k6aSArIExdCiAgICAgICAgICAgICAgICBkb2NzID0gdGsuZ2V0KHN1YikKICAgICAgICAgICAgICAgIGlmIGRvY3M6CiAgICAgICAgICAgICAgICAgICAgdGl0bGVfaW5fcS51cGRhdGUoZG9jcykKICAgICAgICAgICAgICAgIGRvY3MgPSBhay5nZXQoc3ViKQogICAgICAgICAgICAgICAgaWYgZG9jczoKICAgICAgICAgICAgICAgICAgICBhbGlhc19pbl9xLnVwZGF0ZShkb2NzKQoKICAgIGZvciByLCBkaSBpbiBlbnVtZXJhdGUoaWRzKToKICAgICAgICBkaSA9IGludChkaSkKICAgICAgICB4W3IsIDEwXSA9IDEuMCBpZiBkaSBpbiB0aXRsZV9lcSBlbHNlIDAuMAogICAgICAgIHhbciwgMTFdID0gMS4wIGlmIGRpIGluIHRpdGxlX2luX3EgZWxzZSAwLjAKICAgICAgICAjIOWIq+WQjeWPquacieS6uuW3peadoeebruaJjeWPr+S/oe+8muiHquWKqOaKveWPluadoeebrueahCBhbGlhcyDlpJrljYrmmK/moIfpopjnoo7niYfvvIwKICAgICAgICAjIOS4gOWPpeOAjOWbvuS5pummhuOAjeWwseiDveiuqeS4gOWghuauteiQvea3t+i/m+OAjOWIq+WQjeWRveS4reOAje+8jOWunua1i+S8muaKiuacjeWKoeadoeebruaMpOS4i+WOu+OAggogICAgICAgIGhhbmQgPSB4W3IsIDI0XSA+IDAuNQogICAgICAgIHhbciwgMTNdID0gMS4wIGlmIChoYW5kIGFuZCBkaSBpbiBhbGlhc19lcSkgZWxzZSAwLjAKICAgICAgICB4W3IsIDE0XSA9IDEuMCBpZiAoaGFuZCBhbmQgZGkgaW4gYWxpYXNfaW5fcSkgZWxzZSAwLjAKICAgICAgICB0aXRsZSA9IGNhY2hlLnRpdGxlX2tleVtkaV0KICAgICAgICBpZiBsZW4odGl0bGUpID49IDMgYW5kIChjb3JlIGluIHRpdGxlIG9yIGNvcmVfbSBpbiB0aXRsZSk6CiAgICAgICAgICAgIHhbciwgMTJdID0gMS4wCiAgICAgICAgYmVzdF9hbGlhcyA9IDAKICAgICAgICBmb3IgYSBpbiBjYWNoZS5hbGlhc19rZXlzW2RpXToKICAgICAgICAgICAgaWYgYSBhbmQgKGEgaW4gY29yZSBvciBhIGluIGNvcmVfbSkgYW5kIGxlbihhKSA+IGJlc3RfYWxpYXM6CiAgICAgICAgICAgICAgICBiZXN0X2FsaWFzID0gbGVuKGEpCiAgICAgICAgICAgIGlmIGhhbmQgYW5kIG5vdCB4W3IsIDE1XSBhbmQgbGVuKGEpID49IDMgYW5kIChjb3JlIGluIGEgb3IgY29yZV9tIGluIGEpOgogICAgICAgICAgICAgICAgeFtyLCAxNV0gPSAxLjAKICAgICAgICBuY29yZSA9IG1heChsZW4oY29yZSksIDEpCiAgICAgICAgeFtyLCA0MV0gPSBiZXN0X2FsaWFzIC8gbmNvcmUgaWYgaGFuZCBlbHNlIDAuMAogICAgICAgIHhbciwgNDJdID0gKGxlbih0aXRsZSkgLyBuY29yZSkgaWYgKGxlbih0aXRsZSkgPj0gMyBhbmQgdGl0bGUgaW4gY29yZSkgZWxzZSAwLjAKICAgICAgICBpZiBibTI1X29yZGVyIGlzIG5vdCBOb25lOgogICAgICAgICAgICB4W3IsIDMzXSA9IDEuMCAvICgxLjAgKyBibTI1X29yZGVyLmdldChkaSwgOTkpKQoKICAgIGV4YWN0ID0gbnAubWF4aW11bS5yZWR1Y2UoW3hbOiwgMTBdLCB4WzosIDExXSwgeFs6LCAxM10sIHhbOiwgMTRdXSkKICAgIHhbOiwgMzVdID0geFs6LCAxN10gKiBucC5taW5pbXVtKDEuMCwgeFs6LCAyMl0gKiAyLjApCiAgICB4WzosIDM2XSA9IGV4YWN0CiAgICB4WzosIDM3XSA9IGV4YWN0ICogeFs6LCAwXQogICAgeFs6LCAzOF0gPSBleGFjdCAqIHhbOiwgMThdCiAgICB4WzosIDQwXSA9IGV4YWN0ICogeFs6LCAyNF0KICAgICMg5ZCM5ZCN5p2h55uu77ya6Z2e5Lq65bel5Lu25LiO5p+Q5p2h5Lq65bel5Lu255qE5qCH6aKY6YeN5ZCI5bqm6LaK6auY77yM6LaK6K+l6K6p5L2NCiAgICB4WzosIDQzXSA9IGNhY2hlLmhhbmRfdHdpbltpZHNdCiAgICB4WzosIDQ0XSA9IHhbOiwgNDNdICogKDEuMCAtIHhbOiwgMjRdKQogICAgIyDkuLvpopjmr5Tlr7nvvIjliaXmjonpl67lj6XmoYbmnrbor43vvInvvJrpl67lj6XkuI7lgJnpgInmoIfpopjjgIzorrLnmoTmmK/kuI3mmK/lkIzkuIDku7bkuovjgI0KICAgIHRnID0gY3R4LnRvcGljX2dyYW1zCiAgICBpZiB0ZzoKICAgICAgICBudCA9IGZsb2F0KGxlbih0ZykpCiAgICAgICAgY190ID0gY2FjaGUudG9waWMuY292ZXJfdGl0bGUodGcpW2lkc10KICAgICAgICBjX3MgPSBjYWNoZS50b3BpYy5jb3Zlcl9zaG9ydCh0ZylbaWRzXQogICAgICAgIHhbOiwgNDddID0gY190IC8gbnQKICAgICAgICB4WzosIDQ4XSA9IDIuMCAqIGNfdCAvIG5wLm1heGltdW0oY2FjaGUudG9waWMubGVuX3RpdGxlW2lkc10gKyBudCwgMS4wKQogICAgICAgIHhbOiwgNDldID0gY19zIC8gbnQKICAgICAgICB0cHMgPSBjYWNoZS50b3BpYy50aXRsZV90b3BpYwogICAgICAgIHF0cCA9IGN0eC50b3BpYwogICAgICAgIHhbOiwgNTBdID0gbnAuYXJyYXkoCiAgICAgICAgICAgIFsxLjAgaWYgKGxlbih0cHNbZF0pID49IDIgYW5kIHRwc1tkXSBpbiBxdHApIGVsc2UgMC4wIGZvciBkIGluIGlkc10sCiAgICAgICAgICAgIGR0eXBlPW5wLmZsb2F0MzIpCiAgICAjIOagh+mimOaYr+mXruWPpSAvIOaVtOWPpeeahOWOn+aWh+eijueJh++8mumdoOahhuaetuivjei3n+mXruWPpeWvueS4iu+8jOS4jeivpeW9k+S6i+mhueadoeebrueUqAogICAgeFs6LCA1MV0gPSBjYWNoZS5xdGl0bGVbaWRzXQogICAgeFs6LCA1Ml0gPSB4WzosIDUxXSAqIHhbOiwgMl0KICAgICMg5a6e6K+N6KaG55uW77ya6Zeu5Y+l55qE6aKG5Z+f5a6e6K+N5pyJ5Yeg5Liq5Ye6546w5Zyo5YCZ6YCJ55qE5ZCN5a2X6YeMCiAgICB3cyA9IGN0eC53b3JkcwogICAgaWYgd3M6CiAgICAgICAgbncgPSBmbG9hdChsZW4od3MpKQogICAgICAgIHRyID0gY2FjaGUudGl0bGVfcmF3CiAgICAgICAgbnIgPSBjYWNoZS5uYW1lX3JhdwogICAgICAgIHhbOiwgNTNdID0gbnAuYXJyYXkoW3N1bSgxIGZvciB3IGluIHdzIGlmIHcgaW4gdHJbZF0pIGZvciBkIGluIGlkc10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkdHlwZT1ucC5mbG9hdDMyKSAvIG53CiAgICAgICAgeFs6LCA1NF0gPSBucC5hcnJheShbc3VtKDEgZm9yIHcgaW4gd3MgaWYgdyBpbiBucltkXSkgZm9yIGQgaW4gaWRzXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGR0eXBlPW5wLmZsb2F0MzIpIC8gbncKICAgIHhbOiwgNTVdID0gY2FjaGUuaHViW2lkc10KICAgICMgZGVuc2Ug6YCa6YGT77ya5Y+q5pyJ5byA5LqG5omN5aGr77yM5YWz5LqG5oGS5Li6IDDvvIjkuKTlpZfmnYPph43lhbHnlKjlkIzkuIDlpZfnibnlvoHkvY3vvIkKICAgIGlmIGRlbnNlOgogICAgICAgIHhbOiwgNDVdID0gbnAuYXJyYXkoW2RlbnNlLmdldChpbnQoZCksICgwLjAsIDk5OSkpWzBdIGZvciBkIGluIGlkc10sIGR0eXBlPW5wLmZsb2F0MzIpCiAgICAgICAgeFs6LCA0Nl0gPSBucC5hcnJheShbMS4wIC8gKDEuMCArIGRlbnNlLmdldChpbnQoZCksICgwLjAsIDk5OSkpWzFdKSBmb3IgZCBpbiBpZHNdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgZHR5cGU9bnAuZmxvYXQzMikKICAgIHJldHVybiB4Cg==
+"""候选对特征。
+
+排序器不看「分数阈值」，看的是每个候选的一组可比特征：两个通道（字符二元组 /
+领域词）在 5 个字段上的分、字面覆盖度（IDF 加权）、标题/别名重合、条目种类先验、
+是否存档条目，以及「字面命中 × 正文命中」这类交互项（线性模型没有交互就学不出
+「标题原样命中时不该被正文更长的分段条目挤掉」）。
+
+覆盖度全部是向量化算的：查询词条顺着 postings 一次累加出「每个文档命中几个词条」，
+候选只做数组切片，没有逐条目的字符串比较，单查询毫秒级。
+"""
+from __future__ import annotations
+
+from dataclasses import dataclass, field
+from typing import Sequence
+
+import numpy as np
+
+from .index import FIELDS, Index
+from .text import (Lexicon, bigrams, content_words, core_title, is_hub_title,
+                   is_question_title, norm, strip_modal, topic_text)
+
+FEATURE_NAMES: tuple[str, ...] = (
+    "log_bm25_total", "log_bm25_short", "log_g_title", "log_g_alias", "log_g_kw",
+    "log_g_body", "log_p_title", "log_p_alias", "log_p_kw", "log_p_total",
+    "title_eq", "title_in_q", "q_in_title", "alias_eq", "alias_in_q", "q_in_alias",
+    "cov_short", "cov_title", "cov_body", "dice_title", "dice_alias", "dice_kw",
+    "len_ratio_title", "len_ratio_alias", "kind_hand", "kind_auto", "kind_clause",
+    "kind_para", "archive", "phrase_hit_kw", "dept_hit", "log_title_len",
+    "log_doc_len", "bm25_rank_recip", "phrase_hit_short",
+    "title_cov_rev", "short_exact", "exact_x_total", "exact_x_body", "phrase_in_title",
+    "hand_x_exact", "alias_cover", "title_cover",
+    # 同名条目：库里同一个事项常有「人工整理 + 自动抽取 + 原文条款」多份，
+    # 用户问的是那条服务，不是条文碎片；这两个特征让排序器学会把非人工的同名件压下去。
+    "hand_twin", "twin_nonhand",
+    # dense 通道（可关；关了这两个特征恒为 0）
+    "dense_score", "dense_rank_recip",
+    # 主题（剥掉问句框架词后的比对）与「标题本身是问句」的碎片条目。
+    # 问句里的「什么时候 / 在哪里 / 怎么」和候选标题里的同样几个字对上，字面分虚高；
+    # 剥掉框架词之后还共享的那部分，才是「讲的是同一件事」。
+    "topic_cov_title", "topic_dice_title", "topic_cov_short", "topic_in_title",
+    "qtitle_doc", "qtitle_x_gtitle",
+    # 实词覆盖：问句里的领域实词有几个出现在候选的名字（标题 / 别名 / 关键词）里。
+    # 二元组覆盖会被框架词灌水（「什么时候」共享 3 个二元组），实词不会。
+    "word_cov_title", "word_cov_name",
+    # 大杂烩条目（常见问题 / 汇总 / 一览 / 带网址的整段网页答案）：命中次数很少，
+    # 但一旦当上 top1 观感极差，单独给一维让排序器与规则都能用。
+    "hub_doc",
+)
+
+
+class TopicIndex:
+    """主题二元组的倒排（只建在「条目名分」上：标题 / 别名 / 关键词）。
+
+    和 `Index.cover` 的区别：这里的词条是**剥掉问句框架词之后**的二元组
+    （`text.topic_text`）。「什么时候加入班级群」这种候选标题剥完只剩「加入班级群」，
+    与「选课什么时候开始」不再共享任何词条，字面虚高在主题这一路就归零了。
+
+    体量很小（每个二元组平均 2 条 posting），一次查询只碰命中那几个词条，
+    所以可以直接在 3.9 万条上做数组累加，不需要再走候选切片。
+    """
+
+    __slots__ = ("n", "post_title", "post_short", "len_title", "len_short",
+                 "title_topic")
+
+    def __init__(self, n: int) -> None:
+        self.n = n
+        self.post_title: dict[str, list[int]] = {}
+        self.post_short: dict[str, list[int]] = {}
+        self.len_title = np.zeros(n, dtype=np.float32)
+        self.len_short = np.zeros(n, dtype=np.float32)
+        self.title_topic: list[str] = [""] * n
+
+    @classmethod
+    def build(cls, ix: Index, title_key: list[str], alias_keys: list[tuple[str, ...]],
+              kw_keys: list[tuple[str, ...]]) -> "TopicIndex":
+        ti = cls(ix.n)
+        for di in range(ix.n):
+            tt = topic_text(title_key[di])
+            if len(tt) >= 2:
+                ti.title_topic[di] = tt
+                g = set(bigrams(tt))
+                ti.len_title[di] = len(g)
+                for x in g:
+                    ti.post_title.setdefault(x, []).append(di)
+                st = tt
+            else:
+                st = ""
+            parts = [tt, *(a for a in alias_keys[di] if len(a) >= 2),
+                     *(k for k in kw_keys[di] if len(k) >= 2)]
+            sg: set[str] = set()
+            for p in parts:
+                tp = topic_text(p)
+                if len(tp) >= 2:
+                    sg.update(bigrams(tp))
+            if sg:
+                ti.len_short[di] = len(sg)
+                for x in sg:
+                    ti.post_short.setdefault(x, []).append(di)
+        return ti
+
+    def _cover(self, grams, post) -> np.ndarray:
+        cnt = np.zeros(self.n, dtype=np.float32)
+        for g in grams:
+            d = post.get(g)
+            if d:
+                cnt[d] += 1.0
+        return cnt
+
+    def cover_title(self, grams) -> np.ndarray:
+        return self._cover(grams, self.post_title)
+
+    def cover_short(self, grams) -> np.ndarray:
+        return self._cover(grams, self.post_short)
+
+
+class IndexCache:
+    """索引的只读派生视图（不复制词条集合，只缓存能快速取到的标量/字符串）。"""
+
+    __slots__ = ("ix", "lex", "idf_list", "title_key", "alias_keys", "dept_keys", "kind",
+                 "archive", "title_len", "doc_len", "log_title_len", "log_doc_len",
+                 "alias0_len", "is_hand", "is_auto", "is_clause", "is_para", "hand_twin",
+                 "twin_of", "topic", "qtitle", "title_raw", "name_raw", "hub")
+
+    def __init__(self, ix: Index, lex: Lexicon | None = None) -> None:
+        self.ix = ix
+        self.lex = lex or Lexicon(())
+        self.idf_list = [float(x) for x in ix.post["short"]["idf"]]
+        self.title_key: list[str] = [core_title(d.title) for d in ix.docs]
+        self.alias_keys: list[tuple[str, ...]] = [tuple(norm(a) for a in d.aliases) for d in ix.docs]
+        self.dept_keys: list[str] = [norm(d.dept) for d in ix.docs]
+        self.kind: list[str] = [d.kind for d in ix.docs]
+        self.archive: np.ndarray = np.array([d.archive for d in ix.docs], dtype=np.float32)
+        self.title_len = np.array([len(k) for k in self.title_key], dtype=np.float32)
+        self.alias0_len = np.array([len(a[0]) if a else 0 for a in self.alias_keys], dtype=np.float32)
+        self.doc_len = (ix.uniq["short"] + ix.uniq["body"]).astype(np.float32)
+        self.log_title_len = np.log1p(self.title_len).astype(np.float32)
+        self.log_doc_len = np.log1p(self.doc_len).astype(np.float32)
+        self.is_hand = np.array([d.kind == "hand" for d in ix.docs], dtype=np.float32)
+        self.is_auto = np.array([d.kind == "auto" for d in ix.docs], dtype=np.float32)
+        self.is_clause = np.array([d.kind == "clause" for d in ix.docs], dtype=np.float32)
+        self.is_para = np.array([d.kind == "para" for d in ix.docs], dtype=np.float32)
+        self.hand_twin = self._hand_twin()
+        kw_keys = [tuple(norm(k) for k in d.keywords) for d in ix.docs]
+        self.topic = TopicIndex.build(ix, self.title_key, self.alias_keys, kw_keys)
+        # 标题是问句 / 整句、又不是人工整理条目 —— 这类「原文碎片」不是事项条目，
+        # 但它的标题恰好含问句框架词，字面分会虚高（hub 抢答的根因）。
+        is_q = np.array([is_question_title(d.title) for d in ix.docs], dtype=np.float32)
+        self.qtitle = is_q * (1.0 - self.is_hand)
+        # 名字的原始串（不剥括号、不剥文号）：实词覆盖要按「用户真能看到的字」比对
+        self.title_raw: list[str] = [norm(d.title) for d in ix.docs]
+        self.name_raw: list[str] = [t + "".join(a) + "".join(k) for t, a, k
+                                    in zip(self.title_raw, self.alias_keys, kw_keys)]
+        self.hub = np.array([is_hub_title(d.title) for d in ix.docs], dtype=np.float32)
+
+    def _hand_twin(self) -> np.ndarray:
+        """非人工条目与某条人工条目的标题相似度（二元组重合）。
+
+        「学生电子交通卡申领」这类同名条目在库里同时有 hand / auto / rule / doc 四份，
+        调换一下词序就躲过精确匹配；这里用二元组覆盖兜住，让排序器学到「同名优先人工版」。
+        """
+        hand_idx = [i for i, k in enumerate(self.kind) if k == "hand"]
+        postings: dict[str, list[int]] = {}
+        for h in hand_idx:
+            for g in set(slice_ngrams(self.title_key[h])):
+                if len(self.title_key[h]) >= 2:
+                    postings.setdefault(g, []).append(h)
+        out = np.zeros(len(self.kind), dtype=np.float32)
+        twin_of = np.full(len(self.kind), -1, dtype=np.int32)
+        for i, core in enumerate(self.title_key):
+            if self.kind[i] == "hand" or len(core) < 2:
+                continue
+            grams = set(slice_ngrams(core))
+            if not grams:
+                continue
+            hits: dict[int, int] = {}
+            for g in grams:
+                for h in postings.get(g, ()):  # noqa: E501
+                    hits[h] = hits.get(h, 0) + 1
+            if not hits:
+                continue
+            best, best_h = 0.0, -1
+            for h, c in hits.items():
+                # 重叠系数（除以较短一方），词序调换也认：「电子学生交通卡」↔「学生电子交通卡」
+                denom = min(len(grams), len(set(slice_ngrams(self.title_key[h]))))
+                score = c / denom if denom else 0.0
+                if score > best:
+                    best, best_h = score, h
+            if best >= 0.6:
+                out[i] = best
+                twin_of[i] = best_h
+        self.twin_of = twin_of
+        return out
+
+
+@dataclass
+class QueryCtx:
+    raw: str
+    core: str
+    gram_ids: np.ndarray
+    gram_w: np.ndarray
+    phrase_ids: np.ndarray
+    gram_set: frozenset[int]
+    phrase_set: frozenset[int]
+    dept: str = ""
+    core_m: str = ""                    # 去掉情态词（能/可以）后的主题串，只用于字面包含比对
+    topic: str = ""                     # 剥掉问句框架词后的主题串（主题比对用）
+    topic_grams: frozenset[str] = frozenset()
+    words: tuple[str, ...] = ()          # 问句里的领域实词（框架词已剔除）
+    _idf_denom: float = field(default=0.0, repr=False)
+
+
+def slice_ngrams(s: str) -> list[str]:
+    return [s[i:i + 2] for i in range(len(s) - 1)]
+
+
+DEPTS = ("信息化处", "教务", "学生工作部", "图书馆", "后勤", "保卫处", "校医院", "体育部",
+         "财务", "学工", "研究生院", "就业", "人力", "招生")
+
+
+def make_ctx(ix: Index, cache: IndexCache, raw: str, core: str) -> QueryCtx:
+    grams = list(dict.fromkeys(bigrams(core)))
+    gids = [ix.vocab["G:" + g] for g in grams if "G:" + g in ix.vocab]
+    phrases = [w for w in cache.lex.match(core) if len(w) >= 3]
+    pids = [ix.vocab["P:" + w] for w in phrases if "P:" + w in ix.vocab]
+    nc = norm(core)
+    dept = ""
+    for d in DEPTS:
+        if norm(d) in nc:
+            dept = norm(d)
+            break
+    ctx = QueryCtx(raw=raw, core=core,
+                   gram_ids=np.asarray(gids, dtype=np.int32),
+                   gram_w=np.ones(len(gids), dtype=np.float32),
+                   phrase_ids=np.asarray(pids, dtype=np.int32),
+                   gram_set=frozenset(gids), phrase_set=frozenset(pids), dept=dept,
+                   core_m=strip_modal(core))
+    tp = topic_text(core)
+    ctx.topic = tp
+    ctx.topic_grams = frozenset(bigrams(tp))
+    # 实词：领域词表切一遍，剔掉框架词；一个都没切出来时退回主题二元组
+    words = content_words(cache.lex, tp)
+    if not words and len(tp) >= 2:
+        words = [tp]
+    ctx.words = tuple(words)
+    ctx._idf_denom = sum(cache.idf_list[t] for t in ctx.gram_set) or 1.0
+    return ctx
+
+
+def coverage(ix: Index, ctx: QueryCtx) -> dict[str, tuple[np.ndarray, np.ndarray]]:
+    """一次算出各字段的覆盖度（词条数 / IDF 和），供 featurize 取用。"""
+    out: dict[str, tuple[np.ndarray, np.ndarray]] = {}
+    grams = [("G:" + ctx.core[i:i + 2]) for i in range(max(len(ctx.core) - 1, 0))]
+    grams = list(dict.fromkeys(grams))
+    for f in ("short", "title", "alias", "kw", "body"):
+        out[f] = ix.cover(grams, f)
+    return out
+
+
+def _log(x: np.ndarray) -> np.ndarray:
+    return np.log1p(np.maximum(x, 0.0)).astype(np.float32)
+
+
+def featurize(cache: IndexCache, ctx: QueryCtx, doc_ids: Sequence[int],
+              field_scores: dict[str, dict[str, np.ndarray]] | None = None,
+              bm25_order: dict[int, int] | None = None,
+              cov: dict[str, tuple[np.ndarray, np.ndarray]] | None = None,
+              phrase_cov: dict[str, np.ndarray] | None = None,
+              dense: dict[int, tuple[float, int]] | None = None) -> np.ndarray:
+    """返回 (len(doc_ids), F) 的特征矩阵。"""
+    ix = cache.ix
+    ids = np.asarray(list(doc_ids), dtype=np.int64)
+    m = len(ids)
+    x = np.zeros((m, len(FEATURE_NAMES)), dtype=np.float32)
+    if m == 0:
+        return x
+    zero = np.zeros(m, dtype=np.float32)
+
+    def fs(chan: str, f: str) -> np.ndarray:
+        if not field_scores or chan not in field_scores:
+            return zero
+        return field_scores[chan][f][ids]
+
+    g = {f: fs("g", f) for f in FIELDS}
+    p = {f: fs("p", f) for f in FIELDS}
+    total = sum(g[f] for f in FIELDS) + 1.35 * sum(p[f] for f in FIELDS)
+    short = g["title"] + g["alias"] + g["kw"] + 1.35 * (p["title"] + p["alias"] + p["kw"])
+    x[:, 0], x[:, 1] = _log(total), _log(short)
+    x[:, 2], x[:, 3], x[:, 4], x[:, 5] = _log(g["title"]), _log(g["alias"]), _log(g["kw"]), _log(g["body"])
+    x[:, 6], x[:, 7], x[:, 8] = _log(p["title"]), _log(p["alias"]), _log(p["kw"])
+    x[:, 9] = _log(sum(p[f] for f in FIELDS))
+
+    nq = max(len(ctx.gram_set), 1)
+    idf_denom = max(ctx._idf_denom, 1e-6)
+    cov = cov or {}
+    c_short, i_short = (cov.get("short") or (zero, zero))
+    c_title = (cov.get("title") or (zero, zero))[0]
+    c_alias = (cov.get("alias") or (zero, zero))[0]
+    c_kw = (cov.get("kw") or (zero, zero))[0]
+    c_body = (cov.get("body") or (zero, zero))[0]
+    x[:, 16] = i_short[ids] / idf_denom
+    x[:, 17] = c_title[ids] / nq
+    x[:, 18] = c_body[ids] / nq
+    x[:, 19] = 2.0 * c_title[ids] / np.maximum(ix.uniq["title"][ids] + nq, 1)
+    x[:, 20] = 2.0 * c_alias[ids] / np.maximum(ix.uniq["alias"][ids] + nq, 1)
+    x[:, 21] = 2.0 * c_kw[ids] / np.maximum(ix.uniq["kw"][ids] + nq, 1)
+    if phrase_cov:
+        x[:, 34] = phrase_cov["short"][ids] / max(len(ctx.phrase_set), 1)
+        x[:, 29] = phrase_cov["kw"][ids]
+        x[:, 39] = (phrase_cov["title"][ids] > 0).astype(np.float32)
+
+    x[:, 22] = np.minimum(cache.title_len[ids], len(ctx.core)) / np.maximum(cache.title_len[ids], len(ctx.core))
+    x[:, 23] = np.minimum(cache.alias0_len[ids], len(ctx.core)) / np.maximum(cache.alias0_len[ids], len(ctx.core))
+    x[:, 24] = cache.is_hand[ids]
+    x[:, 25] = cache.is_auto[ids]
+    x[:, 26] = cache.is_clause[ids]
+    x[:, 27] = cache.is_para[ids]
+    x[:, 28] = cache.archive[ids]
+    if ctx.dept:
+        x[:, 30] = np.array([ctx.dept in cache.dept_keys[d] for d in ids], dtype=np.float32)
+    x[:, 31] = cache.log_title_len[ids]
+    x[:, 32] = cache.log_doc_len[ids]
+
+    core = ctx.core
+    core_m = ctx.core_m or core      # 去掉情态词后的同一句，用于字面包含比对
+    # 问句里出现的标题 / 别名：先用「问句子串 → 文档」的字典查表，避免逐候选做字符串比较
+    title_in_q: set[int] = set()
+    alias_in_q: set[int] = set()
+    title_eq: set[int] = set()
+    alias_eq: set[int] = set()
+    tk = cache.ix.title_keys
+    ak = cache.ix.alias_keys
+    for form in (core, core_m):
+        for d in tk.get(form, ()):
+            title_eq.add(d)
+            title_in_q.add(d)
+        for d in ak.get(form, ()):
+            alias_eq.add(d)
+            alias_in_q.add(d)
+        n_form = len(form)
+        for i in range(n_form):
+            for L in range(3, min(n_form - i, 16) + 1):
+                sub = form[i:i + L]
+                docs = tk.get(sub)
+                if docs:
+                    title_in_q.update(docs)
+                docs = ak.get(sub)
+                if docs:
+                    alias_in_q.update(docs)
+
+    for r, di in enumerate(ids):
+        di = int(di)
+        x[r, 10] = 1.0 if di in title_eq else 0.0
+        x[r, 11] = 1.0 if di in title_in_q else 0.0
+        # 别名只有人工条目才可信：自动抽取条目的 alias 多半是标题碎片，
+        # 一句「图书馆」就能让一堆段落混进「别名命中」，实测会把服务条目挤下去。
+        hand = x[r, 24] > 0.5
+        x[r, 13] = 1.0 if (hand and di in alias_eq) else 0.0
+        x[r, 14] = 1.0 if (hand and di in alias_in_q) else 0.0
+        title = cache.title_key[di]
+        if len(title) >= 3 and (core in title or core_m in title):
+            x[r, 12] = 1.0
+        best_alias = 0
+        for a in cache.alias_keys[di]:
+            if a and (a in core or a in core_m) and len(a) > best_alias:
+                best_alias = len(a)
+            if hand and not x[r, 15] and len(a) >= 3 and (core in a or core_m in a):
+                x[r, 15] = 1.0
+        ncore = max(len(core), 1)
+        x[r, 41] = best_alias / ncore if hand else 0.0
+        x[r, 42] = (len(title) / ncore) if (len(title) >= 3 and title in core) else 0.0
+        if bm25_order is not None:
+            x[r, 33] = 1.0 / (1.0 + bm25_order.get(di, 99))
+
+    exact = np.maximum.reduce([x[:, 10], x[:, 11], x[:, 13], x[:, 14]])
+    x[:, 35] = x[:, 17] * np.minimum(1.0, x[:, 22] * 2.0)
+    x[:, 36] = exact
+    x[:, 37] = exact * x[:, 0]
+    x[:, 38] = exact * x[:, 18]
+    x[:, 40] = exact * x[:, 24]
+    # 同名条目：非人工件与某条人工件的标题重合度越高，越该让位
+    x[:, 43] = cache.hand_twin[ids]
+    x[:, 44] = x[:, 43] * (1.0 - x[:, 24])
+    # 主题比对（剥掉问句框架词）：问句与候选标题「讲的是不是同一件事」
+    tg = ctx.topic_grams
+    if tg:
+        nt = float(len(tg))
+        c_t = cache.topic.cover_title(tg)[ids]
+        c_s = cache.topic.cover_short(tg)[ids]
+        x[:, 47] = c_t / nt
+        x[:, 48] = 2.0 * c_t / np.maximum(cache.topic.len_title[ids] + nt, 1.0)
+        x[:, 49] = c_s / nt
+        tps = cache.topic.title_topic
+        qtp = ctx.topic
+        x[:, 50] = np.array(
+            [1.0 if (len(tps[d]) >= 2 and tps[d] in qtp) else 0.0 for d in ids],
+            dtype=np.float32)
+    # 标题是问句 / 整句的原文碎片：靠框架词跟问句对上，不该当事项条目用
+    x[:, 51] = cache.qtitle[ids]
+    x[:, 52] = x[:, 51] * x[:, 2]
+    # 实词覆盖：问句的领域实词有几个出现在候选的名字里
+    ws = ctx.words
+    if ws:
+        nw = float(len(ws))
+        tr = cache.title_raw
+        nr = cache.name_raw
+        x[:, 53] = np.array([sum(1 for w in ws if w in tr[d]) for d in ids],
+                            dtype=np.float32) / nw
+        x[:, 54] = np.array([sum(1 for w in ws if w in nr[d]) for d in ids],
+                            dtype=np.float32) / nw
+    x[:, 55] = cache.hub[ids]
+    # dense 通道：只有开了才填，关了恒为 0（两套权重共用同一套特征位）
+    if dense:
+        x[:, 45] = np.array([dense.get(int(d), (0.0, 999))[0] for d in ids], dtype=np.float32)
+        x[:, 46] = np.array([1.0 / (1.0 + dense.get(int(d), (0.0, 999))[1]) for d in ids],
+                            dtype=np.float32)
+    return x

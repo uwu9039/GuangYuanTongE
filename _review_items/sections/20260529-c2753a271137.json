@@ -1,1 +1,171 @@
-ewogImtleSI6ICIyMDI2MDUyOS1jMjc1M2EyNzExMzciLAogInRpdGxlIjogIuS4reWbveS8oOWqkuWkp+WtpuWNmuWjq+eglOeptueUn+WtpuS9jeiuuuaWh+WPiuavleS4muS9nOWTgeWMv+WQjeivhOmYheWKnuazle+8iOeglOeptueUn+mZouOAlDIwMjbjgJU4IOWPt++8iSIsCiAidHJ1bmNhdGVkIjogZmFsc2UsCiAic2VjdGlvbnMiOiBbCiAgewogICAibm8iOiAi6aG16Z2i5qGG5p62IiwKICAgImhlYWRpbmciOiAi56uZ54K55qCH6aKY44CB5qCP55uu5a+86Iiq44CB5paH56ug5qCH6aKY5LiO5Y+R5biD5L+h5oGvIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzEsIDQzXSwKICAgIml0ZW1zIjogW10sCiAgICJjaGFycyI6IDI1NAogIH0sCiAgewogICAibm8iOiAi5paH5Y+3IiwKICAgImhlYWRpbmciOiAi5Y+R5paH5a2X5Y+3IiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzQ0LCA0NF0sCiAgICJpdGVtcyI6IFsicHQtZDQ1NDE4N2YwMCJdLAogICAiY2hhcnMiOiAxMgogIH0sCiAgewogICAibm8iOiAi56ys5LiA5p2hIiwKICAgImhlYWRpbmciOiAi5Yi25a6a5L6d5o2u5LiO55uu55qEIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzQ1LCA0NV0sCiAgICJpdGVtcyI6IFsicHQtMTUyNTE2MDYxYyJdLAogICAiY2hhcnMiOiAxMjEKICB9LAogIHsKICAgIm5vIjogIuesrOS6jOadoSIsCiAgICJoZWFkaW5nIjogIuOAjOWPjOWQkeWMv+WQjeOAjeivhOmYheS4jui6q+S7veS/oeaBr+makOWOuyIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFs0NiwgNDZdLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogNTUKICB9LAogIHsKICAgIm5vIjogIuesrOS4ieadoSIsCiAgICJoZWFkaW5nIjogIuWtpuagoeS4juWfueWFu+WNleS9jeS4pOe6p+euoeeQhuWPiuWQhOiHquiBjOi0oyIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFs0NywgNDddLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogMTAxCiAgfSwKICB7CiAgICJubyI6ICLnrKzlm5vmnaEiLAogICAiaGVhZGluZyI6ICLljL/lkI3or4TpmIXnmoTml7bpl7TotbfngrnkuI7mj5DliY3mr5XkuJoiLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbNDgsIDQ4XSwKICAgIml0ZW1zIjogWyJwdC0zNDVhZWE3Mzk1Il0sCiAgICJjaGFycyI6IDU4CiAgfSwKICB7CiAgICJubyI6ICLnrKzkupTmnaEiLAogICAiaGVhZGluZyI6ICLorrrmlofkuI7kvZzlk4HnmoTmj5DkuqTlj4rph43lpI3njofmo4DmtYvliY3nva4iLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbNDksIDQ5XSwKICAgIml0ZW1zIjogW10sCiAgICJjaGFycyI6IDkwCiAgfSwKICB7CiAgICJubyI6ICLnrKzlha3mnaEiLAogICAiaGVhZGluZyI6ICLln7nlhbvljZXkvY3nmoTmo4Dmn6XjgIHmsYfmgLvjgIHmhI/op4Hnu5/orqHkuI7nu5PmnpzkuIrkvKAiLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbNTAsIDUwXSwKICAgIml0ZW1zIjogWyJwdC00OTJiYTc1ZDA1Il0sCiAgICJjaGFycyI6IDEwMAogIH0sCiAgewogICAibm8iOiAi56ys5LiD5p2hIiwKICAgImhlYWRpbmciOiAi5a2m5pyv5a2m5L2N5LiO5LiT5Lia5a2m5L2N55qE6YCB5a6h5bmz5Y+wIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzUxLCA1MV0sCiAgICJpdGVtcyI6IFsicHQtYzFmNDczZTE0YyJdLAogICAiY2hhcnMiOiA3OAogIH0sCiAgewogICAibm8iOiAi56ys5YWr5p2hIiwKICAgImhlYWRpbmciOiAi5LqU5L2N5ZCM6KGM5LiT5a626K+E6ZiF5Y+K5qCh5aSW5LiT5a625q+U5L6LIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzUyLCA1Ml0sCiAgICJpdGVtcyI6IFsicHQtMjllY2MyMDc3ZiJdLAogICAiY2hhcnMiOiAxMjQKICB9LAogIHsKICAgIm5vIjogIuesrOS5neadoSIsCiAgICJoZWFkaW5nIjogIuivhOmYhee7k+aenOeahOmAmui/h+S4juacqumAmui/h+WQjueahOWkhOeQhiIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFs1MywgNTNdLAogICAiaXRlbXMiOiBbInB0LWI5ZTYwM2NhZGMiXSwKICAgImNoYXJzIjogMjEwCiAgfSwKICB7CiAgICJubyI6ICLnrKzljYHmnaEiLAogICAiaGVhZGluZyI6ICLor4TpmIXkuJPlrrblm57pgb/nlLPor7ciLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbNTQsIDU0XSwKICAgIml0ZW1zIjogWyJwdC0wMTIxYzU1NDk3Il0sCiAgICJjaGFycyI6IDEyMQogIH0sCiAgewogICAibm8iOiAi56ys5Y2B5LiA5p2hIiwKICAgImhlYWRpbmciOiAi5a2m5pyv5aSN5qC45LiO5aKe6IGY5LiT5a625aSN6K+EIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzU1LCA1NV0sCiAgICJpdGVtcyI6IFtdLAogICAiY2hhcnMiOiAxMTcKICB9LAogIHsKICAgIm5vIjogIuesrOWNgeS6jOadoSIsCiAgICJoZWFkaW5nIjogIuaXoOazleaMieacn+WPluW+l+ivhOmYhee7k+aenOaXtueahOWPpuihjOmAgeWuoSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFs1NiwgNTZdLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogNzUKICB9LAogIHsKICAgIm5vIjogIuesrOWNgeS4ieadoSIsCiAgICJoZWFkaW5nIjogIuetlOi+qeacquiOt+WtpuS9jeWQjumHjeaWsOeUs+ivt+WtpuS9jee7tOaMgeWOn+ivhOmYhee7k+aenCIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFs1NywgNTddLAogICAiaXRlbXMiOiBbInB0LTY1NmZhNjAzYjAiXSwKICAgImNoYXJzIjogODkKICB9LAogIHsKICAgIm5vIjogIuesrOWNgeWbm+adoSIsCiAgICJoZWFkaW5nIjogIuivhOmYheS4jueUs+ivieadkOaWmeeahOW9kuahoyIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFs1OCwgNThdLAogICAiaXRlbXMiOiBbInB0LTIwYWJiYmI1M2UiXSwKICAgImNoYXJzIjogNDIKICB9LAogIHsKICAgIm5vIjogIuesrOWNgeS6lOadoSIsCiAgICJoZWFkaW5nIjogIuaWveihjOOAgeino+mHiuadg+S4juWOn+WKnuazleW6n+atoiIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFs1OSwgNTldLAogICAiaXRlbXMiOiBbInB0LTE3NzcwZWZhMzIiXSwKICAgImNoYXJzIjogNzUKICB9LAogIHsKICAgIm5vIjogIumhtemdoumhteiEmiIsCiAgICJoZWFkaW5nIjogIuS4u+WKnuWNleS9jeOAgeWkh+ahiOe8luWPt+OAgeWcsOWdgOS4juiuv+mXrue7n+iuoemTvuaOpSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFs2MCwgNjJdLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogMTEyCiAgfQogXSwKICJpdGVtcyI6IFsKICAicHQtZDQ1NDE4N2YwMCIsCiAgInB0LTE1MjUxNjA2MWMiLAogICJwdC0zNDVhZWE3Mzk1IiwKICAicHQtNDkyYmE3NWQwNSIsCiAgInB0LWMxZjQ3M2UxNGMiLAogICJwdC0yOWVjYzIwNzdmIiwKICAicHQtYjllNjAzY2FkYyIsCiAgInB0LTAxMjFjNTU0OTciLAogICJwdC02NTZmYTYwM2IwIiwKICAicHQtMjBhYmJiYjUzZSIsCiAgInB0LTE3NzcwZWZhMzIiCiBdLAogIm5vdGVzIjogWwogICLnrKwgMuKAkzQxIOihjOaYr+S4reWbveS8oOWqkuWkp+WtpuWtpueUn+W3peS9nOmDqO+8iOWkhO+8ie+8iOatpuijhemDqO+8ieermeeCueeahOagj+ebruWvvOiIquagke+8iDQwIOihjO+8ie+8jOS4juesrCAx44CBNDIg6KGM6YeN5aSN5Ye6546w55qE5paH56ug5qCH6aKY44CB56ysIDQzIOihjOOAjOWPkeW4g+iAhe+8j+WPkeW4g+aXtumXtO+8mjIwMjYtMDctMTbvvI/mtY/op4jmrKHmlbDvvJoxMuOAjeWQiOW5tuS4uuOAjOmhtemdouahhuaetuOAjeiKgu+8jOWvvOiIquacquWNleWIl++8m+agh+mimOihjOWOn+aWh+WcqOOAjOWPiuOAjeWQjuacieS4gOWkhOaOkueJiOepuuagvO+8iOOAjOavleS4muS9nOWTgeOAjeWPpui1t++8ie+8jOaMieWOn+aWh+S/neeVmeOAgiIsCiAgIuesrCA0NCDooYzjgIznoJTnqbbnlJ/pmaLjgJQyMDI244CVOOWPt+OAjeaYr+WPkeaWh+Wtl+WPt++8jOWkueWcqOe9kemhteWPkeW4g+S/oeaBr+S4juesrOS4gOadoeS5i+mXtO+8jOWNleeLrOaIkOiKguOAgiIsCiAgIuato+aWh+WPquacieesrOS4gOadoeiHs+esrOWNgeS6lOadoe+8jOaXoOeroOOAgeaXoOWwj+agh+mimO+8jOadoeWPt+i/nue7reOAgeaXoOmHjeWkjeaXoOe8uuWPt++8m+WQhOadoeS4u+mimOWNleS4gO+8jOS4gOadoeS4gOiKgu+8jGhlYWRpbmcg5YWo6YOoIGRlcml2ZWQg5qaC5ous44CCIiwKICAi56ysIDYyIOihjOOAjFvpmYTku7ZdIC9fdmlzaXRjb3VudD9zaXRlSWQ9ODQmdHlwZT0zJmFydGljbGVJZD0yNzExMzfjgI3mmK/nq5nngrnorr/pl67nu5/orqEv6ZmE5Lu25o6l5Y+j5q6L55WZ77yM5LiN5piv6ZmE5Lu25a6e5L2T77yI5pys5Lu25peg6ZmE5Lu25q2j5paH77yJ77yM5LiO56ysIDYw4oCTNjEg6KGM55qE5Li75Yqe5Y2V5L2N44CB5aSH5qGI5Y+344CB5Zyw5Z2A5LiA5bm25bm25YWl44CM6aG16Z2i6aG16ISa44CN6IqC44CCIiwKICAi56ys5Y2B5LiJ5p2h77yI56ysIDU3IOihjO+8ieWOn+aWh+WJjeauteaYr+OAjOmAmui/h+WtpuS9jeetlOi+qeS9huacquiOt+WtpuS9jeKApue7tOaMgeWOn+WMv+WQjeivhOmYhee7k+aenOOAje+8jOadoeebruagh+mimOmHjOWHuueOsOeahOOAjOWNmuWjq+eUn+etlOi+qeacquiOt+WtpuS9jeWQjumHjeaWsOeUs+ivt+WtpuS9jeeahOWMv+WQjeivhOmYhee7k+aenOOAjeaYr+aKveWPluaXtuaLvOaOpeeahOS4iuaWh+WwvuW3tO+8jOS4jeWPr+S9nOS4uuadoemimO+8jGhlYWRpbmcg5oyJ5pys5p2h5q2j5paH6YeN5ouf44CCIgogXQp9Cg==
+{
+ "key": "20260529-c2753a271137",
+ "title": "中国传媒大学博士研究生学位论文及毕业作品匿名评阅办法（研究生院〔2026〕8 号）",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "页面框架",
+   "heading": "站点标题、栏目导航、文章标题与发布信息",
+   "heading_kind": "derived",
+   "lines": [1, 43],
+   "items": [],
+   "chars": 254
+  },
+  {
+   "no": "文号",
+   "heading": "发文字号",
+   "heading_kind": "derived",
+   "lines": [44, 44],
+   "items": ["pt-d454187f00"],
+   "chars": 12
+  },
+  {
+   "no": "第一条",
+   "heading": "制定依据与目的",
+   "heading_kind": "derived",
+   "lines": [45, 45],
+   "items": ["pt-152516061c"],
+   "chars": 121
+  },
+  {
+   "no": "第二条",
+   "heading": "「双向匿名」评阅与身份信息隐去",
+   "heading_kind": "derived",
+   "lines": [46, 46],
+   "items": [],
+   "chars": 55
+  },
+  {
+   "no": "第三条",
+   "heading": "学校与培养单位两级管理及各自职责",
+   "heading_kind": "derived",
+   "lines": [47, 47],
+   "items": [],
+   "chars": 101
+  },
+  {
+   "no": "第四条",
+   "heading": "匿名评阅的时间起点与提前毕业",
+   "heading_kind": "derived",
+   "lines": [48, 48],
+   "items": ["pt-345aea7395"],
+   "chars": 58
+  },
+  {
+   "no": "第五条",
+   "heading": "论文与作品的提交及重复率检测前置",
+   "heading_kind": "derived",
+   "lines": [49, 49],
+   "items": [],
+   "chars": 90
+  },
+  {
+   "no": "第六条",
+   "heading": "培养单位的检查、汇总、意见统计与结果上传",
+   "heading_kind": "derived",
+   "lines": [50, 50],
+   "items": ["pt-492ba75d05"],
+   "chars": 100
+  },
+  {
+   "no": "第七条",
+   "heading": "学术学位与专业学位的送审平台",
+   "heading_kind": "derived",
+   "lines": [51, 51],
+   "items": ["pt-c1f473e14c"],
+   "chars": 78
+  },
+  {
+   "no": "第八条",
+   "heading": "五位同行专家评阅及校外专家比例",
+   "heading_kind": "derived",
+   "lines": [52, 52],
+   "items": ["pt-29ecc2077f"],
+   "chars": 124
+  },
+  {
+   "no": "第九条",
+   "heading": "评阅结果的通过与未通过后的处理",
+   "heading_kind": "derived",
+   "lines": [53, 53],
+   "items": ["pt-b9e603cadc"],
+   "chars": 210
+  },
+  {
+   "no": "第十条",
+   "heading": "评阅专家回避申请",
+   "heading_kind": "derived",
+   "lines": [54, 54],
+   "items": ["pt-0121c55497"],
+   "chars": 121
+  },
+  {
+   "no": "第十一条",
+   "heading": "学术复核与增聘专家复评",
+   "heading_kind": "derived",
+   "lines": [55, 55],
+   "items": [],
+   "chars": 117
+  },
+  {
+   "no": "第十二条",
+   "heading": "无法按期取得评阅结果时的另行送审",
+   "heading_kind": "derived",
+   "lines": [56, 56],
+   "items": [],
+   "chars": 75
+  },
+  {
+   "no": "第十三条",
+   "heading": "答辩未获学位后重新申请学位维持原评阅结果",
+   "heading_kind": "derived",
+   "lines": [57, 57],
+   "items": ["pt-656fa603b0"],
+   "chars": 89
+  },
+  {
+   "no": "第十四条",
+   "heading": "评阅与申诉材料的归档",
+   "heading_kind": "derived",
+   "lines": [58, 58],
+   "items": ["pt-20abbbb53e"],
+   "chars": 42
+  },
+  {
+   "no": "第十五条",
+   "heading": "施行、解释权与原办法废止",
+   "heading_kind": "derived",
+   "lines": [59, 59],
+   "items": ["pt-17770efa32"],
+   "chars": 75
+  },
+  {
+   "no": "页面页脚",
+   "heading": "主办单位、备案编号、地址与访问统计链接",
+   "heading_kind": "derived",
+   "lines": [60, 62],
+   "items": [],
+   "chars": 112
+  }
+ ],
+ "items": [
+  "pt-d454187f00",
+  "pt-152516061c",
+  "pt-345aea7395",
+  "pt-492ba75d05",
+  "pt-c1f473e14c",
+  "pt-29ecc2077f",
+  "pt-b9e603cadc",
+  "pt-0121c55497",
+  "pt-656fa603b0",
+  "pt-20abbbb53e",
+  "pt-17770efa32"
+ ],
+ "notes": [
+  "第 2–41 行是中国传媒大学学生工作部（处）（武装部）站点的栏目导航树（40 行），与第 1、42 行重复出现的文章标题、第 43 行「发布者／发布时间：2026-07-16／浏览次数：12」合并为「页面框架」节，导航未单列；标题行原文在「及」后有一处排版空格（「毕业作品」另起），按原文保留。",
+  "第 44 行「研究生院〔2026〕8号」是发文字号，夹在网页发布信息与第一条之间，单独成节。",
+  "正文只有第一条至第十五条，无章、无小标题，条号连续、无重复无缺号；各条主题单一，一条一节，heading 全部 derived 概括。",
+  "第 62 行「[附件] /_visitcount?siteId=84&type=3&articleId=271137」是站点访问统计/附件接口残留，不是附件实体（本件无附件正文），与第 60–61 行的主办单位、备案号、地址一并并入「页面页脚」节。",
+  "第十三条（第 57 行）原文前段是「通过学位答辩但未获学位…维持原匿名评阅结果」，条目标题里出现的「博士生答辩未获学位后重新申请学位的匿名评阅结果」是抽取时拼接的上文尾巴，不可作为条题，heading 按本条正文重拟。"
+ ]
+}

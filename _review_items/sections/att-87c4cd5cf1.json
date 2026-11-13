@@ -1,1 +1,353 @@
-ew0KICJrZXkiOiAiYXR0LTg3YzRjZDVjZjEiLA0KICJ0aXRsZSI6ICLotKLliqHnvZHkuIrnu7zlkIjmnI3liqHlubPlj7Dmk43kvZzmiYvlhozvvIjotKLliqHlpITvvIkiLA0KICJ0cnVuY2F0ZWQiOiBmYWxzZSwNCiAic2VjdGlvbnMiOiBbDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5bCB6Z2i5py65p6E5ZCN5LiO55uu5b2V77yI56ys5LiA56ug6Iez56ys5LqU56ug77yJIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMSwNCiAgICA2DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0wYTI2NmVhNzZlIg0KICAgXSwNCiAgICJjaGFycyI6IDYyDQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuIDnq6AiLA0KICAgImhlYWRpbmciOiAi5LiA44CB57O757uf5LuL57uNIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA3LA0KICAgIDQ0DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiA1NzQNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLkuInlpKfns7vnu5/mnoTmiJDvvIjnvZHkuIrmiqXotKbjgIHnvZHkuIrnlLPmiqXjgIHotKLliqHmn6Xor6LvvInkuI7lhazliqHljaHmiqXplIAiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA3LA0KICAgIDIxDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1kZjFjODAzNGNhIiwNCiAgICAicHQtNjhjMWVhZjZjOCINCiAgIF0sDQogICAiY2hhcnMiOiAyMTgNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLov5DooYznjq/looPopoHmsYLkuI7ku4XpmZDmoKHlm63nvZHorr/pl67nmoTmj5DphpIiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyMiwNCiAgICAzMA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtODA1Nzk4NGM1NyINCiAgIF0sDQogICAiY2hhcnMiOiAxMzMNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLnu5/kuIDouqvku73orqTor4HnmbvlvZXjgIHnu5HlrprmiYvmnLrlj7fkuI7mt7vliqDmiqXplIDljaEiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzMSwNCiAgICA0NA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMDFmMzQ3YjgyZSIsDQogICAgInB0LTY1ZWYxMGQ4NDciDQogICBdLA0KICAgImNoYXJzIjogMjIzDQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuoznq6AiLA0KICAgImhlYWRpbmciOiAi6aG555uu5o6I5p2D77ya5Lia5Yqh5o6I5p2D5L2T57O75LiO5o6I5p2D566h55CGIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNDUsDQogICAgODkNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDYzNQ0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuS4muWKoeaOiOadg+S9k+ezu++8muaOiOadg+e7j+WKnuS6uuOAgeaOiOadg+mineW6puS4juS9v+eUqOacieaViOacnyIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDQ1LA0KICAgIDYzDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC04ZTczNjAxZjdlIg0KICAgXSwNCiAgICJjaGFycyI6IDM0NQ0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIumhueebruaOiOadg+WIhuexu+ihqO+8iOaKpemUgOadg+mZkOOAgeeUs+aKpeadg+mZkOOAgeafpeivouadg+mZkO+8iSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDY0LA0KICAgIDc3DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC02OWZjM2I1MzFlIiwNCiAgICAicHQtNTMyODIzOTQwOCIsDQogICAgInB0LWY0NWY4YzgyZDUiDQogICBdLA0KICAgImNoYXJzIjogMTE1DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5oql6ZSA6aKd5bqm5YiG6YWN44CB5Y+W5raI5o6I5p2D5LiO6aG555uu5o6I5p2D5pel5b+XIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNzgsDQogICAgODkNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTRjMjQyZmEyYzEiDQogICBdLA0KICAgImNoYXJzIjogMTc1DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuInnq6AiLA0KICAgImhlYWRpbmciOiAi572R5LiK5oql6LSm77ya5Yqf6IO944CB5pel5bi45oql6ZSA44CB5YCf5qy+5LiO5YWs5Yqh5Y2h5oql6ZSAIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgOTAsDQogICAgMTk2DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAxNjY5DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi572R5LiK5oql6LSm57O757uf5Yqf6IO96KGo77yI5oiR55qE6aG555uu44CB5pel5bi45oql6ZSA44CB5Zu95YaF5beu5peF5oql6ZSA44CB5YCf5qy+44CB5YWs5Yqh5Y2h5oql6ZSA77yJIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgOTAsDQogICAgOTcNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTg0NTU0MDViN2MiDQogICBdLA0KICAgImNoYXJzIjogMzYNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLml6XluLjmiqXplIDvvJrmlrDkuJrliqHloavmiqXjgIHljZXmja7ph5Hpop3kuI7mlK/ku5jmlrnlvI8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA5OCwNCiAgICAxMjQNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWQwMzUyOWY5MzYiLA0KICAgICJwdC1hMTRmOTQzNjA4IiwNCiAgICAicHQtYmQwZWMwMjgyNyINCiAgIF0sDQogICAiY2hhcnMiOiA0MTQNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLnvZHpk7blr7nnp4HvvIjmoKHlpJbvvInmlK/ku5jkuI7lpJrmlLbmrL7mlrnloavmiqUiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMjUsDQogICAgMTMyDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0yYWRlMWVjNmIzIg0KICAgXSwNCiAgICJjaGFycyI6IDE0Nw0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuaJk+WNsOaKpemUgOWNleOAgTcg5aSp5YaF5oqV6YCS5LiO5Zu95YaF5beu5peF5oql6ZSA6KGM56iL5Y2VIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMTMzLA0KICAgIDE0OA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtOGQ1MzAxNWY1NiIsDQogICAgInB0LWExMmFmMzBlNGYiDQogICBdLA0KICAgImNoYXJzIjogMjYwDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5YCf5qy+77ya6YCJ5oup5pSv5Ye66aG555uu5LiO5YCf5qy+5YaF5a655piO57uGIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMTQ5LA0KICAgIDE1Mg0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogNTkNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLlhazliqHljaHmiqXplIDnmoTov5jmrL7nvJbliLbmtYHnqIvkuI7loavmiqXnpLrkvosiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNTMsDQogICAgMTk2DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1iMTViYjljNTliIiwNCiAgICAicHQtNjYwMzc1YTczNyIsDQogICAgInB0LTAxYWIyMjk0ZjciLA0KICAgICJwdC05ZjU5NWJjNzA0Ig0KICAgXSwNCiAgICJjaGFycyI6IDc1Mw0KICB9LA0KICB7DQogICAibm8iOiAi56ys5Zub56ugIiwNCiAgICJoZWFkaW5nIjogIuS4quS6uuaUtuWFpee9keS4iueUs+aKpe+8muWtpueUn+mFrOmHkeOAgeWFtuS7luW3peiWquS4juagoeWkluWKs+WKoSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDE5NywNCiAgICAyNjQNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDEwOTENCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLkuKrkurrmlLblhaXnvZHkuIrnlLPmiqXliIbnsbvooajkuI7kuInnsbvlj5HmlL7mlrnlvI8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxOTcsDQogICAgMjEzDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1lNGE3NzY3ODdmIiwNCiAgICAicHQtMDE0MzQ5YzE5NSIsDQogICAgInB0LWQzMTNjYWIwYjgiLA0KICAgICJwdC1mM2VjMTVmMTEwIg0KICAgXSwNCiAgICJjaGFycyI6IDIzNQ0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuWwkemHj+WtpueUn+WKs+WKoeWPkeaUvu+8muW9leWFpeOAgeaaguWtmOOAgeaPkOS6pOS4juaPkOS6pOWQjuS4jeWPr+S/ruaUuSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDIxNCwNCiAgICAyMjUNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTg2YjUwMTllNDYiDQogICBdLA0KICAgImNoYXJzIjogMTkyDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5om56YeP5a2m55Sf5Yqz5Yqh5Y+R5pS+77yaRXhjZWwg5a+85YWl44CB5aSN5Yi25LiO5qih5p2/5o+Q5Y+WIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMjI2LA0KICAgIDI0Mw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMTdmMGIxNTBmZSINCiAgIF0sDQogICAiY2hhcnMiOiAzMDMNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLmoKHlhoXkurrlkZjlhbbku5blt6XolqrmlLblhaXnlLPmiqUiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyNDQsDQogICAgMjUyDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC04ZmE2ZjJmNDcxIg0KICAgXSwNCiAgICJjaGFycyI6IDE3OA0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuagoeWkluS6uuWRmOWKs+WKoeeUs+aKpe+8muW3peWVhumTtuihjOW8gOaIt+i0puaIt+S4juWPkeaUvumhueebruWIhuexuyIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDI1MywNCiAgICAyNjQNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTNhMTA5MTRlNzAiDQogICBdLA0KICAgImNoYXJzIjogMTgzDQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkupTnq6AiLA0KICAgImhlYWRpbmciOiAi6LSi5Yqh5p+l6K+i77ya6aG555uu57uP6LS544CB5Liq5Lq65pS25YWl5LiO5oql6ZSA5qy+5p+l6K+iIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMjY1LA0KICAgIDI3OQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZDJlYmI0YTkzZiIsDQogICAgInB0LTU1ZDA5N2E0NzEiDQogICBdLA0KICAgImNoYXJzIjogMjAzDQogIH0NCiBdLA0KICJpdGVtcyI6IFsNCiAgInB0LTBhMjY2ZWE3NmUiLA0KICAicHQtZGYxYzgwMzRjYSIsDQogICJwdC02OGMxZWFmNmM4IiwNCiAgInB0LTgwNTc5ODRjNTciLA0KICAicHQtMDFmMzQ3YjgyZSIsDQogICJwdC02NWVmMTBkODQ3IiwNCiAgInB0LThlNzM2MDFmN2UiLA0KICAicHQtNjlmYzNiNTMxZSIsDQogICJwdC01MzI4MjM5NDA4IiwNCiAgInB0LWY0NWY4YzgyZDUiLA0KICAicHQtNGMyNDJmYTJjMSIsDQogICJwdC04NDU1NDA1YjdjIiwNCiAgInB0LWQwMzUyOWY5MzYiLA0KICAicHQtYTE0Zjk0MzYwOCIsDQogICJwdC1iZDBlYzAyODI3IiwNCiAgInB0LTJhZGUxZWM2YjMiLA0KICAicHQtOGQ1MzAxNWY1NiIsDQogICJwdC1hMTJhZjMwZTRmIiwNCiAgInB0LWIxNWJiOWM1OWIiLA0KICAicHQtNjYwMzc1YTczNyIsDQogICJwdC0wMWFiMjI5NGY3IiwNCiAgInB0LTlmNTk1YmM3MDQiLA0KICAicHQtZTRhNzc2Nzg3ZiIsDQogICJwdC0wMTQzNDljMTk1IiwNCiAgInB0LWQzMTNjYWIwYjgiLA0KICAicHQtZjNlYzE1ZjExMCIsDQogICJwdC04NmI1MDE5ZTQ2IiwNCiAgInB0LTE3ZjBiMTUwZmUiLA0KICAicHQtOGZhNmYyZjQ3MSIsDQogICJwdC0zYTEwOTE0ZTcwIiwNCiAgInB0LWQyZWJiNGE5M2YiLA0KICAicHQtNTVkMDk3YTQ3MSINCiBdLA0KICJub3RlcyI6IFsNCiAgIlBERiDovazlhpnkuKXph43plJnooYzvvJrmnKzmlofku7bmmK/kuInmoI/ooajmoLznmoTnur/mgKfljJbnu5PmnpzvvIzooYzlhoXljZXlhYPmoLzooqvkuLLlnKjkuIDotbfvvIjnrKwgOOKAkzE3IOihjOS4uuOAjOe9keS4iuaKpei0puezu+e7nyAvIOe9keS4iueUs+aKpeezu+e7nyAvIOi0ouWKoeafpeivouezu+e7n+OAjeS4ieWIl+ihqOWktOS4juWGheWuue+8jOesrCA2NOKAkzc3IOihjOS4uumhueebruaOiOadg+S4ieenjeadg+mZkOihqO+8jOesrCA5MOKAkzk3IOihjOS4uuaKpei0puWKn+iDveihqO+8jOesrCAxOTfigJMyMTEg6KGM5Li65Liq5Lq65pS25YWl55Sz5oql5LiJ57G75Y+R5pS+6KGo77yM56ysIDI2NeKAkzI2NyDooYzkuLrotKLliqHmn6Xor6LkuInpobnvvInjgILkuLrmraTov5nlh6DlpITmjInjgIzmlbTooajkuIDoioLjgI3lpITnkIbvvIzooYzljLrpl7Top4HlkIToioIgbGluZXPjgIIiLA0KICAi5qCH6aKY77yaUERGIOato+aWh+ayoeacieagh+mimOihjO+8iOesrCAxIOihjOWPquacieWPkeaWh+acuuaehOOAjOi0ouWKoeWkhOOAje+8ie+8jOato+aWh+iHquensOOAjOi0ouWKoee9keS4iue7vOWQiOacjeWKoeW5s+WPsOOAje+8iOesrCAzMeOAgTQ1IOihjO+8ie+8jOaVhSB0aXRsZSDlj5bmraTvvJvntKLlvJXpobXmioror6XpmYTku7bmoIfkuLrjgIrkuK3lm73kvKDlqpLlpKflrabmlZnogrLmlLbotLnlhaznpLrvvIgyMDI177yJ44CL77yM5LiO5pys5paH5Lu25q2j5paH5YaF5a655LiN56ym77yM5bGe6ZmE5Lu26ZSZ5oyC44CCIiwNCiAgIueroOiKgu+8muebruW9le+8iOesrCAy4oCTNiDooYzvvInliJflh7rnrKzkuIDnq6Dns7vnu5/ku4vnu43oh7PnrKzkupTnq6DotKLliqHmn6Xor6LvvJvmraPmloflj6rkv53nlZnkuobnrKzkuIDnq6DnmoTlrZDmoIfpopjjgIzkuIDjgIHns7vnu5/ku4vnu43jgI3vvIjnrKwgNyDooYzvvIzmoIcgYXV0aG9y77yJ77yM56ys5LqM56ug4oCU56ys5LqU56ug55qE56ug5qCH6aKY5Zyo6L2s5YaZ5Lit5Lii5aSx77yMaGVhZGluZyDkuLrmjInnm67lvZXkuI7lhoXlrrnmpoLmi6zvvIzkuIDlvovmoIcgZGVyaXZlZOOAgiIsDQogICLnrKzkuIDnq6DjgIHnrKzkuoznq6DjgIHnrKzkuInnq6DjgIHnrKzlm5vnq6DlkITorr7kuIDkuKrnq6DnuqfniLboioLvvIjljLrpl7Q95pW056ug77yJ77yM5LiL6L6W5YiX6ZSZ5L2N6KGo5qC85oiW5rWB56iL5ouG5YiG5Ye655qE5a2Q6IqC77yb5a2Q6IqC5Yy66Ze05Z2H5Zyo54i26IqC5YaF77yM55yf5bWM5aWX44CC56ys5LqU56ug5YaF5a655Y2V6JaE77yM5LiN5YaN5ouG5a2Q6IqC44CCIiwNCiAgIuesrCA0NCDooYzjgIwy44CB5re75Yqg5LiA5byg5oql6ZSA5Y2h77yI5bel5ZWG6ZO26KGM5YCf6K6w5Y2h77yJ44CN5piv56ys5LiA56ug57uT5bC+55qE55m75b2V5YeG5aSH5q2l6aqk77yM5b2S5YWl44CM57uf5LiA6Lqr5Lu96K6k6K+B55m75b2V4oCm44CN5a2Q6IqC77yb56ys5LqM56ug5LuO56ysIDQ1IOihjOS4muWKoeaOiOadg+S9k+ezu+ivtOaYjui1t+OAgiIsDQogICLnrKwgMTkz4oCTMTk2IOihjOOAjOWcqOaIkeeahOmhueebruS4reKApuS4muWKoeeKtuaAgeOAjeaYr+WFrOWKoeWNoea1geeoi+WQjueahOeKtuaAgeivtOaYju+8jOiQveWcqOOAjOWFrOWKoeWNoeaKpemUgOeahOi/mOasvue8luWItua1geeoi+S4juWhq+aKpeekuuS+i+OAjeiKguWGhe+8jOacquWPpueri+iKguOAgiIsDQogICIzMiDmnaHmnaHnm67lvJXmloflhajpg6jokL3lnKjmnKzmloflhoXvvIzml6Dot6jmlofku7blvJXnlKjvvJvmnKvooYzkuLrnrKwgMjc5IOihjOOAjOWPr+S7peafpeivouiHquWumuS5ieaXtumXtOWGhe+8jOe9keS4iuaKpemUgOeahOaKpemUgOasvuWvueengeafpeivouOAguOAje+8jHRydW5jYXRlZD1mYWxzZeOAgiINCiBdDQp9
+{
+ "key": "att-87c4cd5cf1",
+ "title": "财务网上综合服务平台操作手册（财务处）",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "封面机构名与目录（第一章至第五章）",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    6
+   ],
+   "items": [
+    "pt-0a266ea76e"
+   ],
+   "chars": 62
+  },
+  {
+   "no": "第一章",
+   "heading": "一、系统介绍",
+   "heading_kind": "author",
+   "lines": [
+    7,
+    44
+   ],
+   "items": [],
+   "chars": 574
+  },
+  {
+   "no": "—",
+   "heading": "三大系统构成（网上报账、网上申报、财务查询）与公务卡报销",
+   "heading_kind": "derived",
+   "lines": [
+    7,
+    21
+   ],
+   "items": [
+    "pt-df1c8034ca",
+    "pt-68c1eaf6c8"
+   ],
+   "chars": 218
+  },
+  {
+   "no": "—",
+   "heading": "运行环境要求与仅限校园网访问的提醒",
+   "heading_kind": "derived",
+   "lines": [
+    22,
+    30
+   ],
+   "items": [
+    "pt-8057984c57"
+   ],
+   "chars": 133
+  },
+  {
+   "no": "—",
+   "heading": "统一身份认证登录、绑定手机号与添加报销卡",
+   "heading_kind": "derived",
+   "lines": [
+    31,
+    44
+   ],
+   "items": [
+    "pt-01f347b82e",
+    "pt-65ef10d847"
+   ],
+   "chars": 223
+  },
+  {
+   "no": "第二章",
+   "heading": "项目授权：业务授权体系与授权管理",
+   "heading_kind": "derived",
+   "lines": [
+    45,
+    89
+   ],
+   "items": [],
+   "chars": 635
+  },
+  {
+   "no": "—",
+   "heading": "业务授权体系：授权经办人、授权额度与使用有效期",
+   "heading_kind": "derived",
+   "lines": [
+    45,
+    63
+   ],
+   "items": [
+    "pt-8e73601f7e"
+   ],
+   "chars": 345
+  },
+  {
+   "no": "—",
+   "heading": "项目授权分类表（报销权限、申报权限、查询权限）",
+   "heading_kind": "derived",
+   "lines": [
+    64,
+    77
+   ],
+   "items": [
+    "pt-69fc3b531e",
+    "pt-5328239408",
+    "pt-f45f8c82d5"
+   ],
+   "chars": 115
+  },
+  {
+   "no": "—",
+   "heading": "报销额度分配、取消授权与项目授权日志",
+   "heading_kind": "derived",
+   "lines": [
+    78,
+    89
+   ],
+   "items": [
+    "pt-4c242fa2c1"
+   ],
+   "chars": 175
+  },
+  {
+   "no": "第三章",
+   "heading": "网上报账：功能、日常报销、借款与公务卡报销",
+   "heading_kind": "derived",
+   "lines": [
+    90,
+    196
+   ],
+   "items": [],
+   "chars": 1669
+  },
+  {
+   "no": "—",
+   "heading": "网上报账系统功能表（我的项目、日常报销、国内差旅报销、借款、公务卡报销）",
+   "heading_kind": "derived",
+   "lines": [
+    90,
+    97
+   ],
+   "items": [
+    "pt-8455405b7c"
+   ],
+   "chars": 36
+  },
+  {
+   "no": "—",
+   "heading": "日常报销：新业务填报、单据金额与支付方式",
+   "heading_kind": "derived",
+   "lines": [
+    98,
+    124
+   ],
+   "items": [
+    "pt-d03529f936",
+    "pt-a14f943608",
+    "pt-bd0ec02827"
+   ],
+   "chars": 414
+  },
+  {
+   "no": "—",
+   "heading": "网银对私（校外）支付与多收款方填报",
+   "heading_kind": "derived",
+   "lines": [
+    125,
+    132
+   ],
+   "items": [
+    "pt-2ade1ec6b3"
+   ],
+   "chars": 147
+  },
+  {
+   "no": "—",
+   "heading": "打印报销单、7 天内投递与国内差旅报销行程单",
+   "heading_kind": "derived",
+   "lines": [
+    133,
+    148
+   ],
+   "items": [
+    "pt-8d53015f56",
+    "pt-a12af30e4f"
+   ],
+   "chars": 260
+  },
+  {
+   "no": "—",
+   "heading": "借款：选择支出项目与借款内容明细",
+   "heading_kind": "derived",
+   "lines": [
+    149,
+    152
+   ],
+   "items": [],
+   "chars": 59
+  },
+  {
+   "no": "—",
+   "heading": "公务卡报销的还款编制流程与填报示例",
+   "heading_kind": "derived",
+   "lines": [
+    153,
+    196
+   ],
+   "items": [
+    "pt-b15bb9c59b",
+    "pt-660375a737",
+    "pt-01ab2294f7",
+    "pt-9f595bc704"
+   ],
+   "chars": 753
+  },
+  {
+   "no": "第四章",
+   "heading": "个人收入网上申报：学生酬金、其他工薪与校外劳务",
+   "heading_kind": "derived",
+   "lines": [
+    197,
+    264
+   ],
+   "items": [],
+   "chars": 1091
+  },
+  {
+   "no": "—",
+   "heading": "个人收入网上申报分类表与三类发放方式",
+   "heading_kind": "derived",
+   "lines": [
+    197,
+    213
+   ],
+   "items": [
+    "pt-e4a776787f",
+    "pt-014349c195",
+    "pt-d313cab0b8",
+    "pt-f3ec15f110"
+   ],
+   "chars": 235
+  },
+  {
+   "no": "—",
+   "heading": "少量学生劳务发放：录入、暂存、提交与提交后不可修改",
+   "heading_kind": "derived",
+   "lines": [
+    214,
+    225
+   ],
+   "items": [
+    "pt-86b5019e46"
+   ],
+   "chars": 192
+  },
+  {
+   "no": "—",
+   "heading": "批量学生劳务发放：Excel 导入、复制与模板提取",
+   "heading_kind": "derived",
+   "lines": [
+    226,
+    243
+   ],
+   "items": [
+    "pt-17f0b150fe"
+   ],
+   "chars": 303
+  },
+  {
+   "no": "—",
+   "heading": "校内人员其他工薪收入申报",
+   "heading_kind": "derived",
+   "lines": [
+    244,
+    252
+   ],
+   "items": [
+    "pt-8fa6f2f471"
+   ],
+   "chars": 178
+  },
+  {
+   "no": "—",
+   "heading": "校外人员劳务申报：工商银行开户账户与发放项目分类",
+   "heading_kind": "derived",
+   "lines": [
+    253,
+    264
+   ],
+   "items": [
+    "pt-3a10914e70"
+   ],
+   "chars": 183
+  },
+  {
+   "no": "第五章",
+   "heading": "财务查询：项目经费、个人收入与报销款查询",
+   "heading_kind": "derived",
+   "lines": [
+    265,
+    279
+   ],
+   "items": [
+    "pt-d2ebb4a93f",
+    "pt-55d097a471"
+   ],
+   "chars": 203
+  }
+ ],
+ "items": [
+  "pt-0a266ea76e",
+  "pt-df1c8034ca",
+  "pt-68c1eaf6c8",
+  "pt-8057984c57",
+  "pt-01f347b82e",
+  "pt-65ef10d847",
+  "pt-8e73601f7e",
+  "pt-69fc3b531e",
+  "pt-5328239408",
+  "pt-f45f8c82d5",
+  "pt-4c242fa2c1",
+  "pt-8455405b7c",
+  "pt-d03529f936",
+  "pt-a14f943608",
+  "pt-bd0ec02827",
+  "pt-2ade1ec6b3",
+  "pt-8d53015f56",
+  "pt-a12af30e4f",
+  "pt-b15bb9c59b",
+  "pt-660375a737",
+  "pt-01ab2294f7",
+  "pt-9f595bc704",
+  "pt-e4a776787f",
+  "pt-014349c195",
+  "pt-d313cab0b8",
+  "pt-f3ec15f110",
+  "pt-86b5019e46",
+  "pt-17f0b150fe",
+  "pt-8fa6f2f471",
+  "pt-3a10914e70",
+  "pt-d2ebb4a93f",
+  "pt-55d097a471"
+ ],
+ "notes": [
+  "PDF 转写严重错行：本文件是三栏表格的线性化结果，行内单元格被串在一起（第 8–17 行为「网上报账系统 / 网上申报系统 / 财务查询系统」三列表头与内容，第 64–77 行为项目授权三种权限表，第 90–97 行为报账功能表，第 197–211 行为个人收入申报三类发放表，第 265–267 行为财务查询三项）。为此这几处按「整表一节」处理，行区间见各节 lines。",
+  "标题：PDF 正文没有标题行（第 1 行只有发文机构「财务处」），正文自称「财务网上综合服务平台」（第 31、45 行），故 title 取此；索引页把该附件标为《中国传媒大学教育收费公示（2025）》，与本文件正文内容不符，属附件错挂。",
+  "章节：目录（第 2–6 行）列出第一章系统介绍至第五章财务查询；正文只保留了第一章的子标题「一、系统介绍」（第 7 行，标 author），第二章—第五章的章标题在转写中丢失，heading 为按目录与内容概括，一律标 derived。",
+  "第一章、第二章、第三章、第四章各设一个章级父节（区间=整章），下辖列错位表格或流程拆分出的子节；子节区间均在父节内，真嵌套。第五章内容单薄，不再拆子节。",
+  "第 44 行「2、添加一张报销卡（工商银行借记卡）」是第一章结尾的登录准备步骤，归入「统一身份认证登录…」子节；第二章从第 45 行业务授权体系说明起。",
+  "第 193–196 行「在我的项目中…业务状态」是公务卡流程后的状态说明，落在「公务卡报销的还款编制流程与填报示例」节内，未另立节。",
+  "32 条条目引文全部落在本文内，无跨文件引用；末行为第 279 行「可以查询自定义时间内，网上报销的报销款对私查询。」，truncated=false。"
+ ]
+}

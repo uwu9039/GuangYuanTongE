@@ -1,1 +1,94 @@
-IyDmo4DntKLnrpfms5XvvIjph43lhpnniYjvvIkKCuaKiuOAjOagoeWbreWKnuS6i+WQkeWvvOOAjeeahOajgOe0ouS7jiA5MDAg6KGM5omL5YaZIGlmL2Vsc2UgKyDlrZfnrKblk4jluIzlkJHph4/vvIzmjaLmiJAKKirlgJLmjpLntKLlvJUgKyDlrabkuaDmjpLluo8gKyDop4TliJnljJbmi5LnrZQqKu+8jOWkluWKoOS4gOadoeWPr+mAieeahCAqKmRlbnNl77yI5LqRIGVtYmVkZGluZ++8iemAmumBkyoq44CCCumZpCBkZW5zZSDpgJrpgZPlpJbku43nhLblj6rmnIkgYG51bXB5YCDkuIDkuKrkvp3otZbjgIIKCmBgYArpl67lj6Ug4pSA4pa6IOinhOiMg+WMli/mi4blpZfor50g4pSA4pa6IOWPjOmAmumBkyBCTTI1RiDlj6zlm54g4pSA4pSs4pSA4pa6IDU2IOe7tOeJueW+gSDilIDilrog57q/5oCn5o6S5bqP5ZmoIOKUgOKWuiDmjpLluo/lkI7op4TliJkg4pSA4pa6IOaLkuetlOWxgiDilIDilrog562U5qGI6KOF6YWNCiAgICAgICAgdGV4dC5weSAgICAgICAgICBpbmRleC5weSAgICAgICAgICDilIIgICBmZWF0dXJlcy5weSAgIHJhbmtlci5weSAgICBlbmdpbmUucHkgICAgZ2F0ZS5weSAgIGNvbXBvc2UucHkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDilJTilIDilrogZGVuc2Ug5Y+s5ZueIOKUgOKUgOKUgOKUgOKUmAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlbnNlLnB577yI55m+54K8IHF3ZW4zLjctdGV4dC1lbWJlZGRpbmfvvIzlj6/pgInvvIkKYGBgCgrjgIzmjpLluo/lkI7op4TliJnjgI3mmK/kuKTmoaPnoa7lrprmgKfosIPmlbTvvIhgZW5naW5lLl9hZGp1c3Rg77yJ77yaKirmoIfpopjokL3kvY0qKu+8iOWGoOWGm+agh+mimOS4gOS4quWunuivjemDveS4jeWQqwrml7bmjInlrp7or43opobnm5bph43mjpLvvInjgIEqKmh1YiDorqnkvY0qKu+8iOaxh+aAuy/luLjop4Hpl67popjnsbvnoo7niYforqnkvY3nu5nlhbfkvZPmnaHnm67vvInjgIEqKueroOadoemUmuWumioqCu+8iOmXruWPpeeCueS6huOAjOesrFjmnaHjgI3ml7bmjIkgYHNlY3Rpb25zLnB5YCDmiorpgqPkuIDoioLmiqzkuIrmnaXvvInjgILlroPku6zlj6rmlLnnm7jlr7nmrKHluo/kuI7liqDliIbvvIwK5LiN5pS55YCZ6YCJ6ZuG44CB5LiN5pS5562U5qGI5b2i5oCB44CCCgojIyDkuLrku4DkuYjov5nkuYjmi4YKCnwg5Y6f5a6e546wIHwg5paw5a6e546wIHwKfC0tLXwtLS18CnwgYHNjb3JlX2l0ZW0oKWAg5q+P5p2h6Zeu5Y+l5a+5IDMuOSDkuIfmnaHpgJDmnaHot5HmraPliJnvvIxgYmxvY2tlZF9rZXlzKClgIOWGjeWFqOW6k+aJq+S4gOmBjSB8IOmihOW7uuWAkuaOkue0ouW8le+8jOS4gOasoeafpeivouWPqueisOWRveS4reeahCBwb3N0aW5ncyB8Cnwg6ZiI5YC8IGBNQVRDSF9USFJFU0hPTEQ9NTVgIOS6uuW3peaLjeatu++8jOaVo+iQveWNgeWHoOWkhCBgbWluKHNjLCA1NClgIOihpeS4gSB8IOaOkuW6j+WZqOi+k+WHuuamgueOhyArIOaLkuetlOWxguaMieOAjOS4quS6uuaVsOaNriAvIOWIq+eahOWtpuagoSAvIOi2iueVjOivnemimCAvIOivreaWmeimhuebliAvIOWkquesvOe7n+OAjeWIhuaho+WIpOWumiB8Cnwg44CM5ZCR6YeP44CN5piv5a2X56ymIDHigJMzIGdyYW0g5ZOI5biM5oqV5b2x77yM5Y+q5YGa5a2X6Z2i5YWc5bqVIHwg6aKG5Z+f6K+N77yIUDrvvIkrIOWtl+espuS6jOWFg+e7hO+8iEc677yJ5Lik6Lev6K+N5p2h77yMNSDkuKrlrZfmrrXliIbliKvmiZMgQk0yNUbvvJvopoHor63kuYnlsLHlvIAgZGVuc2UgfAp8IDQuOSDnp5IgLyDmn6Xor6IgfCDlrZfpnaIgNC41IG1z77yb5byAIGRlbnNlIOe6piAyNTDigJMzMDAgbXPvvIjkupEgZW1iZWRkaW5nIOS4gOasoe+8iSB8CgojIyDmlofku7YKCnwg5paH5Lu2IHwg5L2c55SoIHwKfC0tLXwtLS18CnwgYHRleHQucHlgIHwg6KeE6IyD5YyW44CB5ouG6Zeu5Y+l5aWX6K+dL+aDheaAgeivjeOAgeivjeihqOacgOmVv+WMuemFjeOAgeWtl+espuS6jOWFg+e7hOOAgeagh+mimOS4u+W5suOAgeS4u+mimOS4su+8iOWJpeahhuaetuivje+8ieOAgeWunuivjeOAgWh1YiDliKTlrpogfAp8IGBpbmRleC5weWAgfCDlgJLmjpLntKLlvJXvvIhgLm5weWAg55uu5b2V77yJ44CBQk0yNUbjgIHopobnm5bluqbntK/liqDjgIHnsr7noa7kuLLooaggfAp8IGBmZWF0dXJlcy5weWAgfCDlgJnpgInlr7kgNTYg57u054m55b6B77yI5Lik6YCa6YGTIMOXIDUg5a2X5q6144CB5a2X6Z2i6KaG55uW44CB56eN57G75YWI6aqM44CB5Lqk5LqS6aG544CB5ZCM5ZCN5p2h55uu44CB5Li76aKYL+WunuivjeimhuebluOAgWh1YuOAgWRlbnNlIOWIhu+8iSB8CnwgYHJhbmtlci5weWAgfCBudW1weSDpgLvovpHlm57lvZLvvIjniZvpob/ms5XvvInvvIzmnYPph43lrZggSlNPTiB8CnwgYHNlY3Rpb25zLnB5YCB8IOeroOadoemUmuWumu+8mumXruWPpeeCueS6huOAjOesrFjmnaEv56ug44CN5pe277yM5oyJ44CM6L+Z5LiA6IqC6K6y5LuA5LmI44CN57uZ6K+l6IqC5p2h55uu5Yqg5YiGIHwKfCBgZ2F0ZS5weWAgfCDmi5LnrZTvvJrkuKrkurrmlbDmja4gLyDliKvnmoTlrabmoKEgLyDotornlYzor53popggLyDmoKHmg4Xnu5/orqEgLyDpl67pnaLigJTlrZfmrrXmoLjlr7kgLyDor63mlpnopobnm5YgLyDlpKrnrLznu58gLyDml6DotrPlpJ/mjqXov5HmnaHnm64gfAp8IGBjb21wb3NlLnB5YCB8IOaKiuWRveS4readoeebruijhemFjeaIkOadoeebruWMluetlOWkje+8iOatpemqpC/mnZDmlpkv6LS555SoL+WcsOeCuS/ml7bpl7Qv5pe26ZmQL+azqOaEj+S6i+mhuS/ogZTns7vmlrnlvI8v5Ye65aSE77yJIHwKfCBgZW5naW5lLnB5YCB8IOS4sui1t+adpe+8mmBFbmdpbmUubG9hZChkZW5zZT1GYWxzZSlgIOKGkiBgRW5naW5lLnNlYXJjaCgpYO+8m+WQq+aOkuW6j+WQjuinhOWImSBgX2FkanVzdCgpYCB8CnwgYGRlbnNlLnB5YCB8IOeZvueCvCBlbWJlZGRpbmcg5a6i5oi356uvICsg5ZCR6YeP57yT5a2YICsg5ZCR6YeP5qOA57Si77yI5Y+v6YCJ6YCa6YGT77yJIHwKfCBgYnVpbGQucHlgIHwg5bu65YCS5o6S57Si5byV5LiO6K+N6KGo77yaYHB5dGhvbiAtbSByZXRyaWV2YWwuYnVpbGRgIHwKCiMjIOW/q+mAn+W8gOWniwoKYGBgYmFzaApweXRob24gLW0gcmV0cmlldmFsLmJ1aWxkICAgICAgICAgICMg5bu65YCS5o6S57Si5byV77yI57qmIDEyIOenku+8jOS6p+eJqSA4OCBNQu+8iQpweXRob24gLW0gdG9vbHMudHJhaW5fcmFua2VyICAgICAgICMg5a2X6Z2i5o6S5bqP5Zmo77yI5Yir5ZCNIDEuMiDkuIfmnaHvvIwx772eMiDova7vvIznuqYgMS41IOWIhumSny/ova7vvIkKCiMg5Y+v6YCJ77yaZGVuc2Ug6YCa6YGT77yI6ZyA6KaBIC5lbnYg6YeM55qEIERBU0hTQ09QRV9BUElfS0VZ77yJCnB5dGhvbiAtbSB0b29scy5idWlsZF9kZW5zZSAtLXdvcmtlcnMgMSAgICAgICAgICAjIOe8lueggSAyNiA2NDcg5p2h5Y+v562U5p2h55uu77yM57qmIDE2IOWIhumSnwpweXRob24gLW0gdG9vbHMudHJhaW5fZGVuc2VfcmFua2VyIC0tbWF4LXF1ZXJpZXMgMzAwMCAgICMg5bimIGRlbnNlIOeJueW+geeahOaOkuW6j+WZqO+8jOe6piAyIOWIhumSnwoKcHl0aG9uIC0gPDwnUFknCmZyb20gcmV0cmlldmFsIGltcG9ydCBFbmdpbmUKZW5nID0gRW5naW5lLmxvYWQoZGVuc2U9VHJ1ZSkgICAgICAgICAgICAgICAgICAgICMg5LiN5LygIGRlbnNlIOWwseaYr+e6r+Wtl+mdogpyZXMgPSBlbmcuc2VhcmNoKCLppa3ljaHkuKLkuobmgI7kuYjlip4iLCBrPTUsIHdpdGhfYW5zd2VyPVRydWUpCnByaW50KHJlcy5oaXRzWzBdLnRpdGxlLCByZXMuaGl0c1swXS5wcm9iKSAgICAgICAjIOagoeWbreWNoeihpeWNoSAwLjk1CnByaW50KHJlcy5hbnN3ZXIudGV4dCkgICAgICAgICAgICAgICAgICAgICAgICAgICAjIOWujOaVtOetlOWkjQpwcmludChlbmcuc2VhcmNoKCLmuIXljY7moKHlm63ljaHmgI7kuYjooaXlip4iKS5yZWZ1c2VkKSAgICAjIFRydWUKUFkKYGBgCgojIyDkuKTmnaHpgJrpgZPnmoTlhbPns7sKCiogKirlrZfpnaLpgJrpgZMqKuawuOi/nOWcqO+8jDTigJM2IG1z77yM5LiN5L6d6LWW572R57uc77ybZGVuc2Ug5oyC5LqGIGBFbmdpbmUuc2VhcmNoYCDkvJrpgIDlm57lrZfpnaLmnYPph40KICDvvIjkuKTlpZfmnYPph43lhbHnlKjlkIzkuIDlpZfnibnlvoHkvY3vvIxkZW5zZSDlhbPpl63ml7bpgqPkuKTnu7TmgZLkuLogMO+8ie+8jOS4jeS8mua3t+WQiOWHuuayoemqjOivgei/h+eahOWIhuaVsOOAggoqICoqZGVuc2Ug6YCa6YGTKirmiormn6Xor6LnvJbnoIHkuIDmrKHvvIjnuqYgMjUw4oCTMzAwIG1z77yJ77yM5ZyoIDI2IDY0NyDmnaHlj6/nrZTmnaHnm67ph4zlj5YgdG9wLTEyMO+8jAogIOW5tuWFpeWAmemAieaxoO+8m+aOkuW6j+WZqOeUqCBgZGVuc2Vfc2NvcmVgIC8gYGRlbnNlX3JhbmtfcmVjaXBgIOS4pOe7tOWGs+WumuWug+WAvOWkmuWwkeOAggoqIOWFpeWPo+W8gOWFs++8mmBFbmdpbmUubG9hZChkZW5zZT1UcnVlKWDvvIzmiJbnjq/looPlj5jph48gYFJFVFJJRVZBTF9ERU5TRT0xYO+8iGBhcHAucHlgIOivu+Wug++8ieOAggoKIyMg6K+E5Lu3CgpgYGBiYXNoCnB5dGhvbiAtbSBfZXZhbC5idWlsZF9zZXRzICAgICAgICAgICAgICAgICAjIOeUn+aIkOiHquW7uuivhOa1i+mbhgpweXRob24gLW0gX2V2YWwucnVuX2V2YWwgLS1lbmdpbmUgbmV3ICAgICAgIyDmlrDmo4DntKLlmajvvIhwcmVzZXRzIC8gcGFyYXBocmFzZSAvIG5lZ2F0aXZlc++8iQpweXRob24gLW0gX2V2YWwuZXZhbF9hbnN3ZXJzICAgICAgICAgICAgICAgIyDnrZTmoYjlrZfmrrXlrozmlbTnjocKcHl0aG9uIC1tIF9ldmFsLmJhbmtfZXZhbCAtLWRlbnNlICAgICAgICAgICMg6aKY5bqTXzIwMjYxMTEz77yINDMzIOmimO+8ieW4piBkZW5zZSDpgqPkuIDot5EKcHl0aG9uIC1tIF9ldmFsLmJhbmtfY29tcGFyZSAgICAgICAgICAgICAgICMg5Lik6LeR5a+554WnCnB5dGhvbiAtbSBfZXZhbC5yZWZ1c2FsX2NoZWNrIC0tZGVuc2UgICAgICAjIOaLkuetlOWbnuW9kgpgYGAKCiMjIOiuvuiuoee6puadn++8iOaUueS5i+WJjeWFiOivu++8iQoKMS4gKirpmaQgZGVuc2Ug5aSW5LiN5byV5YWl5aSW6YOo5L6d6LWWKirjgILnm67moIfmnLrmmK8gTW9kZWxTY29wZSDliJvnqbrpl7TnmoQgRG9ja2Vy77yMCiAgIGByZXF1aXJlbWVudHMudHh0YCDlj6rmnIkgZmFzdGFwaSAvIHV2aWNvcm4gLyBudW1weeOAgmRlbnNlIOaYr+WPr+mAieS7tu+8muayoeaciQogICBgREFTSFNDT1BFX0FQSV9LRVlgIOWwseWPqui3keWtl+mdoumAmumBk++8jOacjeWKoeS4jeWPl+W9seWTjeOAggoyLiAqKuiuree7g+mbhuS4jeeisOivhOa1i+mbhioq44CCYHRvb2xzL3RyYWluX3Jhbmtlci5weWAg5Lya5oqKIHByZXNldHMgLyDmiYvlhpnmlLnlhpkgLyDpopjlupPph4znmoTpl67popgKICAg5LuO6K6t57uD5pWw5o2u6YeM5YmU5o6J77yM6YG/5YWN6IOM6aKY44CCCjMuICoq5ZCM5ZCN5p2h55uu5Lul5Lq65bel54mI5Li66KeE6IyD562U5qGIKirjgILlupPph4zlkIzkuIDkuKrkuovpobnluLjmnIkgaGFuZCAvIGF1dG8gLyBydWxlIC8gZG9jIOWkmuS7ve+8jAogICDorq3nu4Pml7bmiorpnZ7kurrlt6Xku7bnmoTmraPkvovmlLnmjIflkJHlroPnmoTkurrlt6XlrarnlJ/ku7bvvIhgaGFuZF90d2luYCDnibnlvoHotJ/otKPlnKjmjqjnkIbml7bor4bliKvvvInjgIIKNC4gKirliKvlkI3lj6rkv6Hkurrlt6XmnaHnm64qKuOAguiHquWKqOaKveWPluadoeebrueahCBgYWxpYXNgIOWkmuWNiuaYr+agh+mimOeijueJh++8jOS4gOaUvuW8gOWwseS8muiuqQogICDjgIzlm77kuabppobjgI3ov5nnp43ms5vor43miormrrXokL3mnaHnm67pobbkuIrmnaXjgIIKNS4gKirmi5LnrZTmmK/op4TliJnvvIzkuI3mmK/mqKHlnosqKuOAguS4gOS4pOeZvuS4qui0n+S+i+iureS4jeeos++8jOinhOWImeWPr+WuoeiuoeOAgeiDveivtOa4heS4uuS7gOS5iOaLku+8mwogICDor43ooajvvIjliKvnmoTlrabmoKEgLyDotornlYzor53popggLyDmoKHlm63lrp7or43vvInpg73lnKggYGdhdGUucHlgIOmHjO+8jOaUueivjeS4jeaUuemAu+i+keOAggo=
+# 检索算法（重写版）
+
+把「校园办事向导」的检索从 900 行手写 if/else + 字符哈希向量，换成
+**倒排索引 + 学习排序 + 规则化拒答**，外加一条可选的 **dense（云 embedding）通道**。
+除 dense 通道外仍然只有 `numpy` 一个依赖。
+
+```
+问句 ─► 规范化/拆套话 ─► 双通道 BM25F 召回 ─┬─► 56 维特征 ─► 线性排序器 ─► 排序后规则 ─► 拒答层 ─► 答案装配
+        text.py          index.py          │   features.py   ranker.py    engine.py    gate.py   compose.py
+                                            └─► dense 召回 ────┘
+                                            dense.py（百炼 qwen3.7-text-embedding，可选）
+```
+
+「排序后规则」是两档确定性调整（`engine._adjust`）：**标题落位**（冠军标题一个实词都不含
+时按实词覆盖重排）、**hub 让位**（汇总/常见问题类碎片让位给具体条目）、**章条锚定**
+（问句点了「第X条」时按 `sections.py` 把那一节抬上来）。它们只改相对次序与加分，
+不改候选集、不改答案形态。
+
+## 为什么这么拆
+
+| 原实现 | 新实现 |
+|---|---|
+| `score_item()` 每条问句对 3.9 万条逐条跑正则，`blocked_keys()` 再全库扫一遍 | 预建倒排索引，一次查询只碰命中的 postings |
+| 阈值 `MATCH_THRESHOLD=55` 人工拍死，散落十几处 `min(sc, 54)` 补丁 | 排序器输出概率 + 拒答层按「个人数据 / 别的学校 / 越界话题 / 语料覆盖 / 太笼统」分档判定 |
+| 「向量」是字符 1–3 gram 哈希投影，只做字面兜底 | 领域词（P:）+ 字符二元组（G:）两路词条，5 个字段分别打 BM25F；要语义就开 dense |
+| 4.9 秒 / 查询 | 字面 4.5 ms；开 dense 约 250–300 ms（云 embedding 一次） |
+
+## 文件
+
+| 文件 | 作用 |
+|---|---|
+| `text.py` | 规范化、拆问句套话/情态词、词表最长匹配、字符二元组、标题主干、主题串（剥框架词）、实词、hub 判定 |
+| `index.py` | 倒排索引（`.npy` 目录）、BM25F、覆盖度累加、精确串表 |
+| `features.py` | 候选对 56 维特征（两通道 × 5 字段、字面覆盖、种类先验、交互项、同名条目、主题/实词覆盖、hub、dense 分） |
+| `ranker.py` | numpy 逻辑回归（牛顿法），权重存 JSON |
+| `sections.py` | 章条锚定：问句点了「第X条/章」时，按「这一节讲什么」给该节条目加分 |
+| `gate.py` | 拒答：个人数据 / 别的学校 / 越界话题 / 校情统计 / 问面—字段核对 / 语料覆盖 / 太笼统 / 无足够接近条目 |
+| `compose.py` | 把命中条目装配成条目化答复（步骤/材料/费用/地点/时间/时限/注意事项/联系方式/出处） |
+| `engine.py` | 串起来：`Engine.load(dense=False)` → `Engine.search()`；含排序后规则 `_adjust()` |
+| `dense.py` | 百炼 embedding 客户端 + 向量缓存 + 向量检索（可选通道） |
+| `build.py` | 建倒排索引与词表：`python -m retrieval.build` |
+
+## 快速开始
+
+```bash
+python -m retrieval.build          # 建倒排索引（约 12 秒，产物 88 MB）
+python -m tools.train_ranker       # 字面排序器（别名 1.2 万条，1～2 轮，约 1.5 分钟/轮）
+
+# 可选：dense 通道（需要 .env 里的 DASHSCOPE_API_KEY）
+python -m tools.build_dense --workers 1          # 编码 26 647 条可答条目，约 16 分钟
+python -m tools.train_dense_ranker --max-queries 3000   # 带 dense 特征的排序器，约 2 分钟
+
+python - <<'PY'
+from retrieval import Engine
+eng = Engine.load(dense=True)                    # 不传 dense 就是纯字面
+res = eng.search("饭卡丢了怎么办", k=5, with_answer=True)
+print(res.hits[0].title, res.hits[0].prob)       # 校园卡补卡 0.95
+print(res.answer.text)                           # 完整答复
+print(eng.search("清华校园卡怎么补办").refused)    # True
+PY
+```
+
+## 两条通道的关系
+
+* **字面通道**永远在，4–6 ms，不依赖网络；dense 挂了 `Engine.search` 会退回字面权重
+  （两套权重共用同一套特征位，dense 关闭时那两维恒为 0），不会混合出没验证过的分数。
+* **dense 通道**把查询编码一次（约 250–300 ms），在 26 647 条可答条目里取 top-120，
+  并入候选池；排序器用 `dense_score` / `dense_rank_recip` 两维决定它值多少。
+* 入口开关：`Engine.load(dense=True)`，或环境变量 `RETRIEVAL_DENSE=1`（`app.py` 读它）。
+
+## 评价
+
+```bash
+python -m _eval.build_sets                 # 生成自建评测集
+python -m _eval.run_eval --engine new      # 新检索器（presets / paraphrase / negatives）
+python -m _eval.eval_answers               # 答案字段完整率
+python -m _eval.bank_eval --dense          # 题库_20261113（433 题）带 dense 那一跑
+python -m _eval.bank_compare               # 两跑对照
+python -m _eval.refusal_check --dense      # 拒答回归
+```
+
+## 设计约束（改之前先读）
+
+1. **除 dense 外不引入外部依赖**。目标机是 ModelScope 创空间的 Docker，
+   `requirements.txt` 只有 fastapi / uvicorn / numpy。dense 是可选件：没有
+   `DASHSCOPE_API_KEY` 就只跑字面通道，服务不受影响。
+2. **训练集不碰评测集**。`tools/train_ranker.py` 会把 presets / 手写改写 / 题库里的问题
+   从训练数据里剔掉，避免背题。
+3. **同名条目以人工版为规范答案**。库里同一个事项常有 hand / auto / rule / doc 多份，
+   训练时把非人工件的正例改指向它的人工孪生件（`hand_twin` 特征负责在推理时识别）。
+4. **别名只信人工条目**。自动抽取条目的 `alias` 多半是标题碎片，一放开就会让
+   「图书馆」这种泛词把段落条目顶上来。
+5. **拒答是规则，不是模型**。一两百个负例训不稳，规则可审计、能说清为什么拒；
+   词表（别的学校 / 越界话题 / 校园实词）都在 `gate.py` 里，改词不改逻辑。

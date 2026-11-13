@@ -1,1 +1,342 @@
-ew0KICJrZXkiOiAiYXR0LTRiY2UzODJlZGQiLA0KICJ0aXRsZSI6ICLkuK3kvKDnp5HnoJTlrZfjgJQyMDE344CVMTYyIOWPtyDlhbPkuo7ljbDlj5HjgIrkuK3lm73kvKDlqpLlpKflrabln7rmnKznp5HnoJTkuJrliqHotLnnrqHnkIblip7ms5XvvIjor5XooYzvvInjgIvnmoTpgJrnn6UiLA0KICJ0cnVuY2F0ZWQiOiBmYWxzZSwNCiAic2VjdGlvbnMiOiBbDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5paH5Y+35LiO5Y2w5Y+R6YCa55+lIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMSwNCiAgICAxMw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNWY0M2I5YjM1MiIsDQogICAgInB0LWU4NmI4ZjY1MTQiLA0KICAgICJwdC0zZDM0MzJlMGUzIg0KICAgXSwNCiAgICJjaGFycyI6IDMyMw0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuWKnuazleagh+mimOOAgeWuoeiurumAmui/h+ivtOaYjuS4juWItuWumuS+neaNriIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDE2LA0KICAgIDI0DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC05YjRmMWExOWFiIg0KICAgXSwNCiAgICJjaGFycyI6IDI0Mg0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LiA5p2hIiwNCiAgICJoZWFkaW5nIjogIuWfuuacrOenkeeglOS4muWKoei0ueeuoeeQhumihuWvvOWwj+e7hOeahOe7hOaIkCIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDI2LA0KICAgIDMwDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0zMDM3OWRkNzk4Ig0KICAgXSwNCiAgICJjaGFycyI6IDEyMA0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LqM5p2hIiwNCiAgICJoZWFkaW5nIjogIui1hOWKqeWvueixoeS4jumHjeeCueaUr+aMgeaWueWQkSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDMxLA0KICAgIDM1DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1jOTU5MGMyNWViIg0KICAgXSwNCiAgICJjaGFycyI6IDE0Nw0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LiJ5p2hIiwNCiAgICJoZWFkaW5nIjogIui1hOWKqemhueebruexu+WIqyIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDM2LA0KICAgIDM3DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0wMDNlZTFiZjMwIg0KICAgXSwNCiAgICJjaGFycyI6IDUzDQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzlm5vmnaEiLA0KICAgImhlYWRpbmciOiAi6YG06YCJ57uE57uH6aKR5qyh5LiO5LiN5b6X6YeN5aSN6LWE5YqpIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMzgsDQogICAgNDENCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWJkMzU1NDRlZDciDQogICBdLA0KICAgImNoYXJzIjogNTkNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS6lOadoSIsDQogICAiaGVhZGluZyI6ICLnq4vpobnjgIHlhaznpLrkuI7nrb7orqLpobnnm67ku7vliqHkuaYiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA0MiwNCiAgICA0Ng0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtYmI3NDhiMmNjOSINCiAgIF0sDQogICAiY2hhcnMiOiAxMDYNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWFreadoSIsDQogICAiaGVhZGluZyI6ICLpobnnm67pooTnrpfnvJbliLbopoHmsYIiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA0OCwNCiAgICA1MA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMjYxY2ZiYjdhMSINCiAgIF0sDQogICAiY2hhcnMiOiA4NA0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LiD5p2hIiwNCiAgICJoZWFkaW5nIjogIuW8gOaUr+iMg+WbtOS4g+exu+enkeebruS4jumihOeul+iwg+aVtCIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDUyLA0KICAgIDg1DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC00N2IyMDY1ZDg0Ig0KICAgXSwNCiAgICJjaGFycyI6IDc4OQ0KICB9LA0KICB7DQogICAibm8iOiAi77yI5LiA77yJIiwNCiAgICJoZWFkaW5nIjogIu+8iOS4gO+8ieiuvuWkh+i0uSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNTMsDQogICAgNTQNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDU0DQogIH0sDQogIHsNCiAgICJubyI6ICLvvIjkuozvvIkiLA0KICAgImhlYWRpbmciOiAi77yI5LqM77yJ5p2Q5paZ6LS5IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1NSwNCiAgICA1Ng0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNjM3MGIyOTgxYSINCiAgIF0sDQogICAiY2hhcnMiOiA0Mg0KICB9LA0KICB7DQogICAibm8iOiAi77yI5LiJ77yJIiwNCiAgICJoZWFkaW5nIjogIu+8iOS4ie+8ieS8muiurui0uS/lt67ml4XotLkv5Zu96ZmF5ZCI5L2c5LiO5Lqk5rWB6LS5IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1NywNCiAgICA2Nw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtYmE3MWJlOGJkYSIsDQogICAgInB0LTVjZjAzMDAwZDAiDQogICBdLA0KICAgImNoYXJzIjogMzM4DQogIH0sDQogIHsNCiAgICJubyI6ICLvvIjlm5vvvIkiLA0KICAgImhlYWRpbmciOiAi77yI5Zub77yJ5pWw5o2u6YeH6ZuG6LS5IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA2OSwNCiAgICA3MA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtYjBkMzRlZjYwYyINCiAgIF0sDQogICAiY2hhcnMiOiA2Ng0KICB9LA0KICB7DQogICAibm8iOiAi77yI5LqU77yJIiwNCiAgICJoZWFkaW5nIjogIu+8iOS6lO+8ieWHuueJiO+8j+aWh+eMru+8j+S/oeaBr+S8oOaSre+8j+efpeivhuS6p+adg+S6i+WKoei0uSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNzIsDQogICAgNzQNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWRmMzU1N2QwZGUiDQogICBdLA0KICAgImNoYXJzIjogNzINCiAgfSwNCiAgew0KICAgIm5vIjogIu+8iOWFre+8iSIsDQogICAiaGVhZGluZyI6ICLvvIjlha3vvInkuJPlrrblkqjor6LotLkiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDc2LA0KICAgIDc3DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1kYWJlMWI0ODdlIg0KICAgXSwNCiAgICJjaGFycyI6IDUyDQogIH0sDQogIHsNCiAgICJubyI6ICLvvIjkuIPvvIkiLA0KICAgImhlYWRpbmciOiAi77yI5LiD77yJ5Yqz5Yqh6LS5IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA3OSwNCiAgICA4NA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNGNiN2E3NDFjOSINCiAgIF0sDQogICAiY2hhcnMiOiAxNDANCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWFq+adoSIsDQogICAiaGVhZGluZyI6ICLlvIDmlK/moIflh4bkuI7npoHmraLmgKfmlK/lh7oiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA4NiwNCiAgICA5MA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtYjc2OGI4NGU0YiINCiAgIF0sDQogICAiY2hhcnMiOiAxNTQNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS5neadoSIsDQogICAiaGVhZGluZyI6ICLlhazliqHljaHnu5PnrpfkuI7pk7booYzovazotKbopoHmsYIiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA5MiwNCiAgICA5OA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZGU3MTEyY2IwYyINCiAgIF0sDQogICAiY2hhcnMiOiAxNDMNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWNgeadoSIsDQogICAiaGVhZGluZyI6ICLmjInlubTluqbpooTnrpfmi6jmrL7jgIHlvZPlubTnu4/otLnlvZPlubTmiafooYwiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMDAsDQogICAgMTAwDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1jN2E2MWMyMjdjIg0KICAgXSwNCiAgICJjaGFycyI6IDM2DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzljYHkuIDmnaEiLA0KICAgImhlYWRpbmciOiAi55uR552j5qOA5p+l5LiO6L+d6KeE5aSE55CG5o6q5pa9IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMTAxLA0KICAgIDEwNg0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZmYwZWY5OGE0YiINCiAgIF0sDQogICAiY2hhcnMiOiAxODANCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWNgeS6jOadoSIsDQogICAiaGVhZGluZyI6ICLop6Pph4rpg6jpl6giLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMDcsDQogICAgMTA3DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC05NzBkYjBkMWI5Ig0KICAgXSwNCiAgICJjaGFycyI6IDM1DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzljYHkuInmnaEiLA0KICAgImhlYWRpbmciOiAi5a6e5pa95pel5pyfIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMTA4LA0KICAgIDEwOA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtYTYyNDYyMjQxMSINCiAgIF0sDQogICAiY2hhcnMiOiAyNQ0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIueJiOiusO+8iOS4u+WKqOWFrOW8gOS4juWNsOWPkeaXpeacn++8iSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDExMSwNCiAgICAxMTENCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWZkYzAxMDBhZTkiDQogICBdLA0KICAgImNoYXJzIjogNDANCiAgfQ0KIF0sDQogIml0ZW1zIjogWw0KICAicHQtNWY0M2I5YjM1MiIsDQogICJwdC1lODZiOGY2NTE0IiwNCiAgInB0LTNkMzQzMmUwZTMiLA0KICAicHQtOWI0ZjFhMTlhYiIsDQogICJwdC0zMDM3OWRkNzk4IiwNCiAgInB0LWM5NTkwYzI1ZWIiLA0KICAicHQtMDAzZWUxYmYzMCIsDQogICJwdC1iZDM1NTQ0ZWQ3IiwNCiAgInB0LWJiNzQ4YjJjYzkiLA0KICAicHQtMjYxY2ZiYjdhMSIsDQogICJwdC02MzcwYjI5ODFhIiwNCiAgInB0LWJhNzFiZThiZGEiLA0KICAicHQtNWNmMDMwMDBkMCIsDQogICJwdC1iMGQzNGVmNjBjIiwNCiAgInB0LWRmMzU1N2QwZGUiLA0KICAicHQtZGFiZTFiNDg3ZSIsDQogICJwdC00Y2I3YTc0MWM5IiwNCiAgInB0LWI3NjhiODRlNGIiLA0KICAicHQtNDdiMjA2NWQ4NCIsDQogICJwdC1kZTcxMTJjYjBjIiwNCiAgInB0LWM3YTYxYzIyN2MiLA0KICAicHQtZmYwZWY5OGE0YiIsDQogICJwdC05NzBkYjBkMWI5IiwNCiAgInB0LWE2MjQ2MjI0MTEiLA0KICAicHQtZmRjMDEwMGFlOSINCiBdLA0KICJub3RlcyI6IFsNCiAgIlBERiDmir3lj5bku7bvvIzmraPmlofmrrXokL3kuYvpl7Tmma7pgY3lpLnnqbrooYzjgIHpobXohJrlpLnpobXnoIHooYzvvIjjgIwtMS3jgI3nrKwgMTUg6KGM44CB44CMLTIt44CN56ysIDQwIOihjOOAgeOAjC0zLeOAjeesrCA2NSDooYzjgIHjgIwtNC3jgI3nrKwgOTQg6KGM44CB44CMLTUt44CN56ysIDExMCDooYzjgIHjgIwtNi3jgI3nrKwgMTEyIOihjO+8ieOAgumhteeggeihjOS4jeWFheW9k+S7u+S9leiKgueahOiKgummlu+8m+esrCA0MO+8jzY177yPOTQg6KGM5Zug5omA5Zyo5p2h5paH6Leo6aG16ICM6JC95Zyo6IqC5Yy66Ze05YaF77yM56ysIDE177yPMTEw77yPMTEyIOihjOS4jeWxnuS6juS7u+S9leiKgu+8iOi/meS5n+aYr+WFqOevhyAzIOWkhOimhuebluepuumameeahOadpea6kO+8ieOAgiIsDQogICLnrKwgMuKAkzUg6KGM55qE44CM5YWzIOS6jiDljbAg5Y+R77yP44CK4oCm5Yqe5rOV77yI6K+V6KGM77yJ44CL55qE77yP6YCaIOefpeOAjeaYr+aWh+S7tuagh+mimOiiq+aLhuihjO+8jOS4juesrCAxIOihjOaWh+WPt+OAgeesrCA3IOihjOS4u+mAgeOAgeesrCA44oCTMTAg6KGM5q2j5paH44CB56ysIDEy4oCTMTMg6KGM6JC95qy+5bm25Li65LiA6IqC77yb56ysIDE2IOihjOaYr+OAiuWKnuazleOAi+ato+aWh+agh+mimOOAgeesrCAxOCDooYzmmK/lrqHorq7pgJrov4for7TmmI7jgIHnrKwgMjDigJMyNCDooYzmmK/liLblrprkvp3mja7mrrXvvIzkuInooYzlkIzoioLigJTigJRwdC05YjRmMWExOWFiIOeahOW8leaWh+ato+WlveS7juesrCAxNiDooYzot6jliLDnrKwgMjAg6KGM77yM5LiN5bm25bCx6JC95LiN5LqG5Zyw44CCIiwNCiAgIueItuWtkOiKgu+8muesrCA1MuKAkzg1IOihjOOAjOesrOS4g+adoeOAjeS4uueItuiKgu+8jOWFtuS4i+OAjO+8iOS4gO+8ieOAjeiHs+OAjO+8iOS4g++8ieOAjeS4g+exu+W8gOaUr+enkeebruS4uuWtkOiKgu+8iOesrCA1M++8jzU177yPNTfvvI82Oe+8jzcy77yPNzbvvI83OSDooYzotbfvvInvvIznnJ/ltYzlpZfvvJvnrKwgNznigJM4NCDooYzpmaTlirPliqHotLnlpJbov5jlkKvjgIzkvJrorq7otLkv5beu5peF6LS5L+WbvemZheWQiOS9nOS4juS6pOa1gei0ueOAgeWKs+WKoei0ueOAgeS4k+WutuWSqOivoui0ueOAgeiuvuWkh+i0uemihOeul+S4gOe7j+aJueWHhuWOn+WImeS4iuS4jeWPr+iwg+WinuKApuOAjeeahOmihOeul+iwg+aVtOaute+8jOaXoOeLrOeri+Wwj+agh+mimO+8jOaMieebuOmCu+WOn+WImeW5tuWFpeOAjO+8iOS4g++8ieOAjeOAgiIsDQogICLnrKwgNjbigJM2NyDooYznmoTjgIzkvJrorq7otLkv5beu5peF6LS5L+WbvemZheWQiOS9nOS4juS6pOa1gei0uei2hei/h+mihOeul+e7j+i0uSAxMCXnmoTvvIzpnIDopoHmj5DkvpvpooTnrpfmtYvnrpfkvp3mja7jgI3mmK/jgIzvvIjkuInvvInjgI3nmoTooaXlhYXlj6XvvIzlubblhaXjgIzvvIjkuInvvInjgI3oioLjgIIiLA0KICAi56ysIDExMSDooYzjgIzkuK3lm73kvKDlqpLlpKflrablhZrlp5TjgIHmoKHplb/lip7lhazlrqQgIOS4u+WKqOWFrOW8gCAgMjAxNyDlubQgNiDmnIggMjgg5pel5Y2w5Y+R44CN5Li654mI6K6w77yM5Y2V5YiX5pyr6IqC77yb56ysIDExMiDooYzjgIwtNi3jgI3kuLrmnKvpobXpobXnoIHjgIIiLA0KICAi5q2j5paH5peg5oiq5pat77ybMjUg5Liq5p2h55uu5Lit55qEIHB0LTQ3YjIwNjVkODQg5byV5paH5LuO44CM56ys5LiD5p2h44CN5qCH6aKY6KGM6LW344CB6Leo6L+b44CM77yI5LiA77yJ6K6+5aSH6LS544CN77yM5Y+q6IO95ZG95Lit54i26IqC77yM5pWF5YiX5Zyo54i26IqCIGl0ZW1z44CCIg0KIF0NCn0=
+{
+ "key": "att-4bce382edd",
+ "title": "中传科研字〔2017〕162 号 关于印发《中国传媒大学基本科研业务费管理办法（试行）》的通知",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "文号与印发通知",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    13
+   ],
+   "items": [
+    "pt-5f43b9b352",
+    "pt-e86b8f6514",
+    "pt-3d3432e0e3"
+   ],
+   "chars": 323
+  },
+  {
+   "no": "—",
+   "heading": "办法标题、审议通过说明与制定依据",
+   "heading_kind": "derived",
+   "lines": [
+    16,
+    24
+   ],
+   "items": [
+    "pt-9b4f1a19ab"
+   ],
+   "chars": 242
+  },
+  {
+   "no": "第一条",
+   "heading": "基本科研业务费管理领导小组的组成",
+   "heading_kind": "derived",
+   "lines": [
+    26,
+    30
+   ],
+   "items": [
+    "pt-30379dd798"
+   ],
+   "chars": 120
+  },
+  {
+   "no": "第二条",
+   "heading": "资助对象与重点支持方向",
+   "heading_kind": "derived",
+   "lines": [
+    31,
+    35
+   ],
+   "items": [
+    "pt-c9590c25eb"
+   ],
+   "chars": 147
+  },
+  {
+   "no": "第三条",
+   "heading": "资助项目类别",
+   "heading_kind": "derived",
+   "lines": [
+    36,
+    37
+   ],
+   "items": [
+    "pt-003ee1bf30"
+   ],
+   "chars": 53
+  },
+  {
+   "no": "第四条",
+   "heading": "遴选组织频次与不得重复资助",
+   "heading_kind": "derived",
+   "lines": [
+    38,
+    41
+   ],
+   "items": [
+    "pt-bd35544ed7"
+   ],
+   "chars": 59
+  },
+  {
+   "no": "第五条",
+   "heading": "立项、公示与签订项目任务书",
+   "heading_kind": "derived",
+   "lines": [
+    42,
+    46
+   ],
+   "items": [
+    "pt-bb748b2cc9"
+   ],
+   "chars": 106
+  },
+  {
+   "no": "第六条",
+   "heading": "项目预算编制要求",
+   "heading_kind": "derived",
+   "lines": [
+    48,
+    50
+   ],
+   "items": [
+    "pt-261cfbb7a1"
+   ],
+   "chars": 84
+  },
+  {
+   "no": "第七条",
+   "heading": "开支范围七类科目与预算调整",
+   "heading_kind": "derived",
+   "lines": [
+    52,
+    85
+   ],
+   "items": [
+    "pt-47b2065d84"
+   ],
+   "chars": 789
+  },
+  {
+   "no": "（一）",
+   "heading": "（一）设备费",
+   "heading_kind": "author",
+   "lines": [
+    53,
+    54
+   ],
+   "items": [],
+   "chars": 54
+  },
+  {
+   "no": "（二）",
+   "heading": "（二）材料费",
+   "heading_kind": "author",
+   "lines": [
+    55,
+    56
+   ],
+   "items": [
+    "pt-6370b2981a"
+   ],
+   "chars": 42
+  },
+  {
+   "no": "（三）",
+   "heading": "（三）会议费/差旅费/国际合作与交流费",
+   "heading_kind": "author",
+   "lines": [
+    57,
+    67
+   ],
+   "items": [
+    "pt-ba71be8bda",
+    "pt-5cf03000d0"
+   ],
+   "chars": 338
+  },
+  {
+   "no": "（四）",
+   "heading": "（四）数据采集费",
+   "heading_kind": "author",
+   "lines": [
+    69,
+    70
+   ],
+   "items": [
+    "pt-b0d34ef60c"
+   ],
+   "chars": 66
+  },
+  {
+   "no": "（五）",
+   "heading": "（五）出版／文献／信息传播／知识产权事务费",
+   "heading_kind": "author",
+   "lines": [
+    72,
+    74
+   ],
+   "items": [
+    "pt-df3557d0de"
+   ],
+   "chars": 72
+  },
+  {
+   "no": "（六）",
+   "heading": "（六）专家咨询费",
+   "heading_kind": "author",
+   "lines": [
+    76,
+    77
+   ],
+   "items": [
+    "pt-dabe1b487e"
+   ],
+   "chars": 52
+  },
+  {
+   "no": "（七）",
+   "heading": "（七）劳务费",
+   "heading_kind": "author",
+   "lines": [
+    79,
+    84
+   ],
+   "items": [
+    "pt-4cb7a741c9"
+   ],
+   "chars": 140
+  },
+  {
+   "no": "第八条",
+   "heading": "开支标准与禁止性支出",
+   "heading_kind": "derived",
+   "lines": [
+    86,
+    90
+   ],
+   "items": [
+    "pt-b768b84e4b"
+   ],
+   "chars": 154
+  },
+  {
+   "no": "第九条",
+   "heading": "公务卡结算与银行转账要求",
+   "heading_kind": "derived",
+   "lines": [
+    92,
+    98
+   ],
+   "items": [
+    "pt-de7112cb0c"
+   ],
+   "chars": 143
+  },
+  {
+   "no": "第十条",
+   "heading": "按年度预算拨款、当年经费当年执行",
+   "heading_kind": "derived",
+   "lines": [
+    100,
+    100
+   ],
+   "items": [
+    "pt-c7a61c227c"
+   ],
+   "chars": 36
+  },
+  {
+   "no": "第十一条",
+   "heading": "监督检查与违规处理措施",
+   "heading_kind": "derived",
+   "lines": [
+    101,
+    106
+   ],
+   "items": [
+    "pt-ff0ef98a4b"
+   ],
+   "chars": 180
+  },
+  {
+   "no": "第十二条",
+   "heading": "解释部门",
+   "heading_kind": "derived",
+   "lines": [
+    107,
+    107
+   ],
+   "items": [
+    "pt-970db0d1b9"
+   ],
+   "chars": 35
+  },
+  {
+   "no": "第十三条",
+   "heading": "实施日期",
+   "heading_kind": "derived",
+   "lines": [
+    108,
+    108
+   ],
+   "items": [
+    "pt-a624622411"
+   ],
+   "chars": 25
+  },
+  {
+   "no": "—",
+   "heading": "版记（主动公开与印发日期）",
+   "heading_kind": "derived",
+   "lines": [
+    111,
+    111
+   ],
+   "items": [
+    "pt-fdc0100ae9"
+   ],
+   "chars": 40
+  }
+ ],
+ "items": [
+  "pt-5f43b9b352",
+  "pt-e86b8f6514",
+  "pt-3d3432e0e3",
+  "pt-9b4f1a19ab",
+  "pt-30379dd798",
+  "pt-c9590c25eb",
+  "pt-003ee1bf30",
+  "pt-bd35544ed7",
+  "pt-bb748b2cc9",
+  "pt-261cfbb7a1",
+  "pt-6370b2981a",
+  "pt-ba71be8bda",
+  "pt-5cf03000d0",
+  "pt-b0d34ef60c",
+  "pt-df3557d0de",
+  "pt-dabe1b487e",
+  "pt-4cb7a741c9",
+  "pt-b768b84e4b",
+  "pt-47b2065d84",
+  "pt-de7112cb0c",
+  "pt-c7a61c227c",
+  "pt-ff0ef98a4b",
+  "pt-970db0d1b9",
+  "pt-a624622411",
+  "pt-fdc0100ae9"
+ ],
+ "notes": [
+  "PDF 抽取件，正文段落之间普遍夹空行、页脚夹页码行（「-1-」第 15 行、「-2-」第 40 行、「-3-」第 65 行、「-4-」第 94 行、「-5-」第 110 行、「-6-」第 112 行）。页码行不充当任何节的节首；第 40／65／94 行因所在条文跨页而落在节区间内，第 15／110／112 行不属于任何节（这也是全篇 3 处覆盖空隙的来源）。",
+  "第 2–5 行的「关 于 印 发／《…办法（试行）》的／通 知」是文件标题被拆行，与第 1 行文号、第 7 行主送、第 8–10 行正文、第 12–13 行落款并为一节；第 16 行是《办法》正文标题、第 18 行是审议通过说明、第 20–24 行是制定依据段，三行同节——pt-9b4f1a19ab 的引文正好从第 16 行跨到第 20 行，不并就落不了地。",
+  "父子节：第 52–85 行「第七条」为父节，其下「（一）」至「（七）」七类开支科目为子节（第 53／55／57／69／72／76／79 行起），真嵌套；第 79–84 行除劳务费外还含「会议费/差旅费/国际合作与交流费、劳务费、专家咨询费、设备费预算一经批准原则上不可调增…」的预算调整段，无独立小标题，按相邻原则并入「（七）」。",
+  "第 66–67 行的「会议费/差旅费/国际合作与交流费超过预算经费 10%的，需要提供预算测算依据」是「（三）」的补充句，并入「（三）」节。",
+  "第 111 行「中国传媒大学党委、校长办公室  主动公开  2017 年 6 月 28 日印发」为版记，单列末节；第 112 行「-6-」为末页页码。",
+  "正文无截断；25 个条目中的 pt-47b2065d84 引文从「第七条」标题行起、跨进「（一）设备费」，只能命中父节，故列在父节 items。"
+ ]
+}

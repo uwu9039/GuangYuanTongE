@@ -1,1 +1,144 @@
-ewogImtleSI6ICJhdHQtMTNjMWI3ZDYxMiIsCiAidGl0bGUiOiAi5Lit5Zu95Lyg5aqS5aSn5a2m5biC5Zy66JCl6ZSA5LiT5LiaMjAyNeW5tOi+heS/ruaLm+eUn+eugOeroCIsCiAidHJ1bmNhdGVkIjogZmFsc2UsCiAic2VjdGlvbnMiOiBbCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi5qCH6aKY5LiO5LiT5Lia5LuL57uNIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzEsIDE0XSwKICAgIml0ZW1zIjogWyJwdC1jYjgzOWRiOWZkIl0sCiAgICJjaGFycyI6IDQwNwogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi5Lit5Zu95Lyg5aqS5aSn5a2m5biC5Zy66JCl6ZSA5LiT5LiaMjAyNeW5tOi+heS/ruaLm+eUn+eugOeroCIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzEsIDNdLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogNzgKICB9LAogIHsKICAgIm5vIjogIuS4gCIsCiAgICJoZWFkaW5nIjogIuS4k+S4muS7i+e7jSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzUsIDE0XSwKICAgIml0ZW1zIjogWyJwdC0xZDI4OTI3NTQ0Il0sCiAgICJjaGFycyI6IDMyOQogIH0sCiAgewogICAibm8iOiAi5LqMIiwKICAgImhlYWRpbmciOiAi5Z+55YW755uu5qCHIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbMTYsIDI2XSwKICAgIml0ZW1zIjogWyJwdC00MWVkODkyODM1IiwgInB0LWY0OWM4NjFiODYiXSwKICAgImNoYXJzIjogMzMzCiAgfSwKICB7CiAgICJubyI6ICLkuIkiLAogICAiaGVhZGluZyI6ICLln7nlhbvopoHmsYIiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsyOCwgNDldLAogICAiaXRlbXMiOiBbInB0LWU2ZDdkOGU5OTciLCAicHQtMGJjYzVjMzBjMCIsICJwdC1iZDU0ODRiNGVjIiwgInB0LTU3NTZhMTM1NmEiLCAicHQtZTczNmI4ZDdiNiIsICJwdC1hZTdlMWYxM2VmIl0sCiAgICJjaGFycyI6IDUxOAogIH0sCiAgewogICAibm8iOiAi5ZubIiwKICAgImhlYWRpbmciOiAi5oub55Sf5a+56LGhIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbNTEsIDU5XSwKICAgIml0ZW1zIjogWyJwdC1mZGUyOWRlNTQwIiwgInB0LWQyYjEwYjIxZjUiLCAicHQtNjc3Y2I3MmNkNiJdLAogICAiY2hhcnMiOiAxODgKICB9LAogIHsKICAgIm5vIjogIuS6lCIsCiAgICJoZWFkaW5nIjogIuaOiOivvuaWueW8jyIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzYxLCA2Ml0sCiAgICJpdGVtcyI6IFtdLAogICAiY2hhcnMiOiAxNgogIH0sCiAgewogICAibm8iOiAi5YWtIiwKICAgImhlYWRpbmciOiAi5a2m5YiG6K6k5a6aIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbNjQsIDY2XSwKICAgIml0ZW1zIjogW10sCiAgICJjaGFycyI6IDU1CiAgfSwKICB7CiAgICJubyI6ICLkuIMiLAogICAiaGVhZGluZyI6ICLmjojkuojor4HkuabmnaHku7YiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs2OCwgODFdLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogMzk3CiAgfSwKICB7CiAgICJubyI6ICLlhasiLAogICAiaGVhZGluZyI6ICLkv67or7vmnJ/pmZAiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs4MywgODRdLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogNDgKICB9LAogIHsKICAgIm5vIjogIuS5nSIsCiAgICJoZWFkaW5nIjogIuivgeS5pueUs+ivtyIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzg2LCA4OF0sCiAgICJpdGVtcyI6IFtdLAogICAiY2hhcnMiOiA2NAogIH0sCiAgewogICAibm8iOiAi5Y2BIiwKICAgImhlYWRpbmciOiAi5oub55Sf5pe26Ze05a6J5o6S5Y+K5oql5ZCN5pa55byPIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbOTAsIDEwMV0sCiAgICJpdGVtcyI6IFsicHQtMWIyMGU4OWZiNiIsICJwdC1kZjVjNDU4MTM0Il0sCiAgICJjaGFycyI6IDM1NAogIH0sCiAgewogICAibm8iOiAi5Y2B5LiAIiwKICAgImhlYWRpbmciOiAi5ZKo6K+i6IGU57O75pa55byPIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbMTAzLCAxMDRdLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogNTgKICB9LAogIHsKICAgIm5vIjogIuWNgeS6jCIsCiAgICJoZWFkaW5nIjogIui+heS/ruWtpui0uSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzEwNiwgMTA3XSwKICAgIml0ZW1zIjogWyJwdC02YTJlYWQyZWYwIl0sCiAgICJjaGFycyI6IDQ2CiAgfSwKICB7CiAgICJubyI6ICLljYHkuIkiLAogICAiaGVhZGluZyI6ICLor77nqIvorr7nva7lj4rlrabliIYiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsxMDksIDE3NF0sCiAgICJpdGVtcyI6IFsicHQtZGQ1MDY4NDlmMyIsICJwdC1jYWI2NzI5NzYxIiwgInB0LTNiNzgyMzVlM2EiLCAicHQtOWM5NTE0ZmJjNiIsICJwdC1mZTI1ZTc0NTllIiwgInB0LTZiNzJkNTI4N2QiLCAicHQtNWUyNzgzNmMzMSJdLAogICAiY2hhcnMiOiAyNDI1CiAgfSwKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLokL3mrL4iLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbMTc2LCAxNzddLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogMTE3CiAgfQogXSwKICJpdGVtcyI6IFsicHQtZGY1YzQ1ODEzNCIsICJwdC02YTJlYWQyZWYwIiwgInB0LWNiODM5ZGI5ZmQiLCAicHQtMWQyODkyNzU0NCIsICJwdC00MWVkODkyODM1IiwgInB0LWY0OWM4NjFiODYiLCAicHQtZTZkN2Q4ZTk5NyIsICJwdC0wYmNjNWMzMGMwIiwgInB0LWJkNTQ4NGI0ZWMiLCAicHQtNTc1NmExMzU2YSIsICJwdC1lNzM2YjhkN2I2IiwgInB0LWFlN2UxZjEzZWYiLCAicHQtZmRlMjlkZTU0MCIsICJwdC1kMmIxMGIyMWY1IiwgInB0LTY3N2NiNzJjZDYiLCAicHQtMWIyMGU4OWZiNiIsICJwdC1kZDUwNjg0OWYzIiwgInB0LWNhYjY3Mjk3NjEiLCAicHQtM2I3ODIzNWUzYSIsICJwdC05Yzk1MTRmYmM2IiwgInB0LWZlMjVlNzQ1OWUiLCAicHQtNmI3MmQ1Mjg3ZCIsICJwdC01ZTI3ODM2YzMxIl0sCiAibm90ZXMiOiBbCiAgIuacrOS7tuS4uuS4gOS7veWujOaVtOeahOaLm+eUn+eugOeroO+8iOS4gO+9nuWNgeS4iSDlubPpk7rvvIzml6Dnq6DnuqfltYzlpZfvvInvvIzmlofmnKvmnInnvbLlkI3kuI7ml6XmnJ/jgIIiLAogICLnrKwgMS0zIOihjOaWh+aho+agh+mimO+8iOS4reWbveS8oOWqkuWkp+Wtpu+8j+W4guWcuuiQpemUgOS4k+S4mu+8jzIwMjXlubTovoXkv67mi5vnlJ/nroDnq6Ag5LiJ6KGM5oqY6KGM77yJ5Y2V5YiXIGF1dGhvciDoioLvvJtwdC1jYjgzOWRiOWZkIOeahOW8leaWh+S7juagh+mimOihjOS4gOebtOi/nuWIsOOAjOS4gOOAgeS4k+S4muS7i+e7jeOAjeato+aWh+mmluWPpe+8jOi3qOS6huagh+mimOihjOS4juesrOS4gOadoe+8jOmdnuW5tuWFpeWwseS8muiQveS4jeS6huWcsO+8jOaVheWPpuiuvueItuiKguOAjOagh+mimOS4juS4k+S4muS7i+e7jeOAje+8iDEtMTQg6KGM77yJ5om/5o6l77yM5a2Q6IqC5LuN5piv5qCH6aKY6IqC5LiO44CM5LiA44CB5LiT5Lia5LuL57uN44CN77yM5peg6YOo5YiG5Lqk5Y+g44CCIiwKICAi44CM5LiJ44CB5Z+55YW76KaB5rGC44CN5LiL55qEIDEu5Lu35YC86KeC5byV6aKG772eNS7msp/pgJrkuI7lkIjkvZzog73lipsg5bGe5p2h5paH5YaF5YiG6aG577yI5peg54us56uL5qCH6aKY77yJ77yM5LiN5Y2V5YiX6IqC77yM5LqU5Liq5p2h55uu5LiA5bm26JC95Zyo6K+l6IqC44CCIiwKICAi44CM5Zub44CB5oub55Sf5a+56LGh44CN5ZCr5LiA5byg5LiN5Y+v55Sz6K+36L6F5L+u55qE5LiJ5Liq5LiT5Lia6KGo77yINTUtNTkg6KGM77yJ77yM5YiX6Ze055So56m65qC85a+56b2Q44CB5Y+v6K+777yM5pW05q615bm25YWl5pys6IqC44CCIiwKICAi44CM5Y2B5LiJ44CB6K++56iL6K6+572u5Y+K5a2m5YiG44CN55qE6K++56iL6KGo57q15o6S44CB5oq95Y+W5ZCO5YiX5Lil6YeN6ZSZ5L2N77yI6K++56iL5ZCN5LiO6K++56iL5Y+35YiG5aSE5LiN5ZCM6KGM77yMMTQyLTE2MiDooYzlj6rlianlrabliIYv5a2m5pe2L+Wtpuacn+WIl++8jDE2My0xNjkg6KGM5Y+I5pW06KGM5oqY5Ye677yJ77yM5peg5rOV5oyJ5YiX6L+Y5Y6f77yM5pWF5pW06KGo5LiA6IqC77yIMTA5LTE3NCDooYzvvInvvIzkuI3mi4booYzjgIIiLAogICLnrKwgMTc2LTE3NyDooYzkuLrlrabpmaLnvbLlkI3kuI7ml6XmnJ/vvIzljZXliJfjgIzokL3mrL7jgI3oioLjgIIiCiBdCn0K
+{
+ "key": "att-13c1b7d612",
+ "title": "中国传媒大学市场营销专业2025年辅修招生简章",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "标题与专业介绍",
+   "heading_kind": "derived",
+   "lines": [1, 14],
+   "items": ["pt-cb839db9fd"],
+   "chars": 407
+  },
+  {
+   "no": "—",
+   "heading": "中国传媒大学市场营销专业2025年辅修招生简章",
+   "heading_kind": "author",
+   "lines": [1, 3],
+   "items": [],
+   "chars": 78
+  },
+  {
+   "no": "一",
+   "heading": "专业介绍",
+   "heading_kind": "author",
+   "lines": [5, 14],
+   "items": ["pt-1d28927544"],
+   "chars": 329
+  },
+  {
+   "no": "二",
+   "heading": "培养目标",
+   "heading_kind": "author",
+   "lines": [16, 26],
+   "items": ["pt-41ed892835", "pt-f49c861b86"],
+   "chars": 333
+  },
+  {
+   "no": "三",
+   "heading": "培养要求",
+   "heading_kind": "author",
+   "lines": [28, 49],
+   "items": ["pt-e6d7d8e997", "pt-0bcc5c30c0", "pt-bd5484b4ec", "pt-5756a1356a", "pt-e736b8d7b6", "pt-ae7e1f13ef"],
+   "chars": 518
+  },
+  {
+   "no": "四",
+   "heading": "招生对象",
+   "heading_kind": "author",
+   "lines": [51, 59],
+   "items": ["pt-fde29de540", "pt-d2b10b21f5", "pt-677cb72cd6"],
+   "chars": 188
+  },
+  {
+   "no": "五",
+   "heading": "授课方式",
+   "heading_kind": "author",
+   "lines": [61, 62],
+   "items": [],
+   "chars": 16
+  },
+  {
+   "no": "六",
+   "heading": "学分认定",
+   "heading_kind": "author",
+   "lines": [64, 66],
+   "items": [],
+   "chars": 55
+  },
+  {
+   "no": "七",
+   "heading": "授予证书条件",
+   "heading_kind": "author",
+   "lines": [68, 81],
+   "items": [],
+   "chars": 397
+  },
+  {
+   "no": "八",
+   "heading": "修读期限",
+   "heading_kind": "author",
+   "lines": [83, 84],
+   "items": [],
+   "chars": 48
+  },
+  {
+   "no": "九",
+   "heading": "证书申请",
+   "heading_kind": "author",
+   "lines": [86, 88],
+   "items": [],
+   "chars": 64
+  },
+  {
+   "no": "十",
+   "heading": "招生时间安排及报名方式",
+   "heading_kind": "author",
+   "lines": [90, 101],
+   "items": ["pt-1b20e89fb6", "pt-df5c458134"],
+   "chars": 354
+  },
+  {
+   "no": "十一",
+   "heading": "咨询联系方式",
+   "heading_kind": "author",
+   "lines": [103, 104],
+   "items": [],
+   "chars": 58
+  },
+  {
+   "no": "十二",
+   "heading": "辅修学费",
+   "heading_kind": "author",
+   "lines": [106, 107],
+   "items": ["pt-6a2ead2ef0"],
+   "chars": 46
+  },
+  {
+   "no": "十三",
+   "heading": "课程设置及学分",
+   "heading_kind": "author",
+   "lines": [109, 174],
+   "items": ["pt-dd506849f3", "pt-cab6729761", "pt-3b78235e3a", "pt-9c9514fbc6", "pt-fe25e7459e", "pt-6b72d5287d", "pt-5e27836c31"],
+   "chars": 2425
+  },
+  {
+   "no": "—",
+   "heading": "落款",
+   "heading_kind": "derived",
+   "lines": [176, 177],
+   "items": [],
+   "chars": 117
+  }
+ ],
+ "items": ["pt-df5c458134", "pt-6a2ead2ef0", "pt-cb839db9fd", "pt-1d28927544", "pt-41ed892835", "pt-f49c861b86", "pt-e6d7d8e997", "pt-0bcc5c30c0", "pt-bd5484b4ec", "pt-5756a1356a", "pt-e736b8d7b6", "pt-ae7e1f13ef", "pt-fde29de540", "pt-d2b10b21f5", "pt-677cb72cd6", "pt-1b20e89fb6", "pt-dd506849f3", "pt-cab6729761", "pt-3b78235e3a", "pt-9c9514fbc6", "pt-fe25e7459e", "pt-6b72d5287d", "pt-5e27836c31"],
+ "notes": [
+  "本件为一份完整的招生简章（一～十三 平铺，无章级嵌套），文末有署名与日期。",
+  "第 1-3 行文档标题（中国传媒大学／市场营销专业／2025年辅修招生简章 三行折行）单列 author 节；pt-cb839db9fd 的引文从标题行一直连到「一、专业介绍」正文首句，跨了标题行与第一条，非并入就会落不了地，故另设父节「标题与专业介绍」（1-14 行）承接，子节仍是标题节与「一、专业介绍」，无部分交叠。",
+  "「三、培养要求」下的 1.价值观引领～5.沟通与合作能力 属条文内分项（无独立标题），不单列节，五个条目一并落在该节。",
+  "「四、招生对象」含一张不可申请辅修的三个专业表（55-59 行），列间用空格对齐、可读，整段并入本节。",
+  "「十三、课程设置及学分」的课程表纵排、抽取后列严重错位（课程名与课程号分处不同行，142-162 行只剩学分/学时/学期列，163-169 行又整行折出），无法按列还原，故整表一节（109-174 行），不拆行。",
+  "第 176-177 行为学院署名与日期，单列「落款」节。"
+ ]
+}

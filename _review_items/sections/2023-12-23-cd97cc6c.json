@@ -1,1 +1,158 @@
-ewogImtleSI6ICIyMDIzLTEyLTIzLWNkOTdjYzZjIiwKICJ0aXRsZSI6ICLpgJror4bmlZnogrLmoLjlv4Por74g5paw5bu66K++56iL5o6o5LuLIDIwMjTmmKXlraPlrabmnJ8iLAogInRydW5jYXRlZCI6IGZhbHNlLAogInNlY3Rpb25zIjogWwogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIuWFrOS8l+WPt+mimOWbvuS4jumhteWktCIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFsxLCA2XSwKICAgIml0ZW1zIjogWyJwdC0xM2RmNzgyNDJkIiwgInB0LWVlNDFlNTRiZDAiLCAicHQtNDE5NTliMDAxOSIsICJwdC1kYmExM2U3YzUxIl0sCiAgICJjaGFycyI6IDkzMgogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi6YCa6K+G5pWZ6IKy5qC45b+D6K++IOaWsOW7uuivvueoi+aOqOS7iyAyMDI05pil5a2j5a2m5pyfIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbNywgMTBdLAogICAiaXRlbXMiOiBbInB0LWUzOTg1Mzc0MTciLCAicHQtN2VlZTE0ZTJmMCJdLAogICAiY2hhcnMiOiAxNzgKICB9LAogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIuWJjeiogCIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzExLCAxNF0sCiAgICJpdGVtcyI6IFsicHQtMWE0YjcyNjQ2MiJdLAogICAiY2hhcnMiOiAxNTUKICB9LAogIHsKICAgIm5vIjogIjAxIiwKICAgImhlYWRpbmciOiAiMDEuIOS4reaWh+atjOabsuiLseivkeiLseWUsSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzE1LCAyNl0sCiAgICJpdGVtcyI6IFsicHQtNWQ0N2IyOGMyZCIsICJwdC1mY2E4NTI4YzlhIl0sCiAgICJjaGFycyI6IDE0MzgKICB9LAogIHsKICAgIm5vIjogIjAxLTEiLAogICAiaGVhZGluZyI6ICLmlZnluIjku4vnu40iLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsxOCwgMjFdLAogICAiaXRlbXMiOiBbInB0LWUwYWMyYzlkNTkiLCAicHQtNGE5YWMzOTc1MiIsICJwdC05NjdmODkyYjE3Il0sCiAgICJjaGFycyI6IDU1NQogIH0sCiAgewogICAibm8iOiAiMDEtMiIsCiAgICJoZWFkaW5nIjogIuivvueoi+S7i+e7jSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzIyLCAyNl0sCiAgICJpdGVtcyI6IFsicHQtNTI0Njk3ZWQyZCIsICJwdC0xZGI4YjBmMDZhIiwgInB0LTdhNTJkNTY5MjQiXSwKICAgImNoYXJzIjogNTYwCiAgfSwKICB7CiAgICJubyI6ICIwMiIsCiAgICJoZWFkaW5nIjogIjAyLiDmiI/liafoibrmnK8iLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsyNywgMzddLAogICAiaXRlbXMiOiBbInB0LTRiNTMyNDQ2MmYiXSwKICAgImNoYXJzIjogMTEwNwogIH0sCiAgewogICAibm8iOiAiMDItMSIsCiAgICJoZWFkaW5nIjogIuaVmeW4iOS7i+e7jSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzMwLCAzMl0sCiAgICJpdGVtcyI6IFsicHQtZTI4ZmM1ZjVjYSJdLAogICAiY2hhcnMiOiAyMDcKICB9LAogIHsKICAgIm5vIjogIjAyLTIiLAogICAiaGVhZGluZyI6ICLor77nqIvku4vnu40iLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFszNCwgMzddLAogICAiaXRlbXMiOiBbInB0LTkzNGM1ODNiNmUiLCAicHQtYjBhOGEwNmM3MSIsICJwdC0xODJlM2MwNmM1Il0sCiAgICJjaGFycyI6IDQyMgogIH0sCiAgewogICAibm8iOiAiMDMiLAogICAiaGVhZGluZyI6ICIwMy4g44CK5Zu95a+M6K6644CL5a+86K+7IiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbMzgsIDUzXSwKICAgIml0ZW1zIjogWyJwdC01Y2IyMTM5MGIyIl0sCiAgICJjaGFycyI6IDE4MjYKICB9LAogIHsKICAgIm5vIjogIjAzLTEiLAogICAiaGVhZGluZyI6ICLmlZnluIjku4vnu40iLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs0MSwgNDNdLAogICAiaXRlbXMiOiBbInB0LTFlY2Y4ZTg0ZmYiXSwKICAgImNoYXJzIjogMTk1CiAgfSwKICB7CiAgICJubyI6ICIwMy0yIiwKICAgImhlYWRpbmciOiAi6K++56iL5LuL57uNIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbNDUsIDQ4XSwKICAgIml0ZW1zIjogWyJwdC02MjI1YmZlOGU4IiwgInB0LTMyZWU5MWQzMGYiLCAicHQtZWFiYzEyZWMxNCJdLAogICAiY2hhcnMiOiA1NDkKICB9LAogIHsKICAgIm5vIjogIjAzLTMiLAogICAiaGVhZGluZyI6ICLlrabnlJ/lj43ppogiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs1MCwgNTNdLAogICAiaXRlbXMiOiBbInB0LTA3Y2NkOTY1ODAiLCAicHQtZjU2OTBjZTNiOSIsICJwdC1mZDg3ZjA0MDRkIl0sCiAgICJjaGFycyI6IDQ0NAogIH0sCiAgewogICAibm8iOiAiMDQiLAogICAiaGVhZGluZyI6ICIwNC4g5pWw5a2X5Lq657G75a2m57uP5YW45a+86K+7IiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbNTQsIDY4XSwKICAgIml0ZW1zIjogWyJwdC1hNzEyZTA1MzVlIl0sCiAgICJjaGFycyI6IDE2ODYKICB9LAogIHsKICAgIm5vIjogIjA0LTEiLAogICAiaGVhZGluZyI6ICLmlZnluIjku4vnu40iLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs1NywgNTldLAogICAiaXRlbXMiOiBbInB0LTc0YzFiMDY3N2QiLCAicHQtNjBhMGFhOWQ3NCJdLAogICAiY2hhcnMiOiAzMTgKICB9LAogIHsKICAgIm5vIjogIjA0LTIiLAogICAiaGVhZGluZyI6ICLor77nqIvku4vnu40iLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs2MSwgNjNdLAogICAiaXRlbXMiOiBbInB0LTEwYzdmNTQxN2YiLCAicHQtNGY5YWUwMjM1MyJdLAogICAiY2hhcnMiOiAzNDQKICB9LAogIHsKICAgIm5vIjogIjA0LTMiLAogICAiaGVhZGluZyI6ICLlrabnlJ/lj43ppogiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs2NSwgNjhdLAogICAiaXRlbXMiOiBbInB0LWFiNGZiOTI4NDAiLCAicHQtODhkYWMyMDdhMiJdLAogICAiY2hhcnMiOiAzODUKICB9LAogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIkVORCIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzY5LCA3NF0sCiAgICJpdGVtcyI6IFsicHQtNTM1ZjFjYjZmMSJdLAogICAiY2hhcnMiOiAxODEKICB9CiBdLAogIml0ZW1zIjogWyJwdC0xM2RmNzgyNDJkIiwgInB0LWVlNDFlNTRiZDAiLCAicHQtNDE5NTliMDAxOSIsICJwdC1kYmExM2U3YzUxIiwgInB0LWUzOTg1Mzc0MTciLCAicHQtN2VlZTE0ZTJmMCIsICJwdC0xYTRiNzI2NDYyIiwgInB0LTVkNDdiMjhjMmQiLCAicHQtZmNhODUyOGM5YSIsICJwdC1lMGFjMmM5ZDU5IiwgInB0LTRhOWFjMzk3NTIiLCAicHQtOTY3Zjg5MmIxNyIsICJwdC01MjQ2OTdlZDJkIiwgInB0LTFkYjhiMGYwNmEiLCAicHQtN2E1MmQ1NjkyNCIsICJwdC00YjUzMjQ0NjJmIiwgInB0LWUyOGZjNWY1Y2EiLCAicHQtOTM0YzU4M2I2ZSIsICJwdC1iMGE4YTA2YzcxIiwgInB0LTE4MmUzYzA2YzUiLCAicHQtNWNiMjEzOTBiMiIsICJwdC0xZWNmOGU4NGZmIiwgInB0LTYyMjViZmU4ZTgiLCAicHQtMzJlZTkxZDMwZiIsICJwdC1lYWJjMTJlYzE0IiwgInB0LTA3Y2NkOTY1ODAiLCAicHQtZjU2OTBjZTNiOSIsICJwdC1mZDg3ZjA0MDRkIiwgInB0LWE3MTJlMDUzNWUiLCAicHQtNzRjMWIwNjc3ZCIsICJwdC02MGEwYWE5ZDc0IiwgInB0LTEwYzdmNTQxN2YiLCAicHQtNGY5YWUwMjM1MyIsICJwdC1hYjRmYjkyODQwIiwgInB0LTg4ZGFjMjA3YTIiLCAicHQtNTM1ZjFjYjZmMSJdLAogIm5vdGVzIjogWwogICLlhazkvJflj7fmjqjmlofvvIzmraPmlofml6DjgIznrKxY56ugL+esrFjmnaHjgI3nvJblj7fvvJvlm5vpl6jor77nqIvku6XjgIwwMS4vMDIuLzAzLi8wNC7jgI3moIfpopjotbfoioLvvIzmr4/pl6jor77kuIvlho3liIbjgIzmlZnluIjku4vnu40v6K++56iL5LuL57uNL+WtpueUn+WPjemmiOOAjeWtkOiKgu+8iOWtkOiKguecn+W1jOWll+S6juivvueoi+iKguWGhe+8ieOAgiIsCiAgIuesrCAxMeKAkzEyIOihjOeahOOAjOWJjeOAjeOAjOiogOOAjeiiq+aLhuaIkOS4pOihjO+8jOesrCA34oCTOSDooYzmoIfpopjooqvmi4bmiJDkuInooYzvvIxoZWFkaW5nIOaMieWOu+epuueZveWQjumAkOWtl+WvueW+l+S4iuOAgiIsCiAgIuesrCAzMyDooYzvvIjor77nqIvmoIfpopjkuIvnmoTliIbpmpTlm77vvInlj6rokL3lnKjniLboioIgMDIg55qE5Yy66Ze05YaF77yM5pyq5Y2V5YiX5a2Q6IqC44CCIiwKICAi5YWo5paH55Sx5Zu+54mHICsg5paH5a2X5Lqk5pu/57uE5oiQ77yM5Zu+54mH6KGM5Lul44CMW+Wbvl0gaHR0cHM6Ly9tbWJpei4uLuOAjeW9ouW8j+WHuueOsO+8jOadoeebruW8leaWh+WNs+WbvueJhyBVUkzjgIIiCiBdCn0K
+{
+ "key": "2023-12-23-cd97cc6c",
+ "title": "通识教育核心课 新建课程推介 2024春季学期",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "公众号题图与页头",
+   "heading_kind": "derived",
+   "lines": [1, 6],
+   "items": ["pt-13df78242d", "pt-ee41e54bd0", "pt-41959b0019", "pt-dba13e7c51"],
+   "chars": 932
+  },
+  {
+   "no": "—",
+   "heading": "通识教育核心课 新建课程推介 2024春季学期",
+   "heading_kind": "author",
+   "lines": [7, 10],
+   "items": ["pt-e398537417", "pt-7eee14e2f0"],
+   "chars": 178
+  },
+  {
+   "no": "—",
+   "heading": "前言",
+   "heading_kind": "author",
+   "lines": [11, 14],
+   "items": ["pt-1a4b726462"],
+   "chars": 155
+  },
+  {
+   "no": "01",
+   "heading": "01. 中文歌曲英译英唱",
+   "heading_kind": "author",
+   "lines": [15, 26],
+   "items": ["pt-5d47b28c2d", "pt-fca8528c9a"],
+   "chars": 1438
+  },
+  {
+   "no": "01-1",
+   "heading": "教师介绍",
+   "heading_kind": "author",
+   "lines": [18, 21],
+   "items": ["pt-e0ac2c9d59", "pt-4a9ac39752", "pt-967f892b17"],
+   "chars": 555
+  },
+  {
+   "no": "01-2",
+   "heading": "课程介绍",
+   "heading_kind": "author",
+   "lines": [22, 26],
+   "items": ["pt-524697ed2d", "pt-1db8b0f06a", "pt-7a52d56924"],
+   "chars": 560
+  },
+  {
+   "no": "02",
+   "heading": "02. 戏剧艺术",
+   "heading_kind": "author",
+   "lines": [27, 37],
+   "items": ["pt-4b5324462f"],
+   "chars": 1107
+  },
+  {
+   "no": "02-1",
+   "heading": "教师介绍",
+   "heading_kind": "author",
+   "lines": [30, 32],
+   "items": ["pt-e28fc5f5ca"],
+   "chars": 207
+  },
+  {
+   "no": "02-2",
+   "heading": "课程介绍",
+   "heading_kind": "author",
+   "lines": [34, 37],
+   "items": ["pt-934c583b6e", "pt-b0a8a06c71", "pt-182e3c06c5"],
+   "chars": 422
+  },
+  {
+   "no": "03",
+   "heading": "03. 《国富论》导读",
+   "heading_kind": "author",
+   "lines": [38, 53],
+   "items": ["pt-5cb21390b2"],
+   "chars": 1826
+  },
+  {
+   "no": "03-1",
+   "heading": "教师介绍",
+   "heading_kind": "author",
+   "lines": [41, 43],
+   "items": ["pt-1ecf8e84ff"],
+   "chars": 195
+  },
+  {
+   "no": "03-2",
+   "heading": "课程介绍",
+   "heading_kind": "author",
+   "lines": [45, 48],
+   "items": ["pt-6225bfe8e8", "pt-32ee91d30f", "pt-eabc12ec14"],
+   "chars": 549
+  },
+  {
+   "no": "03-3",
+   "heading": "学生反馈",
+   "heading_kind": "author",
+   "lines": [50, 53],
+   "items": ["pt-07ccd96580", "pt-f5690ce3b9", "pt-fd87f0404d"],
+   "chars": 444
+  },
+  {
+   "no": "04",
+   "heading": "04. 数字人类学经典导读",
+   "heading_kind": "author",
+   "lines": [54, 68],
+   "items": ["pt-a712e0535e"],
+   "chars": 1686
+  },
+  {
+   "no": "04-1",
+   "heading": "教师介绍",
+   "heading_kind": "author",
+   "lines": [57, 59],
+   "items": ["pt-74c1b0677d", "pt-60a0aa9d74"],
+   "chars": 318
+  },
+  {
+   "no": "04-2",
+   "heading": "课程介绍",
+   "heading_kind": "author",
+   "lines": [61, 63],
+   "items": ["pt-10c7f5417f", "pt-4f9ae02353"],
+   "chars": 344
+  },
+  {
+   "no": "04-3",
+   "heading": "学生反馈",
+   "heading_kind": "author",
+   "lines": [65, 68],
+   "items": ["pt-ab4fb92840", "pt-88dac207a2"],
+   "chars": 385
+  },
+  {
+   "no": "—",
+   "heading": "END",
+   "heading_kind": "author",
+   "lines": [69, 74],
+   "items": ["pt-535f1cb6f1"],
+   "chars": 181
+  }
+ ],
+ "items": ["pt-13df78242d", "pt-ee41e54bd0", "pt-41959b0019", "pt-dba13e7c51", "pt-e398537417", "pt-7eee14e2f0", "pt-1a4b726462", "pt-5d47b28c2d", "pt-fca8528c9a", "pt-e0ac2c9d59", "pt-4a9ac39752", "pt-967f892b17", "pt-524697ed2d", "pt-1db8b0f06a", "pt-7a52d56924", "pt-4b5324462f", "pt-e28fc5f5ca", "pt-934c583b6e", "pt-b0a8a06c71", "pt-182e3c06c5", "pt-5cb21390b2", "pt-1ecf8e84ff", "pt-6225bfe8e8", "pt-32ee91d30f", "pt-eabc12ec14", "pt-07ccd96580", "pt-f5690ce3b9", "pt-fd87f0404d", "pt-a712e0535e", "pt-74c1b0677d", "pt-60a0aa9d74", "pt-10c7f5417f", "pt-4f9ae02353", "pt-ab4fb92840", "pt-88dac207a2", "pt-535f1cb6f1"],
+ "notes": [
+  "公众号推文，正文无「第X章/第X条」编号；四门课程以「01./02./03./04.」标题起节，每门课下再分「教师介绍/课程介绍/学生反馈」子节（子节真嵌套于课程节内）。",
+  "第 11–12 行的「前」「言」被拆成两行，第 7–9 行标题被拆成三行，heading 按去空白后逐字对得上。",
+  "第 33 行（课程标题下的分隔图）只落在父节 02 的区间内，未单列子节。",
+  "全文由图片 + 文字交替组成，图片行以「[图] https://mmbiz...」形式出现，条目引文即图片 URL。"
+ ]
+}

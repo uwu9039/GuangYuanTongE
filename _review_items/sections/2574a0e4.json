@@ -1,1 +1,120 @@
-ewogImtleSI6ICIyNTc0YTBlNCIsCiAidGl0bGUiOiAi5Lit5Lyg5qCh5Yy75a2X44CUMjAwNeOAlTIwMuWPtyDkuK3lm73kvKDlqpLlpKflrablhazotLnljLvnlpfnrqHnkIblip7ms5UiLAogInRydW5jYXRlZCI6IGZhbHNlLAogInNlY3Rpb25zIjogWwogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIuS4reWbveS8oOWqkuWkp+WtpuWFrOi0ueWMu+eWl+euoeeQhuWKnuazlSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzEsIDddLAogICAiaXRlbXMiOiBbInJ1bGUtMjU3NGEwZTQiLCAicHQtY2VmNDYzNGM4ZCJdLAogICAiY2hhcnMiOiAxODMKICB9LAogIHsKICAgIm5vIjogIuesrOKAlOadoSIsCiAgICJoZWFkaW5nIjogIuS6q+WPl+WFrOi0ueWMu+eWl+W+hemBh+S6uuWRmOiMg+WbtCIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzgsIDE0XSwKICAgIml0ZW1zIjogWyJwdC02OTFiM2M5YWFhIiwgInB0LTUyM2RiY2ViMDgiLCAicHQtZGJkYzg3OWEyYyJdLAogICAiY2hhcnMiOiAyMzAKICB9LAogIHsKICAgIm5vIjogIuesrOS6jOadoSIsCiAgICJoZWFkaW5nIjogIuWwseiviiIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzE1LCA0Ml0sCiAgICJpdGVtcyI6IFsicHQtNjMyNTNlNjM1ZSIsICJwdC05NzY0MjAyNmY1IiwgInB0LWFmNWFjYjhlMjkiLCAicHQtNTQ1YWJlOWIwZSIsICJwdC1jODIyNDcyY2ZhIiwgInB0LTcxMTc4NmYzMDYiLCAicHQtM2ZmODk4MTU2NiIsICJwdC0xY2JhMDgzYTJkIiwgInB0LTBmMDI5NDViZjAiLCAicHQtNTQ0OTM3Yjc1YSIsICJwdC1mOGU2MTAzOWM2IiwgInB0LTZlNzA3MTYxOTQiLCAicHQtNmViOTRkNzc1ZiIsICJwdC04YmQ1YmVmY2U5IiwgInB0LTllZGVhZTE4OTQiLCAicHQtYmRiNWQ2ZDA2ZCIsICJwdC01MDVkNmU3OTFlIiwgInB0LWZiYjllODhkYTUiXSwKICAgImNoYXJzIjogODI2CiAgfSwKICB7CiAgICJubyI6ICLnrKzkuInmnaEiLAogICAiaGVhZGluZyI6ICLovazor4oiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs0MywgNjJdLAogICAiaXRlbXMiOiBbInB0LTAyMTg5Mjc2NzciLCAicHQtMDFhNzZkODRiNiIsICJwdC0xZjM5YzNmOTNiIiwgInB0LTAyYjBiODIwNGYiLCAicHQtODI5NGM0OTM0MyIsICJwdC1mN2M0ODJjMjljIiwgInB0LWU1YTJkOTU4ZTUiLCAicHQtYzRkMjY1ZjUzYyIsICJwdC1iYmM4OTBmNTg0IiwgInB0LWJkMzg1YTY2ZDciLCAicHQtZDJlNGVhM2M3MCIsICJwdC05MWVmM2Y4MGU4IiwgInB0LTc3OTY2YTFjYWUiLCAicHQtMTEzNTViNmQ3YSJdLAogICAiY2hhcnMiOiA1MzIKICB9LAogIHsKICAgIm5vIjogIuesrOWbm+adoSIsCiAgICJoZWFkaW5nIjogIuaApeiviiIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzYzLCA2OV0sCiAgICJpdGVtcyI6IFsicHQtMDRlMTEwY2MxMiIsICJwdC1kZjJkYWM3Mjc4IiwgInB0LTMzMjIzODk2Y2IiLCAicHQtZTY5NGVhNzUxYiJdLAogICAiY2hhcnMiOiAxOTgKICB9LAogIHsKICAgIm5vIjogIuesrOS6lOadoSIsCiAgICJoZWFkaW5nIjogIuS9j+mZoiIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzcwLCA4N10sCiAgICJpdGVtcyI6IFsicHQtZDAyNjc4NjllYyIsICJwdC00NmZmNzdhZDEwIiwgInB0LWZiMGZkOWEzM2EiLCAicHQtOTlkNjNhMjMzOCIsICJwdC0yNDYwYTM3YWJlIiwgInB0LTYzYTgzYmU5NGYiLCAicHQtZWI2OTU1ZGRkNiIsICJwdC0yOGVlZDk1OTU4IiwgInB0LTdkZDRlOTExZjAiXSwKICAgImNoYXJzIjogNTI0CiAgfSwKICB7CiAgICJubyI6ICLnrKzlha3mnaEiLAogICAiaGVhZGluZyI6ICLmiqXplIDojIPlm7Tlj4rlip7ms5UiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs4OCwgMTMwXSwKICAgIml0ZW1zIjogWyJwdC1lYzIyY2U2MjRkIiwgInB0LWY4NmIxZGQyMjIiLCAicHQtOTA5MmNiMTZmMiIsICJwdC04YzM2M2FkMmU1IiwgInB0LTNlZDI0MWRjZWUiLCAicHQtODNlMGNkZmI2MyIsICJwdC05NTFiMWIyZTdlIiwgInB0LWFjOWU1Y2ZjZDUiLCAicHQtYjgyMTg2OWQwOSIsICJwdC05ZjRjZWU0YjY1IiwgInB0LTA4MzZkODEwMzYiLCAicHQtYjJkMTNlNzYyYyIsICJwdC1iYzU5YWVhNzY0IiwgInB0LTdhMDA1NjE0NjEiLCAicHQtYWQ1NzczOTI5MCIsICJwdC0xYTIwYWZhOTMxIiwgInB0LWU0MjllM2JlNTAiLCAicHQtNWNhZTViNmRhZiIsICJwdC03YTAzZmM2OWM0IiwgInB0LWJiMzRiZTNlYzciLCAicHQtMGJjMWI5NjNkMSJdLAogICAiY2hhcnMiOiAxMzc0CiAgfSwKICB7CiAgICJubyI6ICLnrKzkuIPmnaEiLAogICAiaGVhZGluZyI6ICLmiqXplIDmr5TkvosiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsxMzEsIDE1M10sCiAgICJpdGVtcyI6IFsicHQtNDRlYTkzZTdmZiIsICJwdC1lZjdkYmZjY2M3IiwgInB0LTY5ODc2ODQ3MzAiLCAicHQtMDY5YTg3ODlhNiIsICJwdC04NDJlMWFiNGYxIiwgInB0LTdkYzJhZTNkZjIiLCAicHQtYTc5NzhiMTM4YyIsICJwdC0xYmQyMTdjOTE5IiwgInB0LTg5YWEwMDFlZmMiXSwKICAgImNoYXJzIjogNjYwCiAgfSwKICB7CiAgICJubyI6ICLnrKzlhavmnaEiLAogICAiaGVhZGluZyI6ICLlrabmoKHlhazotLnljLvnlpfnrqHnkIblp5TlkZjkvJrogYzotKPkuI7kvJrorq4iLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbMTU0LCAxNTZdLAogICAiaXRlbXMiOiBbInB0LTI2ZGQ3ODhkZjgiLCAicHQtMmIxOTI2ZGRlMiIsICJwdC0yOWU5ZDcxOTlmIl0sCiAgICJjaGFycyI6IDg1CiAgfSwKICB7CiAgICJubyI6ICLnrKzkuZ3mnaEiLAogICAiaGVhZGluZyI6ICLlhazotLnljLvnlpfnrqHnkIblip7lhazlrqTkuI7lkITljZXkvY3nmoTljY/liqnogYzotKMiLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbMTU3LCAxNTldLAogICAiaXRlbXMiOiBbInB0LTQ1MTZhMjAxNDciXSwKICAgImNoYXJzIjogOTEKICB9LAogIHsKICAgIm5vIjogIuesrOWNgeadoSIsCiAgICJoZWFkaW5nIjogIuacrOWKnuazleeahOino+mHiuadgyIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFsxNjAsIDE2MF0sCiAgICJpdGVtcyI6IFsicHQtZjVhMzVhMDljZSIsICJwdC0xOGE1ODdkZDM5Il0sCiAgICJjaGFycyI6IDMwCiAgfSwKICB7CiAgICJubyI6ICLnrKzljYHkuIDmnaEiLAogICAiaGVhZGluZyI6ICLmlr3ooYzml6XmnJ/kuI7ml6fop4Tlup/mraIiLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbMTYxLCAxNjJdLAogICAiaXRlbXMiOiBbInB0LTQwMzYwOWYwZjEiLCAicHQtMmNlZTExMTRmMCJdLAogICAiY2hhcnMiOiA0NQogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi5rOo77ya5Yy76I2v6LS56IyD5Zu05LiO5Y2r55Sf6YOo5oCl6K+K6IyD5Zu0IiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzE2NCwgMTgyXSwKICAgIml0ZW1zIjogWyJwdC0zMWZjYmJhMmU3IiwgInB0LWE1ZDVkODM5OTUiLCAicHQtZmIyMzY0NjNmNCIsICJwdC00OWJjNWM4NTkzIiwgInB0LWYwMWM0ZjZmYzkiLCAicHQtZDQ3M2Q0ODAzYiIsICJwdC0xMmU4YmQ2NTI4IiwgInB0LTAxOGFkM2Y4NmIiLCAicHQtYmJlYTQ0ZTcxMSIsICJwdC1hY2Y0NzgzNDBjIl0sCiAgICJjaGFycyI6IDM1NgogIH0KIF0sCiAiaXRlbXMiOiBbInJ1bGUtMjU3NGEwZTQiLCAicHQtOTc2NDIwMjZmNSIsICJwdC1hZjVhY2I4ZTI5IiwgInB0LTU0NWFiZTliMGUiLCAicHQtYzgyMjQ3MmNmYSIsICJwdC0zZmY4OTgxNTY2IiwgInB0LTFjYmEwODNhMmQiLCAicHQtMGYwMjk0NWJmMCIsICJwdC01NDQ5MzdiNzVhIiwgInB0LWY4ZTYxMDM5YzYiLCAicHQtNmU3MDcxNjE5NCIsICJwdC02ZWI5NGQ3NzVmIiwgInB0LThiZDViZWZjZTkiLCAicHQtOWVkZWFlMTg5NCIsICJwdC1iZGI1ZDZkMDZkIiwgInB0LTUwNWQ2ZTc5MWUiLCAicHQtZmJiOWU4OGRhNSIsICJwdC0wMWE3NmQ4NGI2IiwgInB0LTFmMzljM2Y5M2IiLCAicHQtMDJiMGI4MjA0ZiIsICJwdC04Mjk0YzQ5MzQzIiwgInB0LWY3YzQ4MmMyOWMiLCAicHQtZTVhMmQ5NThlNSIsICJwdC1jNGQyNjVmNTNjIiwgInB0LWJiYzg5MGY1ODQiLCAicHQtYmQzODVhNjZkNyIsICJwdC05MWVmM2Y4MGU4IiwgInB0LTc3OTY2YTFjYWUiLCAicHQtMTEzNTViNmQ3YSIsICJwdC0wNGUxMTBjYzEyIiwgInB0LTMzMjIzODk2Y2IiLCAicHQtNDZmZjc3YWQxMCIsICJwdC1mYjBmZDlhMzNhIiwgInB0LTk5ZDYzYTIzMzgiLCAicHQtMjQ2MGEzN2FiZSIsICJwdC02M2E4M2JlOTRmIiwgInB0LTI4ZWVkOTU5NTgiLCAicHQtN2RkNGU5MTFmMCIsICJwdC1mODZiMWRkMjIyIiwgInB0LTkwOTJjYjE2ZjIiLCAicHQtOGMzNjNhZDJlNSIsICJwdC0zZWQyNDFkY2VlIiwgInB0LTgzZTBjZGZiNjMiLCAicHQtOTUxYjFiMmU3ZSIsICJwdC1hYzllNWNmY2Q1IiwgInB0LWI4MjE4NjlkMDkiLCAicHQtOWY0Y2VlNGI2NSIsICJwdC0wODM2ZDgxMDM2IiwgInB0LWIyZDEzZTc2MmMiLCAicHQtYmM1OWFlYTc2NCIsICJwdC03YTAwNTYxNDYxIiwgInB0LWFkNTc3MzkyOTAiLCAicHQtMWEyMGFmYTkzMSIsICJwdC01Y2FlNWI2ZGFmIiwgInB0LTdhMDNmYzY5YzQiLCAicHQtYmIzNGJlM2VjNyIsICJwdC0wYmMxYjk2M2QxIiwgInB0LWVmN2RiZmNjYzciLCAicHQtNjk4NzY4NDczMCIsICJwdC0wNjlhODc4OWE2IiwgInB0LTg0MmUxYWI0ZjEiLCAicHQtN2RjMmFlM2RmMiIsICJwdC1hNzk3OGIxMzhjIiwgInB0LTFiZDIxN2M5MTkiLCAicHQtODlhYTAwMWVmYyIsICJwdC0yYjE5MjZkZGUyIiwgInB0LTI5ZTlkNzE5OWYiLCAicHQtNDUxNmEyMDE0NyIsICJwdC0xOGE1ODdkZDM5IiwgInB0LTJjZWUxMTE0ZjAiLCAicHQtMzFmY2JiYTJlNyIsICJwdC1hNWQ1ZDgzOTk1IiwgInB0LWYwMWM0ZjZmYzkiLCAicHQtZDQ3M2Q0ODAzYiIsICJwdC0xMmU4YmQ2NTI4IiwgInB0LTAxOGFkM2Y4NmIiLCAicHQtYmJlYTQ0ZTcxMSIsICJwdC1hY2Y0NzgzNDBjIiwgInB0LWRmMmRhYzcyNzgiLCAicHQtZTY5NGVhNzUxYiIsICJwdC1lYjY5NTVkZGQ2IiwgInB0LWNlZjQ2MzRjOGQiLCAicHQtNjkxYjNjOWFhYSIsICJwdC01MjNkYmNlYjA4IiwgInB0LWRiZGM4NzlhMmMiLCAicHQtNjMyNTNlNjM1ZSIsICJwdC03MTE3ODZmMzA2IiwgInB0LTAyMTg5Mjc2NzciLCAicHQtZDJlNGVhM2M3MCIsICJwdC1kMDI2Nzg2OWVjIiwgInB0LWVjMjJjZTYyNGQiLCAicHQtZTQyOWUzYmU1MCIsICJwdC00NGVhOTNlN2ZmIiwgInB0LTI2ZGQ3ODhkZjgiLCAicHQtZjVhMzVhMDljZSIsICJwdC00MDM2MDlmMGYxIiwgInB0LWZiMjM2NDYzZjQiLCAicHQtNDliYzVjODU5MyJdLAogIm5vdGVzIjogWwogICLljp/mlofnrKzkuIDkuKrmnaHlj7flhpnkvZzjgIznrKzigJTmnaHjgI3vvIjkuIDlrZfnur/vvIzpnZ7jgIzkuIDjgI3vvInvvIzmjInljp/mlofkv53nlZnvvIzmnKrmlLnmiJDjgIznrKzkuIDmnaHjgI3jgIIiLAogICLnrKwgMS0yIOihjOS4uuWKnuazleWQjeensOS4juaWh+WPt+OAgeesrCA0LTcg6KGM5Li65Yi25a6a5L6d5o2u5q6177yM5ZCI5Li65qCH6aKY6IqC77ybcnVsZS0yNTc0YTBlNCDkuLrmlofmoaPnuqfmnaHnm67vvIjml6DlvJXmlofvvInvvIzkuIDlubbliJflnKjmraToioLjgIIiLAogICLnrKzkuIDmnaHjgIHnrKzkuozmnaHjgIHnrKzkuInmnaHjgIHnrKzlm5vmnaHjgIHnrKzkupTmnaHjgIHnrKzlha3mnaHjgIHnrKzkuIPmnaHlnKjljp/mlofljbPkuLrjgIzmnaHlj7fvvIvmnaHpopjjgI3moLzlvI/vvIjlpoLjgIznrKzkuozmnaEgIOWwseiviuOAje+8ie+8jOaVhSBoZWFkaW5nX2tpbmQ9YXV0aG9y77yb56ys5YWr5p2h6Iez56ys5Y2B5LiA5p2h55qE5p2h6aKY5YaZ5Zyo5p2h5paH5pys5Y+l6YeM77yI5peg54us56uL5p2h6aKY6KGM77yJ77yM5YW2IGhlYWRpbmcg55Sx5oiR5qaC5ous77yM5qCHIGRlcml2ZWTjgIIiLAogICLlkITmnaHkuIvnmoTvvIjkuIDvvInvvIjkuozvvInigKbkuLror6XmnaHmnaHmloflhoXliIbpobnvvIzkuI3ljZXliJfoioLvvJvnrKzlha3mnaHpobnmlbDmnIDlpJrvvIjvvIjkuIDvvInvvZ7vvIjljYHlha3vvInvvInvvIznrKzkuIPmnaHliIbpl6jor4rvvI/mgKXor4rvvI/kvY/pmaLkuInmrrXjgIIiLAogICLnrKwgMTY0IOihjOi1t+eahOOAjOazqOOAjeWIhuS4pOmDqOWIhu+8mjEu5Yy76I2v6LS55YyF5ous55qE6LS555So77ybMi7ljavnlJ/pg6jop4TlrprnmoTmgKXor4rojIPlm7TvvIgx77yJ772e77yIMTTvvInvvJvkuKToioLmjInooYzljLrpl7QgMTY0LTE4MiDlkIjmiJDkuIDoioLjgIIiLAogICLnrKwgM+OAgTE2M+OAgTE4MiDooYzkuLrnqbrnmb3ooYzvvIzkuI3lsZ7kuo7ku7vkvZXoioLvvJvlhajmlofml6DpobXnoIHjgIHml6DooajmoLzjgIHml6Dlm77ms6jjgIIiCiBdCn0K
+{
+ "key": "2574a0e4",
+ "title": "中传校医字〔2005〕202号 中国传媒大学公费医疗管理办法",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "中国传媒大学公费医疗管理办法",
+   "heading_kind": "author",
+   "lines": [1, 7],
+   "items": ["rule-2574a0e4", "pt-cef4634c8d"],
+   "chars": 183
+  },
+  {
+   "no": "第—条",
+   "heading": "享受公费医疗待遇人员范围",
+   "heading_kind": "author",
+   "lines": [8, 14],
+   "items": ["pt-691b3c9aaa", "pt-523dbceb08", "pt-dbdc879a2c"],
+   "chars": 230
+  },
+  {
+   "no": "第二条",
+   "heading": "就诊",
+   "heading_kind": "author",
+   "lines": [15, 42],
+   "items": ["pt-63253e635e", "pt-97642026f5", "pt-af5acb8e29", "pt-545abe9b0e", "pt-c822472cfa", "pt-711786f306", "pt-3ff8981566", "pt-1cba083a2d", "pt-0f02945bf0", "pt-544937b75a", "pt-f8e61039c6", "pt-6e70716194", "pt-6eb94d775f", "pt-8bd5befce9", "pt-9edeae1894", "pt-bdb5d6d06d", "pt-505d6e791e", "pt-fbb9e88da5"],
+   "chars": 826
+  },
+  {
+   "no": "第三条",
+   "heading": "转诊",
+   "heading_kind": "author",
+   "lines": [43, 62],
+   "items": ["pt-0218927677", "pt-01a76d84b6", "pt-1f39c3f93b", "pt-02b0b8204f", "pt-8294c49343", "pt-f7c482c29c", "pt-e5a2d958e5", "pt-c4d265f53c", "pt-bbc890f584", "pt-bd385a66d7", "pt-d2e4ea3c70", "pt-91ef3f80e8", "pt-77966a1cae", "pt-11355b6d7a"],
+   "chars": 532
+  },
+  {
+   "no": "第四条",
+   "heading": "急诊",
+   "heading_kind": "author",
+   "lines": [63, 69],
+   "items": ["pt-04e110cc12", "pt-df2dac7278", "pt-33223896cb", "pt-e694ea751b"],
+   "chars": 198
+  },
+  {
+   "no": "第五条",
+   "heading": "住院",
+   "heading_kind": "author",
+   "lines": [70, 87],
+   "items": ["pt-d0267869ec", "pt-46ff77ad10", "pt-fb0fd9a33a", "pt-99d63a2338", "pt-2460a37abe", "pt-63a83be94f", "pt-eb6955ddd6", "pt-28eed95958", "pt-7dd4e911f0"],
+   "chars": 524
+  },
+  {
+   "no": "第六条",
+   "heading": "报销范围及办法",
+   "heading_kind": "author",
+   "lines": [88, 130],
+   "items": ["pt-ec22ce624d", "pt-f86b1dd222", "pt-9092cb16f2", "pt-8c363ad2e5", "pt-3ed241dcee", "pt-83e0cdfb63", "pt-951b1b2e7e", "pt-ac9e5cfcd5", "pt-b821869d09", "pt-9f4cee4b65", "pt-0836d81036", "pt-b2d13e762c", "pt-bc59aea764", "pt-7a00561461", "pt-ad57739290", "pt-1a20afa931", "pt-e429e3be50", "pt-5cae5b6daf", "pt-7a03fc69c4", "pt-bb34be3ec7", "pt-0bc1b963d1"],
+   "chars": 1374
+  },
+  {
+   "no": "第七条",
+   "heading": "报销比例",
+   "heading_kind": "author",
+   "lines": [131, 153],
+   "items": ["pt-44ea93e7ff", "pt-ef7dbfccc7", "pt-6987684730", "pt-069a8789a6", "pt-842e1ab4f1", "pt-7dc2ae3df2", "pt-a7978b138c", "pt-1bd217c919", "pt-89aa001efc"],
+   "chars": 660
+  },
+  {
+   "no": "第八条",
+   "heading": "学校公费医疗管理委员会职责与会议",
+   "heading_kind": "derived",
+   "lines": [154, 156],
+   "items": ["pt-26dd788df8", "pt-2b1926dde2", "pt-29e9d7199f"],
+   "chars": 85
+  },
+  {
+   "no": "第九条",
+   "heading": "公费医疗管理办公室与各单位的协助职责",
+   "heading_kind": "derived",
+   "lines": [157, 159],
+   "items": ["pt-4516a20147"],
+   "chars": 91
+  },
+  {
+   "no": "第十条",
+   "heading": "本办法的解释权",
+   "heading_kind": "derived",
+   "lines": [160, 160],
+   "items": ["pt-f5a35a09ce", "pt-18a587dd39"],
+   "chars": 30
+  },
+  {
+   "no": "第十一条",
+   "heading": "施行日期与旧规废止",
+   "heading_kind": "derived",
+   "lines": [161, 162],
+   "items": ["pt-403609f0f1", "pt-2cee1114f0"],
+   "chars": 45
+  },
+  {
+   "no": "—",
+   "heading": "注：医药费范围与卫生部急诊范围",
+   "heading_kind": "derived",
+   "lines": [164, 182],
+   "items": ["pt-31fcbba2e7", "pt-a5d5d83995", "pt-fb236463f4", "pt-49bc5c8593", "pt-f01c4f6fc9", "pt-d473d4803b", "pt-12e8bd6528", "pt-018ad3f86b", "pt-bbea44e711", "pt-acf478340c"],
+   "chars": 356
+  }
+ ],
+ "items": ["rule-2574a0e4", "pt-97642026f5", "pt-af5acb8e29", "pt-545abe9b0e", "pt-c822472cfa", "pt-3ff8981566", "pt-1cba083a2d", "pt-0f02945bf0", "pt-544937b75a", "pt-f8e61039c6", "pt-6e70716194", "pt-6eb94d775f", "pt-8bd5befce9", "pt-9edeae1894", "pt-bdb5d6d06d", "pt-505d6e791e", "pt-fbb9e88da5", "pt-01a76d84b6", "pt-1f39c3f93b", "pt-02b0b8204f", "pt-8294c49343", "pt-f7c482c29c", "pt-e5a2d958e5", "pt-c4d265f53c", "pt-bbc890f584", "pt-bd385a66d7", "pt-91ef3f80e8", "pt-77966a1cae", "pt-11355b6d7a", "pt-04e110cc12", "pt-33223896cb", "pt-46ff77ad10", "pt-fb0fd9a33a", "pt-99d63a2338", "pt-2460a37abe", "pt-63a83be94f", "pt-28eed95958", "pt-7dd4e911f0", "pt-f86b1dd222", "pt-9092cb16f2", "pt-8c363ad2e5", "pt-3ed241dcee", "pt-83e0cdfb63", "pt-951b1b2e7e", "pt-ac9e5cfcd5", "pt-b821869d09", "pt-9f4cee4b65", "pt-0836d81036", "pt-b2d13e762c", "pt-bc59aea764", "pt-7a00561461", "pt-ad57739290", "pt-1a20afa931", "pt-5cae5b6daf", "pt-7a03fc69c4", "pt-bb34be3ec7", "pt-0bc1b963d1", "pt-ef7dbfccc7", "pt-6987684730", "pt-069a8789a6", "pt-842e1ab4f1", "pt-7dc2ae3df2", "pt-a7978b138c", "pt-1bd217c919", "pt-89aa001efc", "pt-2b1926dde2", "pt-29e9d7199f", "pt-4516a20147", "pt-18a587dd39", "pt-2cee1114f0", "pt-31fcbba2e7", "pt-a5d5d83995", "pt-f01c4f6fc9", "pt-d473d4803b", "pt-12e8bd6528", "pt-018ad3f86b", "pt-bbea44e711", "pt-acf478340c", "pt-df2dac7278", "pt-e694ea751b", "pt-eb6955ddd6", "pt-cef4634c8d", "pt-691b3c9aaa", "pt-523dbceb08", "pt-dbdc879a2c", "pt-63253e635e", "pt-711786f306", "pt-0218927677", "pt-d2e4ea3c70", "pt-d0267869ec", "pt-ec22ce624d", "pt-e429e3be50", "pt-44ea93e7ff", "pt-26dd788df8", "pt-f5a35a09ce", "pt-403609f0f1", "pt-fb236463f4", "pt-49bc5c8593"],
+ "notes": [
+  "原文第一个条号写作「第—条」（一字线，非「一」），按原文保留，未改成「第一条」。",
+  "第 1-2 行为办法名称与文号、第 4-7 行为制定依据段，合为标题节；rule-2574a0e4 为文档级条目（无引文），一并列在此节。",
+  "第一条、第二条、第三条、第四条、第五条、第六条、第七条在原文即为「条号＋条题」格式（如「第二条  就诊」），故 heading_kind=author；第八条至第十一条的条题写在条文本句里（无独立条题行），其 heading 由我概括，标 derived。",
+  "各条下的（一）（二）…为该条条文内分项，不单列节；第六条项数最多（（一）～（十六）），第七条分门诊／急诊／住院三段。",
+  "第 164 行起的「注」分两部分：1.医药费包括的费用；2.卫生部规定的急诊范围（1）～（14）；两节按行区间 164-182 合成一节。",
+  "第 3、163、182 行为空白行，不属于任何节；全文无页码、无表格、无图注。"
+ ]
+}

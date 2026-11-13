@@ -1,1 +1,131 @@
-ew0KICJrZXkiOiAi6LWE5rqQ6I2Q6LStLTdjMTRlMzg4NzA5NzYxMTFmMDBhYmY4N2RmMmMwZmQyNjVlMiIsDQogInRpdGxlIjogIuS4reWbveS8oOWqkuWkp+WtpuWbvuS5pummhsK36LWE5rqQ6I2Q6LStIiwNCiAidHJ1bmNhdGVkIjogZmFsc2UsDQogInNlY3Rpb25zIjogWw0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuagh+mimOS4jumhtemdouS/oeaBryIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDEsDQogICAgNQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtOWM1NTBjZDlkMyIsDQogICAgInB0LTdhYmM4MWU3NmIiDQogICBdLA0KICAgImNoYXJzIjogMTc3DQogIH0sDQogIHsNCiAgICJubyI6ICLkuIDjgIEiLA0KICAgImhlYWRpbmciOiAi55S15a2Q6LWE5rqQ44CB57q46LSo5oql5YiK6I2Q6LSt5pa55byPIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA2LA0KICAgIDgNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWViYWQ3YWE2NGQiDQogICBdLA0KICAgImNoYXJzIjogNjMNCiAgfSwNCiAgew0KICAgIm5vIjogIuS6jOOAgSIsDQogICAiaGVhZGluZyI6ICLnurjotKjlm77kuabojZDotK3mlrnlvI8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDksDQogICAgMzMNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDE2MjYNCiAgfSwNCiAgew0KICAgIm5vIjogIjEuIiwNCiAgICJoZWFkaW5nIjogIua1j+iniOWbvuS5puW+geiuouebruW9lei/m+ihjOiNkOi0rSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTEsDQogICAgMTcNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWZkMDAxY2U4YzQiDQogICBdLA0KICAgImNoYXJzIjogNTc4DQogIH0sDQogIHsNCiAgICJubyI6ICIyLiIsDQogICAiaGVhZGluZyI6ICLoh6rnlLHojZDotK0iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDE4LA0KICAgIDIyDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC03MmUzMzg1OGMxIg0KICAgXSwNCiAgICJjaGFycyI6IDM2Mw0KICB9LA0KICB7DQogICAibm8iOiAiMy4iLA0KICAgImhlYWRpbmciOiAi4oCc6Iq45Y+w6LSt4oCd5bmz5Y+w6I2Q6LStIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyMywNCiAgICAyOA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMTE2NDFmMjAyYyIsDQogICAgInB0LTVlYzg4MTg1MmUiLA0KICAgICJwdC01ZWM4ODE4NTJlLTQzYWYiDQogICBdLA0KICAgImNoYXJzIjogMzk5DQogIH0sDQogIHsNCiAgICJubyI6ICI0LiIsDQogICAiaGVhZGluZyI6ICLlpKfnoIHmtIvlm77kuabojZDotK0iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDI5LA0KICAgIDMwDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC00YjVjNzViOTlkIg0KICAgXSwNCiAgICJjaGFycyI6IDEzOQ0KICB9LA0KICB7DQogICAibm8iOiAiNS4iLA0KICAgImhlYWRpbmciOiAi6YKu566x5ZKM55S16K+d6I2Q6LStIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzMSwNCiAgICAzMw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZDE5MTUyNDU1YyINCiAgIF0sDQogICAiY2hhcnMiOiAxMDENCiAgfQ0KIF0sDQogIml0ZW1zIjogWw0KICAicHQtNWVjODgxODUyZSIsDQogICJwdC05YzU1MGNkOWQzIiwNCiAgInB0LTdhYmM4MWU3NmIiLA0KICAicHQtZWJhZDdhYTY0ZCIsDQogICJwdC1mZDAwMWNlOGM0IiwNCiAgInB0LTcyZTMzODU4YzEiLA0KICAicHQtMTE2NDFmMjAyYyIsDQogICJwdC01ZWM4ODE4NTJlLTQzYWYiLA0KICAicHQtNGI1Yzc1Yjk5ZCIsDQogICJwdC1kMTkxNTI0NTVjIg0KIF0sDQogIm5vdGVzIjogWw0KICAi572R6aG177yIaWxpYiDotYTmupDojZDotK3moI/nm67vvInmir3lj5bku7bvvJrnrKwgMS01IOihjOaYr+agh+mimOOAgeadpea6kCBVUkzjgIHmjqXlj6PlnLDlnYDjgIHlj5HluIPml7bpl7TvvIzlm5vooYzlkIjmiJDjgIzmoIfpopjkuI7pobXpnaLkv6Hmga/jgI3kuIDoioLvvJvnrKwgMiDooYznmoTmnaXmupDooYzkuI7nrKwgMyDooYznmoTmjqXlj6PooYzpg73kuI3mmK/nq6DoioLmoIfpopjjgIIiLA0KICAi5q2j5paH5Y+q5pyJ5Lik5Liq5LiA57qn5qCH6aKY44CM5LiA44CB44CN44CM5LqM44CB44CN44CC44CM5LqM44CB57q46LSo5Zu+5Lmm6I2Q6LSt5pa55byP44CN5LiL5piv44CMMS7jgI3oh7PjgIw1LuOAjeS6lOS4quWtkOmhue+8jOaMieWOn+aWh+e8luWPt+W7uuWtkOiKguW5tuS4jueItuiKguecn+W1jOWll++8m+esrCAxMCDooYznmoTjgIzmuKnppqjmj5DnpLrjgI3msqHmnInnvJblj7fvvIzlj6rlsZ7niLboioLjgIHmnKrljZXliJfjgIIiLA0KICAi56ysIDE0LTE344CBMjEtMjLjgIEyNy0yOCDooYzmmK/mraPmlofmj5Llm77vvIhb5Zu+XSAvZWRpdG9yL3BjL2ZpbGVzL2ltYWdlP3Jlc2lkPeKApu+8ie+8jOmaj+aJgOWxnuatpemqpOW5tuWFpeWvueW6lOiKgu+8jOacquWNleWIl+aIkOiKguOAgiIsDQogICLnrKwgMzMg6KGM5Y+q5pyJ5LiA5Liq6Zu25a695a2X56ym77yI4oCL77yJ77yM5bm25YWl5pyr6IqC44CMNS4g6YKu566x5ZKM55S16K+d6I2Q6LSt44CN77yb56ysIDXjgIEzNCDooYzkuLrnqbrooYzjgIIiLA0KICAicHQtNWVjODgxODUyZSDkuI4gcHQtNWVjODgxODUyZS00M2FmIOeahOW8leaWh+aMh+WQkeWQjOS4gOWPpeivne+8iOesrCAyNSDooYzjgIzCt+KAnOiKuOWPsOi0reKAneW5s+WPsOWcqOiKuOaCpuivu+acjeWKoeacquW8gOWQr+acn+mXtOKApuOAje+8ie+8jOS4pOadoemDveiQveWcqOOAjDMu4oCc6Iq45Y+w6LSt4oCd5bmz5Y+w6I2Q6LSt44CN5LiA6IqC44CCIg0KIF0NCn0NCg==
+{
+ "key": "资源荐购-7c14e38870976111f00abf87df2c0fd265e2",
+ "title": "中国传媒大学图书馆·资源荐购",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "标题与页面信息",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    5
+   ],
+   "items": [
+    "pt-9c550cd9d3",
+    "pt-7abc81e76b"
+   ],
+   "chars": 177
+  },
+  {
+   "no": "一、",
+   "heading": "电子资源、纸质报刊荐购方式",
+   "heading_kind": "author",
+   "lines": [
+    6,
+    8
+   ],
+   "items": [
+    "pt-ebad7aa64d"
+   ],
+   "chars": 63
+  },
+  {
+   "no": "二、",
+   "heading": "纸质图书荐购方式",
+   "heading_kind": "author",
+   "lines": [
+    9,
+    33
+   ],
+   "items": [],
+   "chars": 1626
+  },
+  {
+   "no": "1.",
+   "heading": "浏览图书征订目录进行荐购",
+   "heading_kind": "author",
+   "lines": [
+    11,
+    17
+   ],
+   "items": [
+    "pt-fd001ce8c4"
+   ],
+   "chars": 578
+  },
+  {
+   "no": "2.",
+   "heading": "自由荐购",
+   "heading_kind": "author",
+   "lines": [
+    18,
+    22
+   ],
+   "items": [
+    "pt-72e33858c1"
+   ],
+   "chars": 363
+  },
+  {
+   "no": "3.",
+   "heading": "“芸台购”平台荐购",
+   "heading_kind": "author",
+   "lines": [
+    23,
+    28
+   ],
+   "items": [
+    "pt-11641f202c",
+    "pt-5ec881852e",
+    "pt-5ec881852e-43af"
+   ],
+   "chars": 399
+  },
+  {
+   "no": "4.",
+   "heading": "大码洋图书荐购",
+   "heading_kind": "author",
+   "lines": [
+    29,
+    30
+   ],
+   "items": [
+    "pt-4b5c75b99d"
+   ],
+   "chars": 139
+  },
+  {
+   "no": "5.",
+   "heading": "邮箱和电话荐购",
+   "heading_kind": "author",
+   "lines": [
+    31,
+    33
+   ],
+   "items": [
+    "pt-d19152455c"
+   ],
+   "chars": 101
+  }
+ ],
+ "items": [
+  "pt-5ec881852e",
+  "pt-9c550cd9d3",
+  "pt-7abc81e76b",
+  "pt-ebad7aa64d",
+  "pt-fd001ce8c4",
+  "pt-72e33858c1",
+  "pt-11641f202c",
+  "pt-5ec881852e-43af",
+  "pt-4b5c75b99d",
+  "pt-d19152455c"
+ ],
+ "notes": [
+  "网页（ilib 资源荐购栏目）抽取件：第 1-5 行是标题、来源 URL、接口地址、发布时间，四行合成「标题与页面信息」一节；第 2 行的来源行与第 3 行的接口行都不是章节标题。",
+  "正文只有两个一级标题「一、」「二、」。「二、纸质图书荐购方式」下是「1.」至「5.」五个子项，按原文编号建子节并与父节真嵌套；第 10 行的「温馨提示」没有编号，只属父节、未单列。",
+  "第 14-17、21-22、27-28 行是正文插图（[图] /editor/pc/files/image?resid=…），随所属步骤并入对应节，未单列成节。",
+  "第 33 行只有一个零宽字符（​），并入末节「5. 邮箱和电话荐购」；第 5、34 行为空行。",
+  "pt-5ec881852e 与 pt-5ec881852e-43af 的引文指向同一句话（第 25 行「·“芸台购”平台在芸悦读服务未开启期间…」），两条都落在「3.“芸台购”平台荐购」一节。"
+ ]
+}

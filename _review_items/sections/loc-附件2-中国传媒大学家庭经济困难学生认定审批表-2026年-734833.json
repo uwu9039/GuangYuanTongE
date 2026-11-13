@@ -1,1 +1,157 @@
-ew0KICJrZXkiOiAibG9jLemZhOS7tjIt5Lit5Zu95Lyg5aqS5aSn5a2m5a625bqt57uP5rWO5Zuw6Zq+5a2m55Sf6K6k5a6a5a6h5om56KGoLTIwMjblubQtNzM0ODMzIiwNCiAidGl0bGUiOiAi5Lit5Zu95Lyg5aqS5aSn5a2m5a625bqt57uP5rWO5Zuw6Zq+5a2m55Sf6K6k5a6a5a6h5om56KGoIiwNCiAidHJ1bmNhdGVkIjogZmFsc2UsDQogInNlY3Rpb25zIjogWw0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuS4reWbveS8oOWqkuWkp+WtpuWutuW6ree7j+a1juWbsOmavuWtpueUn+iupOWumuWuoeaJueihqCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMSwNCiAgICA0DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJydWxlLWxvYy0yLTIwMjYtNzM0ODMzIiwNCiAgICAicHQtNTYxNzlmMjJlZCINCiAgIF0sDQogICAiY2hhcnMiOiAxNTQNCiAgfSwNCiAgew0KICAgIm5vIjogIkHnsbsiLA0KICAgImhlYWRpbmciOiAiQeexu+aDheWGtSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNSwNCiAgICA2MQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNjAzY2M4YTQ2YyIsDQogICAgInB0LWI1Y2I0M2MxZjEiLA0KICAgICJwdC00MmQyNzQ2NWFlIiwNCiAgICAicHQtY2I4MjY4NDY4OSIsDQogICAgInB0LTgwMzVmZmQwMjMiDQogICBdLA0KICAgImNoYXJzIjogMTM4Ng0KICB9LA0KICB7DQogICAibm8iOiAiQuexuyIsDQogICAiaGVhZGluZyI6ICJC57G75oOF5Ya1IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA2MiwNCiAgICA5Ng0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNTA4OWI4ZGE0ZSIsDQogICAgInB0LWY2OTc1YjVmMDIiLA0KICAgICJwdC02OWVjMTFhYjcxIiwNCiAgICAicHQtZWM3MDRiYWJmYiIsDQogICAgInB0LTE4MWZkNmFhMjUiLA0KICAgICJwdC00NTBiNjIxOGRkIiwNCiAgICAicHQtODRmNjg0MzNlNyINCiAgIF0sDQogICAiY2hhcnMiOiA3NzANCiAgfSwNCiAgew0KICAgIm5vIjogIkPnsbsiLA0KICAgImhlYWRpbmciOiAiQ+exu+aDheWGtSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgOTcsDQogICAgMTQ2DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC03YzRlNDRkMjEyIiwNCiAgICAicHQtMDgxZjExOTczMyIsDQogICAgInB0LTFiOWQ4OGQ0OGIiLA0KICAgICJwdC02YzBjYWIzYTQ0IiwNCiAgICAicHQtZjI3NGYwYzg2MiIsDQogICAgInB0LWNiMGZmMDRhYmEiLA0KICAgICJwdC04NmFjMGVlYTA2IiwNCiAgICAicHQtNTcxZGJkMjMzMCIsDQogICAgInB0LTRkNDI3NThlY2QiDQogICBdLA0KICAgImNoYXJzIjogOTM2DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5YW25a6D5Zuw6Zq+5oOF5Ya15o+P6L+wIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNDcsDQogICAgMTU5DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC05OTM2ZjgyMzM1IiwNCiAgICAicHQtNWVjZTk5ZDE0OSINCiAgIF0sDQogICAiY2hhcnMiOiA5NTINCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLlrabnlJ/lm7Dpmr7mg4XlhrXmoLjlrp7orrDlvZUiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDE2MCwNCiAgICAxNzANCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDUzMw0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuivhOWumue7k+aenCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTcxLA0KICAgIDIwNQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZGY1ZjcyYjVhMyIsDQogICAgInB0LTdhNTAzZDQyYzYiLA0KICAgICJwdC03YWNjOWVkYTJjIiwNCiAgICAicHQtNTBiM2IxZjY4NSINCiAgIF0sDQogICAiY2hhcnMiOiA2MDANCiAgfQ0KIF0sDQogIml0ZW1zIjogWw0KICAicnVsZS1sb2MtMi0yMDI2LTczNDgzMyIsDQogICJwdC01MDg5YjhkYTRlIiwNCiAgInB0LWY2OTc1YjVmMDIiLA0KICAicHQtNjllYzExYWI3MSIsDQogICJwdC03YzRlNDRkMjEyIiwNCiAgInB0LTA4MWYxMTk3MzMiLA0KICAicHQtMWI5ZDg4ZDQ4YiIsDQogICJwdC02YzBjYWIzYTQ0IiwNCiAgInB0LTU2MTc5ZjIyZWQiLA0KICAicHQtNjAzY2M4YTQ2YyIsDQogICJwdC1iNWNiNDNjMWYxIiwNCiAgInB0LTQyZDI3NDY1YWUiLA0KICAicHQtY2I4MjY4NDY4OSIsDQogICJwdC04MDM1ZmZkMDIzIiwNCiAgInB0LWVjNzA0YmFiZmIiLA0KICAicHQtMTgxZmQ2YWEyNSIsDQogICJwdC00NTBiNjIxOGRkIiwNCiAgInB0LTg0ZjY4NDMzZTciLA0KICAicHQtZjI3NGYwYzg2MiIsDQogICJwdC1jYjBmZjA0YWJhIiwNCiAgInB0LTg2YWMwZWVhMDYiLA0KICAicHQtNTcxZGJkMjMzMCIsDQogICJwdC00ZDQyNzU4ZWNkIiwNCiAgInB0LTk5MzZmODIzMzUiLA0KICAicHQtNWVjZTk5ZDE0OSIsDQogICJwdC1kZjVmNzJiNWEzIiwNCiAgInB0LTdhNTAzZDQyYzYiLA0KICAicHQtN2FjYzllZGEyYyIsDQogICJwdC01MGIzYjFmNjg1Ig0KIF0sDQogIm5vdGVzIjogWw0KICAi5YWo5paH5piv5LiA5byg56uW5o6S6KGo5qC877yI5a6h5om56KGo77yJ77yM5oq95Y+W5ZCO5YiX6ZSZ5L2N44CB5Y2V5YWD5qC86YeN5aSN77yaQTHigJNBMTIg5Yy65q615oyJIDYg57uE6YeN5aSN77yINeKAkzYxIOihjO+8ieOAgUIx4oCTQjQg5oyJIDQg57uE6YeN5aSN77yINjLigJM5NiDooYzvvInjgIFDMeKAk0M1IOaMiSA1IOe7hOmHjeWkje+8iDk34oCTMTQ2IOihjO+8ie+8jOOAjOWtpueUn+mAieaLqeOAjeOAjOi+heWvvOWRmOWuoeaguOOAjeWIl+iiq+aLhuaIkOmAkOihjOWkjemAieahhu+8iDQx4oCTNjHjgIE4NOKAkzk244CBMTI24oCTMTQ2IOihjO+8ie+8m+aMieWOn+aWh+aVtOWdl+S/neeVme+8jOacqumHjeaOkuOAgeacquWOu+mHjeOAgiIsDQogICLml6DmnaHlj7fjgIHml6Dnq6Dlj7fvvJvoioLlj7fnlKjjgIzigJTjgI3vvIjmoIfpopgv6KGo5aS044CB5YW25a6D5Zuw6Zq+5oOF5Ya144CB5qC45a6e6K6w5b2V44CB6K+E5a6a57uT5p6c77yJ5oiW6KGo5YaF57G75Yir5qCH562+44CMQeexuy9C57G7L0PnsbvjgI3vvIxoZWFkaW5nIOWdh+S4uuWOn+aWh+ihqOWktOmAkOWtl++8iOOAjEHnsbvjgI0r44CM5oOF5Ya144CN44CB44CMQuexu+OAjSvjgIzmg4XlhrXjgI3jgIHjgIxD57G744CNK+OAjOaDheWGteOAjeOAgeOAjOWFtuWug+WbsOmavuaDheWGteaPj+i/sOOAjeOAgeOAjOWtpueUn+WbsOmavuaDheWGteaguOWunuOAjSvjgIzorrDlvZXjgI3jgIHjgIzor4TlrprjgI0r44CM57uT5p6c44CN77yJ44CCIiwNCiAgIuOAjOivhOWumue7k+aenOOAjeiKguS7jiAxNzEg6KGM6LW377yI5LiN5pivIDE3MyDooYznmoTjgIzor4TlrprjgI3vvInvvJrjgIxwdC1kZjVmNzJiNWEz44CN55qE5byV5paH6LW354K55piv6K+l6KGM5pyr5bC+55qE44CM77ya44CN77yI6L6F5a+85ZGY562+5a2X77ya5bm05pyI5pel6K+E5a6a57uT5p6c6YeP5YyW5YiG57G757uT5p6c4oCm77yJ77yM5Y+q5LuOIDE3MyDooYzotbfkvJrokL3kuI3kuoblnLDvvIzmjInoioLpppbliKTmja7nmoTkvovlpJbkv53nlZnlubblnKjmnKzmnaHms6jmmI7vvJvlm6DmraTkuIrkuIDoioLjgIzlrabnlJ/lm7Dpmr7mg4XlhrXmoLjlrp7orrDlvZXjgI3mraLkuo4gMTcwIOihjOOAgiIsDQogICLooYzljLrpl7Tor7TmmI7vvJrmoIfpopjkuI7ooajlpLQgMeKAkzTvvJtB57G7IDXigJM2Me+8iEEx4oCTQTEyIOWbm+i9rumHjeWkje+8ie+8m0LnsbsgNjLigJM5Nu+8m0PnsbsgOTfigJMxNDbvvJvlhbblroPlm7Dpmr7mg4XlhrXmj4/ov7DlkKvkurrlj6PmgLvmlbAv5bm05Lq65Z2H5pS25YWlL+aciOS6uuWdh+aUtuWFpeS4jiA5IOauteWtpueUn+acrOS6uuetvuWtlyAxNDfigJMxNTnvvJvlrabnlJ/lm7Dpmr7mg4XlhrXmoLjlrp7orrDlvZUgMTYw4oCTMTcw77yb6K+E5a6a57uT5p6cIDE3MeKAkzIwNe+8iOmHj+WMluWIhuexu+e7k+aenOOAgeawkeS4u+ivhOiurue7k+aenOOAgeWFrOekuuWQjue7k+aenOOAgeWtpuagoeaEj+ingeWbm+agj+WPiiAyMDLigJMyMDUg6KGM55uW56ugL+aXpeacn++8ieOAgiIsDQogICJydWxlLWxvYy0yLTIwMjYtNzM0ODMzIOS4uuaWh+aho+e6p+adoeebru+8iOaXoOW8leaWh++8ie+8jOaMieWPo+W+hOWQjOaXtuWIl+i/m+aWh+aho+e6pyBpdGVtcyDkuI7mpoLov7DmgKfnmoTjgIzmoIfpopjkuI7ooajlpLTjgI3oioLjgIIiDQogXQ0KfQ==
+{
+ "key": "loc-附件2-中国传媒大学家庭经济困难学生认定审批表-2026年-734833",
+ "title": "中国传媒大学家庭经济困难学生认定审批表",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "中国传媒大学家庭经济困难学生认定审批表",
+   "heading_kind": "author",
+   "lines": [
+    1,
+    4
+   ],
+   "items": [
+    "rule-loc-2-2026-734833",
+    "pt-56179f22ed"
+   ],
+   "chars": 154
+  },
+  {
+   "no": "A类",
+   "heading": "A类情况",
+   "heading_kind": "author",
+   "lines": [
+    5,
+    61
+   ],
+   "items": [
+    "pt-603cc8a46c",
+    "pt-b5cb43c1f1",
+    "pt-42d27465ae",
+    "pt-cb82684689",
+    "pt-8035ffd023"
+   ],
+   "chars": 1386
+  },
+  {
+   "no": "B类",
+   "heading": "B类情况",
+   "heading_kind": "author",
+   "lines": [
+    62,
+    96
+   ],
+   "items": [
+    "pt-5089b8da4e",
+    "pt-f6975b5f02",
+    "pt-69ec11ab71",
+    "pt-ec704babfb",
+    "pt-181fd6aa25",
+    "pt-450b6218dd",
+    "pt-84f68433e7"
+   ],
+   "chars": 770
+  },
+  {
+   "no": "C类",
+   "heading": "C类情况",
+   "heading_kind": "author",
+   "lines": [
+    97,
+    146
+   ],
+   "items": [
+    "pt-7c4e44d212",
+    "pt-081f119733",
+    "pt-1b9d88d48b",
+    "pt-6c0cab3a44",
+    "pt-f274f0c862",
+    "pt-cb0ff04aba",
+    "pt-86ac0eea06",
+    "pt-571dbd2330",
+    "pt-4d42758ecd"
+   ],
+   "chars": 936
+  },
+  {
+   "no": "—",
+   "heading": "其它困难情况描述",
+   "heading_kind": "author",
+   "lines": [
+    147,
+    159
+   ],
+   "items": [
+    "pt-9936f82335",
+    "pt-5ece99d149"
+   ],
+   "chars": 952
+  },
+  {
+   "no": "—",
+   "heading": "学生困难情况核实记录",
+   "heading_kind": "author",
+   "lines": [
+    160,
+    170
+   ],
+   "items": [],
+   "chars": 533
+  },
+  {
+   "no": "—",
+   "heading": "评定结果",
+   "heading_kind": "author",
+   "lines": [
+    171,
+    205
+   ],
+   "items": [
+    "pt-df5f72b5a3",
+    "pt-7a503d42c6",
+    "pt-7acc9eda2c",
+    "pt-50b3b1f685"
+   ],
+   "chars": 600
+  }
+ ],
+ "items": [
+  "rule-loc-2-2026-734833",
+  "pt-5089b8da4e",
+  "pt-f6975b5f02",
+  "pt-69ec11ab71",
+  "pt-7c4e44d212",
+  "pt-081f119733",
+  "pt-1b9d88d48b",
+  "pt-6c0cab3a44",
+  "pt-56179f22ed",
+  "pt-603cc8a46c",
+  "pt-b5cb43c1f1",
+  "pt-42d27465ae",
+  "pt-cb82684689",
+  "pt-8035ffd023",
+  "pt-ec704babfb",
+  "pt-181fd6aa25",
+  "pt-450b6218dd",
+  "pt-84f68433e7",
+  "pt-f274f0c862",
+  "pt-cb0ff04aba",
+  "pt-86ac0eea06",
+  "pt-571dbd2330",
+  "pt-4d42758ecd",
+  "pt-9936f82335",
+  "pt-5ece99d149",
+  "pt-df5f72b5a3",
+  "pt-7a503d42c6",
+  "pt-7acc9eda2c",
+  "pt-50b3b1f685"
+ ],
+ "notes": [
+  "全文是一张竖排表格（审批表），抽取后列错位、单元格重复：A1–A12 区段按 6 组重复（5–61 行）、B1–B4 按 4 组重复（62–96 行）、C1–C5 按 5 组重复（97–146 行），「学生选择」「辅导员审核」列被拆成逐行复选框（41–61、84–96、126–146 行）；按原文整块保留，未重排、未去重。",
+  "无条号、无章号；节号用「—」（标题/表头、其它困难情况、核实记录、评定结果）或表内类别标签「A类/B类/C类」，heading 均为原文表头逐字（「A类」+「情况」、「B类」+「情况」、「C类」+「情况」、「其它困难情况描述」、「学生困难情况核实」+「记录」、「评定」+「结果」）。",
+  "「评定结果」节从 171 行起（不是 173 行的「评定」）：「pt-df5f72b5a3」的引文起点是该行末尾的「：」（辅导员签字：年月日评定结果量化分类结果…），只从 173 行起会落不了地，按节首判据的例外保留并在本条注明；因此上一节「学生困难情况核实记录」止于 170 行。",
+  "行区间说明：标题与表头 1–4；A类 5–61（A1–A12 四轮重复）；B类 62–96；C类 97–146；其它困难情况描述含人口总数/年人均收入/月人均收入与 9 段学生本人签字 147–159；学生困难情况核实记录 160–170；评定结果 171–205（量化分类结果、民主评议结果、公示后结果、学校意见四栏及 202–205 行盖章/日期）。",
+  "rule-loc-2-2026-734833 为文档级条目（无引文），按口径同时列进文档级 items 与概述性的「标题与表头」节。"
+ ]
+}

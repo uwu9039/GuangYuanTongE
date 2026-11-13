@@ -1,1 +1,101 @@
-IiIi5ouS562U6ZiI5YC85omr5o+P77ya5Zyo44CM5LiN6K+v5ouS5q2j5L6L44CN55qE5YmN5o+Q5LiL77yM5om+6IO95oqK6LSf5L6L5YWo5ouS5o6J55qE6ZiI5YC844CCCgogICAgcHl0aG9uIC1tIF9ldmFsLmdhdGVfc3dlZXAKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBqc29uCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAoKaW1wb3J0IG51bXB5IGFzIG5wCgpmcm9tIHJldHJpZXZhbC5lbmdpbmUgaW1wb3J0IEVuZ2luZQpmcm9tIHJldHJpZXZhbC5nYXRlIGltcG9ydCAoY29udGV4dF9mZWF0dXJlcywgb3RoZXJfc2Nob29sc19oaXQsIG91dF9vZl9zY29wZV9oaXQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwZXJzb25hbF9oaXQpCmZyb20gcmV0cmlldmFsLnRleHQgaW1wb3J0IHF1ZXJ5X3RleHQKClJPT1QgPSBQYXRoKF9fZmlsZV9fKS5yZXNvbHZlKCkucGFyZW50c1sxXQpTRVRTID0gUk9PVCAvICJfZXZhbCIgLyAic2V0cyIKCgpkZWYgbG9hZChuYW1lOiBzdHIpIC0+IGxpc3RbZGljdF06CiAgICByZXR1cm4gW2pzb24ubG9hZHMobG4pIGZvciBsbiBpbiAoU0VUUyAvIGYie25hbWV9Lmpzb25sIikucmVhZF90ZXh0KGVuY29kaW5nPSJ1dGYtOCIpLnNwbGl0bGluZXMoKQogICAgICAgICAgICBpZiBsbi5zdHJpcCgpXQoKCmRlZiBtYWluKCkgLT4gTm9uZToKICAgIGVuZyA9IEVuZ2luZS5sb2FkKCkKICAgIGRhdGEgPSB7fQogICAgZm9yIG5hbWUgaW4gKCJwcmVzZXRzIiwgInBhcmFwaHJhc2UiLCAibmVnYXRpdmVzIiwgIm5lZ2F0aXZlc19oYXJkIik6CiAgICAgICAgcm93cyA9IFtdCiAgICAgICAgZm9yIHIgaW4gbG9hZChuYW1lKToKICAgICAgICAgICAgY29yZSA9IHF1ZXJ5X3RleHQoclsicSJdKQogICAgICAgICAgICBpZiBwZXJzb25hbF9oaXQoY29yZSk6CiAgICAgICAgICAgICAgICByb3dzLmFwcGVuZCh7InJ1bGUiOiAicGVyc29uYWwiLCAicSI6IHJbInEiXSwgImYiOiBOb25lfSkKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIGlmIG90aGVyX3NjaG9vbHNfaGl0KGNvcmUpOgogICAgICAgICAgICAgICAgcm93cy5hcHBlbmQoeyJydWxlIjogIm90aGVyX3NjaG9vbCIsICJxIjogclsicSJdLCAiZiI6IE5vbmV9KQogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgaWYgb3V0X29mX3Njb3BlX2hpdChjb3JlKToKICAgICAgICAgICAgICAgIHJvd3MuYXBwZW5kKHsicnVsZSI6ICJvdXRfb2Zfc2NvcGUiLCAicSI6IHJbInEiXSwgImYiOiBOb25lfSkKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIGN0eCwgX2ZzLCBjYW5kLCBYID0gZW5nLnJldHJpZXZlKGNvcmUpCiAgICAgICAgICAgIGlmIG5vdCBjYW5kOgogICAgICAgICAgICAgICAgcm93cy5hcHBlbmQoeyJydWxlIjogImVtcHR5IiwgInEiOiByWyJxIl0sICJmIjogTm9uZX0pCiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBsb2dpdHMgPSBlbmcucmFua2VyLnNjb3JlKFgpCiAgICAgICAgICAgIG9yZGVyID0gbnAuYXJnc29ydCgtbG9naXRzKQogICAgICAgICAgICBwcm9icyA9IDEuMCAvICgxLjAgKyBucC5leHAoLW5wLmNsaXAobG9naXRzW29yZGVyXSwgLTMwLCAzMCkpKQogICAgICAgICAgICBmID0gY29udGV4dF9mZWF0dXJlcyhlbmcuaXgsIGVuZy5jYWNoZSwgY3R4LCBYW29yZGVyWzBdXSwgcHJvYnNbOjVdKQogICAgICAgICAgICByb3dzLmFwcGVuZCh7InJ1bGUiOiAiIiwgInEiOiByWyJxIl0sICJmIjogZiwgImxlbiI6IGxlbihjb3JlKX0pCiAgICAgICAgZGF0YVtuYW1lXSA9IHJvd3MKICAgICAgICBydWxlcyA9IHt9CiAgICAgICAgZm9yIHIgaW4gcm93czoKICAgICAgICAgICAgcnVsZXNbclsicnVsZSJdIG9yICJub25lIl0gPSBydWxlcy5nZXQoclsicnVsZSJdIG9yICJub25lIiwgMCkgKyAxCiAgICAgICAgcHJpbnQoZiJbe25hbWV9XSBuPXtsZW4ocm93cyl9IOinhOWImeWRveS4rSB7cnVsZXN9IikKCiAgICBwcmludCgiXG7miavpmIjlgLzvvIjlj6rnnIvmsqHooqvop4TliJnmi6bkuIvnmoTpgqPkupvvvInvvJoiKQogICAgcHJpbnQoImNvdjwgIHByb2I8ICAgcHJlc2V0c+ivr+aLkiAgcGFyYeivr+aLkiAgbmVn5ouSICBoYXJk5ouSIikKICAgIGZvciBjb3ZfdGhyIGluICgwLjA0LCAwLjA4LCAwLjEyLCAwLjE4LCAwLjIyKToKICAgICAgICBmb3IgcHJvYl90aHIgaW4gKDAuMDQsIDAuMDgsIDAuMTIsIDAuMTYpOgogICAgICAgICAgICBzdGF0cyA9IHt9CiAgICAgICAgICAgIGZvciBuYW1lIGluIGRhdGE6CiAgICAgICAgICAgICAgICByZWZ1c2VkID0gMAogICAgICAgICAgICAgICAgZm9yIHIgaW4gZGF0YVtuYW1lXToKICAgICAgICAgICAgICAgICAgICBpZiByWyJydWxlIl06CiAgICAgICAgICAgICAgICAgICAgICAgIHJlZnVzZWQgKz0gMQogICAgICAgICAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICAgICAgICAgIGYgPSByWyJmIl0KICAgICAgICAgICAgICAgICAgICBpZiBmWzVdIDwgMC40NSBvciBmWzddICogbWF4KHJbImxlbiJdLCAxKSA+PSAzOgogICAgICAgICAgICAgICAgICAgICAgICByZWZ1c2VkICs9IDEKICAgICAgICAgICAgICAgICAgICBlbGlmIGZbMl0gPCBjb3ZfdGhyIGFuZCBmWzNdIDwgMC41IGFuZCBmWzRdIDwgMToKICAgICAgICAgICAgICAgICAgICAgICAgcmVmdXNlZCArPSAxCiAgICAgICAgICAgICAgICAgICAgZWxpZiBmWzBdIDwgcHJvYl90aHI6CiAgICAgICAgICAgICAgICAgICAgICAgIHJlZnVzZWQgKz0gMQogICAgICAgICAgICAgICAgc3RhdHNbbmFtZV0gPSByZWZ1c2VkIC8gbGVuKGRhdGFbbmFtZV0pCiAgICAgICAgICAgIHByaW50KGYie2Nvdl90aHI6NC4yZn0ge3Byb2JfdGhyOjUuMmZ9ICAge3N0YXRzWydwcmVzZXRzJ106Ny4zZn0gICAiCiAgICAgICAgICAgICAgICAgIGYie3N0YXRzWydwYXJhcGhyYXNlJ106Ny4zZn0gIHtzdGF0c1snbmVnYXRpdmVzJ106NS4zZn0gIHtzdGF0c1snbmVnYXRpdmVzX2hhcmQnXTo1LjNmfSIpCgogICAgIyDotJ/kvovph4zmvI/nvZHnmoQKICAgIHByaW50KCJcbnN0cmljdCDotJ/kvovph4zov5jmsqHooqvmi6bkuIvnmoTvvJoiKQogICAgZm9yIHIgaW4gZGF0YVsibmVnYXRpdmVzIl06CiAgICAgICAgaWYgclsicnVsZSJdOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGYgPSByWyJmIl0KICAgICAgICBpZiBub3QgKGZbNV0gPCAwLjQ1IG9yIGZbN10gKiBtYXgoclsibGVuIl0sIDEpID49IDMgb3IKICAgICAgICAgICAgICAgIChmWzJdIDwgMC4xMiBhbmQgZlszXSA8IDAuNSBhbmQgZls0XSA8IDEpIG9yIGZbMF0gPCAwLjEyKToKICAgICAgICAgICAgcHJpbnQoZiIgICBjb3Y9e2ZbMl06LjJmfSBwcm9iPXtmWzBdOi4yZn0gZXhhY3Q9e2ZbM106LjBmfSBjb3JwdXM9e2ZbNV06LjJmfSAge3JbJ3EnXX0iKQogICAgcHJpbnQoIlxucGFyYXBocmFzZSDph4zkvJrooqvor6/mi5LnmoTvvJoiKQogICAgZm9yIHIgaW4gZGF0YVsicGFyYXBocmFzZSJdOgogICAgICAgIGlmIHJbInJ1bGUiXToKICAgICAgICAgICAgaWYgclsicnVsZSJdIG5vdCBpbiAoImVtcHR5IiwpOgogICAgICAgICAgICAgICAgcHJpbnQoZiIgICBb6KeE5YiZIHtyWydydWxlJ119XSB7clsncSddfSIpCiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgZiA9IHJbImYiXQogICAgICAgIGlmIGZbNV0gPCAwLjQ1IG9yIGZbN10gKiBtYXgoclsibGVuIl0sIDEpID49IDMgb3IgXAogICAgICAgICAgICAgICAgKGZbMl0gPCAwLjEyIGFuZCBmWzNdIDwgMC41IGFuZCBmWzRdIDwgMSkgb3IgZlswXSA8IDAuMTI6CiAgICAgICAgICAgIHByaW50KGYiICAgY292PXtmWzJdOi4yZn0gcHJvYj17ZlswXTouMmZ9ICB7clsncSddfSIpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+"""拒答阈值扫描：在「不误拒正例」的前提下，找能把负例全拒掉的阈值。
+
+    python -m _eval.gate_sweep
+"""
+from __future__ import annotations
+
+import json
+from pathlib import Path
+
+import numpy as np
+
+from retrieval.engine import Engine
+from retrieval.gate import (context_features, other_schools_hit, out_of_scope_hit,
+                            personal_hit)
+from retrieval.text import query_text
+
+ROOT = Path(__file__).resolve().parents[1]
+SETS = ROOT / "_eval" / "sets"
+
+
+def load(name: str) -> list[dict]:
+    return [json.loads(ln) for ln in (SETS / f"{name}.jsonl").read_text(encoding="utf-8").splitlines()
+            if ln.strip()]
+
+
+def main() -> None:
+    eng = Engine.load()
+    data = {}
+    for name in ("presets", "paraphrase", "negatives", "negatives_hard"):
+        rows = []
+        for r in load(name):
+            core = query_text(r["q"])
+            if personal_hit(core):
+                rows.append({"rule": "personal", "q": r["q"], "f": None})
+                continue
+            if other_schools_hit(core):
+                rows.append({"rule": "other_school", "q": r["q"], "f": None})
+                continue
+            if out_of_scope_hit(core):
+                rows.append({"rule": "out_of_scope", "q": r["q"], "f": None})
+                continue
+            ctx, _fs, cand, X = eng.retrieve(core)
+            if not cand:
+                rows.append({"rule": "empty", "q": r["q"], "f": None})
+                continue
+            logits = eng.ranker.score(X)
+            order = np.argsort(-logits)
+            probs = 1.0 / (1.0 + np.exp(-np.clip(logits[order], -30, 30)))
+            f = context_features(eng.ix, eng.cache, ctx, X[order[0]], probs[:5])
+            rows.append({"rule": "", "q": r["q"], "f": f, "len": len(core)})
+        data[name] = rows
+        rules = {}
+        for r in rows:
+            rules[r["rule"] or "none"] = rules.get(r["rule"] or "none", 0) + 1
+        print(f"[{name}] n={len(rows)} 规则命中 {rules}")
+
+    print("\n扫阈值（只看没被规则拦下的那些）：")
+    print("cov<  prob<   presets误拒  para误拒  neg拒  hard拒")
+    for cov_thr in (0.04, 0.08, 0.12, 0.18, 0.22):
+        for prob_thr in (0.04, 0.08, 0.12, 0.16):
+            stats = {}
+            for name in data:
+                refused = 0
+                for r in data[name]:
+                    if r["rule"]:
+                        refused += 1
+                        continue
+                    f = r["f"]
+                    if f[5] < 0.45 or f[7] * max(r["len"], 1) >= 3:
+                        refused += 1
+                    elif f[2] < cov_thr and f[3] < 0.5 and f[4] < 1:
+                        refused += 1
+                    elif f[0] < prob_thr:
+                        refused += 1
+                stats[name] = refused / len(data[name])
+            print(f"{cov_thr:4.2f} {prob_thr:5.2f}   {stats['presets']:7.3f}   "
+                  f"{stats['paraphrase']:7.3f}  {stats['negatives']:5.3f}  {stats['negatives_hard']:5.3f}")
+
+    # 负例里漏网的
+    print("\nstrict 负例里还没被拦下的：")
+    for r in data["negatives"]:
+        if r["rule"]:
+            continue
+        f = r["f"]
+        if not (f[5] < 0.45 or f[7] * max(r["len"], 1) >= 3 or
+                (f[2] < 0.12 and f[3] < 0.5 and f[4] < 1) or f[0] < 0.12):
+            print(f"   cov={f[2]:.2f} prob={f[0]:.2f} exact={f[3]:.0f} corpus={f[5]:.2f}  {r['q']}")
+    print("\nparaphrase 里会被误拒的：")
+    for r in data["paraphrase"]:
+        if r["rule"]:
+            if r["rule"] not in ("empty",):
+                print(f"   [规则 {r['rule']}] {r['q']}")
+            continue
+        f = r["f"]
+        if f[5] < 0.45 or f[7] * max(r["len"], 1) >= 3 or \
+                (f[2] < 0.12 and f[3] < 0.5 and f[4] < 1) or f[0] < 0.12:
+            print(f"   cov={f[2]:.2f} prob={f[0]:.2f}  {r['q']}")
+
+
+if __name__ == "__main__":
+    main()

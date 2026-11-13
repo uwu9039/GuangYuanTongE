@@ -1,1 +1,335 @@
-ew0KICJrZXkiOiAiM2RhNjgzNmQiLA0KICJ0aXRsZSI6ICLlpoLkvZXmiqXlkI3lj4LliqDlpKflrabnlJ/lv5fmhL/mnI3liqHopb/pg6jorqHliJLlj4rmnInlhbPmlL/nrZbpl67nrZTvvIjkuIDvvIkiLA0KICJ0cnVuY2F0ZWQiOiBmYWxzZSwNCiAic2VjdGlvbnMiOiBbDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5aaC5L2V5oql5ZCN5Y+C5Yqg5aSn5a2m55Sf5b+X5oS/5pyN5Yqh6KW/6YOo6K6h5YiS5Y+K5pyJ5YWz5pS/562W6Zeu562U77yI5LiA77yJIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxLA0KICAgIDMNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInJ1bGUtM2RhNjgzNmQiLA0KICAgICJwdC0wMTQxOTc4NDFhIg0KICAgXSwNCiAgICJjaGFycyI6IDYyDQogIH0sDQogIHsNCiAgICJubyI6ICIxIiwNCiAgICJoZWFkaW5nIjogIuS7gOS5iOaYr+Wkp+WtpueUn+W/l+aEv+acjeWKoeilv+mDqOiuoeWIku+8nyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNCwNCiAgICAxMA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtYWQ4ODY5NWRkNiIsDQogICAgInB0LTczYWRhNDA5MmQiDQogICBdLA0KICAgImNoYXJzIjogMjI0DQogIH0sDQogIHsNCiAgICJubyI6ICIyIiwNCiAgICJoZWFkaW5nIjogIuWFt+Wkh+WTquS6m+adoeS7tuaJjeiDveWPguWKoFwi6KW/6YOo6K6h5YiSXCLvvJ8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDExLA0KICAgIDE1DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1lODYyMTRlOGI0Ig0KICAgXSwNCiAgICJjaGFycyI6IDE3MA0KICB9LA0KICB7DQogICAibm8iOiAiMyIsDQogICAiaGVhZGluZyI6ICLlj4LliqBcIuilv+mDqOiuoeWIklwi5ZCO77yM5Li76KaB5Y+v6IO95LuO5LqL5ZOq5pa56Z2i55qE5pyN5Yqh77yfIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNiwNCiAgICAyMQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNzRjMmUxMGZkMCINCiAgIF0sDQogICAiY2hhcnMiOiAxODYNCiAgfSwNCiAgew0KICAgIm5vIjogIjQiLA0KICAgImhlYWRpbmciOiAi5Y+C5YqgXCLopb/pg6jorqHliJJcIu+8jOS8muWcqOWTqumHjOacjeWKoe+8nyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMjIsDQogICAgMjYNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWJlNmY4OTBjOGIiDQogICBdLA0KICAgImNoYXJzIjogMTY3DQogIH0sDQogIHsNCiAgICJubyI6ICI1IiwNCiAgICJoZWFkaW5nIjogIuWQrOivtOWPguWKoFwi6KW/6YOo6K6h5YiSXCLov5jkuqvmnInnm7jlupTmlL/nrZbvvIzmmK/ov5nmoLflkJfvvJ8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDI3LA0KICAgIDMxDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1kZWQ3ZjAzYWUwIg0KICAgXSwNCiAgICJjaGFycyI6IDE1MA0KICB9LA0KICB7DQogICAibm8iOiAiNiIsDQogICAiaGVhZGluZyI6ICLlj4LliqBcIuilv+mDqOiuoeWIklwi5ZCO77yM6ICD56CU6L+Y6IO95Yqg5YiG77yfIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzMiwNCiAgICAzNQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtY2RhOGI0ZTRhYyINCiAgIF0sDQogICAiY2hhcnMiOiAxMDYNCiAgfSwNCiAgew0KICAgIm5vIjogIjciLA0KICAgImhlYWRpbmciOiAi5Y+C5YqgXCLopb/pg6jorqHliJJcIuWQju+8jOiAg+WFrOWKoeWRmOi/mOiDveS8mOWFiOW9leeUqO+8nyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMzYsDQogICAgNDANCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWZkZjFjZDk1N2EiDQogICBdLA0KICAgImNoYXJzIjogMTYzDQogIH0sDQogIHsNCiAgICJubyI6ICI4IiwNCiAgICJoZWFkaW5nIjogIuWPguWKoOW/l+aEv+acjeWKoeWvueaIkeS7iuWQjuWwseS4muacieWTquS6m+W4ruWKqeWRou+8nyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNDEsDQogICAgNDgNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWVkNGIyZWUwMDEiLA0KICAgICJwdC00YmM3YmYwYmQxIg0KICAgXSwNCiAgICJjaGFycyI6IDI3MA0KICB9LA0KICB7DQogICAibm8iOiAiOSIsDQogICAiaGVhZGluZyI6ICLlrozmiJDlv5fmhL/mnI3liqHku7vliqHlkI7vvIzlpoLmnpzmiJHmg7PnlZnlnKjopb/pg6jlnLDljLrlt6XkvZzvvIzmnInku4DkuYjlhbfkvZPmlL/nrZblkJfvvJ8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDQ5LA0KICAgIDUyDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC01OWQxNmVkNDg4Ig0KICAgXSwNCiAgICJjaGFycyI6IDEzMw0KICB9LA0KICB7DQogICAibm8iOiAiMTAiLA0KICAgImhlYWRpbmciOiAi5oiR5LuO5rKh5Yiw6L+H6KW/6YOo77yM55yf5LiN55+l6YGT5piv5ZCm6IO96IOc5Lu75pyN5Yqh5bel5L2c77yfIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1MywNCiAgICA1Nw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtN2M4ZTVjYjA2ZiINCiAgIF0sDQogICAiY2hhcnMiOiAxNzYNCiAgfSwNCiAgew0KICAgIm5vIjogIjExIiwNCiAgICJoZWFkaW5nIjogIuWmguaenOaIkeWFpemAieWQju+8jOmcgOimgeWxpeihjOWTquS6m+aJi+e7re+8nyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNTgsDQogICAgNjMNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWE0YTRmODVmOTQiDQogICBdLA0KICAgImNoYXJzIjogMTg2DQogIH0sDQogIHsNCiAgICJubyI6ICIxMiIsDQogICAiaGVhZGluZyI6ICLmiJHlhaXpgInlkI7vvIzog73lkKbpqazkuIrnn6XpgZPlhbfkvZPmnI3liqHlspfkvY3vvJ8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDY0LA0KICAgIDY4DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC01NDc3OWQ0MDQ5Ig0KICAgXSwNCiAgICJjaGFycyI6IDE1Mw0KICB9LA0KICB7DQogICAibm8iOiAiMTMiLA0KICAgImhlYWRpbmciOiAi5pyN5Yqh5pyf6Ze077yM5oiR55qE5oi35Y+j44CB5qGj5qGI5Y+K5YWa5Zui5YWz57O75oCO5LmI5Yqe77yfIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA2OSwNCiAgICA3Ng0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZDVjNWRjYzgyNiIsDQogICAgInB0LTQyZTJlYTg0ZDMiDQogICBdLA0KICAgImNoYXJzIjogMjgwDQogIH0sDQogIHsNCiAgICJubyI6ICIxNCIsDQogICAiaGVhZGluZyI6ICLmnI3liqHmnJ/pl7TvvIzmiJHkvJrlvpfliLDlk6rkupvlt6XkvZzkv53pmpzvvJ8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDc3LA0KICAgIDgwDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0xZGNhZWU0ZWMwIg0KICAgXSwNCiAgICJjaGFycyI6IDEyMw0KICB9LA0KICB7DQogICAibm8iOiAiMTUiLA0KICAgImhlYWRpbmciOiAi5oiR5bqU5b2T5oCO5qC36L+b6KGM5pyN5Yqh77yfIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA4MSwNCiAgICA4NQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtM2Y0NjI2OWMzZSINCiAgIF0sDQogICAiY2hhcnMiOiAxMzcNCiAgfSwNCiAgew0KICAgIm5vIjogIjE2IiwNCiAgICJoZWFkaW5nIjogIuWQrOivtOS4u+WKnuWNleS9jei/mOWwhuS4uuWPguWKoFwi6KW/6YOo6K6h5YiSXCLnmoTlv5fmhL/ogIXnu4Tnu4fkuJPpl6jnmoTooajlvbDmtLvliqjvvIzmiJHlvojmg7Pkuobop6Pov5nmlrnpnaLnmoTmg4XlhrXvvJ8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDg2LA0KICAgIDkyDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC00NzMyODk4YTU3IiwNCiAgICAicHQtNWM4YjBkM2UzMyINCiAgIF0sDQogICAiY2hhcnMiOiAyMjQNCiAgfSwNCiAgew0KICAgIm5vIjogIjE3IiwNCiAgICJoZWFkaW5nIjogIuacjeWKoeacn+mXtO+8jOaIkeWPr+S7peWbnuWutuaOouS6suWQl++8nyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgOTMsDQogICAgOTUNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTYzOTk1MWQ1NWEiDQogICBdLA0KICAgImNoYXJzIjogNjcNCiAgfSwNCiAgew0KICAgIm5vIjogIjE4IiwNCiAgICJoZWFkaW5nIjogIuWmguaenOaIkeetvuWujOacjeWKoeWNj+iuruWQjuS4jeaDs+WOu+S6hu+8jOWPr+S7peWQl++8nyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgOTYsDQogICAgOTkNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWFkODU4OGNkZmIiDQogICBdLA0KICAgImNoYXJzIjogMTI5DQogIH0sDQogIHsNCiAgICJubyI6ICIxOSIsDQogICAiaGVhZGluZyI6ICLmiJHog73lkKbpmo/ml7bkuobop6PmtLvliqjnm7jlhbPmg4XlhrXvvJ8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDEwMCwNCiAgICAxMDENCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTVjYWUzOTc2ZDQiDQogICBdLA0KICAgImNoYXJzIjogNTgNCiAgfSwNCiAgew0KICAgIm5vIjogIjIwIiwNCiAgICJoZWFkaW5nIjogIuaIkeWIsOWTqumHjOaKpeWQje+8nyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTAyLA0KICAgIDEwNw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZGFhMTM5ZTBhZSINCiAgIF0sDQogICAiY2hhcnMiOiAxMjANCiAgfSwNCiAgew0KICAgIm5vIjogIjIxIiwNCiAgICJoZWFkaW5nIjogIuaIkeS7gOS5iOaXtumXtOaKpeWQje+8nyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTA4LA0KICAgIDExMA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtODcxOWJiZGJiNCINCiAgIF0sDQogICAiY2hhcnMiOiA2OQ0KICB9DQogXSwNCiAiaXRlbXMiOiBbDQogICJydWxlLTNkYTY4MzZkIiwNCiAgInB0LTAxNDE5Nzg0MWEiLA0KICAicHQtYWQ4ODY5NWRkNiIsDQogICJwdC03M2FkYTQwOTJkIiwNCiAgInB0LWU4NjIxNGU4YjQiLA0KICAicHQtNzRjMmUxMGZkMCIsDQogICJwdC1iZTZmODkwYzhiIiwNCiAgInB0LWRlZDdmMDNhZTAiLA0KICAicHQtY2RhOGI0ZTRhYyIsDQogICJwdC1mZGYxY2Q5NTdhIiwNCiAgInB0LWVkNGIyZWUwMDEiLA0KICAicHQtNGJjN2JmMGJkMSIsDQogICJwdC01OWQxNmVkNDg4IiwNCiAgInB0LTdjOGU1Y2IwNmYiLA0KICAicHQtYTRhNGY4NWY5NCIsDQogICJwdC01NDc3OWQ0MDQ5IiwNCiAgInB0LWQ1YzVkY2M4MjYiLA0KICAicHQtNDJlMmVhODRkMyIsDQogICJwdC0xZGNhZWU0ZWMwIiwNCiAgInB0LTNmNDYyNjljM2UiLA0KICAicHQtNDczMjg5OGE1NyIsDQogICJwdC01YzhiMGQzZTMzIiwNCiAgInB0LTYzOTk1MWQ1NWEiLA0KICAicHQtYWQ4NTg4Y2RmYiIsDQogICJwdC01Y2FlMzk3NmQ0IiwNCiAgInB0LWRhYTEzOWUwYWUiLA0KICAicHQtODcxOWJiZGJiNCINCiBdLA0KICJub3RlcyI6IFsNCiAgIumXrumBk+WOn+aWh++8iGRvY3gg6L2s5Ye655qEIFBERiDmlofmnKzvvInvvJrnrKwgMSDooYzmoIfpopjvvIznrKwgMiDooYzlj6rmnInkuIDkuKrlhajop5LnqbrmoLzvvIznrKwgMyDooYzjgIwyMDAzLTA2LTEzIDEyOjU4OjAwIOadpea6kO+8miDkvZzogIXvvJrliJjlk7LjgI3vvJvkuInooYzlkIjkuLrnrKzkuIDoioLvvIjmoIfpopjoioLvvInvvIxydWxlLTNkYTY4MzZkIOaYr+aXoOW8leaWh+eahOaWh+aho+e6p+adoeebru+8iOagh+mimOKJiOaWh+aho+WQje+8ie+8jOS5n+WIl+WcqOi/meS4gOiKguOAgiIsDQogICLlhajmlofmmK8gMjEg5p2h6Zeu562U77yI44CMMeOAgemXru+8muKApuetlO+8muKApuOAjeWIsOOAjDIx44CB6Zeu77ya4oCm562U77ya4oCm44CN77yJ77yM5rKh5pyJ56ugL+iKguagh+mimO+8m+avj+adoemXruetlOeahOWwj+agh+mimOaMieWOn+aWh+mXruWPpeiusCBhdXRob3LvvIjlj6rljrvmjonjgIxO44CB6Zeu77ya44CN6L+Z5LiA5YmN57yA77yM6Zeu5Y+l5pys6Lqr6YCQ5a2X5L+d55WZ77yJ77yM6IqC5Y+36K6w6Zeu562U5bqP5Y+344CCIiwNCiAgIuWOn+aWh+W8guW4uO+8iOaWreihjOS4jumhteeggeaui+eVme+8ie+8muesrCAxMDIg6KGM44CM5Lit6Z2S572R5p+l6K+i44CN5piv56ysIDE5IOadoeetlOWPpeiiq+eJiOmdouWIh+W8gOeahOWwvuWNiuWPpe+8jOesrCAxMDMg6KGM5Y+q5pyJ5LiA5Liq5YWo6KeS56m65qC877yM56ysIDEwNCDooYzotbfnrKwgMjAg5p2h44CCcHQtZGFhMTM5ZTBhZSDnmoTlvJXmlofku47nrKwgMTAyIOihjOOAjOS4remdkue9keafpeivouOAjei1t+OAgeaOpeesrCAxMDQg6KGM44CMMjDjgIHpl67vvJrmiJHliLDlk6rph4zmiqXlkI3vvJ/jgI3vvIzliY0gMjYg5a2X6Leo6L+Z5LiJ6KGM77yM5pWF56ysIDIwIOadoeiKgueahOihjOWMuumXtOWPliAxMDLigJMxMDfvvIjlkKvkuIrkuIDmnaHnmoTlsL7lj6XvvInvvIzlkKbliJnor6XmnaHnm67ml6DlpITokL3ngrnjgIIiLA0KICAi5Y6f5paH5byC5bi477yI57yW5Y+35Lul5aSW55qE5qC85byP77yJ77ya56ysIDTjgIExMeOAgTE244CBMjLjgIEzMuOAgTM244CBNDHjgIE0OeOAgTUz44CBNTjjgIE2NOOAgTY544CBNzfjgIE4MeOAgTg244CBOTPjgIE5NuOAgTEwMOOAgTEwOCDooYzliY3mnInlhajop5LnvKnov5vnqbrmoLzvvIznrKwgMjfjgIExMDQg6KGM5rKh5pyJ77yb56ysIDUg6KGM6LW3562U5Y+l6YeM44CM6KW/6YOo6K6h5YiS44CN55SoIEFTQ0lJIOWPjOW8leWPt++8iOesrCAxMeOAgTE244CBMjLjgIEyN+OAgTg2IOihjOetieWkhO+8ie+8jOWdh+aMieWOn+aWh+S/neeVmeOAgiIsDQogICLnrKwgOCDmnaHnmoTnrZTlj6XliIbkuKTmrrXvvIjnrKwgNDHigJM0OCDooYzjgIHnrKwgNDbigJM0OCDooYzvvInvvIxwdC00YmM3YmYwYmQxIOeahOW8leaWh+i1t+S6juesrCA0NiDooYzjgIzlnKjov5nkupvmlrnpnaLvvIzkvaDlkozkvaDnmoTlv5fmhL/ogIXlkIzkuovigKbjgI3vvIzku43lnKjnrKwgOCDmnaHoioLlhoXvvJvnrKwgMTMg5p2h5ZCM55CG77yIcHQtNDJlMmVhODRkMyDotbfkuo7nrKwgNzQg6KGM77yJ44CCIiwNCiAgIuesrCAxMTAg6KGM5piv56ysIDIxIOadoeetlOWPpee7k+Wwvu+8jOWFtuWQjuaXoOiQveasvi/pobXnoIHvvIzmnKrop4HmiKrmlq3vvJvmnKzmlofku7bkuLrjgIzpl67nrZTvvIjkuIDvvInjgI3vvIzlhbblkI7nmoTjgIzvvIjkuozvvInjgI3kuI3lnKjmnKzmlofku7blhoXjgIIiDQogXQ0KfQ==
+{
+ "key": "3da6836d",
+ "title": "如何报名参加大学生志愿服务西部计划及有关政策问答（一）",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "如何报名参加大学生志愿服务西部计划及有关政策问答（一）",
+   "heading_kind": "author",
+   "lines": [
+    1,
+    3
+   ],
+   "items": [
+    "rule-3da6836d",
+    "pt-014197841a"
+   ],
+   "chars": 62
+  },
+  {
+   "no": "1",
+   "heading": "什么是大学生志愿服务西部计划？",
+   "heading_kind": "author",
+   "lines": [
+    4,
+    10
+   ],
+   "items": [
+    "pt-ad88695dd6",
+    "pt-73ada4092d"
+   ],
+   "chars": 224
+  },
+  {
+   "no": "2",
+   "heading": "具备哪些条件才能参加\"西部计划\"？",
+   "heading_kind": "author",
+   "lines": [
+    11,
+    15
+   ],
+   "items": [
+    "pt-e86214e8b4"
+   ],
+   "chars": 170
+  },
+  {
+   "no": "3",
+   "heading": "参加\"西部计划\"后，主要可能从事哪方面的服务？",
+   "heading_kind": "author",
+   "lines": [
+    16,
+    21
+   ],
+   "items": [
+    "pt-74c2e10fd0"
+   ],
+   "chars": 186
+  },
+  {
+   "no": "4",
+   "heading": "参加\"西部计划\"，会在哪里服务？",
+   "heading_kind": "author",
+   "lines": [
+    22,
+    26
+   ],
+   "items": [
+    "pt-be6f890c8b"
+   ],
+   "chars": 167
+  },
+  {
+   "no": "5",
+   "heading": "听说参加\"西部计划\"还享有相应政策，是这样吗？",
+   "heading_kind": "author",
+   "lines": [
+    27,
+    31
+   ],
+   "items": [
+    "pt-ded7f03ae0"
+   ],
+   "chars": 150
+  },
+  {
+   "no": "6",
+   "heading": "参加\"西部计划\"后，考研还能加分？",
+   "heading_kind": "author",
+   "lines": [
+    32,
+    35
+   ],
+   "items": [
+    "pt-cda8b4e4ac"
+   ],
+   "chars": 106
+  },
+  {
+   "no": "7",
+   "heading": "参加\"西部计划\"后，考公务员还能优先录用？",
+   "heading_kind": "author",
+   "lines": [
+    36,
+    40
+   ],
+   "items": [
+    "pt-fdf1cd957a"
+   ],
+   "chars": 163
+  },
+  {
+   "no": "8",
+   "heading": "参加志愿服务对我今后就业有哪些帮助呢？",
+   "heading_kind": "author",
+   "lines": [
+    41,
+    48
+   ],
+   "items": [
+    "pt-ed4b2ee001",
+    "pt-4bc7bf0bd1"
+   ],
+   "chars": 270
+  },
+  {
+   "no": "9",
+   "heading": "完成志愿服务任务后，如果我想留在西部地区工作，有什么具体政策吗？",
+   "heading_kind": "author",
+   "lines": [
+    49,
+    52
+   ],
+   "items": [
+    "pt-59d16ed488"
+   ],
+   "chars": 133
+  },
+  {
+   "no": "10",
+   "heading": "我从没到过西部，真不知道是否能胜任服务工作？",
+   "heading_kind": "author",
+   "lines": [
+    53,
+    57
+   ],
+   "items": [
+    "pt-7c8e5cb06f"
+   ],
+   "chars": 176
+  },
+  {
+   "no": "11",
+   "heading": "如果我入选后，需要履行哪些手续？",
+   "heading_kind": "author",
+   "lines": [
+    58,
+    63
+   ],
+   "items": [
+    "pt-a4a4f85f94"
+   ],
+   "chars": 186
+  },
+  {
+   "no": "12",
+   "heading": "我入选后，能否马上知道具体服务岗位？",
+   "heading_kind": "author",
+   "lines": [
+    64,
+    68
+   ],
+   "items": [
+    "pt-54779d4049"
+   ],
+   "chars": 153
+  },
+  {
+   "no": "13",
+   "heading": "服务期间，我的户口、档案及党团关系怎么办？",
+   "heading_kind": "author",
+   "lines": [
+    69,
+    76
+   ],
+   "items": [
+    "pt-d5c5dcc826",
+    "pt-42e2ea84d3"
+   ],
+   "chars": 280
+  },
+  {
+   "no": "14",
+   "heading": "服务期间，我会得到哪些工作保障？",
+   "heading_kind": "author",
+   "lines": [
+    77,
+    80
+   ],
+   "items": [
+    "pt-1dcaee4ec0"
+   ],
+   "chars": 123
+  },
+  {
+   "no": "15",
+   "heading": "我应当怎样进行服务？",
+   "heading_kind": "author",
+   "lines": [
+    81,
+    85
+   ],
+   "items": [
+    "pt-3f46269c3e"
+   ],
+   "chars": 137
+  },
+  {
+   "no": "16",
+   "heading": "听说主办单位还将为参加\"西部计划\"的志愿者组织专门的表彰活动，我很想了解这方面的情况？",
+   "heading_kind": "author",
+   "lines": [
+    86,
+    92
+   ],
+   "items": [
+    "pt-4732898a57",
+    "pt-5c8b0d3e33"
+   ],
+   "chars": 224
+  },
+  {
+   "no": "17",
+   "heading": "服务期间，我可以回家探亲吗？",
+   "heading_kind": "author",
+   "lines": [
+    93,
+    95
+   ],
+   "items": [
+    "pt-639951d55a"
+   ],
+   "chars": 67
+  },
+  {
+   "no": "18",
+   "heading": "如果我签完服务协议后不想去了，可以吗？",
+   "heading_kind": "author",
+   "lines": [
+    96,
+    99
+   ],
+   "items": [
+    "pt-ad8588cdfb"
+   ],
+   "chars": 129
+  },
+  {
+   "no": "19",
+   "heading": "我能否随时了解活动相关情况？",
+   "heading_kind": "author",
+   "lines": [
+    100,
+    101
+   ],
+   "items": [
+    "pt-5cae3976d4"
+   ],
+   "chars": 58
+  },
+  {
+   "no": "20",
+   "heading": "我到哪里报名？",
+   "heading_kind": "author",
+   "lines": [
+    102,
+    107
+   ],
+   "items": [
+    "pt-daa139e0ae"
+   ],
+   "chars": 120
+  },
+  {
+   "no": "21",
+   "heading": "我什么时间报名？",
+   "heading_kind": "author",
+   "lines": [
+    108,
+    110
+   ],
+   "items": [
+    "pt-8719bbdbb4"
+   ],
+   "chars": 69
+  }
+ ],
+ "items": [
+  "rule-3da6836d",
+  "pt-014197841a",
+  "pt-ad88695dd6",
+  "pt-73ada4092d",
+  "pt-e86214e8b4",
+  "pt-74c2e10fd0",
+  "pt-be6f890c8b",
+  "pt-ded7f03ae0",
+  "pt-cda8b4e4ac",
+  "pt-fdf1cd957a",
+  "pt-ed4b2ee001",
+  "pt-4bc7bf0bd1",
+  "pt-59d16ed488",
+  "pt-7c8e5cb06f",
+  "pt-a4a4f85f94",
+  "pt-54779d4049",
+  "pt-d5c5dcc826",
+  "pt-42e2ea84d3",
+  "pt-1dcaee4ec0",
+  "pt-3f46269c3e",
+  "pt-4732898a57",
+  "pt-5c8b0d3e33",
+  "pt-639951d55a",
+  "pt-ad8588cdfb",
+  "pt-5cae3976d4",
+  "pt-daa139e0ae",
+  "pt-8719bbdbb4"
+ ],
+ "notes": [
+  "问道原文（docx 转出的 PDF 文本）：第 1 行标题，第 2 行只有一个全角空格，第 3 行「2003-06-13 12:58:00 来源： 作者：刘哲」；三行合为第一节（标题节），rule-3da6836d 是无引文的文档级条目（标题≈文档名），也列在这一节。",
+  "全文是 21 条问答（「1、问：…答：…」到「21、问：…答：…」），没有章/节标题；每条问答的小标题按原文问句记 author（只去掉「N、问：」这一前缀，问句本身逐字保留），节号记问答序号。",
+  "原文异常（断行与页码残留）：第 102 行「中青网查询」是第 19 条答句被版面切开的尾半句，第 103 行只有一个全角空格，第 104 行起第 20 条。pt-daa139e0ae 的引文从第 102 行「中青网查询」起、接第 104 行「20、问：我到哪里报名？」，前 26 字跨这三行，故第 20 条节的行区间取 102–107（含上一条的尾句），否则该条目无处落点。",
+  "原文异常（编号以外的格式）：第 4、11、16、22、32、36、41、49、53、58、64、69、77、81、86、93、96、100、108 行前有全角缩进空格，第 27、104 行没有；第 5 行起答句里「西部计划」用 ASCII 双引号（第 11、16、22、27、86 行等处），均按原文保留。",
+  "第 8 条的答句分两段（第 41–48 行、第 46–48 行），pt-4bc7bf0bd1 的引文起于第 46 行「在这些方面，你和你的志愿者同事…」，仍在第 8 条节内；第 13 条同理（pt-42e2ea84d3 起于第 74 行）。",
+  "第 110 行是第 21 条答句结尾，其后无落款/页码，未见截断；本文件为「问答（一）」，其后的「（二）」不在本文件内。"
+ ]
+}

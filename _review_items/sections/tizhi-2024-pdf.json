@@ -1,1 +1,233 @@
-ew0KICAia2V5IjogInRpemhpLTIwMjQtcGRmIiwNCiAgInRpdGxlIjogIuacrOenkeeUn+mZouOAlDIwMjTjgJUxMTXlj7cg5YWz5LqO5Y2w5Y+R44CK5Lit5Zu95Lyg5aqS5aSn5a2m44CK5Zu95a625a2m55Sf5L2T6LSo5YGl5bq35qCH5YeG44CL5a6e5pa95Yqe5rOV77yIMjAyNOW5tOS/ruiuou+8ieOAi+eahOmAmuefpSIsDQogICJ0cnVuY2F0ZWQiOiBmYWxzZSwNCiAgInNlY3Rpb25zIjogWw0KICAgIHsNCiAgICAgICJubyI6ICLigJQiLA0KICAgICAgImhlYWRpbmciOiAi5YWz5LqO5Y2w5Y+R44CK5Lit5Zu95Lyg5aqS5aSn5a2m44CK5Zu95a625a2m55Sf5L2T6LSo5YGl5bq35qCH5YeG44CL5a6e5pa95Yqe5rOV77yIMjAyNOW5tOS/ruiuou+8ieOAi+eahOmAmuefpSIsDQogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAgICAibGluZXMiOiBbDQogICAgICAgIDEsDQogICAgICAgIDE1DQogICAgICBdLA0KICAgICAgIml0ZW1zIjogW10sDQogICAgICAiY2hhcnMiOiAyOTENCiAgICB9LA0KICAgIHsNCiAgICAgICJubyI6ICLigJQiLA0KICAgICAgImhlYWRpbmciOiAi5Lit5Zu95Lyg5aqS5aSn5a2m44CK5Zu95a625a2m55Sf5L2T6LSo5YGl5bq35qCH5YeG44CL5a6e5pa95Yqe5rOV77yIMjAyNOW5tOS/ruiuou+8iSIsDQogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAgICAibGluZXMiOiBbDQogICAgICAgIDE2LA0KICAgICAgICAyMw0KICAgICAgXSwNCiAgICAgICJpdGVtcyI6IFtdLA0KICAgICAgImNoYXJzIjogMjAyDQogICAgfSwNCiAgICB7DQogICAgICAibm8iOiAi56ys5LiA5p2hIiwNCiAgICAgICJoZWFkaW5nIjogIumAgueUqOiMg+WbtO+8iOWFqOaXpeWItuaZrumAmuacrOenkeWcqOagoeeUn++8iSIsDQogICAgICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgICAgImxpbmVzIjogWw0KICAgICAgICAyNCwNCiAgICAgICAgMjUNCiAgICAgIF0sDQogICAgICAiaXRlbXMiOiBbXSwNCiAgICAgICJjaGFycyI6IDMwDQogICAgfSwNCiAgICB7DQogICAgICAibm8iOiAi56ys5LqM5p2hIiwNCiAgICAgICJoZWFkaW5nIjogIuWcqOagoeacn+mXtOWbm+asoea1i+ivleWPiuaXtumXtOWuieaOkiIsDQogICAgICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgICAgImxpbmVzIjogWw0KICAgICAgICAyNiwNCiAgICAgICAgMzANCiAgICAgIF0sDQogICAgICAiaXRlbXMiOiBbXSwNCiAgICAgICJjaGFycyI6IDE0Ng0KICAgIH0sDQogICAgew0KICAgICAgIm5vIjogIuesrOS4ieadoSIsDQogICAgICAiaGVhZGluZyI6ICLnu4Tnu4flrp7mlr3kuI7pg6jpl6jliIblt6UiLA0KICAgICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICAgICJsaW5lcyI6IFsNCiAgICAgICAgMzEsDQogICAgICAgIDMzDQogICAgICBdLA0KICAgICAgIml0ZW1zIjogW10sDQogICAgICAiY2hhcnMiOiA4Mg0KICAgIH0sDQogICAgew0KICAgICAgIm5vIjogIuesrOWbm+adoSIsDQogICAgICAiaGVhZGluZyI6ICLmtYvor5XmjIfmoIfjgIHmnYPph43kuI7mgLvliIbmnoTmiJAiLA0KICAgICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICAgICJsaW5lcyI6IFsNCiAgICAgICAgMzQsDQogICAgICAgIDQxDQogICAgICBdLA0KICAgICAgIml0ZW1zIjogWw0KICAgICAgICAicHQtNjM2YTUzZmRjMiIsDQogICAgICAgICJwdC1mMTVmNjljMjQ0IiwNCiAgICAgICAgInB0LTQzOWY3MjAxNTAiLA0KICAgICAgICAicHQtYjMyMzYyZmY4ZiINCiAgICAgIF0sDQogICAgICAiY2hhcnMiOiAxOTQNCiAgICB9LA0KICAgIHsNCiAgICAgICJubyI6ICLnrKzkupTmnaEiLA0KICAgICAgImhlYWRpbmciOiAi5oiQ57up562J57qn5YiS5YiGIiwNCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAgICAibGluZXMiOiBbDQogICAgICAgIDQyLA0KICAgICAgICA0NA0KICAgICAgXSwNCiAgICAgICJpdGVtcyI6IFtdLA0KICAgICAgImNoYXJzIjogNzENCiAgICB9LA0KICAgIHsNCiAgICAgICJubyI6ICLnrKzlha3mnaEiLA0KICAgICAgImhlYWRpbmciOiAi6KGl5rWL5a6J5o6SIiwNCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAgICAibGluZXMiOiBbDQogICAgICAgIDQ1LA0KICAgICAgICA0Nw0KICAgICAgXSwNCiAgICAgICJpdGVtcyI6IFsNCiAgICAgICAgInB0LTdjNzA4ZTAxMDEiLA0KICAgICAgICAicHQtYzFiYTQyMDk5ZiINCiAgICAgIF0sDQogICAgICAiY2hhcnMiOiA4NQ0KICAgIH0sDQogICAgew0KICAgICAgIm5vIjogIuesrOS4g+adoSIsDQogICAgICAiaGVhZGluZyI6ICLlm6Dnl4XmiJbmrovnlr7nlLPor7flhY3mtYsiLA0KICAgICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICAgICJsaW5lcyI6IFsNCiAgICAgICAgNDgsDQogICAgICAgIDQ5DQogICAgICBdLA0KICAgICAgIml0ZW1zIjogW10sDQogICAgICAiY2hhcnMiOiA0Nw0KICAgIH0sDQogICAgew0KICAgICAgIm5vIjogIuesrOWFq+adoSIsDQogICAgICAiaGVhZGluZyI6ICLlupTlvoHlhaXkvI3lrabnlJ/lhY3mtYsiLA0KICAgICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICAgICJsaW5lcyI6IFsNCiAgICAgICAgNTAsDQogICAgICAgIDUxDQogICAgICBdLA0KICAgICAgIml0ZW1zIjogWw0KICAgICAgICAicHQtODZjMjYzNGFlZCINCiAgICAgIF0sDQogICAgICAiY2hhcnMiOiA0Ng0KICAgIH0sDQogICAgew0KICAgICAgIm5vIjogIuesrOS5neadoSIsDQogICAgICAiaGVhZGluZyI6ICLlooPlpJbkuqTmtYHlrabnlJ/lpITnkIYiLA0KICAgICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICAgICJsaW5lcyI6IFsNCiAgICAgICAgNTIsDQogICAgICAgIDUzDQogICAgICBdLA0KICAgICAgIml0ZW1zIjogW10sDQogICAgICAiY2hhcnMiOiA0OA0KICAgIH0sDQogICAgew0KICAgICAgIm5vIjogIuesrOWNgeadoSIsDQogICAgICAiaGVhZGluZyI6ICLlhY3mtYvnlLPor7fml7bpl7TkuI7lip7nkIbmtYHnqIsiLA0KICAgICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICAgICJsaW5lcyI6IFsNCiAgICAgICAgNTQsDQogICAgICAgIDYwDQogICAgICBdLA0KICAgICAgIml0ZW1zIjogW10sDQogICAgICAiY2hhcnMiOiAxODENCiAgICB9LA0KICAgIHsNCiAgICAgICJubyI6ICLnrKzljYHkuIDmnaEiLA0KICAgICAgImhlYWRpbmciOiAi6K+E5LyY5LiO6K+E5aWW55qE5oiQ57up6KaB5rGCIiwNCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAgICAibGluZXMiOiBbDQogICAgICAgIDYxLA0KICAgICAgICA2Mw0KICAgICAgXSwNCiAgICAgICJpdGVtcyI6IFtdLA0KICAgICAgImNoYXJzIjogNjMNCiAgICB9LA0KICAgIHsNCiAgICAgICJubyI6ICLnrKzljYHkuozmnaEiLA0KICAgICAgImhlYWRpbmciOiAi5q+V5Lia5oiQ57up6K+E5a6a5LiO57uT5Lia5aSE55CGIiwNCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAgICAibGluZXMiOiBbDQogICAgICAgIDY0LA0KICAgICAgICA2OQ0KICAgICAgXSwNCiAgICAgICJpdGVtcyI6IFtdLA0KICAgICAgImNoYXJzIjogMTYyDQogICAgfSwNCiAgICB7DQogICAgICAibm8iOiAi56ys5Y2B5LiJ5p2hIiwNCiAgICAgICJoZWFkaW5nIjogIumHjea1i+eUs+ivt+S4juaXtumXtOWuieaOkiIsDQogICAgICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgICAgImxpbmVzIjogWw0KICAgICAgICA3MCwNCiAgICAgICAgNzUNCiAgICAgIF0sDQogICAgICAiaXRlbXMiOiBbXSwNCiAgICAgICJjaGFycyI6IDE0Ng0KICAgIH0sDQogICAgew0KICAgICAgIm5vIjogIuesrOWNgeWbm+adoSIsDQogICAgICAiaGVhZGluZyI6ICLmtYvor5Xov53nuqrkvZzlvIrlpITnkIYiLA0KICAgICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICAgICJsaW5lcyI6IFsNCiAgICAgICAgNzYsDQogICAgICAgIDc3DQogICAgICBdLA0KICAgICAgIml0ZW1zIjogWw0KICAgICAgICAicHQtMDViM2UzZGNlZiINCiAgICAgIF0sDQogICAgICAiY2hhcnMiOiA0MQ0KICAgIH0sDQogICAgew0KICAgICAgIm5vIjogIuesrOWNgeS6lOadoSIsDQogICAgICAiaGVhZGluZyI6ICLlj4zln7nnlJ/pgILnlKgiLA0KICAgICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICAgICJsaW5lcyI6IFsNCiAgICAgICAgNzgsDQogICAgICAgIDc5DQogICAgICBdLA0KICAgICAgIml0ZW1zIjogW10sDQogICAgICAiY2hhcnMiOiAzMQ0KICAgIH0sDQogICAgew0KICAgICAgIm5vIjogIuesrOWNgeWFreadoSIsDQogICAgICAiaGVhZGluZyI6ICLmlr3ooYzml6XmnJ/kuI7op6Pph4rpg6jpl6giLA0KICAgICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICAgICJsaW5lcyI6IFsNCiAgICAgICAgODAsDQogICAgICAgIDgxDQogICAgICBdLA0KICAgICAgIml0ZW1zIjogW10sDQogICAgICAiY2hhcnMiOiAzNA0KICAgIH0NCiAgXSwNCiAgIml0ZW1zIjogWw0KICAgICJwdC02MzZhNTNmZGMyIiwNCiAgICAicHQtZjE1ZjY5YzI0NCIsDQogICAgInB0LTQzOWY3MjAxNTAiLA0KICAgICJwdC1iMzIzNjJmZjhmIiwNCiAgICAicHQtN2M3MDhlMDEwMSIsDQogICAgInB0LWMxYmE0MjA5OWYiLA0KICAgICJwdC04NmMyNjM0YWVkIiwNCiAgICAicHQtMDViM2UzZGNlZiINCiAgXSwNCiAgIm5vdGVzIjogWw0KICAgICJQREYg5oq95Y+W5paH5pys77ya5peg6aG156CB6KGM5q6L55WZ77yM5YWo5paHIDgxIOihjOOAgeato+aWh+aXoOihqOagvOe7k+aehO+8iOesrOWbm+adoeOAjOWQhOa1i+ivleaMh+agh+WPiuadg+mHjeWmguS4i++8muOAjeWQjueahOihqOagvOWcqOaKveWPluaXtuS4ouWkse+8jOWPquS9meOAjOazqO+8muS9k+mHjeaMh+aVsO+8iEJNSe+8ie+8neKApuOAjeS4gOihjO+8ie+8jOivpeWkhOihqOagvOe8uuWkseiusOWcqOatpOWkhOOAgiIsDQogICAgIuesrOS4gOiHs+esrOWNgeWFreadoeWOn+aWh+WPquacieadoeWPt+OAgeaXoOadoeWQje+8jGhlYWRpbmcg5Z2H5Li65o2u5p2h5paH5qaC5ous55qEIGRlcml2ZWTvvJvmnaHlj7flhpnlnKggbm8g5a2X5q6144CCIiwNCiAgICAi5pegIHJ1bGUtIOadoeebru+8muacrOS7vSA4IOadoeadoeebruWFqOmDqOacieW8leaWh++8jOWdh+iQveWcqOesrOWbm+adoe+8iDM04oCTNDHvvInjgIHnrKzlha3mnaHvvIg0NeKAkzQ377yJ44CB56ys5YWr5p2h77yINTDigJM1Me+8ieOAgeesrOWNgeWbm+adoe+8iDc24oCTNzfvvInjgIIiLA0KICAgICLpppboioLvvIgx4oCTMTXvvInkuLrljbDlj5HpgJrnn6XvvIjmloflj7fjgIHmoIfpopjjgIHkuLvpgIHjgIHliLblrprkvp3mja7jgIHmnKznp5HnlJ/pmaLkuI7kvZPogrLpg6jokL3mrL7lj4rml6XmnJ/vvInvvIznrKzkuozoioLvvIgxNuKAkzIz77yJ5Li65Yqe5rOV5qCH6aKY5LiO5Yi25a6a5L6d5o2u44CCIg0KICBdDQp9DQo=
+{
+  "key": "tizhi-2024-pdf",
+  "title": "本科生院〔2024〕115号 关于印发《中国传媒大学《国家学生体质健康标准》实施办法（2024年修订）》的通知",
+  "truncated": false,
+  "sections": [
+    {
+      "no": "—",
+      "heading": "关于印发《中国传媒大学《国家学生体质健康标准》实施办法（2024年修订）》的通知",
+      "heading_kind": "author",
+      "lines": [
+        1,
+        15
+      ],
+      "items": [],
+      "chars": 291
+    },
+    {
+      "no": "—",
+      "heading": "中国传媒大学《国家学生体质健康标准》实施办法（2024年修订）",
+      "heading_kind": "author",
+      "lines": [
+        16,
+        23
+      ],
+      "items": [],
+      "chars": 202
+    },
+    {
+      "no": "第一条",
+      "heading": "适用范围（全日制普通本科在校生）",
+      "heading_kind": "derived",
+      "lines": [
+        24,
+        25
+      ],
+      "items": [],
+      "chars": 30
+    },
+    {
+      "no": "第二条",
+      "heading": "在校期间四次测试及时间安排",
+      "heading_kind": "derived",
+      "lines": [
+        26,
+        30
+      ],
+      "items": [],
+      "chars": 146
+    },
+    {
+      "no": "第三条",
+      "heading": "组织实施与部门分工",
+      "heading_kind": "derived",
+      "lines": [
+        31,
+        33
+      ],
+      "items": [],
+      "chars": 82
+    },
+    {
+      "no": "第四条",
+      "heading": "测试指标、权重与总分构成",
+      "heading_kind": "derived",
+      "lines": [
+        34,
+        41
+      ],
+      "items": [
+        "pt-636a53fdc2",
+        "pt-f15f69c244",
+        "pt-439f720150",
+        "pt-b32362ff8f"
+      ],
+      "chars": 194
+    },
+    {
+      "no": "第五条",
+      "heading": "成绩等级划分",
+      "heading_kind": "derived",
+      "lines": [
+        42,
+        44
+      ],
+      "items": [],
+      "chars": 71
+    },
+    {
+      "no": "第六条",
+      "heading": "补测安排",
+      "heading_kind": "derived",
+      "lines": [
+        45,
+        47
+      ],
+      "items": [
+        "pt-7c708e0101",
+        "pt-c1ba42099f"
+      ],
+      "chars": 85
+    },
+    {
+      "no": "第七条",
+      "heading": "因病或残疾申请免测",
+      "heading_kind": "derived",
+      "lines": [
+        48,
+        49
+      ],
+      "items": [],
+      "chars": 47
+    },
+    {
+      "no": "第八条",
+      "heading": "应征入伍学生免测",
+      "heading_kind": "derived",
+      "lines": [
+        50,
+        51
+      ],
+      "items": [
+        "pt-86c2634aed"
+      ],
+      "chars": 46
+    },
+    {
+      "no": "第九条",
+      "heading": "境外交流学生处理",
+      "heading_kind": "derived",
+      "lines": [
+        52,
+        53
+      ],
+      "items": [],
+      "chars": 48
+    },
+    {
+      "no": "第十条",
+      "heading": "免测申请时间与办理流程",
+      "heading_kind": "derived",
+      "lines": [
+        54,
+        60
+      ],
+      "items": [],
+      "chars": 181
+    },
+    {
+      "no": "第十一条",
+      "heading": "评优与评奖的成绩要求",
+      "heading_kind": "derived",
+      "lines": [
+        61,
+        63
+      ],
+      "items": [],
+      "chars": 63
+    },
+    {
+      "no": "第十二条",
+      "heading": "毕业成绩评定与结业处理",
+      "heading_kind": "derived",
+      "lines": [
+        64,
+        69
+      ],
+      "items": [],
+      "chars": 162
+    },
+    {
+      "no": "第十三条",
+      "heading": "重测申请与时间安排",
+      "heading_kind": "derived",
+      "lines": [
+        70,
+        75
+      ],
+      "items": [],
+      "chars": 146
+    },
+    {
+      "no": "第十四条",
+      "heading": "测试违纪作弊处理",
+      "heading_kind": "derived",
+      "lines": [
+        76,
+        77
+      ],
+      "items": [
+        "pt-05b3e3dcef"
+      ],
+      "chars": 41
+    },
+    {
+      "no": "第十五条",
+      "heading": "双培生适用",
+      "heading_kind": "derived",
+      "lines": [
+        78,
+        79
+      ],
+      "items": [],
+      "chars": 31
+    },
+    {
+      "no": "第十六条",
+      "heading": "施行日期与解释部门",
+      "heading_kind": "derived",
+      "lines": [
+        80,
+        81
+      ],
+      "items": [],
+      "chars": 34
+    }
+  ],
+  "items": [
+    "pt-636a53fdc2",
+    "pt-f15f69c244",
+    "pt-439f720150",
+    "pt-b32362ff8f",
+    "pt-7c708e0101",
+    "pt-c1ba42099f",
+    "pt-86c2634aed",
+    "pt-05b3e3dcef"
+  ],
+  "notes": [
+    "PDF 抽取文本：无页码行残留，全文 81 行、正文无表格结构（第四条「各测试指标及权重如下：」后的表格在抽取时丢失，只余「注：体重指数（BMI）＝…」一行），该处表格缺失记在此处。",
+    "第一至第十六条原文只有条号、无条名，heading 均为据条文概括的 derived；条号写在 no 字段。",
+    "无 rule- 条目：本份 8 条条目全部有引文，均落在第四条（34–41）、第六条（45–47）、第八条（50–51）、第十四条（76–77）。",
+    "首节（1–15）为印发通知（文号、标题、主送、制定依据、本科生院与体育部落款及日期），第二节（16–23）为办法标题与制定依据。"
+  ]
+}

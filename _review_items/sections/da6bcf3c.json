@@ -1,1 +1,112 @@
-ewogICJrZXkiOiAiZGE2YmNmM2MiLAogICJ0aXRsZSI6ICLkuK3lm73kvKDlqpLlpKflraYyMDIz5bm05YWa5Zui57uE57uH5YWz57O76L2s5o6l5oyH5Y2XIiwKICAidHJ1bmNhdGVkIjogZmFsc2UsCiAgInNlY3Rpb25zIjogWwogICAgewogICAgICAibm8iOiAi4oCUIiwKICAgICAgImhlYWRpbmciOiAi5Lit5Zu95Lyg5aqS5aSn5a2mMjAyM+W5tOWFmuWboue7hOe7h+WFs+ezu+i9rOaOpeaMh+WNlyIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzEsIDZdLAogICAgICAiaXRlbXMiOiBbInJ1bGUtZGE2YmNmM2MiLCAicHQtMmRmZDdhZjMxYyIsICJwdC1lYTNkNTI2YjhjIl0sCiAgICAgICJjaGFycyI6IDE0MAogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuS4gOOAgSIsCiAgICAgICJoZWFkaW5nIjogIuS4gOOAgeWFmuWboue7hOe7h+WFs+ezu+i9rOenu+aYr+S7gOS5iO+8nyIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzcsIDE3XSwKICAgICAgIml0ZW1zIjogWyJwdC0wODYzYzVhOGQ1IiwgInB0LTc3YjNjYWFiMzQiLCAicHQtNmE4ZDU4NTI4ZCIsICJwdC0yMjFiYTkyMDA5IiwgInB0LWM1Y2U0MWRhNDAiXSwKICAgICAgImNoYXJzIjogMzE2CiAgICB9LAogICAgewogICAgICAibm8iOiAi5LqM44CBIiwKICAgICAgImhlYWRpbmciOiAi5LqM44CBMjAyM+W5tOS4reWbveS8oOWqkuWkp+WtpuWFmuWboue7hOe7h+WFs+ezu+i9rOaOpea1geeoiyIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzE4LCA0NF0sCiAgICAgICJpdGVtcyI6IFsicHQtM2E1NzdmOTBlYyIsICJwdC05OGJmZDJlYjY4IiwgInB0LTkzMWEzNjAzZjIiLCAicHQtZTNhMzcwNTc4NCIsICJwdC00ODI1MjY4ZTE2IiwgInB0LWU4MGYzNDYyZDAiLCAicHQtNmU5YWIyYjUyNSIsICJwdC1kNzQwMDJmOTIwIiwgInB0LTRlMjVlMzVlYmEiLCAicHQtZDIyMDFmNjgzMCIsICJwdC04N2YzODllNjVjIiwgInB0LWU1YThjZGVmOWEiLCAicHQtMGYxNDZlNWQyNSIsICJwdC0yNWMzZTQxZjViIiwgInB0LWQwNjA2OGQzNTIiXSwKICAgICAgImNoYXJzIjogNzc1CiAgICB9LAogICAgewogICAgICAibm8iOiAi5LiJ44CBIiwKICAgICAgImhlYWRpbmciOiAi5LiJ44CB5Lit5Zu95Lyg5aqS5aSn5a2mMjAyM+W5tOWFmuWboue7hOe7h+WFs+ezu+i9rOaOpeW4uOingemXrumimCIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzQ1LCA5MF0sCiAgICAgICJpdGVtcyI6IFtdLAogICAgICAiY2hhcnMiOiAxMTk0CiAgICB9LAogICAgewogICAgICAibm8iOiAi6ZeuMSIsCiAgICAgICJoZWFkaW5nIjogIjEu5LiN5Y+K5pe26L2s5o6l77yM5Lya5pyJ5LuA5LmI5ZCO5p6c77yfIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbNDUsIDUxXSwKICAgICAgIml0ZW1zIjogWyJwdC04MmVmMDkzNmI4IiwgInB0LTMwN2Y1M2M1ODQiLCAicHQtOGJkOWZhN2MyOCIsICJwdC1iYzViODk0OGMwIiwgInB0LTBkMTliMTgzNDEiLCAicHQtOWM5NDQ3NzNiYyJdLAogICAgICAiY2hhcnMiOiAxMDIKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLpl64yIiwKICAgICAgImhlYWRpbmciOiAiMi7nurjotKjlm6LnsY3mnZDmlpnlupTljIXlkKvlk6rkupvvvJ/lpoLmnpznvLrlpLHkuobmgI7kuYjlip7vvJ8iLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFs1MiwgNTldLAogICAgICAiaXRlbXMiOiBbInB0LTdhMjU5ODNmOTkiLCAicHQtNDQ5MTY2ZTk5YiIsICJwdC1iYjU1NDdlZDk5IiwgInB0LTVmNDg5YjljYmIiLCAicHQtZDJiODZlYjkxMCIsICJwdC00OWRiNmZmOWQ3Il0sCiAgICAgICJjaGFycyI6IDIxNwogICAgfSwKICAgIHsKICAgICAgIm5vIjogIumXrjMiLAogICAgICAiaGVhZGluZyI6ICIzLuWmguS9leaJvuWbnuWvhueggSIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzYwLCA2NV0sCiAgICAgICJpdGVtcyI6IFsicHQtZDIzZThkNjE2OSIsICJwdC00NTQ0MzFmMWFmIiwgInB0LWE4Mzg1YzcwNTIiXSwKICAgICAgImNoYXJzIjogMTQ4CiAgICB9LAogICAgewogICAgICAibm8iOiAi6ZeuNCIsCiAgICAgICJoZWFkaW5nIjogIjQu5Y+R6LW357uE57uH6L2s5o6l77yM5om+5LiN5Yiw6KaB6L2s5YWl57uE57uH77yfIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbNjYsIDcwXSwKICAgICAgIml0ZW1zIjogWyJwdC02YzQyMmJlNDk0IiwgInB0LTgwZGNiMzViNzQiLCAicHQtZmQ1NjJjZjg2NSJdLAogICAgICAiY2hhcnMiOiAxMjgKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLpl641IiwKICAgICAgImhlYWRpbmciOiAiNS7mgI7moLfmiY3nrpflrozmiJDkuoblm6Lnu4Tnu4flhbPns7vovazmjqXlkaLvvJ8iLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFs3MSwgNzRdLAogICAgICAiaXRlbXMiOiBbInB0LWE2ZWQ2YTgwNDUiLCAicHQtMjRiYzBjOGExOSJdLAogICAgICAiY2hhcnMiOiAxMjQKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLpl642IiwKICAgICAgImhlYWRpbmciOiAiNi7ot6jnnIHlhZrnu4Tnu4flhbPns7vovaznp7vvvIzopoHms6jmhI/lk6rkupvpl67popjvvJ8iLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFs3NSwgODBdLAogICAgICAiaXRlbXMiOiBbInB0LWZhYWJlZjI1ZGQiLCAicHQtMzVmNjAyOWNjYiJdLAogICAgICAiY2hhcnMiOiAxNzYKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLpl643IiwKICAgICAgImhlYWRpbmciOiAiNy7lhZrlkZjnu4Tnu4flhbPns7vku4vnu43mnInmlYjmnJ/mmK/lpJrkuYXvvIzpgL7mnJ/mnKrlip7nkIblpb3nu4Tnu4flhbPns7vovaznp7vmiYvnu63mgI7kuYjlip7vvJ8iLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFs4MSwgODRdLAogICAgICAiaXRlbXMiOiBbInB0LWRjY2RlYTQ5OGUiLCAicHQtNmMwN2QyMTcyMCJdLAogICAgICAiY2hhcnMiOiAxMjAKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLpl644IiwKICAgICAgImhlYWRpbmciOiAiOC7mgI7kuYjmn6Xor6LlhZrlkZjnu4Tnu4flhbPns7vovazmjqXmmK/lkKbmiJDlip/vvJ8iLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFs4NSwgOTBdLAogICAgICAiaXRlbXMiOiBbInB0LWY4Njc0ZGU5ZjciLCAicHQtOTA4NzE3ZGE1ZSJdLAogICAgICAiY2hhcnMiOiAxNzkKICAgIH0KICBdLAogICJpdGVtcyI6IFsicnVsZS1kYTZiY2YzYyIsICJwdC0wODYzYzVhOGQ1IiwgInB0LTc3YjNjYWFiMzQiLCAicHQtNmE4ZDU4NTI4ZCIsICJwdC05OGJmZDJlYjY4IiwgInB0LTkzMWEzNjAzZjIiLCAicHQtZTNhMzcwNTc4NCIsICJwdC02ZTlhYjJiNTI1IiwgInB0LTRlMjVlMzVlYmEiLCAicHQtZDIyMDFmNjgzMCIsICJwdC04N2YzODllNjVjIiwgInB0LWU1YThjZGVmOWEiLCAicHQtMjVjM2U0MWY1YiIsICJwdC0zMDdmNTNjNTg0IiwgInB0LTBkMTliMTgzNDEiLCAicHQtNDQ5MTY2ZTk5YiIsICJwdC1iYjU1NDdlZDk5IiwgInB0LTVmNDg5YjljYmIiLCAicHQtZDJiODZlYjkxMCIsICJwdC00OWRiNmZmOWQ3IiwgInB0LWQyM2U4ZDYxNjkiLCAicHQtNDU0NDMxZjFhZiIsICJwdC1hODM4NWM3MDUyIiwgInB0LTI0YmMwYzhhMTkiLCAicHQtMzVmNjAyOWNjYiIsICJwdC02YzA3ZDIxNzIwIiwgInB0LTkwODcxN2RhNWUiLCAicHQtMmRmZDdhZjMxYyIsICJwdC1lYTNkNTI2YjhjIiwgInB0LTIyMWJhOTIwMDkiLCAicHQtYzVjZTQxZGE0MCIsICJwdC0zYTU3N2Y5MGVjIiwgInB0LWQwNjA2OGQzNTIiLCAicHQtNDgyNTI2OGUxNiIsICJwdC1lODBmMzQ2MmQwIiwgInB0LWQ3NDAwMmY5MjAiLCAicHQtMGYxNDZlNWQyNSIsICJwdC04MmVmMDkzNmI4IiwgInB0LThiZDlmYTdjMjgiLCAicHQtYmM1Yjg5NDhjMCIsICJwdC05Yzk0NDc3M2JjIiwgInB0LTdhMjU5ODNmOTkiLCAicHQtNmM0MjJiZTQ5NCIsICJwdC04MGRjYjM1Yjc0IiwgInB0LWZkNTYyY2Y4NjUiLCAicHQtYTZlZDZhODA0NSIsICJwdC1mYWFiZWYyNWRkIiwgInB0LWRjY2RlYTQ5OGUiLCAicHQtZjg2NzRkZTlmNyJdLAogICJub3RlcyI6IFsKICAgICJydWxlLWRhNmJjZjNjIOaYr+aWh+aho+e6p+adoeebru+8iOagh+mimOKJiOaWh+aho+WQje+8ie+8jOaXoOW8leaWh++8jOaMiee6puWumuWIl+i/m+aWh+aho+e6pyBpdGVtcyDlubbokL3lnKjnrKzkuIDoioLvvIjmoIfpopjkuI7lr7zor63vvInjgIIiLAogICAgIuWOn+aWh+aYr+WFmuWnlOWtpueUn+W3peS9nOmDqOe9keermeOAjOS4k+agj+OAjeaWh+eroO+8muesrDHooYzmoIfpopjjgIHnrKwy6KGM5pel5pyf44CB56ysM+ihjOagj+ebruWQjeOAjOS4k+agj+OAjeOAgeesrDTigJQ26KGM5a+86K+t77yI5ZCr44CM5ZCE5L2N5Lit5Zu95Lyg5aqS5aSn5a2mMjAyM+e6p+iQjOaWsOKApuOAje+8ie+8jOesrDfooYzotbfkuLrjgIzkuIDjgIHjgI3jgIzkuozjgIHjgI3jgIzkuInjgIHjgI3kuInkuKrkuIDnuqflsI/moIfpopjvvIzlnYfmoIcgYXV0aG9y44CCIiwKICAgICLnrKw0NeKAlDkw6KGM44CM5LiJ44CB4oCm5bi46KeB6Zeu6aKY44CN5LiL5ZCrIDEu4oCUOC4g5YWx5YWr5Liq6Zeu562U77yM54i26IqC77yI5LiJ44CB77yJ5Yy66Ze0PeaVtOiKguiMg+WbtOOAgeacrOi6q+S4jeaMguadoeebru+8jOWFq+S4qumXruetlOS4uuWtkOiKgu+8iOecn+W1jOWll++8ie+8m+esrDHpl67nmoTljLrpl7Tku47nrKw0NeihjOeahOWwj+agh+mimOihjOi1t+eul++8iOW8leaWhyBwdC04MmVmMDkzNmI4IOS7peOAjOS4ieOAgeKApuW4uOingemXrumimDEu5LiN5Y+K5pe26L2s5o6l44CN6LW35aS077yJ44CCIiwKICAgICLjgIzkuozjgIHigKbovazmjqXmtYHnqIvjgI3oioLvvIgxOOKAlDQ06KGM77yJ5YaFIDEu4oCUOC4g5YWr5q2l5Zui57uE57uH6L2s5o6l5rWB56iL5Y+K44CM5rOo5oSP44CN5q616JC95pyq5Y2V5YiX5a2Q6IqC77ya5aSa5p2h5p2h55uu55qE5byV5paH5Lul44CM5LqM44CBMjAyM+W5tOS4reWbveS8oOWqkuWkp+WtpuWFmuWboue7hOe7h+WFs+ezu+i9rOaOpea1geeoizEu5ZCE5L2N5paw55Sf5Zui5ZGY4oCm44CN6LW35aS077yI6Leo5bCP6IqC5qCH6aKY6KGM5LiO5q2l6aqk6KGM77yJ77yM6Iul5oyJ5q2l6aqk5ouG6IqC5Lya6YCg5oiQ5byV5paH6Leo6IqC77yM5pWF5oyJ5pW06IqC6JC954K544CCIiwKICAgICJpdGVtcy5qc29uIOmHjOWkmuaVsOadoeebrueahOagh+mimOaYr+aKiuOAjOaJgOWcqOWwj+iKguWQje+8j+S4iuS4gOihjO+8i++9nO+8i+W8leaWh+OAjeaLvOi1t+adpeeahO+8iOWmguOAjOS4ieOAgeKApuW4uOingemXru+9nOKRoeW9seWTjeacquadpeWFpeWFmu+8m+OAje+8ie+8jOi/meexu+aLvOaOpeagh+mimOS4jeWPr+S/oe+8jOacrOiKguS4gOW+i+aMiSBxdW90ZSDlrZfmrrXlrprkvY3vvJtxdW90ZSDlnYfkuLrnuq/ljp/mloflj6XvvIzpgJDmnaHpg73og73lnKjmnKzmlofkuK3mib7liLDjgIIiLAogICAgIuWFqOaWhyA0OSDmnaHmnaHnm67vvIjlkKsgMSDmnaHmlofmoaPnuqfvvInlnYfmjInlhoXlrrnokL3liLDoioLlhoXvvJvmraPmlofoh7PnrKw5MOihjOOAjOKApumDveaYr+iDveWkn+i9rOaOpeaIkOWKn+eahOOAguOAjee7k+adn++8jOaXoOaIquaWreOAgiIKICBdCn0K
+{
+  "key": "da6bcf3c",
+  "title": "中国传媒大学2023年党团组织关系转接指南",
+  "truncated": false,
+  "sections": [
+    {
+      "no": "—",
+      "heading": "中国传媒大学2023年党团组织关系转接指南",
+      "heading_kind": "author",
+      "lines": [1, 6],
+      "items": ["rule-da6bcf3c", "pt-2dfd7af31c", "pt-ea3d526b8c"],
+      "chars": 140
+    },
+    {
+      "no": "一、",
+      "heading": "一、党团组织关系转移是什么？",
+      "heading_kind": "author",
+      "lines": [7, 17],
+      "items": ["pt-0863c5a8d5", "pt-77b3caab34", "pt-6a8d58528d", "pt-221ba92009", "pt-c5ce41da40"],
+      "chars": 316
+    },
+    {
+      "no": "二、",
+      "heading": "二、2023年中国传媒大学党团组织关系转接流程",
+      "heading_kind": "author",
+      "lines": [18, 44],
+      "items": ["pt-3a577f90ec", "pt-98bfd2eb68", "pt-931a3603f2", "pt-e3a3705784", "pt-4825268e16", "pt-e80f3462d0", "pt-6e9ab2b525", "pt-d74002f920", "pt-4e25e35eba", "pt-d2201f6830", "pt-87f389e65c", "pt-e5a8cdef9a", "pt-0f146e5d25", "pt-25c3e41f5b", "pt-d06068d352"],
+      "chars": 775
+    },
+    {
+      "no": "三、",
+      "heading": "三、中国传媒大学2023年党团组织关系转接常见问题",
+      "heading_kind": "author",
+      "lines": [45, 90],
+      "items": [],
+      "chars": 1194
+    },
+    {
+      "no": "问1",
+      "heading": "1.不及时转接，会有什么后果？",
+      "heading_kind": "author",
+      "lines": [45, 51],
+      "items": ["pt-82ef0936b8", "pt-307f53c584", "pt-8bd9fa7c28", "pt-bc5b8948c0", "pt-0d19b18341", "pt-9c944773bc"],
+      "chars": 102
+    },
+    {
+      "no": "问2",
+      "heading": "2.纸质团籍材料应包含哪些？如果缺失了怎么办？",
+      "heading_kind": "author",
+      "lines": [52, 59],
+      "items": ["pt-7a25983f99", "pt-449166e99b", "pt-bb5547ed99", "pt-5f489b9cbb", "pt-d2b86eb910", "pt-49db6ff9d7"],
+      "chars": 217
+    },
+    {
+      "no": "问3",
+      "heading": "3.如何找回密码",
+      "heading_kind": "author",
+      "lines": [60, 65],
+      "items": ["pt-d23e8d6169", "pt-454431f1af", "pt-a8385c7052"],
+      "chars": 148
+    },
+    {
+      "no": "问4",
+      "heading": "4.发起组织转接，找不到要转入组织？",
+      "heading_kind": "author",
+      "lines": [66, 70],
+      "items": ["pt-6c422be494", "pt-80dcb35b74", "pt-fd562cf865"],
+      "chars": 128
+    },
+    {
+      "no": "问5",
+      "heading": "5.怎样才算完成了团组织关系转接呢？",
+      "heading_kind": "author",
+      "lines": [71, 74],
+      "items": ["pt-a6ed6a8045", "pt-24bc0c8a19"],
+      "chars": 124
+    },
+    {
+      "no": "问6",
+      "heading": "6.跨省党组织关系转移，要注意哪些问题？",
+      "heading_kind": "author",
+      "lines": [75, 80],
+      "items": ["pt-faabef25dd", "pt-35f6029ccb"],
+      "chars": 176
+    },
+    {
+      "no": "问7",
+      "heading": "7.党员组织关系介绍有效期是多久，逾期未办理好组织关系转移手续怎么办？",
+      "heading_kind": "author",
+      "lines": [81, 84],
+      "items": ["pt-dccdea498e", "pt-6c07d21720"],
+      "chars": 120
+    },
+    {
+      "no": "问8",
+      "heading": "8.怎么查询党员组织关系转接是否成功？",
+      "heading_kind": "author",
+      "lines": [85, 90],
+      "items": ["pt-f8674de9f7", "pt-908717da5e"],
+      "chars": 179
+    }
+  ],
+  "items": ["rule-da6bcf3c", "pt-0863c5a8d5", "pt-77b3caab34", "pt-6a8d58528d", "pt-98bfd2eb68", "pt-931a3603f2", "pt-e3a3705784", "pt-6e9ab2b525", "pt-4e25e35eba", "pt-d2201f6830", "pt-87f389e65c", "pt-e5a8cdef9a", "pt-25c3e41f5b", "pt-307f53c584", "pt-0d19b18341", "pt-449166e99b", "pt-bb5547ed99", "pt-5f489b9cbb", "pt-d2b86eb910", "pt-49db6ff9d7", "pt-d23e8d6169", "pt-454431f1af", "pt-a8385c7052", "pt-24bc0c8a19", "pt-35f6029ccb", "pt-6c07d21720", "pt-908717da5e", "pt-2dfd7af31c", "pt-ea3d526b8c", "pt-221ba92009", "pt-c5ce41da40", "pt-3a577f90ec", "pt-d06068d352", "pt-4825268e16", "pt-e80f3462d0", "pt-d74002f920", "pt-0f146e5d25", "pt-82ef0936b8", "pt-8bd9fa7c28", "pt-bc5b8948c0", "pt-9c944773bc", "pt-7a25983f99", "pt-6c422be494", "pt-80dcb35b74", "pt-fd562cf865", "pt-a6ed6a8045", "pt-faabef25dd", "pt-dccdea498e", "pt-f8674de9f7"],
+  "notes": [
+    "rule-da6bcf3c 是文档级条目（标题≈文档名），无引文，按约定列进文档级 items 并落在第一节（标题与导语）。",
+    "原文是党委学生工作部网站「专栏」文章：第1行标题、第2行日期、第3行栏目名「专栏」、第4—6行导语（含「各位中国传媒大学2023级萌新…」），第7行起为「一、」「二、」「三、」三个一级小标题，均标 author。",
+    "第45—90行「三、…常见问题」下含 1.—8. 共八个问答，父节（三、）区间=整节范围、本身不挂条目，八个问答为子节（真嵌套）；第1问的区间从第45行的小标题行起算（引文 pt-82ef0936b8 以「三、…常见问题1.不及时转接」起头）。",
+    "「二、…转接流程」节（18—44行）内 1.—8. 八步团组织转接流程及「注意」段落未单列子节：多条条目的引文以「二、2023年中国传媒大学党团组织关系转接流程1.各位新生团员…」起头（跨小节标题行与步骤行），若按步骤拆节会造成引文跨节，故按整节落点。",
+    "items.json 里多数条目的标题是把「所在小节名／上一行＋｜＋引文」拼起来的（如「三、…常见问｜②影响未来入党；」），这类拼接标题不可信，本节一律按 quote 字段定位；quote 均为纯原文句，逐条都能在本文中找到。",
+    "全文 49 条条目（含 1 条文档级）均按内容落到节内；正文至第90行「…都是能够转接成功的。」结束，无截断。"
+  ]
+}

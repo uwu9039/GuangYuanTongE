@@ -1,1 +1,104 @@
-IiIi6K+B5o2u5qCh6aqM77yaaXRlbXMuanNvbiDph4zmr4/mnaHkuovlrp7vvIzpg73lv4Xpobvog73lnKggc291cmNlcy8g55qE5a6Y5pa55q2j5paH6YeM5om+5Yiw5Y6f5Y+l44CCDQoNCuinhOWImQ0KICAxLiDpnIDopoHor4Hmja7nmoTlrZfmrrXvvJpmZWUgLyBsb2NhdGlvbiAvIGhvdXJzIC8gZHVyYXRpb24gLyB3aW5kb3fvvIjpnZ7nqbrml7bvvInjgIENCiAgICAgbWF0ZXJpYWxzW2ldLm5hbWXjgIFzdGVwc1tpXS53aGF044CBcGl0ZmFsbHNbaV0NCiAgMi4g5q+P5Liq5a2X5q615ZyoIGV2aWRlbmNlIOmHjOW/hemhu+aciSBxdW90Ze+8jOS4lCBxdW90ZSDmmK8gc291cmNlcy88c3JjPi50eHQg55qE5a2Q5LiyDQogIDMuIHNvdXJjZS10aGluIOeahOadoeebruWFgeiuuCBzdGVwcy9tYXRlcmlhbHMg5Li656m677yM5L2G5YaZ5LqG5bCx5b+F6aG75pyJ6K+B5o2uDQoNCueUqOazle+8mnB5dGhvbiB0b29scy9jaGVja19xdW90ZXMucHkgICAg5aSx6LSl5pe26YCA5Ye656CBIDENCiIiIg0KZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucw0KDQppbXBvcnQganNvbg0KaW1wb3J0IHJlDQppbXBvcnQgc3lzDQpmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgNCg0KUk9PVCA9IFBhdGgoX19maWxlX18pLnJlc29sdmUoKS5wYXJlbnQucGFyZW50DQpTUkMgPSBST09UIC8gInNvdXJjZXMiDQoNCg0KZGVmIHNxdWFzaChzOiBzdHIpIC0+IHN0cjoNCiAgICAiIiLljrvmjonmiYDmnInnqbrnmb3vvIzpgb/lhY3mjaLooYwv57yp6L+b5a+86Ie06K+v5Yik44CCIiIiDQogICAgcmV0dXJuIHJlLnN1YihyIlxzKyIsICIiLCBzIG9yICIiKQ0KDQoNCmRlZiBldl9saXN0KGV2OiBkaWN0KSAtPiBsaXN0W2RpY3RdOg0KICAgICIiIuS4gOadoeS6i+WunuWPr+S7peaMguWkmuS4quWumOaWueadpea6kO+8iOWkmuenjeivtOazle+8ieOAgiIiIg0KICAgIGlmIG5vdCBldjoNCiAgICAgICAgcmV0dXJuIFtdDQogICAgaWYgInNvdXJjZXMiIGluIGV2Og0KICAgICAgICByZXR1cm4gZXZbInNvdXJjZXMiXQ0KICAgIHJldHVybiBbZXZdDQoNCg0KZGVmIG5lZWRlZF9maWVsZHMoaXRlbTogZGljdCkgLT4gbGlzdFtzdHJdOg0KICAgIGtleXMgPSBbayBmb3IgayBpbiAoImZlZSIsICJsb2NhdGlvbiIsICJob3VycyIsICJkdXJhdGlvbiIsICJ3aW5kb3ciKSBpZiBpdGVtLmdldChrKV0NCiAgICBpZiBpdGVtLmdldCgiYW5zd2VyIik6DQogICAgICAgIGtleXMuYXBwZW5kKCJhbnN3ZXIiKQ0KICAgIGtleXMgKz0gW2YibWF0ZXJpYWxzLntpfSIgZm9yIGkgaW4gcmFuZ2UobGVuKGl0ZW0uZ2V0KCJtYXRlcmlhbHMiKSBvciBbXSkpXQ0KICAgIGtleXMgKz0gW2Yic3RlcHMue2l9IiBmb3IgaSBpbiByYW5nZShsZW4oaXRlbS5nZXQoInN0ZXBzIikgb3IgW10pKV0NCiAgICBrZXlzICs9IFtmInBpdGZhbGxzLntpfSIgZm9yIGkgaW4gcmFuZ2UobGVuKGl0ZW0uZ2V0KCJwaXRmYWxscyIpIG9yIFtdKSldDQogICAgcmV0dXJuIGtleXMNCg0KDQpkZWYgbWFpbigpIC0+IE5vbmU6DQogICAgZGF0YSA9IGpzb24ubG9hZHMoKFJPT1QgLyAiaXRlbXMuanNvbiIpLnJlYWRfdGV4dChlbmNvZGluZz0idXRmLTgiKSkNCiAgICBpbmRleCA9IGpzb24ubG9hZHMoKFNSQyAvICJpbmRleC5qc29uIikucmVhZF90ZXh0KGVuY29kaW5nPSJ1dGYtOCIpKQ0KICAgIHRleHRzID0ge3NsdWc6IHNxdWFzaCgoU1JDIC8gZiJ7c2x1Z30udHh0IikucmVhZF90ZXh0KGVuY29kaW5nPSJ1dGYtOCIpKSBmb3Igc2x1ZyBpbiBpbmRleH0NCiAgICBmb3IgZiBpbiBTUkMuZ2xvYigiKi50eHQiKTogICAgICAgICAgICAgICAgICAgICAjIOagueebruW9leato+aWh++8iGluZGV4Lmpzb24g5pyq5pS25b2V55qE5Lmf6K6k77yJDQogICAgICAgIHRleHRzLnNldGRlZmF1bHQoZi5zdGVtLCBzcXVhc2goZi5yZWFkX3RleHQoZW5jb2Rpbmc9InV0Zi04IikpKQ0KICAgIGZvciBzdWIgaW4gKCJ3ZWNoYXQiLCAiY3Jhd2wiLCAiY2RwIiwgInBkZiIsICJjaHNpIiwgIm1vZSIsICJuYXRpb25hbCIsICJleHRyYSIsICJodWliaWFuIiwgImxvY2FsIiwgIndlbmRhby1leHRyYSIsICJ3ZW5kYW8tdGV4dCIsICJhdHRhY2htZW50cyIsICJhdHRhY2htZW50cy90ZXh0IiwgImlsaWIiLCAiaWxpYi10ZXh0IiwgImlsaWItbGlzdC10ZXh0Iik6DQogICAgICAgIGZvciBmIGluIChTUkMgLyBzdWIpLmdsb2IoIioudHh0Iik6DQogICAgICAgICAgICB0ZXh0cy5zZXRkZWZhdWx0KGYuc3RlbSwgc3F1YXNoKGYucmVhZF90ZXh0KGVuY29kaW5nPSJ1dGYtOCIpKSkNCg0KICAgIGZhaWxzOiBsaXN0W3N0cl0gPSBbXQ0KICAgIHRvdGFsID0gb2sgPSAwDQoNCiAgICBmb3IgaXRlbSBpbiBkYXRhWyJpdGVtcyJdOg0KICAgICAgICBldmlkZW5jZSA9IGl0ZW0uZ2V0KCJldmlkZW5jZSIpIG9yIHt9DQogICAgICAgIGZvciBmaWVsZCBpbiBuZWVkZWRfZmllbGRzKGl0ZW0pOg0KICAgICAgICAgICAgdG90YWwgKz0gMQ0KICAgICAgICAgICAgZXYgPSBldmlkZW5jZS5nZXQoZmllbGQpDQogICAgICAgICAgICBpZiBub3QgZXY6DQogICAgICAgICAgICAgICAgZmFpbHMuYXBwZW5kKGYie2l0ZW1bJ2lkJ106PDE2fSB7ZmllbGQ6PDEyfSDnvLror4Hmja4iKQ0KICAgICAgICAgICAgICAgIGNvbnRpbnVlDQogICAgICAgICAgICBzcmNzID0gZXZfbGlzdChldikNCiAgICAgICAgICAgIGlmIG5vdCBzcmNzOg0KICAgICAgICAgICAgICAgIGZhaWxzLmFwcGVuZChmIntpdGVtWydpZCddOjwxNn0ge2ZpZWxkOjwxMn0g57y66K+B5o2uIikNCiAgICAgICAgICAgICAgICBjb250aW51ZQ0KICAgICAgICAgICAgYmFkID0gRmFsc2UNCiAgICAgICAgICAgIGZvciBvbmUgaW4gc3JjczoNCiAgICAgICAgICAgICAgICBzcmMgPSBvbmUuZ2V0KCJzcmMiLCAiIikNCiAgICAgICAgICAgICAgICBxdW90ZSA9IHNxdWFzaChvbmUuZ2V0KCJxdW90ZSIsICIiKSkNCiAgICAgICAgICAgICAgICBpZiBzcmMgbm90IGluIHRleHRzOg0KICAgICAgICAgICAgICAgICAgICBmYWlscy5hcHBlbmQoZiJ7aXRlbVsnaWQnXTo8MTZ9IHtmaWVsZDo8MTJ9IOadpea6kOS4jeWtmOWcqDoge3NyY30iKQ0KICAgICAgICAgICAgICAgICAgICBiYWQgPSBUcnVlDQogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlDQogICAgICAgICAgICAgICAgaWYgbm90IHF1b3RlOg0KICAgICAgICAgICAgICAgICAgICBmYWlscy5hcHBlbmQoZiJ7aXRlbVsnaWQnXTo8MTZ9IHtmaWVsZDo8MTJ9IHF1b3RlIOS4uuepuiIpDQogICAgICAgICAgICAgICAgICAgIGJhZCA9IFRydWUNCiAgICAgICAgICAgICAgICAgICAgY29udGludWUNCiAgICAgICAgICAgICAgICBpZiBxdW90ZSBub3QgaW4gdGV4dHNbc3JjXToNCiAgICAgICAgICAgICAgICAgICAgZmFpbHMuYXBwZW5kKGYie2l0ZW1bJ2lkJ106PDE2fSB7ZmllbGQ6PDEyfSDljp/mlofmib7kuI3liLDvvJp7b25lWydxdW90ZSddWzo0MF19IikNCiAgICAgICAgICAgICAgICAgICAgYmFkID0gVHJ1ZQ0KICAgICAgICAgICAgaWYgbm90IGJhZDoNCiAgICAgICAgICAgICAgICBvayArPSAxDQoNCiAgICBwcmludChmIuS6i+WunuWtl+autSB7dG90YWx9IOS4qu+8jOWPr+i/vea6r+WIsOWOn+aWhyB7b2t9IOS4qu+8jOWksei0pSB7bGVuKGZhaWxzKX0g5LiqIikNCiAgICBpZiBmYWlsczoNCiAgICAgICAgcHJpbnQoIlxu5aSx6LSl5riF5Y2V77yaIikNCiAgICAgICAgZm9yIGYgaW4gZmFpbHM6DQogICAgICAgICAgICBwcmludCgiICDinJciLCBmKQ0KICAgICAgICBzeXMuZXhpdCgxKQ0KDQogICAga2luZHMgPSB7fQ0KICAgIGZvciBpdGVtIGluIGRhdGFbIml0ZW1zIl06DQogICAgICAgIGtpbmRzW2l0ZW0uZ2V0KCJzdGF0dXMiLCAiPyIpXSA9IGtpbmRzLmdldChpdGVtLmdldCgic3RhdHVzIiwgIj8iKSwgMCkgKyAxDQogICAgcHJpbnQoIuadoeebrueKtuaAgeWIhuW4g++8miIsICLvvIwiLmpvaW4oZiJ7a30ge3Z9IOadoSIgZm9yIGssIHYgaW4gc29ydGVkKGtpbmRzLml0ZW1zKCkpKSkNCiAgICBwcmludCgi4pyFIOWFqOmDqOS6i+WunuWdh+WPr+i/vea6r+WIsCBzb3VyY2VzLyDkuK3nmoTlrpjmlrnmraPmlociKQ0KDQoNCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6DQogICAgbWFpbigpDQo=
+"""证据校验：items.json 里每条事实，都必须能在 sources/ 的官方正文里找到原句。
+
+规则
+  1. 需要证据的字段：fee / location / hours / duration / window（非空时）、
+     materials[i].name、steps[i].what、pitfalls[i]
+  2. 每个字段在 evidence 里必须有 quote，且 quote 是 sources/<src>.txt 的子串
+  3. source-thin 的条目允许 steps/materials 为空，但写了就必须有证据
+
+用法：python tools/check_quotes.py    失败时退出码 1
+"""
+from __future__ import annotations
+
+import json
+import re
+import sys
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+SRC = ROOT / "sources"
+
+
+def squash(s: str) -> str:
+    """去掉所有空白，避免换行/缩进导致误判。"""
+    return re.sub(r"\s+", "", s or "")
+
+
+def ev_list(ev: dict) -> list[dict]:
+    """一条事实可以挂多个官方来源（多种说法）。"""
+    if not ev:
+        return []
+    if "sources" in ev:
+        return ev["sources"]
+    return [ev]
+
+
+def needed_fields(item: dict) -> list[str]:
+    keys = [k for k in ("fee", "location", "hours", "duration", "window") if item.get(k)]
+    if item.get("answer"):
+        keys.append("answer")
+    keys += [f"materials.{i}" for i in range(len(item.get("materials") or []))]
+    keys += [f"steps.{i}" for i in range(len(item.get("steps") or []))]
+    keys += [f"pitfalls.{i}" for i in range(len(item.get("pitfalls") or []))]
+    return keys
+
+
+def main() -> None:
+    data = json.loads((ROOT / "items.json").read_text(encoding="utf-8"))
+    index = json.loads((SRC / "index.json").read_text(encoding="utf-8"))
+    texts = {slug: squash((SRC / f"{slug}.txt").read_text(encoding="utf-8")) for slug in index}
+    for f in SRC.glob("*.txt"):                     # 根目录正文（index.json 未收录的也认）
+        texts.setdefault(f.stem, squash(f.read_text(encoding="utf-8")))
+    for sub in ("wechat", "crawl", "cdp", "pdf", "chsi", "moe", "national", "extra", "huibian", "local", "wendao-extra", "wendao-text", "attachments", "attachments/text", "ilib", "ilib-text", "ilib-list-text"):
+        for f in (SRC / sub).glob("*.txt"):
+            texts.setdefault(f.stem, squash(f.read_text(encoding="utf-8")))
+
+    fails: list[str] = []
+    total = ok = 0
+
+    for item in data["items"]:
+        evidence = item.get("evidence") or {}
+        for field in needed_fields(item):
+            total += 1
+            ev = evidence.get(field)
+            if not ev:
+                fails.append(f"{item['id']:<16} {field:<12} 缺证据")
+                continue
+            srcs = ev_list(ev)
+            if not srcs:
+                fails.append(f"{item['id']:<16} {field:<12} 缺证据")
+                continue
+            bad = False
+            for one in srcs:
+                src = one.get("src", "")
+                quote = squash(one.get("quote", ""))
+                if src not in texts:
+                    fails.append(f"{item['id']:<16} {field:<12} 来源不存在: {src}")
+                    bad = True
+                    continue
+                if not quote:
+                    fails.append(f"{item['id']:<16} {field:<12} quote 为空")
+                    bad = True
+                    continue
+                if quote not in texts[src]:
+                    fails.append(f"{item['id']:<16} {field:<12} 原文找不到：{one['quote'][:40]}")
+                    bad = True
+            if not bad:
+                ok += 1
+
+    print(f"事实字段 {total} 个，可追溯到原文 {ok} 个，失败 {len(fails)} 个")
+    if fails:
+        print("\n失败清单：")
+        for f in fails:
+            print("  ✗", f)
+        sys.exit(1)
+
+    kinds = {}
+    for item in data["items"]:
+        kinds[item.get("status", "?")] = kinds.get(item.get("status", "?"), 0) + 1
+    print("条目状态分布：", "，".join(f"{k} {v} 条" for k, v in sorted(kinds.items())))
+    print("✅ 全部事实均可追溯到 sources/ 中的官方正文")
+
+
+if __name__ == "__main__":
+    main()

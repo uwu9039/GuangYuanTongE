@@ -1,1 +1,106 @@
-ewogImtleSI6ICIyMDIxMTEyNS1jNjM2NmExODkyNjciLAogInRpdGxlIjogIuacrOenkeeUn+WPr+S/oeeUteWtkOaIkOe7qeWNleezu+e7n+S9v+eUqOivtOaYjiIsCiAidHJ1bmNhdGVkIjogZmFsc2UsCiAic2VjdGlvbnMiOiBbCiAgewogICAibm8iOiAi6aG16Z2i5qGG5p62IiwKICAgImhlYWRpbmciOiAi5pWZ5Yqh5aSE56uZ54K56I+c5Y2V5LiO44CM5b2T5YmN5L2N572u44CN6Z2i5YyF5bGRIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzEsIDU1XSwKICAgIml0ZW1zIjogW10sCiAgICJjaGFycyI6IDMzOQogIH0sCiAgewogICAibm8iOiAi5qCH6aKYIiwKICAgImhlYWRpbmciOiAi5pys56eR55Sf5Y+v5L+h55S15a2Q5oiQ57up5Y2V57O757uf5L2/55So6K+05piOIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbNTYsIDU3XSwKICAgIml0ZW1zIjogWyJwdC1kMDBmMWRmZDU0Il0sCiAgICJjaGFycyI6IDQ4CiAgfSwKICB7CiAgICJubyI6ICLkuIDjgIEiLAogICAiaGVhZGluZyI6ICLovpPlhaXnvZHlnYDkuI7nmbvlvZXnlLXlrZDlh63or4Hpobnnm64iLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbNTgsIDYwXSwKICAgIml0ZW1zIjogWyJwdC02ZGVmYzgyNDIwIl0sCiAgICJjaGFycyI6IDE2MQogIH0sCiAgewogICAibm8iOiAi5LiJ44CBIiwKICAgImhlYWRpbmciOiAi55S15a2Q5oiQ57up5Y2V5Zyo57q/55Sz6K+35q2l6aqkIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbNjEsIDc1XSwKICAgIml0ZW1zIjogWyJwdC04YzE3MWQyYzFmIl0sCiAgICJjaGFycyI6IDEyNDQKICB9LAogIHsKICAgIm5vIjogIuS4ieOAgTEiLAogICAiaGVhZGluZyI6ICLlnKjjgIzpgq7ku7bnrqHnkIbjgI3kuK3mt7vliqDmjqXmlLbpgq7nrrEiLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbNjIsIDY0XSwKICAgIml0ZW1zIjogWyJwdC0wNGI5MTc4NTJlIl0sCiAgICJjaGFycyI6IDI1OQogIH0sCiAgewogICAibm8iOiAi5LiJ44CBMiIsCiAgICJoZWFkaW5nIjogIuWcqOOAjOacjeWKoeeUs+ivt+OAjeS4remAieaLqeacjeWKoeexu+Wei+W5tuWQjOaEj+eUn+aIkOWHreivgSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFs2NSwgNjddLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogMjg1CiAgfSwKICB7CiAgICJubyI6ICLkuInjgIEzIiwKICAgImhlYWRpbmciOiAi5Yu+6YCJ6YKu566x5o+Q5Lqk6K6i5Y2V5bm256Gu6K6kIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzY4LCA3MF0sCiAgICJpdGVtcyI6IFtdLAogICAiY2hhcnMiOiAyNTcKICB9LAogIHsKICAgIm5vIjogIuS4ieOAgTQiLAogICAiaGVhZGluZyI6ICLot7PovazmoKHlm63nu5/kuIDmlK/ku5jlubPlj7DlnKjnur/mlK/ku5giLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbNzEsIDcyXSwKICAgIml0ZW1zIjogWyJwdC01OGMwMjU1NWExIl0sCiAgICJjaGFycyI6IDE1MQogIH0sCiAgewogICAibm8iOiAi5LiJ44CBNSIsCiAgICJoZWFkaW5nIjogIuWcqOOAjOaIkeeahOiuouWNleOAjeafpeeci+WkhOeQhui/m+W6puW5tueZu+W9lemCrueuseWPluS7tiIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFs3MywgNzVdLAogICAiaXRlbXMiOiBbInB0LTlhYWM1YzQ1NjAiXSwKICAgImNoYXJzIjogMjc5CiAgfSwKICB7CiAgICJubyI6ICLlm5vjgIEiLAogICAiaGVhZGluZyI6ICLmlZnogrLpg6jlrabkv6HnvZHnlLXlrZDmiJDnu6nljZXpqozor4HmtYHnqIsiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs3NiwgODFdLAogICAiaXRlbXMiOiBbInB0LTMxM2Y1MjM2NjEiLCAicHQtMmExYzUxNTc3MyIsICJwdC01MjVhY2Y1ZjNiIl0sCiAgICJjaGFycyI6IDMzNgogIH0sCiAgewogICAibm8iOiAi6aG16ISaIiwKICAgImhlYWRpbmciOiAi5pWZ5Yqh5aSE54mI5p2D5LiO5aSH5qGI5L+h5oGvIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzgyLCA4M10sCiAgICJpdGVtcyI6IFtdLAogICAiY2hhcnMiOiAxMDYKICB9CiBdLAogIml0ZW1zIjogWyJwdC1kMDBmMWRmZDU0IiwgInB0LTZkZWZjODI0MjAiLCAicHQtOGMxNzFkMmMxZiIsICJwdC0wNGI5MTc4NTJlIiwgInB0LTU4YzAyNTU1YTEiLCAicHQtOWFhYzVjNDU2MCIsICJwdC0zMTNmNTIzNjYxIiwgInB0LTJhMWM1MTU3NzMiLCAicHQtNTI1YWNmNWYzYiJdLAogIm5vdGVzIjogWwogICLnvZHpobXmir3lj5bvvJrnrKwgMSDooYzmmK/mtY/op4jlmajmoIfpopjvvIznrKwgMuKAkzUzIOihjOaYr+aVmeWKoeWkhOermeeCueiPnOWNlemAkOadoeaKveWHuu+8iOOAjOiPnOWNle+8j+mTvuaOpe+8j+aQnOe0ouOAjeS4ieS4quagh+etvuS4i+aMguedgOWtpueUn+OAgeaVmeW4iOOAgeiuv+WuouS4ieWdl+WvvOiIqu+8jOWQq+OAjOW4uOeUqOS4muWKoeW5s+WPsOOAjeOAjOaUv+etluaWh+S7tuOAjeOAjOaOqOWFjeS4k+WMuuOAjeOAjOWunui3teaVmeWtpuOAjeOAjOmAmuivhuaVmeiCsuOAjeetieS6jOe6p+mhue+8jOWFtuS4reOAjOaUv+etluaWh+S7tuOAjeOAjOavleS4muiuuuaWh++8iOiuvuiuoeOAgeWIm+S9nOKApuOAjeWQhOmHjeWkjeS4gOasoe+8ie+8jOesrCA1NCDooYzmmK/moI/nm67phY3lm77ljaDkvY3vvIznrKwgNTUg6KGM5piv44CM5b2T5YmN5L2N572u77ya6aaW6aG1IOS/oeaBr+S4i+i9veOAjemdouWMheWxke+8jOWFqOmDqOW5tuWFpeOAjOmhtemdouahhuaetuOAjeS4gOiKguOAgiIsCiAgIuesrCA1NiDooYzph43lpI3mraPmlofmoIfpopjjgIHnrKwgNTcg6KGM5piv44CM5Y+R5biD6ICF77ya6Z+p5a6H6aOe5Y+R5biD5pe26Ze077yaMjAyMS0xMS0yNea1j+iniOasoeaVsO+8mjIyNzYy44CN77yM5LiO5qCH6aKY5ZCI5bm25Li644CM5qCH6aKY44CN5LiA6IqC77yI5Y+R5biD6ICF44CB5Y+R5biD5pe26Ze044CB5rWP6KeI5qyh5pWw5LiJ5YC86L+e5YaZ77yM5Lit6Ze05peg5YiG6ZqU56ym77yM5oyJ5Y6f5paH5L+d55WZ77yJ44CCIiwKICAi5Y6f5paH5LiA57qn5Y+q5pyJ44CM5LiA44CB44CN44CM5LiJ44CB44CN44CM5Zub44CB44CN5LiJ5Liq57yW5Y+377yMKirmsqHmnInjgIzkuozjgIHjgI3moIfpopjooYwqKu+8muesrCA1OSDooYzjgIzkuozjgIHngrnlh7vnmbvlvZXjgI3mmK/lpLnlnKjkuIDjgIHmraXpqqTph4znmoTliqjkvZzlj6XvvIzlhbbkuIvnrKwgNjAg6KGM5piv6K+l5q2l6aqk55qE5oiq5Zu+5Y2g5L2N77yM5Zug5q2k5oqKIDU44oCTNjAg5ZCI5Li644CM5LiA44CB44CN5LiA6IqC77yI5ZCr44CM5LqM44CB54K55Ye755m75b2V44CN5LiO5YW25oiq5Zu+77yJ77yM6IqC5Y+35LuN6K6w44CM5LiA44CB44CN44CCIiwKICAi56ysIDYxIOihjOOAjOS4ieOAgeeUteWtkOaIkOe7qeWNleWcqOe6v+eUs+ivt+atpemqpOOAjeaYr+eItuiKguaAu+agh+mimO+8jOWFtuS4iyAx4oCTNSDkupTkuKrmraXpqqTlkITmiJDlrZDoioLvvIzkuI7niLboioLkuLrnnJ/ltYzlpZfvvJvmr4/kuKrmraXpqqTljaDkuIDooYzmraPmlofvvIzlhbblkI7ntKfot58gMeKAkzIg6KGM5oiq5Zu+5Y2g5L2N77yI56ysIDYz4oCTNjTjgIE2NuKAkzY344CBNjnigJM3MOOAgTcy44CBNzTigJM3NSDooYzvvInvvIzmjInlvZLlsZ7nlZnlnKjlr7nlupTlrZDoioLlhoXjgIIiLAogICJwdC04YzE3MWQyYzFmIOeahOW8leaWh+aYr+OAjOS4ieOAgeeUteWtkOaIkOe7qeWNleWcqOe6v+eUs+ivt+atpemqpDHjgIHov5vlhaXns7vnu5/lkI7igKbjgI3vvIzot6jnrKwgNjEg6KGM5qCH6aKY5LiO56ysIDYyIOihjOato+aWh++8jOWPquiQveWcqOeItuiKguOAjOS4ieOAgeOAje+8iDYx4oCTNzXvvInku6XlhoXvvIzmlYXliJflnKjniLboioLvvJtwdC0wNGI5MTc4NTJlIOWPquaMh+esrCA2MiDooYzvvIzliJflnKggMSDlrZDoioLjgIIiLAogICLnrKwgNzbigJM4MSDooYzkuLrjgIzlm5vjgIHjgI3vvJrnrKwgNzYg6KGM5qCH6aKY44CB56ysIDc3IOihjOmqjOivgeivtOaYjuS4juOAjDHjgIHngrnlh7vkuIvmlrnnvZHlnYDjgI3jgIHnrKwgNzgg6KGM5a2m5L+h572R6aqM6K+B5YWl5Y+jIFVSTO+8iOWNleeLrOWNoOS4gOihjO+8jOacquaLhu+8ieOAgeesrCA3OSDooYzmiKrlm77ljaDkvY3jgIHnrKwgODAg6KGM44CMMuOAgeS4iuS8oOaIkOe7qeWNle+8jOeCueWHu+mqjOivgeOAjeOAgeesrCA4MSDooYzmiKrlm77ljaDkvY3jgIJwdC0zMTNmNTIzNjYxIOS4jiBwdC01MjVhY2Y1ZjNiIOeahOW8leaWh+mDvei3qCA3NuKAkzc3IOS4pOihjO+8jOaVheacrOiKguWIl+S4ieadoeadoeebruOAgiIsCiAgIuesrCA4MiDooYzkuLrmlZnliqHlpITniYjmnYPkuI7kuqxJQ1DvvI/kuqzlhaznvZHlronlpIflj7fvvIznrKwgODMg6KGM5Li66K6/6Zeu57uf6K6h5Y2g5L2N77yM5ZCI5bm25Li644CM6aG16ISa44CN5LiA6IqC44CCIiwKICAiOSDmnaHmnaHnm67nmoTlvJXmloflhajpg6jokL3lnKjmnKzmloflhoXvvIjml6Dot6jmlofku7blvJXnlKjvvInvvJvlhajmlofliLDnrKwgODEg6KGM44CMMuOAgeS4iuS8oOaIkOe7qeWNle+8jOeCueWHu+mqjOivge+8jOWHuueOsOWmguS4i+eVjOmdouWNs+S4uumqjOivgeaIkOWKn+OAguOAjee7k+adn++8jOacquingeWQjue7ree8luWPt++8iOOAjOS6lOOAgeOAjeWPiuS7peWQju+8ie+8jHRydW5jYXRlZD1mYWxzZeOAgiIKIF0KfQo=
+{
+ "key": "20211125-c6366a189267",
+ "title": "本科生可信电子成绩单系统使用说明",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "页面框架",
+   "heading": "教务处站点菜单与「当前位置」面包屑",
+   "heading_kind": "derived",
+   "lines": [1, 55],
+   "items": [],
+   "chars": 339
+  },
+  {
+   "no": "标题",
+   "heading": "本科生可信电子成绩单系统使用说明",
+   "heading_kind": "author",
+   "lines": [56, 57],
+   "items": ["pt-d00f1dfd54"],
+   "chars": 48
+  },
+  {
+   "no": "一、",
+   "heading": "输入网址与登录电子凭证项目",
+   "heading_kind": "derived",
+   "lines": [58, 60],
+   "items": ["pt-6defc82420"],
+   "chars": 161
+  },
+  {
+   "no": "三、",
+   "heading": "电子成绩单在线申请步骤",
+   "heading_kind": "author",
+   "lines": [61, 75],
+   "items": ["pt-8c171d2c1f"],
+   "chars": 1244
+  },
+  {
+   "no": "三、1",
+   "heading": "在「邮件管理」中添加接收邮箱",
+   "heading_kind": "derived",
+   "lines": [62, 64],
+   "items": ["pt-04b917852e"],
+   "chars": 259
+  },
+  {
+   "no": "三、2",
+   "heading": "在「服务申请」中选择服务类型并同意生成凭证",
+   "heading_kind": "derived",
+   "lines": [65, 67],
+   "items": [],
+   "chars": 285
+  },
+  {
+   "no": "三、3",
+   "heading": "勾选邮箱提交订单并确认",
+   "heading_kind": "derived",
+   "lines": [68, 70],
+   "items": [],
+   "chars": 257
+  },
+  {
+   "no": "三、4",
+   "heading": "跳转校园统一支付平台在线支付",
+   "heading_kind": "derived",
+   "lines": [71, 72],
+   "items": ["pt-58c02555a1"],
+   "chars": 151
+  },
+  {
+   "no": "三、5",
+   "heading": "在「我的订单」查看处理进度并登录邮箱取件",
+   "heading_kind": "derived",
+   "lines": [73, 75],
+   "items": ["pt-9aac5c4560"],
+   "chars": 279
+  },
+  {
+   "no": "四、",
+   "heading": "教育部学信网电子成绩单验证流程",
+   "heading_kind": "author",
+   "lines": [76, 81],
+   "items": ["pt-313f523661", "pt-2a1c515773", "pt-525acf5f3b"],
+   "chars": 336
+  },
+  {
+   "no": "页脚",
+   "heading": "教务处版权与备案信息",
+   "heading_kind": "derived",
+   "lines": [82, 83],
+   "items": [],
+   "chars": 106
+  }
+ ],
+ "items": ["pt-d00f1dfd54", "pt-6defc82420", "pt-8c171d2c1f", "pt-04b917852e", "pt-58c02555a1", "pt-9aac5c4560", "pt-313f523661", "pt-2a1c515773", "pt-525acf5f3b"],
+ "notes": [
+  "网页抽取：第 1 行是浏览器标题，第 2–53 行是教务处站点菜单逐条抽出（「菜单／链接／搜索」三个标签下挂着学生、教师、访客三块导航，含「常用业务平台」「政策文件」「推免专区」「实践教学」「通识教育」等二级项，其中「政策文件」「毕业论文（设计、创作…」各重复一次），第 54 行是栏目配图占位，第 55 行是「当前位置：首页 信息下载」面包屑，全部并入「页面框架」一节。",
+  "第 56 行重复正文标题、第 57 行是「发布者：韩宇飞发布时间：2021-11-25浏览次数：22762」，与标题合并为「标题」一节（发布者、发布时间、浏览次数三值连写，中间无分隔符，按原文保留）。",
+  "原文一级只有「一、」「三、」「四、」三个编号，**没有「二、」标题行**：第 59 行「二、点击登录」是夹在一、步骤里的动作句，其下第 60 行是该步骤的截图占位，因此把 58–60 合为「一、」一节（含「二、点击登录」与其截图），节号仍记「一、」。",
+  "第 61 行「三、电子成绩单在线申请步骤」是父节总标题，其下 1–5 五个步骤各成子节，与父节为真嵌套；每个步骤占一行正文，其后紧跟 1–2 行截图占位（第 63–64、66–67、69–70、72、74–75 行），按归属留在对应子节内。",
+  "pt-8c171d2c1f 的引文是「三、电子成绩单在线申请步骤1、进入系统后…」，跨第 61 行标题与第 62 行正文，只落在父节「三、」（61–75）以内，故列在父节；pt-04b917852e 只指第 62 行，列在 1 子节。",
+  "第 76–81 行为「四、」：第 76 行标题、第 77 行验证说明与「1、点击下方网址」、第 78 行学信网验证入口 URL（单独占一行，未拆）、第 79 行截图占位、第 80 行「2、上传成绩单，点击验证」、第 81 行截图占位。pt-313f523661 与 pt-525acf5f3b 的引文都跨 76–77 两行，故本节列三条条目。",
+  "第 82 行为教务处版权与京ICP／京公网安备号，第 83 行为访问统计占位，合并为「页脚」一节。",
+  "9 条条目的引文全部落在本文内（无跨文件引用）；全文到第 81 行「2、上传成绩单，点击验证，出现如下界面即为验证成功。」结束，未见后续编号（「五、」及以后），truncated=false。"
+ ]
+}

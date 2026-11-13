@@ -1,1 +1,234 @@
-ew0KICJrZXkiOiAiYXR0LTcyMWFkZmY5YTYiLA0KICJ0aXRsZSI6ICLkuK3lm73kvKDlqpLlpKflrabkurrlt6Xmmbrog73kuI7pn7PkuZDnlpfmhIjlvq7kuJPkuJoyMDI25bm056eL5a2j5oub55Sf566A56ugIiwNCiAidHJ1bmNhdGVkIjogZmFsc2UsDQogInNlY3Rpb25zIjogWw0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuagh+mimO+8iOWtpuagoeOAgeW+ruS4k+S4muWQjeensOOAgTIwMjblubTnp4vlraPmi5vnlJ/nroDnq6DvvIkiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxLA0KICAgIDUNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWQ4NzUyYTYyZjgiDQogICBdLA0KICAgImNoYXJzIjogMjkNCiAgfSwNCiAgew0KICAgIm5vIjogIuS4gCIsDQogICAiaGVhZGluZyI6ICLlvq7kuJPkuJrku4vnu40iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDcsDQogICAgMjQNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWI5ZTE4ODA2ZDAiLA0KICAgICJwdC0zNjNjNDBkZDNhIg0KICAgXSwNCiAgICJjaGFycyI6IDQ4OA0KICB9LA0KICB7DQogICAibm8iOiAi5LqMIiwNCiAgICJoZWFkaW5nIjogIuWfueWFu+ebruaghyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMjYsDQogICAgMzINCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTdiZDIzOWVhMTUiDQogICBdLA0KICAgImNoYXJzIjogMTY3DQogIH0sDQogIHsNCiAgICJubyI6ICLkuIkiLA0KICAgImhlYWRpbmciOiAi5Z+55YW76KaB5rGCIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzNCwNCiAgICA0Mw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNTBlZGJmOTlhMCIsDQogICAgInB0LTM5ZjAxMTk1MzMiDQogICBdLA0KICAgImNoYXJzIjogMzEzDQogIH0sDQogIHsNCiAgICJubyI6ICLlm5siLA0KICAgImhlYWRpbmciOiAi5oub55Sf5a+56LGh5Y+K5p2h5Lu2IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA0NSwNCiAgICA0OA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtYWQxOWFjZTQ5YyINCiAgIF0sDQogICAiY2hhcnMiOiA2NQ0KICB9LA0KICB7DQogICAibm8iOiAi5LqUIiwNCiAgICJoZWFkaW5nIjogIuWtpuWItiIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNTAsDQogICAgNTENCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTk2MjcyZDA3ZGIiDQogICBdLA0KICAgImNoYXJzIjogMzcNCiAgfSwNCiAgew0KICAgIm5vIjogIuWFrSIsDQogICAiaGVhZGluZyI6ICLmjojor77mlrnlvI8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDUzLA0KICAgIDU1DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC03Y2YzZGQ2NTA5Ig0KICAgXSwNCiAgICJjaGFycyI6IDQyDQogIH0sDQogIHsNCiAgICJubyI6ICLkuIMiLA0KICAgImhlYWRpbmciOiAi5a2m5YiG6K6k5a6a5LiO6K+B5Lmm6aKB5Y+RIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1NywNCiAgICA2Mg0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtYjJmNTQ3ODE0YiINCiAgIF0sDQogICAiY2hhcnMiOiAxMDkNCiAgfSwNCiAgew0KICAgIm5vIjogIuWFqyIsDQogICAiaGVhZGluZyI6ICLmi5vnlJ/ml7bpl7TlronmjpLlj4rmiqXlkI3mlrnlvI8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDY0LA0KICAgIDc4DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC05ZGNkMjQwODAyIiwNCiAgICAicHQtMzYxZTliYWIzOCINCiAgIF0sDQogICAiY2hhcnMiOiAyNDINCiAgfSwNCiAgew0KICAgIm5vIjogIuS5nSIsDQogICAiaGVhZGluZyI6ICLlkqjor6LmlrnlvI8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDc5LA0KICAgIDgwDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1lNDVhNmUwM2RkIg0KICAgXSwNCiAgICJjaGFycyI6IDM0DQogIH0sDQogIHsNCiAgICJubyI6ICLljYEiLA0KICAgImhlYWRpbmciOiAi5b6u5LiT5Lia6K++56iL6LS555SoIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA4MSwNCiAgICA4Mw0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogNTkNCiAgfSwNCiAgew0KICAgIm5vIjogIuWNgeS4gCIsDQogICAiaGVhZGluZyI6ICLor77nqIvorr7nva7lj4rlrabml7bliIbphY3ooagiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDg0LA0KICAgIDExMQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNGU2ZWIzODQyNyIsDQogICAgInB0LTY0NDFmMjllNDIiLA0KICAgICJwdC0xMDkxMWVkMzE4IiwNCiAgICAicHQtMTA4YzE0NWJjNiIsDQogICAgInB0LTE3MzYwMTRjZWYiLA0KICAgICJwdC03OWU0ZTQ4ZDVkIg0KICAgXSwNCiAgICJjaGFycyI6IDE4NA0KICB9LA0KICB7DQogICAibm8iOiAi5Y2B5LqMIiwNCiAgICJoZWFkaW5nIjogIuW+ruS4k+S4muivvueoi+eugOS7iyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTEzLA0KICAgIDE1NQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMWQ0NTVjMzkyYyIsDQogICAgInB0LTg5NTI0OWJkOWMiLA0KICAgICJwdC0xNzQ1N2ZiNGM1IiwNCiAgICAicHQtY2Y3NGFiNDgxNCIsDQogICAgInB0LWVlNDVjNmUxYmEiLA0KICAgICJwdC1jNTJmMzI4NDVhIiwNCiAgICAicHQtNGQ0N2JhNmNiNyINCiAgIF0sDQogICAiY2hhcnMiOiAxMTUwDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi572y5ZCN77yI5pWw5o2u56eR5a2m5LiO5pm66IO95aqS5L2T5a2m6Zmi44CB6Z+z5LmQ5LiO5b2V6Z+z6Im65pyv5a2m6Zmi77yMMjAyNuW5tDfmnIjvvIkiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNTcsDQogICAgMTU5DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAzMw0KICB9DQogXSwNCiAiaXRlbXMiOiBbDQogICJwdC1kODc1MmE2MmY4IiwNCiAgInB0LWI5ZTE4ODA2ZDAiLA0KICAicHQtMzYzYzQwZGQzYSIsDQogICJwdC03YmQyMzllYTE1IiwNCiAgInB0LTUwZWRiZjk5YTAiLA0KICAicHQtMzlmMDExOTUzMyIsDQogICJwdC1hZDE5YWNlNDljIiwNCiAgInB0LTk2MjcyZDA3ZGIiLA0KICAicHQtN2NmM2RkNjUwOSIsDQogICJwdC1iMmY1NDc4MTRiIiwNCiAgInB0LTlkY2QyNDA4MDIiLA0KICAicHQtMzYxZTliYWIzOCIsDQogICJwdC1lNDVhNmUwM2RkIiwNCiAgInB0LTRlNmViMzg0MjciLA0KICAicHQtNjQ0MWYyOWU0MiIsDQogICJwdC0xMDkxMWVkMzE4IiwNCiAgInB0LTEwOGMxNDViYzYiLA0KICAicHQtMTczNjAxNGNlZiIsDQogICJwdC03OWU0ZTQ4ZDVkIiwNCiAgInB0LTFkNDU1YzM5MmMiLA0KICAicHQtODk1MjQ5YmQ5YyIsDQogICJwdC0xNzQ1N2ZiNGM1IiwNCiAgInB0LWNmNzRhYjQ4MTQiLA0KICAicHQtZWU0NWM2ZTFiYSIsDQogICJwdC1jNTJmMzI4NDVhIiwNCiAgInB0LTRkNDdiYTZjYjciDQogXSwNCiAibm90ZXMiOiBbDQogICIyMDI2LTExLTEy77ya5pys5Lu25piv572R6aG16ZmE5Lu2IFBERiDnmoTmir3lj5bmlofmnKzvvIjmi5vnlJ/nroDnq6DvvInjgILljp/mlofnlKjjgIzkuIDjgIHigKbljYHkuozjgIHjgI3ljYHkuozkuKrkuK3mlofluo/lj7flvZPlsI/moIfpopjvvIzmlYXov5kgMTIg6IqCIGhlYWRpbmcg6YCQ5a2X5Y+W5Y6f5paH77yIYXV0aG9y77yJ77yb56ysIDEg6IqC44CM5qCH6aKY44CN5LiO5pyr6IqC44CM572y5ZCN44CN5piv5oiR5qaC5ous55qE77yIZGVyaXZlZO+8ieOAguagh+mimOacrOi6q+iiq+aOkuaIkOS4ieihjO+8muesrCAxIOihjOOAjOS4reWbveS8oOWqkuWkp+WtpuOAjeOAgeesrCAzIOihjOOAjOS6uuW3peaZuuiDveS4jumfs+S5kOeWl+aEiOW+ruS4k+S4muOAjeOAgeesrCA1IOihjOOAjDIwMjblubTnp4vlraPmi5vnlJ/nroDnq6DjgI3jgIIiLA0KICAi6KGo5qC877ya56ysIDg04oCTMTExIOihjOaYr+OAjOWNgeS4gOOAgeivvueoi+iuvue9ruWPiuWtpuaXtuWIhumFjeihqOOAje+8jOaKveWPluWQjui3qOagj+mUmeS9jeKAlOKAlOihqOWktOiiq+aLhuaIkOOAjOW6j+WPtyDor77nqIvkuK3mloflkI3np7Ag5a2m5pe25YiG6YWN77yP5a2m5a2m77yP55CG6K66IOWunui3tSDlrp7pqowvIOivvueoi+aAp+i0qO+8j+WIhuaXtu+8j+aVmeWtpiDmlZnlraYg5LiK5py644CN77yM6KGM5YaF5a655Lmf6KKr5ouG5oiQ44CMMSDpn7PkuZDnlpfmhIjln7rnoYDkuI7pn7PkuZDkurrvvI/lt6Xmmbrog73lr7zorrrvvI8yIDMyIDMyIOW/heS/ruOAjei/meagt+S4iuS4i+S4pOaIqu+8iOOAjOS6uivlt6Xmmbrog73jgI3ot6jooYzmlq3lvIDvvInvvIznrKwgNSDpl6jor77kuI7lkIjorqHooYzlkIzmoLfplJnkvY3jgILmlbTooajmjInjgIzooajmoLznq5bmjpLihpLmlbTooajkuIDoioLjgI3lpITnkIbvvIzmnaHnm67ku43mjInlkIToh6ogcXVvdGUg55qE5YmNIDI2IOWtl+iQveWcqOivpeiKguWGheOAgiIsDQogICLljp/mloflvILluLjvvJrlhajmloflkKsgNCDkuKrmjaLpobXnrKbvvIhcXHgwY++8ie+8jOWFtuS4reesrCA4NCDooYzkuI7nrKwgMTEzIOihjOeahOiKguagh+mimOWJjeWQhOacieS4gOS4qu+8m+S4jeaUueWPmOihjOWPt+WPo+W+hO+8iOaMiSBcXG4g5YiH5YiG5YWxIDE1OSDooYzvvIzmnKvooYzkuLrnrKwgMTU5IOihjOOAjDIwMjblubQ35pyI44CN77yJ44CC5q2j5paH5ZCE5q615LmL6Ze05aS556m66KGM77yI5aaC56ysIDI3IOihjOS4juesrCAyOSDooYzkuYvpl7TvvInvvIzmmK/niYjpnaLmjaLooYzooqvmir3miJDnqbrooYzmiYDoh7TjgIIiLA0KICAiaXRlbXMuanNvbiDph4wgNiDmnaHooajmoLznsbvmnaHnm67nmoTmoIfpopjpg73luKbjgIzljYHkuIDjgIHor77nqIvorr7nva7lj4rlrabml7bliIbphY3ooagg5bqP5Y+36K++56iL5Lit5paH5ZCN56ew5a2m5pe25YiG6YWN44CB5a2m5a2m44CB55CG6K665a6e6Le15a6e6aqML+ivvueoi+aAp+i0qOOAgeWIhuaXtuOAgeaVmeWtpuaVmeWtpuS4iuacuuOAjei/meS4gOmVv+S4suihqOWktOaui+WPpe+8jOS4jeWPr+eUqOS6juWumuS9je+8m+acrOe0ouW8leS4gOW+i+aMiSBxdW90ZSDlrprkvY3jgIIiLA0KICAi5pyq5oiq5pat77ya5q2j5paH5LuO5qCH6aKY5Yiw44CMMjAyNuW5tDfmnIjjgI3nvbLlkI3lrozmlbTvvIzmnIDlkI7kuIDpl6jor77nroDku4vvvIjnrKwgMTQ54oCTMTU1IOihjO+8ieS4jue9suWQjeautemDveWcqOOAgiINCiBdDQp9
+{
+ "key": "att-721adff9a6",
+ "title": "中国传媒大学人工智能与音乐疗愈微专业2026年秋季招生简章",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "标题（学校、微专业名称、2026年秋季招生简章）",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    5
+   ],
+   "items": [
+    "pt-d8752a62f8"
+   ],
+   "chars": 29
+  },
+  {
+   "no": "一",
+   "heading": "微专业介绍",
+   "heading_kind": "author",
+   "lines": [
+    7,
+    24
+   ],
+   "items": [
+    "pt-b9e18806d0",
+    "pt-363c40dd3a"
+   ],
+   "chars": 488
+  },
+  {
+   "no": "二",
+   "heading": "培养目标",
+   "heading_kind": "author",
+   "lines": [
+    26,
+    32
+   ],
+   "items": [
+    "pt-7bd239ea15"
+   ],
+   "chars": 167
+  },
+  {
+   "no": "三",
+   "heading": "培养要求",
+   "heading_kind": "author",
+   "lines": [
+    34,
+    43
+   ],
+   "items": [
+    "pt-50edbf99a0",
+    "pt-39f0119533"
+   ],
+   "chars": 313
+  },
+  {
+   "no": "四",
+   "heading": "招生对象及条件",
+   "heading_kind": "author",
+   "lines": [
+    45,
+    48
+   ],
+   "items": [
+    "pt-ad19ace49c"
+   ],
+   "chars": 65
+  },
+  {
+   "no": "五",
+   "heading": "学制",
+   "heading_kind": "author",
+   "lines": [
+    50,
+    51
+   ],
+   "items": [
+    "pt-96272d07db"
+   ],
+   "chars": 37
+  },
+  {
+   "no": "六",
+   "heading": "授课方式",
+   "heading_kind": "author",
+   "lines": [
+    53,
+    55
+   ],
+   "items": [
+    "pt-7cf3dd6509"
+   ],
+   "chars": 42
+  },
+  {
+   "no": "七",
+   "heading": "学分认定与证书颁发",
+   "heading_kind": "author",
+   "lines": [
+    57,
+    62
+   ],
+   "items": [
+    "pt-b2f547814b"
+   ],
+   "chars": 109
+  },
+  {
+   "no": "八",
+   "heading": "招生时间安排及报名方式",
+   "heading_kind": "author",
+   "lines": [
+    64,
+    78
+   ],
+   "items": [
+    "pt-9dcd240802",
+    "pt-361e9bab38"
+   ],
+   "chars": 242
+  },
+  {
+   "no": "九",
+   "heading": "咨询方式",
+   "heading_kind": "author",
+   "lines": [
+    79,
+    80
+   ],
+   "items": [
+    "pt-e45a6e03dd"
+   ],
+   "chars": 34
+  },
+  {
+   "no": "十",
+   "heading": "微专业课程费用",
+   "heading_kind": "author",
+   "lines": [
+    81,
+    83
+   ],
+   "items": [],
+   "chars": 59
+  },
+  {
+   "no": "十一",
+   "heading": "课程设置及学时分配表",
+   "heading_kind": "author",
+   "lines": [
+    84,
+    111
+   ],
+   "items": [
+    "pt-4e6eb38427",
+    "pt-6441f29e42",
+    "pt-10911ed318",
+    "pt-108c145bc6",
+    "pt-1736014cef",
+    "pt-79e4e48d5d"
+   ],
+   "chars": 184
+  },
+  {
+   "no": "十二",
+   "heading": "微专业课程简介",
+   "heading_kind": "author",
+   "lines": [
+    113,
+    155
+   ],
+   "items": [
+    "pt-1d455c392c",
+    "pt-895249bd9c",
+    "pt-17457fb4c5",
+    "pt-cf74ab4814",
+    "pt-ee45c6e1ba",
+    "pt-c52f32845a",
+    "pt-4d47ba6cb7"
+   ],
+   "chars": 1150
+  },
+  {
+   "no": "—",
+   "heading": "署名（数据科学与智能媒体学院、音乐与录音艺术学院，2026年7月）",
+   "heading_kind": "derived",
+   "lines": [
+    157,
+    159
+   ],
+   "items": [],
+   "chars": 33
+  }
+ ],
+ "items": [
+  "pt-d8752a62f8",
+  "pt-b9e18806d0",
+  "pt-363c40dd3a",
+  "pt-7bd239ea15",
+  "pt-50edbf99a0",
+  "pt-39f0119533",
+  "pt-ad19ace49c",
+  "pt-96272d07db",
+  "pt-7cf3dd6509",
+  "pt-b2f547814b",
+  "pt-9dcd240802",
+  "pt-361e9bab38",
+  "pt-e45a6e03dd",
+  "pt-4e6eb38427",
+  "pt-6441f29e42",
+  "pt-10911ed318",
+  "pt-108c145bc6",
+  "pt-1736014cef",
+  "pt-79e4e48d5d",
+  "pt-1d455c392c",
+  "pt-895249bd9c",
+  "pt-17457fb4c5",
+  "pt-cf74ab4814",
+  "pt-ee45c6e1ba",
+  "pt-c52f32845a",
+  "pt-4d47ba6cb7"
+ ],
+ "notes": [
+  "2026-11-12：本件是网页附件 PDF 的抽取文本（招生简章）。原文用「一、…十二、」十二个中文序号当小标题，故这 12 节 heading 逐字取原文（author）；第 1 节「标题」与末节「署名」是我概括的（derived）。标题本身被排成三行：第 1 行「中国传媒大学」、第 3 行「人工智能与音乐疗愈微专业」、第 5 行「2026年秋季招生简章」。",
+  "表格：第 84–111 行是「十一、课程设置及学时分配表」，抽取后跨栏错位——表头被拆成「序号 课程中文名称 学时分配／学学／理论 实践 实验/ 课程性质／分时／教学 教学 上机」，行内容也被拆成「1 音乐疗愈基础与音乐人／工智能导论／2 32 32 必修」这样上下两截（「人+工智能」跨行断开），第 5 门课与合计行同样错位。整表按「表格竖排→整表一节」处理，条目仍按各自 quote 的前 26 字落在该节内。",
+  "原文异常：全文含 4 个换页符（\\x0c），其中第 84 行与第 113 行的节标题前各有一个；不改变行号口径（按 \\n 切分共 159 行，末行为第 159 行「2026年7月」）。正文各段之间夹空行（如第 27 行与第 29 行之间），是版面换行被抽成空行所致。",
+  "items.json 里 6 条表格类条目的标题都带「十一、课程设置及学时分配表 序号课程中文名称学时分配、学学、理论实践实验/课程性质、分时、教学教学上机」这一长串表头残句，不可用于定位；本索引一律按 quote 定位。",
+  "未截断：正文从标题到「2026年7月」署名完整，最后一门课简介（第 149–155 行）与署名段都在。"
+ ]
+}

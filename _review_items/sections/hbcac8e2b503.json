@@ -1,1 +1,528 @@
-ew0KICJrZXkiOiAiaGJjYWM4ZTJiNTAzIiwNCiAidGl0bGUiOiAi5Lit5Zu95Lyg5aqS5aSn5a2m54+t57qn5a2m55Sf5aeU5ZGY5Lya5bel5L2c5Yqe5rOV77yI5a2m5bel5pWZ5a2X44CUMjAyNOOAlTcyIOWPt++8iSIsDQogInRydW5jYXRlZCI6IGZhbHNlLA0KICJzZWN0aW9ucyI6IFsNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLlip7ms5XmoIfpopjkuI7mloflj7ciLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyLA0KICAgIDMNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInJ1bGUtaGJjYWM4ZTJiNTAzIiwNCiAgICAicHQtMTZlMTliYWMxNiINCiAgIF0sDQogICAiY2hhcnMiOiA0MA0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LiA56ugIiwNCiAgICJoZWFkaW5nIjogIuesrOS4gOeroCDmgLvliJkiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDQsDQogICAgMjENCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTg1YTMyYzBjOGUiDQogICBdLA0KICAgImNoYXJzIjogNjM2DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuIDmnaEiLA0KICAgImhlYWRpbmciOiAi5Yi25a6a55uu55qE5LiO5L6d5o2uIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNSwNCiAgICA3DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAxMDcNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS6jOadoSIsDQogICAiaGVhZGluZyI6ICLnj63lp5TkvJrnmoTmgKfotKjjgIHlrprkvY3kuI7ln7nlhbvnm67moIciLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA4LA0KICAgIDEwDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC01NDljMjRlZDZhIg0KICAgXSwNCiAgICJjaGFycyI6IDExMA0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LiJ5p2hIiwNCiAgICJoZWFkaW5nIjogIueuoeeQhuS9k+WItuS4juePreS4u+S7u+esrOS4gOi0o+S7u+S6uiIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDExLA0KICAgIDEzDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0yNzAwZDQ4ZDI3Ig0KICAgXSwNCiAgICJjaGFycyI6IDExNA0KICB9LA0KICB7DQogICAibm8iOiAi56ys5Zub5p2hIiwNCiAgICJoZWFkaW5nIjogIuWHneiBmuW8lemihuS4juWPjeaYoOWtpueUn+aEj+ingSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDE0LA0KICAgIDE1DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1kMTZiNDcxNTE0Ig0KICAgXSwNCiAgICJjaGFycyI6IDc3DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkupTmnaEiLA0KICAgImhlYWRpbmciOiAi5pyL6L6I56S66IyD5LiO5LyY56eA5ZOB6LSo5Z+56IKyIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMTYsDQogICAgMTcNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWUwMmExMzZjZTYiDQogICBdLA0KICAgImNoYXJzIjogNzYNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWFreadoSIsDQogICAiaGVhZGluZyI6ICLnu4Tnu4flvIDlsZXnj63nuqfmtLvliqjjgIHmiZPpgKDkvJjoia/nj63po47lrabpo44iLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxOCwNCiAgICAxOQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtODZlODBkYzQ1MyINCiAgIF0sDQogICAiY2hhcnMiOiA3Ng0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LiD5p2hIiwNCiAgICJoZWFkaW5nIjogIuWFmuW7uuW4puWbouW7uuS4juOAjOS4ieWnlOOAjeWNj+WQjOacuuWItiIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDIwLA0KICAgIDIxDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC01ZGRlMzQ5MDkyIg0KICAgXSwNCiAgICJjaGFycyI6IDcwDQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuoznq6AiLA0KICAgImhlYWRpbmciOiAi56ys5LqM56ugIOWyl+S9jeiBjOi0oyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMjIsDQogICAgMTI1DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1kNzA1ZDBhMTg5Ig0KICAgXSwNCiAgICJjaGFycyI6IDI0NzMNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWFq+adoSIsDQogICAiaGVhZGluZyI6ICLnj63plb8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDIzLA0KICAgIDMzDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAyMzENCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS5neadoSIsDQogICAiaGVhZGluZyI6ICLlvrfogrLlp5TlkZgiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDM0LA0KICAgIDQzDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAyNzUNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWNgeadoSIsDQogICAiaGVhZGluZyI6ICLlrabkuaDlp5TlkZgiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDQ0LA0KICAgIDUxDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0yNjBlMDljOTBiIiwNCiAgICAicHQtNGE2ODQyOGVjZiIsDQogICAgInB0LTJjZTI4ZWI4MTAiLA0KICAgICJwdC1lZDkxMGNlNDliIiwNCiAgICAicHQtMmNkNjBkNTc4MSINCiAgIF0sDQogICAiY2hhcnMiOiAxNzkNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWNgeS4gOadoSIsDQogICAiaGVhZGluZyI6ICLnlJ/mtLvlp5TlkZgiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDUyLA0KICAgIDYxDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAyMjYNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWNgeS6jOadoSIsDQogICAiaGVhZGluZyI6ICLlrqPkvKDlp5TlkZgiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDYyLA0KICAgIDcyDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAyNjMNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWNgeS4ieadoSIsDQogICAiaGVhZGluZyI6ICLkvZPogrLlp5TlkZgiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDczLA0KICAgIDc5DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0zYjg0MzYzNWRjIiwNCiAgICAicHQtZWEwMmFmMDIwNCIsDQogICAgInB0LTZjZTlkZTkxYzgiLA0KICAgICJwdC1iMDZjMzNmYjExIg0KICAgXSwNCiAgICJjaGFycyI6IDE2Mg0KICB9LA0KICB7DQogICAibm8iOiAi56ys5Y2B5Zub5p2hIiwNCiAgICJoZWFkaW5nIjogIue+juiCsuWnlOWRmCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgODAsDQogICAgODYNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTU5NzExNjVkZGIiLA0KICAgICJwdC1hYTU5MGE1YTg5IiwNCiAgICAicHQtM2I5YThhNGZjNSIsDQogICAgInB0LTU2YTAyMjBmNWUiDQogICBdLA0KICAgImNoYXJzIjogMTU1DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzljYHkupTmnaEiLA0KICAgImhlYWRpbmciOiAi5Yqz5Yqo5aeU5ZGYIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA4NywNCiAgICA5Mw0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTU0DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzljYHlha3mnaEiLA0KICAgImhlYWRpbmciOiAi5b+D55CG5aeU5ZGYIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA5NCwNCiAgICAxMDINCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWE2NDZlNzEwNDciLA0KICAgICJwdC0yYTk1NWJjYzJjIiwNCiAgICAicHQtMDY5YjM2N2M1ZiIsDQogICAgInB0LWMwZWU3M2YwY2UiDQogICBdLA0KICAgImNoYXJzIjogMjE3DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzljYHkuIPmnaEiLA0KICAgImhlYWRpbmciOiAi5a6J5YWo5aeU5ZGYIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMDMsDQogICAgMTE3DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1lMzkzZmNiMGE1IiwNCiAgICAicHQtM2FkMDJlNzBlMCIsDQogICAgInB0LTRiMjczMzE4YzQiLA0KICAgICJwdC1hZTY5YWQxZmJmIiwNCiAgICAicHQtNzJjZWUzMjhiOSIsDQogICAgInB0LTA0ZWU4MzViYzYiLA0KICAgICJwdC00NzQ4NjE5YTEzIiwNCiAgICAicHQtZTdjMGYxMGMzYSINCiAgIF0sDQogICAiY2hhcnMiOiAzNzANCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWNgeWFq+adoSIsDQogICAiaGVhZGluZyI6ICLlsLHkuJrlp5TlkZgiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDExOCwNCiAgICAxMjUNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWU3NzE4NzQxNTMiLA0KICAgICJwdC03YWI4MmVhYWNmIiwNCiAgICAicHQtOWNjZGVmNTZlYSIsDQogICAgInB0LWVlZjFhZWExNzgiLA0KICAgICJwdC05MTc1MTJiZWJmIg0KICAgXSwNCiAgICJjaGFycyI6IDIzMw0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LiJ56ugIiwNCiAgICJoZWFkaW5nIjogIuesrOS4ieeroCDlt6XkvZznrqHnkIblj4rogIPmoLgiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDEyNiwNCiAgICAxNTINCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTZkYTJhNzdkZTgiDQogICBdLA0KICAgImNoYXJzIjogODk1DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzljYHkuZ3mnaEiLA0KICAgImhlYWRpbmciOiAi54+t5aeU5Lya55qE5Lqn55Sf44CB5Lu75pyf5LiO5o2i5bGKIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMTI3LA0KICAgIDEzMA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtY2FhOGNhYmYzMCINCiAgIF0sDQogICAiY2hhcnMiOiAxMzANCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS6jOWNgeadoSIsDQogICAiaGVhZGluZyI6ICLmlrDnlJ/kuLTml7bnj63lp5TkvJrkuI7nrKzkuIDlsYrnj63lp5TkvJoiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMzEsDQogICAgMTMzDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC03ZDZkYjFmMDU3Ig0KICAgXSwNCiAgICJjaGFycyI6IDk2DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuozljYHkuIDmnaEiLA0KICAgImhlYWRpbmciOiAi54+t5aeU5Lya6IGM5pWw44CB5YW85Lu75LiO55m76K6w5aSH5qGIIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMTM0LA0KICAgIDEzNg0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZGY4ZDE0ZmY4MyINCiAgIF0sDQogICAiY2hhcnMiOiAxMTANCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS6jOWNgeS6jOadoSIsDQogICAiaGVhZGluZyI6ICLlt6XkvZzkvovkvJrliLbluqYiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMzcsDQogICAgMTM4DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0wMTk2ZjgwODc1Ig0KICAgXSwNCiAgICJjaGFycyI6IDY1DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuozljYHkuInmnaEiLA0KICAgImhlYWRpbmciOiAi54+t5Lya5LiO5bel5L2c5Lyg6L6+IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMTM5LA0KICAgIDE0MA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMjRhN2ViMzE0MSIsDQogICAgInB0LTM5YjBlYTRjNzciDQogICBdLA0KICAgImNoYXJzIjogNjQNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS6jOWNgeWbm+adoSIsDQogICAiaGVhZGluZyI6ICLmsJHkuLvljY/llYbjgIHnj63liqHlhazlvIDkuI7ov7DogYzogIPmoLgiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNDEsDQogICAgMTQ0DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC01N2VjOGMzMjhiIg0KICAgXSwNCiAgICJjaGFycyI6IDEzMg0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LqM5Y2B5LqU5p2hIiwNCiAgICJoZWFkaW5nIjogIuWKs+WKqOenr+WIhuS4juS8mOengOWtpueUn+W5sumDqOiNo+iqiSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDE0NSwNCiAgICAxNDgNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWU3NjMyYmNkMTkiDQogICBdLA0KICAgImNoYXJzIjogMTM3DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuozljYHlha3mnaEiLA0KICAgImhlYWRpbmciOiAi5Y+W5raI6K+E5LyY6LWE5qC85LiO6Kej6Zmk6IGM5Yqh55qE5oOF5b2iIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMTQ5LA0KICAgIDE1Mg0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMTU4ZDE0Njc3NSINCiAgIF0sDQogICAiY2hhcnMiOiAxNTANCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWbm+eroCIsDQogICAiaGVhZGluZyI6ICLnrKzlm5vnq6Ag6ZmE5YiZIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNTMsDQogICAgMTU3DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC02NTE2MzgzYjI0Ig0KICAgXSwNCiAgICJjaGFycyI6IDEzMg0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LqM5Y2B5LiD5p2hIiwNCiAgICJoZWFkaW5nIjogIuWQhOWtpumZouWItuWumuWunuaWvee7huWImSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDE1NCwNCiAgICAxNTQNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDQwDQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuozljYHlhavmnaEiLA0KICAgImhlYWRpbmciOiAi6Kej6YeK5p2D5b2S5a2m55Sf5bel5L2c6YOo77yI5aSE77yJIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMTU1LA0KICAgIDE1NQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNzgxZjBkMzI5ZSINCiAgIF0sDQogICAiY2hhcnMiOiAyNA0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LqM5Y2B5Lmd5p2hIiwNCiAgICJoZWFkaW5nIjogIuaWveihjOaXpeacn+S4juWOn+inhOWumuW6n+atoiIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDE1NiwNCiAgICAxNTcNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTEzNjExN2ZmMjYiDQogICBdLA0KICAgImNoYXJzIjogNjINCiAgfQ0KIF0sDQogIml0ZW1zIjogWw0KICAicnVsZS1oYmNhYzhlMmI1MDMiLA0KICAicHQtY2FhOGNhYmYzMCIsDQogICJwdC0zOWIwZWE0Yzc3IiwNCiAgInB0LTE1OGQxNDY3NzUiLA0KICAicHQtMTZlMTliYWMxNiIsDQogICJwdC04NWEzMmMwYzhlIiwNCiAgInB0LTU0OWMyNGVkNmEiLA0KICAicHQtMjcwMGQ0OGQyNyIsDQogICJwdC1kMTZiNDcxNTE0IiwNCiAgInB0LWUwMmExMzZjZTYiLA0KICAicHQtODZlODBkYzQ1MyIsDQogICJwdC01ZGRlMzQ5MDkyIiwNCiAgInB0LWQ3MDVkMGExODkiLA0KICAicHQtMjYwZTA5YzkwYiIsDQogICJwdC00YTY4NDI4ZWNmIiwNCiAgInB0LTJjZTI4ZWI4MTAiLA0KICAicHQtZWQ5MTBjZTQ5YiIsDQogICJwdC0yY2Q2MGQ1NzgxIiwNCiAgInB0LTNiODQzNjM1ZGMiLA0KICAicHQtZWEwMmFmMDIwNCIsDQogICJwdC02Y2U5ZGU5MWM4IiwNCiAgInB0LWIwNmMzM2ZiMTEiLA0KICAicHQtNTk3MTE2NWRkYiIsDQogICJwdC1hYTU5MGE1YTg5IiwNCiAgInB0LTNiOWE4YTRmYzUiLA0KICAicHQtNTZhMDIyMGY1ZSIsDQogICJwdC1hNjQ2ZTcxMDQ3IiwNCiAgInB0LTJhOTU1YmNjMmMiLA0KICAicHQtMDY5YjM2N2M1ZiIsDQogICJwdC1jMGVlNzNmMGNlIiwNCiAgInB0LWUzOTNmY2IwYTUiLA0KICAicHQtM2FkMDJlNzBlMCIsDQogICJwdC00YjI3MzMxOGM0IiwNCiAgInB0LWFlNjlhZDFmYmYiLA0KICAicHQtNzJjZWUzMjhiOSIsDQogICJwdC0wNGVlODM1YmM2IiwNCiAgInB0LTQ3NDg2MTlhMTMiLA0KICAicHQtZTdjMGYxMGMzYSIsDQogICJwdC1lNzcxODc0MTUzIiwNCiAgInB0LTdhYjgyZWFhY2YiLA0KICAicHQtOWNjZGVmNTZlYSIsDQogICJwdC1lZWYxYWVhMTc4IiwNCiAgInB0LTkxNzUxMmJlYmYiLA0KICAicHQtNmRhMmE3N2RlOCIsDQogICJwdC03ZDZkYjFmMDU3IiwNCiAgInB0LWRmOGQxNGZmODMiLA0KICAicHQtMDE5NmY4MDg3NSIsDQogICJwdC0yNGE3ZWIzMTQxIiwNCiAgInB0LTU3ZWM4YzMyOGIiLA0KICAicHQtZTc2MzJiY2QxOSIsDQogICJwdC02NTE2MzgzYjI0IiwNCiAgInB0LTc4MWYwZDMyOWUiLA0KICAicHQtMTM2MTE3ZmYyNiINCiBdLA0KICJub3RlcyI6IFsNCiAgIuWItuW6puaxh+e8luWIh+eJh++8iGh1aWJpYW7vvIxwYWdlX2xhYmVsIDM477yJ77ya56ysIDEg6KGM44CMLSAzOCAt44CN5piv6aG156CB6KGM77yM5oyJ5Y+j5b6E5LiN5Y2V5YiX6IqC44CB5Lmf5LiN5L2c6IqC6aaW77yM5pWF56ysIDEg6KGM5piv5YWo5paH5ZSv5LiA55qE6KaG55uW56m66ZqZ44CCIiwNCiAgIuesrCAy4oCTMyDooYzlkIjkuLrjgIzlip7ms5XmoIfpopjkuI7mloflj7fjgI3vvJrmoIfpopjjgIzkuK3lm73kvKDlqpLlpKflrabnj63nuqflrabnlJ/lp5TlkZjkvJrlt6XkvZzlip7ms5XjgI3kuI7mloflj7fjgIzlraYg5belIOaVmSDlrZfjgJQgMiAwIDIgNCDjgJU3IDIg5Y+344CN77yI5Y6f5paH6YCQ5a2X5bim5a2X6Ze056m65qC877yJ5Lik6KGM44CCcHQtMTZlMTliYWMxNiDnmoTlvJXmlofmraPmmK/ov5nkuKTooYzljrvnqbrnmb3lkI7nmoTov57or7vjgIIiLA0KICAi57uT5p6E5Li644CM56ug77yI56ys5LiA56ug4oCU56ys5Zub56ug77yJ4oaSIOadoe+8iOesrOS4gOadoeKAlOesrOS6jOWNgeS5neadoe+8ieOAjeS4pOe6p+ecn+W1jOWll++8mueroOS4uueItuiKgu+8iOWMuumXtO+8neeroOiMg+WbtO+8jGhlYWRpbmcg5Y+W5Y6f5paH44CM56ys5LiA56ug44CA5oC75YiZ44CN562J77yM5L2c6ICF5Y6f5paH5Y+v6YCQ5a2X5p+l77yM5qCHIGF1dGhvcu+8ie+8jOadoeS4uuWtkOiKguOAgiIsDQogICLnrKzkuoznq6DvvIgyMuKAkzEyNe+8ieS4i+WNgeWFq+adoeWFqOmDqOaYr+ePreWnlOWyl+S9jeiBjOi0o++8jOWOn+aWh+OAjOesrOWFq+adoeOAgOePremVv+OAjeOAjOesrOS5neadoeOAgOW+t+iCsuWnlOWRmOOAjeKApuOAjOesrOWNgeWFq+adoeOAgOWwseS4muWnlOWRmOOAjeiHquW4puWyl+S9jeWQje+8jOaVhei/meWNgeS4gOadoeeahCBoZWFkaW5nIOebtOaOpeeUqOWyl+S9jeWQjeW5tuaghyBhdXRob3LvvJvnrKzkuIDnq6DjgIHnrKzkuInnq6DjgIHnrKzlm5vnq6DlkITmnaHljp/mloflj6rmnInmnaHlj7fjgIHmsqHmnInlsI/moIfpopjvvIxoZWFkaW5nIOaYr+aMieadoeaWh+S4u+aXqOamguaLrOeahOefreWQje+8iGRlcml2ZWTvvInvvJtgbm9gIOS4gOW+i+iusOOAjOesrFjmnaHjgI3vvIzkuI3nrYnkuo4gaGVhZGluZ+OAgiIsDQogICLnq6DnuqfniLboioLmib/mi4XjgIzlvJXmlofotbfngrnokL3lnKjnq6DmoIfpopjooYzjgI3nmoTlm5vmnaHvvIgyNiDlrZfliY3nvIDmqKrot6jnq6DmoIfpopjkuI7pppbmnaHvvIzmnaHlrZDoioLljLrpl7Tph4zokL3kuI3kuoblnLDvvInvvJpwdC04NWEzMmMwYzhl77yI44CM56ys5LiA56ug5oC75YiZ56ys5LiA5p2h5Li66JC95a6e56uL5b635qCR5Lq65qC55pys5Lu75Yqh4oCm44CN77yJ5YiX44CM56ys5LiA56ug44CN77yMcHQtZDcwNWQwYTE4Oe+8iOOAjOesrOS6jOeroOWyl+S9jeiBjOi0o+esrOWFq+adoeePremVv++8iOS4gO+8ieWNj+WKqeePreS4u+S7u+KApuOAje+8ieWIl+OAjOesrOS6jOeroOOAje+8jHB0LTZkYTJhNzdkZTjvvIjjgIznrKzkuInnq6Dlt6XkvZznrqHnkIblj4rogIPmoLjnrKzljYHkuZ3mnaHnj63lp5TkvJrlnKjnj63kuLvku7vnmoTmjIflr7zkuIvmiJDnq4vigKbjgI3vvInliJfjgIznrKzkuInnq6DjgI3vvIxwdC02NTE2MzgzYjI077yI44CM56ys5Zub56ug6ZmE5YiZ56ys5LqM5Y2B5LiD5p2h5ZCE5a2m6Zmi5Y+v5L6d5o2u4oCm44CN77yJ5YiX44CM56ys5Zub56ug44CN44CCIiwNCiAgIuWyl+S9jeiBjOi0o+adoeS4i+eahOOAjO+8iOS4gO+8ieKAlO+8iOWFq++8ieOAjeWIhumhueS4jeWNleWIl+WtkOiKgu+8jOmaj+aJgOWxnuadoeW5tuWFpeWQjOS4gOiKgu+8iOWQpuWImeS4gOeroOimgeWIh+WHuuS4iueZvuiKgu+8ie+8m+adoeebruaMieW8leaWh+aJgOWcqOeahO+8iOS4gO+8ie+8iOS6jO+8ieKApuS7jeiQveWbnuivpeadoeOAguesrOWNgeS4g+adoe+8iDEwM+KAkzExN++8ieWQq++8iOS4gO+8ieKAlO+8iOWFq++8ieWFq+mhueS4juesrCAxMDcg6KGM6aG156CB6KGM77yM5Lmd5p2h5p2h55uu5YWo5Zyo6K+l5Yy66Ze05YaF44CCIiwNCiAgIumHjeWkjeaWh+acrOeahOiQveeCueaMieadoeebruagh+mimOaJgOaMh+eahOadoeWIpOWumu+8jOS4jeWPluWFqOaWh+mmluasoeWHuueOsO+8muOAjO+8iOWbm++8ieWujOaIkOWtpumZouWPiuWtpuagoeebuOWFs+mDqOmXqOS6pOWKnueahOWFtuS7luW3peS9nOOAguOAjeWcqOesrOS5neOAgeWNgeOAgeWNgeS4gOOAgeWNgeS6jOOAgeWNgeS4ieOAgeWNgeWbm+OAgeWNgeS6lOOAgeWNgeWFreOAgeWNgeS4g+OAgeWNgeWFq+adoeWQhOWHuueOsOS4gOasoe+8jHB0LTU2YTAyMjBmNWUg55qE5qCH6aKY5oyH5piO44CM56ys5Y2B5Zub5p2h576O6IKy5aeU5ZGY44CN77yM5pWF6K6w5Zyo56ys5Y2B5Zub5p2h77yI56ysIDg2IOihjO+8ie+8jOS4jeiusOWcqOmmluasoeWHuueOsOeahOesrOS5neadoe+8iOesrCA0MyDooYzvvInvvJtwdC1lN2MwZjEwYzNh44CM77yI5YWr77yJ5a6M5oiQ5a2m6Zmi5Y+K5a2m5qCh55u45YWz6YOo6Zeo5Lqk5Yqe55qE5YW25LuW5bel5L2c44CC44CN5ZCM55CG6K6w5Zyo56ys5Y2B5LiD5p2h77yIMTE3IOihjO+8ieOAgiIsDQogICJwdC00YjI3MzMxOGM0IOeahOW8leaWh+WPquacieOAjOmXrumimOeahOWkhOe9ruWKnuazleOAguOAjeS4gOWPpe+8jOaYr+esrOWNgeS4g+adoe+8iOS4ie+8iemhuei3qOmhteeggeihjO+8iDEwNyDooYzvvInlkI7nmoTnu63lj6XvvIjnrKwgMTA4IOihjO+8ie+8jOaVheW5tuWFpeesrOWNgeS4g+adoe+8m3B0LTNhZDAyZTcwZTAg55qE5byV5paH5oqK77yI5LqM77yJ77yI5LiJ77yJ5Lik6aG56L+e6K+777yM5ZCM5qC36JC956ys5Y2B5LiD5p2h44CCIiwNCiAgInJ1bGUtaGJjYWM4ZTJiNTAzIOaYr+aWh+aho+e6p+adoeebru+8iOaXoOW8leaWh++8jOagh+mimOKJiOaWh+aho+WQje+8ie+8jOaMiee6puWumuWIl+i/m+aWh+aho+e6pyBpdGVtcyDlubbokL3lnKjnrKzkuIDoioLjgIzlip7ms5XmoIfpopjkuI7mloflj7fjgI3jgIIiLA0KICAi5q2j5paH5q2i5LqO56ysIDE1NyDooYznrKzkuozljYHkuZ3mnaHvvIzml6DokL3mrL7jgIHml6DmiKrmlq3vvJs1MyDmnaHmnaHnm67vvIjlkKsgcnVsZSDkuIDmnaHvvInlhajpg6jlnKjmnKzmloflkb3kuK3okL3ngrnvvIzml6Dot6jmlofku7blvJXnlKjjgIIiDQogXQ0KfQ==
+{
+ "key": "hbcac8e2b503",
+ "title": "中国传媒大学班级学生委员会工作办法（学工教字〔2024〕72 号）",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "办法标题与文号",
+   "heading_kind": "derived",
+   "lines": [
+    2,
+    3
+   ],
+   "items": [
+    "rule-hbcac8e2b503",
+    "pt-16e19bac16"
+   ],
+   "chars": 40
+  },
+  {
+   "no": "第一章",
+   "heading": "第一章 总则",
+   "heading_kind": "author",
+   "lines": [
+    4,
+    21
+   ],
+   "items": [
+    "pt-85a32c0c8e"
+   ],
+   "chars": 636
+  },
+  {
+   "no": "第一条",
+   "heading": "制定目的与依据",
+   "heading_kind": "derived",
+   "lines": [
+    5,
+    7
+   ],
+   "items": [],
+   "chars": 107
+  },
+  {
+   "no": "第二条",
+   "heading": "班委会的性质、定位与培养目标",
+   "heading_kind": "derived",
+   "lines": [
+    8,
+    10
+   ],
+   "items": [
+    "pt-549c24ed6a"
+   ],
+   "chars": 110
+  },
+  {
+   "no": "第三条",
+   "heading": "管理体制与班主任第一责任人",
+   "heading_kind": "derived",
+   "lines": [
+    11,
+    13
+   ],
+   "items": [
+    "pt-2700d48d27"
+   ],
+   "chars": 114
+  },
+  {
+   "no": "第四条",
+   "heading": "凝聚引领与反映学生意见",
+   "heading_kind": "derived",
+   "lines": [
+    14,
+    15
+   ],
+   "items": [
+    "pt-d16b471514"
+   ],
+   "chars": 77
+  },
+  {
+   "no": "第五条",
+   "heading": "朋辈示范与优秀品质培育",
+   "heading_kind": "derived",
+   "lines": [
+    16,
+    17
+   ],
+   "items": [
+    "pt-e02a136ce6"
+   ],
+   "chars": 76
+  },
+  {
+   "no": "第六条",
+   "heading": "组织开展班级活动、打造优良班风学风",
+   "heading_kind": "derived",
+   "lines": [
+    18,
+    19
+   ],
+   "items": [
+    "pt-86e80dc453"
+   ],
+   "chars": 76
+  },
+  {
+   "no": "第七条",
+   "heading": "党建带团建与「三委」协同机制",
+   "heading_kind": "derived",
+   "lines": [
+    20,
+    21
+   ],
+   "items": [
+    "pt-5dde349092"
+   ],
+   "chars": 70
+  },
+  {
+   "no": "第二章",
+   "heading": "第二章 岗位职责",
+   "heading_kind": "author",
+   "lines": [
+    22,
+    125
+   ],
+   "items": [
+    "pt-d705d0a189"
+   ],
+   "chars": 2473
+  },
+  {
+   "no": "第八条",
+   "heading": "班长",
+   "heading_kind": "author",
+   "lines": [
+    23,
+    33
+   ],
+   "items": [],
+   "chars": 231
+  },
+  {
+   "no": "第九条",
+   "heading": "德育委员",
+   "heading_kind": "author",
+   "lines": [
+    34,
+    43
+   ],
+   "items": [],
+   "chars": 275
+  },
+  {
+   "no": "第十条",
+   "heading": "学习委员",
+   "heading_kind": "author",
+   "lines": [
+    44,
+    51
+   ],
+   "items": [
+    "pt-260e09c90b",
+    "pt-4a68428ecf",
+    "pt-2ce28eb810",
+    "pt-ed910ce49b",
+    "pt-2cd60d5781"
+   ],
+   "chars": 179
+  },
+  {
+   "no": "第十一条",
+   "heading": "生活委员",
+   "heading_kind": "author",
+   "lines": [
+    52,
+    61
+   ],
+   "items": [],
+   "chars": 226
+  },
+  {
+   "no": "第十二条",
+   "heading": "宣传委员",
+   "heading_kind": "author",
+   "lines": [
+    62,
+    72
+   ],
+   "items": [],
+   "chars": 263
+  },
+  {
+   "no": "第十三条",
+   "heading": "体育委员",
+   "heading_kind": "author",
+   "lines": [
+    73,
+    79
+   ],
+   "items": [
+    "pt-3b843635dc",
+    "pt-ea02af0204",
+    "pt-6ce9de91c8",
+    "pt-b06c33fb11"
+   ],
+   "chars": 162
+  },
+  {
+   "no": "第十四条",
+   "heading": "美育委员",
+   "heading_kind": "author",
+   "lines": [
+    80,
+    86
+   ],
+   "items": [
+    "pt-5971165ddb",
+    "pt-aa590a5a89",
+    "pt-3b9a8a4fc5",
+    "pt-56a0220f5e"
+   ],
+   "chars": 155
+  },
+  {
+   "no": "第十五条",
+   "heading": "劳动委员",
+   "heading_kind": "author",
+   "lines": [
+    87,
+    93
+   ],
+   "items": [],
+   "chars": 154
+  },
+  {
+   "no": "第十六条",
+   "heading": "心理委员",
+   "heading_kind": "author",
+   "lines": [
+    94,
+    102
+   ],
+   "items": [
+    "pt-a646e71047",
+    "pt-2a955bcc2c",
+    "pt-069b367c5f",
+    "pt-c0ee73f0ce"
+   ],
+   "chars": 217
+  },
+  {
+   "no": "第十七条",
+   "heading": "安全委员",
+   "heading_kind": "author",
+   "lines": [
+    103,
+    117
+   ],
+   "items": [
+    "pt-e393fcb0a5",
+    "pt-3ad02e70e0",
+    "pt-4b273318c4",
+    "pt-ae69ad1fbf",
+    "pt-72cee328b9",
+    "pt-04ee835bc6",
+    "pt-4748619a13",
+    "pt-e7c0f10c3a"
+   ],
+   "chars": 370
+  },
+  {
+   "no": "第十八条",
+   "heading": "就业委员",
+   "heading_kind": "author",
+   "lines": [
+    118,
+    125
+   ],
+   "items": [
+    "pt-e771874153",
+    "pt-7ab82eaacf",
+    "pt-9ccdef56ea",
+    "pt-eef1aea178",
+    "pt-917512bebf"
+   ],
+   "chars": 233
+  },
+  {
+   "no": "第三章",
+   "heading": "第三章 工作管理及考核",
+   "heading_kind": "author",
+   "lines": [
+    126,
+    152
+   ],
+   "items": [
+    "pt-6da2a77de8"
+   ],
+   "chars": 895
+  },
+  {
+   "no": "第十九条",
+   "heading": "班委会的产生、任期与换届",
+   "heading_kind": "derived",
+   "lines": [
+    127,
+    130
+   ],
+   "items": [
+    "pt-caa8cabf30"
+   ],
+   "chars": 130
+  },
+  {
+   "no": "第二十条",
+   "heading": "新生临时班委会与第一届班委会",
+   "heading_kind": "derived",
+   "lines": [
+    131,
+    133
+   ],
+   "items": [
+    "pt-7d6db1f057"
+   ],
+   "chars": 96
+  },
+  {
+   "no": "第二十一条",
+   "heading": "班委会职数、兼任与登记备案",
+   "heading_kind": "derived",
+   "lines": [
+    134,
+    136
+   ],
+   "items": [
+    "pt-df8d14ff83"
+   ],
+   "chars": 110
+  },
+  {
+   "no": "第二十二条",
+   "heading": "工作例会制度",
+   "heading_kind": "derived",
+   "lines": [
+    137,
+    138
+   ],
+   "items": [
+    "pt-0196f80875"
+   ],
+   "chars": 65
+  },
+  {
+   "no": "第二十三条",
+   "heading": "班会与工作传达",
+   "heading_kind": "derived",
+   "lines": [
+    139,
+    140
+   ],
+   "items": [
+    "pt-24a7eb3141",
+    "pt-39b0ea4c77"
+   ],
+   "chars": 64
+  },
+  {
+   "no": "第二十四条",
+   "heading": "民主协商、班务公开与述职考核",
+   "heading_kind": "derived",
+   "lines": [
+    141,
+    144
+   ],
+   "items": [
+    "pt-57ec8c328b"
+   ],
+   "chars": 132
+  },
+  {
+   "no": "第二十五条",
+   "heading": "劳动积分与优秀学生干部荣誉",
+   "heading_kind": "derived",
+   "lines": [
+    145,
+    148
+   ],
+   "items": [
+    "pt-e7632bcd19"
+   ],
+   "chars": 137
+  },
+  {
+   "no": "第二十六条",
+   "heading": "取消评优资格与解除职务的情形",
+   "heading_kind": "derived",
+   "lines": [
+    149,
+    152
+   ],
+   "items": [
+    "pt-158d146775"
+   ],
+   "chars": 150
+  },
+  {
+   "no": "第四章",
+   "heading": "第四章 附则",
+   "heading_kind": "author",
+   "lines": [
+    153,
+    157
+   ],
+   "items": [
+    "pt-6516383b24"
+   ],
+   "chars": 132
+  },
+  {
+   "no": "第二十七条",
+   "heading": "各学院制定实施细则",
+   "heading_kind": "derived",
+   "lines": [
+    154,
+    154
+   ],
+   "items": [],
+   "chars": 40
+  },
+  {
+   "no": "第二十八条",
+   "heading": "解释权归学生工作部（处）",
+   "heading_kind": "derived",
+   "lines": [
+    155,
+    155
+   ],
+   "items": [
+    "pt-781f0d329e"
+   ],
+   "chars": 24
+  },
+  {
+   "no": "第二十九条",
+   "heading": "施行日期与原规定废止",
+   "heading_kind": "derived",
+   "lines": [
+    156,
+    157
+   ],
+   "items": [
+    "pt-136117ff26"
+   ],
+   "chars": 62
+  }
+ ],
+ "items": [
+  "rule-hbcac8e2b503",
+  "pt-caa8cabf30",
+  "pt-39b0ea4c77",
+  "pt-158d146775",
+  "pt-16e19bac16",
+  "pt-85a32c0c8e",
+  "pt-549c24ed6a",
+  "pt-2700d48d27",
+  "pt-d16b471514",
+  "pt-e02a136ce6",
+  "pt-86e80dc453",
+  "pt-5dde349092",
+  "pt-d705d0a189",
+  "pt-260e09c90b",
+  "pt-4a68428ecf",
+  "pt-2ce28eb810",
+  "pt-ed910ce49b",
+  "pt-2cd60d5781",
+  "pt-3b843635dc",
+  "pt-ea02af0204",
+  "pt-6ce9de91c8",
+  "pt-b06c33fb11",
+  "pt-5971165ddb",
+  "pt-aa590a5a89",
+  "pt-3b9a8a4fc5",
+  "pt-56a0220f5e",
+  "pt-a646e71047",
+  "pt-2a955bcc2c",
+  "pt-069b367c5f",
+  "pt-c0ee73f0ce",
+  "pt-e393fcb0a5",
+  "pt-3ad02e70e0",
+  "pt-4b273318c4",
+  "pt-ae69ad1fbf",
+  "pt-72cee328b9",
+  "pt-04ee835bc6",
+  "pt-4748619a13",
+  "pt-e7c0f10c3a",
+  "pt-e771874153",
+  "pt-7ab82eaacf",
+  "pt-9ccdef56ea",
+  "pt-eef1aea178",
+  "pt-917512bebf",
+  "pt-6da2a77de8",
+  "pt-7d6db1f057",
+  "pt-df8d14ff83",
+  "pt-0196f80875",
+  "pt-24a7eb3141",
+  "pt-57ec8c328b",
+  "pt-e7632bcd19",
+  "pt-6516383b24",
+  "pt-781f0d329e",
+  "pt-136117ff26"
+ ],
+ "notes": [
+  "制度汇编切片（huibian，page_label 38）：第 1 行「- 38 -」是页码行，按口径不单列节、也不作节首，故第 1 行是全文唯一的覆盖空隙。",
+  "第 2–3 行合为「办法标题与文号」：标题「中国传媒大学班级学生委员会工作办法」与文号「学 工 教 字〔 2 0 2 4 〕7 2 号」（原文逐字带字间空格）两行。pt-16e19bac16 的引文正是这两行去空白后的连读。",
+  "结构为「章（第一章—第四章）→ 条（第一条—第二十九条）」两级真嵌套：章为父节（区间＝章范围，heading 取原文「第一章　总则」等，作者原文可逐字查，标 author），条为子节。",
+  "第二章（22–125）下十八条全部是班委岗位职责，原文「第八条　班长」「第九条　德育委员」…「第十八条　就业委员」自带岗位名，故这十一条的 heading 直接用岗位名并标 author；第一章、第三章、第四章各条原文只有条号、没有小标题，heading 是按条文主旨概括的短名（derived）；`no` 一律记「第X条」，不等于 heading。",
+  "章级父节承担「引文起点落在章标题行」的四条（26 字前缀横跨章标题与首条，条子节区间里落不了地）：pt-85a32c0c8e（「第一章总则第一条为落实立德树人根本任务…」）列「第一章」，pt-d705d0a189（「第二章岗位职责第八条班长（一）协助班主任…」）列「第二章」，pt-6da2a77de8（「第三章工作管理及考核第十九条班委会在班主任的指导下成立…」）列「第三章」，pt-6516383b24（「第四章附则第二十七条各学院可依据…」）列「第四章」。",
+  "岗位职责条下的「（一）—（八）」分项不单列子节，随所属条并入同一节（否则一章要切出上百节）；条目按引文所在的（一）（二）…仍落回该条。第十七条（103–117）含（一）—（八）八项与第 107 行页码行，九条条目全在该区间内。",
+  "重复文本的落点按条目标题所指的条判定，不取全文首次出现：「（四）完成学院及学校相关部门交办的其他工作。」在第九、十、十一、十二、十三、十四、十五、十六、十七、十八条各出现一次，pt-56a0220f5e 的标题指明「第十四条美育委员」，故记在第十四条（第 86 行），不记在首次出现的第九条（第 43 行）；pt-e7c0f10c3a「（八）完成学院及学校相关部门交办的其他工作。」同理记在第十七条（117 行）。",
+  "pt-4b273318c4 的引文只有「问题的处置办法。」一句，是第十七条（三）项跨页码行（107 行）后的续句（第 108 行），故并入第十七条；pt-3ad02e70e0 的引文把（二）（三）两项连读，同样落第十七条。",
+  "rule-hbcac8e2b503 是文档级条目（无引文，标题≈文档名），按约定列进文档级 items 并落在第一节「办法标题与文号」。",
+  "正文止于第 157 行第二十九条，无落款、无截断；53 条条目（含 rule 一条）全部在本文命中落点，无跨文件引用。"
+ ]
+}

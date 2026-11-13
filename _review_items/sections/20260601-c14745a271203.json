@@ -1,1 +1,131 @@
-ew0KICJrZXkiOiAiMjAyNjA2MDEtYzE0NzQ1YTI3MTIwMyIsDQogInRpdGxlIjogIuWjsOWQr+aXheeoi++8jOWQkeaWsOiAjOihjO+9nOS/oeaBr+S8oOaSreWtpumZouW4iOeUn+iNo+iOtzIwMjbmoKHnuqflkIjllLHmr5TotZvkuInnrYnlpZYiLA0KICJ0cnVuY2F0ZWQiOiBmYWxzZSwNCiAic2VjdGlvbnMiOiBbDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi6aG16Z2i5qGG5p6277yI6aG15aS05qCH6aKY44CB56uZ5YaF5a+86Iiq5LiO5Y+R5biD5pe26Ze077yJIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMSwNCiAgICAzNg0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZTAyNjRlYzg2MCINCiAgIF0sDQogICAiY2hhcnMiOiAzNzYNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLlr7zor63vvJrmr5TotZvnu5PmnpzkuI7ojrflpZbmg4XlhrXjgIHkvJjnp4Dlm6Llp5TkuI7jgIzlpYvmlpfpnZLlubTjgI3lm77ms6giLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzNywNCiAgICA0MQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNjNlOTUyYjVkMCIsDQogICAgInB0LWIyNzUxZmVhODUiDQogICBdLA0KICAgImNoYXJzIjogNDE4DQogIH0sDQogIHsNCiAgICJubyI6ICIwMSIsDQogICAiaGVhZGluZyI6ICIwMSDku6Xlo7DogZrpmJ/vvIzlhbHllLHpnZLmmKUiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDQyLA0KICAgIDQ2DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC00NzI4ZDFmYmVhIg0KICAgXSwNCiAgICJjaGFycyI6IDM0OQ0KICB9LA0KICB7DQogICAibm8iOiAiMDIiLA0KICAgImhlYWRpbmciOiAiMDIg6LWw5ZCR6Iie5Y+w77yM5q2M5ZSx5biM5pybIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA0NywNCiAgICA1MQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMDYyNzRlYjdmMCINCiAgIF0sDQogICAiY2hhcnMiOiAzMDUNCiAgfSwNCiAgew0KICAgIm5vIjogIjAzIiwNCiAgICJoZWFkaW5nIjogIjAzIOW4iOiAheWmguatjO+8jOiWqueBq+ebuOS8oCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNTIsDQogICAgNTUNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTk3MDU5OWE4ZGIiDQogICBdLA0KICAgImNoYXJzIjogMTc3DQogIH0sDQogIHsNCiAgICJubyI6ICIwNCIsDQogICAiaGVhZGluZyI6ICIwNCDli4flpLrkvbPnu6nvvIzlo7DnlJ/kuI3mga8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDU2LA0KICAgIDU5DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0yZjc3ZDYyZTMxIg0KICAgXSwNCiAgICJjaGFycyI6IDIyNA0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIue7k+ivreOAgei1m+WQjuWQiOW9seS4juWQiOWUseWbouaIkOWRmOWQjeWNlSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDYwLA0KICAgIDcwDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1jYWJlMjJkY2E5IiwNCiAgICAicHQtNzQyYTk3OWRhNSINCiAgIF0sDQogICAiY2hhcnMiOiA1MTUNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLpobXohJrvvIjlj4vmg4Xpk77mjqXjgIHlnLDlnYDkuI7niYjmnYPkv6Hmga/vvIkiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA3MSwNCiAgICA4OA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogNDA1DQogIH0NCiBdLA0KICJpdGVtcyI6IFsNCiAgInB0LWUwMjY0ZWM4NjAiLA0KICAicHQtNjNlOTUyYjVkMCIsDQogICJwdC1iMjc1MWZlYTg1IiwNCiAgInB0LTQ3MjhkMWZiZWEiLA0KICAicHQtMDYyNzRlYjdmMCIsDQogICJwdC05NzA1OTlhOGRiIiwNCiAgInB0LTJmNzdkNjJlMzEiLA0KICAicHQtY2FiZTIyZGNhOSIsDQogICJwdC03NDJhOTc5ZGE1Ig0KIF0sDQogIm5vdGVzIjogWw0KICAi572R6aG15oq95Y+W5Lu277yI5L+h5oGv5Lyg5pKt5a2m6Zmi56uZ54K55paw6Ze76aG177yJ77yM5q2j5paH5a6M5pW044CB5peg5oiq5pat77yb6KGM5Y+35oyJIFB5dGhvbiDpgJrnlKjmjaLooYzlj6PlvoTvvIjmupDmlocgODgg6KGM77yJ6YCQ6KGM5a+55bqU44CCIiwNCiAgIuesrCAxIOihjOmhtemdouagh+mimOS4juesrCAzNSDooYzmraPmlofmoIfpopjph43lpI3vvIznrKwgMuKAkzM0IOihjOS4uiBsb2dv44CB5YWo56uZ5a+86Iiq5LiO5qCP55uuIGJhbm5lcu+8j+mdouWMheWxkeOAjOmmlumhtSDlhZrnvqTlt6XkvZwg5Zui5a2m5Yqo5oCB44CN77yM56ysIDM2IOihjOOAjOWPkeW4g+aXtumXtO+8mjIwMjYtMDUtMzHmtY/op4jmrKHmlbDvvJoyOOOAje+8m+W5tuWFpeOAjOmhtemdouahhuaetuOAjeS4gOiKguOAgiIsDQogICLmraPmlofmnInlm5vkuKrnnJ/mraPnmoTnvJblj7flsI/oioLvvJrjgIwwMSDku6Xlo7DogZrpmJ/vvIzlhbHllLHpnZLmmKXjgI3vvIjnrKwgNDMg6KGM77yJ44CB44CMMDIg6LWw5ZCR6Iie5Y+w77yM5q2M5ZSx5biM5pyb44CN77yI56ysIDQ4IOihjO+8ieOAgeOAjDAzIOW4iOiAheWmguatjO+8jOiWqueBq+ebuOS8oOOAje+8iOesrCA1MyDooYzvvInjgIHjgIwwNCDli4flpLrkvbPnu6nvvIzlo7DnlJ/kuI3mga/jgI3vvIjnrKwgNTcg6KGM77yJ77yM5Zub6KGM6YCQ5a2X5Y+v5p+l77yM6K6wIGF1dGhvcuOAgiIsDQogICLlm5voioLnmoTooYzljLrpl7Tpg73ku44qKuS4iuS4gOW8oOWbvueahOivtOaYjuihjCoq6LW377yI56ysIDQy44CBNDfjgIE1MuOAgTU2IOihjO+8ie+8jOWOn+WboOaYryBwdC00NzI4ZDFmYmVh44CBcHQtMDYyNzRlYjdmMOOAgXB0LTk3MDU5OWE4ZGLjgIFwdC0yZjc3ZDYyZTMxIOWbm+adoeW8leaWh+eahOi1t+eCueaKiuOAjOWbvuazqO+8i+S4i+S4gOiKguagh+mimOOAjeS4suWcqOS4gOi1t++8iOesrCA0MuKGkjQz44CBNDfihpI0OOOAgTUy4oaSNTPjgIE1NuKGkjU3IOihjO+8ie+8jOS4jeaKiuWbvuazqOW5tuWFpeWwseiQveS4jeS6huWcsO+8m+WbvuazqOacrOi6q+S7jeWxnuS4iuS4gOW8oOWbvu+8jOWxnuS7u+WKoeS5puWFgeiuuOeahOS+i+WkluOAgiIsDQogICLnrKwgNjAg6KGM44CM5L+h5oGv5Lyg5pKt5a2m6Zmi6I2j6I635LiJ562J5aWW44CN5piv5Zu+54mH6K+05piO77yM56ysIDYzIOihjOOAjOi1m+WQjuWQiOW9seOAjeS4juesrCA2NCDooYzjgIzlkIjllLHlm6LmiJDlkZjlkI3ljZXjgI3vvIjnrKwgNjXigJM2OCDooYzpoobpmJ/vvI/kvLTlpY/vvI/mjIfmjKXvvI/mjIflr7zvvInlkIzlsZ7mlofmnKvkv6Hmga/lnZfvvIzlkIjlubbkuLrkuIDoioLigJTigJRwdC1jYWJlMjJkY2E5IOeahOW8leaWh+S7juesrCA2MCDooYzkuLLliLDnrKwgNjEg6KGM57uT6K+t77yMcHQtNzQyYTk3OWRhNSDnmoTlvJXmlofku47nrKwgNjMg6KGM5Liy5Yiw56ysIDY0IOihjOWQjeWNleOAgiIsDQogICLnrKwgNjnigJM3MCDooYzkuLrml6Dor7TmmI7nmoTlm77pmYTku7bvvJvnrKwgNzHigJM4OCDooYzkuLrpobXohJrkuI7mjqLpkojvvIjlj4vmg4Xpk77mjqXjgIHlnLDlnYDpgq7nvJbjgIHniYjmnYPkuI7lpIfmoYjlj7fjgIHlm57liLDpobbpg6jlm77jgIHjgIxfdmlzaXRjb3VudOOAjeiuoeaVsOivt+axgu+8ie+8jOS4jeaMguadoeebruOAgiIsDQogICI5IOS4quadoeebruWFqOacieW8leaWh+S4lOWFqOiQveWcqOacrOaWh+ato+aWh++8jOaXoOaWh+aho+e6pyBydWxlLSog5p2h55uu44CB5peg6Leo5paH5Lu25byV55So44CCIg0KIF0NCn0=
+{
+ "key": "20260601-c14745a271203",
+ "title": "声启旅程，向新而行｜信息传播学院师生荣获2026校级合唱比赛三等奖",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "页面框架（页头标题、站内导航与发布时间）",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    36
+   ],
+   "items": [
+    "pt-e0264ec860"
+   ],
+   "chars": 376
+  },
+  {
+   "no": "—",
+   "heading": "导语：比赛结果与获奖情况、优秀团委与「奋斗青年」图注",
+   "heading_kind": "derived",
+   "lines": [
+    37,
+    41
+   ],
+   "items": [
+    "pt-63e952b5d0",
+    "pt-b2751fea85"
+   ],
+   "chars": 418
+  },
+  {
+   "no": "01",
+   "heading": "01 以声聚队，共唱青春",
+   "heading_kind": "author",
+   "lines": [
+    42,
+    46
+   ],
+   "items": [
+    "pt-4728d1fbea"
+   ],
+   "chars": 349
+  },
+  {
+   "no": "02",
+   "heading": "02 走向舞台，歌唱希望",
+   "heading_kind": "author",
+   "lines": [
+    47,
+    51
+   ],
+   "items": [
+    "pt-06274eb7f0"
+   ],
+   "chars": 305
+  },
+  {
+   "no": "03",
+   "heading": "03 师者如歌，薪火相传",
+   "heading_kind": "author",
+   "lines": [
+    52,
+    55
+   ],
+   "items": [
+    "pt-970599a8db"
+   ],
+   "chars": 177
+  },
+  {
+   "no": "04",
+   "heading": "04 勇夺佳绩，声生不息",
+   "heading_kind": "author",
+   "lines": [
+    56,
+    59
+   ],
+   "items": [
+    "pt-2f77d62e31"
+   ],
+   "chars": 224
+  },
+  {
+   "no": "—",
+   "heading": "结语、赛后合影与合唱团成员名单",
+   "heading_kind": "derived",
+   "lines": [
+    60,
+    70
+   ],
+   "items": [
+    "pt-cabe22dca9",
+    "pt-742a979da5"
+   ],
+   "chars": 515
+  },
+  {
+   "no": "—",
+   "heading": "页脚（友情链接、地址与版权信息）",
+   "heading_kind": "derived",
+   "lines": [
+    71,
+    88
+   ],
+   "items": [],
+   "chars": 405
+  }
+ ],
+ "items": [
+  "pt-e0264ec860",
+  "pt-63e952b5d0",
+  "pt-b2751fea85",
+  "pt-4728d1fbea",
+  "pt-06274eb7f0",
+  "pt-970599a8db",
+  "pt-2f77d62e31",
+  "pt-cabe22dca9",
+  "pt-742a979da5"
+ ],
+ "notes": [
+  "网页抽取件（信息传播学院站点新闻页），正文完整、无截断；行号按 Python 通用换行口径（源文 88 行）逐行对应。",
+  "第 1 行页面标题与第 35 行正文标题重复，第 2–34 行为 logo、全站导航与栏目 banner／面包屑「首页 党群工作 团学动态」，第 36 行「发布时间：2026-05-31浏览次数：28」；并入「页面框架」一节。",
+  "正文有四个真正的编号小节：「01 以声聚队，共唱青春」（第 43 行）、「02 走向舞台，歌唱希望」（第 48 行）、「03 师者如歌，薪火相传」（第 53 行）、「04 勇夺佳绩，声生不息」（第 57 行），四行逐字可查，记 author。",
+  "四节的行区间都从**上一张图的说明行**起（第 42、47、52、56 行），原因是 pt-4728d1fbea、pt-06274eb7f0、pt-970599a8db、pt-2f77d62e31 四条引文的起点把「图注＋下一节标题」串在一起（第 42→43、47→48、52→53、56→57 行），不把图注并入就落不了地；图注本身仍属上一张图，属任务书允许的例外。",
+  "第 60 行「信息传播学院荣获三等奖」是图片说明，第 63 行「赛后合影」与第 64 行「合唱团成员名单」（第 65–68 行领队／伴奏／指挥／指导）同属文末信息块，合并为一节——pt-cabe22dca9 的引文从第 60 行串到第 61 行结语，pt-742a979da5 的引文从第 63 行串到第 64 行名单。",
+  "第 69–70 行为无说明的图附件；第 71–88 行为页脚与探针（友情链接、地址邮编、版权与备案号、回到顶部图、「_visitcount」计数请求），不挂条目。",
+  "9 个条目全有引文且全落在本文正文，无文档级 rule-* 条目、无跨文件引用。"
+ ]
+}

@@ -1,1 +1,96 @@
-IiIi6aKY5bqT5Lik6LeR5a+554Wn77ya5a2X6Z2iIHZzIGRlbnNl44CCCgogICAgcHl0aG9uIC1tIF9ldmFsLmJhbmtfY29tcGFyZQoK6K+7IGBfZXZhbC9vdXQvYmFua19zcGFyc2UuanNvbmAg5LiOIGBfZXZhbC9vdXQvYmFua19kZW5zZS5qc29uYO+8jOi+k+WHuu+8mgoxLiDlkITnsbvlnovmjIfmoIflr7nnhafvvJsKMi4gZGVuc2Ug5pWR5Zue5p2l55qE6aKY77yI5a2X6Z2i5rKh5Lit44CBZGVuc2Ug5Lit5LqG77yJ77ybCjMuIGRlbnNlIOW8hOWdj+eahOmimO+8iOWtl+mdouS4reS6huOAgWRlbnNlIOayoeS4re+8ie+8mwo0LiDkuKTot5Hpg73msqHkuK3nmoTpopjvvIgqKua8jyoq77yM6YCQ5p2h5YiX5Ye65p2l77yJ77ybCjUuIOaLkuetlOWvueeFp++8iOivpeaLkuayoeaLkiAvIOivr+aLku+8ieOAggoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGpzb24KZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCgpST09UID0gUGF0aChfX2ZpbGVfXykucmVzb2x2ZSgpLnBhcmVudHNbMV0KT1VUID0gUk9PVCAvICJfZXZhbCIgLyAib3V0IgpLSU5EUyA9ICgiaXRlbSIsICJzZWN0aW9uIiwgInJlZnVzZSIsICJmb2N1cyIsICJzb2Z0IikKCgpkZWYgbG9hZCh0YWc6IHN0cikgLT4gZGljdCB8IE5vbmU6CiAgICBwID0gT1VUIC8gZiJiYW5rX3t0YWd9Lmpzb24iCiAgICBpZiBub3QgcC5leGlzdHMoKToKICAgICAgICByZXR1cm4gTm9uZQogICAgcmV0dXJuIGpzb24ubG9hZHMocC5yZWFkX3RleHQoZW5jb2Rpbmc9InV0Zi04IikpCgoKZGVmIGluZGV4X3Jvd3MoZGF0YTogZGljdCkgLT4gZGljdFtzdHIsIGRpY3RdOgogICAgcmV0dXJuIHtyWyJxIl06IHIgZm9yIHIgaW4gZGF0YVsicm93cyJdfQoKCmRlZiBmbXQoa2luZDogc3RyLCBzOiBkaWN0KSAtPiBzdHI6CiAgICBpZiBraW5kID09ICJyZWZ1c2UiOgogICAgICAgIHJldHVybiBmIuaLkuetlCB7cy5nZXQoJ3JlZnVzZWRfcmF0ZScsIDApOi4xJX0gKG49e3NbJ24nXX0pIgogICAgaWYga2luZCBpbiAoImZvY3VzIiwgInNvZnQiKToKICAgICAgICByZXR1cm4gZiLkvZznrZQge3MuZ2V0KCdhbnN3ZXJfcmF0ZScsIDApOi4xJX0gKG49e3NbJ24nXX0pIgogICAgcmV0dXJuIChmImhpdEAxIHtzLmdldCgnaGl0QDEnLCAwKTouMSV9IC8gaGl0QDUge3MuZ2V0KCdoaXRANScsIDApOi4xJX0gKG49e3NbJ24nXX0pIikKCgpkZWYgbWFpbigpIC0+IE5vbmU6CiAgICBhLCBiID0gbG9hZCgic3BhcnNlIiksIGxvYWQoImRlbnNlIikKICAgIGlmIGEgaXMgTm9uZToKICAgICAgICByYWlzZSBTeXN0ZW1FeGl0KCLnvLogYmFua19zcGFyc2UuanNvbu+8jOWFiOi3kSBweXRob24gLW0gX2V2YWwuYmFua19ldmFsIikKICAgIHJvd3NfYSA9IGluZGV4X3Jvd3MoYSkKICAgIHJvd3NfYiA9IGluZGV4X3Jvd3MoYikgaWYgYiBlbHNlIHt9CiAgICBwcmludCgiPSIgKiA3OCkKICAgIHByaW50KGYieyfnsbvlnosnOjZzfSB7J+Wtl+mdou+8iOaXoCBlbWJlZGRpbmfvvIknOjM4c30geydkZW5zZSc6MzhzfSIpCiAgICBmb3IgayBpbiBLSU5EUzoKICAgICAgICBzYSA9IGFbInN1bW1hcnkiXS5nZXQoaykKICAgICAgICBpZiBub3Qgc2E6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgc2IgPSAoYlsic3VtbWFyeSJdLmdldChrKSBpZiBiIGVsc2UgTm9uZSkKICAgICAgICBwcmludChmIntrOjZzfSB7Zm10KGssIHNhKTozOHN9IHtmbXQoaywgc2IpIGlmIHNiIGVsc2UgJ+KAlCc6MzhzfSIpCiAgICBwcmludCgi5bu26L+f77yaIiwgYVsic3VtbWFyeSJdWyJfbWV0YSJdWyJwNTBfbXMiXSwgIm1zIC0+IiwKICAgICAgICAgIChiWyJzdW1tYXJ5Il1bIl9tZXRhIl1bInA1MF9tcyJdIGlmIGIgZWxzZSAi4oCUIiksICJtcyIpCgogICAgaWYgbm90IGI6CiAgICAgICAgcHJpbnQoIlxu77yI6L+Y5rKh5pyJIGRlbnNlIOmCo+S4gOi3ke+8iSIpCiAgICAgICAgcmV0dXJuCgogICAgZGVmIGhpdChyOiBkaWN0KSAtPiBib29sOgogICAgICAgIHJldHVybiBib29sKHIuZ2V0KCJoaXRAayIpKSBpZiByWyJraW5kIl0gaW4gKCJpdGVtIiwgInNlY3Rpb24iKSBlbHNlIFRydWUKCiAgICBmaXhlZCA9IFtxIGZvciBxLCByYSBpbiByb3dzX2EuaXRlbXMoKQogICAgICAgICAgICAgaWYgcmFbImtpbmQiXSBpbiAoIml0ZW0iLCAic2VjdGlvbiIpIGFuZCBub3QgaGl0KHJhKSBhbmQgaGl0KHJvd3NfYltxXSldCiAgICBicm9rZSA9IFtxIGZvciBxLCByYSBpbiByb3dzX2EuaXRlbXMoKQogICAgICAgICAgICAgaWYgcmFbImtpbmQiXSBpbiAoIml0ZW0iLCAic2VjdGlvbiIpIGFuZCBoaXQocmEpIGFuZCBub3QgaGl0KHJvd3NfYltxXSldCiAgICBib3RoX21pc3MgPSBbcSBmb3IgcSwgcmEgaW4gcm93c19hLml0ZW1zKCkKICAgICAgICAgICAgICAgICBpZiByYVsia2luZCJdIGluICgiaXRlbSIsICJzZWN0aW9uIikgYW5kIG5vdCBoaXQocmEpIGFuZCBub3QgaGl0KHJvd3NfYltxXSldCiAgICBwcmludChmIlxuZGVuc2Ug5pWR5ZueIHtsZW4oZml4ZWQpfSDmnaHvvIzlvITlnY8ge2xlbihicm9rZSl9IOadoe+8jOS4pOi3kemDveayoeS4rSB7bGVuKGJvdGhfbWlzcyl9IOadoSIpCiAgICBpZiBmaXhlZDoKICAgICAgICBwcmludCgiXG4tLSBkZW5zZSDmlZHlm57vvIjliY0gMjDvvIktLSIpCiAgICAgICAgZm9yIHEgaW4gZml4ZWRbOjIwXToKICAgICAgICAgICAgcHJpbnQoZiIgIOKckyB7cVs6NTBdfSIpCiAgICBpZiBicm9rZToKICAgICAgICBwcmludCgiXG4tLSBkZW5zZSDlvITlnY/vvIjliY0gMjDvvIktLSIpCiAgICAgICAgZm9yIHEgaW4gYnJva2VbOjIwXToKICAgICAgICAgICAgcHJpbnQoZiIgIOKclyB7cVs6NTBdfSIpCiAgICBpZiBib3RoX21pc3M6CiAgICAgICAgcHJpbnQoIlxuLS0g5Lik6LeR6YO95rKh5Lit77yI6L+Z5bCx5piv44CM5ryP44CN77yJLS0iKQogICAgICAgIGZvciBxIGluIGJvdGhfbWlzczoKICAgICAgICAgICAgcmEgPSByb3dzX2FbcV0KICAgICAgICAgICAgcHJpbnQoZiIgIMK3IHtxWzo1Nl19IikKICAgICAgICAgICAgcHJpbnQoZiIgICAgICDmnJ/mnJsge3JhWydleHBlY3QnXX0gIOWtl+mdoiB0b3A9e3JhWyd0b3AnXVs6Ml19ICBkZW5zZSB0b3A9e3Jvd3NfYltxXVsndG9wJ11bOjJdfSIpCgogICAgcHJpbnQoIlxuLS0g5ouS562U5a+554WnIC0tIikKICAgIGZvciBxLCByYSBpbiByb3dzX2EuaXRlbXMoKToKICAgICAgICBpZiByYVsia2luZCJdICE9ICJyZWZ1c2UiOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIHJiID0gcm93c19iW3FdCiAgICAgICAgcHJpbnQoZiIgIHtxWzoyOF06MzBzfSDlrZfpnaIgcmVmdXNlZD17cmFbJ3JlZnVzZWQnXX0gIGRlbnNlIHJlZnVzZWQ9e3JiWydyZWZ1c2VkJ119IikKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==
+"""题库两跑对照：字面 vs dense。
+
+    python -m _eval.bank_compare
+
+读 `_eval/out/bank_sparse.json` 与 `_eval/out/bank_dense.json`，输出：
+1. 各类型指标对照；
+2. dense 救回来的题（字面没中、dense 中了）；
+3. dense 弄坏的题（字面中了、dense 没中）；
+4. 两跑都没中的题（**漏**，逐条列出来）；
+5. 拒答对照（该拒没拒 / 误拒）。
+"""
+from __future__ import annotations
+
+import json
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+OUT = ROOT / "_eval" / "out"
+KINDS = ("item", "section", "refuse", "focus", "soft")
+
+
+def load(tag: str) -> dict | None:
+    p = OUT / f"bank_{tag}.json"
+    if not p.exists():
+        return None
+    return json.loads(p.read_text(encoding="utf-8"))
+
+
+def index_rows(data: dict) -> dict[str, dict]:
+    return {r["q"]: r for r in data["rows"]}
+
+
+def fmt(kind: str, s: dict) -> str:
+    if kind == "refuse":
+        return f"拒答 {s.get('refused_rate', 0):.1%} (n={s['n']})"
+    if kind in ("focus", "soft"):
+        return f"作答 {s.get('answer_rate', 0):.1%} (n={s['n']})"
+    return (f"hit@1 {s.get('hit@1', 0):.1%} / hit@5 {s.get('hit@5', 0):.1%} (n={s['n']})")
+
+
+def main() -> None:
+    a, b = load("sparse"), load("dense")
+    if a is None:
+        raise SystemExit("缺 bank_sparse.json，先跑 python -m _eval.bank_eval")
+    rows_a = index_rows(a)
+    rows_b = index_rows(b) if b else {}
+    print("=" * 78)
+    print(f"{'类型':6s} {'字面（无 embedding）':38s} {'dense':38s}")
+    for k in KINDS:
+        sa = a["summary"].get(k)
+        if not sa:
+            continue
+        sb = (b["summary"].get(k) if b else None)
+        print(f"{k:6s} {fmt(k, sa):38s} {fmt(k, sb) if sb else '—':38s}")
+    print("延迟：", a["summary"]["_meta"]["p50_ms"], "ms ->",
+          (b["summary"]["_meta"]["p50_ms"] if b else "—"), "ms")
+
+    if not b:
+        print("\n（还没有 dense 那一跑）")
+        return
+
+    def hit(r: dict) -> bool:
+        return bool(r.get("hit@k")) if r["kind"] in ("item", "section") else True
+
+    fixed = [q for q, ra in rows_a.items()
+             if ra["kind"] in ("item", "section") and not hit(ra) and hit(rows_b[q])]
+    broke = [q for q, ra in rows_a.items()
+             if ra["kind"] in ("item", "section") and hit(ra) and not hit(rows_b[q])]
+    both_miss = [q for q, ra in rows_a.items()
+                 if ra["kind"] in ("item", "section") and not hit(ra) and not hit(rows_b[q])]
+    print(f"\ndense 救回 {len(fixed)} 条，弄坏 {len(broke)} 条，两跑都没中 {len(both_miss)} 条")
+    if fixed:
+        print("\n-- dense 救回（前 20）--")
+        for q in fixed[:20]:
+            print(f"  ✓ {q[:50]}")
+    if broke:
+        print("\n-- dense 弄坏（前 20）--")
+        for q in broke[:20]:
+            print(f"  ✗ {q[:50]}")
+    if both_miss:
+        print("\n-- 两跑都没中（这就是「漏」）--")
+        for q in both_miss:
+            ra = rows_a[q]
+            print(f"  · {q[:56]}")
+            print(f"      期望 {ra['expect']}  字面 top={ra['top'][:2]}  dense top={rows_b[q]['top'][:2]}")
+
+    print("\n-- 拒答对照 --")
+    for q, ra in rows_a.items():
+        if ra["kind"] != "refuse":
+            continue
+        rb = rows_b[q]
+        print(f"  {q[:28]:30s} 字面 refused={ra['refused']}  dense refused={rb['refused']}")
+
+
+if __name__ == "__main__":
+    main()

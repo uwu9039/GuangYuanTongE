@@ -1,1 +1,181 @@
-ew0KICJrZXkiOiAiMjAyNjA1MjgtYzI3NTNhMjcxMTEyIiwNCiAidGl0bGUiOiAi5Lit5Zu95Lyg5aqS5aSn5a2m5a2m55Sf6KGM5Li65YeG5YiZ77yI5L+u6K6i77yJ77yI5Lit5Lyg5a2m5a2X44CUMjAxN+OAlTIyOeWPt++8iSIsDQogInRydW5jYXRlZCI6IGZhbHNlLA0KICJzZWN0aW9ucyI6IFsNCiAgew0KICAgIm5vIjogIumhtemdouahhuaetiIsDQogICAiaGVhZGluZyI6ICLpobXpnaLmoIfpopjkuI7nq5nngrnlr7zoiKrmoI/nm64iLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxLA0KICAgIDQxDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAxOTANCiAgfSwNCiAgew0KICAgIm5vIjogIuagh+mimCIsDQogICAiaGVhZGluZyI6ICLmoIfpopjjgIHlj5HluIPkv6Hmga/jgIHmloflj7fkuI7liLblrprkvp3mja4iLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA0MiwNCiAgICA0NQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicnVsZS0yMDI2MDUyOC1jMjc1M2EyNzExMTIiLA0KICAgICJwdC0yZjNmMDEzZmYyIiwNCiAgICAicHQtY2U5MjNmYjJmYiINCiAgIF0sDQogICAiY2hhcnMiOiAxNTUNCiAgfSwNCiAgew0KICAgIm5vIjogIuS4gOOAgSIsDQogICAiaGVhZGluZyI6ICLlv5flrZjpq5jov5zvvIzlnZrlrprkv6Hlv7UiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDQ2LA0KICAgIDQ2DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0wOTNlYTM1NWRiIg0KICAgXSwNCiAgICJjaGFycyI6IDEzMQ0KICB9LA0KICB7DQogICAibm8iOiAi5LqM44CBIiwNCiAgICJoZWFkaW5nIjogIueDreeIseelluWbve+8jOacjeWKoeS6uuawkSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNDcsDQogICAgNDcNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWJmZGQ4M2UyZTAiDQogICBdLA0KICAgImNoYXJzIjogMTA5DQogIH0sDQogIHsNCiAgICJubyI6ICLkuInjgIEiLA0KICAgImhlYWRpbmciOiAi5Yuk5aWL5a2m5Lmg77yM6Ieq5by65LiN5oGvIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA0OCwNCiAgICA0OA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNThkZTk5YzM2OSINCiAgIF0sDQogICAiY2hhcnMiOiA1Mg0KICB9LA0KICB7DQogICAibm8iOiAi5Zub44CBIiwNCiAgICJoZWFkaW5nIjogIumBtee6quWuiOazle+8jOW8mOaJrOato+awlCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNDksDQogICAgNDkNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTZlYjJmOWRkZjAiDQogICBdLA0KICAgImNoYXJzIjogMTA1DQogIH0sDQogIHsNCiAgICJubyI6ICLkupTjgIEiLA0KICAgImhlYWRpbmciOiAi6K+a5a6e5a6I5L+h77yM5Lil5LqO5b6L5bexIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1MCwNCiAgICA1MA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtN2YzZmQ3OWMyMSINCiAgIF0sDQogICAiY2hhcnMiOiA3Nw0KICB9LA0KICB7DQogICAibm8iOiAi5YWt44CBIiwNCiAgICJoZWFkaW5nIjogIuaYjuekvOS/rui6q++8jOWboue7k+WPi+eIsSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNTEsDQogICAgNTENCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWUzMTE3OTA0NTYiDQogICBdLA0KICAgImNoYXJzIjogODMNCiAgfSwNCiAgew0KICAgIm5vIjogIuS4g+OAgSIsDQogICAiaGVhZGluZyI6ICLli6Tkv63oioLnuqbvvIzoibDoi6blpYvmlpciLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDUyLA0KICAgIDUyDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC00ZWE3MzlkOGJiIg0KICAgXSwNCiAgICJjaGFycyI6IDU3DQogIH0sDQogIHsNCiAgICJubyI6ICLlhavjgIEiLA0KICAgImhlYWRpbmciOiAi5by65YGl5L2T6a2E77yM54Ot54ix55Sf5rS7IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1MywNCiAgICA1Mw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNGVhMGUxODI1NyINCiAgIF0sDQogICAiY2hhcnMiOiA4Ng0KICB9LA0KICB7DQogICAibm8iOiAi5pa96KGMIiwNCiAgICJoZWFkaW5nIjogIuaWveihjOaXpeacn+S4juino+mHiuadgyIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDU0LA0KICAgIDU0DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAzMQ0KICB9LA0KICB7DQogICAibm8iOiAi6aG16ISaIiwNCiAgICJoZWFkaW5nIjogIumhteiEmuS4juWkh+ahiOS/oeaBryIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDU1LA0KICAgIDU3DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAxMTINCiAgfQ0KIF0sDQogIml0ZW1zIjogWw0KICAicnVsZS0yMDI2MDUyOC1jMjc1M2EyNzExMTIiLA0KICAicHQtY2U5MjNmYjJmYiIsDQogICJwdC0yZjNmMDEzZmYyIiwNCiAgInB0LTA5M2VhMzU1ZGIiLA0KICAicHQtYmZkZDgzZTJlMCIsDQogICJwdC01OGRlOTljMzY5IiwNCiAgInB0LTZlYjJmOWRkZjAiLA0KICAicHQtN2YzZmQ3OWMyMSIsDQogICJwdC1lMzExNzkwNDU2IiwNCiAgInB0LTRlYTczOWQ4YmIiLA0KICAicHQtNGVhMGUxODI1NyINCiBdLA0KICJub3RlcyI6IFsNCiAgIuacrOS7tuaYr+e9kemhteato+aWh++8iGNkcCDmir3lj5bvvInvvIznrKwgMeKAkzQxIOihjOaYr+mhteWktOagh+mimOS4juermeeCueWvvOiIquagj+ebrua4heWNle+8iOmDqOmXqOeugOS7i++8j+acuuaehOiuvue9ru+8j+inhOeroOWItuW6pu+8iOazleW+i+azleinhOOAgeaUv+etluaWh+S7tuOAgeeuoeeQhuinhOWumu+8ie+8j+aAneaUv+aVmeiCsu+8j+S6i+WKoeeuoeeQhu+8iOi1hOWKqeOAgeW/g+eQhuOAgeWGm+iure+8ie+8j+W4uOeUqOS4i+i9veetie+8ie+8jOato+aWh+S7juesrCA0MiDooYzmiY3ph43mlrDlh7rnjrDmoIfpopjjgILov5nkuIDoioLlj6rmmK/pobXpnaLmoYbmnrbvvIzkuI3lkKvlh4bliJnmnaHmlofvvIzkuZ/ml6DmnaHnm67okL3ngrnjgIIiLA0KICAi56ysIDQy4oCTNDUg6KGM5piv55yf5q2j55qE5YaF5a655aS077ya56ysIDQyIOihjOagh+mimO+8iOS4juesrCAxIOihjOmHjeWkje+8ieOAgeesrCA0MyDooYzjgIzlj5HluIPogIXvvJrlj5HluIPml7bpl7TvvJoyMDI2LTA3LTE25rWP6KeI5qyh5pWw77yaMTfjgI3jgIHnrKwgNDQg6KGM5paH5Y+344CM5Lit5Lyg5a2m5a2X44CUMjAxN+OAlTIyOeWPt+OAjeOAgeesrCA0NSDooYzliLblrprkvp3mja7mrrXjgIJwdC0yZjNmMDEzZmYyIOeahOW8leaWh+S7juesrCA0NCDooYzmloflj7fotbfov57liLDnrKwgNDUg6KGM77yM5b+F6aG75oqKIDQy4oCTNDUg6KGM5bm25oiQ5LiA6IqC5omN6IO95ZG95Lit77yM5pWF6L+Z5Zub6KGM5LiN5ouG44CCIiwNCiAgIuWOn+aWh+ato+aWh+WPquacieOAjOS4gOOAgeOAjeWIsOOAjOWFq+OAgeOAjeWFq+adoeWHhuWIme+8jOavj+adoeS4gOS4quiHqueEtuauteOAgeautemmluWNs+WQq+Wbm+Wtl+WPpeWwj+agh+mimO+8iOWmguOAjOS4gOOAgeW/l+WtmOmrmOi/nO+8jOWdmuWumuS/oeW/teOAguOAje+8ie+8jOaVheWFq+iKgumDveaghyBhdXRob3LvvIjlsI/moIfpopjpgJDlrZflnKjooYzlhoXvvInvvJtgbm9gIOaKhOOAjOS4gOOAgeOAjeWIsOOAjOWFq+OAgeOAje+8jGhlYWRpbmcg55So5Y675o6J5bqP5Y+35LiO5Y+l5Y+355qE5bCP5qCH6aKY44CCIiwNCiAgIuesrCA1NCDooYzjgIzmnKzlh4bliJnoh6oyMDE35bm0OeaciDHml6Xotbfmlr3ooYzvvIznlLHlrabnlJ/lt6XkvZzlpITvvIjpg6jvvInotJ/otKPop6Pph4rjgILjgI3mmK/msqHmnInnvJblj7fnmoTmlr3ooYzkuI7op6Pph4rmrrXvvIzljZXliJfkuIDoioLvvIhkZXJpdmVk77yJ77yb5rKh5pyJ5p2h55uu5byV55So6L+Z5LiA5Y+l44CCIiwNCiAgIuesrCA1NeKAkzU3IOihjOaYr+mhteiEmu+8iOagoeWQje+8j0lDUCDlpIfmoYjvvI/lnLDlnYDvvI/orr/pl67orqHmlbDpmYTku7bpk77mjqXvvInvvIzkuI7mraPmlofml6DlhbPvvIzljZXliJfjgIzpobXohJrkuI7lpIfmoYjkv6Hmga/jgI3jgIIiLA0KICAicnVsZS0yMDI2MDUyOC1jMjc1M2EyNzExMTIg5piv5paH5qGj57qn5p2h55uu77yI5peg5byV5paH77yJ77yM5pS+5Zyo5YaF5a655aS05LiA6IqC44CM5qCH6aKY44CB5Y+R5biD5L+h5oGv44CB5paH5Y+35LiO5Yi25a6a5L6d5o2u44CN77yM5pyq5pS+6L+b6aG16Z2i5qGG5p626IqC44CCIiwNCiAgIumhtemdouaKveWPluW8guW4uO+8muesrCA0MyDooYznmoTlj5HluIPml7bpl7TlhpnkvZwgMjAyNi0wNy0xNu+8jOaXqeS6juacrOe0ouW8leeUn+aIkOaXpe+8iDIwMjYtMTEtMTLvvInkvYbmmZrkuo7mlr3ooYzlubQgMjAxN++8jOWxnue9kemhteaooeadv+Wtl+aute+8jOWOn+agt+S/neeVmeacquaUueOAgiINCiBdDQp9DQo=
+{
+ "key": "20260528-c2753a271112",
+ "title": "中国传媒大学学生行为准则（修订）（中传学字〔2017〕229号）",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "页面框架",
+   "heading": "页面标题与站点导航栏目",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    41
+   ],
+   "items": [],
+   "chars": 190
+  },
+  {
+   "no": "标题",
+   "heading": "标题、发布信息、文号与制定依据",
+   "heading_kind": "derived",
+   "lines": [
+    42,
+    45
+   ],
+   "items": [
+    "rule-20260528-c2753a271112",
+    "pt-2f3f013ff2",
+    "pt-ce923fb2fb"
+   ],
+   "chars": 155
+  },
+  {
+   "no": "一、",
+   "heading": "志存高远，坚定信念",
+   "heading_kind": "author",
+   "lines": [
+    46,
+    46
+   ],
+   "items": [
+    "pt-093ea355db"
+   ],
+   "chars": 131
+  },
+  {
+   "no": "二、",
+   "heading": "热爱祖国，服务人民",
+   "heading_kind": "author",
+   "lines": [
+    47,
+    47
+   ],
+   "items": [
+    "pt-bfdd83e2e0"
+   ],
+   "chars": 109
+  },
+  {
+   "no": "三、",
+   "heading": "勤奋学习，自强不息",
+   "heading_kind": "author",
+   "lines": [
+    48,
+    48
+   ],
+   "items": [
+    "pt-58de99c369"
+   ],
+   "chars": 52
+  },
+  {
+   "no": "四、",
+   "heading": "遵纪守法，弘扬正气",
+   "heading_kind": "author",
+   "lines": [
+    49,
+    49
+   ],
+   "items": [
+    "pt-6eb2f9ddf0"
+   ],
+   "chars": 105
+  },
+  {
+   "no": "五、",
+   "heading": "诚实守信，严于律己",
+   "heading_kind": "author",
+   "lines": [
+    50,
+    50
+   ],
+   "items": [
+    "pt-7f3fd79c21"
+   ],
+   "chars": 77
+  },
+  {
+   "no": "六、",
+   "heading": "明礼修身，团结友爱",
+   "heading_kind": "author",
+   "lines": [
+    51,
+    51
+   ],
+   "items": [
+    "pt-e311790456"
+   ],
+   "chars": 83
+  },
+  {
+   "no": "七、",
+   "heading": "勤俭节约，艰苦奋斗",
+   "heading_kind": "author",
+   "lines": [
+    52,
+    52
+   ],
+   "items": [
+    "pt-4ea739d8bb"
+   ],
+   "chars": 57
+  },
+  {
+   "no": "八、",
+   "heading": "强健体魄，热爱生活",
+   "heading_kind": "author",
+   "lines": [
+    53,
+    53
+   ],
+   "items": [
+    "pt-4ea0e18257"
+   ],
+   "chars": 86
+  },
+  {
+   "no": "施行",
+   "heading": "施行日期与解释权",
+   "heading_kind": "derived",
+   "lines": [
+    54,
+    54
+   ],
+   "items": [],
+   "chars": 31
+  },
+  {
+   "no": "页脚",
+   "heading": "页脚与备案信息",
+   "heading_kind": "derived",
+   "lines": [
+    55,
+    57
+   ],
+   "items": [],
+   "chars": 112
+  }
+ ],
+ "items": [
+  "rule-20260528-c2753a271112",
+  "pt-ce923fb2fb",
+  "pt-2f3f013ff2",
+  "pt-093ea355db",
+  "pt-bfdd83e2e0",
+  "pt-58de99c369",
+  "pt-6eb2f9ddf0",
+  "pt-7f3fd79c21",
+  "pt-e311790456",
+  "pt-4ea739d8bb",
+  "pt-4ea0e18257"
+ ],
+ "notes": [
+  "本件是网页正文（cdp 抽取），第 1–41 行是页头标题与站点导航栏目清单（部门简介／机构设置／规章制度（法律法规、政策文件、管理规定）／思政教育／事务管理（资助、心理、军训）／常用下载等），正文从第 42 行才重新出现标题。这一节只是页面框架，不含准则条文，也无条目落点。",
+  "第 42–45 行是真正的内容头：第 42 行标题（与第 1 行重复）、第 43 行「发布者：发布时间：2026-07-16浏览次数：17」、第 44 行文号「中传学字〔2017〕229号」、第 45 行制定依据段。pt-2f3f013ff2 的引文从第 44 行文号起连到第 45 行，必须把 42–45 行并成一节才能命中，故这四行不拆。",
+  "原文正文只有「一、」到「八、」八条准则，每条一个自然段、段首即含四字句小标题（如「一、志存高远，坚定信念。」），故八节都标 author（小标题逐字在行内）；`no` 抄「一、」到「八、」，heading 用去掉序号与句号的小标题。",
+  "第 54 行「本准则自2017年9月1日起施行，由学生工作处（部）负责解释。」是没有编号的施行与解释段，单列一节（derived）；没有条目引用这一句。",
+  "第 55–57 行是页脚（校名／ICP 备案／地址／访问计数附件链接），与正文无关，单列「页脚与备案信息」。",
+  "rule-20260528-c2753a271112 是文档级条目（无引文），放在内容头一节「标题、发布信息、文号与制定依据」，未放进页面框架节。",
+  "页面抽取异常：第 43 行的发布时间写作 2026-07-16，早于本索引生成日（2026-11-12）但晚于施行年 2017，属网页模板字段，原样保留未改。"
+ ]
+}

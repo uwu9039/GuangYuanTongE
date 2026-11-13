@@ -1,1 +1,197 @@
-IyDmo4DntKLnrpfms5Xph43lhpnmiqXlkYoNCg0KPiDnm67moIfvvJpgQDUgMTAwJSDlkb3kuK1gIMK3IGDml6DlhbMv5bqT5aSWIDEwMCUg5ouS562UYCDCtyBg5Zue562U5YWo6Z2iYCDCtyBg6IO96Lef5LiK5a6i5oi355qE5LiN5ZCM6K+05rOVYA0KPiDojIPlm7TvvJpgYXBwLnB5YCDnmoQgYHJhbmsoKWDjgIFgcmV0cmlldmFsL2DvvIjmlrDnrpfms5XvvInjgIFgX2V2YWwvYO+8iOivhOa1i++8iQ0KPiDmnKzova7mlrDlop7vvJrnmb7ngrwgYHF3ZW4zLjctdGV4dC1lbWJlZGRpbmdgIOeahCBkZW5zZSDpgJrpgZPvvIzlubbmjInpopjlupPot5HkuobkuKTpgY3lr7nnhacNCg0KIyMgMS4g57uT6K66DQoNCioq6aG555uu6aKY5bqTIGDpopjlupNfMjAyNjExMTMuanNvbmDvvIg0MzMg6YGT5Y676YeN6aKY77yM5Lik5qyh6LeR5ZCM5LiA5Lu95Luj56CB77yM5Y+q5YiHIGRlbnNlIOW8gOWFs++8iSoqDQoNCnwg57G75Z6LIHwg6aKY5pWwIHwg5a2X6Z2i77yI5pegIGVtYmVkZGluZ++8iSB8IGRlbnNl77yI5bimIGVtYmVkZGluZ++8iSB8DQp8LS0tfC0tLXwtLS18LS0tfA0KfCBgaXRlbWDvvIjmnJ/mnJvokL3liLDmnaHnm67vvIkgfCAzMDggfCBoaXRAMSA3NC4wJSAvICoqaGl0QDUgOTAuMyUqKiB8IGhpdEAxIDc3LjYlIC8gKipoaXRANSA5Mi4yJSoqIHwNCnwgYHNlY3Rpb25g77yI5pyf5pyb6JC95Yiw5p+Q5paH5qGj5p+Q5p2h77yJIHwgMjAgfCBoaXRANSA2MC4wJSB8ICoqaGl0QDUgNzAuMCUqKiB8DQp8IGByZWZ1c2Vg77yI5pyf5pyb5ouS562U77yJIHwgMyB8IOaLkuetlCAyLzMgfCDmi5LnrZQgMi8zIHwNCnwgYGZvY3VzYO+8iOmXruafkOS4gOmdou+8muaXtumXtC/lnLDngrnigKbvvIkgfCAxMiB8IOS9nOetlCAxMDAlIHwg5L2c562UIDEwMCUgfA0KfCBgc29mdGDvvIjlpI3lkIjpopgv5peg5Zu65a6a5pyf5pyb77yJIHwgOTAgfCDkvZznrZQgOTYuNyUgfCAqKuS9nOetlCA5Ny44JSoqIHwNCnwg5bu26L+fIHA1MCAvIHA5NSB8IOKAlCB8ICoqNC4zIG1zIC8gNi4xIG1zKiogfCAxMi41IG1zIC8gMTcuNiBtc++8iOafpeivouWQkemHj+WRveS4ree8k+WtmO+8iTxicj7lhrflkK/liqggMjUw4oCTMzAwIG1zIHwNCnwgZGVuc2Ug55qE5YeA5pWI5p6cIHwg4oCUIHwg4oCUIHwgKirmlZHlm54gOCDpopjvvIzlvITlnY8gMCDpopgqKiB8DQoNCioq6Ieq5bu66K+E5rWL6ZuG77yI5ZCM5LiA5Lu95Luj56CB77yM5a+55q+UIGRlbnNlIOW8gOWFs++8iSoqDQoNCnwg6ZuG5ZCIIHwg5a2X6Z2iIHwgZGVuc2UgfA0KfC0tLXwtLS18LS0tfA0KfCBwcmVzZXRzIDc2MyDmnaEgaGl0QDUgfCAxMDAuMDAlIHwgMTAwLjAwJSB8DQp8IHByZXNldHMgaGl0QDEgfCA5OC40MyUgfCA5OC44MiUgfA0KfCDmiYvlhpnmlLnlhpkgMTQ5IOadoSBoaXRANSB8IDg3LjI1JSB8ICoqOTguNjYlKiogfA0KfCDmiYvlhpnmlLnlhpkgaGl0QDEgfCA1Ni4zOCUgfCAqKjcyLjQ4JSoqIHwNCnwg5bqT5aSWIDY0IOadoeaLkuetlOeOhyB8IDEwMCUgfCAxMDAlIHwNCnwg44CM5bqT5YaF5pyJ5p2h55uu5L2G5rKh5pyJ6L+Z5LiA5p2h44CNNTcg5p2h5ouS562U546HIHwgMy41JSB8IDUuMyUgfA0KDQrlm5vmnaHopoHmsYLpgJDmnaHlr7nnhafvvJoNCg0KfCDopoHmsYIgfCDnu5PorrogfA0KfC0tLXwtLS18DQp8ICoqQDUgMTAwJSDlkb3kuK0qKiB8IOmhueebriBwcmVzZXRzIDc2MyDmnaEgPSAqKjEwMC4wMCUqKu+8m+mimOW6kyAzMjgg6YGT5pyJ56Gu5a6a6JC954K555qE6aKY77yM5Lil5qC85oyJ5qCH5rOo5p2h55uu566XIGhpdEA1ID0gKio5MC4zJe+8iOWtl+mdou+8iS8gOTIuMiXvvIhkZW5zZe+8iSoq77yM5beu55qEIDMwIOadoemHjOWkp+mDqOWIhuiQveWcqOOAjOWQjOS4gOS7tuS6i+eahOS6uuW3peadoeebruOAjeS4iu+8iOingeesrCA2IOiKgu+8ie+8jOecn+ato+etlOWBj+eahOe6piA3IOadoSB8DQp8ICoq5peg5YWzL+W6k+WkliAxMDAlIOaLkuetlCoqIHwg5Lil5qC86LSf5L6LIDY0IOadoe+8iOWIq+eahOWtpuagoSAyMiAvIOS4quS6uuaVsOaNriAxNSAvIOW6k+WkluivnemimCAyN++8ie+8mioqMTAwJSDmi5LnrZQqKu+8m+mimOW6kyAzIOmBk+W6lOaLkumimOaLkuS6hiAyIOmBk++8iOOAjOeglOeptueUn+iDveaNouWvvOW4iOWQl+OAjei/mOS8muehrOetlO+8iSB8DQp8ICoq5Zue562U5YWo6Z2iKiogfCA3NjMg5p2h6Zeu5rOVIMOXIOavj+adoeadoeebruaJgOaciemdnuepuuWtl+aute+8muWtl+autee6p+WujOaVtOeOhyAqKjQ0NzYvNDQ3NiA9IDEwMCUqKiB8DQp8ICoq5a6i5oi355qE5LiN5ZCM6K+05rOVKiogfCDmsqHop4Hov4fnmoTmlrDor7Tms5XvvIjmiYvlhpkgMTQ5IOadoe+8ie+8muWtl+mdoiA4Ny4yNSUg4oaSIGRlbnNlICoqOTguNjYlKiogfA0KDQojIyAyLiDml6flrp7njrDkuLrku4DkuYjmhaLjgIHkuLrku4DkuYjkuI3lh4YNCg0K5a6e5rWL77yIYF9ldmFsL2Jhc2VsaW5lX2N1cnJlbnQucHlg77yMcHJlc2V0cyA3NjMg5p2h77yJ77yaDQoNCiogKirmr4/mrKHmn6Xor6LpgY3ljoblhajlupMqKu+8mmBzY29yZV9pdGVtKClgIOWvuSAzOSAyNzQg5p2h6YCQ5p2h6LeR5q2j5YiZICsg5LqM5YWD57uE77yMDQogIGBibG9ja2VkX2tleXMoKWAg5YaN5a+55YWo5bqT5qCH6aKYL+WIq+WQjeWBmuS4gOmBjSBgc3RyLmZpbmRgIOaJq+aPj++8jOWNleasoSAqKjEuNeKAkzQuOSDnp5IqKu+8jHA5NSA3LjQg56eS77ybDQoqICoq5omA6LCT5ZCR6YeP5LiN5piv6K+t5LmJKirvvJpgc291cmNlcy92ZWN0b3IvbWFuaWZlc3QuanNvbmAg5YaZ552AIGAibmdyYW1zIjogImNoYXIgMS0zImDvvIwNCiAgMjA0OCDnu7TmmK/lrZfnrKYgbi1ncmFtIOeahOWTiOW4jOaKleW9se+8mw0KKiAqKumYiOWAvOaYr+aLjeeahCoq77yaYE1BVENIX1RIUkVTSE9MRCA9IDU1YO+8jOaVo+edgOWNgeWHoOWkhCBgbWluKHNjLCBNQVRDSF9USFJFU0hPTEQgLSAxKWDvvJsNCiogKirmi5LnrZTpnaDooaXkuIEqKu+8muWQjOS4gOaJuSA2NCDpgZPlupPlpJbpopjvvIzml6flrp7njrDlj6rmi5LkuoYgKiozNy41JSoq77yM5YW25L2ZIDYyLjUlIOiiq+ehrOetlOOAgg0KDQojIyAzLiDmlrDnrpfms5UNCg0KYGBgDQrpl67lj6Ug4pSA4pa6IOinhOiMg+WMli/mi4blpZfor50g4pSA4pa6IOWPjOmAmumBkyBCTTI1RiDlj6zlm54g4pSA4pSs4pSA4pa6IDQ3IOe7tOeJueW+gSDilIDilrog57q/5oCn5o6S5bqP5ZmoIOKUgOKWuiDmi5LnrZTlsYIg4pSA4pa6IOetlOahiOijhemFjQ0KICAgICAgICB0ZXh0LnB5ICAgICAgICAgIGluZGV4LnB5ICAgICAgICAgIOKUgiAgIGZlYXR1cmVzLnB5ICAgcmFua2VyLnB5ICAgIGdhdGUucHkgICAgY29tcG9zZS5weQ0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDilJTilIDilrogZGVuc2Ug5Y+s5ZueIOKUgOKUgOKUgOKUgOKUmA0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZW5zZS5wee+8iHF3ZW4zLjctdGV4dC1lbWJlZGRpbmfvvIzlj6/pgInvvIkNCmBgYA0KDQoqKjMuMSDor43mnaHkuI7lrZfmrrUqKu+8mmBHOmAg5a2X56ym5LqM5YWD57uE77yI5YWo5a2X5q6177yJKyBgUDpgIOmihuWfn+ivje+8iOKJpTMg5a2X77yM5qCH6aKYL+WIq+WQjS/lhbPplK7or43vvIwNCuivjeihqOS7jiAzLjkg5LiH5p2h5qCH6aKYL+WIq+WQjS/lhbPplK7or43plb/lh7rmnaXvvIw4NSA2NTYg6K+N77yJ77ybNSDkuKrlrZfmrrUNCmB0aXRsZWAoMy4wKSDCtyBgYWxpYXNgKDIuNCkgwrcgYGt3YCgxLjUpIMK3IGBib2R5YCgxLjApIMK3IGBtZXRhYCgwLjM1KeOAgg0KDQoqKjMuMiDmn6Xor6Lkvqfop4TojIPljJYqKu+8iOavj+atpemDveWAvOWHoOS4queCue+8jOWFqOaYr+ehruWumuaAp+inhOWIme+8ie+8mg0K5ouG56S86LKM5aWX6K+d5LiO44CM5oCO5LmI5Yqe44CN4oaSIOaLhue6r+aWueazleivje+8iOaAjuS5iC/lpoLkvZXvvIzorqnjgIzmoKHlm63ljaHmgI7kuYjmjILlpLHjgI3lr7nlvpfkuIrliKvlkI0NCuOAjOagoeWbreWNoeaMguWkseOAje+8ieKGkiDmg4XmgIHor43vvIjog70v6IO95ZCm77yJ5Zyo5a2X6Z2i5YyF5ZCr5q+U5a+55pe25Lmf5LiN6K6h5YWl77yI44CM5L2T6IKy6K++6IO95YWN5L+u5ZCX44CNDQrlr7nlvpfkuIrmoIfpopjjgIzkvZPogrLor77lhY3kv67jgI3vvInjgIINCg0KKiozLjMg5Y+s5ZueKirvvJpCTTI1RiDmgLvliIbliY0gMzAwICsg55+t5a2X5q615YmNIDE1MCArIOato+aWh+WJjSA4MCArIOeyvuehruS4suWRveS4re+8m+W8gCBkZW5zZSDml7YNCuWGjeaKiiBkZW5zZSDkvZnlvKYgdG9wLTEyMCDlubbov5vmnaXjgIINCg0KKiozLjQg5o6S5bqPKirvvJo0NyDnu7TnibnlvoEg4oaSIOe6v+aAp+aOkuW6j+WZqOOAguWFs+mUruWHoOe7tO+8mg0KDQoqIOWtl+mdouWxgu+8muagh+mimC/liKvlkI3mlbTkuLLnm7jnrYnjgIHnm7jkupLljIXlkKvjgIHmnIDplb/ooqvljIXlkKvliKvlkI3ljaDmr5TvvJsNCiog6KaG55uW5bGC77ya5p+l6K+i5LqM5YWD57uE6KKr55+t5a2X5q61L+agh+mimC/mraPmlofmjqXkvY/nmoTmr5TkvovvvIhJREYg5Yqg5p2D77yJ77ybDQoqIOmAmumBk+Wxgu+8muS4pOi3r+ivjeadoSDDlyA1IOWtl+autSBCTTI1Ru+8mw0KKiDlhYjpqozlsYLvvJrkurrlt6XmlbTnkIYgLyDoh6rliqjljaHniYcgLyDmnaHmrL4gLyDmrrXokL3jgIHlrZjmoaPmoIforrDjgIHpg6jpl6jvvJsNCiogKirkuqTkupLpobkqKu+8mmDlrZfpnaLlkb3kuK0gw5cg5q2j5paH5YiGYOOAgWDlrZfpnaLlkb3kuK0gw5cg6KaG55uWYOOAgWDkurrlt6Ugw5cg5a2X6Z2i5ZG95LitYA0KICDvvIjkuI3liqDkuqTkupLpobnml7YgcHJlc2V0cyBoaXRAMSDlj6rmnIkgNzQl77yM5Yqg5LiKIDk1Je+8ie+8mw0KKiAqKuWQjOWQjeadoeebrioq77yaYGhhbmRfdHdpbmDvvIjkuI7mn5DmnaHkurrlt6Xku7bnmoTmoIfpopjkuozlhYPnu4Tph43lj6Dns7vmlbDvvIkrDQogIGB0d2luX25vbmhhbmRg4oCU4oCU5bqT6YeM5ZCM5LiA5LqL6aG55bi45pyJIGhhbmQvYXV0by9ydWxlL2RvYyDlm5vku73vvIznlKjmiLfopoHnmoTmmK/pgqPmnaHmnI3liqHvvJsNCiogKipkZW5zZSoq77yaYGRlbnNlX3Njb3JlYOOAgWBkZW5zZV9yYW5rX3JlY2lwYO+8iOWFs+aOieaXtuaBkuS4uiAw77yM5YWx55So5ZCM5LiA5aWX5p2D6YeN5L2N77yJ44CCDQoNCioqMy41IOiuree7gyoq77ya5LiN5qCH5rOo44CB5LiN6LCD5aSW6YOo5qih5Z6L44CC55So5p2h55uu5bqT6Ieq5bim55qEIGBhbGlhc2VzYC/moIfpopjlvZPmraPkvosNCu+8iDEyIDAwMCDmnaHvvInvvIzlkIzlj6UgQk0yNSDliY3liJflvZPnoazotJ/kvovvvJvkurrlt6XmnaHnm64gNiDlgI3liqDmnYPvvJsqKumdnuS6uuW3peS7tueahOato+S+i+aUueaMh+WQkeWug+eahA0K5Lq65bel5a2q55Sf5Lu2KirvvJvliKvlkI3nibnlvoHlj6rlr7nkurrlt6XmnaHnm67nlJ/mlYjjgILniZvpob/ms5XvvIhJUkxT77yJ6KejIEwyIOmAu+i+keWbnuW9ku+8jOS4gOi9rue6piA4MCDnp5LjgIINCmRlbnNlIOaooeWei+WPpuiure+8iDMwMDAg5p2h5p+l6K+i77yM5p+l6K+i5ZCR6YeP6aKE57yW56CB77yJ44CCDQoNCioqMy42IOaLkuetlO+8iOinhOWIme+8jOS4jeaYr+aooeWei++8iSoq77yM5oyJ6aG65bqP5Yik77yM5q+P5qGj5pyJ55CG55Sx77yaDQoNCjEuICoq5Liq5Lq65pWw5o2uKirvvIjmiJHnmoTkvZnpop0v57up54K5L+ivvuihqOKApu+8ieKGkiDnn6Xor4blupPkuI3lrZjvvIznu5nlrpjmlrnlhaXlj6PvvJsNCiAgIOWPquiupOOAjOWcqOmXruS4gOS4quWAvOOAje+8jOOAjOaIkeWuv+iIjeeUtei0uei2heS6huS8muS4jeS8muaWreeUteOAjemXrueahOaYr+aUv+etlu+8jOiDveetlO+8mw0KMi4gKirliKvnmoTlrabmoKEqKu+8iOa4heWNji/ljJflpKcv5YyX5biI5aSn4oCm77yJ4oaSIOW6k+mHjOWPquacieS4reWbveS8oOWqkuWkp+Wtpu+8mw0KMy4gKirotornlYzor53popgqKu+8muW8uuS/oeWPt+ivje+8iOWkqeawlC/ogqHnpagv6am+54WnL+eBq+mUheW6ly/lvIDlupfigKbvvInnm7TmjqXmi5LvvJvlvLHkv6Hlj7for43vvIjmuLjmiI8v55S15b2x77yJDQogICDlj6rmnInlnKjmlbTlj6XmsqHmnInmoKHlm63lrp7or43ml7bmiY3mi5LigJTigJTjgIzlrqTlj4vmiZPmuLjmiI/liLDljYrlpJzvvIzmiJHog73mjaLlrr/oiI3lkJfjgI3mmK/lrr/oiI3pl67popjvvJsNCjQuICoq6K+t5paZ6KaG55uW5YWc5bqVKirvvJrmlbTlj6Xopobnm5bkvY4qKuS4lCoq5o6S5bqP5Zmo5rKh5oqK5o+h77yM5oiW6L+e57utIDUg5LiqIENKSyDlrZflnKjor63mlpnph4zmsqHlh7rnjrDov4fvvJsNCjUuICoq5aSq56y857ufKirvvJrkuLvpopjkuLIg4omkNSDlrZfjgIHmsqHmnInlrZfpnaLlkb3kuK3jgIHmjpLluo/lmajkuZ/msqHmiormj6Eg4oaSIOWPjemXru+8mw0KNi4g5pyA5ZCO5omN5piv44CM6KaG55uW546HL+amgueOh+i/h+S9juOAjeOAgg0KDQrpmIjlgLzlj6rlgZrlhZzlupXvvJrmiavmj4/mmL7npLogYG1pbl9wcm9iYCDku44gMC4wNSDmiqzliLAgMC4xNu+8jOato+S+i+ivr+aLkuS7jiAxLjMlIOa2qOWIsCAzNSXvvIwNCui0n+S+i+WPquWkmuaLkiAxLjUg5Liq54K54oCU4oCU5omA5Lul5Li76KaB6Z2g56ysIDHigJM1IOaho+inhOWImeOAgg0KDQoqKjMuNyDnrZTmoYjoo4XphY0qKu+8muWRveS4readoeebrueahOavj+S4quacieWGheWuueWtl+autemDvei/m+etlOWkje+8iOatpemqpC/mnZDmlpkv6LS555SoL+WcsOeCuS/ml7bpl7Qv56qX5Y+jLw0K5pe26ZmQL+azqOaEj+S6i+mhuS/ogZTns7vmlrnlvI8v6YCC55So5a+56LGhL+a4oOmBky/nm7jlhbPkuovpobkv5Ye65aSE77yJ77yM5a2X5q6157qn5a6M5pW0546HIDEwMCXjgIINCg0KIyMgNC4g6aKY5bqT5Lik6LeR55qE5Y2P6K6uDQoNCiogNDMzIOmBk+WOu+mHjemimO+8iOWOn+WniyA0NzUg5p2h44CBMjcg5p2h6YeN5aSN77yJ77yM5LuOIGDpopjlupNfMjAyNjExMTMuanNvbmAg55qEIDExIOS4qumbhuWQiOaxh+aAu++8mw0KKiBgZXhwZWN0YCDlj6PlvoTkuI3nu5/kuIDvvIzlhYjlvZLkuIDmiJDkupTnsbvvvJrmnaHnm64gaWTjgIHmlofmoaPnq6DoioLvvIhgemh1YW56aHVhbnllLTIwMjUgwrcg56ys5LiJ56ugL+esrOS4g+adoWDvvInjgIENCiAg5ouS562U44CB6IGa54Sm6Z2i77yIYOiBmueEpj1ob3Vyc2DvvInjgIHml6Dlm7rlrprmnJ/mnJvvvIhgcGxhaW5gL2B2YWd1ZWAv5aSN5ZCI6aKYL2dvbGRlbu+8ie+8mw0KKiBgc2VjdGlvbmAg57G755SoIGBzZWN0aW9uc19pbmRleC5zZWN0aW9uX29mKClgIOaKiuajgOe0ouWIsOeahOadoeebruaYoOWwhOWbnuWug+aJgOWxnuaWh+aho++8jA0KICDliY0gNSDmnaHph4zlh7rnjrDor6XmlofmoaPljbPnrpflkb3kuK3vvIjmlofmoaPnuqfvvIzkuI3nu4bnqbbnrKzlh6DmnaHvvInvvJsNCiog5Lik6LeR5ZCM5LiA5Lu95Luj56CB44CB5ZCM5LiA5Lu957Si5byV77yM5Y+q5YiHIGBFbmdpbmUubG9hZChkZW5zZT1UcnVlL0ZhbHNlKWDvvJsNCiog5p+l6K+i5ZCR6YeP6JC9IHNxbGl0ZSDnvJPlrZjvvIzmiYDku6XnrKzkuozot5HnmoQgcDUwIOmHjOS4jeWQq+S6keiwg+eUqO+8iOWGt+WQr+WKqOWPpua1i++8ieOAgg0KDQojIyA1LiDkuKTot5HmgI7kuYjor7sNCg0KKipkZW5zZSDmlZHlm54gOCDpopjvvIzlvITlnY8gMCDpopgqKu+8mg0KDQpgYGANCuaNoeWIsOS4gOW8oOagoeWbreWNoeS6pOWIsOWTqiAgICAgICAgICAgICAgIOS9k+iCsuivvuWFjeS/ruaAjuS5iOWKnueQhg0K6L+d57qq5aSE5YiG5oCO5LmI55Sz6K+JICAgICAgICAgICAgICAgICAgIOagoeWkluiDveS9v+eUqOWtpuagoeWbvuS5pummhueahOaVsOaNruW6k+WQl++8n+efpee9keaAjuS5iOi/m++8nw0K5a2m55Sf55S15a2Q5Lqk6YCa5Y2h5oCO5LmI55Sz6aKG77yfICAgICAgICAgICDkvZPogrLor77mgI7kuYjpgInvvJ/lj6/ku6XmjaLpobnnm67lkJfvvJ8NCumAieivvuWKnuazleesrOWNgeWbm+adoemAieivvueahOmZkOWItuadoeS7tuacieWTquS6myAgIOW+ruS4k+S4muS4gOacn+iDveaKpeWHoOS4qg0KYGBgDQoNCmRlbnNlIOeahOS7t+WAvOmbhuS4reWcqOS4pOexu++8mioq5ZCM5LmJ5pS55YaZKirvvIjjgIzmjaHliLDljaHkuqTliLDlk6rjgI3ihpIg6YGX5aSx5Y2h55m76K6w44CB44CM6L+d57qq5aSE5YiG5oCO5LmI55Sz6K+J44CNDQrihpIg5a2m55Sf55Sz6K+J77yJ5ZKMKirmnaHmrL7nsbvplb/pl67lj6UqKu+8iOOAjOmAieivvuWKnuazleesrOWNgeWbm+adoeKApuOAjeOAjOW+ruS4k+S4muS4gOacn+iDveaKpeWHoOS4quOAje+8ieOAgg0K5bu26L+f5Luj5Lu35pivIDQgbXMg4oaSIDI1MOKAkzMwMCBtc++8iOWGt++8iS8gMTIuNSBtc++8iOafpeivouWQkemHj+W3sue8k+WtmO+8ieOAgg0K5bu65bqT5oiQ5pys77yaMjYgNjQ3IOadoSDDlyDnuqYgMTk0IOWtlyDiiYggMzQwIOS4hyB0b2tlbu+8jOS4gOasoeWHoOWdl+mSseOAgTE2IOWIhumSn++8iOWNleW5tuWPkeacgOS8mO+8ieOAgg0KDQojIyA2LiDmvI/nmoTov5kgMzAg5p2h77yI5Lik6LeR6YO95rKh5Lit77yJDQoNCuS4peagvOaMieagh+azqOadoeebrueul++8jDMyOCDpgZPmnInokL3ngrnnmoTpopjph4zmnIkgMzAg6YGT5rKh6L+b5YmNIDXjgILpgJDmnaHnnIvvvJoNCg0KKiAqKue6piAyMyDmnaHokL3lnKjlkIzkuIDku7bkuovkuIrvvIzlj6rmmK/kuI3mmK/moIfms6jnmoTpgqPkuIDmnaEqKuOAgumimOW6k+mHjCBzZWN0aW9uIOexu+agh+azqOaMh+WQkeWOn+aWh+adoeasvg0KICDvvIhgcHQtKmAvYGF0dC0qYO+8ie+8jOiAjOezu+e7n+i/lOWbnueahOaYr+mCo+adoeS6uuW3peaVtOeQhueahOWKnuS6i+adoeebru+8jOS+i+Wmgu+8mg0KICDjgIzovazkuJPkuJrpnIDopoHku4DkuYjmnaHku7bjgI3ihpIgYOi9rOS4k+S4mmDvvIjmoIfms6jmmK/mnaHmrL7vvInjgIHjgIzlrr/oiI3og73nlKjlk6rkupvnlLXlmajjgI3ihpIgYOWuv+iIjeeUteWZqOS9v+eUqOinhOWImWANCiAg77yI5qCH5rOo5piv44CMNi7lrr/oiI3nrqHnkIbjgI3mnaHmrL7vvInjgIHjgIzkvZPmtYvkuI3lj4rmoLzov5jog73or4TlpZblrabph5HlkJfjgI3ihpIgYOWlluWtpumHkeivhOWummDjgIENCiAg44CM5Lqk5rWB5Zue5p2l5LiA6Zeo6K++6IO95LiN6IO95oq15aSa6Zeo6K++44CN4oaSIGDor77nqIvnva7mjaLkuI7lrabliIborqTlrppg44CC5a+555So5oi35p2l6K+06L+Z5Lqb5piv5pu05aW955qE6JC954K544CCDQoqICoq55yf5q2j562U5YGP55qE57qmIDcg5p2hKirvvJrjgIzpgInor77ku4DkuYjml7blgJnlvIDlp4vjgI3ihpIg54+t57qn576k44CB44CM6K++56iL5YWN5L+u5oCO5LmI55Sz6K+344CN4oaSIOa3seawtOivgeOAgQ0KICDjgIzmr5XkuJrlrqHmoLjlnKjlk6rph4zmn6XjgI3ihpIg5aSn5Yib44CB44CM5a2m5qCh5pyJ5qCh6L2m5ZCX44CN4oaSIOacuuWKqOi9puWFpeagoeinhOWumuOAgg0KICDlhbHlkIzngrnvvJrpl67lj6Xph4zkuIDkuKrpq5jpopHms5vor43vvIjpgInor74v5q+V5LiaL+agoei9pu+8ieWOi+i/h+S6huecn+ato+eahOS4u+mimOivjeOAgg0KKiDlj6bmnInlh6DmnaHmmK8qKuivreaWmemHjOehruWunuayoeaciSoq77yI5qCh6L2m5pe25Yi76KGo44CB54+t6L2m5Y+R6L2m5pe26Ze077yJ77yM5ouS57ud5oiW562U44CM5rKh5om+5Yiw44CN6YO9566X5a+544CCDQoNCiMjIDcuIOaLkuetlOihjOS4ug0KDQp8IOmbhuWQiCB8IOWtl+mdoiB8IGRlbnNlIHwNCnwtLS18LS0tfC0tLXwNCnwg5Lil5qC86LSf5L6LIDY077yI5Yir55qE5a2m5qChIDIyIC8g5Liq5Lq65pWw5o2uIDE1IC8g5bqT5aSW6K+d6aKYIDI377yJIHwgMTAwJSB8IDEwMCUgfA0KfCDpopjlupPlupTmi5IgMyDpopggfCAyLzMgfCAyLzMgfA0KfCDjgIzlupPlhoXmnInnm7jlhbPmnaHnm67kvYbmsqHmnInov5nkuIDmnaHjgI01NyDpopggfCAzLjUlIHwgNS4zJSB8DQp8IOato+S+i+ivr+aLku+8iHByZXNldHMgNzYzICsg5pS55YaZIDE0Oe+8iSB8IDAgKyAxIHwgMCArIDEgfA0KDQrmsqHmi5LnmoTpgqPpopjmmK/jgIznoJTnqbbnlJ/og73mjaLlr7zluIjlkJfjgI3igJTigJTlupPph4zmsqHmnInmjaLlr7zluIjmnaHnm67vvIzkvYbjgIznoJTnqbbnlJ/jgI3jgIzlr7zluIjjgI3pg73mmK8NCuW6k+WGhemrmOmikeivje+8jOWtl+mdouimhuebluS4jeS9ju+8jOinhOWImeWxguWIpOS4jeWHuuadpeOAgui/meaYr+OAjOW6k+WGheacieebuOWFs+ivjeS9huayoeaciei/meS4gOadoeOAjeeahOWFuOWei++8jA0K6KaB5qC55rK75b6X6Z2g5pu05by655qE6K+t5LmJL+aEj+WbvuWIpOWumu+8jOS4jeaYr+iwg+mYiOWAvOiDveino+WGs+eahOOAgg0KDQojIyA4LiDlt6XnqIvjgIHmiJDmnKzjgIHpg6jnvbINCg0KKiDkvp3otZbvvJrlrZfpnaLpgJrpgZPku43nhLblj6rmnIkgYGZhc3RhcGlgIC8gYHV2aWNvcm5gIC8gYG51bXB5YO+8m2RlbnNlIOeUqOagh+WHhuW6kyBgdXJsbGliYO+8jA0KICDkuI3oo4UgcmVxdWVzdHMvb3BlbmFp77ybDQoqIOWvhumSpe+8mmBEQVNIU0NPUEVfQVBJX0tFWWAg5Y+q5pS+IGAuZW52YO+8iOW3siBnaXRpZ25vcmXvvIzpmYQgYC5lbnYuZXhhbXBsZWDvvInvvIzku6PnoIHph4zmsqHmnInnoaznvJbnoIHvvJsNCiog57Si5byV77ya5YCS5o6SIDg4IE1C77yIYERvY2tlcmZpbGVgIOeOsOW7uu+8jDEyIOenku+8ie+8m2RlbnNlIDEwNCBNQu+8iDI2IDY0NyDmnaEgw5cgMTAyNCDnu7QgZmxvYXQzMu+8jA0KICDpnIDogZTnvZHlu7rvvIzkuI3ov5vplZzlg4/mnoTlu7rmtYHnqIvvvIzkvZzkuLrlj6/pgInku7bljZXni6zlu7rvvInvvJsNCiog5p2D6YeN77yaYHJldHJpZXZhbC9tb2RlbC9yYW5rZXIuanNvbmDvvIjlrZfpnaLvvInkuI4gYHJhbmtlcl9kZW5zZS5qc29uYO+8iOW4piBkZW5zZe+8iemDveW+iOWwj++8jOi3n+S7k+W6k+i1sO+8mw0KKiDpgIDljJbot6/lvoTvvJpkZW5zZSDkuI3lj6/nlKgg4oaSIGBFbmdpbmUuc2VhcmNoYCDmjaLlm57lrZfpnaLmnYPph43vvIjkuKTlpZfmqKHlnovlkIToh6rlrozmlbTvvIzkuI3mt7fnlKjvvInvvJsNCiAg5YCS5o6S57Si5byV57y65aSxIOKGkiBgYXBwLnB5YCDpgIDlm57ml6fop4TliJkgYF9yYW5rX2xlZ2FjeWDvvIznq5nngrnkuI3kvJrmjILvvJsNCiog5byA5YWz77yaYFJFVFJJRVZBTF9ERU5TRT0xYCDmiJYgYEVuZ2luZS5sb2FkKGRlbnNlPVRydWUpYOOAgg0KDQojIyA5LiDlpI3njrANCg0KYGBgYmFzaA0KcHl0aG9uIC1tIHJldHJpZXZhbC5idWlsZCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyDlgJLmjpLntKLlvJXvvIwxMiDnp5INCnB5dGhvbiAtbSB0b29scy50cmFpbl9yYW5rZXIgLS1yb3VuZHMgMSAtLW1heC1xdWVyaWVzIDEyMDAwICAjIOWtl+mdouaOkuW6j+WZqO+8jOe6piAxLjUg5YiG6ZKfDQpweXRob24gLW0gdG9vbHMuYnVpbGRfZGVuc2UgLS13b3JrZXJzIDEgICAgICAgICAgICAgICAgICAgICAjIGRlbnNlIOe0ouW8le+8jOe6piAxNiDliIbpkp/vvIjpnIAga2V577yJDQpweXRob24gLW0gdG9vbHMudHJhaW5fZGVuc2VfcmFua2VyIC0tbWF4LXF1ZXJpZXMgMzAwMCAgICAgICAjIGRlbnNlIOaOkuW6j+WZqO+8jOe6piAyIOWIhumSnw0KDQpweXRob24gLW0gX2V2YWwuYmFua19ldmFsICAgICAgICAgICAgICAjIOmimOW6k++8muWtl+mdoumCo+S4gOi3kSAgLT4gX2V2YWwvb3V0L2Jhbmtfc3BhcnNlLmpzb24NCnB5dGhvbiAtbSBfZXZhbC5iYW5rX2V2YWwgLS1kZW5zZSAgICAgICMg6aKY5bqT77yaZGVuc2Ug6YKj5LiA6LeRIC0+IF9ldmFsL291dC9iYW5rX2RlbnNlLmpzb24NCnB5dGhvbiAtbSBfZXZhbC5iYW5rX2NvbXBhcmUgICAgICAgICAgICMg5Lik6LeR5a+554WnICsg5pWR5ZueL+W8hOWdjy/mvI8NCnB5dGhvbiAtbSBfZXZhbC5yZWZ1c2FsX2NoZWNrIC0tZGVuc2UgICMg5ouS562U5Zue5b2SDQpweXRob24gLW0gX2V2YWwuZXZhbF9hbnN3ZXJzICAgICAgICAgICAjIOetlOahiOWtl+auteWujOaVtOeOhw0KcHl0aG9uIC1tIF9ldmFsLnJ1bl9ldmFsIC0tZW5naW5lIG5ldyAgIyBwcmVzZXRzIC8g5pS55YaZIC8g6LSf5L6LDQpgYGANCg0KIyMgMTAuIOi/mOiDveW+gOS4iui1sOeahOWcsOaWue+8iOaMieaAp+S7t+avlO+8iQ0KDQoxLiAqKmh1YiDmlofmoaPov5jlnKjmiqIqKu+8mmDkv6Hmga/ljJbmnI3liqHluLjop4Hpl67popjvvIgyMDI2LTExLTAzIOWItu+8iWAg6L+Z56eN5aSnIEZBUSDmnaHnm67opobnm5bmnoHlub/vvIwNCiAgIOS8muaKoui1sOacrOivpeiQveWIsOWFt+S9k+adoeebrueahOmXrumimOOAguWPr+aMieOAjOS4gOS4quadoeebruS4i+aMgiBOIOS4qumXruWPpeOAjeaLhuW8gO+8jOaIlue7mSBodWIg57G75Z6L5Y2V54us5L2O5p2D6YeN77ybDQoyLiAqKnNlY3Rpb24g57G76Zeu5Y+l55qE5q2j6Kej5piv5p2h5qy+KirvvJrnjrDlnKjpnaAgZGVuc2Ug5oqK5p2h5qy+5o2e5Yiw5YmNIDXvvIg2MCXihpI3MCXvvInvvIwNCiAgIOWGjeW+gOS4iuimgee7meadoeasvuadoeebruWNleeLrOeahOOAjOadoeWPty/nq6DoioLjgI3nibnlvoHvvIjnlKjmiLfngrnkuobjgIznrKzlhavmnaHjgI3lsLHor6Xnm7TmjqXot7PpgqPkuIDoioLvvInvvJsNCjMuICoq5Z2X57qnIGRlbnNl77yITDPvvIkqKu+8mueOsOWcqOavj+adoeadoeebruWPque8luS4gOS4quWQkemHj++8iOagh+mimCvliKvlkI0r5YWz6ZSu6K+NKzIyMCDlrZfmraPmlofvvInjgIINCiAgIOWOn+aWh+auteiQvemVv+OAgeS/oeaBr+WvhuW6puS9jueahOadoeebru+8jOaMiSAyNTAg5a2X5YiH5Z2X5YaN57yW56CB77yM5Y+s5Zue6L+Y6IO95rao77ybDQo0LiAqKuaLkuetlOeahOacgOWQjuS4gOahoyoq77yaYOeglOeptueUn+iDveaNouWvvOW4iOWQl2Ag6L+Z57G744CM5pyJ6K+N5rKh5p2h44CN55qE6Zeu6aKY77yM6Z2g6KeE5YiZ5Yik5LiN5Ye65p2l77yMDQogICDopoHkuYjliqDkuIDlsYLmhI/lm77liIbnsbvvvIzopoHkuYjorqnmqKHlnovlnKjmi5LnrZTlsYLlj4LkuI7kuIDmrKHliKTlrprvvIjnjrDlnKjmmK/nuq/op4TliJnvvInjgIINCg==
+# 检索算法重写报告
+
+> 目标：`@5 100% 命中` · `无关/库外 100% 拒答` · `回答全面` · `能跟上客户的不同说法`
+> 范围：`app.py` 的 `rank()`、`retrieval/`（新算法）、`_eval/`（评测）
+> 本轮新增：百炼 `qwen3.7-text-embedding` 的 dense 通道，并按题库跑了两遍对照
+
+## 1. 结论
+
+**项目题库 `题库_20261113.json`（433 道去重题，两次跑同一份代码，只切 dense 开关）**
+
+| 类型 | 题数 | 字面（无 embedding） | dense（带 embedding） |
+|---|---|---|---|
+| `item`（期望落到条目） | 308 | hit@1 74.0% / **hit@5 90.3%** | hit@1 77.6% / **hit@5 92.2%** |
+| `section`（期望落到某文档某条） | 20 | hit@5 60.0% | **hit@5 70.0%** |
+| `refuse`（期望拒答） | 3 | 拒答 2/3 | 拒答 2/3 |
+| `focus`（问某一面：时间/地点…） | 12 | 作答 100% | 作答 100% |
+| `soft`（复合题/无固定期望） | 90 | 作答 96.7% | **作答 97.8%** |
+| 延迟 p50 / p95 | — | **4.3 ms / 6.1 ms** | 12.5 ms / 17.6 ms（查询向量命中缓存）<br>冷启动 250–300 ms |
+| dense 的净效果 | — | — | **救回 8 题，弄坏 0 题** |
+
+**自建评测集（同一份代码，对比 dense 开关）**
+
+| 集合 | 字面 | dense |
+|---|---|---|
+| presets 763 条 hit@5 | 100.00% | 100.00% |
+| presets hit@1 | 98.43% | 98.82% |
+| 手写改写 149 条 hit@5 | 87.25% | **98.66%** |
+| 手写改写 hit@1 | 56.38% | **72.48%** |
+| 库外 64 条拒答率 | 100% | 100% |
+| 「库内有条目但没有这一条」57 条拒答率 | 3.5% | 5.3% |
+
+四条要求逐条对照：
+
+| 要求 | 结论 |
+|---|---|
+| **@5 100% 命中** | 项目 presets 763 条 = **100.00%**；题库 328 道有确定落点的题，严格按标注条目算 hit@5 = **90.3%（字面）/ 92.2%（dense）**，差的 30 条里大部分落在「同一件事的人工条目」上（见第 6 节），真正答偏的约 7 条 |
+| **无关/库外 100% 拒答** | 严格负例 64 条（别的学校 22 / 个人数据 15 / 库外话题 27）：**100% 拒答**；题库 3 道应拒题拒了 2 道（「研究生能换导师吗」还会硬答） |
+| **回答全面** | 763 条问法 × 每条条目所有非空字段：字段级完整率 **4476/4476 = 100%** |
+| **客户的不同说法** | 没见过的新说法（手写 149 条）：字面 87.25% → dense **98.66%** |
+
+## 2. 旧实现为什么慢、为什么不准
+
+实测（`_eval/baseline_current.py`，presets 763 条）：
+
+* **每次查询遍历全库**：`score_item()` 对 39 274 条逐条跑正则 + 二元组，
+  `blocked_keys()` 再对全库标题/别名做一遍 `str.find` 扫描，单次 **1.5–4.9 秒**，p95 7.4 秒；
+* **所谓向量不是语义**：`sources/vector/manifest.json` 写着 `"ngrams": "char 1-3"`，
+  2048 维是字符 n-gram 的哈希投影；
+* **阈值是拍的**：`MATCH_THRESHOLD = 55`，散着十几处 `min(sc, MATCH_THRESHOLD - 1)`；
+* **拒答靠补丁**：同一批 64 道库外题，旧实现只拒了 **37.5%**，其余 62.5% 被硬答。
+
+## 3. 新算法
+
+```
+问句 ─► 规范化/拆套话 ─► 双通道 BM25F 召回 ─┬─► 47 维特征 ─► 线性排序器 ─► 拒答层 ─► 答案装配
+        text.py          index.py          │   features.py   ranker.py    gate.py    compose.py
+                                            └─► dense 召回 ────┘
+                                            dense.py（qwen3.7-text-embedding，可选）
+```
+
+**3.1 词条与字段**：`G:` 字符二元组（全字段）+ `P:` 领域词（≥3 字，标题/别名/关键词，
+词表从 3.9 万条标题/别名/关键词长出来，85 656 词）；5 个字段
+`title`(3.0) · `alias`(2.4) · `kw`(1.5) · `body`(1.0) · `meta`(0.35)。
+
+**3.2 查询侧规范化**（每步都值几个点，全是确定性规则）：
+拆礼貌套话与「怎么办」→ 拆纯方法词（怎么/如何，让「校园卡怎么挂失」对得上别名
+「校园卡挂失」）→ 情态词（能/能否）在字面包含比对时也不计入（「体育课能免修吗」
+对得上标题「体育课免修」）。
+
+**3.3 召回**：BM25F 总分前 300 + 短字段前 150 + 正文前 80 + 精确串命中；开 dense 时
+再把 dense 余弦 top-120 并进来。
+
+**3.4 排序**：47 维特征 → 线性排序器。关键几维：
+
+* 字面层：标题/别名整串相等、相互包含、最长被包含别名占比；
+* 覆盖层：查询二元组被短字段/标题/正文接住的比例（IDF 加权）；
+* 通道层：两路词条 × 5 字段 BM25F；
+* 先验层：人工整理 / 自动卡片 / 条款 / 段落、存档标记、部门；
+* **交互项**：`字面命中 × 正文分`、`字面命中 × 覆盖`、`人工 × 字面命中`
+  （不加交互项时 presets hit@1 只有 74%，加上 95%）；
+* **同名条目**：`hand_twin`（与某条人工件的标题二元组重叠系数）+
+  `twin_nonhand`——库里同一事项常有 hand/auto/rule/doc 四份，用户要的是那条服务；
+* **dense**：`dense_score`、`dense_rank_recip`（关掉时恒为 0，共用同一套权重位）。
+
+**3.5 训练**：不标注、不调外部模型。用条目库自带的 `aliases`/标题当正例
+（12 000 条），同句 BM25 前列当硬负例；人工条目 6 倍加权；**非人工件的正例改指向它的
+人工孪生件**；别名特征只对人工条目生效。牛顿法（IRLS）解 L2 逻辑回归，一轮约 80 秒。
+dense 模型另训（3000 条查询，查询向量预编码）。
+
+**3.6 拒答（规则，不是模型）**，按顺序判，每档有理由：
+
+1. **个人数据**（我的余额/绩点/课表…）→ 知识库不存，给官方入口；
+   只认「在问一个值」，「我宿舍电费超了会不会断电」问的是政策，能答；
+2. **别的学校**（清华/北大/北师大…）→ 库里只有中国传媒大学；
+3. **越界话题**：强信号词（天气/股票/驾照/火锅店/开店…）直接拒；弱信号词（游戏/电影）
+   只有在整句没有校园实词时才拒——「室友打游戏到半夜，我能换宿舍吗」是宿舍问题；
+4. **语料覆盖兜底**：整句覆盖低**且**排序器没把握，或连续 5 个 CJK 字在语料里没出现过；
+5. **太笼统**：主题串 ≤5 字、没有字面命中、排序器也没把握 → 反问；
+6. 最后才是「覆盖率/概率过低」。
+
+阈值只做兜底：扫描显示 `min_prob` 从 0.05 抬到 0.16，正例误拒从 1.3% 涨到 35%，
+负例只多拒 1.5 个点——所以主要靠第 1–5 档规则。
+
+**3.7 答案装配**：命中条目的每个有内容字段都进答复（步骤/材料/费用/地点/时间/窗口/
+时限/注意事项/联系方式/适用对象/渠道/相关事项/出处），字段级完整率 100%。
+
+## 4. 题库两跑的协议
+
+* 433 道去重题（原始 475 条、27 条重复），从 `题库_20261113.json` 的 11 个集合汇总；
+* `expect` 口径不统一，先归一成五类：条目 id、文档章节（`zhuanzhuanye-2025 · 第三章/第七条`）、
+  拒答、聚焦面（`聚焦=hours`）、无固定期望（`plain`/`vague`/复合题/golden）；
+* `section` 类用 `sections_index.section_of()` 把检索到的条目映射回它所属文档，
+  前 5 条里出现该文档即算命中（文档级，不细究第几条）；
+* 两跑同一份代码、同一份索引，只切 `Engine.load(dense=True/False)`；
+* 查询向量落 sqlite 缓存，所以第二跑的 p50 里不含云调用（冷启动另测）。
+
+## 5. 两跑怎么读
+
+**dense 救回 8 题，弄坏 0 题**：
+
+```
+捡到一张校园卡交到哪               体育课免修怎么办理
+违纪处分怎么申诉                   校外能使用学校图书馆的数据库吗？知网怎么进？
+学生电子交通卡怎么申领？           体育课怎么选？可以换项目吗？
+选课办法第十四条选课的限制条件有哪些   微专业一期能报几个
+```
+
+dense 的价值集中在两类：**同义改写**（「捡到卡交到哪」→ 遗失卡登记、「违纪处分怎么申诉」
+→ 学生申诉）和**条款类长问句**（「选课办法第十四条…」「微专业一期能报几个」）。
+延迟代价是 4 ms → 250–300 ms（冷）/ 12.5 ms（查询向量已缓存）。
+建库成本：26 647 条 × 约 194 字 ≈ 340 万 token，一次几块钱、16 分钟（单并发最优）。
+
+## 6. 漏的这 30 条（两跑都没中）
+
+严格按标注条目算，328 道有落点的题里有 30 道没进前 5。逐条看：
+
+* **约 23 条落在同一件事上，只是不是标注的那一条**。题库里 section 类标注指向原文条款
+  （`pt-*`/`att-*`），而系统返回的是那条人工整理的办事条目，例如：
+  「转专业需要什么条件」→ `转专业`（标注是条款）、「宿舍能用哪些电器」→ `宿舍电器使用规则`
+  （标注是「6.宿舍管理」条款）、「体测不及格还能评奖学金吗」→ `奖学金评定`、
+  「交流回来一门课能不能抵多门课」→ `课程置换与学分认定`。对用户来说这些是更好的落点。
+* **真正答偏的约 7 条**：「选课什么时候开始」→ 班级群、「课程免修怎么申请」→ 深水证、
+  「毕业审核在哪里查」→ 大创、「学校有校车吗」→ 机动车入校规定。
+  共同点：问句里一个高频泛词（选课/毕业/校车）压过了真正的主题词。
+* 另有几条是**语料里确实没有**（校车时刻表、班车发车时间），拒绝或答「没找到」都算对。
+
+## 7. 拒答行为
+
+| 集合 | 字面 | dense |
+|---|---|---|
+| 严格负例 64（别的学校 22 / 个人数据 15 / 库外话题 27） | 100% | 100% |
+| 题库应拒 3 题 | 2/3 | 2/3 |
+| 「库内有相关条目但没有这一条」57 题 | 3.5% | 5.3% |
+| 正例误拒（presets 763 + 改写 149） | 0 + 1 | 0 + 1 |
+
+没拒的那题是「研究生能换导师吗」——库里没有换导师条目，但「研究生」「导师」都是
+库内高频词，字面覆盖不低，规则层判不出来。这是「库内有相关词但没有这一条」的典型，
+要根治得靠更强的语义/意图判定，不是调阈值能解决的。
+
+## 8. 工程、成本、部署
+
+* 依赖：字面通道仍然只有 `fastapi` / `uvicorn` / `numpy`；dense 用标准库 `urllib`，
+  不装 requests/openai；
+* 密钥：`DASHSCOPE_API_KEY` 只放 `.env`（已 gitignore，附 `.env.example`），代码里没有硬编码；
+* 索引：倒排 88 MB（`Dockerfile` 现建，12 秒）；dense 104 MB（26 647 条 × 1024 维 float32，
+  需联网建，不进镜像构建流程，作为可选件单独建）；
+* 权重：`retrieval/model/ranker.json`（字面）与 `ranker_dense.json`（带 dense）都很小，跟仓库走；
+* 退化路径：dense 不可用 → `Engine.search` 换回字面权重（两套模型各自完整，不混用）；
+  倒排索引缺失 → `app.py` 退回旧规则 `_rank_legacy`，站点不会挂；
+* 开关：`RETRIEVAL_DENSE=1` 或 `Engine.load(dense=True)`。
+
+## 9. 复现
+
+```bash
+python -m retrieval.build                                   # 倒排索引，12 秒
+python -m tools.train_ranker --rounds 1 --max-queries 12000  # 字面排序器，约 1.5 分钟
+python -m tools.build_dense --workers 1                     # dense 索引，约 16 分钟（需 key）
+python -m tools.train_dense_ranker --max-queries 3000       # dense 排序器，约 2 分钟
+
+python -m _eval.bank_eval              # 题库：字面那一跑  -> _eval/out/bank_sparse.json
+python -m _eval.bank_eval --dense      # 题库：dense 那一跑 -> _eval/out/bank_dense.json
+python -m _eval.bank_compare           # 两跑对照 + 救回/弄坏/漏
+python -m _eval.refusal_check --dense  # 拒答回归
+python -m _eval.eval_answers           # 答案字段完整率
+python -m _eval.run_eval --engine new  # presets / 改写 / 负例
+```
+
+## 10. 还能往上走的地方（按性价比）
+
+1. **hub 文档还在抢**：`信息化服务常见问题（2026-11-03 制）` 这种大 FAQ 条目覆盖极广，
+   会抢走本该落到具体条目的问题。可按「一个条目下挂 N 个问句」拆开，或给 hub 类型单独低权重；
+2. **section 类问句的正解是条款**：现在靠 dense 把条款捞到前 5（60%→70%），
+   再往上要给条款条目单独的「条号/章节」特征（用户点了「第八条」就该直接跳那一节）；
+3. **块级 dense（L3）**：现在每条条目只编一个向量（标题+别名+关键词+220 字正文）。
+   原文段落长、信息密度低的条目，按 250 字切块再编码，召回还能涨；
+4. **拒答的最后一档**：`研究生能换导师吗` 这类「有词没条」的问题，靠规则判不出来，
+   要么加一层意图分类，要么让模型在拒答层参与一次判定（现在是纯规则）。

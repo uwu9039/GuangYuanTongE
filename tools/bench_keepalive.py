@@ -1,1 +1,48 @@
-IiIi5a+55q+U77ya5q+P5p2h6K+35rGC5paw5bu6IFRMUyDov57mjqUgdnMg5aSN55SoIGtlZXAtYWxpdmUg6L+e5o6l44CCIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBodHRwLmNsaWVudAppbXBvcnQganNvbgppbXBvcnQgdGltZQppbXBvcnQgdXJsbGliLnJlcXVlc3QKCmZyb20gcmV0cmlldmFsLmRlbnNlIGltcG9ydCBhcGlfa2V5CgpQQVRIID0gIi9hcGkvdjEvc2VydmljZXMvZW1iZWRkaW5ncy90ZXh0LWVtYmVkZGluZy90ZXh0LWVtYmVkZGluZyIKQk9EWSA9IGpzb24uZHVtcHMoeyJtb2RlbCI6ICJxd2VuMy43LXRleHQtZW1iZWRkaW5nIiwKICAgICAgICAgICAgICAgICAgICJpbnB1dCI6IHsidGV4dHMiOiBbIuagoeWbreWNoeihpeWKnua1geeoi+a1i+ivleaWh+acrOOAgiJdICogNX0sCiAgICAgICAgICAgICAgICAgICAicGFyYW1ldGVycyI6IHsiZGltZW5zaW9uIjogNTEyLCAidGV4dF90eXBlIjogImRvY3VtZW50In19KS5lbmNvZGUoKQpLRVkgPSBhcGlfa2V5KCkKCgpkZWYgZnJlc2gobjogaW50KSAtPiBmbG9hdDoKICAgIHQwID0gdGltZS5wZXJmX2NvdW50ZXIoKQogICAgZm9yIF8gaW4gcmFuZ2Uobik6CiAgICAgICAgcmVxID0gdXJsbGliLnJlcXVlc3QuUmVxdWVzdCgKICAgICAgICAgICAgImh0dHBzOi8vZGFzaHNjb3BlLmFsaXl1bmNzLmNvbSIgKyBQQVRILCBkYXRhPUJPRFksIG1ldGhvZD0iUE9TVCIsCiAgICAgICAgICAgIGhlYWRlcnM9eyJBdXRob3JpemF0aW9uIjogZiJCZWFyZXIge0tFWX0iLCAiQ29udGVudC1UeXBlIjogImFwcGxpY2F0aW9uL2pzb24ifSkKICAgICAgICB1cmxsaWIucmVxdWVzdC51cmxvcGVuKHJlcSwgdGltZW91dD02MCkucmVhZCgpCiAgICByZXR1cm4gdGltZS5wZXJmX2NvdW50ZXIoKSAtIHQwCgoKZGVmIGtlZXBhbGl2ZShuOiBpbnQpIC0+IGZsb2F0OgogICAgY29uID0gaHR0cC5jbGllbnQuSFRUUFNDb25uZWN0aW9uKCJkYXNoc2NvcGUuYWxpeXVuY3MuY29tIiwgdGltZW91dD02MCkKICAgIHQwID0gdGltZS5wZXJmX2NvdW50ZXIoKQogICAgZm9yIF8gaW4gcmFuZ2Uobik6CiAgICAgICAgY29uLnJlcXVlc3QoIlBPU1QiLCBQQVRILCBib2R5PUJPRFksCiAgICAgICAgICAgICAgICAgICAgaGVhZGVycz17IkF1dGhvcml6YXRpb24iOiBmIkJlYXJlciB7S0VZfSIsICJDb250ZW50LVR5cGUiOiAiYXBwbGljYXRpb24vanNvbiJ9KQogICAgICAgIHIgPSBjb24uZ2V0cmVzcG9uc2UoKQogICAgICAgIHIucmVhZCgpCiAgICAgICAgaWYgci5zdGF0dXMgIT0gMjAwOgogICAgICAgICAgICByYWlzZSBSdW50aW1lRXJyb3IoZiJodHRwPXtyLnN0YXR1c30iKQogICAgY29uLmNsb3NlKCkKICAgIHJldHVybiB0aW1lLnBlcmZfY291bnRlcigpIC0gdDAKCgpkZWYgbWFpbigpIC0+IE5vbmU6CiAgICBwcmludChmIuaWsOW7uui/nuaOpSA1IOasoToge2ZyZXNoKDUpOi4yZn1zIikKICAgIHByaW50KGYia2VlcC1hbGl2ZSA1IOasoToge2tlZXBhbGl2ZSg1KTouMmZ9cyIpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+"""对比：每条请求新建 TLS 连接 vs 复用 keep-alive 连接。"""
+from __future__ import annotations
+
+import http.client
+import json
+import time
+import urllib.request
+
+from retrieval.dense import api_key
+
+PATH = "/api/v1/services/embeddings/text-embedding/text-embedding"
+BODY = json.dumps({"model": "qwen3.7-text-embedding",
+                   "input": {"texts": ["校园卡补办流程测试文本。"] * 5},
+                   "parameters": {"dimension": 512, "text_type": "document"}}).encode()
+KEY = api_key()
+
+
+def fresh(n: int) -> float:
+    t0 = time.perf_counter()
+    for _ in range(n):
+        req = urllib.request.Request(
+            "https://dashscope.aliyuncs.com" + PATH, data=BODY, method="POST",
+            headers={"Authorization": f"Bearer {KEY}", "Content-Type": "application/json"})
+        urllib.request.urlopen(req, timeout=60).read()
+    return time.perf_counter() - t0
+
+
+def keepalive(n: int) -> float:
+    con = http.client.HTTPSConnection("dashscope.aliyuncs.com", timeout=60)
+    t0 = time.perf_counter()
+    for _ in range(n):
+        con.request("POST", PATH, body=BODY,
+                    headers={"Authorization": f"Bearer {KEY}", "Content-Type": "application/json"})
+        r = con.getresponse()
+        r.read()
+        if r.status != 200:
+            raise RuntimeError(f"http={r.status}")
+    con.close()
+    return time.perf_counter() - t0
+
+
+def main() -> None:
+    print(f"新建连接 5 次: {fresh(5):.2f}s")
+    print(f"keep-alive 5 次: {keepalive(5):.2f}s")
+
+
+if __name__ == "__main__":
+    main()

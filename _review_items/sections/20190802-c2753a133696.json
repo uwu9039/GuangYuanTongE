@@ -1,1 +1,78 @@
-ewogImtleSI6ICIyMDE5MDgwMi1jMjc1M2ExMzM2OTYiLAogInRpdGxlIjogIuS4reWbveS8oOWqkuWkp+WtpuagoeWbreayu+WuieeuoeeQhuinhOWumiIsCiAidHJ1bmNhdGVkIjogZmFsc2UsCiAic2VjdGlvbnMiOiBbCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi5qCH6aKYIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzEsIDJdLAogICAiaXRlbXMiOiBbInB0LWUxYmEyMDg3ZDYiXSwKICAgImNoYXJzIjogMjcKICB9LAogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIumhtemdouahhuaetiIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFszLCA0NF0sCiAgICJpdGVtcyI6IFsicHQtZjlmZWMwNTZjYSJdLAogICAiY2hhcnMiOiAyMTcKICB9LAogIHsKICAgIm5vIjogIuesrOS4gOeroCIsCiAgICJoZWFkaW5nIjogIuaAu+WImSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzQ1LCA1Ml0sCiAgICJpdGVtcyI6IFtdLAogICAiY2hhcnMiOiA2NzIKICB9LAogIHsKICAgIm5vIjogIuesrOS6jOeroCIsCiAgICJoZWFkaW5nIjogIuagoeWbreayu+WuieeuoeeQhuinhOWImSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzUzLCA3M10sCiAgICJpdGVtcyI6IFsicHQtNmI3MjkxMTY3YSIsICJwdC1iM2M2ODViYTQ5IiwgInB0LTkwMmY2MzA2NGUiXSwKICAgImNoYXJzIjogMjIxMQogIH0sCiAgewogICAibm8iOiAi56ys5LiJ56ugIiwKICAgImhlYWRpbmciOiAi6L+d5Y+N5qCh5Zut5rK75a6J566h55CG55qE6KGM5Li65ZKM5aSE572aIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbNzQsIDEzN10sCiAgICJpdGVtcyI6IFsicHQtNzM0MGYwNmI0NSIsICJwdC1lZTVmYmQ5YTdjIiwgInB0LTljZDU2MDZkY2EiLCAicHQtM2ZiMjNiN2EwOSIsICJwdC1jZjc1N2MwY2IwIl0sCiAgICJjaGFycyI6IDI0MzEKICB9LAogIHsKICAgIm5vIjogIuesrOWbm+eroCIsCiAgICJoZWFkaW5nIjogIuWkhOe9mueahOaJp+ihjOS4juWlluaDqSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzEzOCwgMTQzXSwKICAgIml0ZW1zIjogW10sCiAgICJjaGFycyI6IDU5MAogIH0sCiAgewogICAibm8iOiAi56ys5LqU56ugIiwKICAgImhlYWRpbmciOiAi6ZmE5YiZIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbMTQ0LCAxNDddLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogODgKICB9LAogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIumhteiEmiIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFsxNDgsIDE1MF0sCiAgICJpdGVtcyI6IFtdLAogICAiY2hhcnMiOiAxMTIKICB9CiBdLAogIml0ZW1zIjogWyJwdC1lMWJhMjA4N2Q2IiwgInB0LWY5ZmVjMDU2Y2EiLCAicHQtNmI3MjkxMTY3YSIsICJwdC1iM2M2ODViYTQ5IiwgInB0LTkwMmY2MzA2NGUiLCAicHQtNzM0MGYwNmI0NSIsICJwdC1lZTVmYmQ5YTdjIiwgInB0LTljZDU2MDZkY2EiLCAicHQtM2ZiMjNiN2EwOSIsICJwdC1jZjc1N2MwY2IwIl0sCiAibm90ZXMiOiBbCiAgIjEtNDQg6KGM5Li6572R6aG15qGG5p6277yaMS0yIOagh+mimOS4jumDqOmXqOWQjeOAgTMtNDEg5a+86Iiq6I+c5Y2V44CBNDItNDMg5q2j5paH5qCH6aKY6YeN5aSN5LiO5Y+R5biD5L+h5oGv44CBNDQg5paH5Y+377yI5Lit5Lyg5L+d5bel5a2X44CUMjAxNOOAlTI25Y+377yJ44CCIiwKICAi44CM56ys5LiA56ug5oC75YiZ44CN562J56ug6aKY5LiO5q2j5paH5ZCM5aSE5LiA6KGM77yI5peg5YiG6ZqU77yJ77yM5qCH6aKY6YCQ5a2X5Y+v5Zyo5pys6IqC6aaW6KGM5p+l5Yiw77yM5qCHIGF1dGhvcuOAgiIsCiAgIuesrOS6jOWNgeWFq+iHs+S4ieWNgeS6jOadoeeahO+8iOS4gO+8ie+8iOS6jO+8ieKApuS4uuadoeaWh+WGheWIhumhue+8jOS4jeWNleWIl+iKguOAgiIsCiAgIjE0OC0xNTAg6KGM5Li654mI5p2D5L+h5oGv5LiO6ZmE5Lu26K6/6Zeu6K6h5pWw77yM6Z2e5q2j5paH44CCIgogXQp9Cg==
+{
+ "key": "20190802-c2753a133696",
+ "title": "中国传媒大学校园治安管理规定",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "标题",
+   "heading_kind": "derived",
+   "lines": [1, 2],
+   "items": ["pt-e1ba2087d6"],
+   "chars": 27
+  },
+  {
+   "no": "—",
+   "heading": "页面框架",
+   "heading_kind": "derived",
+   "lines": [3, 44],
+   "items": ["pt-f9fec056ca"],
+   "chars": 217
+  },
+  {
+   "no": "第一章",
+   "heading": "总则",
+   "heading_kind": "author",
+   "lines": [45, 52],
+   "items": [],
+   "chars": 672
+  },
+  {
+   "no": "第二章",
+   "heading": "校园治安管理规则",
+   "heading_kind": "author",
+   "lines": [53, 73],
+   "items": ["pt-6b7291167a", "pt-b3c685ba49", "pt-902f63064e"],
+   "chars": 2211
+  },
+  {
+   "no": "第三章",
+   "heading": "违反校园治安管理的行为和处罚",
+   "heading_kind": "author",
+   "lines": [74, 137],
+   "items": ["pt-7340f06b45", "pt-ee5fbd9a7c", "pt-9cd5606dca", "pt-3fb23b7a09", "pt-cf757c0cb0"],
+   "chars": 2431
+  },
+  {
+   "no": "第四章",
+   "heading": "处罚的执行与奖惩",
+   "heading_kind": "author",
+   "lines": [138, 143],
+   "items": [],
+   "chars": 590
+  },
+  {
+   "no": "第五章",
+   "heading": "附则",
+   "heading_kind": "author",
+   "lines": [144, 147],
+   "items": [],
+   "chars": 88
+  },
+  {
+   "no": "—",
+   "heading": "页脚",
+   "heading_kind": "derived",
+   "lines": [148, 150],
+   "items": [],
+   "chars": 112
+  }
+ ],
+ "items": ["pt-e1ba2087d6", "pt-f9fec056ca", "pt-6b7291167a", "pt-b3c685ba49", "pt-902f63064e", "pt-7340f06b45", "pt-ee5fbd9a7c", "pt-9cd5606dca", "pt-3fb23b7a09", "pt-cf757c0cb0"],
+ "notes": [
+  "1-44 行为网页框架：1-2 标题与部门名、3-41 导航菜单、42-43 正文标题重复与发布信息、44 文号（中传保工字〔2014〕26号）。",
+  "「第一章总则」等章题与正文同处一行（无分隔），标题逐字可在本节首行查到，标 author。",
+  "第二十八至三十二条的（一）（二）…为条文内分项，不单列节。",
+  "148-150 行为版权信息与附件访问计数，非正文。"
+ ]
+}

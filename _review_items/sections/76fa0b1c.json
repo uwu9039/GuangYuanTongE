@@ -1,1 +1,173 @@
-ew0KICJrZXkiOiAiNzZmYTBiMWMiLA0KICJ0aXRsZSI6ICIyMDI1IOW5tOWFqOWbveehleWjq+eglOeptueUn+aLm+eUn+iAg+ivleWIneivlSAxMTMzIOS4reWbveS8oOWqkuWkp+WtpuiAg+eCueiAg+eUn+mhu+efpSIsDQogInRydW5jYXRlZCI6IGZhbHNlLA0KICJzZWN0aW9ucyI6IFsNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLmoIfpopjkuI7lvJXoqIAiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxLA0KICAgIDYNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgIndkLTc2ZmEwYjFjIg0KICAgXSwNCiAgICJjaGFycyI6IDIwOQ0KICB9LA0KICB7DQogICAibm8iOiAi5LiA44CBIiwNCiAgICJoZWFkaW5nIjogIuiAg+eCueWcsOWdgCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNywNCiAgICA4DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAyNw0KICB9LA0KICB7DQogICAibm8iOiAi5LqM44CBIiwNCiAgICJoZWFkaW5nIjogIuiAg+ivleaXtumXtCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgOSwNCiAgICAxNw0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTMxDQogIH0sDQogIHsNCiAgICJubyI6ICLkuInjgIEiLA0KICAgImhlYWRpbmciOiAi6ICD5Zy65YiG5biDIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxOCwNCiAgICAyNA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTk1DQogIH0sDQogIHsNCiAgICJubyI6ICLlm5vjgIEiLA0KICAgImhlYWRpbmciOiAi6ICD5YmN5YeG5aSHIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyNSwNCiAgICAzMA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTQzDQogIH0sDQogIHsNCiAgICJubyI6ICLkupTjgIEiLA0KICAgImhlYWRpbmciOiAi5YWl5qCh6KaB5rGCIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzMSwNCiAgICA0MA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMjQxDQogIH0sDQogIHsNCiAgICJubyI6ICLlha3jgIEiLA0KICAgImhlYWRpbmciOiAi5YWl5Zy66KaB5rGCIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA0MSwNCiAgICA2Nw0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogODE4DQogIH0sDQogIHsNCiAgICJubyI6ICLkuIPjgIEiLA0KICAgImhlYWRpbmciOiAi6ICD5Zy66KaB5rGCIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA2OCwNCiAgICA4MA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMzM4DQogIH0sDQogIHsNCiAgICJubyI6ICLlhavjgIEiLA0KICAgImhlYWRpbmciOiAi6ICD6K+V5paH5YW36K+05piOIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA4MSwNCiAgICA4OA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMjAxDQogIH0sDQogIHsNCiAgICJubyI6ICLkuZ3jgIEiLA0KICAgImhlYWRpbmciOiAi6aSQ6aWu5LyR5oGvIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA4OSwNCiAgICA5Mw0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTMzDQogIH0sDQogIHsNCiAgICJubyI6ICLljYHjgIEiLA0KICAgImhlYWRpbmciOiAi5rip6aao5o+Q56S6IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA5NCwNCiAgICAxMTkNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDgxOA0KICB9LA0KICB7DQogICAibm8iOiAi5Y2B5LiA44CBIiwNCiAgICJoZWFkaW5nIjogIuiAg+mjjuiAg+e6qiIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTIwLA0KICAgIDEzNA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMzgwDQogIH0sDQogIHsNCiAgICJubyI6ICLljYHkuozjgIEiLA0KICAgImhlYWRpbmciOiAi5YW25LuW5LqL6aG5IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMzUsDQogICAgMTQxDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAyMTUNCiAgfSwNCiAgew0KICAgIm5vIjogIumZhOS7tiIsDQogICAiaGVhZGluZyI6ICLpmYTku7bmuIXljZXkuI7lnLDlm77pk77mjqUiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNDIsDQogICAgMTQ4DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAyNjQNCiAgfQ0KIF0sDQogIml0ZW1zIjogWw0KICAid2QtNzZmYTBiMWMiDQogXSwNCiAibm90ZXMiOiBbDQogICLljp/mlofnlKjjgIzkuIDjgIHjgI3oh7PjgIzljYHkuozjgIHjgI3nvJblj7fvvIznvJblj7fov57nu63vvIzml6Dph43lpI3jgIHml6DnvLrnq6DvvJvnrKwgMeKAkzIg6KGM5piv5qCH6aKY77yI6Leo5Lik6KGM77yJ44CBM+KAkzYg6KGM5piv5pyq57yW5Y+355qE5byV6KiA5q6177yM5ZCI5bm25Li644CM5qCH6aKY5LiO5byV6KiA44CN5LiA6IqC77yIYG5vYCDnlKjjgIzigJTjgI3vvIzlm6DkuLrljp/mlofov5nkuIDmrrXmsqHmnInnvJblj7fvvInjgIIiLA0KICAi5Y6f5paH5byC5bi477yI56m65qCH6aKY77yJ77ya56ysIDMwIOihjOOAjDIu6ICD55Sf5YWl5Zy65rWB56iL44CN5LiL6Z2i5rKh5pyJ5q2j5paH4oCU4oCU5YWl5Zy65rWB56iL5Zu+5pyq6KKrIHB5cGRmIOaKveWPlu+8jOivpeWwj+iKguWPquacieagh+mimOihjO+8m+WGheWuueWunumZheWGmeWcqOS4i+S4gOiKguOAjOS6lOOAgeWFpeagoeimgeaxguOAjemHjO+8jOacquabv+WOn+aWh+ihpeWGmeOAgiIsDQogICLljp/mloflvILluLjvvIjooajmoLzmlaPmnrbvvInvvJrnrKwgMTLigJMxNyDooYzjgIzkuozjgIHogIPor5Xml7bpl7TjgI3nmoTml7bpl7Tooajooqvmir3miJDlpJrooYznuq/mlofmnKzvvIjjgIzml7bpl7Tml6XmnJ8gMDg6MzAtMTE6MzAgMTQ6MDAtMTc6MDDjgI0v44CMMTLmnIgyMeaXpeOAjS/jgIzmgJ3mg7PmlL/msrvnkIborrrjgI0v44CM77yI566h55CG57G757u85ZCI6IO95Yqb77yJ44CNL+OAjOWkluWbveivreOAjS/jgIwxMuaciDIy5pelIOS4muWKoeivvuS4gCDkuJrliqHor77kuozjgI3vvInvvIzooYzliJflhbPns7vlt7LkuI3lj6/or7vvvJvku43mjInljp/mlofnlZnlnKjor6XoioLlhoXvvIzmnKrph43mjpLjgIIiLA0KICAi56ysIDE0MuKAkzE0OCDooYzmmK/pmYTku7bvvIjogIPngrnkvY3nva7lnLDlm77jgIHmoKHlm63lnLDlm77nmoTkuKTmnaHlm77niYfpk77mjqXvvInvvIzljZXliJfjgIzpmYTku7bmuIXljZXkuI7lnLDlm77pk77mjqXjgI3kuIDoioLigJTigJTljp/mlofov5nph4zlj6rmnInjgIzpmYTku7bvvJrjgI3ov5nkuKrmoIfnrb7jgIHmsqHmnInlsI/moIfpopjvvIzoioLlkI3mmK/mpoLmi6znmoTvvIhkZXJpdmVk77yJ44CCIiwNCiAgIndkLTc2ZmEwYjFjIOS4uuaWh+aho+e6p+adoeebru+8jOWFtuWUr+S4gOS4gOauteW8leaWh+S7juagh+mimOesrCAxIOihjOi1t+OAgei3qOWIsOesrCAzIOihjOW8leiogO+8jOiQveWcqOOAjOagh+mimOS4juW8leiogOOAjeS4gOiKgu+8jOaVheWPquWcqOivpeiKguWIl+S4gOasoeOAgiINCiBdDQp9DQo=
+{
+ "key": "76fa0b1c",
+ "title": "2025 年全国硕士研究生招生考试初试 1133 中国传媒大学考点考生须知",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "标题与引言",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    6
+   ],
+   "items": [
+    "wd-76fa0b1c"
+   ],
+   "chars": 209
+  },
+  {
+   "no": "一、",
+   "heading": "考点地址",
+   "heading_kind": "author",
+   "lines": [
+    7,
+    8
+   ],
+   "items": [],
+   "chars": 27
+  },
+  {
+   "no": "二、",
+   "heading": "考试时间",
+   "heading_kind": "author",
+   "lines": [
+    9,
+    17
+   ],
+   "items": [],
+   "chars": 131
+  },
+  {
+   "no": "三、",
+   "heading": "考场分布",
+   "heading_kind": "author",
+   "lines": [
+    18,
+    24
+   ],
+   "items": [],
+   "chars": 195
+  },
+  {
+   "no": "四、",
+   "heading": "考前准备",
+   "heading_kind": "author",
+   "lines": [
+    25,
+    30
+   ],
+   "items": [],
+   "chars": 143
+  },
+  {
+   "no": "五、",
+   "heading": "入校要求",
+   "heading_kind": "author",
+   "lines": [
+    31,
+    40
+   ],
+   "items": [],
+   "chars": 241
+  },
+  {
+   "no": "六、",
+   "heading": "入场要求",
+   "heading_kind": "author",
+   "lines": [
+    41,
+    67
+   ],
+   "items": [],
+   "chars": 818
+  },
+  {
+   "no": "七、",
+   "heading": "考场要求",
+   "heading_kind": "author",
+   "lines": [
+    68,
+    80
+   ],
+   "items": [],
+   "chars": 338
+  },
+  {
+   "no": "八、",
+   "heading": "考试文具说明",
+   "heading_kind": "author",
+   "lines": [
+    81,
+    88
+   ],
+   "items": [],
+   "chars": 201
+  },
+  {
+   "no": "九、",
+   "heading": "餐饮休息",
+   "heading_kind": "author",
+   "lines": [
+    89,
+    93
+   ],
+   "items": [],
+   "chars": 133
+  },
+  {
+   "no": "十、",
+   "heading": "温馨提示",
+   "heading_kind": "author",
+   "lines": [
+    94,
+    119
+   ],
+   "items": [],
+   "chars": 818
+  },
+  {
+   "no": "十一、",
+   "heading": "考风考纪",
+   "heading_kind": "author",
+   "lines": [
+    120,
+    134
+   ],
+   "items": [],
+   "chars": 380
+  },
+  {
+   "no": "十二、",
+   "heading": "其他事项",
+   "heading_kind": "author",
+   "lines": [
+    135,
+    141
+   ],
+   "items": [],
+   "chars": 215
+  },
+  {
+   "no": "附件",
+   "heading": "附件清单与地图链接",
+   "heading_kind": "derived",
+   "lines": [
+    142,
+    148
+   ],
+   "items": [],
+   "chars": 264
+  }
+ ],
+ "items": [
+  "wd-76fa0b1c"
+ ],
+ "notes": [
+  "原文用「一、」至「十二、」编号，编号连续，无重复、无缺章；第 1–2 行是标题（跨两行）、3–6 行是未编号的引言段，合并为「标题与引言」一节（`no` 用「—」，因为原文这一段没有编号）。",
+  "原文异常（空标题）：第 30 行「2.考生入场流程」下面没有正文——入场流程图未被 pypdf 抽取，该小节只有标题行；内容实际写在下一节「五、入校要求」里，未替原文补写。",
+  "原文异常（表格散架）：第 12–17 行「二、考试时间」的时间表被抽成多行纯文本（「时间日期 08:30-11:30 14:00-17:00」/「12月21日」/「思想政治理论」/「（管理类综合能力）」/「外国语」/「12月22日 业务课一 业务课二」），行列关系已不可读；仍按原文留在该节内，未重排。",
+  "第 142–148 行是附件（考点位置地图、校园地图的两条图片链接），单列「附件清单与地图链接」一节——原文这里只有「附件：」这个标签、没有小标题，节名是概括的（derived）。",
+  "wd-76fa0b1c 为文档级条目，其唯一一段引文从标题第 1 行起、跨到第 3 行引言，落在「标题与引言」一节，故只在该节列一次。"
+ ]
+}

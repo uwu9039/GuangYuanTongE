@@ -1,1 +1,123 @@
-ew0KICJrZXkiOiAibG9jLemZhOS7tjEt5Lit5Zu95Lyg5aqS5aSn5a2m5a625bqt57uP5rWO5Zuw6Zq+5a2m55Sf6K6k5a6a55Sz6K+36KGoLTIwMjblubQtZjIyNzJmIiwNCiAidGl0bGUiOiAi5Lit5Zu95Lyg5aqS5aSn5a2m5a625bqt57uP5rWO5Zuw6Zq+5a2m55Sf6K6k5a6a55Sz6K+36KGoIiwNCiAidHJ1bmNhdGVkIjogZmFsc2UsDQogInNlY3Rpb25zIjogWw0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuS4reWbveS8oOWqkuWkp+WtpuWutuW6ree7j+a1juWbsOmavuWtpueUn+iupOWumueUs+ivt+ihqCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMiwNCiAgICA2DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJydWxlLWxvYy0xLTIwMjYtZjIyNzJmIiwNCiAgICAicHQtMzM4ZDQ1OWNhZSIsDQogICAgInB0LWYzNGZkYzQyMGYiDQogICBdLA0KICAgImNoYXJzIjogMTQ3DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5Z+65pys5oOF5Ya1IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA3LA0KICAgIDgNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDg1DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5a625bqt6YCa6K6v5L+h5oGvIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA5LA0KICAgIDEwDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiA3Mg0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuWutuW6reaIkOWRmOaDheWGtSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTEsDQogICAgMTgNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTJjZGQ4ZGMzNTQiLA0KICAgICJwdC0zOWEyMmNiODRkIg0KICAgXSwNCiAgICJjaGFycyI6IDIxNw0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIueJueauiue+pOS9k+exu+WeiyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTksDQogICAgMTkNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTJhOTU1M2UwZjQiLA0KICAgICJwdC1jYmY1MWIyNzA0IiwNCiAgICAicHQtOGQzOWZhZDNkMyIsDQogICAgInB0LWQ4NmRmYTBhMDgiDQogICBdLA0KICAgImNoYXJzIjogMjIzMg0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuW9seWTjeWutuW6ree7j+a1jueKtuWGteacieWFs+S/oeaBryIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMjAsDQogICAgNzcNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTFjYzhjNjMyN2YiLA0KICAgICJwdC1mMjA2OGI5ZTg0IiwNCiAgICAicHQtMjJlYzUxNzQ1YiIsDQogICAgInB0LTM3OTEzYWY2M2IiDQogICBdLA0KICAgImNoYXJzIjogMzg3Ng0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuS4quS6uuaJv+ivuiIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNzgsDQogICAgNzgNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDg5DQogIH0NCiBdLA0KICJpdGVtcyI6IFsNCiAgInJ1bGUtbG9jLTEtMjAyNi1mMjI3MmYiLA0KICAicHQtMmE5NTUzZTBmNCIsDQogICJwdC0zMzhkNDU5Y2FlIiwNCiAgInB0LWYzNGZkYzQyMGYiLA0KICAicHQtMmNkZDhkYzM1NCIsDQogICJwdC0zOWEyMmNiODRkIiwNCiAgInB0LWNiZjUxYjI3MDQiLA0KICAicHQtOGQzOWZhZDNkMyIsDQogICJwdC1kODZkZmEwYTA4IiwNCiAgInB0LTFjYzhjNjMyN2YiLA0KICAicHQtMjJlYzUxNzQ1YiIsDQogICJwdC1mMjA2OGI5ZTg0IiwNCiAgInB0LTM3OTEzYWY2M2IiDQogXSwNCiAibm90ZXMiOiBbDQogICLmnKzmlofmmK/nuq/ooajmoLzmir3lj5bku7bvvIzml6Dnq6DmnaHnvJblj7fvvJvoioLmoIfpopjlhajpg6jlj5booajlhoXliIbljLrmoIfnrb7vvIjln7rmnKzmg4XlhrXjgIHlrrbluq3pgJrorq/kv6Hmga/jgIHlrrbluq3miJDlkZjmg4XlhrXjgIHnibnmrornvqTkvZPnsbvlnovjgIHlvbHlk43lrrbluq3nu4/mtY7nirblhrXmnInlhbPkv6Hmga/jgIHkuKrkurrmib/or7rvvInvvIzlnYfkuLogYXV0aG9y44CCIiwNCiAgInJ1bGUtbG9jLTEtMjAyNi1mMjI3MmYg5Li65paH5qGj57qn5p2h55uu77yI5qCH6aKY5Y2z5paH5qGj5ZCN77yJ77yM5bey5YiX6L+b5qCH6aKY6IqC44CCIiwNCiAgIuWNleWFg+agvOerluaOkuS4lOWQjOagvOWGheWuueWPjeWkjeWkjeWItu+8mjE5IOihjOOAjOeJueauiue+pOS9k+exu+Wei+OAjeaKiuWQjOS4gOS4sumAiemhuemHjeWkjeWNgeS9measoe+8iOWNleihjCAyMjMyIOWtl++8ie+8mzIwLTc3IOihjOOAjOW9seWTjeWutuW6ree7j+a1jueKtuWGteacieWFs+S/oeaBr+OAjeaKiuWQjOS4gOe7hOmXrumimOmHjeWkjeWNgeS4iemBjeOAguS4pOiKguWdh+aVtOauteS/neeVmeOAgeS4jeWGjeaMiemHjeWkjeWdl+aLhuiKguOAgiIsDQogICLooajmoLzliJfml6Dms5XmjInooYzlr7npvZDvvIjlp5PlkI0v5oCn5YirL+WHuueUn+W5tOaciOetieWQjOagvOiiq+aLhuaIkOWkmuihjO+8ie+8jOaVheS4jeaLhuOAjOWutuW6reaIkOWRmOaDheWGteOAjeeahOihjOe6p+Wwj+iKguOAgiIsDQogICLnrKwgMSDooYzkuLrnqbrooYzvvIzmnKrorqHlhaXku7vkvZXoioLjgIIiDQogXQ0KfQ==
+{
+ "key": "loc-附件1-中国传媒大学家庭经济困难学生认定申请表-2026年-f2272f",
+ "title": "中国传媒大学家庭经济困难学生认定申请表",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "中国传媒大学家庭经济困难学生认定申请表",
+   "heading_kind": "author",
+   "lines": [
+    2,
+    6
+   ],
+   "items": [
+    "rule-loc-1-2026-f2272f",
+    "pt-338d459cae",
+    "pt-f34fdc420f"
+   ],
+   "chars": 147
+  },
+  {
+   "no": "—",
+   "heading": "基本情况",
+   "heading_kind": "author",
+   "lines": [
+    7,
+    8
+   ],
+   "items": [],
+   "chars": 85
+  },
+  {
+   "no": "—",
+   "heading": "家庭通讯信息",
+   "heading_kind": "author",
+   "lines": [
+    9,
+    10
+   ],
+   "items": [],
+   "chars": 72
+  },
+  {
+   "no": "—",
+   "heading": "家庭成员情况",
+   "heading_kind": "author",
+   "lines": [
+    11,
+    18
+   ],
+   "items": [
+    "pt-2cdd8dc354",
+    "pt-39a22cb84d"
+   ],
+   "chars": 217
+  },
+  {
+   "no": "—",
+   "heading": "特殊群体类型",
+   "heading_kind": "author",
+   "lines": [
+    19,
+    19
+   ],
+   "items": [
+    "pt-2a9553e0f4",
+    "pt-cbf51b2704",
+    "pt-8d39fad3d3",
+    "pt-d86dfa0a08"
+   ],
+   "chars": 2232
+  },
+  {
+   "no": "—",
+   "heading": "影响家庭经济状况有关信息",
+   "heading_kind": "author",
+   "lines": [
+    20,
+    77
+   ],
+   "items": [
+    "pt-1cc8c6327f",
+    "pt-f2068b9e84",
+    "pt-22ec51745b",
+    "pt-37913af63b"
+   ],
+   "chars": 3876
+  },
+  {
+   "no": "—",
+   "heading": "个人承诺",
+   "heading_kind": "author",
+   "lines": [
+    78,
+    78
+   ],
+   "items": [],
+   "chars": 89
+  }
+ ],
+ "items": [
+  "rule-loc-1-2026-f2272f",
+  "pt-2a9553e0f4",
+  "pt-338d459cae",
+  "pt-f34fdc420f",
+  "pt-2cdd8dc354",
+  "pt-39a22cb84d",
+  "pt-cbf51b2704",
+  "pt-8d39fad3d3",
+  "pt-d86dfa0a08",
+  "pt-1cc8c6327f",
+  "pt-22ec51745b",
+  "pt-f2068b9e84",
+  "pt-37913af63b"
+ ],
+ "notes": [
+  "本文是纯表格抽取件，无章条编号；节标题全部取表内分区标签（基本情况、家庭通讯信息、家庭成员情况、特殊群体类型、影响家庭经济状况有关信息、个人承诺），均为 author。",
+  "rule-loc-1-2026-f2272f 为文档级条目（标题即文档名），已列进标题节。",
+  "单元格竖排且同格内容反复复制：19 行「特殊群体类型」把同一串选项重复十余次（单行 2232 字）；20-77 行「影响家庭经济状况有关信息」把同一组问题重复十三遍。两节均整段保留、不再按重复块拆节。",
+  "表格列无法按行对齐（姓名/性别/出生年月等同格被拆成多行），故不拆「家庭成员情况」的行级小节。",
+  "第 1 行为空行，未计入任何节。"
+ ]
+}

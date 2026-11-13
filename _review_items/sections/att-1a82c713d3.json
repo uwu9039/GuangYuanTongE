@@ -1,1 +1,174 @@
-ew0KICAia2V5IjogImF0dC0xYTgyYzcxM2QzIiwNCiAgInRpdGxlIjogIui0ouWHveOAlDIwMjHjgJUzM+WPtyAyMDIx5bm06LSi5Yqh5aSE5pqR5pyf5oql6LSm5Y+K5Lia5Yqh5Yqe55CG6YCa55+lIiwNCiAgInRydW5jYXRlZCI6IGZhbHNlLA0KICAic2VjdGlvbnMiOiBbDQogICAgew0KICAgICAgIm5vIjogIuKAlCIsDQogICAgICAiaGVhZGluZyI6ICIyMDIx5bm06LSi5Yqh5aSE5pqR5pyf5oql6LSm5Y+K5Lia5Yqh5Yqe55CG6YCa55+lIiwNCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICAgICJsaW5lcyI6IFsNCiAgICAgICAgMSwNCiAgICAgICAgOQ0KICAgICAgXSwNCiAgICAgICJpdGVtcyI6IFsNCiAgICAgICAgInB0LTU5MzhmYjVmNTkiLA0KICAgICAgICAicHQtZDczNTFmYjc3OCINCiAgICAgIF0sDQogICAgICAiY2hhcnMiOiA3OA0KICAgIH0sDQogICAgew0KICAgICAgIm5vIjogIuS4gCIsDQogICAgICAiaGVhZGluZyI6ICLkuIDjgIHmmpHmnJ/otKLliqHlpITlgLznj63lronmjpIiLA0KICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgICAgImxpbmVzIjogWw0KICAgICAgICAxMCwNCiAgICAgICAgMTINCiAgICAgIF0sDQogICAgICAiaXRlbXMiOiBbDQogICAgICAgICJwdC1hMmUwYzFjMDM1Ig0KICAgICAgXSwNCiAgICAgICJjaGFycyI6IDUzDQogICAgfSwNCiAgICB7DQogICAgICAibm8iOiAi5LqMIiwNCiAgICAgICJoZWFkaW5nIjogIuS6jOOAgeaKpemUgOS4muWKoSIsDQogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAgICAibGluZXMiOiBbDQogICAgICAgIDEzLA0KICAgICAgICAyMA0KICAgICAgXSwNCiAgICAgICJpdGVtcyI6IFsNCiAgICAgICAgInB0LTZhNGMzMzAzNmQiDQogICAgICBdLA0KICAgICAgImNoYXJzIjogMTI3DQogICAgfSwNCiAgICB7DQogICAgICAibm8iOiAi5LiJIiwNCiAgICAgICJoZWFkaW5nIjogIuS4ieOAgeS4quS6uuaUtuWFpeS4muWKoe+8iOWQq+WtpueUn+OAgeagoeWkluS6uuWRmOWKs+WKoeWPiuagoeWGheS6uuWRmOaUtuWFpe+8iSIsDQogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAgICAibGluZXMiOiBbDQogICAgICAgIDIyLA0KICAgICAgICAyOA0KICAgICAgXSwNCiAgICAgICJpdGVtcyI6IFsNCiAgICAgICAgInB0LTFlNTE2MmMyMjgiDQogICAgICBdLA0KICAgICAgImNoYXJzIjogMTg2DQogICAgfSwNCiAgICB7DQogICAgICAibm8iOiAi5ZubIiwNCiAgICAgICJoZWFkaW5nIjogIuWbm+OAgeWFtuS7lui0ouWKoeS4muWKoeWKnueQhiIsDQogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAgICAibGluZXMiOiBbDQogICAgICAgIDI5LA0KICAgICAgICA0Mg0KICAgICAgXSwNCiAgICAgICJpdGVtcyI6IFsNCiAgICAgICAgInB0LTNjZDlkOGNmYWMiDQogICAgICBdLA0KICAgICAgImNoYXJzIjogMjQyDQogICAgfSwNCiAgICB7DQogICAgICAibm8iOiAi5ZubwrfvvIjkuIDvvIkiLA0KICAgICAgImhlYWRpbmciOiAi77yI5LiA77yJ6aKE5YCf5L2P6Zmi5pSv56WoIiwNCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICAgICJsaW5lcyI6IFsNCiAgICAgICAgMzAsDQogICAgICAgIDM1DQogICAgICBdLA0KICAgICAgIml0ZW1zIjogWw0KICAgICAgICAicHQtOGIwZmJiNjg5MyINCiAgICAgIF0sDQogICAgICAiY2hhcnMiOiAxMTENCiAgICB9LA0KICAgIHsNCiAgICAgICJubyI6ICLlm5vCt++8iOS6jO+8iSIsDQogICAgICAiaGVhZGluZyI6ICLvvIjkuozvvInlj5HnpajpooTlgJ8iLA0KICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgICAgImxpbmVzIjogWw0KICAgICAgICAzNiwNCiAgICAgICAgMzgNCiAgICAgIF0sDQogICAgICAiaXRlbXMiOiBbXSwNCiAgICAgICJjaGFycyI6IDU2DQogICAgfSwNCiAgICB7DQogICAgICAibm8iOiAi5ZubwrfvvIjkuInvvIkiLA0KICAgICAgImhlYWRpbmciOiAi77yI5LiJ77yJ5YW25LuW5Lia5YqhIiwNCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICAgICJsaW5lcyI6IFsNCiAgICAgICAgMzksDQogICAgICAgIDQyDQogICAgICBdLA0KICAgICAgIml0ZW1zIjogWw0KICAgICAgICAicHQtMGUwYjg3ODc3YiINCiAgICAgIF0sDQogICAgICAiY2hhcnMiOiA2NQ0KICAgIH0sDQogICAgew0KICAgICAgIm5vIjogIuKAlCIsDQogICAgICAiaGVhZGluZyI6ICLnibnmraTpgJrnn6UiLA0KICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgICAgImxpbmVzIjogWw0KICAgICAgICA0MywNCiAgICAgICAgNDcNCiAgICAgIF0sDQogICAgICAiaXRlbXMiOiBbDQogICAgICAgICJwdC02ZDBhYTZlZWU3Ig0KICAgICAgXSwNCiAgICAgICJjaGFycyI6IDI5DQogICAgfSwNCiAgICB7DQogICAgICAibm8iOiAi6ZmE5Lu2IiwNCiAgICAgICJoZWFkaW5nIjogIjIwMjHlubTmmpHlgYflgLznj63ooajvvIjooajmoLzkuLvkvZPvvJrluo/lj7fkuI7lgLznj63ml6XmnJ/vvIkiLA0KICAgICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICAgICJsaW5lcyI6IFsNCiAgICAgICAgNDgsDQogICAgICAgIDY5DQogICAgICBdLA0KICAgICAgIml0ZW1zIjogWw0KICAgICAgICAicHQtZmExNWY3ZWQ0OCIsDQogICAgICAgICJwdC1jZTJiNDY4NzE1IiwNCiAgICAgICAgInB0LWVhNWU1OTM5MWEiLA0KICAgICAgICAicHQtNzA0MGU0NzY4MiIsDQogICAgICAgICJwdC1kNDI0NDk0YmJkIiwNCiAgICAgICAgInB0LWQ0NGJmMDU3NjQiLA0KICAgICAgICAicHQtNjgyMzZmNzQxZiIsDQogICAgICAgICJwdC0wY2UzYTU1YTVhIiwNCiAgICAgICAgInB0LWFiMTM0MjBkYmEiLA0KICAgICAgICAicHQtMGI2NDM5M2I5MCINCiAgICAgIF0sDQogICAgICAiY2hhcnMiOiAxMDUNCiAgICB9DQogIF0sDQogICJpdGVtcyI6IFsNCiAgICAicHQtNTkzOGZiNWY1OSIsDQogICAgInB0LWQ3MzUxZmI3NzgiLA0KICAgICJwdC1hMmUwYzFjMDM1IiwNCiAgICAicHQtNmE0YzMzMDM2ZCIsDQogICAgInB0LTFlNTE2MmMyMjgiLA0KICAgICJwdC0zY2Q5ZDhjZmFjIiwNCiAgICAicHQtOGIwZmJiNjg5MyIsDQogICAgInB0LTBlMGI4Nzg3N2IiLA0KICAgICJwdC02ZDBhYTZlZWU3IiwNCiAgICAicHQtZmExNWY3ZWQ0OCIsDQogICAgInB0LWNlMmI0Njg3MTUiLA0KICAgICJwdC1lYTVlNTkzOTFhIiwNCiAgICAicHQtNzA0MGU0NzY4MiIsDQogICAgInB0LWQ0MjQ0OTRiYmQiLA0KICAgICJwdC1kNDRiZjA1NzY0IiwNCiAgICAicHQtNjgyMzZmNzQxZiIsDQogICAgInB0LTBjZTNhNTVhNWEiLA0KICAgICJwdC1hYjEzNDIwZGJhIiwNCiAgICAicHQtMGI2NDM5M2I5MCINCiAgXSwNCiAgIm5vdGVzIjogWw0KICAgICLniYjlvI/kuLrmlbTooYznvKnov5vnmoTlhazmloflvI/mlofmnKzvvIzmraPmlofooYzlhoXmt7fmnInlpKfph4/lr7npvZDnqbrnmb3vvIzooYzlj7fmjIkgc291cmNlcyDljp/mlofvvIg2OSDooYzvvInorqHjgIIiLA0KICAgICLjgIzlm5vjgIHlhbbku5botKLliqHkuJrliqHlip7nkIbjgI3vvIgyOeKAkzQy77yJ5Li654i26IqC77yM5YW25LiL77yI5LiA77yJ6aKE5YCf5L2P6Zmi5pSv56Wo77yIMzDigJMzNe+8ieOAge+8iOS6jO+8ieWPkeelqOmihOWAn++8iDM24oCTMzjvvInjgIHvvIjkuInvvInlhbbku5bkuJrliqHvvIgzOeKAkzQy77yJ5Li655yf5bWM5aWX5a2Q6IqC44CCIiwNCiAgICAicHQtYTJlMGMxYzAzNSDnmoTlvJXmlofku47nrKwgMTAg6KGM5Y+l5bC+44CM5bm05pqR5pyf5oql6LSm562J55u45YWz5LqL5a6c5a6J5o6S5aaC5LiL77ya44CN55u05o6l5o6l5LiK56ysIDExIOihjOOAjOS4gOOAgeaakeacn+i0ouWKoeWkhOWAvOePreWuieaOkuOAje+8jOaVheOAjOS4gOOAjeiKguiHquesrCAxMCDooYzotbfvvIzlvJXoqIDmnKvlj6XorqHlhaXor6XoioLjgIIiLA0KICAgICJwdC04YjBmYmI2ODkzIOagh+mimOWGmeS9nOOAjO+8iOS6jO+8ieWPkeelqOmihOWAn+OAje+8jOS9huW8leaWh+WunuS4uu+8iOS4gO+8iemhueS4i+eahOOAjDHjgIHlip7nkIbml7bpl7TvvJrmr4/lkajkuozjgIHlkajkupTvvI8y44CB5L2P6Zmi5oq86YeR4oCm44CN77yIMzTigJMzNSDooYzvvInvvIzmjInlvJXmlofokL3lnKjvvIjkuIDvvInjgIIiLA0KICAgICLnrKwgNDPigJM0NyDooYzkuLrjgIznibnmraTpgJrnn6XjgI3vvIvokL3mrL7vvIjotKLliqHlpITvvI8yMDIx5bm0N+aciDIw5pel77yJ77yL56ysIDQ3IOihjOmZhOS7tumimOWQjeOAjOmZhOS7tuOAgOOAgDIwMjEg5bm05pqR5YGH5YC854+t6KGo44CN77yb5ZugIHB0LTZkMGFhNmVlZTcg55qE5byV5paH6LeoIDQz4oCTNDcg6KGM77yM6ZmE5Lu26aKY5ZCN55WZ5Zyo6K+l6IqC77yM5YC854+t6KGo5q2j5paH6IeqIDQ4IOihjOi1t+WNleiuvuS4gOiKguOAgiIsDQogICAgIuesrCA0OOKAkzY5IOihjOS4uuaXoOihqOWktOe7k+aehOeahOihqOagvOaKveWPluaui+eJh++8iOW6j+WPt+S4juWAvOePreaXpeacn+mUmeS9je+8jOWmguOAjDEg5YC854+t5pel5pyf44CN44CMMiA3IOaciCAyNyDml6XjgI3vvInvvIzml6XmnJ/mnaHnm67pgJDooYzmiJDnq4vvvIxoZWFkaW5nIOWPquiDveamguaLrOS4uiBkZXJpdmVk44CCIg0KICBdDQp9DQo=
+{
+  "key": "att-1a82c713d3",
+  "title": "财函〔2021〕33号 2021年财务处暑期报账及业务办理通知",
+  "truncated": false,
+  "sections": [
+    {
+      "no": "—",
+      "heading": "2021年财务处暑期报账及业务办理通知",
+      "heading_kind": "author",
+      "lines": [
+        1,
+        9
+      ],
+      "items": [
+        "pt-5938fb5f59",
+        "pt-d7351fb778"
+      ],
+      "chars": 78
+    },
+    {
+      "no": "一",
+      "heading": "一、暑期财务处值班安排",
+      "heading_kind": "author",
+      "lines": [
+        10,
+        12
+      ],
+      "items": [
+        "pt-a2e0c1c035"
+      ],
+      "chars": 53
+    },
+    {
+      "no": "二",
+      "heading": "二、报销业务",
+      "heading_kind": "author",
+      "lines": [
+        13,
+        20
+      ],
+      "items": [
+        "pt-6a4c33036d"
+      ],
+      "chars": 127
+    },
+    {
+      "no": "三",
+      "heading": "三、个人收入业务（含学生、校外人员劳务及校内人员收入）",
+      "heading_kind": "author",
+      "lines": [
+        22,
+        28
+      ],
+      "items": [
+        "pt-1e5162c228"
+      ],
+      "chars": 186
+    },
+    {
+      "no": "四",
+      "heading": "四、其他财务业务办理",
+      "heading_kind": "author",
+      "lines": [
+        29,
+        42
+      ],
+      "items": [
+        "pt-3cd9d8cfac"
+      ],
+      "chars": 242
+    },
+    {
+      "no": "四·（一）",
+      "heading": "（一）预借住院支票",
+      "heading_kind": "author",
+      "lines": [
+        30,
+        35
+      ],
+      "items": [
+        "pt-8b0fbb6893"
+      ],
+      "chars": 111
+    },
+    {
+      "no": "四·（二）",
+      "heading": "（二）发票预借",
+      "heading_kind": "author",
+      "lines": [
+        36,
+        38
+      ],
+      "items": [],
+      "chars": 56
+    },
+    {
+      "no": "四·（三）",
+      "heading": "（三）其他业务",
+      "heading_kind": "author",
+      "lines": [
+        39,
+        42
+      ],
+      "items": [
+        "pt-0e0b87877b"
+      ],
+      "chars": 65
+    },
+    {
+      "no": "—",
+      "heading": "特此通知",
+      "heading_kind": "author",
+      "lines": [
+        43,
+        47
+      ],
+      "items": [
+        "pt-6d0aa6eee7"
+      ],
+      "chars": 29
+    },
+    {
+      "no": "附件",
+      "heading": "2021年暑假值班表（表格主体：序号与值班日期）",
+      "heading_kind": "derived",
+      "lines": [
+        48,
+        69
+      ],
+      "items": [
+        "pt-fa15f7ed48",
+        "pt-ce2b468715",
+        "pt-ea5e59391a",
+        "pt-7040e47682",
+        "pt-d424494bbd",
+        "pt-d44bf05764",
+        "pt-68236f741f",
+        "pt-0ce3a55a5a",
+        "pt-ab13420dba",
+        "pt-0b64393b90"
+      ],
+      "chars": 105
+    }
+  ],
+  "items": [
+    "pt-5938fb5f59",
+    "pt-d7351fb778",
+    "pt-a2e0c1c035",
+    "pt-6a4c33036d",
+    "pt-1e5162c228",
+    "pt-3cd9d8cfac",
+    "pt-8b0fbb6893",
+    "pt-0e0b87877b",
+    "pt-6d0aa6eee7",
+    "pt-fa15f7ed48",
+    "pt-ce2b468715",
+    "pt-ea5e59391a",
+    "pt-7040e47682",
+    "pt-d424494bbd",
+    "pt-d44bf05764",
+    "pt-68236f741f",
+    "pt-0ce3a55a5a",
+    "pt-ab13420dba",
+    "pt-0b64393b90"
+  ],
+  "notes": [
+    "版式为整行缩进的公文式文本，正文行内混有大量对齐空白，行号按 sources 原文（69 行）计。",
+    "「四、其他财务业务办理」（29–42）为父节，其下（一）预借住院支票（30–35）、（二）发票预借（36–38）、（三）其他业务（39–42）为真嵌套子节。",
+    "pt-a2e0c1c035 的引文从第 10 行句尾「年暑期报账等相关事宜安排如下：」直接接上第 11 行「一、暑期财务处值班安排」，故「一」节自第 10 行起，引言末句计入该节。",
+    "pt-8b0fbb6893 标题写作「（二）发票预借」，但引文实为（一）项下的「1、办理时间：每周二、周五／2、住院押金…」（34–35 行），按引文落在（一）。",
+    "第 43–47 行为「特此通知」＋落款（财务处／2021年7月20日）＋第 47 行附件题名「附件　　2021 年暑假值班表」；因 pt-6d0aa6eee7 的引文跨 43–47 行，附件题名留在该节，值班表正文自 48 行起单设一节。",
+    "第 48–69 行为无表头结构的表格抽取残片（序号与值班日期错位，如「1 值班日期」「2 7 月 27 日」），日期条目逐行成立，heading 只能概括为 derived。"
+  ]
+}

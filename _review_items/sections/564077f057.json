@@ -1,1 +1,207 @@
-ew0KICJrZXkiOiAiNTY0MDc3ZjA1NyIsDQogInRpdGxlIjogIkI0MTIg6K6+5aSH5YWx5Lqr5Lit5b+D5L2/55So5oyH5Y2XIiwNCiAidHJ1bmNhdGVkIjogZmFsc2UsDQogInNlY3Rpb25zIjogWw0KICB7DQogICAibm8iOiAi6aG16Z2i5qGG5p62IiwNCiAgICJoZWFkaW5nIjogIuermeeCueWvvOiIquS4juagj+ebruagh+etviIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDEsDQogICAgMjcNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWVkZDZmZGEzZjgiLA0KICAgICJwdC0yYTZhYzFhMWM2IiwNCiAgICAicHQtYTljYTJiYmUzYyINCiAgIF0sDQogICAiY2hhcnMiOiAxODQNCiAgfSwNCiAgew0KICAgIm5vIjogIuagh+mimCIsDQogICAiaGVhZGluZyI6ICLmraPmlofmoIfpopjkuI7lj5HluIPkv6Hmga8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyOCwNCiAgICAyOQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZWEzZTk5ZmVlYiIsDQogICAgInJ1bGUtNTY0MDc3ZjA1NyINCiAgIF0sDQogICAiY2hhcnMiOiA0NA0KICB9LA0KICB7DQogICAibm8iOiAi5Zmo5p2Q6IyD5Zu0IiwNCiAgICJoZWFkaW5nIjogIuWPr+WAn+WZqOadkOOAgTI0IOWwj+aXtuW8gOaUvuS4juWunumqjOWupOWGheaZryIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDMwLA0KICAgIDMyDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC00MjhmYzgxZjlmIiwNCiAgICAicHQtZDFiNDNhOWM2ZiINCiAgIF0sDQogICAiY2hhcnMiOiAyMTYNCiAgfSwNCiAgew0KICAgIm5vIjogIuaTjeS9nOaWueazlSIsDQogICAiaGVhZGluZyI6ICLmk43kvZzmlrnms5XlpoLkuIvvvJoiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDMzLA0KICAgIDQ3DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAxMTA4DQogIH0sDQogIHsNCiAgICJubyI6ICLmraXpqqQxIiwNCiAgICJoZWFkaW5nIjogIuatpemqpDHvvJrlnKjlvq7kv6HlsI/nqIvluo/kuK3mkJzntKLigJzkuK3kvKDorr7lpIfnp5/otYHigJ3jgIIiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDM0LA0KICAgIDM1DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1lNDMwNWUyOGYxIg0KICAgXSwNCiAgICJjaGFycyI6IDE1NA0KICB9LA0KICB7DQogICAibm8iOiAi5q2l6aqkMiIsDQogICAiaGVhZGluZyI6ICLmraXpqqQy77ya5Zyo5bCP56iL5bqP5Liq5Lq66K6+572u55WM6Z2i77yM54K55Ye74oCc6b2/6L2u4oCd57uR5a6a5a6h5om56ICB5biI44CCIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzNiwNCiAgICAzNw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtOTllNGM1ZGMyNiIsDQogICAgInB0LTFmYjQyM2QzODgiDQogICBdLA0KICAgImNoYXJzIjogMTkxDQogIH0sDQogIHsNCiAgICJubyI6ICLmraXpqqQzIiwNCiAgICJoZWFkaW5nIjogIuatpemqpDPvvJrlnKjnianlk4HliJfooajkuK3pgInmi6nmnInlupPlrZjnmoTpobnnm67ngrnlh7vlgJ/nlKgiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDM4LA0KICAgIDQxDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAyNTQNCiAgfSwNCiAgew0KICAgIm5vIjogIuatpemqpDQiLA0KICAgImhlYWRpbmciOiAi5q2l6aqkNO+8muaPkOS6pOeUs+ivt+WQju+8jOWPiuaXtumAmuefpee7keWumueahOWuoeaJueiAgeW4iOWuoeaJueS9oOeahOWAn+eUqOmcgOaxgu+8jOWuoeaJuemAmui/h+WQjuWcqOeUs+ivt+mhtemdoueCueWHu+aJq+S4gOaJq+WPluS7tuOAgiIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNDIsDQogICAgNDMNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTgwZGFkNzRlMTUiDQogICBdLA0KICAgImNoYXJzIjogMTUyDQogIH0sDQogIHsNCiAgICJubyI6ICLmraXpqqQ1IiwNCiAgICJoZWFkaW5nIjogIuatpemqpDXvvJrlnKhCNDEy6K6+5aSH5YWx5Lqr5Lit5b+D5omr6K6+5aSH5p+c5LiK5LqM57u056CB5Y+W5Lu25ZKM5b2S6L+YIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA0NCwNCiAgICA0NQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZGJhZWIxYzk5YSIsDQogICAgInB0LTViZDkxZWI3NmUiDQogICBdLA0KICAgImNoYXJzIjogMTc0DQogIH0sDQogIHsNCiAgICJubyI6ICLmraXpqqQ2IiwNCiAgICJoZWFkaW5nIjogIuatpemqpDbvvJrlvZLov5jml7bvvIzngrnlh7voh6rlt7HnmoTlgJ/nlKjorrDlvZXvvIzngrnlh7vmiavkuIDmiavlvZLov5giLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDQ2LA0KICAgIDQ3DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1mNTA1YzZhZTJiIiwNCiAgICAicHQtZTU2Y2VhOTU2YyINCiAgIF0sDQogICAiY2hhcnMiOiAxNzYNCiAgfSwNCiAgew0KICAgIm5vIjogIuazqOaEj+S6i+mhuSIsDQogICAiaGVhZGluZyI6ICLms6jmhI/vvJoiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDQ4LA0KICAgIDU0DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC00ZDQyZTc4ZjdjIiwNCiAgICAicHQtNTViM2Y0ZDU5MiIsDQogICAgInB0LWI1ZDJhNDUwYmEiLA0KICAgICJwdC0zNjJjZDcyYTQ1IiwNCiAgICAicHQtMjc0NTIxYzJlYyIsDQogICAgInB0LWQyMGU0NTRmMzYiLA0KICAgICJwdC0xNTYzMGY0NmIzIiwNCiAgICAicHQtNzhkYzM3ZWEyOSINCiAgIF0sDQogICAiY2hhcnMiOiAyMjQNCiAgfSwNCiAgew0KICAgIm5vIjogIumhteiEmiIsDQogICAiaGVhZGluZyI6ICLlhbPkuo7miJHku6zjgIHlj4vmg4Xpk77mjqXkuI7niYjmnYPkv6Hmga8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1NSwNCiAgICA2MQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMjQ4MWMwOWEzZiINCiAgIF0sDQogICAiY2hhcnMiOiAyNTUNCiAgfQ0KIF0sDQogIml0ZW1zIjogWw0KICAicnVsZS01NjQwNzdmMDU3IiwNCiAgInB0LWQxYjQzYTljNmYiLA0KICAicHQtZTQzMDVlMjhmMSIsDQogICJwdC05OWU0YzVkYzI2IiwNCiAgInB0LTFmYjQyM2QzODgiLA0KICAicHQtODBkYWQ3NGUxNSIsDQogICJwdC1kYmFlYjFjOTlhIiwNCiAgInB0LTViZDkxZWI3NmUiLA0KICAicHQtZjUwNWM2YWUyYiIsDQogICJwdC1lNTZjZWE5NTZjIiwNCiAgInB0LTU1YjNmNGQ1OTIiLA0KICAicHQtYjVkMmE0NTBiYSIsDQogICJwdC0zNjJjZDcyYTQ1IiwNCiAgInB0LTI3NDUyMWMyZWMiLA0KICAicHQtZDIwZTQ1NGYzNiIsDQogICJwdC0xNTYzMGY0NmIzIiwNCiAgInB0LWVhM2U5OWZlZWIiLA0KICAicHQtZWRkNmZkYTNmOCIsDQogICJwdC0yYTZhYzFhMWM2IiwNCiAgInB0LWE5Y2EyYmJlM2MiLA0KICAicHQtNDI4ZmM4MWY5ZiIsDQogICJwdC00ZDQyZTc4ZjdjIiwNCiAgInB0LTc4ZGMzN2VhMjkiLA0KICAicHQtMjQ4MWMwOWEzZiINCiBdLA0KICJub3RlcyI6IFsNCiAgInJ1bGUtNTY0MDc3ZjA1NyDmmK/mlofmoaPnuqfmnaHnm67vvIjmoIfpopjljbPpobXpnaLlkI3vvIzml6DlvJXmlofvvInvvIzmlL7ov5vjgIzmoIfpopjjgI3oioLlubblnKjmlofmoaPnuqcgaXRlbXMg6YeM5YiX5LiA5qyh77yb6K+l5p2h55uu55qE6JC954K55L+h5oGv5Y+q5p2l6Ieq6aG16Z2i5qCH6aKY44CMQjQxMiDorr7lpIflhbHkuqvkuK3lv4Pkvb/nlKjmjIfljZfjgI3vvIjnrKwgMSDooYzmtY/op4jlmajmoIfpopjjgIHnrKwgMjgg6KGM5q2j5paH5qCH6aKY77yJ44CCIiwNCiAgIue9kemhteaKveWPlu+8muesrCAxIOihjOa1j+iniOWZqOagh+mimO+8jOesrCAzLTI3IOihjOaYr+a1t+WNl+WbvemZheWtpumZouermeeCueWvvOiIqu+8iEVuL+S4reOAgeWtpumZouamguWGteOAgeaLm+eUn+OAgeS6uuaJjeWfueWFu+OAgeS6pOa1geWQiOS9nOOAgeWKoOWFpeaIkeS7rOOAgeW4uOeUqOS4i+i9vemAkOadoeaKveWHuu+8ie+8jOW5tuWFpeOAjOmhtemdouahhuaetuOAjeS4gOiKgu+8m+WvvOiIquadoeebriBwdC1lZGQ2ZmRhM2Y4IC8gcHQtMmE2YWMxYTFjNiAvIHB0LWE5Y2EyYmJlM2Mg55qE5byV5paH6YO95Zyo5q2k5Yy66Ze044CCIiwNCiAgIuesrCAzMyDooYzjgIzmk43kvZzmlrnms5XlpoLkuIvvvJrjgI3mmK/mraXpqqTnvqTnmoTmgLvotbflj6XvvIzjgIzmraXpqqQx44CN6Iez44CM5q2l6aqkNuOAjeWQhOaIkOWtkOiKgu+8iOS4jueItuiKguecn+W1jOWll++8ie+8m+avj+atpeS5i+mXtOWkueedgOaIquWbvuWNoOS9jeihjO+8iGBb6ZmE5Lu2XSAuLi5wbmcvanBnYO+8ie+8jOS4gOW5tueVmeWcqOWvueW6lOatpemqpOWtkOiKguWGheOAgiIsDQogICLjgIzms6jmhI/vvJrjgI3kuIvnmoQgMS01IOadoeaYr+W5tuWIl+azqOaEj+S6i+mhue+8jOWQiOS4uuS4gOiKguacquaLhu+8m+esrCA1MS01MiDooYzooqvnoazmjaLooYzliIfmiJDkuKTooYzvvIjjgIzigKbku6XlkI7jgI3vvI/jgIznpoHmraLlgJ/nlKjjgILjgI3vvInvvIzmjInljp/mlofkv53nlZnvvJtwdC03OGRjMzdlYTI5IOeahOW8leaWh+i3qOesrCA044CBNSDmnaHkuKTmrrXjgIIiLA0KICAi44CM5rOo5oSP5LqL6aG544CN6IqC5LiO44CM5pON5L2c5pa55rOV44CN54i26IqC576k5LiN6YeN5Y+g77ya5YmN6ICF5LuO56ysIDQ4IOihjOOAjOazqOaEj++8muOAjei1t++8jOWQjuiAheWIsOesrCA0NyDooYzmraLjgIIiLA0KICAi56ysIDU1LTYxIOihjOS4uumhteiEmu+8iOWFs+S6juaIkeS7rO+8j+WPi+aDhemTvuaOpe+8j+eJiOadg+S4juWkh+ahiOWPt++8j+a1t+WNl+mZteawtOagoeWMuuWcsOWdgOmCrue8lu+8j+WbnuWIsOmhtumDqOS4juiuv+mXrue7n+iuoeWNoOS9je+8ie+8jOWNleWIl+S4gOiKgu+8jOWcsOWdgOadoeebriBwdC0yNDgxYzA5YTNmIOiQveWcqOatpOiKguOAgiINCiBdDQp9
+{
+ "key": "564077f057",
+ "title": "B412 设备共享中心使用指南",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "页面框架",
+   "heading": "站点导航与栏目标签",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    27
+   ],
+   "items": [
+    "pt-edd6fda3f8",
+    "pt-2a6ac1a1c6",
+    "pt-a9ca2bbe3c"
+   ],
+   "chars": 184
+  },
+  {
+   "no": "标题",
+   "heading": "正文标题与发布信息",
+   "heading_kind": "derived",
+   "lines": [
+    28,
+    29
+   ],
+   "items": [
+    "pt-ea3e99feeb",
+    "rule-564077f057"
+   ],
+   "chars": 44
+  },
+  {
+   "no": "器材范围",
+   "heading": "可借器材、24 小时开放与实验室内景",
+   "heading_kind": "derived",
+   "lines": [
+    30,
+    32
+   ],
+   "items": [
+    "pt-428fc81f9f",
+    "pt-d1b43a9c6f"
+   ],
+   "chars": 216
+  },
+  {
+   "no": "操作方法",
+   "heading": "操作方法如下：",
+   "heading_kind": "author",
+   "lines": [
+    33,
+    47
+   ],
+   "items": [],
+   "chars": 1108
+  },
+  {
+   "no": "步骤1",
+   "heading": "步骤1：在微信小程序中搜索“中传设备租赁”。",
+   "heading_kind": "author",
+   "lines": [
+    34,
+    35
+   ],
+   "items": [
+    "pt-e4305e28f1"
+   ],
+   "chars": 154
+  },
+  {
+   "no": "步骤2",
+   "heading": "步骤2：在小程序个人设置界面，点击“齿轮”绑定审批老师。",
+   "heading_kind": "author",
+   "lines": [
+    36,
+    37
+   ],
+   "items": [
+    "pt-99e4c5dc26",
+    "pt-1fb423d388"
+   ],
+   "chars": 191
+  },
+  {
+   "no": "步骤3",
+   "heading": "步骤3：在物品列表中选择有库存的项目点击借用",
+   "heading_kind": "author",
+   "lines": [
+    38,
+    41
+   ],
+   "items": [],
+   "chars": 254
+  },
+  {
+   "no": "步骤4",
+   "heading": "步骤4：提交申请后，及时通知绑定的审批老师审批你的借用需求，审批通过后在申请页面点击扫一扫取件。",
+   "heading_kind": "author",
+   "lines": [
+    42,
+    43
+   ],
+   "items": [
+    "pt-80dad74e15"
+   ],
+   "chars": 152
+  },
+  {
+   "no": "步骤5",
+   "heading": "步骤5：在B412设备共享中心扫设备柜上二维码取件和归还",
+   "heading_kind": "author",
+   "lines": [
+    44,
+    45
+   ],
+   "items": [
+    "pt-dbaeb1c99a",
+    "pt-5bd91eb76e"
+   ],
+   "chars": 174
+  },
+  {
+   "no": "步骤6",
+   "heading": "步骤6：归还时，点击自己的借用记录，点击扫一扫归还",
+   "heading_kind": "author",
+   "lines": [
+    46,
+    47
+   ],
+   "items": [
+    "pt-f505c6ae2b",
+    "pt-e56cea956c"
+   ],
+   "chars": 176
+  },
+  {
+   "no": "注意事项",
+   "heading": "注意：",
+   "heading_kind": "author",
+   "lines": [
+    48,
+    54
+   ],
+   "items": [
+    "pt-4d42e78f7c",
+    "pt-55b3f4d592",
+    "pt-b5d2a450ba",
+    "pt-362cd72a45",
+    "pt-274521c2ec",
+    "pt-d20e454f36",
+    "pt-15630f46b3",
+    "pt-78dc37ea29"
+   ],
+   "chars": 224
+  },
+  {
+   "no": "页脚",
+   "heading": "关于我们、友情链接与版权信息",
+   "heading_kind": "derived",
+   "lines": [
+    55,
+    61
+   ],
+   "items": [
+    "pt-2481c09a3f"
+   ],
+   "chars": 255
+  }
+ ],
+ "items": [
+  "rule-564077f057",
+  "pt-d1b43a9c6f",
+  "pt-e4305e28f1",
+  "pt-99e4c5dc26",
+  "pt-1fb423d388",
+  "pt-80dad74e15",
+  "pt-dbaeb1c99a",
+  "pt-5bd91eb76e",
+  "pt-f505c6ae2b",
+  "pt-e56cea956c",
+  "pt-55b3f4d592",
+  "pt-b5d2a450ba",
+  "pt-362cd72a45",
+  "pt-274521c2ec",
+  "pt-d20e454f36",
+  "pt-15630f46b3",
+  "pt-ea3e99feeb",
+  "pt-edd6fda3f8",
+  "pt-2a6ac1a1c6",
+  "pt-a9ca2bbe3c",
+  "pt-428fc81f9f",
+  "pt-4d42e78f7c",
+  "pt-78dc37ea29",
+  "pt-2481c09a3f"
+ ],
+ "notes": [
+  "rule-564077f057 是文档级条目（标题即页面名，无引文），放进「标题」节并在文档级 items 里列一次；该条目的落点信息只来自页面标题「B412 设备共享中心使用指南」（第 1 行浏览器标题、第 28 行正文标题）。",
+  "网页抽取：第 1 行浏览器标题，第 3-27 行是海南国际学院站点导航（En/中、学院概况、招生、人才培养、交流合作、加入我们、常用下载逐条抽出），并入「页面框架」一节；导航条目 pt-edd6fda3f8 / pt-2a6ac1a1c6 / pt-a9ca2bbe3c 的引文都在此区间。",
+  "第 33 行「操作方法如下：」是步骤群的总起句，「步骤1」至「步骤6」各成子节（与父节真嵌套）；每步之间夹着截图占位行（`[附件] ...png/jpg`），一并留在对应步骤子节内。",
+  "「注意：」下的 1-5 条是并列注意事项，合为一节未拆；第 51-52 行被硬换行切成两行（「…以后」／「禁止借用。」），按原文保留；pt-78dc37ea29 的引文跨第 4、5 条两段。",
+  "「注意事项」节与「操作方法」父节群不重叠：前者从第 48 行「注意：」起，后者到第 47 行止。",
+  "第 55-61 行为页脚（关于我们／友情链接／版权与备案号／海南陵水校区地址邮编／回到顶部与访问统计占位），单列一节，地址条目 pt-2481c09a3f 落在此节。"
+ ]
+}

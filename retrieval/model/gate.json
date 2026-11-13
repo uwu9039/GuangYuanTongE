@@ -1,1 +1,10 @@
-ew0KICJwb2xpY3kiOiB7DQogICJtaW5fY292X3Nob3J0IjogMC4wMywNCiAgIm1pbl9wcm9iX3dlYWtfbWF0Y2giOiAwLjE1LA0KICAibWluX2Nvdl9jb3JwdXMiOiAwLjQ1LA0KICAibWF4X29vdl9ydW4iOiAzLA0KICAibWluX3Byb2IiOiAwLjA1DQogfSwNCiAic3RhdHMiOiB7fQ0KfQ==
+{
+ "policy": {
+  "min_cov_short": 0.03,
+  "min_prob_weak_match": 0.15,
+  "min_cov_corpus": 0.45,
+  "max_oov_run": 3,
+  "min_prob": 0.05
+ },
+ "stats": {}
+}

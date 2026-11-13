@@ -1,1 +1,152 @@
-ew0KICJrZXkiOiAibG9jLTEyLeS4reWbveS8oOWqkuWkp+WtpuaWsOmXu+WtpumZojIwMjXlubTnp4vlraPlrabmnJ/mnKznp5HnlJ/ovazkuJPkuJrlt6XkvZzmjqXmlLborqHliJItOWRjOWVkIiwNCiAidGl0bGUiOiAiMjAyNeW5tOeni+Wto+Wtpuacn+S4reWbveS8oOWqkuWkp+WtpuaWsOmXu+WtpumZouacrOenkeeUn+i9rOS4k+S4muW3peS9nOaOpeaUtuiuoeWIkiIsDQogInRydW5jYXRlZCI6IGZhbHNlLA0KICJzZWN0aW9ucyI6IFsNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLmoIfpopjjgIHnm5bnq6DkuI7ooajlpLTliJflkI0iLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxLA0KICAgIDMNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInJ1bGUtbG9jLTEyLTIwMjUtOWRjOWVkIiwNCiAgICAicHQtNGYzMjA4YTIzYiIsDQogICAgInB0LTE1OThjMDRlNDYiDQogICBdLA0KICAgImNoYXJzIjogMTA2DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5paw6Ze75a2mIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA0LA0KICAgIDMzDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0xOTk2ODJhYTNkIiwNCiAgICAicHQtYzllYTcwMWU4ZiIsDQogICAgInB0LTA2OTU4N2RiY2UiLA0KICAgICJwdC1kYzNiZjM0NzYyIiwNCiAgICAicHQtZDMwYWIwNDE3NCIsDQogICAgInB0LWFhNDA0NGY0MzgiLA0KICAgICJwdC1lY2I2NDBiYjNiIiwNCiAgICAicHQtMGVmNWQ5ZTcxZCIsDQogICAgInB0LTM1M2JmZjhkMWYiDQogICBdLA0KICAgImNoYXJzIjogNDIzDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5Lyg5pKt5a2mIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzNCwNCiAgICA2Mw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtYzllYTcwMWU4ZiIsDQogICAgInB0LTA2OTU4N2RiY2UiLA0KICAgICJwdC1kYzNiZjM0NzYyIiwNCiAgICAicHQtZDMwYWIwNDE3NCIsDQogICAgInB0LWFhNDA0NGY0MzgiLA0KICAgICJwdC1lY2I2NDBiYjNiIiwNCiAgICAicHQtMGVmNWQ5ZTcxZCIsDQogICAgInB0LTM1M2JmZjhkMWYiDQogICBdLA0KICAgImNoYXJzIjogNDIzDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi57ut6KGo77ya5Lyg5pKt5a2m77yI5pm66IO95LiO6K6h566X5Lyg5pKt5pa55ZCR77yJ5LiO5paw6Ze75a2m77yI5paw6Ze76IiG6K665a2m77yJ5Lik6KGMIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNjQsDQogICAgMTIxDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0zMzJjYTZmMWVkIg0KICAgXSwNCiAgICJjaGFycyI6IDg5MQ0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuWIhumhteWkhOmHjeWkjeeahOihqOWktOihjCIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDY0LA0KICAgIDY0DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiA1MQ0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuS8oOaSreWtpu+8iOaZuuiDveS4juiuoeeul+S8oOaSreaWueWQke+8iSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNjUsDQogICAgOTQNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTZlMTI3OTk0OGQiLA0KICAgICJwdC1jOWVhNzAxZThmIiwNCiAgICAicHQtMDY5NTg3ZGJjZSIsDQogICAgInB0LWRjM2JmMzQ3NjIiLA0KICAgICJwdC1kMzBhYjA0MTc0IiwNCiAgICAicHQtYWE0MDQ0ZjQzOCIsDQogICAgInB0LWVjYjY0MGJiM2IiLA0KICAgICJwdC0wZWY1ZDllNzFkIiwNCiAgICAicHQtMzUzYmZmOGQxZiINCiAgIF0sDQogICAiY2hhcnMiOiA0MjQNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLmlrDpl7vlrabvvIjmlrDpl7voiIborrrlrabvvIkiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDk1LA0KICAgIDEyMQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtYzllYTcwMWU4ZiIsDQogICAgInB0LTA2OTU4N2RiY2UiLA0KICAgICJwdC1kYzNiZjM0NzYyIiwNCiAgICAicHQtZDMwYWIwNDE3NCIsDQogICAgInB0LWFhNDA0NGY0MzgiLA0KICAgICJwdC1lY2I2NDBiYjNiIiwNCiAgICAicHQtMGVmNWQ5ZTcxZCIsDQogICAgInB0LTM1M2JmZjhkMWYiDQogICBdLA0KICAgImNoYXJzIjogNDE2DQogIH0NCiBdLA0KICJpdGVtcyI6IFsNCiAgInJ1bGUtbG9jLTEyLTIwMjUtOWRjOWVkIiwNCiAgInB0LWRjM2JmMzQ3NjIiLA0KICAicHQtYWE0MDQ0ZjQzOCIsDQogICJwdC00ZjMyMDhhMjNiIiwNCiAgInB0LTE1OThjMDRlNDYiLA0KICAicHQtMTk5NjgyYWEzZCIsDQogICJwdC0wNjk1ODdkYmNlIiwNCiAgInB0LWQzMGFiMDQxNzQiLA0KICAicHQtZWNiNjQwYmIzYiIsDQogICJwdC0wZWY1ZDllNzFkIiwNCiAgInB0LTM1M2JmZjhkMWYiLA0KICAicHQtNmUxMjc5OTQ4ZCIsDQogICJwdC0zMzJjYTZmMWVkIiwNCiAgInB0LWM5ZWE3MDFlOGYiDQogXSwNCiAibm90ZXMiOiBbDQogICLljp/mlofmmK/kuIDlvKDmqKrlkJHooajmoLzvvIzmir3lj5blkI7mjInjgIzkuJPkuJrlkI3np7DvvI/njrDmnInlubTnuqfvvI/mjqXmlLbmnaHku7bvvI/nlLPor7fmnZDmlpnopoHmsYLvvI/ogIPmoLjmlrnlvI/jgIHml7bpl7Tlj4rlnLDngrnvvI/ogZTns7vmlrnlvI/jgI3lha3liJfnurXlkJHpk7rmiJDpgJDooYzmlofmnKzvvJvlm5vooYzkuJPkuJrkuLrmlrDpl7vlrabjgIHkvKDmkq3lrabjgIHkvKDmkq3lrabvvIjmmbrog73kuI7orqHnrpfkvKDmkq3mlrnlkJHvvInjgIHmlrDpl7vlrabvvIjmlrDpl7voiIborrrlrabvvInjgIIiLA0KICAi56ysIDY0IOihjOaYr+WIhumhteWkhOmHjeWkjeeahOihqOWktOihjO+8jOWNleWIl+aIkOS4gOiKgu+8jOS4jeW5tui/m+S7u+S9leS4k+S4muihjOOAgiIsDQogICLlkITkuJPkuJrooYzmnKvnmoTjgIwyMDI057qn77yPMjAyM+e6p++8jzIwMjLnuqfjgI3mmK/jgIznjrDmnInlubTnuqfjgI3liJfnmoTnu63ooYzvvIzpmo/or6XooYzlubblhaXmnKzoioLljLrpl7TjgIIiLA0KICAi5Zub6KGM5LiT5Lia55qE5o6l5pS25p2h5Lu244CB5p2Q5paZ6KaB5rGC44CB6ICD5qC45a6J5o6S44CB6IGU57O75pa55byP5paH5a2X5a6M5YWo55u45ZCM77yM5pWFIHB0LWM5ZWE3MDFlOGYg562J5p2h55uu5Zyo5Zub5Liq5LiT5Lia6IqC5ZCE5YiX5LiA5qyh44CCIiwNCiAgInB0LTMzMmNhNmYxZWQg55qE5byV5paH44CMMjAyNOe6p+aWsOmXu+Wtpu+8iOaWsOmXu+iIhuiuuuWtpu+8iTIwMjXnuqfjgI3mqKrot6jnrKwgOTQtOTYg6KGM77yI5LiK5LiA6KGM55qE5bm057qn57ut6KGM77yL5LiL5LiA6KGM55qE5LiT5Lia5ZCN77yJ77yM5pWF5bu654i26IqC44CM57ut6KGo44CN5YyF5L2P5Lik5Liq5LiT5Lia6IqC44CCIiwNCiAgInJ1bGUtbG9jLTEyLTIwMjUtOWRjOWVkIOS4uuaWh+aho+e6p+adoeebruOAgeaXoOW8leaWh++8jOiQveihqOWktOiKguW5tuWQjOaXtuWIl+WFpeaWh+aho+e6pyBpdGVtc+OAgiINCiBdDQp9DQo=
+{
+ "key": "loc-12-中国传媒大学新闻学院2025年秋季学期本科生转专业工作接收计划-9dc9ed",
+ "title": "2025年秋季学期中国传媒大学新闻学院本科生转专业工作接收计划",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "标题、盖章与表头列名",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    3
+   ],
+   "items": [
+    "rule-loc-12-2025-9dc9ed",
+    "pt-4f3208a23b",
+    "pt-1598c04e46"
+   ],
+   "chars": 106
+  },
+  {
+   "no": "—",
+   "heading": "新闻学",
+   "heading_kind": "author",
+   "lines": [
+    4,
+    33
+   ],
+   "items": [
+    "pt-199682aa3d",
+    "pt-c9ea701e8f",
+    "pt-069587dbce",
+    "pt-dc3bf34762",
+    "pt-d30ab04174",
+    "pt-aa4044f438",
+    "pt-ecb640bb3b",
+    "pt-0ef5d9e71d",
+    "pt-353bff8d1f"
+   ],
+   "chars": 423
+  },
+  {
+   "no": "—",
+   "heading": "传播学",
+   "heading_kind": "author",
+   "lines": [
+    34,
+    63
+   ],
+   "items": [
+    "pt-c9ea701e8f",
+    "pt-069587dbce",
+    "pt-dc3bf34762",
+    "pt-d30ab04174",
+    "pt-aa4044f438",
+    "pt-ecb640bb3b",
+    "pt-0ef5d9e71d",
+    "pt-353bff8d1f"
+   ],
+   "chars": 423
+  },
+  {
+   "no": "—",
+   "heading": "续表：传播学（智能与计算传播方向）与新闻学（新闻舆论学）两行",
+   "heading_kind": "derived",
+   "lines": [
+    64,
+    121
+   ],
+   "items": [
+    "pt-332ca6f1ed"
+   ],
+   "chars": 891
+  },
+  {
+   "no": "—",
+   "heading": "分页处重复的表头行",
+   "heading_kind": "derived",
+   "lines": [
+    64,
+    64
+   ],
+   "items": [],
+   "chars": 51
+  },
+  {
+   "no": "—",
+   "heading": "传播学（智能与计算传播方向）",
+   "heading_kind": "author",
+   "lines": [
+    65,
+    94
+   ],
+   "items": [
+    "pt-6e1279948d",
+    "pt-c9ea701e8f",
+    "pt-069587dbce",
+    "pt-dc3bf34762",
+    "pt-d30ab04174",
+    "pt-aa4044f438",
+    "pt-ecb640bb3b",
+    "pt-0ef5d9e71d",
+    "pt-353bff8d1f"
+   ],
+   "chars": 424
+  },
+  {
+   "no": "—",
+   "heading": "新闻学（新闻舆论学）",
+   "heading_kind": "author",
+   "lines": [
+    95,
+    121
+   ],
+   "items": [
+    "pt-c9ea701e8f",
+    "pt-069587dbce",
+    "pt-dc3bf34762",
+    "pt-d30ab04174",
+    "pt-aa4044f438",
+    "pt-ecb640bb3b",
+    "pt-0ef5d9e71d",
+    "pt-353bff8d1f"
+   ],
+   "chars": 416
+  }
+ ],
+ "items": [
+  "rule-loc-12-2025-9dc9ed",
+  "pt-dc3bf34762",
+  "pt-aa4044f438",
+  "pt-4f3208a23b",
+  "pt-1598c04e46",
+  "pt-199682aa3d",
+  "pt-069587dbce",
+  "pt-d30ab04174",
+  "pt-ecb640bb3b",
+  "pt-0ef5d9e71d",
+  "pt-353bff8d1f",
+  "pt-6e1279948d",
+  "pt-332ca6f1ed",
+  "pt-c9ea701e8f"
+ ],
+ "notes": [
+  "原文是一张横向表格，抽取后按「专业名称／现有年级／接收条件／申请材料要求／考核方式、时间及地点／联系方式」六列纵向铺成逐行文本；四行专业为新闻学、传播学、传播学（智能与计算传播方向）、新闻学（新闻舆论学）。",
+  "第 64 行是分页处重复的表头行，单列成一节，不并进任何专业行。",
+  "各专业行末的「2024级／2023级／2022级」是「现有年级」列的续行，随该行并入本节区间。",
+  "四行专业的接收条件、材料要求、考核安排、联系方式文字完全相同，故 pt-c9ea701e8f 等条目在四个专业节各列一次。",
+  "pt-332ca6f1ed 的引文「2024级新闻学（新闻舆论学）2025级」横跨第 94-96 行（上一行的年级续行＋下一行的专业名），故建父节「续表」包住两个专业节。",
+  "rule-loc-12-2025-9dc9ed 为文档级条目、无引文，落表头节并同时列入文档级 items。"
+ ]
+}

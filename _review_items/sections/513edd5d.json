@@ -1,1 +1,234 @@
-ew0KICJrZXkiOiAiNTEzZWRkNWQiLA0KICJ0aXRsZSI6ICLmuLjms7Pppobnm7jlhbPkuovpobkiLA0KICJ0cnVuY2F0ZWQiOiBmYWxzZSwNCiAic2VjdGlvbnMiOiBbDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi6aKY5aS05LiO5Zy66aaG5LuL57uNIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMSwNCiAgICA0DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0xMzBhMjMyNmMzIg0KICAgXSwNCiAgICJjaGFycyI6IDU5DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5Zy66aaG5LuL57uNIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyLA0KICAgIDQNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDUyDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5a6J5YWo546v5aKDIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1LA0KICAgIDkNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWY3MmFiZTE4NjEiLA0KICAgICJwdC00ZWMzN2FiMDgxIiwNCiAgICAicHQtN2FmMTQzNzZlNyIsDQogICAgInB0LTJmZmQ2YmIyYTgiDQogICBdLA0KICAgImNoYXJzIjogMTM1DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5Zy66aaG5byA5pS+5ZGo5pyfIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMCwNCiAgICAxNQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMTVkZGEwOWVkNyIsDQogICAgInB0LTg3NmZkOTc0Y2EiDQogICBdLA0KICAgImNoYXJzIjogMTk3DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5ri45rOz6aaG6ZyA6KaB6aKE57qm5ZCX77yf5aaC5L2V6aKE57qm77yfIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNiwNCiAgICAxOQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZDYxMGEwMmMzNiIsDQogICAgInB0LWM0OTRjMTZlMzUiLA0KICAgICJwdC04ZTE1MmJhNDAyIg0KICAgXSwNCiAgICJjaGFycyI6IDEwMA0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIua4uOazs+mmhueahOaUtui0ueagh+WHhj8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDIwLA0KICAgIDI0DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0yYmZjYmQ5MDg2Ig0KICAgXSwNCiAgICJjaGFycyI6IDEwOA0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuWtpuagoea4uOazs+mmhuWtpueUn+WmguS9leWKnuWNoe+8n+WtpueUn+WfueiureWmguS9leaUtui0ue+8nyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMjUsDQogICAgMzENCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTg0ZTI2OTljOWMiLA0KICAgICJwdC1hM2U2YzdjOTUzIiwNCiAgICAicHQtMzM4NGQ2NDFmMiINCiAgIF0sDQogICAiY2hhcnMiOiAxNzYNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLku4DkuYjml7blgJnlj6/ku6XogIPmt7HmsLTor4HvvJ8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDMyLA0KICAgIDM0DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC05YTY1YzAwMTcyIg0KICAgXSwNCiAgICJjaGFycyI6IDQ1DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5rex5rC06K+B5Zyo5ZOq6YeM6ICD77yfIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzNSwNCiAgICAzNw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMWQ3YmMyZWE0MCIsDQogICAgInB0LTA3ZmE4NDc4ZGMiDQogICBdLA0KICAgImNoYXJzIjogNDcNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLmt7HmsLTor4HnmoTogIPmoLjlhoXlrrkiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDM4LA0KICAgIDQ0DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0xZjA3NGVmOGUyIiwNCiAgICAicHQtNjM1YjFkNGVmYSIsDQogICAgInB0LTRmYjYwYjNiYTkiLA0KICAgICJwdC1jNzBlODA0MGUwIiwNCiAgICAicHQtOTYyZDU1ODUyNSINCiAgIF0sDQogICAiY2hhcnMiOiAxMzgNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLku4DkuYjmnaHku7bkuIvpnIDopoHmt7HmsLTor4HvvJ8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDQ1LA0KICAgIDQ3DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0yYzQ0NTgxNzE5IiwNCiAgICAicHQtNGM0OWMzMjM5YiINCiAgIF0sDQogICAiY2hhcnMiOiA0Ng0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuaVmeW3peWKnuWNoeacieWVpeimgeaxgu+8nyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNDgsDQogICAgNTQNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWMwYTk1MzQzN2MiLA0KICAgICJwdC0wNDYzMWUzYTc4IiwNCiAgICAicHQtMGVlZGRhNDgyNCIsDQogICAgInB0LWUzY2ZkMzFiODAiLA0KICAgICJwdC0xZGNlNzEyYzdjIg0KICAgXSwNCiAgICJjaGFycyI6IDE1NQ0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIua4uOazs+mmhuaYr+WQpumdouWQkeekvuS8muW8gOaUvu+8nyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNTUsDQogICAgNTYNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTFmYTA1MTUyMWYiLA0KICAgICJwdC0wYWYzOGExMzM3Ig0KICAgXSwNCiAgICJjaGFycyI6IDIyDQogIH0NCiBdLA0KICJpdGVtcyI6IFsNCiAgInJ1bGUtNTEzZWRkNWQiLA0KICAicHQtMTMwYTIzMjZjMyIsDQogICJwdC1mNzJhYmUxODYxIiwNCiAgInB0LTRlYzM3YWIwODEiLA0KICAicHQtN2FmMTQzNzZlNyIsDQogICJwdC1kNjEwYTAyYzM2IiwNCiAgInB0LWM0OTRjMTZlMzUiLA0KICAicHQtOGUxNTJiYTQwMiIsDQogICJwdC0yYmZjYmQ5MDg2IiwNCiAgInB0LTg0ZTI2OTljOWMiLA0KICAicHQtYTNlNmM3Yzk1MyIsDQogICJwdC05YTY1YzAwMTcyIiwNCiAgInB0LTFkN2JjMmVhNDAiLA0KICAicHQtMDdmYTg0NzhkYyIsDQogICJwdC0xZjA3NGVmOGUyIiwNCiAgInB0LTYzNWIxZDRlZmEiLA0KICAicHQtNGZiNjBiM2JhOSIsDQogICJwdC1jNzBlODA0MGUwIiwNCiAgInB0LTJjNDQ1ODE3MTkiLA0KICAicHQtNGM0OWMzMjM5YiIsDQogICJwdC1jMGE5NTM0MzdjIiwNCiAgInB0LTA0NjMxZTNhNzgiLA0KICAicHQtMGVlZGRhNDgyNCIsDQogICJwdC1lM2NmZDMxYjgwIiwNCiAgInB0LTFmYTA1MTUyMWYiLA0KICAicHQtMGFmMzhhMTMzNyIsDQogICJwdC04NzZmZDk3NGNhIiwNCiAgInB0LTJmZmQ2YmIyYTgiLA0KICAicHQtMTVkZGEwOWVkNyIsDQogICJwdC0zMzg0ZDY0MWYyIiwNCiAgInB0LTk2MmQ1NTg1MjUiLA0KICAicHQtMWRjZTcxMmM3YyINCiBdLA0KICJub3RlcyI6IFsNCiAgIuWOn+aWh+aYr+e9kemhtSBGQVEg5L2T77yI6Zeu562U6YCQ5p2h5o6S5YiX77yJ77yM5peg56ug5Y+344CB5peg44CM56ysWOadoeOAje+8jOWwj+agh+mimOWNs+mXrumimOWPpe+8jDEyIOS4quWwj+agh+mimOWFqOmDqOeFp+aKhOWOn+aWh++8jOaVhSBoZWFkaW5nX2tpbmQg5YWo5Li6IGF1dGhvcu+8jG5vIOe7n+S4gOeUqOOAjOKAlOOAjeOAgiIsDQogICLmlofmoaPnuqfmnaHnm64gcnVsZS01MTNlZGQ1ZCDml6DlvJXmlofvvIzkuLrmlofmoaPnuqfmnaHnm67vvIjmoIfpopjiiYjmlofmoaPlkI3vvInvvIzlt7LliJfov5vjgIzpopjlpLTkuI7lnLrppobku4vnu43jgI3oioLlubblnKjmraTor7TmmI7jgIIiLA0KICAicHQtMTMwYTIzMjZjMyDnmoTlvJXmlofmiormlofmoaPmoIfpopjkuI7jgIzlnLrppobku4vnu43jgI3mraPmlofmi7zlnKjkuIDotbfvvIjjgIzmuLjms7Pppobnm7jlhbPkuovpobnlnLrppobku4vnu43kuK3lm73kvKDlqpLlpKflrabmuLjms7PppobkvY3kuo7igKbigKbjgI3vvInvvIzmqKrot6jnrKwgMeKAkzQg6KGM77yM5pWF5Li65YW25bu654i26IqC44CM6aKY5aS05LiO5Zy66aaG5LuL57uN44CN77yI56ysIDHigJM0IOihjO+8ie+8jOOAjOWcuummhuS7i+e7jeOAje+8iOesrCAy4oCTNCDooYzvvInkvZzlhbblrZDoioLvvIjnnJ/ltYzlpZfvvInjgIIiLA0KICAicHQtMmZmZDZiYjJhOCDkuI4gcHQtMTVkZGEwOWVkNyDnmoTlvJXmlofmmK/miorlsI/moIfpopjkuI7mraPmlofmi7zmjqXogIzmiJDvvIjlpoLjgIzmuLjms7Pppobnm7jlhbPkuovpobnjgIHlnLrppobku4vnu43jgIHlronlhajnjq/looPvvZzlronlhajnjq/looPigKbigKbjgI3vvInvvIzmraPmlofph4zml6DpgJDlrZflr7nlupTooYzvvIzlj6rog73mjInlhoXlrrnlvZLlhaXjgIzlronlhajnjq/looPjgI3kuI7jgIzlnLrppoblvIDmlL7lkajmnJ/jgI3kuKToioLjgIIiLA0KICAi56ysIDU2IOihjOS5i+WQjueahOepuuihjOS4jeWxnuS6juS7u+S9leiKguOAgiINCiBdDQp9
+{
+ "key": "513edd5d",
+ "title": "游泳馆相关事项",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "题头与场馆介绍",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    4
+   ],
+   "items": [
+    "pt-130a2326c3"
+   ],
+   "chars": 59
+  },
+  {
+   "no": "—",
+   "heading": "场馆介绍",
+   "heading_kind": "author",
+   "lines": [
+    2,
+    4
+   ],
+   "items": [],
+   "chars": 52
+  },
+  {
+   "no": "—",
+   "heading": "安全环境",
+   "heading_kind": "author",
+   "lines": [
+    5,
+    9
+   ],
+   "items": [
+    "pt-f72abe1861",
+    "pt-4ec37ab081",
+    "pt-7af14376e7",
+    "pt-2ffd6bb2a8"
+   ],
+   "chars": 135
+  },
+  {
+   "no": "—",
+   "heading": "场馆开放周期",
+   "heading_kind": "author",
+   "lines": [
+    10,
+    15
+   ],
+   "items": [
+    "pt-15dda09ed7",
+    "pt-876fd974ca"
+   ],
+   "chars": 197
+  },
+  {
+   "no": "—",
+   "heading": "游泳馆需要预约吗？如何预约？",
+   "heading_kind": "author",
+   "lines": [
+    16,
+    19
+   ],
+   "items": [
+    "pt-d610a02c36",
+    "pt-c494c16e35",
+    "pt-8e152ba402"
+   ],
+   "chars": 100
+  },
+  {
+   "no": "—",
+   "heading": "游泳馆的收费标准?",
+   "heading_kind": "author",
+   "lines": [
+    20,
+    24
+   ],
+   "items": [
+    "pt-2bfcbd9086"
+   ],
+   "chars": 108
+  },
+  {
+   "no": "—",
+   "heading": "学校游泳馆学生如何办卡？学生培训如何收费？",
+   "heading_kind": "author",
+   "lines": [
+    25,
+    31
+   ],
+   "items": [
+    "pt-84e2699c9c",
+    "pt-a3e6c7c953",
+    "pt-3384d641f2"
+   ],
+   "chars": 176
+  },
+  {
+   "no": "—",
+   "heading": "什么时候可以考深水证？",
+   "heading_kind": "author",
+   "lines": [
+    32,
+    34
+   ],
+   "items": [
+    "pt-9a65c00172"
+   ],
+   "chars": 45
+  },
+  {
+   "no": "—",
+   "heading": "深水证在哪里考？",
+   "heading_kind": "author",
+   "lines": [
+    35,
+    37
+   ],
+   "items": [
+    "pt-1d7bc2ea40",
+    "pt-07fa8478dc"
+   ],
+   "chars": 47
+  },
+  {
+   "no": "—",
+   "heading": "深水证的考核内容",
+   "heading_kind": "author",
+   "lines": [
+    38,
+    44
+   ],
+   "items": [
+    "pt-1f074ef8e2",
+    "pt-635b1d4efa",
+    "pt-4fb60b3ba9",
+    "pt-c70e8040e0",
+    "pt-962d558525"
+   ],
+   "chars": 138
+  },
+  {
+   "no": "—",
+   "heading": "什么条件下需要深水证？",
+   "heading_kind": "author",
+   "lines": [
+    45,
+    47
+   ],
+   "items": [
+    "pt-2c44581719",
+    "pt-4c49c3239b"
+   ],
+   "chars": 46
+  },
+  {
+   "no": "—",
+   "heading": "教工办卡有啥要求？",
+   "heading_kind": "author",
+   "lines": [
+    48,
+    54
+   ],
+   "items": [
+    "pt-c0a953437c",
+    "pt-04631e3a78",
+    "pt-0eedda4824",
+    "pt-e3cfd31b80",
+    "pt-1dce712c7c"
+   ],
+   "chars": 155
+  },
+  {
+   "no": "—",
+   "heading": "游泳馆是否面向社会开放？",
+   "heading_kind": "author",
+   "lines": [
+    55,
+    56
+   ],
+   "items": [
+    "pt-1fa051521f",
+    "pt-0af38a1337"
+   ],
+   "chars": 22
+  }
+ ],
+ "items": [
+  "rule-513edd5d",
+  "pt-130a2326c3",
+  "pt-f72abe1861",
+  "pt-4ec37ab081",
+  "pt-7af14376e7",
+  "pt-d610a02c36",
+  "pt-c494c16e35",
+  "pt-8e152ba402",
+  "pt-2bfcbd9086",
+  "pt-84e2699c9c",
+  "pt-a3e6c7c953",
+  "pt-9a65c00172",
+  "pt-1d7bc2ea40",
+  "pt-07fa8478dc",
+  "pt-1f074ef8e2",
+  "pt-635b1d4efa",
+  "pt-4fb60b3ba9",
+  "pt-c70e8040e0",
+  "pt-2c44581719",
+  "pt-4c49c3239b",
+  "pt-c0a953437c",
+  "pt-04631e3a78",
+  "pt-0eedda4824",
+  "pt-e3cfd31b80",
+  "pt-1fa051521f",
+  "pt-0af38a1337",
+  "pt-876fd974ca",
+  "pt-2ffd6bb2a8",
+  "pt-15dda09ed7",
+  "pt-3384d641f2",
+  "pt-962d558525",
+  "pt-1dce712c7c"
+ ],
+ "notes": [
+  "原文是网页 FAQ 体（问答逐条排列），无章号、无「第X条」，小标题即问题句，12 个小标题全部照抄原文，故 heading_kind 全为 author，no 统一用「—」。",
+  "文档级条目 rule-513edd5d 无引文，为文档级条目（标题≈文档名），已列进「题头与场馆介绍」节并在此说明。",
+  "pt-130a2326c3 的引文把文档标题与「场馆介绍」正文拼在一起（「游泳馆相关事项场馆介绍中国传媒大学游泳馆位于……」），横跨第 1–4 行，故为其建父节「题头与场馆介绍」（第 1–4 行），「场馆介绍」（第 2–4 行）作其子节（真嵌套）。",
+  "pt-2ffd6bb2a8 与 pt-15dda09ed7 的引文是把小标题与正文拼接而成（如「游泳馆相关事项、场馆介绍、安全环境｜安全环境……」），正文里无逐字对应行，只能按内容归入「安全环境」与「场馆开放周期」两节。",
+  "第 56 行之后的空行不属于任何节。"
+ ]
+}

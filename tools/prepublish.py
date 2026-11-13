@@ -1,1 +1,144 @@
-IiIi5Y+R5biD5YmN5L2T5qOAICsg5omT5YyF5riF5Y2V77ya5om+5Ye66aG555uu6YeM55qE5a+G6ZKl44CB57ud5a+56Lev5b6E44CB5Liq5Lq65L+h5oGv77yM5bm257uZ5Ye66K+l5LiK5Lyg5ZOq5Lqb5paH5Lu244CCCgogICAgcHl0aG9uIHRvb2xzL3ByZXB1Ymxpc2gucHkgICAgICAgICAgICAjIOS9k+ajgCArIOaJk+WNsOa4heWNlQogICAgcHl0aG9uIHRvb2xzL3ByZXB1Ymxpc2gucHkgLS1jb3B5IDzmmoLlrZjnm67lvZU+ICAgIyDpobrluKbmiormuIXljZXph4znmoTmlofku7bmi7fliLDkuIDkuKrnm67lvZUKCuWPquivu+W3peeoi+aWh+S7tu+8m+S4jeivuyAuZW52IOeahOWGheWuue+8iOWPquaKpeOAjOaWh+S7tuWtmOWcqOOAje+8ie+8jOS4jeaJk+WNsOS7u+S9leWvhumSpeOAggoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IG9zCmltcG9ydCByZQppbXBvcnQgc2h1dGlsCmltcG9ydCBzeXMKZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCgpST09UID0gUGF0aChfX2ZpbGVfXykucmVzb2x2ZSgpLnBhcmVudHNbMV0KCiMg5LiN5LiK5Lyg77ya5rS+55Sf5pWw5o2u44CB5L6d6LWW44CB5Li05pe25Lqn54mp44CB5a+G6ZKl77yM5Lul5Y+KKirlp5TmiZjmlrnnmoTpqozmlLbohJrmnKzkuI7ku7vliqHkuaYqKgojIO+8iGBfYWNjZXB0YW5jZS9gIOmHjOaYr+eVmeWtmOi0n+S+i++8jGAqX1BST01QVC5tZGAg5piv5Lu75Yqh5Lmm77yM6YO95LiN6K+l6L+b5YWs5byA5LuT5bqT77yJCkVYQ0xVREVfRElSUyA9IHsKICAgICIuZ2l0IiwgIi52ZW52IiwgIi50bXAiLCAiX19weWNhY2hlX18iLCAidG1wYnVpbGQiLAogICAgInJldHJpZXZhbC9hcnRpZmFjdHMiLCAiX2V2YWwvb3V0IiwgInNvdXJjZXMvdmVjdG9yIiwgIl9hY2NlcHRhbmNlIiwKfQpFWENMVURFX0ZJTEVTID0geyIuZW52IiwgIi5lbnYubG9jYWwiLCAia2Iuc3FsaXRlIiwKICAgICAgICAgICAgICAgICAiUFJPTVBUX0ZPUl9BR0VOVC5tZCIsICJST1VORDJfUFJPTVBULm1kIiwKICAgICAgICAgICAgICAgICAjIOi/meS4pOS4quaOoumSiOimgeivu+acrOacuueahOWvhumSpeaWh+S7tu+8jOi3r+W+hOS5n+aYr+acrOacuue7neWvuei3r+W+hO+8jOS4jemaj+S7k+W6k+i1sAogICAgICAgICAgICAgICAgICJwcm9iZV9kYXNoc2NvcGUucHkiLCAicHJvYmVfa2V5X2RpZmYucHkiLAogICAgICAgICAgICAgICAgICMg5a6DIGltcG9ydCBgX2FjY2VwdGFuY2UuY2hlY2tg77yM6ICM6YKj5Liq55uu5b2V5LiN5Y+R5biDCiAgICAgICAgICAgICAgICAgInJ1bl9jaGVja19iYXNlLnB5In0KRVhDTFVERV9TVUZGSVggPSB7Ii5weWMiLCAiLnB5byIsICIubG9nIn0KCiMg5paH5pys57G75Z6L5omN5omr5a+G6ZKlL+i3r+W+hApURVhUX1NVRkZJWCA9IHsiLnB5IiwgIi5qcyIsICIuY3NzIiwgIi5odG1sIiwgIi5tZCIsICIuanNvbiIsICIuanNvbmwiLCAiLnRzdiIsICIudHh0IiwKICAgICAgICAgICAgICAgIi5wczEiLCAiLnNoIiwgIi55bWwiLCAiLnlhbWwiLCAiLnRvbWwiLCAiLmNmZyIsICIuaW5pIiwgIi5leGFtcGxlIn0KClNFQ1JFVF9QQVRURVJOUzogdHVwbGVbdHVwbGVbc3RyLCByZS5QYXR0ZXJuW3N0cl1dLCAuLi5dID0gKAogICAgKCJkYXNoc2NvcGUvZGVlcHNlZWsga2V5IiwgcmUuY29tcGlsZShyIlxic2stW0EtWmEtejAtOV9cLV17MTIsfSIpKSwKICAgICgibW9kZWxzY29wZSB0b2tlbiIsIHJlLmNvbXBpbGUociJcYm1zLVswLTlhLWZdezh9LVswLTlhLWZdezR9LVswLTlhLWZdezR9LVswLTlhLWZdezR9LVswLTlhLWZdezEyfSIpKSwKICAgICgib2F1dGgyIHVybCIsIHJlLmNvbXBpbGUoIm9hdXRoIiArICIyOlteQCIgKyByIlxzXStAIikpLAogICAgKCJiZWFyZXIvYmFzaWMgaGVhZGVyIiwgcmUuY29tcGlsZShyIig/aSlcYihiZWFyZXJ8YmFzaWMpXHMrW0EtWmEtejAtOSsvPV9cLV17MTYsfSIpKSwKICAgICMg5YC85b+F6aG76Lef5Zyo5ZCM5LiA6KGM77yIYFxzKmAg5Lya6Leo6KGM77yM5oqK5LiL5LiA6KGM55qE5Y+Y6YeP5ZCN5b2T5oiQ5YC855qE6K+v5oql6Lip6L+H77yJCiAgICAoImtleSBhc3NpZ25tZW50IiwgcmUuY29tcGlsZShyIig/aSlcYihEQVNIU0NPUEVfQVBJX0tFWXxERUVQU0VFS19BUElfS0VZfE9QRU5BSV9BUElfS0VZfCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHIiQU1BUF9LRVl8U0VDUkVUX0tFWSlbIFx0XSpbOj1dWyBcdF0qW1wiJ10/IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgciIoPyFbQS1aMC05X117OCx9XGIpW0EtWmEtejAtOV9cLV17MTIsfSIpKSwKKQpQQVRIX1BBVFRFUk5TOiB0dXBsZVt0dXBsZVtzdHIsIHJlLlBhdHRlcm5bc3RyXV0sIC4uLl0gPSAoCiAgICAjIOebmOespuWQjumdouW/hemhu+e0p+i3nyDlj43mlpzmnaAg5oiWIOOAjC/nm67lvZUv44CN77yM6YG/5YWN5oqKIGBFbnY6XFZBUmDjgIFg77yIRzovUDrvvIlgIOi/meexu+ivr+WIpAogICAgKCJ3aW5kb3dzIGFicyIsIHJlLmNvbXBpbGUociIoPzwhW1x3XSlbQS1aYS16XTpcXFtBLVphLXowLTlfLlwtXSsiKSksCiAgICAoIndpbmRvd3MgYWJzIGZ3ZCIsIHJlLmNvbXBpbGUociIoPzwhW1x3XSlbQS1aYS16XTovW0EtWmEtejAtOV8uXC1dKy8iKSksCiAgICAoInVuaXggaG9tZSIsIHJlLmNvbXBpbGUociIvVXNlcnMvW0EtWmEtejAtOV8uXC1dK3wvaG9tZS9bQS1aYS16MC05Xy5cLV0rIikpLAopCgoKZGVmIGlzX2V4Y2x1ZGVkKHJlbDogc3RyKSAtPiBib29sOgogICAgZm9yIGQgaW4gRVhDTFVERV9ESVJTOgogICAgICAgIGlmIHJlbCA9PSBkIG9yIHJlbC5zdGFydHN3aXRoKGQgKyAiLyIpOgogICAgICAgICAgICByZXR1cm4gVHJ1ZQogICAgbmFtZSA9IHJlbC5yc3BsaXQoIi8iLCAxKVstMV0KICAgIGlmIG5hbWUgaW4gRVhDTFVERV9GSUxFUzoKICAgICAgICByZXR1cm4gVHJ1ZQogICAgcmV0dXJuIGFueShuYW1lLmVuZHN3aXRoKHMpIGZvciBzIGluIEVYQ0xVREVfU1VGRklYKQoKCmRlZiB3YWxrKCkgLT4gbGlzdFtQYXRoXToKICAgIG91dDogbGlzdFtQYXRoXSA9IFtdCiAgICBmb3IgZGlycGF0aCwgZGlybmFtZXMsIGZpbGVuYW1lcyBpbiBvcy53YWxrKFJPT1QpOgogICAgICAgIHJlbF9kaXIgPSBQYXRoKGRpcnBhdGgpLnJlbGF0aXZlX3RvKFJPT1QpLmFzX3Bvc2l4KCkKICAgICAgICByZWxfZGlyID0gIiIgaWYgcmVsX2RpciA9PSAiLiIgZWxzZSByZWxfZGlyCiAgICAgICAgZGlybmFtZXNbOl0gPSBbZCBmb3IgZCBpbiBkaXJuYW1lcyBpZiBub3QgaXNfZXhjbHVkZWQoZiJ7cmVsX2Rpcn0ve2R9Ii5sc3RyaXAoIi8iKSldCiAgICAgICAgZm9yIGZuIGluIGZpbGVuYW1lczoKICAgICAgICAgICAgcmVsID0gZiJ7cmVsX2Rpcn0ve2ZufSIubHN0cmlwKCIvIikKICAgICAgICAgICAgaWYgbm90IGlzX2V4Y2x1ZGVkKHJlbCk6CiAgICAgICAgICAgICAgICBvdXQuYXBwZW5kKFJPT1QgLyByZWwpCiAgICByZXR1cm4gc29ydGVkKG91dCkKCgpkZWYgbWFpbigpIC0+IGludDoKICAgIGNvcHlfdG8gPSBOb25lCiAgICBpZiAiLS1jb3B5IiBpbiBzeXMuYXJndjoKICAgICAgICBjb3B5X3RvID0gUGF0aChzeXMuYXJndltzeXMuYXJndi5pbmRleCgiLS1jb3B5IikgKyAxXSkKCiAgICBmaWxlcyA9IHdhbGsoKQogICAgdG90YWwgPSBzdW0ocC5zdGF0KCkuc3Rfc2l6ZSBmb3IgcCBpbiBmaWxlcykKICAgIHByaW50KGYi5b6F5Y+R5biD5paH5Lu2IHtsZW4oZmlsZXMpfSDkuKrvvIzlhbEge3RvdGFsLzEwMjQvMTAyNDouMWZ9IE1CXG4iKQoKICAgIHByb2JsZW1zID0gMAogICAgcHJpbnQoIj09IOWvhumSpeaJq+aPjyIpCiAgICBzZWNyZXRfaGl0cyA9IDAKICAgIGZvciBwIGluIGZpbGVzOgogICAgICAgIGlmIHAuc3VmZml4Lmxvd2VyKCkgbm90IGluIFRFWFRfU1VGRklYOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIHRyeToKICAgICAgICAgICAgdHh0ID0gcC5yZWFkX3RleHQoZW5jb2Rpbmc9InV0Zi04IiwgZXJyb3JzPSJpZ25vcmUiKQogICAgICAgIGV4Y2VwdCBPU0Vycm9yOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGZvciBsYWJlbCwgcGF0IGluIFNFQ1JFVF9QQVRURVJOUzoKICAgICAgICAgICAgZm9yIG0gaW4gcGF0LmZpbmRpdGVyKHR4dCk6CiAgICAgICAgICAgICAgICBzZWNyZXRfaGl0cyArPSAxCiAgICAgICAgICAgICAgICBsaW5lID0gdHh0LmNvdW50KCJcbiIsIDAsIG0uc3RhcnQoKSkgKyAxCiAgICAgICAgICAgICAgICBzaG93biA9IG0uZ3JvdXAoMClbOjZdICsgIuKApiIgKyBtLmdyb3VwKDApWy00Ol0KICAgICAgICAgICAgICAgIHByaW50KGYiICDinJcge2xhYmVsfToge3AucmVsYXRpdmVfdG8oUk9PVCl9OntsaW5lfSAge3Nob3dufSIpCiAgICBpZiBub3Qgc2VjcmV0X2hpdHM6CiAgICAgICAgcHJpbnQoIiAg4pyTIOayoeWPkeeOsOWvhumSpSIpCiAgICBwcm9ibGVtcyArPSBzZWNyZXRfaGl0cwoKICAgIHByaW50KCJcbj09IOe7neWvuei3r+W+hOaJq+aPjyIpCiAgICBwYXRoX2hpdHMgPSAwCiAgICBmb3IgcCBpbiBmaWxlczoKICAgICAgICBpZiBwLnN1ZmZpeC5sb3dlcigpIG5vdCBpbiBURVhUX1NVRkZJWDoKICAgICAgICAgICAgY29udGludWUKICAgICAgICB0cnk6CiAgICAgICAgICAgIHR4dCA9IHAucmVhZF90ZXh0KGVuY29kaW5nPSJ1dGYtOCIsIGVycm9ycz0iaWdub3JlIikKICAgICAgICBleGNlcHQgT1NFcnJvcjoKICAgICAgICAgICAgY29udGludWUKICAgICAgICBmb3IgbGFiZWwsIHBhdCBpbiBQQVRIX1BBVFRFUk5TOgogICAgICAgICAgICBmb3IgbSBpbiBwYXQuZmluZGl0ZXIodHh0KToKICAgICAgICAgICAgICAgIHBhdGhfaGl0cyArPSAxCiAgICAgICAgICAgICAgICBsaW5lID0gdHh0LmNvdW50KCJcbiIsIDAsIG0uc3RhcnQoKSkgKyAxCiAgICAgICAgICAgICAgICBzZWcgPSB0eHRbbWF4KDAsIG0uc3RhcnQoKSAtIDIwKTptLnN0YXJ0KCkgKyA2MF0ucmVwbGFjZSgiXG4iLCAiICIpCiAgICAgICAgICAgICAgICBwcmludChmIiAg4pyXIHtsYWJlbH06IHtwLnJlbGF0aXZlX3RvKFJPT1QpfTp7bGluZX0gIOKApntzZWd94oCmIikKICAgIGlmIG5vdCBwYXRoX2hpdHM6CiAgICAgICAgcHJpbnQoIiAg4pyTIOayoeaciee7neWvuei3r+W+hCIpCiAgICBwcm9ibGVtcyArPSBwYXRoX2hpdHMKCiAgICBwcmludCgiXG49PSDkuI3or6XkuIrkvKDkvYbku43lnKjmoJHph4znmoTmlofku7YiKQogICAgZm9yIG5hbWUgaW4gKCIuZW52IiwgImtiLnNxbGl0ZSIpOgogICAgICAgIHAgPSBST09UIC8gbmFtZQogICAgICAgIGlmIHAuZXhpc3RzKCk6CiAgICAgICAgICAgIHByaW50KGYiICDCtyB7bmFtZX0g5a2Y5Zyo77yIe3Auc3RhdCgpLnN0X3NpemUvMTAyNDouMGZ9IEtC77yJ4oCU4oCUIOS4jeS4iuS8oO+8jOS7heaPkOekuiIpCgogICAgaWYgY29weV90bzoKICAgICAgICBjb3B5X3RvLm1rZGlyKHBhcmVudHM9VHJ1ZSwgZXhpc3Rfb2s9VHJ1ZSkKICAgICAgICBmb3IgcCBpbiBmaWxlczoKICAgICAgICAgICAgZHN0ID0gY29weV90byAvIHAucmVsYXRpdmVfdG8oUk9PVCkKICAgICAgICAgICAgZHN0LnBhcmVudC5ta2RpcihwYXJlbnRzPVRydWUsIGV4aXN0X29rPVRydWUpCiAgICAgICAgICAgIHNodXRpbC5jb3B5MihwLCBkc3QpCiAgICAgICAgcHJpbnQoZiJcbuW3suaLt+i0neWIsCB7Y29weV90b30iKQoKICAgIHByaW50KGYiXG7nu5PorrrvvJp7J+aciSAnICsgc3RyKHByb2JsZW1zKSArICcg5aSE6ZyA6KaB5aSE55CGJyBpZiBwcm9ibGVtcyBlbHNlICflubLlh4DvvIzlj6/ku6Xlj5HluIMnfSIpCiAgICByZXR1cm4gMSBpZiBwcm9ibGVtcyBlbHNlIDAKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgc3lzLmV4aXQobWFpbigpKQo=
+"""发布前体检 + 打包清单：找出项目里的密钥、绝对路径、个人信息，并给出该上传哪些文件。
+
+    python tools/prepublish.py            # 体检 + 打印清单
+    python tools/prepublish.py --copy <暂存目录>   # 顺带把清单里的文件拷到一个目录
+
+只读工程文件；不读 .env 的内容（只报「文件存在」），不打印任何密钥。
+"""
+from __future__ import annotations
+
+import os
+import re
+import shutil
+import sys
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+
+# 不上传：派生数据、依赖、临时产物、密钥，以及**委托方的验收脚本与任务书**
+# （`_acceptance/` 里是留存负例，`*_PROMPT.md` 是任务书，都不该进公开仓库）
+EXCLUDE_DIRS = {
+    ".git", ".venv", ".tmp", "__pycache__", "tmpbuild",
+    "retrieval/artifacts", "_eval/out", "sources/vector", "_acceptance",
+}
+EXCLUDE_FILES = {".env", ".env.local", "kb.sqlite",
+                 "PROMPT_FOR_AGENT.md", "ROUND2_PROMPT.md",
+                 # 这两个探针要读本机的密钥文件，路径也是本机绝对路径，不随仓库走
+                 "probe_dashscope.py", "probe_key_diff.py",
+                 # 它 import `_acceptance.check`，而那个目录不发布
+                 "run_check_base.py"}
+EXCLUDE_SUFFIX = {".pyc", ".pyo", ".log"}
+
+# 文本类型才扫密钥/路径
+TEXT_SUFFIX = {".py", ".js", ".css", ".html", ".md", ".json", ".jsonl", ".tsv", ".txt",
+               ".ps1", ".sh", ".yml", ".yaml", ".toml", ".cfg", ".ini", ".example"}
+
+SECRET_PATTERNS: tuple[tuple[str, re.Pattern[str]], ...] = (
+    ("dashscope/deepseek key", re.compile(r"\bsk-[A-Za-z0-9_\-]{12,}")),
+    ("modelscope token", re.compile(r"\bms-[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}")),
+    ("oauth2 url", re.compile("oauth" + "2:[^@" + r"\s]+@")),
+    ("bearer/basic header", re.compile(r"(?i)\b(bearer|basic)\s+[A-Za-z0-9+/=_\-]{16,}")),
+    # 值必须跟在同一行（`\s*` 会跨行，把下一行的变量名当成值的误报踩过）
+    ("key assignment", re.compile(r"(?i)\b(DASHSCOPE_API_KEY|DEEPSEEK_API_KEY|OPENAI_API_KEY|"
+                                  r"AMAP_KEY|SECRET_KEY)[ \t]*[:=][ \t]*[\"']?"
+                                  r"(?![A-Z0-9_]{8,}\b)[A-Za-z0-9_\-]{12,}")),
+)
+PATH_PATTERNS: tuple[tuple[str, re.Pattern[str]], ...] = (
+    # 盘符后面必须紧跟 反斜杠 或 「/目录/」，避免把 `Env:\VAR`、`（G:/P:）` 这类误判
+    ("windows abs", re.compile(r"(?<![\w])[A-Za-z]:\\[A-Za-z0-9_.\-]+")),
+    ("windows abs fwd", re.compile(r"(?<![\w])[A-Za-z]:/[A-Za-z0-9_.\-]+/")),
+    ("unix home", re.compile(r"/Users/[A-Za-z0-9_.\-]+|/home/[A-Za-z0-9_.\-]+")),
+)
+
+
+def is_excluded(rel: str) -> bool:
+    for d in EXCLUDE_DIRS:
+        if rel == d or rel.startswith(d + "/"):
+            return True
+    name = rel.rsplit("/", 1)[-1]
+    if name in EXCLUDE_FILES:
+        return True
+    return any(name.endswith(s) for s in EXCLUDE_SUFFIX)
+
+
+def walk() -> list[Path]:
+    out: list[Path] = []
+    for dirpath, dirnames, filenames in os.walk(ROOT):
+        rel_dir = Path(dirpath).relative_to(ROOT).as_posix()
+        rel_dir = "" if rel_dir == "." else rel_dir
+        dirnames[:] = [d for d in dirnames if not is_excluded(f"{rel_dir}/{d}".lstrip("/"))]
+        for fn in filenames:
+            rel = f"{rel_dir}/{fn}".lstrip("/")
+            if not is_excluded(rel):
+                out.append(ROOT / rel)
+    return sorted(out)
+
+
+def main() -> int:
+    copy_to = None
+    if "--copy" in sys.argv:
+        copy_to = Path(sys.argv[sys.argv.index("--copy") + 1])
+
+    files = walk()
+    total = sum(p.stat().st_size for p in files)
+    print(f"待发布文件 {len(files)} 个，共 {total/1024/1024:.1f} MB\n")
+
+    problems = 0
+    print("== 密钥扫描")
+    secret_hits = 0
+    for p in files:
+        if p.suffix.lower() not in TEXT_SUFFIX:
+            continue
+        try:
+            txt = p.read_text(encoding="utf-8", errors="ignore")
+        except OSError:
+            continue
+        for label, pat in SECRET_PATTERNS:
+            for m in pat.finditer(txt):
+                secret_hits += 1
+                line = txt.count("\n", 0, m.start()) + 1
+                shown = m.group(0)[:6] + "…" + m.group(0)[-4:]
+                print(f"  ✗ {label}: {p.relative_to(ROOT)}:{line}  {shown}")
+    if not secret_hits:
+        print("  ✓ 没发现密钥")
+    problems += secret_hits
+
+    print("\n== 绝对路径扫描")
+    path_hits = 0
+    for p in files:
+        if p.suffix.lower() not in TEXT_SUFFIX:
+            continue
+        try:
+            txt = p.read_text(encoding="utf-8", errors="ignore")
+        except OSError:
+            continue
+        for label, pat in PATH_PATTERNS:
+            for m in pat.finditer(txt):
+                path_hits += 1
+                line = txt.count("\n", 0, m.start()) + 1
+                seg = txt[max(0, m.start() - 20):m.start() + 60].replace("\n", " ")
+                print(f"  ✗ {label}: {p.relative_to(ROOT)}:{line}  …{seg}…")
+    if not path_hits:
+        print("  ✓ 没有绝对路径")
+    problems += path_hits
+
+    print("\n== 不该上传但仍在树里的文件")
+    for name in (".env", "kb.sqlite"):
+        p = ROOT / name
+        if p.exists():
+            print(f"  · {name} 存在（{p.stat().st_size/1024:.0f} KB）—— 不上传，仅提示")
+
+    if copy_to:
+        copy_to.mkdir(parents=True, exist_ok=True)
+        for p in files:
+            dst = copy_to / p.relative_to(ROOT)
+            dst.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copy2(p, dst)
+        print(f"\n已拷贝到 {copy_to}")
+
+    print(f"\n结论：{'有 ' + str(problems) + ' 处需要处理' if problems else '干净，可以发布'}")
+    return 1 if problems else 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

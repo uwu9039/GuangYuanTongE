@@ -1,1 +1,34 @@
-IiIi55yL6aKY5bqT6K+E5rWL6YeM5rKh5ZG95Lit55qE6aKY77ya5pyf5pyb5LuA5LmI44CB5a6e6ZmF6L+U5Zue5LuA5LmI44CCIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBqc29uCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAoKZnJvbSByZXRyaWV2YWwgaW1wb3J0IEVuZ2luZQoKUk9PVCA9IFBhdGgoX19maWxlX18pLnJlc29sdmUoKS5wYXJlbnRzWzFdCk9VVCA9IFJPT1QgLyAiX2V2YWwiIC8gIm91dCIgLyAiYmFua19zcGFyc2UuanNvbiIKCgpkZWYgbWFpbigpIC0+IE5vbmU6CiAgICBkYXRhID0ganNvbi5sb2FkcyhPVVQucmVhZF90ZXh0KGVuY29kaW5nPSJ1dGYtOCIpKQogICAgZW5nID0gRW5naW5lLmxvYWQoKQogICAgdGl0bGUgPSBsYW1iZGEgaTogKGVuZy5pdGVtcy5nZXQoaSwge30pLmdldCgidGl0bGUiKSBvciAiPyIpWzoyNl0KICAgIG1pc3NlcyA9IFtyIGZvciByIGluIGRhdGFbInJvd3MiXSBpZiByWyJraW5kIl0gPT0gIml0ZW0iIGFuZCBub3Qgci5nZXQoImhpdEBrIildCiAgICBwcmludChmIml0ZW0g57G75pyq5ZG95LitIHtsZW4obWlzc2VzKX0g5p2hXG4iKQogICAgZm9yIHIgaW4gbWlzc2VzWzo0NV06CiAgICAgICAgcHJpbnQoZiJRIHtyWydxJ11bOjQ2XX0iKQogICAgICAgIHByaW50KGYiICAg5pyf5pybIHtyWydleHBlY3QnXX0gLT4geyc7ICcuam9pbih0aXRsZShpKSBmb3IgaSBpbiByWydleHBlY3QnXVs6Ml0pfSIpCiAgICAgICAgcHJpbnQoZiIgICDlrp7pmYUge1soeCwgdGl0bGUoeCkpIGZvciB4IGluIHJbJ3RvcCddWzozXV19IikKICAgIHByaW50KCJcbuaLkuetlOmimO+8miIpCiAgICBmb3IgciBpbiBkYXRhWyJyb3dzIl06CiAgICAgICAgaWYgclsia2luZCJdID09ICJyZWZ1c2UiOgogICAgICAgICAgICBwcmludChmIiAgIHJlZnVzZWQ9e3JbJ3JlZnVzZWQnXX0ge3JbJ3EnXVs6NDBdfSB8IHRvcD17W3RpdGxlKHgpIGZvciB4IGluIHJbJ3RvcCddWzoyXV19IikKICAgIHByaW50KCJcbnNvZnQg6YeM6KKr5ouS55qE77yaIikKICAgIGZvciByIGluIGRhdGFbInJvd3MiXToKICAgICAgICBpZiByWyJraW5kIl0gPT0gInNvZnQiIGFuZCByWyJyZWZ1c2VkIl06CiAgICAgICAgICAgIHByaW50KGYiICAge3JbJ3EnXVs6NTBdfSB8IHJlYXNvbj17ci5nZXQoJ3JlYXNvbicsJycpWzo0MF19IikKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==
+"""看题库评测里没命中的题：期望什么、实际返回什么。"""
+from __future__ import annotations
+
+import json
+from pathlib import Path
+
+from retrieval import Engine
+
+ROOT = Path(__file__).resolve().parents[1]
+OUT = ROOT / "_eval" / "out" / "bank_sparse.json"
+
+
+def main() -> None:
+    data = json.loads(OUT.read_text(encoding="utf-8"))
+    eng = Engine.load()
+    title = lambda i: (eng.items.get(i, {}).get("title") or "?")[:26]
+    misses = [r for r in data["rows"] if r["kind"] == "item" and not r.get("hit@k")]
+    print(f"item 类未命中 {len(misses)} 条\n")
+    for r in misses[:45]:
+        print(f"Q {r['q'][:46]}")
+        print(f"   期望 {r['expect']} -> {'; '.join(title(i) for i in r['expect'][:2])}")
+        print(f"   实际 {[(x, title(x)) for x in r['top'][:3]]}")
+    print("\n拒答题：")
+    for r in data["rows"]:
+        if r["kind"] == "refuse":
+            print(f"   refused={r['refused']} {r['q'][:40]} | top={[title(x) for x in r['top'][:2]]}")
+    print("\nsoft 里被拒的：")
+    for r in data["rows"]:
+        if r["kind"] == "soft" and r["refused"]:
+            print(f"   {r['q'][:50]} | reason={r.get('reason','')[:40]}")
+
+
+if __name__ == "__main__":
+    main()

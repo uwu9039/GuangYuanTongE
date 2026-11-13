@@ -1,1 +1,2 @@
-c291cmNlcy92ZWN0b3IvdmVjdG9ycy5ucHkg5bey5oyJ5a2X6IqC5YiG54mH77yI5q+P54mHIDwxMDBNQu+8ie+8jERvY2tlcmZpbGUg5p6E5bu65pe255SoIGNhdCDmi7zlm57ljp/mlofku7bjgIINCuaJi+W3pei/mOWOn++8mmNhdCBzb3VyY2VzL3ZlY3Rvci92ZWN0b3JzLm5weS5wYXJ0MSBzb3VyY2VzL3ZlY3Rvci92ZWN0b3JzLm5weS5wYXJ0MiBzb3VyY2VzL3ZlY3Rvci92ZWN0b3JzLm5weS5wYXJ0MyA+IHNvdXJjZXMvdmVjdG9yL3ZlY3RvcnMubnB5DQo=
+sources/vector/vectors.npy 已按字节分片（每片 <100MB），Dockerfile 构建时用 cat 拼回原文件。
+手工还原：cat sources/vector/vectors.npy.part1 sources/vector/vectors.npy.part2 sources/vector/vectors.npy.part3 > sources/vector/vectors.npy

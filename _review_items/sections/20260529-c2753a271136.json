@@ -1,1 +1,280 @@
-ew0KICJrZXkiOiAiMjAyNjA1MjktYzI3NTNhMjcxMTM2IiwNCiAidGl0bGUiOiAi5Lit5Zu95Lyg5aqS5aSn5a2m56GV5aOr56CU56m255Sf5a2m5L2N6K665paH5Y+KIOavleS4muS9nOWTgeWMv+WQjeivhOmYheWKnuazlSIsDQogInRydW5jYXRlZCI6IGZhbHNlLA0KICJzZWN0aW9ucyI6IFsNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLpobXpnaLmoIfpopjkuI7miYDlsZ7pg6jpl6giLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxLA0KICAgIDINCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDQwDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi6aG16Z2i5qGG5p6277ya56uZ54K55a+86IiqIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMywNCiAgICA0MQ0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTYxDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5q2j5paH5qCH6aKY44CB5Y+R5biD5L+h5oGv5LiO5paH5Y+3IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNDIsDQogICAgNDQNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTUwOWU5Y2QxZjMiDQogICBdLA0KICAgImNoYXJzIjogNjUNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS4gOadoSIsDQogICAiaGVhZGluZyI6ICLliLblrprkvp3mja7kuI7ljL/lkI3or4TpmIXlnKjlrabkvY3mjojkuojkuK3nmoTlnLDkvY0iLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA0NSwNCiAgICA0NQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZjcxY2Q2YzVmNSINCiAgIF0sDQogICAiY2hhcnMiOiAxMjENCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS6jOadoSIsDQogICAiaGVhZGluZyI6ICLjgIzlj4zlkJHljL/lkI3jgI3mlrnlvI/or4TpmIXkuI7ouqvku73kv6Hmga/pmpDljrsiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA0NiwNCiAgICA0Ng0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogNTUNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS4ieadoSIsDQogICAiaGVhZGluZyI6ICLlrabmoKHkuI7ln7nlhbvljZXkvY3kuKTnuqfnrqHnkIblj4rlkIToh6rogYzotKMiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA0NywNCiAgICA0Nw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZjc4MDg5ZjY2NCINCiAgIF0sDQogICAiY2hhcnMiOiAxMDENCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWbm+adoSIsDQogICAiaGVhZGluZyI6ICLor4TpmIXml7bpl7TvvJrmnIDml6nlnKjln7rmnKzlrabliLbop4TlrprlubTpmZDnmoTmnIDlkI7kuIDkuKrlrabmnJ8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA0OCwNCiAgICA0OA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtYzkyMWE1ZDA1ZSINCiAgIF0sDQogICAiY2hhcnMiOiA1OA0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LqU5p2hIiwNCiAgICJoZWFkaW5nIjogIuW5s+WPsOaPkOS6pOOAgeWtpuS9jeiuuuaWh+mHjeWkjeeOh+ajgOa1i+S4jui/m+WFpeivhOmYheeOr+iKgiIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDQ5LA0KICAgIDQ5DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiA5MA0KICB9LA0KICB7DQogICAibm8iOiAi56ys5YWt5p2hIiwNCiAgICJoZWFkaW5nIjogIuWfueWFu+WNleS9jeeahOajgOafpeaxh+aAu+OAgeivhOmYheaEj+ingee7n+iuoeS4jue7k+aenOS4iuS8oCIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDUwLA0KICAgIDUwDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC01MWY1NDRhYTczIg0KICAgXSwNCiAgICJjaGFycyI6IDEwMA0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LiD5p2hIiwNCiAgICJoZWFkaW5nIjogIumAgeWuoeW5s+WPsO+8muWtpuacr+WtpuS9jemAgeaVmeiCsumDqOW5s+WPsO+8jOS4k+S4muWtpuS9jemAgeS4k+S4muWtpuS9jeW5s+WPsCIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDUxLA0KICAgIDUxDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1mMWQyNmJmNzFlIg0KICAgXSwNCiAgICJjaGFycyI6IDk0DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzlhavmnaEiLA0KICAgImhlYWRpbmciOiAi6YCB5a6h5LiT5a625Lq65pWw44CB6IGM56ew5LiO5qCh5aSW5LiT5a626KaB5rGCIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNTIsDQogICAgNTINCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWViMzlmMjFhMzUiDQogICBdLA0KICAgImNoYXJzIjogMTYzDQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuZ3mnaEiLA0KICAgImhlYWRpbmciOiAi6K+E6ZiF57uT5p6c55qE6YCa6L+H5qCH5YeG5LiO5pyq6YCa6L+H55qE5Lik57G75aSE55CGIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNTMsDQogICAgNTMNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWNiM2U0MzkwMTEiDQogICBdLA0KICAgImNoYXJzIjogMjA2DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzljYHmnaEiLA0KICAgImhlYWRpbmciOiAi6K+E6ZiF5LiT5a625Zue6YG/55Sz6K+3IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNTQsDQogICAgNTQNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTY4YWZmMTEzMjgiDQogICBdLA0KICAgImNoYXJzIjogMTE5DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzljYHkuIDmnaEiLA0KICAgImhlYWRpbmciOiAi5a2m5pyv5aSN5qC444CB5aKe6IGY5Lik5ZCN5LiT5a625aSN6K+E5LiO5pyA57uI57uT5p6cIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNTUsDQogICAgNTUNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWE5MDBhNDAwNzAiDQogICBdLA0KICAgImNoYXJzIjogMTE3DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzljYHkuozmnaEiLA0KICAgImhlYWRpbmciOiAi5peg5rOV5oyJ5pyf5Y+W5b6X57uT5p6c5pe255Sz6K+35YW25LuW5bmz5Y+w6YCB5a6hIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNTYsDQogICAgNTYNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTY3OWMzNzQ5ZTAiDQogICBdLA0KICAgImNoYXJzIjogNzUNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWNgeS4ieadoSIsDQogICAiaGVhZGluZyI6ICLnrZTovqnmnKrojrflrabkvY3lkI7ph43mlrDnlLPor7flrabkvY3nu7TmjIHljp/or4TpmIXnu5PmnpwiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1NywNCiAgICA1Nw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZTgzMDkwOThlNiINCiAgIF0sDQogICAiY2hhcnMiOiA4OQ0KICB9LA0KICB7DQogICAibm8iOiAi56ys5Y2B5Zub5p2hIiwNCiAgICJoZWFkaW5nIjogIuivhOmYheaEj+ingeS5puS4jueUs+ivieadkOaWmeW9kuWFpeWtpuWOhuWtpuS9jeaho+ahiCIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDU4LA0KICAgIDU4DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC00ZGQ2MjkxNzAxIg0KICAgXSwNCiAgICJjaGFycyI6IDM5DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzljYHkupTmnaEiLA0KICAgImhlYWRpbmciOiAi5q+V5Lia562U6L6p55u45YWz5p2h5qy+5LiN6YCC55So5LqO5ZCM562J5a2m5Yqb55Sz56GV5Lq65ZGYIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNTksDQogICAgNTkNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTZlYTExZjUxNWEiDQogICBdLA0KICAgImNoYXJzIjogMzENCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWNgeWFreadoSIsDQogICAiaGVhZGluZyI6ICLmlr3ooYzml6XmnJ/jgIHop6Pph4rpg6jpl6jkuI7ljp/lip7ms5Xlup/mraIiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA2MCwNCiAgICA2MA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZjJjYWVlNjVlOSINCiAgIF0sDQogICAiY2hhcnMiOiA3NQ0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIumhteiEmu+8muWkh+ahiOWPt+OAgeWcsOWdgOS4juiuv+mXrue7n+iuoSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDYxLA0KICAgIDYzDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAxMTINCiAgfQ0KIF0sDQogIml0ZW1zIjogWw0KICAicHQtZTgzMDkwOThlNiIsDQogICJwdC01MDllOWNkMWYzIiwNCiAgInB0LWY3MWNkNmM1ZjUiLA0KICAicHQtZjc4MDg5ZjY2NCIsDQogICJwdC1jOTIxYTVkMDVlIiwNCiAgInB0LTUxZjU0NGFhNzMiLA0KICAicHQtZjFkMjZiZjcxZSIsDQogICJwdC1lYjM5ZjIxYTM1IiwNCiAgInB0LWNiM2U0MzkwMTEiLA0KICAicHQtNjhhZmYxMTMyOCIsDQogICJwdC1hOTAwYTQwMDcwIiwNCiAgInB0LTY3OWMzNzQ5ZTAiLA0KICAicHQtNGRkNjI5MTcwMSIsDQogICJwdC02ZWExMWY1MTVhIiwNCiAgInB0LWYyY2FlZTY1ZTkiDQogXSwNCiAibm90ZXMiOiBbDQogICLnvZHpobXmipPlj5bnqL/vvJrnrKwgMy00MSDooYzkuLrnq5nngrnlr7zoiKroj5zljZXvvIjpppbpobUv6YOo6Zeo566A5LuLL+KApi/luLjnlKjkuIvovb3vvInvvIzmlbTkvZPlubbkuLrjgIzpobXpnaLmoYbmnrbjgI3kuIDoioLvvJvnrKwgNDIg6KGM5Li66aG15YaF6YeN5aSN55qE5q2j5paH5qCH6aKY77yM56ysIDQzIOihjOS4uuWPkeW4g+iAheOAgeWPkeW4g+aXtumXtOOAgea1j+iniOasoeaVsOOAgiIsDQogICLnrKwgNjEtNjMg6KGM5Li66aG16ISa77yI5aSH5qGI5Y+344CB5Zyw5Z2A44CB6K6/6Zeu57uf6K6h77yJ77yM5Y2V5YiX5LiA6IqC44CCIiwNCiAgIuato+aWh+WNgeWFreadoeWcqOaKk+WPlueov+S4reWQhOWNoOS4gOihjO+8jOagh+mimOWdh+S4uuamguaLrO+8iGRlcml2ZWTvvInvvIzljp/mloflj6rmnInmnaHlj7fjgIHml6DlsI/moIfpopjjgIIiLA0KICAi56ys5LqM5p2h44CB56ys5LqU5p2h5peg5a+55bqUIHB0IOadoeebruiQveeCueOAgiINCiBdDQp9DQo=
+{
+ "key": "20260529-c2753a271136",
+ "title": "中国传媒大学硕士研究生学位论文及 毕业作品匿名评阅办法",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "页面标题与所属部门",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    2
+   ],
+   "items": [],
+   "chars": 40
+  },
+  {
+   "no": "—",
+   "heading": "页面框架：站点导航",
+   "heading_kind": "derived",
+   "lines": [
+    3,
+    41
+   ],
+   "items": [],
+   "chars": 161
+  },
+  {
+   "no": "—",
+   "heading": "正文标题、发布信息与文号",
+   "heading_kind": "derived",
+   "lines": [
+    42,
+    44
+   ],
+   "items": [
+    "pt-509e9cd1f3"
+   ],
+   "chars": 65
+  },
+  {
+   "no": "第一条",
+   "heading": "制定依据与匿名评阅在学位授予中的地位",
+   "heading_kind": "derived",
+   "lines": [
+    45,
+    45
+   ],
+   "items": [
+    "pt-f71cd6c5f5"
+   ],
+   "chars": 121
+  },
+  {
+   "no": "第二条",
+   "heading": "「双向匿名」方式评阅与身份信息隐去",
+   "heading_kind": "derived",
+   "lines": [
+    46,
+    46
+   ],
+   "items": [],
+   "chars": 55
+  },
+  {
+   "no": "第三条",
+   "heading": "学校与培养单位两级管理及各自职责",
+   "heading_kind": "derived",
+   "lines": [
+    47,
+    47
+   ],
+   "items": [
+    "pt-f78089f664"
+   ],
+   "chars": 101
+  },
+  {
+   "no": "第四条",
+   "heading": "评阅时间：最早在基本学制规定年限的最后一个学期",
+   "heading_kind": "derived",
+   "lines": [
+    48,
+    48
+   ],
+   "items": [
+    "pt-c921a5d05e"
+   ],
+   "chars": 58
+  },
+  {
+   "no": "第五条",
+   "heading": "平台提交、学位论文重复率检测与进入评阅环节",
+   "heading_kind": "derived",
+   "lines": [
+    49,
+    49
+   ],
+   "items": [],
+   "chars": 90
+  },
+  {
+   "no": "第六条",
+   "heading": "培养单位的检查汇总、评阅意见统计与结果上传",
+   "heading_kind": "derived",
+   "lines": [
+    50,
+    50
+   ],
+   "items": [
+    "pt-51f544aa73"
+   ],
+   "chars": 100
+  },
+  {
+   "no": "第七条",
+   "heading": "送审平台：学术学位送教育部平台，专业学位送专业学位平台",
+   "heading_kind": "derived",
+   "lines": [
+    51,
+    51
+   ],
+   "items": [
+    "pt-f1d26bf71e"
+   ],
+   "chars": 94
+  },
+  {
+   "no": "第八条",
+   "heading": "送审专家人数、职称与校外专家要求",
+   "heading_kind": "derived",
+   "lines": [
+    52,
+    52
+   ],
+   "items": [
+    "pt-eb39f21a35"
+   ],
+   "chars": 163
+  },
+  {
+   "no": "第九条",
+   "heading": "评阅结果的通过标准与未通过的两类处理",
+   "heading_kind": "derived",
+   "lines": [
+    53,
+    53
+   ],
+   "items": [
+    "pt-cb3e439011"
+   ],
+   "chars": 206
+  },
+  {
+   "no": "第十条",
+   "heading": "评阅专家回避申请",
+   "heading_kind": "derived",
+   "lines": [
+    54,
+    54
+   ],
+   "items": [
+    "pt-68aff11328"
+   ],
+   "chars": 119
+  },
+  {
+   "no": "第十一条",
+   "heading": "学术复核、增聘两名专家复评与最终结果",
+   "heading_kind": "derived",
+   "lines": [
+    55,
+    55
+   ],
+   "items": [
+    "pt-a900a40070"
+   ],
+   "chars": 117
+  },
+  {
+   "no": "第十二条",
+   "heading": "无法按期取得结果时申请其他平台送审",
+   "heading_kind": "derived",
+   "lines": [
+    56,
+    56
+   ],
+   "items": [
+    "pt-679c3749e0"
+   ],
+   "chars": 75
+  },
+  {
+   "no": "第十三条",
+   "heading": "答辩未获学位后重新申请学位维持原评阅结果",
+   "heading_kind": "derived",
+   "lines": [
+    57,
+    57
+   ],
+   "items": [
+    "pt-e8309098e6"
+   ],
+   "chars": 89
+  },
+  {
+   "no": "第十四条",
+   "heading": "评阅意见书与申诉材料归入学历学位档案",
+   "heading_kind": "derived",
+   "lines": [
+    58,
+    58
+   ],
+   "items": [
+    "pt-4dd6291701"
+   ],
+   "chars": 39
+  },
+  {
+   "no": "第十五条",
+   "heading": "毕业答辩相关条款不适用于同等学力申硕人员",
+   "heading_kind": "derived",
+   "lines": [
+    59,
+    59
+   ],
+   "items": [
+    "pt-6ea11f515a"
+   ],
+   "chars": 31
+  },
+  {
+   "no": "第十六条",
+   "heading": "施行日期、解释部门与原办法废止",
+   "heading_kind": "derived",
+   "lines": [
+    60,
+    60
+   ],
+   "items": [
+    "pt-f2caee65e9"
+   ],
+   "chars": 75
+  },
+  {
+   "no": "—",
+   "heading": "页脚：备案号、地址与访问统计",
+   "heading_kind": "derived",
+   "lines": [
+    61,
+    63
+   ],
+   "items": [],
+   "chars": 112
+  }
+ ],
+ "items": [
+  "pt-e8309098e6",
+  "pt-509e9cd1f3",
+  "pt-f71cd6c5f5",
+  "pt-f78089f664",
+  "pt-c921a5d05e",
+  "pt-51f544aa73",
+  "pt-f1d26bf71e",
+  "pt-eb39f21a35",
+  "pt-cb3e439011",
+  "pt-68aff11328",
+  "pt-a900a40070",
+  "pt-679c3749e0",
+  "pt-4dd6291701",
+  "pt-6ea11f515a",
+  "pt-f2caee65e9"
+ ],
+ "notes": [
+  "网页抓取稿：第 3-41 行为站点导航菜单（首页/部门简介/…/常用下载），整体并为「页面框架」一节；第 42 行为页内重复的正文标题，第 43 行为发布者、发布时间、浏览次数。",
+  "第 61-63 行为页脚（备案号、地址、访问统计），单列一节。",
+  "正文十六条在抓取稿中各占一行，标题均为概括（derived），原文只有条号、无小标题。",
+  "第二条、第五条无对应 pt 条目落点。"
+ ]
+}

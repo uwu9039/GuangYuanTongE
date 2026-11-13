@@ -1,1 +1,100 @@
-ewogICJrZXkiOiAiYzI2YjNhNjAiLAogICJ0aXRsZSI6ICLkuK3lm73kvKDlqpLlpKflraYyMDI15bm056GV5aOr56CU56m255Sf5oub55Sf6ICD6K+V5aSN6K+V6ICD55Sf6aG755+lIiwKICAidHJ1bmNhdGVkIjogZmFsc2UsCiAgInNlY3Rpb25zIjogWwogICAgewogICAgICAibm8iOiAiIiwKICAgICAgImhlYWRpbmciOiAi5Lit5Zu95Lyg5aqS5aSn5a2mMjAyNeW5tOehleWjq+eglOeptueUn+aLm+eUn+iAg+ivleWkjeivleiAg+eUn+mhu+efpSIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzEsIDJdLAogICAgICAiaXRlbXMiOiBbInJ1bGUtYzI2YjNhNjAiLCAicHQtMGQxNDA4OTcxZSJdLAogICAgICAiY2hhcnMiOiA2OQogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuS4gOOAgSIsCiAgICAgICJoZWFkaW5nIjogIuWkjeivleWuieaOkiIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzMsIDldLAogICAgICAiaXRlbXMiOiBbInB0LWJhNGM2ODRiY2MiLCAicHQtNTMwYjVjNDk3NiIsICJwdC03OWVhNjI1NjM1IiwgInB0LTVhZDY1M2ZlMjEiXSwKICAgICAgImNoYXJzIjogMjAwCiAgICB9LAogICAgewogICAgICAibm8iOiAi5LqM44CBIiwKICAgICAgImhlYWRpbmciOiAi5aSN6K+V5YmN55qE5YeG5aSH5LqL6aG5IiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbMTAsIDEzXSwKICAgICAgIml0ZW1zIjogWyJwdC02ZTkzYTE4OTkzIl0sCiAgICAgICJjaGFycyI6IDEzNQogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuS4ieOAgSIsCiAgICAgICJoZWFkaW5nIjogIuWkjeivlemhu+aQuuW4puadkOaWmSIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzE0LCAzM10sCiAgICAgICJpdGVtcyI6IFsKICAgICAgICAicHQtYzM0ODhkZWZmYiIsCiAgICAgICAgInB0LTEzNmNlMTk5MzIiLAogICAgICAgICJwdC1iMzliMzBlYWNhIiwKICAgICAgICAicHQtYTFlZTE4OWEyYSIsCiAgICAgICAgInB0LTcyY2NiZTkwM2EiLAogICAgICAgICJwdC1iOGRhY2NlZGQ1IiwKICAgICAgICAicHQtNDU1OTZkM2UzOCIsCiAgICAgICAgInB0LTZjMzQ4ZmYwODkiLAogICAgICAgICJwdC1kYzM0MDIyYzdiIiwKICAgICAgICAicHQtMGI5NzgxNjhlYiIsCiAgICAgICAgInB0LTU0ZTI5ZGU3M2QiCiAgICAgIF0sCiAgICAgICJjaGFycyI6IDUyMQogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuWbm+OAgSIsCiAgICAgICJoZWFkaW5nIjogIuWkjeivleazqOaEj+S6i+mhuSIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzM0LCA0MV0sCiAgICAgICJpdGVtcyI6IFsicHQtODMyNDFmNDYyNCIsICJwdC04Nzg3ZGI1NzFjIiwgInB0LWVlNzUyMmE1YWYiXSwKICAgICAgImNoYXJzIjogMjcxCiAgICB9LAogICAgewogICAgICAibm8iOiAi5LqU44CBIiwKICAgICAgImhlYWRpbmciOiAi6IGU57O75pa55byPIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbNDIsIDQ3XSwKICAgICAgIml0ZW1zIjogWyJwdC00MGY0ZjE3MTEwIl0sCiAgICAgICJjaGFycyI6IDgzCiAgICB9CiAgXSwKICAiaXRlbXMiOiBbCiAgICAicnVsZS1jMjZiM2E2MCIsCiAgICAicHQtNTMwYjVjNDk3NiIsCiAgICAicHQtNzllYTYyNTYzNSIsCiAgICAicHQtYjM5YjMwZWFjYSIsCiAgICAicHQtYTFlZTE4OWEyYSIsCiAgICAicHQtNzJjY2JlOTAzYSIsCiAgICAicHQtYjhkYWNjZWRkNSIsCiAgICAicHQtNDU1OTZkM2UzOCIsCiAgICAicHQtNmMzNDhmZjA4OSIsCiAgICAicHQtZGMzNDAyMmM3YiIsCiAgICAicHQtMGI5NzgxNjhlYiIsCiAgICAicHQtNTRlMjlkZTczZCIsCiAgICAicHQtODc4N2RiNTcxYyIsCiAgICAicHQtZWU3NTIyYTVhZiIsCiAgICAicHQtMGQxNDA4OTcxZSIsCiAgICAicHQtYmE0YzY4NGJjYyIsCiAgICAicHQtNWFkNjUzZmUyMSIsCiAgICAicHQtNmU5M2ExODk5MyIsCiAgICAicHQtYzM0ODhkZWZmYiIsCiAgICAicHQtMTM2Y2UxOTkzMiIsCiAgICAicHQtODMyNDFmNDYyNCIsCiAgICAicHQtNDBmNGYxNzExMCIKICBdLAogICJub3RlcyI6IFsKICAgICLljp/mlofkuLogZG9jeCDmir3lj5bmlofmnKzvvIzmjInniYjpnaLmipjooYzvvIjmlbDlrZfkuKTkvqfluKbnqbrmoLzvvInvvJvmraPmlofoh6rluKbkupTkuKrlsI/moIfpopjjgIzkuIDjgIHlpI3or5XlronmjpLjgI3jgIzkuozjgIHlpI3or5XliY3nmoTlh4blpIfkuovpobnjgI3jgIzkuInjgIHlpI3or5XpobvmkLrluKbmnZDmlpnjgI3jgIzlm5vjgIHlpI3or5Xms6jmhI/kuovpobnjgI3jgIzkupTjgIHogZTns7vmlrnlvI/jgI3vvIxoZWFkaW5nIOWPluWOn+aWh+agh+mimOaWh+Wtl++8iOWOu+W6j+WPt++8ieW5tuWcqOacrOiKgumAkOWtl+WPr+afpe+8jOaVheiusCBhdXRob3LjgIIiLAogICAgIuesrDLigJQz6KGM5Li65ZCM5LiA5Y+l5a+86K+t6KKr5oqY6KGM5pat5byA77ya5qCH6aKY6IqC5Y+W56ysMeKAlDLooYzvvIhwdC0wZDE0MDg5NzFlIOeahOW8leaWh+atouS6juesrDLooYzooYzmnKvvvInjgIIiLAogICAgInB0LWJhNGM2ODRiY2Mg55qE5byV5paH6Ieq56ysM+ihjO+8iOWvvOivreWPpeWQjuWNiuOAjOivleiAg+aguOeOr+iKguKApuKApumAmuefpeWmguS4i++8muOAje+8iei1t+OAgei3qOWIsOesrDTooYzlsI/moIfpopjjgIzkuIDjgIHlpI3or5XlronmjpLjgI3vvIzmlYXmjInooYzljLrpl7TmiorlroPokL3lnKjlkKvnrKwz6KGM55qE44CM5LiA44CB5aSN6K+V5a6J5o6S44CN6IqC77yb6K+l6IqC5Zug5q2k5Lul56ysM+ihjOi1t+eul++8jOiAjOmdnuS7peesrDTooYzlsI/moIfpopjooYzotbfnrpfjgIIiLAogICAgInB0LTgzMjQxZjQ2MjTjgIFwdC1jMzQ4OGRlZmZi44CBcHQtNmU5M2ExODk5M+OAgXB0LTQwZjRmMTcxMTAg55qE5byV5paH5Z2H6LW35LqO5bCP5qCH6aKY6KGM5bm26L+e5Yiw5qCH6aKY5ZCO6aaW5Y+l77yI5aaC44CM5Zub44CB5aSN6K+V5rOo5oSP5LqL6aG5MS7or5rkv6HlpI3or5XjgI3ov57lhpnvvInvvIzmlYXlkIToioLljLrpl7TkuIDlvovlkKvlsI/moIfpopjooYzjgIIiLAogICAgIuOAjOS4gOOAgeOAjeiKguWGhSAx4oCUMiDpobnvvIjlpI3or5XmlrnlvI/jgIHlpI3or5Xml7bpl7TlnLDngrnvvInkuI7jgIzkuInjgIHjgI3oioLlhoUgMeKAlDYg6aG55p2Q5paZ5riF5Y2V77yI5ZCr77yIMe+8ieKAlO+8iDTvvInlrZDpobnvvInlnYfkuLrmnaHlhoXliJfkuL7vvIzkuI3mmK/lsI/moIfpopjvvIzmnKrlj6bmi4blrZDoioLjgIIiLAogICAgInJ1bGUtYzI2YjNhNjAg5Li65paH5qGj57qn5p2h55uu77yI5peg5byV5paH77yM5qCH6aKY5Y2z5paH5qGj5ZCN77yJ77yM5oyJ5Lu75Yqh5Lmm5YiX5YWl56ys5LiA6IqC5bm25L+d55WZ5Zyo5paH5qGj57qnIGl0ZW1z44CCIiwKICAgICLnrKw0N+ihjOS4uuepuueZveihjO+8jOWFqOaWh+aXoOmdnuepuuihjOiQveWcqOS7u+S9leiKguS5i+WkluOAgiIKICBdCn0K
+{
+  "key": "c26b3a60",
+  "title": "中国传媒大学2025年硕士研究生招生考试复试考生须知",
+  "truncated": false,
+  "sections": [
+    {
+      "no": "",
+      "heading": "中国传媒大学2025年硕士研究生招生考试复试考生须知",
+      "heading_kind": "author",
+      "lines": [1, 2],
+      "items": ["rule-c26b3a60", "pt-0d1408971e"],
+      "chars": 69
+    },
+    {
+      "no": "一、",
+      "heading": "复试安排",
+      "heading_kind": "author",
+      "lines": [3, 9],
+      "items": ["pt-ba4c684bcc", "pt-530b5c4976", "pt-79ea625635", "pt-5ad653fe21"],
+      "chars": 200
+    },
+    {
+      "no": "二、",
+      "heading": "复试前的准备事项",
+      "heading_kind": "author",
+      "lines": [10, 13],
+      "items": ["pt-6e93a18993"],
+      "chars": 135
+    },
+    {
+      "no": "三、",
+      "heading": "复试须携带材料",
+      "heading_kind": "author",
+      "lines": [14, 33],
+      "items": [
+        "pt-c3488deffb",
+        "pt-136ce19932",
+        "pt-b39b30eaca",
+        "pt-a1ee189a2a",
+        "pt-72ccbe903a",
+        "pt-b8daccedd5",
+        "pt-45596d3e38",
+        "pt-6c348ff089",
+        "pt-dc34022c7b",
+        "pt-0b978168eb",
+        "pt-54e29de73d"
+      ],
+      "chars": 521
+    },
+    {
+      "no": "四、",
+      "heading": "复试注意事项",
+      "heading_kind": "author",
+      "lines": [34, 41],
+      "items": ["pt-83241f4624", "pt-8787db571c", "pt-ee7522a5af"],
+      "chars": 271
+    },
+    {
+      "no": "五、",
+      "heading": "联系方式",
+      "heading_kind": "author",
+      "lines": [42, 47],
+      "items": ["pt-40f4f17110"],
+      "chars": 83
+    }
+  ],
+  "items": [
+    "rule-c26b3a60",
+    "pt-530b5c4976",
+    "pt-79ea625635",
+    "pt-b39b30eaca",
+    "pt-a1ee189a2a",
+    "pt-72ccbe903a",
+    "pt-b8daccedd5",
+    "pt-45596d3e38",
+    "pt-6c348ff089",
+    "pt-dc34022c7b",
+    "pt-0b978168eb",
+    "pt-54e29de73d",
+    "pt-8787db571c",
+    "pt-ee7522a5af",
+    "pt-0d1408971e",
+    "pt-ba4c684bcc",
+    "pt-5ad653fe21",
+    "pt-6e93a18993",
+    "pt-c3488deffb",
+    "pt-136ce19932",
+    "pt-83241f4624",
+    "pt-40f4f17110"
+  ],
+  "notes": [
+    "原文为 docx 抽取文本，按版面折行（数字两侧带空格）；正文自带五个小标题「一、复试安排」「二、复试前的准备事项」「三、复试须携带材料」「四、复试注意事项」「五、联系方式」，heading 取原文标题文字（去序号）并在本节逐字可查，故记 author。",
+    "第2—3行为同一句导语被折行断开：标题节取第1—2行（pt-0d1408971e 的引文止于第2行行末）。",
+    "pt-ba4c684bcc 的引文自第3行（导语句后半「试考核环节……通知如下：」）起、跨到第4行小标题「一、复试安排」，故按行区间把它落在含第3行的「一、复试安排」节；该节因此以第3行起算，而非以第4行小标题行起算。",
+    "pt-83241f4624、pt-c3488deffb、pt-6e93a18993、pt-40f4f17110 的引文均起于小标题行并连到标题后首句（如「四、复试注意事项1.诚信复试」连写），故各节区间一律含小标题行。",
+    "「一、」节内 1—2 项（复试方式、复试时间地点）与「三、」节内 1—6 项材料清单（含（1）—（4）子项）均为条内列举，不是小标题，未另拆子节。",
+    "rule-c26b3a60 为文档级条目（无引文，标题即文档名），按任务书列入第一节并保留在文档级 items。",
+    "第47行为空白行，全文无非空行落在任何节之外。"
+  ]
+}

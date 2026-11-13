@@ -1,1 +1,190 @@
-ew0KICJrZXkiOiAiMjAyNjEwMDktYzE0NzQ1YTI3NDYzNCIsDQogInRpdGxlIjogIumZouS8muaLm+aWsO+9nOS/oeaBr+S8oOaSreWtpumZouWtpueUn+S8mumqqOW5suWQjeWNleWPiuaLm+aWsOe7k+aenOWFrOW4gyIsDQogInRydW5jYXRlZCI6IGZhbHNlLA0KICJzZWN0aW9ucyI6IFsNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLpobXpnaLmoYbmnrbvvJrnq5nngrnmoIfor4bjgIHmoI/nm67lr7zoiKrkuI7pnaLljIXlsZEiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxLA0KICAgIDM0DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAzMTMNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLpmaLkvJrmi5vmlrDvvZzkv6Hmga/kvKDmkq3lrabpmaLlrabnlJ/kvJrpqqjlubLlkI3ljZXlj4rmi5vmlrDnu5PmnpzlhazluIMiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDM1LA0KICAgIDM2DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1jYTNjNjA3ZTEzIg0KICAgXSwNCiAgICJjaGFycyI6IDQ3DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5a2m6Zmi5LiA5bm05Zue6aG+5LiO5pys5qyh5oub5paw6K+05piOIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMzcsDQogICAgNDUNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWEyZDBkM2RlNDAiDQogICBdLA0KICAgImNoYXJzIjogOTI4DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5a2m55Sf5Lya6Z2i6K+V546w5Zy6IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA0NiwNCiAgICA1MQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMzYxYzQ2ZDZjOCIsDQogICAgInB0LTcxOWEzOGVjZDciDQogICBdLA0KICAgImNoYXJzIjogMjM0DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi6YOo6Zeo6IGM6IO944CB6aqo5bmy5Y+K5b2V5Y+W5ZCN5Y2VIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1MiwNCiAgICA3Nw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtODNlZDgwZjcxNCINCiAgIF0sDQogICAiY2hhcnMiOiAxMDkxDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5paH5L2T5rS75Yqo6YOoIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1MywNCiAgICA1Nw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNjE3NDFiMDdjMiIsDQogICAgInB0LTg5MTBkNzNmM2UiDQogICBdLA0KICAgImNoYXJzIjogMjMyDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi55CG6K665a6j5Lyg6YOoIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1OCwNCiAgICA2Mg0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtOWQ5YzcyODE1ZSIsDQogICAgInB0LTI3YmRlYzI2MzkiDQogICBdLA0KICAgImNoYXJzIjogMjIxDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5pel5bi45LqL5Yqh6YOoIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA2MywNCiAgICA2Nw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtOWRjYjgzM2ZkMSIsDQogICAgInB0LThmYTVjMWIwMWYiDQogICBdLA0KICAgImNoYXJzIjogMjA0DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5Yib5paw5a6e6Le16YOoIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA2OCwNCiAgICA3Mg0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMWM5MDc2YzFiYiIsDQogICAgInB0LTk3YTgwMjFiZTQiDQogICBdLA0KICAgImNoYXJzIjogMjA5DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5pys56eR55Sf5LqL5Yqh6YOoIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA3MywNCiAgICA3Nw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZjQyNmE3OTZjYyIsDQogICAgInB0LTg3ZjkyMjA5NDEiDQogICBdLA0KICAgImNoYXJzIjogMjEzDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi57uT6K+t77ya56ys5LqM5bGK5a2m55Sf5Lya5bey6ZuG57uT5a6M5q+VIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNzgsDQogICAgNzgNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDUxDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi6aG16ISa77ya5Y+L5oOF6ZO+5o6l44CB5Zyw5Z2A44CB54mI5p2D5LiO6K6/6Zeu57uf6K6hIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNzksDQogICAgOTYNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDQwNQ0KICB9DQogXSwNCiAiaXRlbXMiOiBbDQogICJwdC1jYTNjNjA3ZTEzIiwNCiAgInB0LWEyZDBkM2RlNDAiLA0KICAicHQtMzYxYzQ2ZDZjOCIsDQogICJwdC03MTlhMzhlY2Q3IiwNCiAgInB0LTgzZWQ4MGY3MTQiLA0KICAicHQtNjE3NDFiMDdjMiIsDQogICJwdC04OTEwZDczZjNlIiwNCiAgInB0LTlkOWM3MjgxNWUiLA0KICAicHQtMjdiZGVjMjYzOSIsDQogICJwdC05ZGNiODMzZmQxIiwNCiAgInB0LThmYTVjMWIwMWYiLA0KICAicHQtMWM5MDc2YzFiYiIsDQogICJwdC05N2E4MDIxYmU0IiwNCiAgInB0LWY0MjZhNzk2Y2MiLA0KICAicHQtODdmOTIyMDk0MSINCiBdLA0KICJub3RlcyI6IFsNCiAgIue9kemhteaKk+WPlueov++8iOS/oeaBr+S8oOaSreWtpumZouermeeCueaWh+eroO+8ie+8muesrCAxIOihjOaYr+aWh+eroOagh+mimOOAgeesrCAyIOihjOaYr+ermeeCuSBsb2dvIOmZhOS7tuOAgeesrCAz4oCTMjkg6KGM5pivIDI3IOihjOagj+ebruWvvOiIquagke+8iOmmlumhte+8j+WFs+S6juaIkeS7rO+8j+KApu+8j+WbvemZheWQiOS9nO+8ieOAgeesrCAzMCDooYzmmK/liJfooajpobUgYmFubmVy44CB56ysIDMx4oCTMzQg6KGM5piv5qCP55uu5ZCN5LiO6Z2i5YyF5bGR44CM6aaW6aG1IOWFmue+pOW3peS9nCDlm6LlrabliqjmgIHjgI3lj4rlhbblrZDmoI/jgIzlhZrlu7rliqjmgIHvvI/lm6LlrabliqjmgIHjgI3vvIzlkIjkuLrjgIzpobXpnaLmoYbmnrbjgI3kuIDoioLjgIIiLA0KICAi56ysIDM1IOihjOaYr+mhteWGhemHjeWkjeeahOato+aWh+agh+mimOOAgeesrCAzNiDooYzmmK/jgIzlj5HluIPml7bpl7TvvJoyMDI2LTEwLTA55rWP6KeI5qyh5pWw77yaMTDjgI3vvIzljZXliJfjgIzmoIfpopjkuI7lj5HluIPkv6Hmga/jgI3kuIDoioLvvJtwdC1jYTNjNjA3ZTEzIOeahOW8leaWh+WNs+ivpeagh+mimO+8jOi1t+eCueWcqOesrCAzNSDooYzvvIzmlYXokL3lnKjmraToioLvvIjnrKwgMSDooYznmoTlkIzlkI3moIfpopjlsZ7pobXpnaLmoYbmnrbvvIzkuI3ph43lpI3liJfvvInjgIIiLA0KICAi56ysIDM34oCTMzgg6KGM5piv5rS75Yqo5Zue6aG+5LiO5oub5paw6K+05piO5Lik5q6177yI5Y6f5paH5peg5bCP5qCH6aKY77yJ77yM56ysIDM54oCTNDUg6KGM5pivIDcg5byg6YWN5Zu+6ZmE5Lu277yM5ZCI5Li65LiA6IqC77yb6L+Z5Lik5q615LiO5Zu+54mH5bGe5ZCM5LiA5q2j5paH5Z2X44CCIiwNCiAgIuOAjOWtpueUn+S8mumdouivleeOsOWcuuOAje+8iDQ277yJ44CB44CM5Li75bit5Zui5oiQ5ZGY44CN77yINDfvvInjgIHjgIzkuLvluK3vvJrnn7PpkrDpk63jgI3vvIg0OO+8ieOAgeOAjOaJp+ihjOS4u+W4re+8muWImOWuiembheOAje+8iDUw77yJ5LiO5Lik5byg6YWN5Zu+5ZCI5Li65LiA6IqC77yaNDjjgIE1MCDmmK/lkI3ljZXooYzkuI3mmK/lsI/moIfpopjvvIzmlYXmnKrlho3kuIvmi4bvvJtwdC0zNjFjNDZkNmM4IOeahOW8leaWh+S7jiA0NiDov57or7vliLAgNDjvvIg0NiDooYzmoIfpopjvvIs0NyDooYzlsI/moIfvvIs0OCDooYzlkI3ljZXvvInjgIIiLA0KICAi56ysIDUyIOihjOOAjOmDqOmXqOiBjOiDveOAgemqqOW5suWPiuW9leWPluWQjeWNleOAjeS4uueItuiKgu+8jOS4i+WQq+S6lOS4qumDqOmXqOWtkOiKgu+8iDUz4oCTNTcg5paH5L2T5rS75Yqo6YOo44CBNTjigJM2MiDnkIborrrlrqPkvKDpg6jjgIE2M+KAkzY3IOaXpeW4uOS6i+WKoemDqOOAgTY44oCTNzIg5Yib5paw5a6e6Le16YOo44CBNzPigJM3NyDmnKznp5HnlJ/kuovliqHpg6jvvInvvIzmr4/pg6jkuLrjgIzjgJDpg6jlkI3jgJHvvIvpg6jpl6jlrprkvY3vvIvpg6jplb/vvIvphY3lm77vvIvlvZXnlKjlrabnlJ/lubLkuovjgI3kupTmrrXlvI/vvJvniLboioLljLrpl7TljIXkvY/lhajpg6jlrZDoioLvvIzlsZ7nnJ/ltYzlpZfjgIIiLA0KICAi5ZCE6YOo5a2Q6IqC55qEIGhlYWRpbmcg5Y+W5Y6f5paH44CQ44CR5YaF55qE6YOo5ZCN77yM5Y+v5Zyo5pys6IqC6KGM5Yy66Ze06YCQ5a2X5om+5Yiw77yM5qCHIGF1dGhvcu+8m25vIOS4gOW+i+OAjOKAlOOAje+8jOmBv+WFjeS4jiBoZWFkaW5nIOebuOWQjOOAgiIsDQogICLnrKwgNzgg6KGM5piv57uT6K+t5q6177yM5Y2V5YiX5LiA6IqC77yb56ysIDc54oCTOTYg6KGM5piv6aG16ISa77yI56uZ54K5IGxvZ2/vvI/lj4vmg4Xpk77mjqXkuZ3mnaHvvI/lnLDlnYDpgq7nvJbvvI/niYjmnYPkuI7lpIfmoYjlj7fvvI/mioDmnK/mlK/mjIHvvI/lm57liLDpobbpg6jvvI9b6ZmE5Lu2XSAvX3Zpc2l0Y291bnQg6K6/6Zeu57uf6K6h77yJ77yM5Y2V5YiX5LiA6IqC44CCIiwNCiAgIuacrOaWh+S7tuaXoCBydWxlLSog5paH5qGj57qn5p2h55uu77yMMTUg5LiqIHB0IOadoeebruW8leaWh+WFqOmDqOWcqOacrOaWh+WRveS4reiQveeCue+8jOaXoOi3qOaWh+S7tuW8leeUqO+8m+ato+aWh+WIsOesrCA3OCDooYznu5Por63nu5PmnZ/vvIzmnKrop4HmiKrmlq3vvIx0cnVuY2F0ZWQ9ZmFsc2XjgIIiDQogXQ0KfQ==
+{
+ "key": "20261009-c14745a274634",
+ "title": "院会招新｜信息传播学院学生会骨干名单及招新结果公布",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "页面框架：站点标识、栏目导航与面包屑",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    34
+   ],
+   "items": [],
+   "chars": 313
+  },
+  {
+   "no": "—",
+   "heading": "院会招新｜信息传播学院学生会骨干名单及招新结果公布",
+   "heading_kind": "author",
+   "lines": [
+    35,
+    36
+   ],
+   "items": [
+    "pt-ca3c607e13"
+   ],
+   "chars": 47
+  },
+  {
+   "no": "—",
+   "heading": "学院一年回顾与本次招新说明",
+   "heading_kind": "derived",
+   "lines": [
+    37,
+    45
+   ],
+   "items": [
+    "pt-a2d0d3de40"
+   ],
+   "chars": 928
+  },
+  {
+   "no": "—",
+   "heading": "学生会面试现场",
+   "heading_kind": "author",
+   "lines": [
+    46,
+    51
+   ],
+   "items": [
+    "pt-361c46d6c8",
+    "pt-719a38ecd7"
+   ],
+   "chars": 234
+  },
+  {
+   "no": "—",
+   "heading": "部门职能、骨干及录取名单",
+   "heading_kind": "author",
+   "lines": [
+    52,
+    77
+   ],
+   "items": [
+    "pt-83ed80f714"
+   ],
+   "chars": 1091
+  },
+  {
+   "no": "—",
+   "heading": "文体活动部",
+   "heading_kind": "author",
+   "lines": [
+    53,
+    57
+   ],
+   "items": [
+    "pt-61741b07c2",
+    "pt-8910d73f3e"
+   ],
+   "chars": 232
+  },
+  {
+   "no": "—",
+   "heading": "理论宣传部",
+   "heading_kind": "author",
+   "lines": [
+    58,
+    62
+   ],
+   "items": [
+    "pt-9d9c72815e",
+    "pt-27bdec2639"
+   ],
+   "chars": 221
+  },
+  {
+   "no": "—",
+   "heading": "日常事务部",
+   "heading_kind": "author",
+   "lines": [
+    63,
+    67
+   ],
+   "items": [
+    "pt-9dcb833fd1",
+    "pt-8fa5c1b01f"
+   ],
+   "chars": 204
+  },
+  {
+   "no": "—",
+   "heading": "创新实践部",
+   "heading_kind": "author",
+   "lines": [
+    68,
+    72
+   ],
+   "items": [
+    "pt-1c9076c1bb",
+    "pt-97a8021be4"
+   ],
+   "chars": 209
+  },
+  {
+   "no": "—",
+   "heading": "本科生事务部",
+   "heading_kind": "author",
+   "lines": [
+    73,
+    77
+   ],
+   "items": [
+    "pt-f426a796cc",
+    "pt-87f9220941"
+   ],
+   "chars": 213
+  },
+  {
+   "no": "—",
+   "heading": "结语：第二届学生会已集结完毕",
+   "heading_kind": "derived",
+   "lines": [
+    78,
+    78
+   ],
+   "items": [],
+   "chars": 51
+  },
+  {
+   "no": "—",
+   "heading": "页脚：友情链接、地址、版权与访问统计",
+   "heading_kind": "derived",
+   "lines": [
+    79,
+    96
+   ],
+   "items": [],
+   "chars": 405
+  }
+ ],
+ "items": [
+  "pt-ca3c607e13",
+  "pt-a2d0d3de40",
+  "pt-361c46d6c8",
+  "pt-719a38ecd7",
+  "pt-83ed80f714",
+  "pt-61741b07c2",
+  "pt-8910d73f3e",
+  "pt-9d9c72815e",
+  "pt-27bdec2639",
+  "pt-9dcb833fd1",
+  "pt-8fa5c1b01f",
+  "pt-1c9076c1bb",
+  "pt-97a8021be4",
+  "pt-f426a796cc",
+  "pt-87f9220941"
+ ],
+ "notes": [
+  "网页抓取稿（信息传播学院站点文章）：第 1 行是文章标题、第 2 行是站点 logo 附件、第 3–29 行是 27 行栏目导航树（首页／关于我们／…／国际合作）、第 30 行是列表页 banner、第 31–34 行是栏目名与面包屑「首页 党群工作 团学动态」及其子栏「党建动态／团学动态」，合为「页面框架」一节。",
+  "第 35 行是页内重复的正文标题、第 36 行是「发布时间：2026-10-09浏览次数：10」，单列「标题与发布信息」一节；pt-ca3c607e13 的引文即该标题，起点在第 35 行，故落在此节（第 1 行的同名标题属页面框架，不重复列）。",
+  "第 37–38 行是活动回顾与招新说明两段（原文无小标题），第 39–45 行是 7 张配图附件，合为一节；这两段与图片属同一正文块。",
+  "「学生会面试现场」（46）、「主席团成员」（47）、「主席：石钰铭」（48）、「执行主席：刘安雅」（50）与两张配图合为一节：48、50 是名单行不是小标题，故未再下拆；pt-361c46d6c8 的引文从 46 连读到 48（46 行标题＋47 行小标＋48 行名单）。",
+  "第 52 行「部门职能、骨干及录取名单」为父节，下含五个部门子节（53–57 文体活动部、58–62 理论宣传部、63–67 日常事务部、68–72 创新实践部、73–77 本科生事务部），每部为「【部名】＋部门定位＋部长＋配图＋录用学生干事」五段式；父节区间包住全部子节，属真嵌套。",
+  "各部子节的 heading 取原文【】内的部名，可在本节行区间逐字找到，标 author；no 一律「—」，避免与 heading 相同。",
+  "第 78 行是结语段，单列一节；第 79–96 行是页脚（站点 logo／友情链接九条／地址邮编／版权与备案号／技术支持／回到顶部／[附件] /_visitcount 访问统计），单列一节。",
+  "本文件无 rule-* 文档级条目，15 个 pt 条目引文全部在本文命中落点，无跨文件引用；正文到第 78 行结语结束，未见截断，truncated=false。"
+ ]
+}

@@ -1,1 +1,86 @@
-IiIi56ug5p2h6ZSa5a6a77ya6Zeu5Y+l54K55LqG44CM56ysWOeroCAvIOesrFjoioIgLyDnrKxY5p2h44CN5pe277yM5oqK5a+55b6X5LiK55qE6YKj5LiA6IqC5oqs5LiK5p2l44CCCgrkuLrku4DkuYjpnIDopoHov5nkuIDlsYIKLS0tLS0tLS0tLS0tLS0tLQrpopjlupPph4zmnIkgMjAg6YGT6aKY55u05o6l54K55LqG56ug5p2h77yI44CM6YCJ6K++5Yqe5rOV56ys5Y2B5Zub5p2h6YCJ6K++55qE6ZmQ5Yi25p2h5Lu25pyJ5ZOq5Lqb44CN77yJ44CCCmDnrKxY5p2hYCDlnKggNTMxIOS7veaWh+aho+mHjOWRveS4rSAxNTAg5aSE5Lul5LiK77yM5YWJ5oyJ5Y+35Yqg5YiG562J5LqO57uZ5Yeg55m+5Liq5p2h55uu5LiA6LW35Yqg77yMCuaOkuW6j+WZqOS7jeeEtuW+l+iHquW3seeMnOaYr+WTquS4gOS7ve+8m+eMnOmUmeaXtiB0b3AxIOS8muiQvei/m+WQjOexu+WItuW6puaWh+S7tu+8iOeUmuiHs+aYr+WIq+agoeeahOWKnuazle+8ieOAggoK6L+Z6YeM55qE5YGa5rOV5piv5oqK44CM5Y+344CN5ZKM44CM6L+Z5LiA6IqC6K6y5LuA5LmI44CN5Lik5p2h5LiA6LW355So77yaCgoxLiBgc2VjdGlvbnNfaW5kZXguY2hhcHRlcl9yZWZzYCDop6PmnpDpl67lj6Xph4znmoTnq6DmnaHlj7fvvJsKMi4gYHNlY3Rpb25zX2luZGV4Lm51bWJlcmVkYCDlj5blh7rov5nkupvlj7flkb3kuK3nmoQqKuavj+S4gOiKgioq77yI5paH5qGj5qCH6aKYICsg6IqC5ZCNICsg6K+l6IqC5p2h55uu77yJ77ybCjMuIOeUqCoq5Li76aKY5LiyKirvvIhgdGV4dC50b3BpY190ZXh0YO+8jOWJpeaOiemXruWPpeahhuaetuivjeOAgeS5n+WJpeaOiemXruWPpemHjOmCo+S4queroOadoeWPt+acrOi6q++8iQogICDliIbliKvlkozjgIzmlofmoaPmoIfpopjjgI3jgIzoioLlkI0gKyDor6XoioLmnaHnm67moIfpopjjgI3nrpfkuozlhYPnu4Topobnm5bvvJsKNC4g6KaG55uW6auY55qE6YKj5LiA6IqC5LiL55qE5p2h55uu5oyJ5q+U5L6L5Yqg5YiG77yM5YW25L2Z5LiN5Yqo44CCCgrlj6PlvoTmmK8qKuWKoOWIhuS4jeaUueetlOahiOW9ouaAgSoq77ya5a6D5Y+q5oqK44CM55So5oi354K55ZCN55qE6YKj5LiA5p2h44CN5b6A5YmN5oqs77yM5LiN5oqK562U5qGI5o2i5oiQ5p2h5qy+CueijueJh+KAlOKAlOOAjOi9rOS4k+S4mumcgOimgeS7gOS5iOadoeS7tuOAjei/meexu+ayoeeCueeroOadoeeahOmXrumimO+8jOi/meS4gOWxguWujOWFqOS4jeS7i+WFpeOAggoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IHJlCmZyb20gdHlwaW5nIGltcG9ydCBBbnkKCmZyb20gLnRleHQgaW1wb3J0IGJpZ3JhbXMsIGNvcmVfdGl0bGUsIHRvcGljX3RleHQKCiMg6Zeu5Y+l6YeM55qE56ug5p2h5Y+35pys5L2T77ya566X5Li76aKY5pe26KaB5Y675o6J77yM5ZCm5YiZ5q+P5Liq44CM56ys5LiD5p2h44CN6YO95Lya5YWx5Lqr44CM56ys5LiD44CN44CM5LiD5p2h44CNCl9SRUYgPSByZS5jb21waWxlKHIi56ysW+S4gOS6jOS4ieWbm+S6lOWFreS4g+WFq+S5neWNgeeZvumbtuOAh1xkXStb56ug6IqC5p2h5qy+57yW56+HXSIpCiMg5LiA6IqC55qE44CM6K6y5LuA5LmI44CNPSDoioLlkI0gKyDov5nkuIDoioLkuIvnmoTmnaHnm67lkI0KTUFYX1NFQ1RJT05TID0gNjAwCk1JTl9TQ09SRSA9IDAuMTUKTUFYX0JPTlVTID0gNC4wCgoKZGVmIF9ncmFtcyhzOiBzdHIpIC0+IHNldFtzdHJdOgogICAgcyA9IHRvcGljX3RleHQocykKICAgIHJldHVybiBzZXQoYmlncmFtcyhzKSkgaWYgbGVuKHMpID49IDIgZWxzZSBzZXQoKQoKCmRlZiBfY292ZXIocWc6IHNldFtzdHJdLCBkZzogc2V0W3N0cl0pIC0+IGZsb2F0OgogICAgaWYgbm90IHFnOgogICAgICAgIHJldHVybiAwLjAKICAgIHJldHVybiBsZW4ocWcgJiBkZykgLyBsZW4ocWcpCgoKZGVmIGl0ZW1fYm9udXMoZW5naW5lOiBBbnksIGN0eDogQW55KSAtPiBkaWN0W3N0ciwgZmxvYXRdOgogICAgIiIie2l0ZW1faWQ6IOWKoOWIhn3vvJvpl67lj6XmsqHngrnnq6DmnaHjgIHmiJbnq6DoioLntKLlvJXkuI3lj6/nlKjml7bov5Tlm54ge33vvIjlrozlhajnrYnkuo7msqHmjqXov5nlsYLvvInjgIIiIiIKICAgIGNvcmUgPSBnZXRhdHRyKGN0eCwgImNvcmUiLCAiIikgb3IgIiIKICAgIGlmICLnrKwiIG5vdCBpbiBjb3JlOgogICAgICAgIHJldHVybiB7fQogICAgdHJ5OgogICAgICAgIGltcG9ydCBzZWN0aW9uc19pbmRleCBhcyBzaQogICAgZXhjZXB0IEV4Y2VwdGlvbjogICMgbm9xYTogQkxFMDAxICDnq6DoioLntKLlvJXkuI3lnKjkuZ/kuI3og73mi5blnq7mo4DntKIKICAgICAgICByZXR1cm4ge30KICAgIHJlZnMgPSBzaS5jaGFwdGVyX3JlZnMoY29yZSkKICAgIGlmIG5vdCByZWZzOgogICAgICAgIHJldHVybiB7fQogICAgc2VjcyA9IHNpLm51bWJlcmVkKHJlZnMpCiAgICBpZiBub3Qgc2VjczoKICAgICAgICByZXR1cm4ge30KCiAgICBxID0gX1JFRi5zdWIoIiIsIGN0eC50b3BpYyBvciBjb3JlKQogICAgcWcgPSBfZ3JhbXMocSkKICAgIGlmIG5vdCBxZzoKICAgICAgICByZXR1cm4ge30KCiAgICBpeCA9IGVuZ2luZS5peAogICAgZG9jX29mID0gZW5naW5lLl9kb2Nfb2YKICAgIG91dDogZGljdFtzdHIsIGZsb2F0XSA9IHt9CiAgICBmb3IgcyBpbiBzZWNzWzpNQVhfU0VDVElPTlNdOgogICAgICAgIGRvY190ID0gX2dyYW1zKGNvcmVfdGl0bGUocy5nZXQoImRvY190aXRsZSIpIG9yICIiKSkKICAgICAgICBib2R5ID0gW3MuZ2V0KCJoZWFkaW5nIikgb3IgIiJdCiAgICAgICAgZm9yIGlpZCBpbiBzLmdldCgiaXRlbXMiKSBvciAoKToKICAgICAgICAgICAgZCA9IGRvY19vZi5nZXQoaWlkKQogICAgICAgICAgICBpZiBkIGlzIG5vdCBOb25lOgogICAgICAgICAgICAgICAgYm9keS5hcHBlbmQoaXguZG9jc1tkXS50aXRsZSkKICAgICAgICBzZWNfdCA9IF9ncmFtcygiIi5qb2luKGJvZHkpKQogICAgICAgIHNjb3JlID0gMC40ICogX2NvdmVyKHFnLCBkb2NfdCkgKyAwLjYgKiBfY292ZXIocWcsIHNlY190KQogICAgICAgIGlmIHNjb3JlIDwgTUlOX1NDT1JFOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGZvciBpaWQgaW4gcy5nZXQoIml0ZW1zIikgb3IgKCk6CiAgICAgICAgICAgIGlmIHNjb3JlID4gb3V0LmdldChpaWQsIDAuMCk6CiAgICAgICAgICAgICAgICBvdXRbaWlkXSA9IHNjb3JlCiAgICBpZiBub3Qgb3V0OgogICAgICAgIHJldHVybiB7fQogICAgcmV0dXJuIHtrOiBNQVhfQk9OVVMgKiBtaW4odiwgMS4wKSBmb3IgaywgdiBpbiBvdXQuaXRlbXMoKX0K
+"""章条锚定：问句点了「第X章 / 第X节 / 第X条」时，把对得上的那一节抬上来。
+
+为什么需要这一层
+----------------
+题库里有 20 道题直接点了章条（「选课办法第十四条选课的限制条件有哪些」）。
+`第X条` 在 531 份文档里命中 150 处以上，光按号加分等于给几百个条目一起加，
+排序器仍然得自己猜是哪一份；猜错时 top1 会落进同类制度文件（甚至是别校的办法）。
+
+这里的做法是把「号」和「这一节讲什么」两条一起用：
+
+1. `sections_index.chapter_refs` 解析问句里的章条号；
+2. `sections_index.numbered` 取出这些号命中的**每一节**（文档标题 + 节名 + 该节条目）；
+3. 用**主题串**（`text.topic_text`，剥掉问句框架词、也剥掉问句里那个章条号本身）
+   分别和「文档标题」「节名 + 该节条目标题」算二元组覆盖；
+4. 覆盖高的那一节下的条目按比例加分，其余不动。
+
+口径是**加分不改答案形态**：它只把「用户点名的那一条」往前抬，不把答案换成条款
+碎片——「转专业需要什么条件」这类没点章条的问题，这一层完全不介入。
+"""
+from __future__ import annotations
+
+import re
+from typing import Any
+
+from .text import bigrams, core_title, topic_text
+
+# 问句里的章条号本体：算主题时要去掉，否则每个「第七条」都会共享「第七」「七条」
+_REF = re.compile(r"第[一二三四五六七八九十百零〇\d]+[章节条款编篇]")
+# 一节的「讲什么」= 节名 + 这一节下的条目名
+MAX_SECTIONS = 600
+MIN_SCORE = 0.15
+MAX_BONUS = 4.0
+
+
+def _grams(s: str) -> set[str]:
+    s = topic_text(s)
+    return set(bigrams(s)) if len(s) >= 2 else set()
+
+
+def _cover(qg: set[str], dg: set[str]) -> float:
+    if not qg:
+        return 0.0
+    return len(qg & dg) / len(qg)
+
+
+def item_bonus(engine: Any, ctx: Any) -> dict[str, float]:
+    """{item_id: 加分}；问句没点章条、或章节索引不可用时返回 {}（完全等于没接这层）。"""
+    core = getattr(ctx, "core", "") or ""
+    if "第" not in core:
+        return {}
+    try:
+        import sections_index as si
+    except Exception:  # noqa: BLE001  章节索引不在也不能拖垮检索
+        return {}
+    refs = si.chapter_refs(core)
+    if not refs:
+        return {}
+    secs = si.numbered(refs)
+    if not secs:
+        return {}
+
+    q = _REF.sub("", ctx.topic or core)
+    qg = _grams(q)
+    if not qg:
+        return {}
+
+    ix = engine.ix
+    doc_of = engine._doc_of
+    out: dict[str, float] = {}
+    for s in secs[:MAX_SECTIONS]:
+        doc_t = _grams(core_title(s.get("doc_title") or ""))
+        body = [s.get("heading") or ""]
+        for iid in s.get("items") or ():
+            d = doc_of.get(iid)
+            if d is not None:
+                body.append(ix.docs[d].title)
+        sec_t = _grams("".join(body))
+        score = 0.4 * _cover(qg, doc_t) + 0.6 * _cover(qg, sec_t)
+        if score < MIN_SCORE:
+            continue
+        for iid in s.get("items") or ():
+            if score > out.get(iid, 0.0):
+                out[iid] = score
+    if not out:
+        return {}
+    return {k: MAX_BONUS * min(v, 1.0) for k, v in out.items()}

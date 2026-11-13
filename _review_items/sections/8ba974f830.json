@@ -1,1 +1,97 @@
-ewogICJrZXkiOiAiOGJhOTc0ZjgzMCIsCiAgInRpdGxlIjogIuS4reWbveS8oOWqkuWkp+Wtpi3lm73mnInotYTkuqfnrqHnkIblpIQiLAogICJ0cnVuY2F0ZWQiOiBmYWxzZSwKICAic2VjdGlvbnMiOiBbCiAgICB7CiAgICAgICJubyI6ICLigJQiLAogICAgICAiaGVhZGluZyI6ICLpobXpnaLmoYbmnrbvvJrnq5nngrnmoIfor4bjgIHpobbpg6jpk77mjqXkuI7moI/nm67lr7zoiKoiLAogICAgICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAgICAibGluZXMiOiBbMSwgMzBdLAogICAgICAiaXRlbXMiOiBbInJ1bGUtOGJhOTc0ZjgzMCJdLAogICAgICAiY2hhcnMiOiAzNzAKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLigJQiLAogICAgICAiaGVhZGluZyI6ICLpg6jpl6jmpoLlhrUiLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFszMSwgMzNdLAogICAgICAiaXRlbXMiOiBbInB0LTg4NGJlMTQ5OTIiXSwKICAgICAgImNoYXJzIjogNTY0CiAgICB9LAogICAgewogICAgICAibm8iOiAi4oCUIiwKICAgICAgImhlYWRpbmciOiAi5pyN5Yqh5YWl5Y+jIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbMzQsIDQ0XSwKICAgICAgIml0ZW1zIjogWyJwdC0zZWE0ZTA4MDI5IiwgInB0LWYwZjk5OWVmMzEiXSwKICAgICAgImNoYXJzIjogMTk4CiAgICB9LAogICAgewogICAgICAibm8iOiAi4oCUIiwKICAgICAgImhlYWRpbmciOiAi5bel5L2c5Yqo5oCBIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbNDUsIDU0XSwKICAgICAgIml0ZW1zIjogWyJwdC04Nzk0OTExMGZjIiwgInB0LWVkOGJjMjQ1ZGQiXSwKICAgICAgImNoYXJzIjogMjI4CiAgICB9LAogICAgewogICAgICAibm8iOiAi4oCUIiwKICAgICAgImhlYWRpbmciOiAi6YCa55+l5YWs5ZGKIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbNTUsIDY0XSwKICAgICAgIml0ZW1zIjogWyJwdC0yNTg4NjJjZjhjIl0sCiAgICAgICJjaGFycyI6IDE4OAogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuKAlCIsCiAgICAgICJoZWFkaW5nIjogIuaIv+Wxi+S6pOaYkyIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzY1LCA3Nl0sCiAgICAgICJpdGVtcyI6IFsicHQtMDUyMGVmZGM5NCJdLAogICAgICAiY2hhcnMiOiAyODQKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLigJQiLAogICAgICAiaGVhZGluZyI6ICLlip7lhazmjIfljZciLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFs3NywgODNdLAogICAgICAiaXRlbXMiOiBbInB0LTkwZjlkMjQ3MTciXSwKICAgICAgImNoYXJzIjogMzgKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLigJQiLAogICAgICAiaGVhZGluZyI6ICLlvq7kv6HlhazkvJflj7ciLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFs4NCwgODddLAogICAgICAiaXRlbXMiOiBbInB0LTVmNjIxOTI4NmMiXSwKICAgICAgImNoYXJzIjogMjIwCiAgICB9LAogICAgewogICAgICAibm8iOiAi4oCUIiwKICAgICAgImhlYWRpbmciOiAi5Y+L5oOF6ZO+5o6lIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbODgsIDk2XSwKICAgICAgIml0ZW1zIjogW10sCiAgICAgICJjaGFycyI6IDgwCiAgICB9LAogICAgewogICAgICAibm8iOiAi4oCUIiwKICAgICAgImhlYWRpbmciOiAi5YWz5LqO5oiR5LusIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbOTcsIDEwM10sCiAgICAgICJpdGVtcyI6IFtdLAogICAgICAiY2hhcnMiOiAyMDYKICAgIH0KICBdLAogICJpdGVtcyI6IFsicnVsZS04YmE5NzRmODMwIiwgInB0LTg4NGJlMTQ5OTIiLCAicHQtM2VhNGUwODAyOSIsICJwdC1mMGY5OTllZjMxIiwgInB0LTg3OTQ5MTEwZmMiLCAicHQtZWQ4YmMyNDVkZCIsICJwdC0yNTg4NjJjZjhjIiwgInB0LTA1MjBlZmRjOTQiLCAicHQtOTBmOWQyNDcxNyIsICJwdC01ZjYyMTkyODZjIl0sCiAgIm5vdGVzIjogWwogICAgIuWOn+aWh+aYr+Wbveaciei1hOS6p+euoeeQhuWkhOe9keermemmlumhte+8jOmdnuWFrOaWh++8muaXoOeroOadoee7k+aehO+8jOWPquacieagj+ebruWMuuWdl+agh+mimO+8jOWboOatpOWFqOmDqOiKgiBubyDnlKjjgIzigJTjgI3jgIIiLAogICAgIuesrDHigJQzMOihjOS4uumhtemdouahhuaetu+8muermeeCueWQjeOAgWxvZ28g5LiO5Zu+54mH6ZmE5Lu26Lev5b6E44CB5pys5qCh5biI55Sf77yP6J6N5ZCI6Zeo5oi377yP5qCh5aSWVlBO77yP5qCh5Zut6YKu566x562J6aG26YOo6ZO+5o6l44CB5LiA57qn5LiO5LqM57qn5qCP55uu6I+c5Y2V77yI6aaW6aG144CB6YOo6Zeo5qaC5Ya144CB5py65p6E6K6+572u44CB6IGU57O75pa55byP44CB6KeE56ug5Yi25bqm77yM5Y+K6YCa55+l5YWs5ZGK44CB5YWa5bu65LiT5qCP44CB5Yqe5YWs5oyH5Y2X44CB6LWE5Lqn5L+h5oGv5Lia5Yqh562J77yJ44CB5pyN5Yqh5YWl5Y+j5LiO5bi455So5LiL6L295a+86Iiq77yM5peg5Y6f5paH5bCP5qCH6aKY77yM5ZCI5bm25Li65LiA6IqC77yIZGVyaXZlZO+8ieOAgiIsCiAgICAicnVsZS04YmE5NzRmODMwIOaYr+aWh+aho+e6p+adoeebru+8iOagh+mimOKJiOaWh+aho+WQjeOAjOWbveaciei1hOS6p+euoeeQhuWKnuazle+8iGd6Yy5jdWPvvInjgI3vvInvvIzml6DlvJXmlofvvIzmjInnuqblrprliJfov5vmlofmoaPnuqcgaXRlbXMg5bm26JC95Zyo56ys5LiA6IqC77yI6aG16Z2i5qGG5p6277yJ44CCIiwKICAgICLjgIzpg6jpl6jmpoLlhrXjgI3mraPmlofmmK/kuIDmlbTmrrXplb/mlofvvIjnrKwzMuihjO+8ie+8jOWFtuS4i+S4g+mhuee8luWPt+iBjOi0o+S4juesrDMy6KGM5ZCM5Zyo5LiA6KGM5YaF77yM5pyq5ouG6IqC77yb56ysMzPooYzjgIzmn6XnnIvor6bmg4XjgI3pk77mjqXpmo/mnKzoioLjgIIiLAogICAgIuOAjOacjeWKoeWFpeWPo+OAjeWMuuWdl+WGheWQq+mHjeWkjeeahOermeWGheWbvuagh+mTvuaOpeihjO+8iOesrDM34oCUNDTooYzlj6rmnInjgIxcIj7jgI3jgIzluLjnlKjkuIvovb3jgI3nrYnlm77moIfljaDkvY3vvInvvIxwdC1mMGY5OTllZjMxIOeahOW8leaWh+WNs+OAjOi1hOS6p+euoeeQhuW5s+WPsFwiPumbtuaVo+mHh+i0reezu+e7n1wiPuWFrOaIv+euoeeQhuezu+e7n+OAje+8jOaVheesrDM04oCUNDTooYzlkIjmiJDkuIDoioLjgIIiLAogICAgIuesrDc16KGM5Li65qih5p2/5Y2g5L2N5paH5a2X44CM5qCH6aKYMzLjgI3vvIjljp/mlofmnKrmm7/mjaLnmoTmoI/nm67lkI3vvInvvIzpmo/jgIzmiL/lsYvkuqTmmJPjgI3oioLkv53nlZnvvIzkuI3orqHlhaXmnaHnm67jgIIiLAogICAgIuesrDk34oCUMTAz6KGM5Li66aG16ISa77ya5Zyw5Z2A44CB6YKu57yW44CB54mI5p2D5LiO5LqsSUNQ5aSH5qGI44CB5oqA5pyv5pSv5oyB44CB5Zue5Yiw6aG26YOo5LiO6K6/6Zeu6K6h5pWw77yM5Y2V5YiX5pyr6IqC44CCIgogIF0KfQo=
+{
+  "key": "8ba974f830",
+  "title": "中国传媒大学-国有资产管理处",
+  "truncated": false,
+  "sections": [
+    {
+      "no": "—",
+      "heading": "页面框架：站点标识、顶部链接与栏目导航",
+      "heading_kind": "derived",
+      "lines": [1, 30],
+      "items": ["rule-8ba974f830"],
+      "chars": 370
+    },
+    {
+      "no": "—",
+      "heading": "部门概况",
+      "heading_kind": "author",
+      "lines": [31, 33],
+      "items": ["pt-884be14992"],
+      "chars": 564
+    },
+    {
+      "no": "—",
+      "heading": "服务入口",
+      "heading_kind": "author",
+      "lines": [34, 44],
+      "items": ["pt-3ea4e08029", "pt-f0f999ef31"],
+      "chars": 198
+    },
+    {
+      "no": "—",
+      "heading": "工作动态",
+      "heading_kind": "author",
+      "lines": [45, 54],
+      "items": ["pt-87949110fc", "pt-ed8bc245dd"],
+      "chars": 228
+    },
+    {
+      "no": "—",
+      "heading": "通知公告",
+      "heading_kind": "author",
+      "lines": [55, 64],
+      "items": ["pt-258862cf8c"],
+      "chars": 188
+    },
+    {
+      "no": "—",
+      "heading": "房屋交易",
+      "heading_kind": "author",
+      "lines": [65, 76],
+      "items": ["pt-0520efdc94"],
+      "chars": 284
+    },
+    {
+      "no": "—",
+      "heading": "办公指南",
+      "heading_kind": "author",
+      "lines": [77, 83],
+      "items": ["pt-90f9d24717"],
+      "chars": 38
+    },
+    {
+      "no": "—",
+      "heading": "微信公众号",
+      "heading_kind": "author",
+      "lines": [84, 87],
+      "items": ["pt-5f6219286c"],
+      "chars": 220
+    },
+    {
+      "no": "—",
+      "heading": "友情链接",
+      "heading_kind": "author",
+      "lines": [88, 96],
+      "items": [],
+      "chars": 80
+    },
+    {
+      "no": "—",
+      "heading": "关于我们",
+      "heading_kind": "author",
+      "lines": [97, 103],
+      "items": [],
+      "chars": 206
+    }
+  ],
+  "items": ["rule-8ba974f830", "pt-884be14992", "pt-3ea4e08029", "pt-f0f999ef31", "pt-87949110fc", "pt-ed8bc245dd", "pt-258862cf8c", "pt-0520efdc94", "pt-90f9d24717", "pt-5f6219286c"],
+  "notes": [
+    "原文是国有资产管理处网站首页，非公文：无章条结构，只有栏目区块标题，因此全部节 no 用「—」。",
+    "第1—30行为页面框架：站点名、logo 与图片附件路径、本校师生／融合门户／校外VPN／校园邮箱等顶部链接、一级与二级栏目菜单（首页、部门概况、机构设置、联系方式、规章制度，及通知公告、党建专栏、办公指南、资产信息业务等）、服务入口与常用下载导航，无原文小标题，合并为一节（derived）。",
+    "rule-8ba974f830 是文档级条目（标题≈文档名「国有资产管理办法（gzc.cuc）」），无引文，按约定列进文档级 items 并落在第一节（页面框架）。",
+    "「部门概况」正文是一整段长文（第32行），其下七项编号职责与第32行同在一行内，未拆节；第33行「查看详情」链接随本节。",
+    "「服务入口」区块内含重复的站内图标链接行（第37—44行只有「\">」「常用下载」等图标占位），pt-f0f999ef31 的引文即「资产管理平台\">零散采购系统\">公房管理系统」，故第34—44行合成一节。",
+    "第75行为模板占位文字「标题32」（原文未替换的栏目名），随「房屋交易」节保留，不计入条目。",
+    "第97—103行为页脚：地址、邮编、版权与京ICP备案、技术支持、回到顶部与访问计数，单列末节。"
+  ]
+}

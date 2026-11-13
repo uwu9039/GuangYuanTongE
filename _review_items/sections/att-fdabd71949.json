@@ -1,1 +1,105 @@
-ewogImtleSI6ICJhdHQtZmRhYmQ3MTk0OSIsCiAidGl0bGUiOiAi5YWz5LqO5Y2w5Y+R44CK5Lit5Zu95Lyg5aqS5aSn5a2m5Y2w56ug566h55CG5Yqe5rOV44CL55qE6YCa55+l77yI5Lit5Lyg5pS/5a2X44CUMjAyMuOAlTI3NeWPt++8iSIsCiAidHJ1bmNhdGVkIjogZmFsc2UsCiAic2VjdGlvbnMiOiBbCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi5YWz5LqO5Y2w5Y+R44CK5Lit5Zu95Lyg5aqS5aSn5a2m5Y2w56ug566h55CG5Yqe5rOV44CL55qE6YCa55+lIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbMSwgMTZdLAogICAiaXRlbXMiOiBbInB0LTVhZWI5Mzk1YWUiLCAicHQtMmY0NmVjMzQxOCJdLAogICAiY2hhcnMiOiAzMDgKICB9LAogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIuWKnuazleagh+mimOS4juesrOS4gOeroOaAu+WImSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFsxOSwgNDVdLAogICAiaXRlbXMiOiBbInB0LWE3YmQ0NWFkN2QiXSwKICAgImNoYXJzIjogNTIzCiAgfSwKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLkuK3lm73kvKDlqpLlpKflrabljbDnq6DnrqHnkIblip7ms5UiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsxOSwgMTldLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogMzAKICB9LAogIHsKICAgIm5vIjogIuesrOS4gOeroCIsCiAgICJoZWFkaW5nIjogIuaAu+WImSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzIxLCA0NV0sCiAgICJpdGVtcyI6IFsicHQtNzYzNmY1YjU3MSIsICJwdC03OGMyMGQ2MmMxIiwgInB0LTUwODRhMDgwOGEiLCAicHQtN2M3MzdmMjZkMCIsICJwdC00NTQ4OWM1NWMyIiwgInB0LWE0MjQyYTU4NzkiLCAicHQtZjg3ZjlhM2U1OSJdLAogICAiY2hhcnMiOiA0OTMKICB9LAogIHsKICAgIm5vIjogIuesrOS6jOeroCIsCiAgICJoZWFkaW5nIjogIuWNsOeroOinhOagvOS4juagt+W8jyIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzQ3LCA1OV0sCiAgICJpdGVtcyI6IFsicHQtZDU3M2JhN2E3MyIsICJwdC0wNTMyNTY1ZjE5IiwgInB0LWIzYzQ4YWY5OTgiXSwKICAgImNoYXJzIjogMjQ4CiAgfSwKICB7CiAgICJubyI6ICLnrKzkuInnq6AiLAogICAiaGVhZGluZyI6ICLljbDnq6DliLvliLbjgIHlkK/nlKjlkozlup/mraIiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs2MSwgMTA2XSwKICAgIml0ZW1zIjogWyJwdC0wZjViZTE5OWY5IiwgInB0LTI1YjhhNTUwNWEiLCAicHQtZDU2MTAzMGJiYSIsICJwdC0wYjQzNGU0ZmRhIiwgInB0LWVmNGNkOTMxMjQiLCAicHQtNjJkNzBkM2ExNiIsICJwdC0zZDQ5Y2Q1Y2Y4IiwgInB0LTg5ZGMxMmE2MzkiLCAicHQtNTZkNTAzZTBhNSIsICJwdC0xNGVmMTlkNThlIiwgInB0LTE5Njc4Nzk0YjciLCAicHQtZDM4Nzk4OTBkMyJdLAogICAiY2hhcnMiOiA4OTUKICB9LAogIHsKICAgIm5vIjogIuesrOWbm+eroCIsCiAgICJoZWFkaW5nIjogIuWNsOeroOS/neeuoSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzEwOCwgMTI1XSwKICAgIml0ZW1zIjogWyJwdC0xMGZiZGQwODI1IiwgInB0LWMyMjdlMDE2MjciLCAicHQtNGZkNjZjMjk3NyIsICJwdC00ZGJjYTE5NmI5Il0sCiAgICJjaGFycyI6IDMwNAogIH0sCiAgewogICAibm8iOiAi56ys5LqU56ugIiwKICAgImhlYWRpbmciOiAi5Y2w56ug5L2/55SoIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbMTI3LCAyMjZdLAogICAiaXRlbXMiOiBbInB0LTY1NDA0ODRiODYiLCAicHQtOTA4ZTc2MTNiMyIsICJwdC0xNmQ1NmNjMWRjIiwgInB0LTNlNDM3MzhjYjQiLCAicHQtZTAyZGUzZDVhYyIsICJwdC05ZDA5YzFkNmJhIiwgInB0LTRjNWExOGEwNTkiLCAicHQtMjQ4ZWNlODE0NSIsICJwdC03NTAzN2IzZTgzIiwgInB0LWQ1M2M2OTc0ZDEiLCAicHQtZjg4YmQxODQ2MCIsICJwdC0wOTQyYjkzYjZjIiwgInB0LTEwOTM2NTY4YmIiLCAicHQtN2JiZTlmOTAxNiIsICJwdC02NTlhNzA2OTAxIiwgInB0LWQ3YzJkYmY1YjUiLCAicHQtNWY4NGUxMWE4ZCIsICJwdC1lODdlMGFmYTU5IiwgInB0LTU2MTE1MzBiODMiLCAicHQtNTdhM2ZiMWMyYSIsICJwdC1mMzc3M2UyNTZiIiwgInB0LTM3MzQ2M2VhZTQiLCAicHQtNTdjOTRiNmMwOSIsICJwdC02MDA1OWJhMTJjIiwgInB0LWZhZjgwNjY4YzMiLCAicHQtNGIzMmIzMzdhZiIsICJwdC01NmJkMTMwYmYyIiwgInB0LTQyMGJlMmYwMDIiLCAicHQtODI1MzVlNDMxOCIsICJwdC0yNjkzYjdiYzJjIl0sCiAgICJjaGFycyI6IDE5MTcKICB9LAogIHsKICAgIm5vIjogIuesrOWFreeroCIsCiAgICJoZWFkaW5nIjogIui0o+S7uyIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzIyOCwgMjQ4XSwKICAgIml0ZW1zIjogWyJwdC05N2Q1ZjQ0MDZlIiwgInB0LWRmMGZlZGEwNGQiLCAicHQtOGY3YmFjMGEyNCIsICJwdC00YmQyNTVkYmFhIl0sCiAgICJjaGFycyI6IDM5MQogIH0sCiAgewogICAibm8iOiAi56ys5LiD56ugIiwKICAgImhlYWRpbmciOiAi6ZmE5YiZIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbMjUwLCAyNTddLAogICAiaXRlbXMiOiBbInB0LTNmNWM1ODc1ZjQiLCAicHQtNmQzM2NmZjQ2ZiJdLAogICAiY2hhcnMiOiAyNzAKICB9LAogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIumZhOS7tua4heWNleS4juWNsOWPkeS/oeaBryIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFsyNTksIDI2Ml0sCiAgICJpdGVtcyI6IFsicHQtMmNjYWRlNzk4NCJdLAogICAiY2hhcnMiOiA5MQogIH0KIF0sCiAiaXRlbXMiOiBbInB0LTVhZWI5Mzk1YWUiLCAicHQtMmY0NmVjMzQxOCIsICJwdC1hN2JkNDVhZDdkIiwgInB0LTc2MzZmNWI1NzEiLCAicHQtNzhjMjBkNjJjMSIsICJwdC01MDg0YTA4MDhhIiwgInB0LTdjNzM3ZjI2ZDAiLCAicHQtNDU0ODljNTVjMiIsICJwdC1hNDI0MmE1ODc5IiwgInB0LWY4N2Y5YTNlNTkiLCAicHQtZDU3M2JhN2E3MyIsICJwdC0wNTMyNTY1ZjE5IiwgInB0LWIzYzQ4YWY5OTgiLCAicHQtMGY1YmUxOTlmOSIsICJwdC0yNWI4YTU1MDVhIiwgInB0LWQ1NjEwMzBiYmEiLCAicHQtMGI0MzRlNGZkYSIsICJwdC1lZjRjZDkzMTI0IiwgInB0LTYyZDcwZDNhMTYiLCAicHQtM2Q0OWNkNWNmOCIsICJwdC04OWRjMTJhNjM5IiwgInB0LTU2ZDUwM2UwYTUiLCAicHQtMTRlZjE5ZDU4ZSIsICJwdC0xOTY3ODc5NGI3IiwgInB0LWQzODc5ODkwZDMiLCAicHQtMTBmYmRkMDgyNSIsICJwdC1jMjI3ZTAxNjI3IiwgInB0LTRmZDY2YzI5NzciLCAicHQtNGRiY2ExOTZiOSIsICJwdC02NTQwNDg0Yjg2IiwgInB0LTkwOGU3NjEzYjMiLCAicHQtMTZkNTZjYzFkYyIsICJwdC0zZTQzNzM4Y2I0IiwgInB0LWUwMmRlM2Q1YWMiLCAicHQtOWQwOWMxZDZiYSIsICJwdC00YzVhMThhMDU5IiwgInB0LTI0OGVjZTgxNDUiLCAicHQtNzUwMzdiM2U4MyIsICJwdC1kNTNjNjk3NGQxIiwgInB0LWY4OGJkMTg0NjAiLCAicHQtMDk0MmI5M2I2YyIsICJwdC0xMDkzNjU2OGJiIiwgInB0LTdiYmU5ZjkwMTYiLCAicHQtNjU5YTcwNjkwMSIsICJwdC1kN2MyZGJmNWI1IiwgInB0LTVmODRlMTFhOGQiLCAicHQtZTg3ZTBhZmE1OSIsICJwdC01NjExNTMwYjgzIiwgInB0LTU3YTNmYjFjMmEiLCAicHQtZjM3NzNlMjU2YiIsICJwdC0zNzM0NjNlYWU0IiwgInB0LTU3Yzk0YjZjMDkiLCAicHQtNjAwNTliYTEyYyIsICJwdC1mYWY4MDY2OGMzIiwgInB0LTRiMzJiMzM3YWYiLCAicHQtNTZiZDEzMGJmMiIsICJwdC00MjBiZTJmMDAyIiwgInB0LTgyNTM1ZTQzMTgiLCAicHQtMjY5M2I3YmMyYyIsICJwdC05N2Q1ZjQ0MDZlIiwgInB0LWRmMGZlZGEwNGQiLCAicHQtOGY3YmFjMGEyNCIsICJwdC00YmQyNTVkYmFhIiwgInB0LTNmNWM1ODc1ZjQiLCAicHQtNmQzM2NmZjQ2ZiIsICJwdC0yY2NhZGU3OTg0Il0sCiAibm90ZXMiOiBbCiAgIuWOn+aWh+S4uiBQREYg5oq95Y+W77ya56ysIDEg6KGM5paH5Y+344CB56ysIDMtNCDooYzmoIfpopjvvIjmipjooYzvvInjgIHnrKwgNiDooYzkuLvpgIHjgIHnrKwgNy0xMyDooYzmraPmlofjgIHnrKwgMTQtMTYg6KGM572y5ZCN5LiO5pel5pyf77yM5ZCI5Li66YCa55+l6IqC44CCIiwKICAi57qv6aG156CB6KGM77yI56ysIDE4IOihjCAtMS3jgIHnrKwgNDQg6KGMIC0yLeOAgeesrCA3My8xMDQvMTM1LzE2Mi8xOTUvMjIzLzI1MyDooYzjgIHnrKwgMjYzIOihjCAtMTAt77yJ5oyJ6IqC6aaW5Yik5o2u5LiN5Y2V5YiX5Li66IqC77yb5YW25Lit56ysIDQ0LzczLzEwNC8xMzUvMTYyLzE5NS8yMjMvMjUzIOihjOiQveWcqOaJgOWxnuiKguWMuumXtOWGhe+8jOesrCAxOOOAgTI2MyDkuKTooYzkuI3lsZ7kuo7ku7vkvZXoioLvvIjpppblsL7pobXnoIHvvInjgIIiLAogICJwdC1hN2JkNDVhZDdkIOeahOW8leaWh+i1t+eCueWcqOesrCAxOSDooYzjgIzkuK3lm73kvKDlqpLlpKflrabljbDnq6DnrqHnkIblip7ms5XjgI3lpKfmoIfpopjvvIzmiormoIfpopjjgIHnq6DpopjjgIznrKzkuIDnq6Ag5oC75YiZ44CN5LiO56ys5LiA5p2h6L+e5oiQ5LiA5Y+l77yM5Y+q6IO96JC95Zyo56ug57qn54i26IqC77yM5pWF6K6+54i26IqC44CM5Yqe5rOV5qCH6aKY5LiO56ys5LiA56ug5oC75YiZ44CN77yIMTktNDUg6KGM77yJ77yM5a2Q6IqC5Li65qCH6aKY6IqC77yIMTkg6KGM77yJ5LiO56ys5LiA56ug77yIMjEtNDUg6KGM77yJ77yM5peg6YOo5YiG5Lqk5Y+g44CCIiwKICAi56ysIDQyIOihjOOAjOesrOOAjeS4juesrCA0NSDooYzjgIzkuIDotKPku7vkurrigKbjgI3ooqvpobXnoIHooYwgLTItIOWIh+aWre+8jHB0LWY4N2Y5YTNlNTkg55qE5byV5paH5q2j6LW35LqO56ysIDQ1IOihjOOAjOS4gOi0o+S7u+S6uuOAje+8jOaVheWIl+WcqOesrOS4gOeroOOAgiIsCiAgIuesrOS6lOeroOadoeaWh+acgOWkmu+8iOesrOWNgeWFre+9nuS6jOWNgeWFreadoe+8ie+8jOWFtuS4reesrOWNgeWFreadoe+8iOS4gO+8ie+9nu+8iOWFq++8ieOAgeesrOWNgeWFq+adoe+8iOS4gO+8ie+9nu+8iOS4ie+8ieOAgeesrOWNgeS5neadoe+8iOS4gO+8ie+9nu+8iOWbm++8ieOAgeesrOS6jOWNgeWbm+adoe+8iOS4gO+8ie+9nu+8iOWFre+8ieS4uuivpeeroOadoeaWh+WGheWIhumhue+8jOS4jeWNleWIl+iKgu+8jOWFqOmDqOW5tuWFpeesrOS6lOeroOOAgiIsCiAgIuesrCAyNTktMjYwIOihjOS4uuS4pOS7veeUs+ivt+ihqOeahOmZhOS7tua4heWNleOAgeesrCAyNjIg6KGM5Li644CM5Li75Yqo5YWs5byA77yP5Y2w5Y+R44CN5L+h5oGv77yM5ZCI5Li65LiA6IqC77ybcHQtMmNjYWRlNzk4NCDnmoTlvJXmlofmraPlnKjmraTljLrpl7TjgIIiLAogICLnq6DmoIfpopjljp/mloflkKvlhajop5LnqbrmoLzvvIjjgIznrKzkuIDnq6Ag5oC7IOWImeOAjeOAjOesrOWFreeroCDotKMg5Lu744CN44CM56ys5LiD56ugIOmZhCDliJnjgI3vvInvvIxoZWFkaW5nIOWPluWOu+aOieepuuagvOeahOOAjOaAu+WImeOAjeOAjOi0o+S7u+OAjeOAjOmZhOWImeOAje+8jOaMieW/veeVpeepuueZveWPo+W+hOWPr+WcqOacrOeroOWMuumXtOmAkOWtl+WRveS4reOAgiIKIF0KfQo=
+{
+ "key": "att-fdabd71949",
+ "title": "关于印发《中国传媒大学印章管理办法》的通知（中传政字〔2022〕275号）",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "关于印发《中国传媒大学印章管理办法》的通知",
+   "heading_kind": "author",
+   "lines": [1, 16],
+   "items": ["pt-5aeb9395ae", "pt-2f46ec3418"],
+   "chars": 308
+  },
+  {
+   "no": "—",
+   "heading": "办法标题与第一章总则",
+   "heading_kind": "derived",
+   "lines": [19, 45],
+   "items": ["pt-a7bd45ad7d"],
+   "chars": 523
+  },
+  {
+   "no": "—",
+   "heading": "中国传媒大学印章管理办法",
+   "heading_kind": "author",
+   "lines": [19, 19],
+   "items": [],
+   "chars": 30
+  },
+  {
+   "no": "第一章",
+   "heading": "总则",
+   "heading_kind": "author",
+   "lines": [21, 45],
+   "items": ["pt-7636f5b571", "pt-78c20d62c1", "pt-5084a0808a", "pt-7c737f26d0", "pt-45489c55c2", "pt-a4242a5879", "pt-f87f9a3e59"],
+   "chars": 493
+  },
+  {
+   "no": "第二章",
+   "heading": "印章规格与样式",
+   "heading_kind": "author",
+   "lines": [47, 59],
+   "items": ["pt-d573ba7a73", "pt-0532565f19", "pt-b3c48af998"],
+   "chars": 248
+  },
+  {
+   "no": "第三章",
+   "heading": "印章刻制、启用和废止",
+   "heading_kind": "author",
+   "lines": [61, 106],
+   "items": ["pt-0f5be199f9", "pt-25b8a5505a", "pt-d561030bba", "pt-0b434e4fda", "pt-ef4cd93124", "pt-62d70d3a16", "pt-3d49cd5cf8", "pt-89dc12a639", "pt-56d503e0a5", "pt-14ef19d58e", "pt-19678794b7", "pt-d3879890d3"],
+   "chars": 895
+  },
+  {
+   "no": "第四章",
+   "heading": "印章保管",
+   "heading_kind": "author",
+   "lines": [108, 125],
+   "items": ["pt-10fbdd0825", "pt-c227e01627", "pt-4fd66c2977", "pt-4dbca196b9"],
+   "chars": 304
+  },
+  {
+   "no": "第五章",
+   "heading": "印章使用",
+   "heading_kind": "author",
+   "lines": [127, 226],
+   "items": ["pt-6540484b86", "pt-908e7613b3", "pt-16d56cc1dc", "pt-3e43738cb4", "pt-e02de3d5ac", "pt-9d09c1d6ba", "pt-4c5a18a059", "pt-248ece8145", "pt-75037b3e83", "pt-d53c6974d1", "pt-f88bd18460", "pt-0942b93b6c", "pt-10936568bb", "pt-7bbe9f9016", "pt-659a706901", "pt-d7c2dbf5b5", "pt-5f84e11a8d", "pt-e87e0afa59", "pt-5611530b83", "pt-57a3fb1c2a", "pt-f3773e256b", "pt-373463eae4", "pt-57c94b6c09", "pt-60059ba12c", "pt-faf80668c3", "pt-4b32b337af", "pt-56bd130bf2", "pt-420be2f002", "pt-82535e4318", "pt-2693b7bc2c"],
+   "chars": 1917
+  },
+  {
+   "no": "第六章",
+   "heading": "责任",
+   "heading_kind": "author",
+   "lines": [228, 248],
+   "items": ["pt-97d5f4406e", "pt-df0feda04d", "pt-8f7bac0a24", "pt-4bd255dbaa"],
+   "chars": 391
+  },
+  {
+   "no": "第七章",
+   "heading": "附则",
+   "heading_kind": "author",
+   "lines": [250, 257],
+   "items": ["pt-3f5c5875f4", "pt-6d33cff46f"],
+   "chars": 270
+  },
+  {
+   "no": "—",
+   "heading": "附件清单与印发信息",
+   "heading_kind": "derived",
+   "lines": [259, 262],
+   "items": ["pt-2ccade7984"],
+   "chars": 91
+  }
+ ],
+ "items": ["pt-5aeb9395ae", "pt-2f46ec3418", "pt-a7bd45ad7d", "pt-7636f5b571", "pt-78c20d62c1", "pt-5084a0808a", "pt-7c737f26d0", "pt-45489c55c2", "pt-a4242a5879", "pt-f87f9a3e59", "pt-d573ba7a73", "pt-0532565f19", "pt-b3c48af998", "pt-0f5be199f9", "pt-25b8a5505a", "pt-d561030bba", "pt-0b434e4fda", "pt-ef4cd93124", "pt-62d70d3a16", "pt-3d49cd5cf8", "pt-89dc12a639", "pt-56d503e0a5", "pt-14ef19d58e", "pt-19678794b7", "pt-d3879890d3", "pt-10fbdd0825", "pt-c227e01627", "pt-4fd66c2977", "pt-4dbca196b9", "pt-6540484b86", "pt-908e7613b3", "pt-16d56cc1dc", "pt-3e43738cb4", "pt-e02de3d5ac", "pt-9d09c1d6ba", "pt-4c5a18a059", "pt-248ece8145", "pt-75037b3e83", "pt-d53c6974d1", "pt-f88bd18460", "pt-0942b93b6c", "pt-10936568bb", "pt-7bbe9f9016", "pt-659a706901", "pt-d7c2dbf5b5", "pt-5f84e11a8d", "pt-e87e0afa59", "pt-5611530b83", "pt-57a3fb1c2a", "pt-f3773e256b", "pt-373463eae4", "pt-57c94b6c09", "pt-60059ba12c", "pt-faf80668c3", "pt-4b32b337af", "pt-56bd130bf2", "pt-420be2f002", "pt-82535e4318", "pt-2693b7bc2c", "pt-97d5f4406e", "pt-df0feda04d", "pt-8f7bac0a24", "pt-4bd255dbaa", "pt-3f5c5875f4", "pt-6d33cff46f", "pt-2ccade7984"],
+ "notes": [
+  "原文为 PDF 抽取：第 1 行文号、第 3-4 行标题（折行）、第 6 行主送、第 7-13 行正文、第 14-16 行署名与日期，合为通知节。",
+  "纯页码行（第 18 行 -1-、第 44 行 -2-、第 73/104/135/162/195/223/253 行、第 263 行 -10-）按节首判据不单列为节；其中第 44/73/104/135/162/195/223/253 行落在所属节区间内，第 18、263 两行不属于任何节（首尾页码）。",
+  "pt-a7bd45ad7d 的引文起点在第 19 行「中国传媒大学印章管理办法」大标题，把标题、章题「第一章 总则」与第一条连成一句，只能落在章级父节，故设父节「办法标题与第一章总则」（19-45 行），子节为标题节（19 行）与第一章（21-45 行），无部分交叠。",
+  "第 42 行「第」与第 45 行「一责任人…」被页码行 -2- 切断，pt-f87f9a3e59 的引文正起于第 45 行「一责任人」，故列在第一章。",
+  "第五章条文最多（第十六～二十六条），其中第十六条（一）～（八）、第十八条（一）～（三）、第十九条（一）～（四）、第二十四条（一）～（六）为该章条文内分项，不单列节，全部并入第五章。",
+  "第 259-260 行为两份申请表的附件清单、第 262 行为「主动公开／印发」信息，合为一节；pt-2ccade7984 的引文正在此区间。",
+  "章标题原文含全角空格（「第一章 总 则」「第六章 责 任」「第七章 附 则」），heading 取去掉空格的「总则」「责任」「附则」，按忽略空白口径可在本章区间逐字命中。"
+ ]
+}

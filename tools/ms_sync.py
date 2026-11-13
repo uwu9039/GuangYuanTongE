@@ -1,1 +1,60 @@
-IiIi5oqK44CM6K+l5Y+R5biD55qE6YKj6YOo5YiG44CN5ZCM5q2l5Yiw5LiA5Liq5beyIGNsb25lIOWlveeahOS7k+W6k+ebruW9le+8iOWIm+epuumXtCAvIOWFtuWugyBHaXQg6L+c56uv77yJ44CCCgogICAgZ2l0IGNsb25lIDzku5PlupM+IC90bXAvc3BhY2UKICAgIHB5dGhvbiB0b29scy9tc19zeW5jLnB5IC0tZGVzdCAvdG1wL3NwYWNlIFstLXdpdGgtYXJjaGl2ZV0KCuWPquimhuebluWQjOWQjeaWh+S7tu+8jOS4jeWIoOmZpOebruagh+mHjOW3suacieeahOS4nOilv++8iOi/nOerr+WPr+iDveaciSB2ZWN0b3JzLm5weS5wYXJ0KiDkuYvnsbsK5oiR5Lus5pys5Zyw5LiN5LiK5Lyg55qE5aSn5paH5Lu277yJ44CC5riF5Y2V5LiOIEdpdEh1YiDpgqPovrnlkIzkuIDku73vvIhgdG9vbHMvcHJlcHVibGlzaC5weWDvvInjgIIKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBhcmdwYXJzZQppbXBvcnQgc2h1dGlsCmltcG9ydCBzeXMKZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCgpST09UID0gUGF0aChfX2ZpbGVfXykucmVzb2x2ZSgpLnBhcmVudHNbMV0Kc3lzLnBhdGguaW5zZXJ0KDAsIHN0cihST09UKSkKCmZyb20gdG9vbHMucHJlcHVibGlzaCBpbXBvcnQgd2FsayAgIyBub3FhOiBFNDAyCgoKZGVmIG1haW4oKSAtPiBpbnQ6CiAgICBhcCA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKCkKICAgIGFwLmFkZF9hcmd1bWVudCgiLS1kZXN0IiwgcmVxdWlyZWQ9VHJ1ZSkKICAgIGFwLmFkZF9hcmd1bWVudCgiLS13aXRoLWFyY2hpdmUiLCBhY3Rpb249InN0b3JlX3RydWUiLAogICAgICAgICAgICAgICAgICAgIGhlbHA9IumhuuW4puaLtyBzb3VyY2VzLWFyY2hpdmUudGFyLmd677yI56a757q/6YeN5bu65q2j5paH5qCR55So77yMNyBNQu+8iSIpCiAgICBhcC5hZGRfYXJndW1lbnQoIi0td2l0aC12ZWN0b3IiLCBhY3Rpb249InN0b3JlX3RydWUiLAogICAgICAgICAgICAgICAgICAgIGhlbHA9IumhuuW4puaLtyBzb3VyY2VzL3ZlY3Rvci92ZWN0b3JzLm5weS5wYXJ0Ku+8iDIwNCBNQu+8jOWOn+aWh+ivreS5ieajgOe0oueUqO+8iSIpCiAgICBhcmdzID0gYXAucGFyc2VfYXJncygpCgogICAgZGVzdCA9IFBhdGgoYXJncy5kZXN0KS5yZXNvbHZlKCkKICAgIGlmIG5vdCAoZGVzdCAvICIuZ2l0IikuZXhpc3RzKCk6CiAgICAgICAgcmFpc2UgU3lzdGVtRXhpdChmIntkZXN0fSDkuI3mmK/kuIDkuKogZ2l0IOS7k+W6k++8iOWFiCBjbG9uZe+8iSIpCgogICAgbiA9IDAKICAgIGZvciBwIGluIHdhbGsoKToKICAgICAgICByZWwgPSBwLnJlbGF0aXZlX3RvKFJPT1QpCiAgICAgICAgb3V0ID0gZGVzdCAvIHJlbAogICAgICAgIG91dC5wYXJlbnQubWtkaXIocGFyZW50cz1UcnVlLCBleGlzdF9vaz1UcnVlKQogICAgICAgIHNodXRpbC5jb3B5MihwLCBvdXQpCiAgICAgICAgbiArPSAxCgogICAgZXh0cmE6IGxpc3RbUGF0aF0gPSBbXQogICAgaWYgYXJncy53aXRoX2FyY2hpdmUgYW5kIChST09UIC8gInNvdXJjZXMtYXJjaGl2ZS50YXIuZ3oiKS5leGlzdHMoKToKICAgICAgICBleHRyYS5hcHBlbmQoUk9PVCAvICJzb3VyY2VzLWFyY2hpdmUudGFyLmd6IikKICAgIGlmIGFyZ3Mud2l0aF92ZWN0b3I6CiAgICAgICAgZXh0cmEgKz0gc29ydGVkKChST09UIC8gInNvdXJjZXMiIC8gInZlY3RvciIpLmdsb2IoInZlY3RvcnMubnB5LnBhcnQqIikpCiAgICBmb3IgcCBpbiBleHRyYToKICAgICAgICBvdXQgPSBkZXN0IC8gcC5yZWxhdGl2ZV90byhST09UKQogICAgICAgIG91dC5wYXJlbnQubWtkaXIocGFyZW50cz1UcnVlLCBleGlzdF9vaz1UcnVlKQogICAgICAgIHNodXRpbC5jb3B5MihwLCBvdXQpCiAgICAgICAgbiArPSAxCgogICAgbWIgPSBzdW0oZi5zdGF0KCkuc3Rfc2l6ZSBmb3IgZiBpbiBkZXN0LnJnbG9iKCIqIikgaWYgZi5pc19maWxlKCkpIC8gMTAyNCAvIDEwMjQKICAgIHByaW50KGYi5ZCM5q2lIHtufSDkuKrmlofku7bliLAge2Rlc3R977yI55uu5qCH5YWxIHttYjouMWZ9IE1C77yJIikKICAgIHJldHVybiAwCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHN5cy5leGl0KG1haW4oKSkK
+"""把「该发布的那部分」同步到一个已 clone 好的仓库目录（创空间 / 其它 Git 远端）。
+
+    git clone <仓库> /tmp/space
+    python tools/ms_sync.py --dest /tmp/space [--with-archive]
+
+只覆盖同名文件，不删除目标里已有的东西（远端可能有 vectors.npy.part* 之类
+我们本地不上传的大文件）。清单与 GitHub 那边同一份（`tools/prepublish.py`）。
+"""
+from __future__ import annotations
+
+import argparse
+import shutil
+import sys
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT))
+
+from tools.prepublish import walk  # noqa: E402
+
+
+def main() -> int:
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--dest", required=True)
+    ap.add_argument("--with-archive", action="store_true",
+                    help="顺带拷 sources-archive.tar.gz（离线重建正文树用，7 MB）")
+    ap.add_argument("--with-vector", action="store_true",
+                    help="顺带拷 sources/vector/vectors.npy.part*（204 MB，原文语义检索用）")
+    args = ap.parse_args()
+
+    dest = Path(args.dest).resolve()
+    if not (dest / ".git").exists():
+        raise SystemExit(f"{dest} 不是一个 git 仓库（先 clone）")
+
+    n = 0
+    for p in walk():
+        rel = p.relative_to(ROOT)
+        out = dest / rel
+        out.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(p, out)
+        n += 1
+
+    extra: list[Path] = []
+    if args.with_archive and (ROOT / "sources-archive.tar.gz").exists():
+        extra.append(ROOT / "sources-archive.tar.gz")
+    if args.with_vector:
+        extra += sorted((ROOT / "sources" / "vector").glob("vectors.npy.part*"))
+    for p in extra:
+        out = dest / p.relative_to(ROOT)
+        out.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(p, out)
+        n += 1
+
+    mb = sum(f.stat().st_size for f in dest.rglob("*") if f.is_file()) / 1024 / 1024
+    print(f"同步 {n} 个文件到 {dest}（目标共 {mb:.1f} MB）")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

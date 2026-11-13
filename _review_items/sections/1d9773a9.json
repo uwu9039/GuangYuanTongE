@@ -1,1 +1,127 @@
-ewogImtleSI6ICIxZDk3NzNhOSIsCiAidGl0bGUiOiAi5Zui5a2X44CUMjAyNuOAlTHlj7cg5YWz5LqO5oiR5qCh56ys5Y2B5pyf6Z2S5bm06ams5YWL5oCd5Li75LmJ5a2m6Zmi5a2m5ZGY5oub5Yuf6YCJ5ouU5bel5L2c55qE6YCa55+lIiwKICJ0cnVuY2F0ZWQiOiBmYWxzZSwKICJzZWN0aW9ucyI6IFsKICB7CiAgICJubyI6ICLmloflj7ciLAogICAiaGVhZGluZyI6ICLlm6LlrZfjgJQyMDI244CVMeWPtyIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzEsIDE4XSwKICAgIml0ZW1zIjogWyJydWxlLTFkOTc3M2E5IiwgInB0LTEyNTY2YjFjYWEiLCAicHQtMmNiN2UyNTA4YiJdLAogICAiY2hhcnMiOiAzOTIKICB9LAogIHsKICAgIm5vIjogIuS4gCIsCiAgICJoZWFkaW5nIjogIue7hOe7h+aetuaehCIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzE5LCAyM10sCiAgICJpdGVtcyI6IFsicHQtZDkzOTY4NDMyYyIsICJwdC1kOTM5Njg0MzJjLWZmYjIiXSwKICAgImNoYXJzIjogNjQKICB9LAogIHsKICAgIm5vIjogIuS6jCIsCiAgICJoZWFkaW5nIjogIuaLm+eUn+WvueixoSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzI0LCAyNl0sCiAgICJpdGVtcyI6IFsicHQtZDYyYmY1NGYzOCIsICJwdC1kNjJiZjU0ZjM4LWZmYjIiXSwKICAgImNoYXJzIjogNDYKICB9LAogIHsKICAgIm5vIjogIuS4iSIsCiAgICJoZWFkaW5nIjogIuaLm+eUn+adoeS7tiIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzI3LCA0NF0sCiAgICJpdGVtcyI6IFsicHQtMGVlYjAxZGMzYyIsICJwdC0wZWViMDFkYzNjLWZmYjIiLCAicHQtODg1MTk3MWNkMyIsICJwdC03Mzk3OWEzYzU0IiwgInB0LWYxNzg4NjljMjUiLCAicHQtNWE1OTIxY2Y5YiIsICJwdC1kMDBmZjZkNzNiIiwgInB0LTk2YmRmMjIwYmUiXSwKICAgImNoYXJzIjogNDM4CiAgfSwKICB7CiAgICJubyI6ICLlm5siLAogICAiaGVhZGluZyI6ICLlrabkuaDlronmjpLlj4rml6XluLjnrqHnkIYiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs0NSwgNjZdLAogICAiaXRlbXMiOiBbInB0LTFhYWNmOTIyMTIiLCAicHQtMWFhY2Y5MjIxMi1mZmIyIiwgInB0LWY3ZmM0N2ZkNTMiLCAicHQtNGUwYTY2NzAyMiIsICJwdC1mMzY1M2QwZGM0IiwgInB0LTc2NmVmZjg0OWMiLCAicHQtYmIyYzk2M2ZlZSJdLAogICAiY2hhcnMiOiA1MjYKICB9LAogIHsKICAgIm5vIjogIuS6lCIsCiAgICJoZWFkaW5nIjogIuW3peS9nOa1geeoiyIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzY3LCA4NV0sCiAgICJpdGVtcyI6IFsicHQtMGFjZWMwNDkzMiIsICJwdC1iZmY0MTAyMmU3IiwgInB0LTNjN2QwMGUzYTciLCAicHQtNzljOWMzNjI4OSIsICJwdC03Yzk2NWVkM2I3IiwgInB0LTA2Zjc0N2Q2ZWMiLCAicHQtYzZjOThiY2ZhNSIsICJwdC0xNGQ4NjBlZmJmIl0sCiAgICJjaGFycyI6IDQyNgogIH0sCiAgewogICAibm8iOiAi5YWtIiwKICAgImhlYWRpbmciOiAi5b2V5Y+W5YWs56S6IiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbODYsIDg4XSwKICAgIml0ZW1zIjogWyJwdC0wNDU1NWE1MWYwIiwgInB0LTA0NTU1YTUxZjAtZmZiMiJdLAogICAiY2hhcnMiOiA1OAogIH0sCiAgewogICAibm8iOiAi5LiDIiwKICAgImhlYWRpbmciOiAi5bel5L2c6KaB5rGCIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbODksIDkxXSwKICAgIml0ZW1zIjogWyJwdC02MTNhYmE0ZTU0IiwgInB0LTYxM2FiYTRlNTQtZmZiMiJdLAogICAiY2hhcnMiOiA1OQogIH0sCiAgewogICAibm8iOiAi6ZmE5Lu2IiwKICAgImhlYWRpbmciOiAi6ZmE5Lu255uu5b2V44CB6IGU57O75Lq65L+h5oGv5LiO6JC95qy+IiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzkyLCA5N10sCiAgICJpdGVtcyI6IFsicHQtNWYzYzk4ZDZhMSJdLAogICAiY2hhcnMiOiAxMTEKICB9CiBdLAogIml0ZW1zIjogWwogICJydWxlLTFkOTc3M2E5IiwKICAicHQtMTI1NjZiMWNhYSIsCiAgInB0LTJjYjdlMjUwOGIiLAogICJwdC1kOTM5Njg0MzJjIiwKICAicHQtZDkzOTY4NDMyYy1mZmIyIiwKICAicHQtZDYyYmY1NGYzOCIsCiAgInB0LWQ2MmJmNTRmMzgtZmZiMiIsCiAgInB0LTBlZWIwMWRjM2MiLAogICJwdC0wZWViMDFkYzNjLWZmYjIiLAogICJwdC04ODUxOTcxY2QzIiwKICAicHQtNzM5NzlhM2M1NCIsCiAgInB0LWYxNzg4NjljMjUiLAogICJwdC01YTU5MjFjZjliIiwKICAicHQtZDAwZmY2ZDczYiIsCiAgInB0LTk2YmRmMjIwYmUiLAogICJwdC0xYWFjZjkyMjEyIiwKICAicHQtMWFhY2Y5MjIxMi1mZmIyIiwKICAicHQtZjdmYzQ3ZmQ1MyIsCiAgInB0LTRlMGE2NjcwMjIiLAogICJwdC1mMzY1M2QwZGM0IiwKICAicHQtNzY2ZWZmODQ5YyIsCiAgInB0LWJiMmM5NjNmZWUiLAogICJwdC0wYWNlYzA0OTMyIiwKICAicHQtYmZmNDEwMjJlNyIsCiAgInB0LTNjN2QwMGUzYTciLAogICJwdC03OWM5YzM2Mjg5IiwKICAicHQtN2M5NjVlZDNiNyIsCiAgInB0LTA2Zjc0N2Q2ZWMiLAogICJwdC1jNmM5OGJjZmE1IiwKICAicHQtMTRkODYwZWZiZiIsCiAgInB0LTA0NTU1YTUxZjAiLAogICJwdC0wNDU1NWE1MWYwLWZmYjIiLAogICJwdC02MTNhYmE0ZTU0IiwKICAicHQtNjEzYWJhNGU1NC1mZmIyIiwKICAicHQtNWYzYzk4ZDZhMSIKIF0sCiAibm90ZXMiOiBbCiAgIuWOn+aWh+aYr+OAjOWbouWtl+OAlDIwMjbjgJUx5Y+344CN6YCa55+l77ya56ysIDHigJMxOCDooYzmmK/mloflj7fjgIHkuInooYzmoIfpopjjgIHkuLvpgIHljZXkvY3vvIjlkITlrabpmaLjgIHnoJTnqbbpmaLlm6Llp5Qv5Zui5oC75pSv77yJ5LiO6YCa55+l57yY6LW377yI5ZCr44CM6YCa55+l5aaC5LiL77ya44CN77yJ77yM56ysIDIw4oCTOTEg6KGM5piv5q2j5paH5LiD5p2h77yI5LiA44CB57uE57uH5p625p6E77yP5LqM44CB5oub55Sf5a+56LGh77yP5LiJ44CB5oub55Sf5p2h5Lu277yP5Zub44CB5a2m5Lmg5a6J5o6S5Y+K5pel5bi4566h55CG77yP5LqU44CB5bel5L2c5rWB56iL77yP5YWt44CB5b2V5Y+W5YWs56S677yP5LiD44CB5bel5L2c6KaB5rGC77yJ77yM56ysIDky4oCTOTcg6KGM5piv6ZmE5Lu255uu5b2V44CB6IGU57O75Lq655S16K+d5LiO5qCh5Zui5aeU6JC95qy+44CCIiwKICAi6KeE5YiZ5p2h55uuIHJ1bGUtMWQ5NzczYTkg5peg5byV5paH77yI5paH5qGj57qn77yJ77yM5YiX6L+b44CM5paH5Y+344CN6IqC44CCIiwKICAi56ysIDHjgIExOeOAgTM544CBNjHjgIE4MSDooYzmmK/ljp/mlofku7bpobXnoIHooYzvvIjjgIwx44CN44CMMuOAjeOAjDPjgI3jgIw044CN44CMNeOAje+8ie+8jOWIhuWIq+W5tuWFpeaWh+WPt++8j+S4gO+8j+S4ie+8j+Wbm++8j+S6lOiKgu+8jOS4jeWPpuiuvuiKgu+8m+mhteeggeihjOW1jOWcqOWPpeWtkOS4remXtOaXtu+8iOWmguesrCAzOSDooYzjgIwz44CN5aS55Zyo44CM4oCm5ZCE5bm057qn56CU56m255Sf5oiQ57up5o6S5ZCN6ZyA77yPM++8j+i+vuWIsOS4k+S4muWJjTMwJeOAjeS5i+mXtO+8ieaMieWOn+aWh+aWreihjOS/neeVme+8jOS4jeiwg+aVtOOAgiIsCiAgIuS4g+adoeato+aWh+eahCBoZWFkaW5nIOWPluWOn+aWh+OAjFjjgIHjgI3lkI7nmoTmnaHlkI3vvIjnu4Tnu4fmnrbmnoTjgIHmi5vnlJ/lr7nosaHjgIHmi5vnlJ/mnaHku7bjgIHlrabkuaDlronmjpLlj4rml6XluLjnrqHnkIbjgIHlt6XkvZzmtYHnqIvjgIHlvZXlj5blhaznpLrjgIHlt6XkvZzopoHmsYLvvInvvIzlnKjlkIToioLooYzljLrpl7TlhoXpgJDlrZflj6/mn6XvvIzmlYXlnYfmoIcgYXV0aG9y77ybYG5vYCDnlKjkuK3mlofluo/lj7fjgIIiLAogICLkuInjgIHlm5vjgIHkupTmnaHlhoXpg6jnmoTjgIzvvIjkuIDvvInigJTvvIjkupTvvInjgI3lkITpobnmmK/mrrXlhoXluo/lj7fjgIHkuI3ljZXni6zmiJDooYzmoIfpopjvvIzmlYXlkITmnaHkuI3mi4blrZDoioLvvJvkupTjgIHlt6XkvZzmtYHnqIvph4znmoTjgIwxLjIuMy7jgI3mjqjojZDlkI3pop3kuInmnaHlkIzmoLflubblhaXmnKzmnaHjgIIiLAogICJkb2NsaXN0IOmHjOacieS4gOe7hOS4juacrOS9k+mHjeWkjeeahOOAjC1mZmIy44CN5p2h55uu77yIcHQtZDkzOTY4NDMyYy1mZmIy44CBcHQtZDYyYmY1NGYzOC1mZmIy44CBcHQtMGVlYjAxZGMzYy1mZmIy44CBcHQtMWFhY2Y5MjIxMi1mZmIy44CBcHQtMDQ1NTVhNTFmMC1mZmIy44CBcHQtNjEzYWJhNGU1NC1mZmIy77yJ77ya5YW25byV5paH5q+U5pys5L2T5aSa5bim5LqG44CM5LiA44CB57uE57uH5p625p6E44CN44CM5LqM44CB5oub55Sf5a+56LGh44CN562J5p2h5Y+35YmN57yA77yM6JC954K55LiO5pys5L2T5a6M5YWo55u45ZCM77yM5pWF5LiO5pys5L2T5ZCM6IqC5bm25YiX44CCIiwKICAicHQtZjE3ODg2OWMyNSDnmoTlvJXmlofph4zlpLnnnYDpobXnoIHjgIwz44CN77yI44CM5ZCE5bm057qn56CU56m255Sf5oiQ57up5o6S5ZCN6ZyAM+i+vuWIsOS4k+S4muWJjTMwJeOAje+8ie+8jOaYr+mhteeggeihjOiiq+aKveWPluaXtuW5tuWFpeWPpeS4reeahOaui+eVme+8jOavlOWvueaXtuaMieWOn+aWh+eFp+W9le+8m+ivpeadoeiQveOAjOS4ieOAgeaLm+eUn+adoeS7tuOAje+8iDI34oCTNDQg6KGM77yJ44CCIiwKICAicHQtMmNiN2UyNTA4YiDnmoTlvJXmlofmnIDplb/vvIgzNjMg5a2X77yJ77yM6Ieq56ysIDQg6KGM5qCH6aKY5pyr6KGM44CM5oub5Yuf6YCJ5ouU5bel5L2c55qE6YCa55+l44CN6LW377yM5Liy5Li76YCB5Y2V5L2N5LiO5pW05q616YCa55+l57yY6LW377yM5Yiw56ysIDE4IOihjOOAjOmAmuefpeWmguS4i++8muOAjeatou+8jOWFqOmDqOWcqOOAjOaWh+WPt+OAjeiKguWGheOAgiIsCiAgIuacrOaWh+S7tuihjOWwvuato+W4uO+8iExG77yJ77yMYGxlbih0ZXh0LnNwbGl0KCdcXG4nKSk9OTdg77yb56ysIDk3IOihjOiQveasvuOAjDIwMjYg5bm0IDQg5pyIIDEwIOaXpeOAjeS4uuWFqOaWh+acq+ihjO+8jOaXoOaIquaWreOAgiIKIF0KfQo=
+{
+ "key": "1d9773a9",
+ "title": "团字〔2026〕1号 关于我校第十期青年马克思主义学院学员招募选拔工作的通知",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "文号",
+   "heading": "团字〔2026〕1号",
+   "heading_kind": "author",
+   "lines": [1, 18],
+   "items": ["rule-1d9773a9", "pt-12566b1caa", "pt-2cb7e2508b"],
+   "chars": 392
+  },
+  {
+   "no": "一",
+   "heading": "组织架构",
+   "heading_kind": "author",
+   "lines": [19, 23],
+   "items": ["pt-d93968432c", "pt-d93968432c-ffb2"],
+   "chars": 64
+  },
+  {
+   "no": "二",
+   "heading": "招生对象",
+   "heading_kind": "author",
+   "lines": [24, 26],
+   "items": ["pt-d62bf54f38", "pt-d62bf54f38-ffb2"],
+   "chars": 46
+  },
+  {
+   "no": "三",
+   "heading": "招生条件",
+   "heading_kind": "author",
+   "lines": [27, 44],
+   "items": ["pt-0eeb01dc3c", "pt-0eeb01dc3c-ffb2", "pt-8851971cd3", "pt-73979a3c54", "pt-f178869c25", "pt-5a5921cf9b", "pt-d00ff6d73b", "pt-96bdf220be"],
+   "chars": 438
+  },
+  {
+   "no": "四",
+   "heading": "学习安排及日常管理",
+   "heading_kind": "author",
+   "lines": [45, 66],
+   "items": ["pt-1aacf92212", "pt-1aacf92212-ffb2", "pt-f7fc47fd53", "pt-4e0a667022", "pt-f3653d0dc4", "pt-766eff849c", "pt-bb2c963fee"],
+   "chars": 526
+  },
+  {
+   "no": "五",
+   "heading": "工作流程",
+   "heading_kind": "author",
+   "lines": [67, 85],
+   "items": ["pt-0acec04932", "pt-bff41022e7", "pt-3c7d00e3a7", "pt-79c9c36289", "pt-7c965ed3b7", "pt-06f747d6ec", "pt-c6c98bcfa5", "pt-14d860efbf"],
+   "chars": 426
+  },
+  {
+   "no": "六",
+   "heading": "录取公示",
+   "heading_kind": "author",
+   "lines": [86, 88],
+   "items": ["pt-04555a51f0", "pt-04555a51f0-ffb2"],
+   "chars": 58
+  },
+  {
+   "no": "七",
+   "heading": "工作要求",
+   "heading_kind": "author",
+   "lines": [89, 91],
+   "items": ["pt-613aba4e54", "pt-613aba4e54-ffb2"],
+   "chars": 59
+  },
+  {
+   "no": "附件",
+   "heading": "附件目录、联系人信息与落款",
+   "heading_kind": "derived",
+   "lines": [92, 97],
+   "items": ["pt-5f3c98d6a1"],
+   "chars": 111
+  }
+ ],
+ "items": [
+  "rule-1d9773a9",
+  "pt-12566b1caa",
+  "pt-2cb7e2508b",
+  "pt-d93968432c",
+  "pt-d93968432c-ffb2",
+  "pt-d62bf54f38",
+  "pt-d62bf54f38-ffb2",
+  "pt-0eeb01dc3c",
+  "pt-0eeb01dc3c-ffb2",
+  "pt-8851971cd3",
+  "pt-73979a3c54",
+  "pt-f178869c25",
+  "pt-5a5921cf9b",
+  "pt-d00ff6d73b",
+  "pt-96bdf220be",
+  "pt-1aacf92212",
+  "pt-1aacf92212-ffb2",
+  "pt-f7fc47fd53",
+  "pt-4e0a667022",
+  "pt-f3653d0dc4",
+  "pt-766eff849c",
+  "pt-bb2c963fee",
+  "pt-0acec04932",
+  "pt-bff41022e7",
+  "pt-3c7d00e3a7",
+  "pt-79c9c36289",
+  "pt-7c965ed3b7",
+  "pt-06f747d6ec",
+  "pt-c6c98bcfa5",
+  "pt-14d860efbf",
+  "pt-04555a51f0",
+  "pt-04555a51f0-ffb2",
+  "pt-613aba4e54",
+  "pt-613aba4e54-ffb2",
+  "pt-5f3c98d6a1"
+ ],
+ "notes": [
+  "原文是「团字〔2026〕1号」通知：第 1–18 行是文号、三行标题、主送单位（各学院、研究院团委/团总支）与通知缘起（含「通知如下：」），第 20–91 行是正文七条（一、组织架构／二、招生对象／三、招生条件／四、学习安排及日常管理／五、工作流程／六、录取公示／七、工作要求），第 92–97 行是附件目录、联系人电话与校团委落款。",
+  "规则条目 rule-1d9773a9 无引文（文档级），列进「文号」节。",
+  "第 1、19、39、61、81 行是原文件页码行（「1」「2」「3」「4」「5」），分别并入文号／一／三／四／五节，不另设节；页码行嵌在句子中间时（如第 39 行「3」夹在「…各年级研究生成绩排名需／3／达到专业前30%」之间）按原文断行保留，不调整。",
+  "七条正文的 heading 取原文「X、」后的条名（组织架构、招生对象、招生条件、学习安排及日常管理、工作流程、录取公示、工作要求），在各节行区间内逐字可查，故均标 author；`no` 用中文序号。",
+  "三、四、五条内部的「（一）—（五）」各项是段内序号、不单独成行标题，故各条不拆子节；五、工作流程里的「1.2.3.」推荐名额三条同样并入本条。",
+  "doclist 里有一组与本体重复的「-ffb2」条目（pt-d93968432c-ffb2、pt-d62bf54f38-ffb2、pt-0eeb01dc3c-ffb2、pt-1aacf92212-ffb2、pt-04555a51f0-ffb2、pt-613aba4e54-ffb2）：其引文比本体多带了「一、组织架构」「二、招生对象」等条号前缀，落点与本体完全相同，故与本体同节并列。",
+  "pt-f178869c25 的引文里夹着页码「3」（「各年级研究生成绩排名需3达到专业前30%」），是页码行被抽取时并入句中的残留，比对时按原文照录；该条落「三、招生条件」（27–44 行）。",
+  "pt-2cb7e2508b 的引文最长（363 字），自第 4 行标题末行「招募选拔工作的通知」起，串主送单位与整段通知缘起，到第 18 行「通知如下：」止，全部在「文号」节内。",
+  "本文件行尾正常（LF），`len(text.split('\\n'))=97`；第 97 行落款「2026 年 4 月 10 日」为全文末行，无截断。"
+ ]
+}

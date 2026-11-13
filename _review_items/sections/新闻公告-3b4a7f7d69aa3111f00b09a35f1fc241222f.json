@@ -1,1 +1,108 @@
-ew0KICJrZXkiOiAi5paw6Ze75YWs5ZGKLTNiNGE3ZjdkNjlhYTMxMTFmMDBiMDlhMzVmMWZjMjQxMjIyZiIsDQogInRpdGxlIjogIuWbvuS5pummhuW8gOmmhumAmuefpSIsDQogInRydW5jYXRlZCI6IGZhbHNlLA0KICJzZWN0aW9ucyI6IFsNCiAgew0KICAgIm5vIjogIuagh+mimCIsDQogICAiaGVhZGluZyI6ICLlm77kuabppoblvIDppobpgJrnn6UiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWzEsIDVdLA0KICAgIml0ZW1zIjogWyJwdC05ZDU2MDY1Nzg4Il0sDQogICAiY2hhcnMiOiAyMDQNCiAgfSwNCiAgew0KICAgIm5vIjogIuW8gOmmhumAmuefpSIsDQogICAiaGVhZGluZyI6ICLmgaLlpI3mraPlvI/lvIDppobvvJoz5pyIMTXml6Xotbflrp7mlr3mgLvph4/mjqfliLbpooTnuqbmnI3liqHvvIjlkKvlvIDppobml7bpl7TjgIHlvIDmlL7lr7nosaHjgIHpooTnuqblhaXppobvvIkiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFs3LCAxM10sDQogICAiaXRlbXMiOiBbInB0LThlNmFiNWZjOGIiLCAicHQtNjA2ZWJmNzI5OSJdLA0KICAgImNoYXJzIjogMjgzDQogIH0sDQogIHsNCiAgICJubyI6ICLokL3mrL7kuI7miqzlpLQiLA0KICAgImhlYWRpbmciOiAi56ys5LiA56+H6YCa55+l6JC95qy+77yIMjAyMeW5tDLmnIgyNeaXpe+8ieS4juesrOS6jOevh+mAmuefpeaKrOWktO+8iOeWq+aDhemYsuaOp+acn+mXtOWkluWAn+acjeWKoe+8iSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWzE0LCAxN10sDQogICAiaXRlbXMiOiBbInB0LTYwYjg4NTYwNDkiXSwNCiAgICJjaGFycyI6IDUwDQogIH0sDQogIHsNCiAgICJubyI6ICLliY3oqIAiLA0KICAgImhlYWRpbmciOiAi57q/5LiK5pWZ5a2m5pyf6Ze077yIM+aciDHml6XigJQxNOaXpe+8iemdouWQkeWFqOagoeaVmeiBjOW3peaOqOWHuuWkluWAn+WbvuS5puacjeWKoSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWzE4LCAxOF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDgzDQogIH0sDQogIHsNCiAgICJubyI6ICLkuIDjgIEiLA0KICAgImhlYWRpbmciOiAi5LiA44CB572R5LiK55Sz6K+3IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsxOSwgMjRdLA0KICAgIml0ZW1zIjogWyJwdC1hZDMxZDczOGQzIiwgInB0LTc3MWM1NTA0MDIiLCAicHQtNTBkMTdjYTFhZCIsICJwdC05MmJlNWM1MmJkIl0sDQogICAiY2hhcnMiOiAxNDkNCiAgfSwNCiAgew0KICAgIm5vIjogIuS6jOOAgSIsDQogICAiaGVhZGluZyI6ICLkuozjgIHnlLXor53pooTnuqbvvIjlt6XkvZzml7bpl7Q454K56IezMTbngrnvvIkiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWzI1LCAzMF0sDQogICAiaXRlbXMiOiBbInB0LTk1NjRiMWE2YjMiLCAicHQtOTVhOTE3MTE5ZiIsICJwdC04YTg3NDRkZTY0Il0sDQogICAiY2hhcnMiOiAxNTMNCiAgfSwNCiAgew0KICAgIm5vIjogIuS4ieOAgSIsDQogICAiaGVhZGluZyI6ICLkuInjgIHnoa7orqTnlLPor7flj4rlj5bkuabml7bpl7TjgIHlnLDngrkiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWzMxLCAzOF0sDQogICAiaXRlbXMiOiBbInB0LWI1MGI3NDg0OTYiLCAicHQtYTVhNGY2YmNmMCIsICJwdC05YzQ4MTRmYTYwIiwgInB0LTAwNmJmNjdlNmYiXSwNCiAgICJjaGFycyI6IDMwOA0KICB9LA0KICB7DQogICAibm8iOiAi5Zub44CBIiwNCiAgICJoZWFkaW5nIjogIuWbm+OAgeW/q+mAkumAgei+viIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbMzksIDQwXSwNCiAgICJpdGVtcyI6IFsicHQtMTAyMGY3ODhlNCJdLA0KICAgImNoYXJzIjogNTcNCiAgfSwNCiAgew0KICAgIm5vIjogIuS6lOOAgSIsDQogICAiaGVhZGluZyI6ICLkupTjgIHlm77kuablvZLov5giLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWzQxLCA0Ml0sDQogICAiaXRlbXMiOiBbInB0LWMyMjY5YmQzOGUiXSwNCiAgICJjaGFycyI6IDQyDQogIH0sDQogIHsNCiAgICJubyI6ICLlha3jgIEiLA0KICAgImhlYWRpbmciOiAi5YWt44CB5rOo5oSP5LqL6aG5IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFs0MywgNDhdLA0KICAgIml0ZW1zIjogWyJwdC02ZTliNzk2YmEyIiwgInB0LWZjMjVlYzFjZWYiLCAicHQtZWRiOGZkZGJkMSIsICJwdC0zNjZlNDQ2MGYyIiwgInB0LWIwMDg4ODY5NGYiXSwNCiAgICJjaGFycyI6IDE1OA0KICB9LA0KICB7DQogICAibm8iOiAi6ZmE5Lu2IiwNCiAgICJoZWFkaW5nIjogIumZhOS7tu+8mumihOe6puWbvuS5puWkluWAn+aTjeS9nOa1geeoiyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbNDksIDU3XSwNCiAgICJpdGVtcyI6IFsicHQtYTllYjFjNjUyNyJdLA0KICAgImNoYXJzIjogNjkzDQogIH0NCiBdLA0KICJpdGVtcyI6IFsicHQtOWQ1NjA2NTc4OCIsICJwdC04ZTZhYjVmYzhiIiwgInB0LTYwNmViZjcyOTkiLCAicHQtNjBiODg1NjA0OSIsICJwdC1hZDMxZDczOGQzIiwgInB0LTc3MWM1NTA0MDIiLCAicHQtNTBkMTdjYTFhZCIsICJwdC05MmJlNWM1MmJkIiwgInB0LTk1NjRiMWE2YjMiLCAicHQtOTVhOTE3MTE5ZiIsICJwdC04YTg3NDRkZTY0IiwgInB0LWI1MGI3NDg0OTYiLCAicHQtYTVhNGY2YmNmMCIsICJwdC05YzQ4MTRmYTYwIiwgInB0LTAwNmJmNjdlNmYiLCAicHQtMTAyMGY3ODhlNCIsICJwdC1jMjI2OWJkMzhlIiwgInB0LTZlOWI3OTZiYTIiLCAicHQtZmMyNWVjMWNlZiIsICJwdC1lZGI4ZmRkYmQxIiwgInB0LTM2NmU0NDYwZjIiLCAicHQtYjAwODg4Njk0ZiIsICJwdC1hOWViMWM2NTI3Il0sDQogIm5vdGVzIjogWw0KICAi5pys6aG177yIaWxpYiDmlrDpl7vlhazlkYrvvInlrp7pmYXmmK/jgIzlm77kuabppoblvIDppobpgJrnn6XjgI3kuI7jgIznlqvmg4XpmLLmjqfmnJ/pl7TlvIDpgJrmlZnogYzlt6XlpJblgJ/lm77kuabmnI3liqHlt6XkvZznmoTpgJrnn6XjgI3kuKTnr4fpgJrnn6Xov57mjpLvvIznrKwgNiDooYzkuLrnqbrooYzjgIIiLA0KICAi56ysIDEg6KGM5qCH6aKY77yL56ysIDIg6KGM5p2l5rqQIFVSTO+8i+esrCAzIOihjOagj+ebru+8iOaWsOmXu+WFrOWRiu+8ie+8i+esrCA0IOihjOS9nOiAhe+8iOWbvuS5pummhu+8ie+8i+esrCA1IOihjOWPkeW4g+aXtumXtO+8iDIwMjEtMDItMjXvvInlkIjkuLrnrKzkuIDoioLjgIIiLA0KICAi56ys5LiA56+H6YCa55+l77yIN+KAkzEzIOihjO+8ie+8muOAjOS4gOOAgeW8gOmmhuaXtumXtOOAjeOAjOS6jOOAgeW8gOaUvuWvueixoeOAjeOAjOS4ieOAgemihOe6puWFpemmhuOAjeS4ieS4que8luWPt+mhue+8i+e6v+S4iuaVmeWtpuacn+mXtOWkluWAn+acjeWKoeivtOaYju+8jOWboOe8luWPt+mhueWQhOWPquacieS4gOihjO+8jOacquaLhuWtkOiKgu+8m3B0LTYwNmViZjcyOTkg55qE5byV5paH5q2j5pivIDjigJMxMSDooYznmoTjgIzkuIDjgIHigKbkuozjgIHigKbkuInjgIHigKbjgI3ov57or7vjgIIiLA0KICAi56ysIDE04oCTMTcg6KGM5ZCI5Li65LiA6IqC77yaMTTigJMxNSDooYzmmK/nrKzkuIDnr4fpgJrnn6XokL3mrL7vvIjkuK3lm73kvKDlqpLlpKflrablm77kuabppobvvI8yMDIx5bm0MuaciDI15pel77yJ77yMMTbigJMxNyDooYzmmK/nrKzkuoznr4fpgJrnn6XmiqzlpLTvvIjlj5HmlofljZXkvY3vvIvjgIznlqvmg4XpmLLmjqfmnJ/pl7TlvIDpgJrmlZnogYzlt6XlpJblgJ/lm77kuabmnI3liqHlt6XkvZznmoTpgJrnn6XjgI3vvInvvIxwdC02MGI4ODU2MDQ5IOeahOW8leaWh+ato+WlveS7juiQveasvuOAjOS4reWbveS8oOWqkuWkp+WtpuWbvuS5pummhjIwMjHlubQy5pyIMjXml6XjgI3ov57or7vov5vnrKzkuoznr4fmiqzlpLTvvIzmlYXokL3lnKjor6XoioLjgIIiLA0KICAi56ys5LqM56+H6YCa55+l56ysIDE4IOihjOS4uuWJjeiogO+8iOe6v+S4iuaVmeWtpuacn+mXtCAzIOaciCAxIOaXpeiHsyAxNCDml6XvvInjgIIiLA0KICAi44CM5LiA44CB44CN4oCU44CM5YWt44CB44CN5YWt5Liq57yW5Y+36aG55ZCE5oiQ5LiA6IqC77yIMTnigJMyNOOAgTI14oCTMzDjgIEzMeKAkzM444CBMznigJM0MOOAgTQx4oCTNDLjgIE0M+KAkzQ4IOihjO+8ie+8jGhlYWRpbmcg55So5Y6f5paH57yW5Y+377yL5Y6f5paH5bCP5qCH6aKY77yM5qCHIGF1dGhvcu+8m25vIOWPquWGmee8luWPt++8jOmBv+WFjeS4jiBoZWFkaW5nIOebuOWQjOOAgiIsDQogICLnrKwgMzQg6KGM5LiO56ysIDUx44CBNTPjgIE1NeOAgTU3IOihjOaYryBb5Zu+XSDpmYTku7bvvIgvZWRpdG9yL3BjL2ZpbGVzL2ltYWdlP3Jlc2lkPeKApu+8ie+8jOesrCAzNSDooYzjgIzkuK3lm73kvKDlqpLlpKflrablvq7kv6HkvIHkuJrlj7fjgI3mmK/lm77niYfor7TmmI7mloflrZfvvIzlnYfpmo/miYDlsZ7oioLorqHlhaXvvIzkuI3ljZXliJfjgIIiLA0KICAi56ysIDQ54oCTNTcg6KGM5Li66ZmE5Lu244CM6aKE57qm5Zu+5Lmm5aSW5YCf5pON5L2c5rWB56iL44CN55qEIDEu4oCTNC4g5q2l5LiO6YWN5Zu+77yM5Y2V5YiX5LiA6IqC77yIYXV0aG9y77yM5qCH6aKY5Y2z5Y6f5paH56ysIDQ5IOihjO+8ieOAgiIsDQogICJwdC02MGI4ODU2MDQ5IOeahOW8leaWh+aYr+OAjOiQveasvu+8i+esrOS6jOevh+aKrOWktOOAjeeahOi/nuivu++8iOOAjOS4reWbveS8oOWqkuWkp+WtpuWbvuS5pummhjIwMjHlubQy5pyIMjXml6XkuK3lm73kvKDlqpLlpKflrablm77kuabppobnlqvmg4XpmLLmjqfmnJ/pl7TigKbjgI3vvInvvIzlt7LmjInlrp7pmYXooYzlj7fokL3lnKggMTTigJMxNyDooYznmoTjgIzokL3mrL7kuI7miqzlpLTjgI3oioLvvIzkuI3mmK/ot6jmlofku7blvJXnlKjjgIIiLA0KICAiMjMg5p2h5p2h55uu5byV5paH5YWo6YOo6JC95Zyo5pys5paH5YaF77yM5peg6Leo5paH5Lu25byV55So44CC5q2j5paH5Yiw56ysIDU3IOihjOmZhOS7tuacgOWQjuS4gOW8oOmFjeWbvue7k+adn++8jOS4pOevh+mAmuefpeWdh+WujOaVtO+8jHRydW5jYXRlZD1mYWxzZeOAgiINCiBdDQp9DQo=
+{
+ "key": "新闻公告-3b4a7f7d69aa3111f00b09a35f1fc241222f",
+ "title": "图书馆开馆通知",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "标题",
+   "heading": "图书馆开馆通知",
+   "heading_kind": "author",
+   "lines": [1, 5],
+   "items": ["pt-9d56065788"],
+   "chars": 204
+  },
+  {
+   "no": "开馆通知",
+   "heading": "恢复正式开馆：3月15日起实施总量控制预约服务（含开馆时间、开放对象、预约入馆）",
+   "heading_kind": "derived",
+   "lines": [7, 13],
+   "items": ["pt-8e6ab5fc8b", "pt-606ebf7299"],
+   "chars": 283
+  },
+  {
+   "no": "落款与抬头",
+   "heading": "第一篇通知落款（2021年2月25日）与第二篇通知抬头（疫情防控期间外借服务）",
+   "heading_kind": "derived",
+   "lines": [14, 17],
+   "items": ["pt-60b8856049"],
+   "chars": 50
+  },
+  {
+   "no": "前言",
+   "heading": "线上教学期间（3月1日—14日）面向全校教职工推出外借图书服务",
+   "heading_kind": "derived",
+   "lines": [18, 18],
+   "items": [],
+   "chars": 83
+  },
+  {
+   "no": "一、",
+   "heading": "一、网上申请",
+   "heading_kind": "author",
+   "lines": [19, 24],
+   "items": ["pt-ad31d738d3", "pt-771c550402", "pt-50d17ca1ad", "pt-92be5c52bd"],
+   "chars": 149
+  },
+  {
+   "no": "二、",
+   "heading": "二、电话预约（工作时间8点至16点）",
+   "heading_kind": "author",
+   "lines": [25, 30],
+   "items": ["pt-9564b1a6b3", "pt-95a917119f", "pt-8a8744de64"],
+   "chars": 153
+  },
+  {
+   "no": "三、",
+   "heading": "三、确认申请及取书时间、地点",
+   "heading_kind": "author",
+   "lines": [31, 38],
+   "items": ["pt-b50b748496", "pt-a5a4f6bcf0", "pt-9c4814fa60", "pt-006bf67e6f"],
+   "chars": 308
+  },
+  {
+   "no": "四、",
+   "heading": "四、快递送达",
+   "heading_kind": "author",
+   "lines": [39, 40],
+   "items": ["pt-1020f788e4"],
+   "chars": 57
+  },
+  {
+   "no": "五、",
+   "heading": "五、图书归还",
+   "heading_kind": "author",
+   "lines": [41, 42],
+   "items": ["pt-c2269bd38e"],
+   "chars": 42
+  },
+  {
+   "no": "六、",
+   "heading": "六、注意事项",
+   "heading_kind": "author",
+   "lines": [43, 48],
+   "items": ["pt-6e9b796ba2", "pt-fc25ec1cef", "pt-edb8fddbd1", "pt-366e4460f2", "pt-b00888694f"],
+   "chars": 158
+  },
+  {
+   "no": "附件",
+   "heading": "附件：预约图书外借操作流程",
+   "heading_kind": "author",
+   "lines": [49, 57],
+   "items": ["pt-a9eb1c6527"],
+   "chars": 693
+  }
+ ],
+ "items": ["pt-9d56065788", "pt-8e6ab5fc8b", "pt-606ebf7299", "pt-60b8856049", "pt-ad31d738d3", "pt-771c550402", "pt-50d17ca1ad", "pt-92be5c52bd", "pt-9564b1a6b3", "pt-95a917119f", "pt-8a8744de64", "pt-b50b748496", "pt-a5a4f6bcf0", "pt-9c4814fa60", "pt-006bf67e6f", "pt-1020f788e4", "pt-c2269bd38e", "pt-6e9b796ba2", "pt-fc25ec1cef", "pt-edb8fddbd1", "pt-366e4460f2", "pt-b00888694f", "pt-a9eb1c6527"],
+ "notes": [
+  "本页（ilib 新闻公告）实际是「图书馆开馆通知」与「疫情防控期间开通教职工外借图书服务工作的通知」两篇通知连排，第 6 行为空行。",
+  "第 1 行标题＋第 2 行来源 URL＋第 3 行栏目（新闻公告）＋第 4 行作者（图书馆）＋第 5 行发布时间（2021-02-25）合为第一节。",
+  "第一篇通知（7–13 行）：「一、开馆时间」「二、开放对象」「三、预约入馆」三个编号项＋线上教学期间外借服务说明，因编号项各只有一行，未拆子节；pt-606ebf7299 的引文正是 8–11 行的「一、…二、…三、…」连读。",
+  "第 14–17 行合为一节：14–15 行是第一篇通知落款（中国传媒大学图书馆／2021年2月25日），16–17 行是第二篇通知抬头（发文单位＋「疫情防控期间开通教职工外借图书服务工作的通知」），pt-60b8856049 的引文正好从落款「中国传媒大学图书馆2021年2月25日」连读进第二篇抬头，故落在该节。",
+  "第二篇通知第 18 行为前言（线上教学期间 3 月 1 日至 14 日）。",
+  "「一、」—「六、」六个编号项各成一节（19–24、25–30、31–38、39–40、41–42、43–48 行），heading 用原文编号＋原文小标题，标 author；no 只写编号，避免与 heading 相同。",
+  "第 34 行与第 51、53、55、57 行是 [图] 附件（/editor/pc/files/image?resid=…），第 35 行「中国传媒大学微信企业号」是图片说明文字，均随所属节计入，不单列。",
+  "第 49–57 行为附件「预约图书外借操作流程」的 1.–4. 步与配图，单列一节（author，标题即原文第 49 行）。",
+  "pt-60b8856049 的引文是「落款＋第二篇抬头」的连读（「中国传媒大学图书馆2021年2月25日中国传媒大学图书馆疫情防控期间…」），已按实际行号落在 14–17 行的「落款与抬头」节，不是跨文件引用。",
+  "23 条条目引文全部落在本文内，无跨文件引用。正文到第 57 行附件最后一张配图结束，两篇通知均完整，truncated=false。"
+ ]
+}

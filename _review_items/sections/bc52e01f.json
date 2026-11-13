@@ -1,1 +1,141 @@
-ew0KICJrZXkiOiAiYmM1MmUwMWYiLA0KICJ0aXRsZSI6ICLnrb7miqXjgIHlip7mloflip7nkIbmtYHnqIsiLA0KICJ0cnVuY2F0ZWQiOiB0cnVlLA0KICJzZWN0aW9ucyI6IFsNCiAgew0KICAgIm5vIjogIumAmuefpSIsDQogICAiaGVhZGluZyI6ICLljbDlj5HpgJrnn6UiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxLA0KICAgIDEyDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJ3ZC1iYzUyZTAxZiINCiAgIF0sDQogICAiY2hhcnMiOiAyNDYNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS4gOmDqOWIhiIsDQogICAiaGVhZGluZyI6ICLnrKzkuIDpg6jliIYg5Yqf6IO95LuL57uNIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMTMsDQogICAgNTINCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDg5MQ0KICB9LA0KICB7DQogICAibm8iOiAi56ysMeeroCIsDQogICAiaGVhZGluZyI6ICLlip/og73ku4vnu40iLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNCwNCiAgICAyMA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTY4DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKwy56ugIiwNCiAgICJoZWFkaW5nIjogIuWKn+iDveaAu+S9k+ivtOaYjiIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMjEsDQogICAgNTINCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDcxNQ0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LqM6YOo5YiGIiwNCiAgICJoZWFkaW5nIjogIuesrOS6jOmDqOWIhiDlip/og73mk43kvZzku4vnu40iLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1MywNCiAgICAxMzgNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDE0MTMNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrDPnq6AiLA0KICAgImhlYWRpbmciOiAi6LW36I2J562+5oqlIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1OSwNCiAgICA3MA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMjIzDQogIH0sDQogIHsNCiAgICJubyI6ICLnrKw056ugIiwNCiAgICJoZWFkaW5nIjogIuWujOaIkOeahOetvuaKpSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNzEsDQogICAgNzkNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDEzOA0KICB9LA0KICB7DQogICAibm8iOiAi56ysNeeroCIsDQogICAiaGVhZGluZyI6ICLlj5Hlh7rnmoTnrb7miqUiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDgwLA0KICAgIDkxDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAxNzUNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrDbnq6AiLA0KICAgImhlYWRpbmciOiAi5b6F5a6h5qC455qE562+5oqlIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA5MiwNCiAgICAxMTMNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDMzOQ0KICB9LA0KICB7DQogICAibm8iOiAi56ysN+eroCIsDQogICAiaGVhZGluZyI6ICLlvoXkvJrnrb7nmoTnrb7miqUiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDExNCwNCiAgICAxMzQNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDMzNg0KICB9LA0KICB7DQogICAibm8iOiAi56ysOOeroCIsDQogICAiaGVhZGluZyI6ICLojYnnqL/nrrEiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDEzNSwNCiAgICAxMzgNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDU1DQogIH0NCiBdLA0KICJpdGVtcyI6IFsNCiAgIndkLWJjNTJlMDFmIg0KIF0sDQogIm5vdGVzIjogWw0KICAiMjAyNi0xMS0xMe+8mua6kOaWh+aKveWPluivjeW6j+mUmeS5se+8iOacrOWcsOaXoCBQREYg5Y+v6YeN5oq977yJ77yM5pys57Si5byV5LuF6IO95pW056+H5byV55So77yM5p+l5YW35L2T5q2l6aqk6K+35Zue5Y6f5bmz5Y+w5Y6f5paH5qC45a+544CCIiwNCiAgIuato+aWh+aIquiHs+esrCAxMzgg6KGMIC8g57qmIDI5MDcg5a2X77ya5pyr6IqC44CM56ysOOeroCDojYnnqL/nrrHjgI3mraLkuo7nrKwgMTM4IOihjOOAjOWbviAxMF8xIOiNieeov+euseOAjeKAlOKAlCoq5oyJ5LiK5ri45qCH6K6w6K6wIHRydW5jYXRlZO+8jOS9huS4pOmDqOWIhuOAgeWFq+eroOeahOe7k+aehOWujOaVtO+8iOesrDHigJM456ug6YO95Zyo77yJ77yM5pyr6KGM5piv5pyA5ZCO5LiA5byg5oiq5Zu+55qE5Zu+5rOo77yM5pyq6KeB57y656ugKirvvJvkuI3ov4flhajnr4fmmK/lm77niYfniYggUERGIOaKveWPlu+8jOaWh+Wtl+S4pemHjemUmeS5se+8iOingSBub3RlcyDnrKwgMiDmnaHvvInvvIzml6Dms5Xkv53or4HmsqHmnInmvI/pobXjgIIiLA0KICAi5Y6f5paH5byC5bi477yI5oq95Y+W5oqK6K+N5bqP5omT5Lmx77yJ77ya5qCH6aKY6KKr5oq95oiQ44CM55CG562+5oql44CB5Yqe5paH5YqeIOa1geeoi+OAjeOAgeato+aWh+OAjOeuoeeQhuS4uui/m+S4gOatpeaOqOi/m+WtpuagoSDkv6Hmga/ljJbvvIzkvJjljJblt6XkvZzmtYHnqIvjgI3jgIzmlbDlrZfkuK0g5byA5Zyo4oCcIOS8oOKAneS/oeaBr+W5s+WPsCDorr7nvZHkuIrnrb7miqXjgI3vvJvmr48gMTIg6KGM5bem5Y+z6L+Y5aS55LiA6KGM6aG155yJ44CM5pWw5a2X5Lit5LygLeetvuaKpeWKnuaWhy3nlKjmiLfmiYvlhozjgI3vvIgzNeOAgTQ544CBNTjjgIE2MeOAgTY244CBNzTjgIE3OeOAgTg344CBOTTjgIExMDHjgIExMDTjgIExMTDjgIExMTnjgIExMjfjgIExMzIg6KGM77yJ44CC6L+Z5Lqb5a2X6Z2i5q6L55WZ5oyJ5Y6f5paH5L+d55WZ77yM5pyq6YeN5o6S77yb5byV55So5pys5Lu25pe26ZyA5Zue5Y6fIFBERiDmoLjlr7njgIIiLA0KICAi5Y6f5paH5byC5bi477yI57yW5Y+36ZSZ5Lmx77yJ77ya56ysNOeroOOAjOWujOaIkOeahOetvuaKpeOAje+8iDcxIOihjO+8ieS4i+mdoueahOWwj+iKguWGmeS9nOOAjDUuMSDmn6XnnIvnrb7miqXjgI3vvIg3NiDooYzvvInjgIHnrKw356ug44CM5b6F5Lya562+55qE562+5oql44CN5LiL55qE5oiq5Zu+57yW5Y+35Y205piv44CM5Zu+IDhfMuOAjeOAjOWbviA4XzPjgI3jgIzlm74gOF8044CN44CB56ysOOeroOWPquacieOAjOWbviAxMF8x44CN77yb56ug5Y+35LiO5bCP6IqC5Y+3L+WbvuWPt+WvueS4jeS4iuOAguaMieWOn+aWh+S/neeVme+8jOiKguWPt+aMieOAjOesrFjnq6DjgI3orrDvvIzoioLlhoXlsI/oioLmnKrlho3mi4bvvIjnvJblj7fmnKzouqvkuI3lj6/pnaDvvInjgIIiLA0KICAi56ysIDEg6KGM5piv5LiK5ri45oq95Y+W6ZmE55qEIGRvY3gg5paH5Lu25ZCN6KGM77yI6KGM5bC+57KY5LqG44CM5Y+R5Ye655qE562+5oql44CN77yJ77yM5LiO56ysIDPigJMxMiDooYznmoTpgJrnn6XvvIjmoIfpopjjgIHml6XmnJ8gMjAxNy0wNy0yN+OAgeato+aWh+OAgeiBlOezu+S6uuOAgemZhOS7tu+8ieW5tuWFpeOAjOWNsOWPkemAmuefpeOAjeS4gOiKgu+8m+OAjOesrOS4gOmDqOWIhu+8j+esrOS6jOmDqOWIhuOAjeS4pOiKguaYr+eItuiKgu+8jOWIhuWIq+WMheS9j+esrDHigJMy56ug44CB56ysM+KAkzjnq6DvvIjooYzlj7fph43lj6DvvIzlsZ7nnJ/ltYzlpZfvvInjgIIiLA0KICAid2QtYmM1MmUwMWYg5Li65paH5qGj57qn5p2h55uu77yM5YW25ZSv5LiA5LiA5q615byV5paH5LuO56ysIDEg6KGM55qE5paH5Lu25ZCN6KGM6LW377yM6JC95Zyo44CM5Y2w5Y+R6YCa55+l44CN5LiA6IqC77yM5pWF5Y+q5Zyo6K+l6IqC5YiX5LiA5qyh44CCIg0KIF0NCn0=
+{
+ "key": "bc52e01f",
+ "title": "签报、办文办理流程",
+ "truncated": true,
+ "sections": [
+  {
+   "no": "通知",
+   "heading": "印发通知",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    12
+   ],
+   "items": [
+    "wd-bc52e01f"
+   ],
+   "chars": 246
+  },
+  {
+   "no": "第一部分",
+   "heading": "第一部分 功能介绍",
+   "heading_kind": "derived",
+   "lines": [
+    13,
+    52
+   ],
+   "items": [],
+   "chars": 891
+  },
+  {
+   "no": "第1章",
+   "heading": "功能介绍",
+   "heading_kind": "derived",
+   "lines": [
+    14,
+    20
+   ],
+   "items": [],
+   "chars": 168
+  },
+  {
+   "no": "第2章",
+   "heading": "功能总体说明",
+   "heading_kind": "author",
+   "lines": [
+    21,
+    52
+   ],
+   "items": [],
+   "chars": 715
+  },
+  {
+   "no": "第二部分",
+   "heading": "第二部分 功能操作介绍",
+   "heading_kind": "derived",
+   "lines": [
+    53,
+    138
+   ],
+   "items": [],
+   "chars": 1413
+  },
+  {
+   "no": "第3章",
+   "heading": "起草签报",
+   "heading_kind": "author",
+   "lines": [
+    59,
+    70
+   ],
+   "items": [],
+   "chars": 223
+  },
+  {
+   "no": "第4章",
+   "heading": "完成的签报",
+   "heading_kind": "author",
+   "lines": [
+    71,
+    79
+   ],
+   "items": [],
+   "chars": 138
+  },
+  {
+   "no": "第5章",
+   "heading": "发出的签报",
+   "heading_kind": "author",
+   "lines": [
+    80,
+    91
+   ],
+   "items": [],
+   "chars": 175
+  },
+  {
+   "no": "第6章",
+   "heading": "待审核的签报",
+   "heading_kind": "author",
+   "lines": [
+    92,
+    113
+   ],
+   "items": [],
+   "chars": 339
+  },
+  {
+   "no": "第7章",
+   "heading": "待会签的签报",
+   "heading_kind": "author",
+   "lines": [
+    114,
+    134
+   ],
+   "items": [],
+   "chars": 336
+  },
+  {
+   "no": "第8章",
+   "heading": "草稿箱",
+   "heading_kind": "author",
+   "lines": [
+    135,
+    138
+   ],
+   "items": [],
+   "chars": 55
+  }
+ ],
+ "items": [
+  "wd-bc52e01f"
+ ],
+ "notes": [
+  "2026-11-11：源文抽取词序错乱（本地无 PDF 可重抽），本索引仅能整篇引用，查具体步骤请回原平台原文核对。",
+  "正文截至第 138 行 / 约 2907 字：末节「第8章 草稿箱」止于第 138 行「图 10_1 草稿箱」——**按上游标记记 truncated，但两部分、八章的结构完整（第1–8章都在），末行是最后一张截图的图注，未见缺章**；不过全篇是图片版 PDF 抽取，文字严重错乱（见 notes 第 2 条），无法保证没有漏页。",
+  "原文异常（抽取把词序打乱）：标题被抽成「理签报、办文办 流程」、正文「管理为进一步推进学校 信息化，优化工作流程」「数字中 开在“ 传”信息平台 设网上签报」；每 12 行左右还夹一行页眉「数字中传-签报办文-用户手册」（35、49、58、61、66、74、79、87、94、101、104、110、119、127、132 行）。这些字面残留按原文保留，未重排；引用本件时需回原 PDF 核对。",
+  "原文异常（编号错乱）：第4章「完成的签报」（71 行）下面的小节写作「5.1 查看签报」（76 行）、第7章「待会签的签报」下的截图编号却是「图 8_2」「图 8_3」「图 8_4」、第8章只有「图 10_1」；章号与小节号/图号对不上。按原文保留，节号按「第X章」记，节内小节未再拆（编号本身不可靠）。",
+  "第 1 行是上游抽取附的 docx 文件名行（行尾粘了「发出的签报」），与第 3–12 行的通知（标题、日期 2017-07-27、正文、联系人、附件）并入「印发通知」一节；「第一部分／第二部分」两节是父节，分别包住第1–2章、第3–8章（行号重叠，属真嵌套）。",
+  "wd-bc52e01f 为文档级条目，其唯一一段引文从第 1 行的文件名行起，落在「印发通知」一节，故只在该节列一次。"
+ ]
+}

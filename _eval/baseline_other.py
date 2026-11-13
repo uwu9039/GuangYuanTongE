@@ -1,1 +1,64 @@
-IiIi5pen5qOA57Si5Zmo5Zyo5YWo6YOo6K+E5rWL6ZuG5LiK55qE5Z+657q/77yIcHJlc2V0cyDlt7LmnInvvIzov5nph4zooaUgcGFyYXBocmFzZSAvIG5lZ2F0aXZlc++8ieOAggoKICAgIHB5dGhvbiAtbSBfZXZhbC5iYXNlbGluZV9jdXJyZW50IC0tc2V0cyBwYXJhcGhyYXNlLG5lZ2F0aXZlcyxuZWdhdGl2ZXNfaGFyZAoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGFyZ3BhcnNlCmltcG9ydCBqc29uCmltcG9ydCBzdGF0aXN0aWNzCmltcG9ydCB0aW1lCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAoKZnJvbSBfZXZhbCBpbXBvcnQgc3R1Yl9mYXN0YXBpCgpzdHViX2Zhc3RhcGkuaW5zdGFsbCgpCgppbXBvcnQgYXBwICAjIG5vcWE6IEU0MDIKClJPT1QgPSBQYXRoKF9fZmlsZV9fKS5yZXNvbHZlKCkucGFyZW50c1sxXQpTRVRTID0gUk9PVCAvICJfZXZhbCIgLyAic2V0cyIKCgpkZWYgbG9hZChuYW1lOiBzdHIpIC0+IGxpc3RbZGljdF06CiAgICByZXR1cm4gW2pzb24ubG9hZHMobG4pIGZvciBsbiBpbiAoU0VUUyAvIGYie25hbWV9Lmpzb25sIikucmVhZF90ZXh0KGVuY29kaW5nPSJ1dGYtOCIpLnNwbGl0bGluZXMoKQogICAgICAgICAgICBpZiBsbi5zdHJpcCgpXQoKCmRlZiBtYWluKCkgLT4gTm9uZToKICAgIGFwID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoKQogICAgYXAuYWRkX2FyZ3VtZW50KCItLXNldHMiLCBkZWZhdWx0PSJwYXJhcGhyYXNlLG5lZ2F0aXZlcyxuZWdhdGl2ZXNfaGFyZCIpCiAgICBhcmdzID0gYXAucGFyc2VfYXJncygpCiAgICBvdXQgPSB7fQogICAgZm9yIG5hbWUgaW4gW3MgZm9yIHMgaW4gYXJncy5zZXRzLnNwbGl0KCIsIikgaWYgc106CiAgICAgICAgcm93cyA9IGxvYWQobmFtZSkKICAgICAgICBoMSA9IGg1ID0gcmVmID0gMAogICAgICAgIGxhdCA9IFtdCiAgICAgICAgbWlzc2VzID0gW10KICAgICAgICBmb3IgciBpbiByb3dzOgogICAgICAgICAgICB0ID0gdGltZS5wZXJmX2NvdW50ZXIoKQogICAgICAgICAgICAjIOW/hemhu+i1sOaXp+WunueOsO+8mmFwcC5yYW5rIOeOsOWcqOW3sue7j+aYr+aWsOajgOe0ouWZqAogICAgICAgICAgICByYW5rZWQgPSBhcHAuX3JhbmtfbGVnYWN5KHJbInEiXSkKICAgICAgICAgICAgbGF0LmFwcGVuZCgodGltZS5wZXJmX2NvdW50ZXIoKSAtIHQpICogMTAwMCkKICAgICAgICAgICAgaWRzID0gW2l0WyJpZCJdIGZvciBpdCwgXyBpbiByYW5rZWRbOjVdXQogICAgICAgICAgICByZWZ1c2VkID0gKG5vdCByYW5rZWQpIG9yIHJhbmtlZFswXVsxXSA8IGFwcC5NQVRDSF9USFJFU0hPTEQKICAgICAgICAgICAgcmVmICs9IGludChyZWZ1c2VkKQogICAgICAgICAgICBpZiByWyJnb2xkIl06CiAgICAgICAgICAgICAgICBwb3MgPSBuZXh0KChpIGZvciBpLCB4IGluIGVudW1lcmF0ZShpZHMpIGlmIHggaW4gclsiZ29sZCJdKSwgTm9uZSkKICAgICAgICAgICAgICAgIGgxICs9IGludChwb3MgPT0gMCkKICAgICAgICAgICAgICAgIGg1ICs9IGludChwb3MgaXMgbm90IE5vbmUgYW5kIHBvcyA8IDUpCiAgICAgICAgICAgICAgICBpZiBwb3MgaXMgTm9uZSBvciBwb3MgPj0gNToKICAgICAgICAgICAgICAgICAgICBtaXNzZXMuYXBwZW5kKHsicSI6IHJbInEiXSwgImdvbGQiOiByWyJnb2xkIl0sICJ0b3AiOiBpZHNbOjNdLCAic2NvcmUiOiByYW5rZWRbMF1bMV0gaWYgcmFua2VkIGVsc2UgMH0pCiAgICAgICAgbiA9IGxlbihyb3dzKQogICAgICAgIG91dFtuYW1lXSA9IHsibiI6IG4sICJoaXRAMSI6IHJvdW5kKGgxIC8gbiwgNCksICJoaXRANSI6IHJvdW5kKGg1IC8gbiwgNCksCiAgICAgICAgICAgICAgICAgICAgICJyZWZ1c2VkX3JhdGUiOiByb3VuZChyZWYgLyBuLCA0KSwKICAgICAgICAgICAgICAgICAgICAgInA1MF9tcyI6IHJvdW5kKHN0YXRpc3RpY3MubWVkaWFuKGxhdCksIDEpLAogICAgICAgICAgICAgICAgICAgICAibWlzc2VzIjogbWlzc2VzWzozMF19CiAgICAgICAgcHJpbnQoZiJbb2xkXSB7bmFtZX06IG49e259IGhpdEAxPXtvdXRbbmFtZV1bJ2hpdEAxJ119IGhpdEA1PXtvdXRbbmFtZV1bJ2hpdEA1J119ICIKICAgICAgICAgICAgICBmInJlZnVzZWQ9e291dFtuYW1lXVsncmVmdXNlZF9yYXRlJ119IHA1MD17b3V0W25hbWVdWydwNTBfbXMnXX1tcyIpCiAgICAoUk9PVCAvICJfZXZhbCIgLyAib3V0IiAvICJiYXNlbGluZV9vdGhlci5qc29uIikud3JpdGVfdGV4dCgKICAgICAgICBqc29uLmR1bXBzKG91dCwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSksIGVuY29kaW5nPSJ1dGYtOCIpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+"""旧检索器在全部评测集上的基线（presets 已有，这里补 paraphrase / negatives）。
+
+    python -m _eval.baseline_current --sets paraphrase,negatives,negatives_hard
+"""
+from __future__ import annotations
+
+import argparse
+import json
+import statistics
+import time
+from pathlib import Path
+
+from _eval import stub_fastapi
+
+stub_fastapi.install()
+
+import app  # noqa: E402
+
+ROOT = Path(__file__).resolve().parents[1]
+SETS = ROOT / "_eval" / "sets"
+
+
+def load(name: str) -> list[dict]:
+    return [json.loads(ln) for ln in (SETS / f"{name}.jsonl").read_text(encoding="utf-8").splitlines()
+            if ln.strip()]
+
+
+def main() -> None:
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--sets", default="paraphrase,negatives,negatives_hard")
+    args = ap.parse_args()
+    out = {}
+    for name in [s for s in args.sets.split(",") if s]:
+        rows = load(name)
+        h1 = h5 = ref = 0
+        lat = []
+        misses = []
+        for r in rows:
+            t = time.perf_counter()
+            # 必须走旧实现：app.rank 现在已经是新检索器
+            ranked = app._rank_legacy(r["q"])
+            lat.append((time.perf_counter() - t) * 1000)
+            ids = [it["id"] for it, _ in ranked[:5]]
+            refused = (not ranked) or ranked[0][1] < app.MATCH_THRESHOLD
+            ref += int(refused)
+            if r["gold"]:
+                pos = next((i for i, x in enumerate(ids) if x in r["gold"]), None)
+                h1 += int(pos == 0)
+                h5 += int(pos is not None and pos < 5)
+                if pos is None or pos >= 5:
+                    misses.append({"q": r["q"], "gold": r["gold"], "top": ids[:3], "score": ranked[0][1] if ranked else 0})
+        n = len(rows)
+        out[name] = {"n": n, "hit@1": round(h1 / n, 4), "hit@5": round(h5 / n, 4),
+                     "refused_rate": round(ref / n, 4),
+                     "p50_ms": round(statistics.median(lat), 1),
+                     "misses": misses[:30]}
+        print(f"[old] {name}: n={n} hit@1={out[name]['hit@1']} hit@5={out[name]['hit@5']} "
+              f"refused={out[name]['refused_rate']} p50={out[name]['p50_ms']}ms")
+    (ROOT / "_eval" / "out" / "baseline_other.json").write_text(
+        json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
+
+
+if __name__ == "__main__":
+    main()

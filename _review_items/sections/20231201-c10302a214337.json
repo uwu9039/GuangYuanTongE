@@ -1,1 +1,167 @@
-ewogICJrZXkiOiAiMjAyMzEyMDEtYzEwMzAyYTIxNDMzNyIsCiAgInRpdGxlIjogIuS4tOaXtuS6uuWRmOS4reS8oOS/oeaBr+WMluacjeWKoeaMh+WNlyIsCiAgInRydW5jYXRlZCI6IGZhbHNlLAogICJzZWN0aW9ucyI6IFsKICAgIHsKICAgICAgIm5vIjogIuKAlCIsCiAgICAgICJoZWFkaW5nIjogIumhtemdouahhuaetiIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICAgICJsaW5lcyI6IFsxLCA1MV0sCiAgICAgICJpdGVtcyI6IFsicHQtMjVlODcyYzBjMyJdLAogICAgICAiY2hhcnMiOiAyMTEKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLigJQiLAogICAgICAiaGVhZGluZyI6ICLmnI3liqHmjIfljZfnroDku4siLAogICAgICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAgICAibGluZXMiOiBbNTMsIDUzXSwKICAgICAgIml0ZW1zIjogWyJwdC1hOThlNjBlOGU1Il0sCiAgICAgICJjaGFycyI6IDExMQogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuS4gOOAgSIsCiAgICAgICJoZWFkaW5nIjogIuWmguS9leS4i+i9veWuieijheKAnOS4reS8oEFQUOKAne+8nyIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzU1LCA1OV0sCiAgICAgICJpdGVtcyI6IFtdLAogICAgICAiY2hhcnMiOiAyMTAKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLkuozjgIEiLAogICAgICAiaGVhZGluZyI6ICLlpoLkvZXov5vooYznu5/kuIDouqvku73orqTor4HotKblj7fmv4DmtLvvvJ8iLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFs2MSwgNzNdLAogICAgICAiaXRlbXMiOiBbInB0LWM5NGE4ZDA5MzkiLCAicHQtYTMzYTMzZTBiNSIsICJwdC0yODYxNzQ5MzRiIiwgInB0LThlNDRkNDdmNDUiXSwKICAgICAgImNoYXJzIjogMzc5CiAgICB9LAogICAgewogICAgICAibm8iOiAi5LiJ44CBIiwKICAgICAgImhlYWRpbmciOiAi5aaC5L2V6L+b6KGM57uf5LiA6Lqr5Lu96K6k6K+B6LSm5Y+35a+G56CB5L+u5pS5IiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbNzUsIDgxXSwKICAgICAgIml0ZW1zIjogWyJwdC1lMTQ2M2Q3ZGI4IiwgInB0LWFjODFmOWFlMzciLCAicHQtYmExNzc1ZmFiOSJdLAogICAgICAiY2hhcnMiOiAzMjUKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLlm5vjgIEiLAogICAgICAiaGVhZGluZyI6ICLlpoLkvZXov5vooYzlrabmoKHkvIHkuJrlvq7kv6HotKblj7fnu5HlrpoiLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFs4MywgOTddLAogICAgICAiaXRlbXMiOiBbInB0LTI2YzUxMWE3NDgiLCAicHQtZGJhMWEwYWYzOS01NjkyIiwgInB0LWRiYTFhMGFmMzkiLCAicHQtNjk3M2Q3MWFiOSIsICJwdC02NGJlZjBhYWVhIl0sCiAgICAgICJjaGFycyI6IDM1MwogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuS6lOOAgSIsCiAgICAgICJoZWFkaW5nIjogIuWmguS9lei/m+ihjOagoeWbreWNoeezu+e7n+iuv+mXruOAgeWFheWAvOOAgea2iOi0ueWSjOi9rOi0piIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzk5LCAxMjddLAogICAgICAiaXRlbXMiOiBbInB0LWUxMmUxNDJmOGMiXSwKICAgICAgImNoYXJzIjogOTczCiAgICB9LAogICAgewogICAgICAibm8iOiAi5LqU44CB77yIMe+8iSIsCiAgICAgICJoZWFkaW5nIjogIu+8iDHvvInmoKHlm63ljaHns7vnu5/orr/pl64iLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFsxMDEsIDEwNV0sCiAgICAgICJpdGVtcyI6IFtdLAogICAgICAiY2hhcnMiOiAxNjEKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLkupTjgIHvvIgy77yJIiwKICAgICAgImhlYWRpbmciOiAi77yIMu+8ieagoeWbreWNoeWFheWAvCIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzEwNywgMTEzXSwKICAgICAgIml0ZW1zIjogWyJwdC01MzQwMjBlOTE3IiwgInB0LTkwNTFhZjNiYWQiXSwKICAgICAgImNoYXJzIjogMjExCiAgICB9LAogICAgewogICAgICAibm8iOiAi5LqU44CB77yIM++8iSIsCiAgICAgICJoZWFkaW5nIjogIu+8iDPvvInmoKHlm63ljaHmtojotLkiLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFsxMTUsIDEyMV0sCiAgICAgICJpdGVtcyI6IFsicHQtNDlmNTNiZmQ4YiJdLAogICAgICAiY2hhcnMiOiAyOTkKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLkupTjgIHvvIg077yJIiwKICAgICAgImhlYWRpbmciOiAi77yINO+8ieWNoeWNoei9rOi0piIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzEyMywgMTI3XSwKICAgICAgIml0ZW1zIjogWyJwdC0wZGMzZGYwNzVhIiwgInB0LWIwOTk2NzkzMTAiXSwKICAgICAgImNoYXJzIjogMjgwCiAgICB9LAogICAgewogICAgICAibm8iOiAi4oCUIiwKICAgICAgImhlYWRpbmciOiAi6L+b5Ye65qCh5Zut6Ze45py65LiO6Zeo56aB5pa55byPIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgICAgImxpbmVzIjogWzEyOSwgMTQ3XSwKICAgICAgIml0ZW1zIjogWyJwdC1mMTgxMWIxZTA4IiwgInB0LTk1MjY0MDAxZDgiLCAicHQtYzhhNDJkM2EyOCIsICJwdC01NWNmZmY2NWE2IiwgInB0LTk3ZDZiYTJjYjkiLCAicHQtN2MwMTk3OTczOSIsICJwdC0xMjY4YTViN2Q1Il0sCiAgICAgICJjaGFycyI6IDY1MwogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuS4g+OAgSIsCiAgICAgICJoZWFkaW5nIjogIuWmguS9leiuv+mXruagoeWbree9ke+8nyIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzE0OSwgMTU1XSwKICAgICAgIml0ZW1zIjogWyJwdC05ZmZmYTU3OGZiIiwgInB0LTI2MWQ3MGVhNDYiXSwKICAgICAgImNoYXJzIjogMjM2CiAgICB9LAogICAgewogICAgICAibm8iOiAi5YWr44CBIiwKICAgICAgImhlYWRpbmciOiAi5aaC5L2V5oql5L+u5ZKM5LqG6Kej5pyA5paw5L+h5oGv5YyW5pyN5YqhIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbMTU3LCAxNjFdLAogICAgICAiaXRlbXMiOiBbInB0LWI4ZTkxMDQ2NjEiLCAicHQtNWFlMzM0MWYwNyJdLAogICAgICAiY2hhcnMiOiAxOTkKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLigJQiLAogICAgICAiaGVhZGluZyI6ICLpobXohJrvvIjogZTns7vmlrnlvI/kuI7niYjmnYPvvIkiLAogICAgICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAgICAibGluZXMiOiBbMTYzLCAyMTFdLAogICAgICAiaXRlbXMiOiBbXSwKICAgICAgImNoYXJzIjogMzUwCiAgICB9CiAgXSwKICAiaXRlbXMiOiBbCiAgICAicHQtMjVlODcyYzBjMyIsCiAgICAicHQtYTk4ZTYwZThlNSIsCiAgICAicHQtYzk0YThkMDkzOSIsCiAgICAicHQtYTMzYTMzZTBiNSIsCiAgICAicHQtMjg2MTc0OTM0YiIsCiAgICAicHQtOGU0NGQ0N2Y0NSIsCiAgICAicHQtZTE0NjNkN2RiOCIsCiAgICAicHQtYWM4MWY5YWUzNyIsCiAgICAicHQtYmExNzc1ZmFiOSIsCiAgICAicHQtMjZjNTExYTc0OCIsCiAgICAicHQtZGJhMWEwYWYzOS01NjkyIiwKICAgICJwdC1kYmExYTBhZjM5IiwKICAgICJwdC02OTczZDcxYWI5IiwKICAgICJwdC02NGJlZjBhYWVhIiwKICAgICJwdC1lMTJlMTQyZjhjIiwKICAgICJwdC01MzQwMjBlOTE3IiwKICAgICJwdC05MDUxYWYzYmFkIiwKICAgICJwdC00OWY1M2JmZDhiIiwKICAgICJwdC0wZGMzZGYwNzVhIiwKICAgICJwdC1iMDk5Njc5MzEwIiwKICAgICJwdC1mMTgxMWIxZTA4IiwKICAgICJwdC05NTI2NDAwMWQ4IiwKICAgICJwdC1jOGE0MmQzYTI4IiwKICAgICJwdC01NWNmZmY2NWE2IiwKICAgICJwdC05N2Q2YmEyY2I5IiwKICAgICJwdC03YzAxOTc5NzM5IiwKICAgICJwdC0xMjY4YTViN2Q1IiwKICAgICJwdC05ZmZmYTU3OGZiIiwKICAgICJwdC0yNjFkNzBlYTQ2IiwKICAgICJwdC1iOGU5MTA0NjYxIiwKICAgICJwdC01YWUzMzQxZjA3IgogIF0sCiAgIm5vdGVzIjogWwogICAgIuacrOaWh+S7tuS4uue9kemhteacjeWKoeaMh+WNl++8jOS4lOaWh+acrOS4uumalOihjOepuuihjO+8iFxcblxcbu+8ieaKveWPlu+8muesrDEtNTHooYzkuLrnq5nngrnlr7zoiKrjgIHmoI/nm67jgIHpobXpnaLmoIfpopjkuI7lj5HluIPml7bpl7TvvIzlvZLjgIzpobXpnaLmoYbmnrbjgI3oioLvvJvnrKw1M+ihjOS4uuaMh+WNl+eugOS7i+OAgiIsCiAgICAi5Y6f5paH56ug6IqC5bqP5Y+35Li6IOS4gOOAgeS6jOOAgeS4ieOAgeWbm+OAgeS6lOOAge+8iDHvvIkt77yINO+8ieOAgeS4g+OAgeWFq++8m+OAjOWFreOAjeeahOWwj+agh+mimOWcqOaKveWPluaWh+acrOS4ree8uuWkse+8iOesrDEyOeihjOebtOaOpeS7peOAjOazqO+8muS4tOaXtuS6uuWRmOi/m+WHuumXuOacuuaUr+aMgei6q+S7veivgeOAgeagoeWbreeggeWSjOS6uuiEuOivhuWIq+S4ieenjeaWueW8j+OAguOAjei1t+WktO+8ie+8jOaVheivpeauteS7pSBkZXJpdmVkIOagh+mimOOAjOi/m+WHuuagoeWbremXuOacuuS4jumXqOemgeaWueW8j+OAjeeri+iKgu+8jOW5tuWcqOacrCBub3RlcyDor7TmmI7luo/lj7fmlq3moaPjgIIiLAogICAgIuS6lOOAgeS4uueItuiKgu+8iDk5LTEyN++8ie+8jOS4i+WQq++8iDHvvInmoKHlm63ljaHns7vnu5/orr/pl67jgIHvvIgy77yJ5qCh5Zut5Y2h5YWF5YC844CB77yIM++8ieagoeWbreWNoea2iOi0ueOAge+8iDTvvInljaHljaHovazotKblm5vkuKrlrZDoioLvvJtwdC1lMTJlMTQyZjhjIOeahOW8leaWh+i1t+S6juS6lOOAgeagh+mimOihjO+8jOWPquWIl+eItuiKguOAgiIsCiAgICAi56ysMTYzLTIxMeihjOS4uuS/oeaBr+WMluWkhOiBlOezu+aWueW8j+OAgeaKpeS/rueUteivneOAgeW4uOeUqOmTvuaOpeS4jueJiOadg+S/oeaBr++8jOaXoOadoeebruOAgiIsCiAgICAicHQtZGJhMWEwYWYzOSDkuI4gcHQtZGJhMWEwYWYzOS01NjkyIOS4uuWQjOauteS4jeWQjOW8leaWh+iMg+WbtO+8jOWdh+iQveWcqOWbm+OAgeiKgu+8iOesrDg5LTk16KGM77yJ44CCIgogIF0KfQo=
+{
+  "key": "20231201-c10302a214337",
+  "title": "临时人员中传信息化服务指南",
+  "truncated": false,
+  "sections": [
+    {
+      "no": "—",
+      "heading": "页面框架",
+      "heading_kind": "derived",
+      "lines": [1, 51],
+      "items": ["pt-25e872c0c3"],
+      "chars": 211
+    },
+    {
+      "no": "—",
+      "heading": "服务指南简介",
+      "heading_kind": "derived",
+      "lines": [53, 53],
+      "items": ["pt-a98e60e8e5"],
+      "chars": 111
+    },
+    {
+      "no": "一、",
+      "heading": "如何下载安装“中传APP”？",
+      "heading_kind": "author",
+      "lines": [55, 59],
+      "items": [],
+      "chars": 210
+    },
+    {
+      "no": "二、",
+      "heading": "如何进行统一身份认证账号激活？",
+      "heading_kind": "author",
+      "lines": [61, 73],
+      "items": ["pt-c94a8d0939", "pt-a33a33e0b5", "pt-286174934b", "pt-8e44d47f45"],
+      "chars": 379
+    },
+    {
+      "no": "三、",
+      "heading": "如何进行统一身份认证账号密码修改",
+      "heading_kind": "author",
+      "lines": [75, 81],
+      "items": ["pt-e1463d7db8", "pt-ac81f9ae37", "pt-ba1775fab9"],
+      "chars": 325
+    },
+    {
+      "no": "四、",
+      "heading": "如何进行学校企业微信账号绑定",
+      "heading_kind": "author",
+      "lines": [83, 97],
+      "items": ["pt-26c511a748", "pt-dba1a0af39-5692", "pt-dba1a0af39", "pt-6973d71ab9", "pt-64bef0aaea"],
+      "chars": 353
+    },
+    {
+      "no": "五、",
+      "heading": "如何进行校园卡系统访问、充值、消费和转账",
+      "heading_kind": "author",
+      "lines": [99, 127],
+      "items": ["pt-e12e142f8c"],
+      "chars": 973
+    },
+    {
+      "no": "五、（1）",
+      "heading": "（1）校园卡系统访问",
+      "heading_kind": "author",
+      "lines": [101, 105],
+      "items": [],
+      "chars": 161
+    },
+    {
+      "no": "五、（2）",
+      "heading": "（2）校园卡充值",
+      "heading_kind": "author",
+      "lines": [107, 113],
+      "items": ["pt-534020e917", "pt-9051af3bad"],
+      "chars": 211
+    },
+    {
+      "no": "五、（3）",
+      "heading": "（3）校园卡消费",
+      "heading_kind": "author",
+      "lines": [115, 121],
+      "items": ["pt-49f53bfd8b"],
+      "chars": 299
+    },
+    {
+      "no": "五、（4）",
+      "heading": "（4）卡卡转账",
+      "heading_kind": "author",
+      "lines": [123, 127],
+      "items": ["pt-0dc3df075a", "pt-b099679310"],
+      "chars": 280
+    },
+    {
+      "no": "—",
+      "heading": "进出校园闸机与门禁方式",
+      "heading_kind": "derived",
+      "lines": [129, 147],
+      "items": ["pt-f1811b1e08", "pt-95264001d8", "pt-c8a42d3a28", "pt-55cfff65a6", "pt-97d6ba2cb9", "pt-7c01979739", "pt-1268a5b7d5"],
+      "chars": 653
+    },
+    {
+      "no": "七、",
+      "heading": "如何访问校园网？",
+      "heading_kind": "author",
+      "lines": [149, 155],
+      "items": ["pt-9fffa578fb", "pt-261d70ea46"],
+      "chars": 236
+    },
+    {
+      "no": "八、",
+      "heading": "如何报修和了解最新信息化服务",
+      "heading_kind": "author",
+      "lines": [157, 161],
+      "items": ["pt-b8e9104661", "pt-5ae3341f07"],
+      "chars": 199
+    },
+    {
+      "no": "—",
+      "heading": "页脚（联系方式与版权）",
+      "heading_kind": "derived",
+      "lines": [163, 211],
+      "items": [],
+      "chars": 350
+    }
+  ],
+  "items": [
+    "pt-25e872c0c3",
+    "pt-a98e60e8e5",
+    "pt-c94a8d0939",
+    "pt-a33a33e0b5",
+    "pt-286174934b",
+    "pt-8e44d47f45",
+    "pt-e1463d7db8",
+    "pt-ac81f9ae37",
+    "pt-ba1775fab9",
+    "pt-26c511a748",
+    "pt-dba1a0af39-5692",
+    "pt-dba1a0af39",
+    "pt-6973d71ab9",
+    "pt-64bef0aaea",
+    "pt-e12e142f8c",
+    "pt-534020e917",
+    "pt-9051af3bad",
+    "pt-49f53bfd8b",
+    "pt-0dc3df075a",
+    "pt-b099679310",
+    "pt-f1811b1e08",
+    "pt-95264001d8",
+    "pt-c8a42d3a28",
+    "pt-55cfff65a6",
+    "pt-97d6ba2cb9",
+    "pt-7c01979739",
+    "pt-1268a5b7d5",
+    "pt-9fffa578fb",
+    "pt-261d70ea46",
+    "pt-b8e9104661",
+    "pt-5ae3341f07"
+  ],
+  "notes": [
+    "本文件为网页服务指南，且文本为隔行空行（\\n\\n）抽取：第1-51行为站点导航、栏目、页面标题与发布时间，归「页面框架」节；第53行为指南简介。",
+    "原文章节序号为 一、二、三、四、五、（1）-（4）、七、八；「六」的小标题在抽取文本中缺失（第129行直接以「注：临时人员进出闸机支持身份证、校园码和人脸识别三种方式。」起头），故该段以 derived 标题「进出校园闸机与门禁方式」立节，并在本 notes 说明序号断档。",
+    "五、为父节（99-127），下含（1）校园卡系统访问、（2）校园卡充值、（3）校园卡消费、（4）卡卡转账四个子节；pt-e12e142f8c 的引文起于五、标题行，只列父节。",
+    "第163-211行为信息化处联系方式、报修电话、常用链接与版权信息，无条目。",
+    "pt-dba1a0af39 与 pt-dba1a0af39-5692 为同段不同引文范围，均落在四、节（第89-95行）。"
+  ]
+}

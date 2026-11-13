@@ -1,1 +1,198 @@
-ew0KICJrZXkiOiAiMjAyNjA5MjQtYzIwNjRhMjc0MzIzIiwNCiAidGl0bGUiOiAi5b+D5oCA54Ot5pyb77yM5YWx6LW05paw56ugfOaWsOeUn+ePreS4u+S7u+OAgei+heWvvOWRmOWvhOivrTIwMjbnuqflsI/nmb3mnagiLA0KICJ0cnVuY2F0ZWQiOiBmYWxzZSwNCiAic2VjdGlvbnMiOiBbDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi6aG16Z2i5qGG5p625LiO5a+86IiqIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMSwNCiAgICAzMg0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMjgwDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi6aG16Z2i5qCH6aKY5LiO5Y+R5biD5L+h5oGvIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMzMsDQogICAgMzQNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTQ2NTZiM2YyM2UiDQogICBdLA0KICAgImNoYXJzIjogNTENCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLlvIDnr4flr7zor60iLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzNSwNCiAgICAzNg0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtODlhYWQ5ZjFhMiINCiAgIF0sDQogICAiY2hhcnMiOiAxODUNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLkuIPkvY3ogIHluIjnmoTlr4Tor63vvIjniLboioLvvIzkuIvlkKvkuIPkuKrlsI/oioLvvIkiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzNywNCiAgICA3MQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNzA2ZWQwMDgyNSINCiAgIF0sDQogICAiY2hhcnMiOiAyNDc3DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAiMjAyNue6p+acrOehleWNmui+heWvvOWRmCDmnajkuL3ojokiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDM3LA0KICAgIDQxDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1lMTliNzNkNjQ1IiwNCiAgICAicHQtMTE1YjUyNzhjMSIsDQogICAgInB0LTJjM2M4MDJlNDYiDQogICBdLA0KICAgImNoYXJzIjogNTI3DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAiMjAyNue6p+WNmuWjq+ePreePreS4u+S7uyDnjovkuqzlsbEiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDQyLA0KICAgIDQ2DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1mMDkzMGI4N2VkIiwNCiAgICAicHQtMjQ3MzA4OTU0YyINCiAgIF0sDQogICAiY2hhcnMiOiAyOTUNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICIyMDI257qn5a2m5pyv56GV5aOrMeePreePreS4u+S7uyDotbXlm73lroEiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDQ3LA0KICAgIDUxDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1hYzAwYTU3OTdjIiwNCiAgICAicHQtNGU5OTQwMTZjMCINCiAgIF0sDQogICAiY2hhcnMiOiAyOTYNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICIyMDI257qn5a2m5pyv56GV5aOrMuePre+8iOe8lui+keWHuueJiOWtpu+8ieePreS4u+S7uyDmnajnn7PljY4iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDUyLA0KICAgIDU2DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC00NWZjM2JiNjhlIiwNCiAgICAicHQtNjU0ZTFiOGE5NyINCiAgIF0sDQogICAiY2hhcnMiOiAzMDcNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICIyMDI257qn5LiT56GV54+t54+t5Li75Lu7IOW8oOWAqSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNTcsDQogICAgNjENCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTg0ZmQzNDYwZmEiLA0KICAgICJwdC02NGFmZWNiY2UwIg0KICAgXSwNCiAgICJjaGFycyI6IDM3Ng0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIjIwMjbnuqfmnKznp5HkvKDmkq3lrabvvIjkv6Hmga/kvKDmkq3mlrnlkJHvvInnj63nj63kuLvku7sg6ZmI5paH5rKBIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA2MiwNCiAgICA2Ng0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMmY0ZDdjM2U3OCINCiAgIF0sDQogICAiY2hhcnMiOiAyNDUNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICIyMDI257qn5pys56eR5Lyg5pKt5a2m77yI6IiG5oOF5LiO56S+5Lya5rK755CG77yJ54+t54+t5Li75Lu7IOWImOaloCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNjcsDQogICAgNzENCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTY3N2VjNzU4NzciLA0KICAgICJwdC05YTRjY2JkMTI5IiwNCiAgICAicHQtZTZhMTljNzI1OSINCiAgIF0sDQogICAiY2hhcnMiOiA0MzENCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLpobXpnaLpobXohJrkuI7lj4vmg4Xpk77mjqUiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA3MiwNCiAgICA4OQ0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMzkzDQogIH0NCiBdLA0KICJpdGVtcyI6IFsNCiAgInB0LTQ2NTZiM2YyM2UiLA0KICAicHQtODlhYWQ5ZjFhMiIsDQogICJwdC1lMTliNzNkNjQ1IiwNCiAgInB0LTExNWI1Mjc4YzEiLA0KICAicHQtMmMzYzgwMmU0NiIsDQogICJwdC1mMDkzMGI4N2VkIiwNCiAgInB0LTI0NzMwODk1NGMiLA0KICAicHQtYWMwMGE1Nzk3YyIsDQogICJwdC00ZTk5NDAxNmMwIiwNCiAgInB0LTQ1ZmMzYmI2OGUiLA0KICAicHQtNjU0ZTFiOGE5NyIsDQogICJwdC04NGZkMzQ2MGZhIiwNCiAgInB0LTY0YWZlY2JjZTAiLA0KICAicHQtMmY0ZDdjM2U3OCIsDQogICJwdC03MDZlZDAwODI1IiwNCiAgInB0LTY3N2VjNzU4NzciLA0KICAicHQtOWE0Y2NiZDEyOSIsDQogICJwdC1lNmExOWM3MjU5Ig0KIF0sDQogIm5vdGVzIjogWw0KICAi56ysIDHigJMzMiDooYzmmK/kv6Hmga/kvKDmkq3lrabpmaLnvZHnq5nnmoTpobXlpLTjgIFsb2dv44CB5LiJ57qn5a+86Iiq77yI5a2m6Zmi566A5LuLL+WtpuiAhemjjumHhy/lrabnlJ/ln7nlhbvigKbvvInkuI7moI/nm67pnaLljIXlsZHjgIzpppbpobUg5a2m6Zmi5paw6Ze744CN77yM56ysIDEg6KGM5qCH6aKY5LiO56ysIDMzIOihjOmhtemdouagh+mimOmHjeWkje+8jOesrCAxIOihjOaMieWPo+W+hOW9kuOAjOmhtemdouahhuaetuS4juWvvOiIquOAjeOAgiIsDQogICLnrKwgMzPigJMzNCDooYzmmK/pobXpnaLmoIfpopjkuI7lj5HluIPml7bpl7Qv5rWP6KeI5qyh5pWw77yb5qCH6aKY5p2h55uuIHB0LTQ2NTZiM2YyM2Ug55qE5byV5paH5LiO5qCH6aKY6YCQ5a2X55u45ZCM77yI56ysIDEg6KGM5LiO56ysIDMzIOihjOWdh+WHuueOsO+8ie+8jOWIl+WcqOatpOiKguOAgiIsDQogICLnrKwgMzXigJMzNiDooYzmmK/lvIDnr4flr7zor63vvIjov47mlrDkuI7jgIzkuIDotbfmnaXlkKzlkKzogIHluIjku6zmg7Plr7kyMDI257qn5bCP55m95p2o6K+05Lqb5LuA5LmI44CN77yJ77yM5peg5bCP5qCH6aKY77yM5Y2V5YiX5LiA6IqC44CCIiwNCiAgIuesrCAzN+KAkzcxIOihjOaYr+S4g+S9jeiAgeW4iOeahOWvhOivreadv+Wdl++8jOavj+Wdl+e7k+aehOebuOWQjO+8muWnk+WQjeiBjOWKoeihjCDihpIg6YWN5Zu+77yIW+mZhOS7tl0g6KGM77yJ4oaSIOS4quS6uueugOS7iyDihpIg44CM5a+E6K+t5paw55Sf44CN4oaSIOWvhOivreato+aWh++8m+aMieWnk+WQjeiBjOWKoeihjOi1t+OAgeWIsOS4i+S4gOS9jeiAgeW4iOWnk+WQjeS4uuatouWIh+aIkOS4g+S4quWwj+iKgu+8jOiKguWQjeeUqOWOn+aWh+Wnk+WQjeihjO+8iGF1dGhvcu+8ieOAgueItuiKgiBbMzcsNzFdIOWMheS9j+i/meS4g+S4quWwj+iKgu+8jOS4uuecn+W1jOWll+OAgiIsDQogICLniLboioLlj6rmjIIgcHQtNzA2ZWQwMDgyNe+8muivpeadoeebrueahOW8leaWh+aYr+mZiOaWh+aygeiAgeW4iOmCo+WPpeOAjOWwkeW5tOi+m+iLpue7iOi6q+S6i++8jOiOq+WQkeWFiemYtOaDsOWvuOWKn+OAguOAje+8jOS9huS4iua4uOaKveWPluaKiuW8leaWh+WwvumDqOS4juS4i+S4gOS9jeiAgeW4iOeahOWnk+WQjeihjOOAjDIwMjbnuqfmnKznp5HkvKDmkq3lrabvvIjoiIbmg4XkuI7npL7kvJrmsrvnkIbvvInnj63nj63kuLvku7sg5YiY5qWg44CN77yI56ysIDY3IOihjO+8ieeymOWcqOS4gOi1t++8jOW8leaWh+WJjSAyNiDlrZfot6jnrKwgNjXigJM2NyDooYzjgIHmqKrot6jpmYjmlofmsoHkuI7liJjmpaDkuKTkuKrlsI/oioLvvIzlj6rmnInniLboioLljLrpl7Tog73lrozmlbTlkb3kuK3vvIzmlYXmjInjgIzot6joioLmnaHnm67liJfliLDnq6DnuqfniLboioLjgI3nmoTlj6PlvoTlj6rliJflnKjniLboioLvvIzkuI3lho3ov5vkuKTkuKrlrZDoioLjgIIiLA0KICAi44CM5a+E6K+t5paw55Sf44CN5Zyo56ysIDQw44CBNDXjgIE1MOOAgTU144CBNjDjgIE2NeOAgTcwIOihjOmHjeWkjeWHuueOsO+8jOaYr+avj+Wdl+WGhemDqOeahOWbuuWumuWwj+agh++8iOS4jeaehOaIkOWPr+WMuuWIhueahOWwj+agh+mimO+8ie+8jOaVheacquWNleeLrOaLhuiKgu+8jOmaj+WQhOiAgeW4iOWwj+iKguOAgiIsDQogICLliJjmpaDkuIDoioLlhoXvvIxwdC05YTRjY2JkMTI5IOeahOW8leaWh++8iOWPkei1t+OAjOWuiOaKpOiLj+S4nOWdoeS6keadkeOAjeiOt+WGnOS4mumDqOWllumhueKApu+8ieaYr+eugOS7i+auteacq+WPpe+8jOS4jiBwdC02NzdlYzc1ODc3IOWQjOiQveWcqOesrCA2OSDooYzjgIIiLA0KICAi56ysIDcy4oCTODkg6KGM5piv6aG16ISa77yIbG9nb+OAgeWPi+aDhemTvuaOpeOAgeWcsOWdgOmCrue8luOAgeWkh+ahiOWPt+OAgeWbnuWIsOmhtumDqOOAgeiuv+mXruiuoeaVsOmZhOS7tu+8ie+8jOaXoOato+aWh++8jOWNleWIl+S4gOiKguOAgeS4jeaMguadoeebruOAgiIsDQogICLmnKzku7bml6AgcnVsZS0g5YmN57yA55qE5paH5qGj57qn5p2h55uu77yb5paH5qGj57qnIGl0ZW1zIOWNs+acrOaWh+S7tuWFqOmDqCAxOCDmnaEgcHQg5p2h55uu77yM5Z2H5bey6JC96L+b5LiK6L+w5ZCE6IqC44CCIg0KIF0NCn0=
+{
+ "key": "20260924-c2064a274323",
+ "title": "心怀热望，共赴新章|新生班主任、辅导员寄语2026级小白杨",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "页面框架与导航",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    32
+   ],
+   "items": [],
+   "chars": 280
+  },
+  {
+   "no": "—",
+   "heading": "页面标题与发布信息",
+   "heading_kind": "derived",
+   "lines": [
+    33,
+    34
+   ],
+   "items": [
+    "pt-4656b3f23e"
+   ],
+   "chars": 51
+  },
+  {
+   "no": "—",
+   "heading": "开篇导语",
+   "heading_kind": "derived",
+   "lines": [
+    35,
+    36
+   ],
+   "items": [
+    "pt-89aad9f1a2"
+   ],
+   "chars": 185
+  },
+  {
+   "no": "—",
+   "heading": "七位老师的寄语（父节，下含七个小节）",
+   "heading_kind": "derived",
+   "lines": [
+    37,
+    71
+   ],
+   "items": [
+    "pt-706ed00825"
+   ],
+   "chars": 2477
+  },
+  {
+   "no": "—",
+   "heading": "2026级本硕博辅导员 杨丽莉",
+   "heading_kind": "author",
+   "lines": [
+    37,
+    41
+   ],
+   "items": [
+    "pt-e19b73d645",
+    "pt-115b5278c1",
+    "pt-2c3c802e46"
+   ],
+   "chars": 527
+  },
+  {
+   "no": "—",
+   "heading": "2026级博士班班主任 王京山",
+   "heading_kind": "author",
+   "lines": [
+    42,
+    46
+   ],
+   "items": [
+    "pt-f0930b87ed",
+    "pt-247308954c"
+   ],
+   "chars": 295
+  },
+  {
+   "no": "—",
+   "heading": "2026级学术硕士1班班主任 赵国宁",
+   "heading_kind": "author",
+   "lines": [
+    47,
+    51
+   ],
+   "items": [
+    "pt-ac00a5797c",
+    "pt-4e994016c0"
+   ],
+   "chars": 296
+  },
+  {
+   "no": "—",
+   "heading": "2026级学术硕士2班（编辑出版学）班主任 杨石华",
+   "heading_kind": "author",
+   "lines": [
+    52,
+    56
+   ],
+   "items": [
+    "pt-45fc3bb68e",
+    "pt-654e1b8a97"
+   ],
+   "chars": 307
+  },
+  {
+   "no": "—",
+   "heading": "2026级专硕班班主任 张倩",
+   "heading_kind": "author",
+   "lines": [
+    57,
+    61
+   ],
+   "items": [
+    "pt-84fd3460fa",
+    "pt-64afecbce0"
+   ],
+   "chars": 376
+  },
+  {
+   "no": "—",
+   "heading": "2026级本科传播学（信息传播方向）班班主任 陈文沁",
+   "heading_kind": "author",
+   "lines": [
+    62,
+    66
+   ],
+   "items": [
+    "pt-2f4d7c3e78"
+   ],
+   "chars": 245
+  },
+  {
+   "no": "—",
+   "heading": "2026级本科传播学（舆情与社会治理）班班主任 刘楠",
+   "heading_kind": "author",
+   "lines": [
+    67,
+    71
+   ],
+   "items": [
+    "pt-677ec75877",
+    "pt-9a4ccbd129",
+    "pt-e6a19c7259"
+   ],
+   "chars": 431
+  },
+  {
+   "no": "—",
+   "heading": "页面页脚与友情链接",
+   "heading_kind": "derived",
+   "lines": [
+    72,
+    89
+   ],
+   "items": [],
+   "chars": 393
+  }
+ ],
+ "items": [
+  "pt-4656b3f23e",
+  "pt-89aad9f1a2",
+  "pt-e19b73d645",
+  "pt-115b5278c1",
+  "pt-2c3c802e46",
+  "pt-f0930b87ed",
+  "pt-247308954c",
+  "pt-ac00a5797c",
+  "pt-4e994016c0",
+  "pt-45fc3bb68e",
+  "pt-654e1b8a97",
+  "pt-84fd3460fa",
+  "pt-64afecbce0",
+  "pt-2f4d7c3e78",
+  "pt-706ed00825",
+  "pt-677ec75877",
+  "pt-9a4ccbd129",
+  "pt-e6a19c7259"
+ ],
+ "notes": [
+  "第 1–32 行是信息传播学院网站的页头、logo、三级导航（学院简介/学者风采/学生培养…）与栏目面包屑「首页 学院新闻」，第 1 行标题与第 33 行页面标题重复，第 1 行按口径归「页面框架与导航」。",
+  "第 33–34 行是页面标题与发布时间/浏览次数；标题条目 pt-4656b3f23e 的引文与标题逐字相同（第 1 行与第 33 行均出现），列在此节。",
+  "第 35–36 行是开篇导语（迎新与「一起来听听老师们想对2026级小白杨说些什么」），无小标题，单列一节。",
+  "第 37–71 行是七位老师的寄语板块，每块结构相同：姓名职务行 → 配图（[附件] 行）→ 个人简介 → 「寄语新生」→ 寄语正文；按姓名职务行起、到下一位老师姓名为止切成七个小节，节名用原文姓名行（author）。父节 [37,71] 包住这七个小节，为真嵌套。",
+  "父节只挂 pt-706ed00825：该条目的引文是陈文沁老师那句「少年辛苦终身事，莫向光阴惰寸功。」，但上游抽取把引文尾部与下一位老师的姓名行「2026级本科传播学（舆情与社会治理）班班主任 刘楠」（第 67 行）粘在一起，引文前 26 字跨第 65–67 行、横跨陈文沁与刘楠两个小节，只有父节区间能完整命中，故按「跨节条目列到章级父节」的口径只列在父节，不再进两个子节。",
+  "「寄语新生」在第 40、45、50、55、60、65、70 行重复出现，是每块内部的固定小标（不构成可区分的小标题），故未单独拆节，随各老师小节。",
+  "刘楠一节内，pt-9a4ccbd129 的引文（发起「守护苏东坡云村」获农业部奖项…）是简介段末句，与 pt-677ec75877 同落在第 69 行。",
+  "第 72–89 行是页脚（logo、友情链接、地址邮编、备案号、回到顶部、访问计数附件），无正文，单列一节、不挂条目。",
+  "本件无 rule- 前缀的文档级条目；文档级 items 即本文件全部 18 条 pt 条目，均已落进上述各节。"
+ ]
+}

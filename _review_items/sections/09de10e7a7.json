@@ -1,1 +1,107 @@
-ewogICJrZXkiOiAiMDlkZTEwZTdhNyIsCiAgInRpdGxlIjogIue7j+a1juS4jueuoeeQhuWtpumZouaOqOS8mOWFpeWFmuWkp+S8muWchua7oeiQveW5lSIsCiAgInRydW5jYXRlZCI6IGZhbHNlLAogICJzZWN0aW9ucyI6IFsKICAgIHsKICAgICAgIm5vIjogIiIsCiAgICAgICJoZWFkaW5nIjogIue7j+a1juS4jueuoeeQhuWtpumZouaOqOS8mOWFpeWFmuWkp+S8muWchua7oeiQveW5lSIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzEsIDJdLAogICAgICAiaXRlbXMiOiBbInJ1bGUtMDlkZTEwZTdhNyJdLAogICAgICAiY2hhcnMiOiA3MgogICAgfSwKICAgIHsKICAgICAgIm5vIjogIiIsCiAgICAgICJoZWFkaW5nIjogIue9keermeWvvOiIquS4juagj+ebruiPnOWNlSIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICAgICJsaW5lcyI6IFszLCA1NF0sCiAgICAgICJpdGVtcyI6IFsicHQtYzUwYjk4OGEzOCIsICJwdC03MjQ3NmNiNjM2IiwgInB0LTk5NjU0YzJmZGUiLCAicHQtMWY0ZTA2YWZlYSJdLAogICAgICAiY2hhcnMiOiAyNTYKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICIiLAogICAgICAiaGVhZGluZyI6ICLmraPmlofmoIfpopjkuI7lj5HluIPkv6Hmga8iLAogICAgICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAgICAibGluZXMiOiBbNTUsIDU2XSwKICAgICAgIml0ZW1zIjogW10sCiAgICAgICJjaGFycyI6IDQwCiAgICB9LAogICAgewogICAgICAibm8iOiAiIiwKICAgICAgImhlYWRpbmciOiAi5o6o5LyY5YWl5YWa5bel5L2c55qE5ZCv5Yqo5LiO5L6d5o2uIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgICAgImxpbmVzIjogWzU3LCA1N10sCiAgICAgICJpdGVtcyI6IFsicHQtZmM5Y2FhOGUwYiJdLAogICAgICAiY2hhcnMiOiAxNDEKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICIiLAogICAgICAiaGVhZGluZyI6ICLmjqjkvJjlgJnpgInkurrnmoTnrZvpgInkuI7mjqjkvJjlpKfkvJrnmoTnm5HnnaPjgIHkuI7kvJropoHmsYIiLAogICAgICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAgICAibGluZXMiOiBbNTgsIDU4XSwKICAgICAgIml0ZW1zIjogWyJwdC1hNDZjNTc1YTFkIiwgInB0LWZiM2U5MjVlNWMiLCAicHQtYWUwOTIyY2FlNCJdLAogICAgICAiY2hhcnMiOiAxNDYKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICIiLAogICAgICAiaGVhZGluZyI6ICLlgJnpgInkurrmg4XlhrXku4vnu43kuI7oh6rmiJHor4Tku7ciLAogICAgICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAgICAibGluZXMiOiBbNTksIDU5XSwKICAgICAgIml0ZW1zIjogWyJwdC1mMTBmNTZmY2RlIiwgInB0LWUwYmZhOWNmYzQiXSwKICAgICAgImNoYXJzIjogMTAzCiAgICB9LAogICAgewogICAgICAibm8iOiAiIiwKICAgICAgImhlYWRpbmciOiAi5rCR5Li76K+E6K6u44CB5peg6K6w5ZCN5oqV56Wo6KGo5Yaz5LiO57uT5p6c57uf6K6hIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgICAgImxpbmVzIjogWzYwLCA2MF0sCiAgICAgICJpdGVtcyI6IFsicHQtMDFiYzA2OTlmYSIsICJwdC03YzA0NzcwMjMzIiwgInB0LTExYWQ0MzUxY2UiXSwKICAgICAgImNoYXJzIjogMTI3CiAgICB9LAogICAgewogICAgICAibm8iOiAiIiwKICAgICAgImhlYWRpbmciOiAi5o6o5LyY57uT5p6c5LiO5ZCO57ut5Z+55YW75pWZ6IKyIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgICAgImxpbmVzIjogWzYxLCA2MV0sCiAgICAgICJpdGVtcyI6IFsicHQtZTAzYTEyMzIzZSIsICJwdC1lNDQzNmFhMTFmIl0sCiAgICAgICJjaGFycyI6IDExOQogICAgfSwKICAgIHsKICAgICAgIm5vIjogIiIsCiAgICAgICJoZWFkaW5nIjogIumhteiEmuOAgeS6jOe7tOeggeS4juiuv+mXrue7n+iuoSIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICAgICJsaW5lcyI6IFs2MiwgNjhdLAogICAgICAiaXRlbXMiOiBbInB0LTQyYTQzZTkyYWQiLCAicHQtYTlmNDNhZmY4MCJdLAogICAgICAiY2hhcnMiOiAyNjMKICAgIH0KICBdLAogICJpdGVtcyI6IFsKICAgICJydWxlLTA5ZGUxMGU3YTciLAogICAgInB0LWE0NmM1NzVhMWQiLAogICAgInB0LWZiM2U5MjVlNWMiLAogICAgInB0LWFlMDkyMmNhZTQiLAogICAgInB0LWYxMGY1NmZjZGUiLAogICAgInB0LWUwYmZhOWNmYzQiLAogICAgInB0LTAxYmMwNjk5ZmEiLAogICAgInB0LTdjMDQ3NzAyMzMiLAogICAgInB0LTExYWQ0MzUxY2UiLAogICAgInB0LWUwM2ExMjMyM2UiLAogICAgInB0LWU0NDM2YWExMWYiLAogICAgInB0LWM1MGI5ODhhMzgiLAogICAgInB0LTcyNDc2Y2I2MzYiLAogICAgInB0LTk5NjU0YzJmZGUiLAogICAgInB0LTFmNGUwNmFmZWEiLAogICAgInB0LWZjOWNhYThlMGIiLAogICAgInB0LTQyYTQzZTkyYWQiLAogICAgInB0LWE5ZjQzYWZmODAiCiAgXSwKICAibm90ZXMiOiBbCiAgICAi5Y6f5paH5Li65a2m6Zmi5paw6Ze7572R6aG16Z2i77yM5YWo56+H5peg5bCP5qCH6aKY77ya56ysMeihjOS4uumhtemdouagh+mimOOAgeesrDLooYzkuLogbG9nbyDlm77vvIjpmYTku7booYzvvInvvIznrKwz4oCUNTTooYzkuLrnq5nngrnlr7zoiKroj5zljZXvvIjlkKvkuoznuqfmoI/nm67kuI7luIjotYTliIbnsbvvvInvvIznrKw1NeihjOS4uuato+aWh+mHjeWkjeeahOagh+mimO+8jOesrDU26KGM5Li65Y+R5biD5pe26Ze05LiO5rWP6KeI5qyh5pWw77yM56ysNTfigJQ2MeihjOS4uuS6lOauteato+aWh++8jOesrDYy4oCUNjjooYzkuLrpobXohJrkuI7kuoznu7TnoIHlm77jgIIiLAogICAgIuato+aWh+WPquaciei/nue7reWPmei/sOeahOS6lOaute+8jOayoeacieS7u+S9leOAjOS4gOOAgeOAjeOAjOesrFjmnaHjgI3jgIzvvIjkuIDvvInjgI3nu5PmnoTvvJvnrKw1N+KAlDYx6KGM5LqU6IqCIGhlYWRpbmcg5Z2H5Li65o2u6K+l6Ieq54S25q615YaF5a655qaC5ous77yIZGVyaXZlZO+8ie+8jOiKgueVjOWNs+WOn+aWh+iHqueEtuautei+ueeVjOOAgiIsCiAgICAi6aG16Z2i5qCH6aKY77yI56ysMeihjO+8ieS4juato+aWh+agh+mimO+8iOesrDU16KGM77yJ5paH5a2X55u45ZCM77yM5Zug6KGM5Y+35LiN55u46YK777yM5YiG5YiX44CM57uP5rWO5LiO566h55CG5a2m6Zmi5o6o5LyY5YWl5YWa5aSn5Lya5ZyG5ruh6JC95bmV44CN5LiO44CM5q2j5paH5qCH6aKY5LiO5Y+R5biD5L+h5oGv44CN5Lik6IqC44CCIiwKICAgICJydWxlLTA5ZGUxMGU3YTcg5Li65paH5qGj57qn5p2h55uu77yI5peg5byV5paH77yM5qCH6aKY5Y2z5paH5qGj5ZCN44CM5o6o5LyY5YWl5YWa5bel5L2c5Yqe5rOV77yIc2VtLmN1Y++8ieOAje+8ie+8jOaMieS7u+WKoeS5puWIl+WFpeesrOS4gOiKguW5tuS/neeVmeWcqOaWh+aho+e6pyBpdGVtc+OAgiIsCiAgICAicHQtYzUwYjk4OGEzOOOAgXB0LTcyNDc2Y2I2MzbjgIFwdC05OTY1NGMyZmRl44CBcHQtMWY0ZTA2YWZlYSDlm5vmnaHlvJXmloflnYfkuLrlr7zoiKroj5zljZXmloflrZfmi7zmjqXvvIjlpoLjgIznu4/nrqHopoHpl7vnu4/lvanliqjmgIHjgI3jgIzpq5jnrqHmlZnogrLvvIhFRe+8ieS4reW/g+eOsOS7u+mihuWvvOOAje+8ie+8jOiQveeCueWcqOWvvOiIquiKguOAgiIsCiAgICAi44CM5q2j5paH5qCH6aKY5LiO5Y+R5biD5L+h5oGv44CN6IqC77yI56ysNTXigJQ1NuihjO+8ieaXoOadoeebruW8leeUqO+8muivpeS4pOihjOaYr+mHjeWkjeagh+mimOS4jua1j+iniOiuoeaVsO+8jOWxnueJiOmdouS/oeaBr++8jOmdnuadoeaWh+OAgiIKICBdCn0K
+{
+  "key": "09de10e7a7",
+  "title": "经济与管理学院推优入党大会圆满落幕",
+  "truncated": false,
+  "sections": [
+    {
+      "no": "",
+      "heading": "经济与管理学院推优入党大会圆满落幕",
+      "heading_kind": "author",
+      "lines": [1, 2],
+      "items": ["rule-09de10e7a7"],
+      "chars": 72
+    },
+    {
+      "no": "",
+      "heading": "网站导航与栏目菜单",
+      "heading_kind": "derived",
+      "lines": [3, 54],
+      "items": ["pt-c50b988a38", "pt-72476cb636", "pt-99654c2fde", "pt-1f4e06afea"],
+      "chars": 256
+    },
+    {
+      "no": "",
+      "heading": "正文标题与发布信息",
+      "heading_kind": "derived",
+      "lines": [55, 56],
+      "items": [],
+      "chars": 40
+    },
+    {
+      "no": "",
+      "heading": "推优入党工作的启动与依据",
+      "heading_kind": "derived",
+      "lines": [57, 57],
+      "items": ["pt-fc9caa8e0b"],
+      "chars": 141
+    },
+    {
+      "no": "",
+      "heading": "推优候选人的筛选与推优大会的监督、与会要求",
+      "heading_kind": "derived",
+      "lines": [58, 58],
+      "items": ["pt-a46c575a1d", "pt-fb3e925e5c", "pt-ae0922cae4"],
+      "chars": 146
+    },
+    {
+      "no": "",
+      "heading": "候选人情况介绍与自我评价",
+      "heading_kind": "derived",
+      "lines": [59, 59],
+      "items": ["pt-f10f56fcde", "pt-e0bfa9cfc4"],
+      "chars": 103
+    },
+    {
+      "no": "",
+      "heading": "民主评议、无记名投票表决与结果统计",
+      "heading_kind": "derived",
+      "lines": [60, 60],
+      "items": ["pt-01bc0699fa", "pt-7c04770233", "pt-11ad4351ce"],
+      "chars": 127
+    },
+    {
+      "no": "",
+      "heading": "推优结果与后续培养教育",
+      "heading_kind": "derived",
+      "lines": [61, 61],
+      "items": ["pt-e03a12323e", "pt-e4436aa11f"],
+      "chars": 119
+    },
+    {
+      "no": "",
+      "heading": "页脚、二维码与访问统计",
+      "heading_kind": "derived",
+      "lines": [62, 68],
+      "items": ["pt-42a43e92ad", "pt-a9f43aff80"],
+      "chars": 263
+    }
+  ],
+  "items": [
+    "rule-09de10e7a7",
+    "pt-a46c575a1d",
+    "pt-fb3e925e5c",
+    "pt-ae0922cae4",
+    "pt-f10f56fcde",
+    "pt-e0bfa9cfc4",
+    "pt-01bc0699fa",
+    "pt-7c04770233",
+    "pt-11ad4351ce",
+    "pt-e03a12323e",
+    "pt-e4436aa11f",
+    "pt-c50b988a38",
+    "pt-72476cb636",
+    "pt-99654c2fde",
+    "pt-1f4e06afea",
+    "pt-fc9caa8e0b",
+    "pt-42a43e92ad",
+    "pt-a9f43aff80"
+  ],
+  "notes": [
+    "原文为学院新闻网页面，全篇无小标题：第1行为页面标题、第2行为 logo 图（附件行），第3—54行为站点导航菜单（含二级栏目与师资分类），第55行为正文重复的标题，第56行为发布时间与浏览次数，第57—61行为五段正文，第62—68行为页脚与二维码图。",
+    "正文只有连续叙述的五段，没有任何「一、」「第X条」「（一）」结构；第57—61行五节 heading 均为据该自然段内容概括（derived），节界即原文自然段边界。",
+    "页面标题（第1行）与正文标题（第55行）文字相同，因行号不相邻，分列「经济与管理学院推优入党大会圆满落幕」与「正文标题与发布信息」两节。",
+    "rule-09de10e7a7 为文档级条目（无引文，标题即文档名「推优入党工作办法（sem.cuc）」），按任务书列入第一节并保留在文档级 items。",
+    "pt-c50b988a38、pt-72476cb636、pt-99654c2fde、pt-1f4e06afea 四条引文均为导航菜单文字拼接（如「经管要闻经彩动态」「高管教育（EE）中心现任领导」），落点在导航节。",
+    "「正文标题与发布信息」节（第55—56行）无条目引用：该两行是重复标题与浏览计数，属版面信息，非条文。"
+  ]
+}

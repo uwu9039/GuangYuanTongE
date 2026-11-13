@@ -1,1 +1,93 @@
-IiIi562U5qGI5a6M5pW05oCn6K+E5rWL77ya5ZG95Lit5p2h55uu5LmL5ZCO77yM5p2h55uu6YeM5pyJ55qE5L+h5oGv5piv5LiN5piv6YO96L+b5LqG562U5aSN44CCCgogICAgcHl0aG9uIC1tIF9ldmFsLmV2YWxfYW5zd2VycwoK5a+55q+P5p2hIHByZXNldHMg55qEICjpl67ms5UsIOadoeebrinvvIznlKggYEVuZ2luZS5zZWFyY2god2l0aF9hbnN3ZXI9VHJ1ZSlgIOijhemFjeetlOahiO+8jOajgOafpQrmnaHnm67ph4zmr4/kuKrpnZ7nqbrlrZfmrrXvvIjmraXpqqQgLyDmnZDmlpkgLyDotLnnlKggLyDlnLDngrkgLyDml7bpl7QgLyDml7bpmZAgLyDnqpflj6MgLyDms6jmhI/kuovpobkgLwrogZTns7vmlrnlvI8gLyDpgILnlKjlr7nosaEgLyDmuKDpgZMgLyDlh7rlpITvvInmmK/lkKbnnJ/nmoTlh7rnjrDlnKjnrZTlpI3mlofmnKzph4zjgIIKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBqc29uCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aApmcm9tIHR5cGVzIGltcG9ydCBTaW1wbGVOYW1lc3BhY2UKCmZyb20gcmV0cmlldmFsIGltcG9ydCBFbmdpbmUKZnJvbSByZXRyaWV2YWwuY29tcG9zZSBpbXBvcnQgYnVpbGQgYXMgY29tcG9zZV9idWlsZAoKUk9PVCA9IFBhdGgoX19maWxlX18pLnJlc29sdmUoKS5wYXJlbnRzWzFdClNFVFMgPSBST09UIC8gIl9ldmFsIiAvICJzZXRzIgoKRkFDRVRTID0gKCJzdGVwcyIsICJtYXRlcmlhbHMiLCAiZmVlIiwgImxvY2F0aW9uIiwgImhvdXJzIiwgImR1cmF0aW9uIiwgIndpbmRvdyIsCiAgICAgICAgICAicGl0ZmFsbHMiLCAiY29udGFjdCIsICJhdWRpZW5jZSIsICJjaGFubmVsIiwgInNvdXJjZSIpCgoKZGVmIGl0ZW1fZmFjZXRzKGl0ZW06IGRpY3QpIC0+IGRpY3Rbc3RyLCBib29sXToKICAgIG91dCA9IHt9CiAgICBmb3IgayBpbiBGQUNFVFM6CiAgICAgICAgdiA9IGl0ZW0uZ2V0KGspCiAgICAgICAgaWYgaXNpbnN0YW5jZSh2LCBsaXN0KToKICAgICAgICAgICAgb3V0W2tdID0gYm9vbCh2KQogICAgICAgIGVsaWYgaXNpbnN0YW5jZSh2LCBkaWN0KToKICAgICAgICAgICAgb3V0W2tdID0gYm9vbCh2LmdldCgidmFsdWUiKSBvciB2LmdldCgibmFtZSIpKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIG91dFtrXSA9IGJvb2wodikgaWYgaXNpbnN0YW5jZSh2LCBzdHIpIGVsc2UgRmFsc2UKICAgIGFucyA9IGl0ZW0uZ2V0KCJhbnN3ZXIiKQogICAgb3V0WyJhbnN3ZXIiXSA9IGJvb2woYW5zKSBpZiBpc2luc3RhbmNlKGFucywgc3RyKSBlbHNlIEZhbHNlCiAgICByZXR1cm4gb3V0CgoKTEFCRUxTID0geyJmZWUiOiAi6LS555SoIiwgImxvY2F0aW9uIjogIuWKnueQhuWcsOeCuSIsICJob3VycyI6ICLlip7nkIbml7bpl7QiLCAid2luZG93IjogIueql+WPoyIsCiAgICAgICAgICAiZHVyYXRpb24iOiAi5Yqe57uT5pe26ZmQIiwgImF1ZGllbmNlIjogIumAgueUqOWvueixoSIsICJjaGFubmVsIjogIuWKnueQhua4oOmBkyIsCiAgICAgICAgICAiY29udGFjdCI6ICLogZTns7vmlrnlvI8ifQoKCmRlZiBtYWluKCkgLT4gTm9uZToKICAgIGVuZyA9IEVuZ2luZS5sb2FkKCkKICAgIHJvd3MgPSBbanNvbi5sb2FkcyhsbikgZm9yIGxuIGluIChTRVRTIC8gInByZXNldHMuanNvbmwiKS5yZWFkX3RleHQoZW5jb2Rpbmc9InV0Zi04Iikuc3BsaXRsaW5lcygpXQogICAgdG90YWxfZmFjZXRzID0gY292ZXJlZCA9IDAKICAgIGZ1bGwgPSAwCiAgICBiYWQ6IGxpc3RbdHVwbGVbc3RyLCBzdHIsIGxpc3Rbc3RyXV1dID0gW10KICAgIGZvciByIGluIHJvd3M6CiAgICAgICAgaXRlbSA9IGVuZy5pdGVtcy5nZXQoclsiZ29sZCJdWzBdLCB7fSkKICAgICAgICBoYXZlID0gaXRlbV9mYWNldHMoaXRlbSkKICAgICAgICAjIOWPquivhOOAjOijhemFjeOAjei/meS4gOWxgu+8muWwseeUqCBnb2xkIOadoeebruijhemFje+8jOS4jeWPl+WPrOWbni/mjpLluo/or6/lt67lvbHlk40KICAgICAgICBkb2MgPSBTaW1wbGVOYW1lc3BhY2UoaWQ9clsiZ29sZCJdWzBdLCB0aXRsZT1pdGVtLmdldCgidGl0bGUiLCAiIikpCiAgICAgICAgZmFrZSA9IFNpbXBsZU5hbWVzcGFjZShoaXRzPVtTaW1wbGVOYW1lc3BhY2UoZG9jPWRvYywgaXRlbT1pdGVtLCBpZD1yWyJnb2xkIl1bMF0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aXRsZT1pdGVtLmdldCgidGl0bGUiLCAiIiksIHByb2I9MC45KV0pCiAgICAgICAgYW5zID0gY29tcG9zZV9idWlsZChmYWtlLCBlbmcuaXRlbXMpCiAgICAgICAgbGFiZWxzID0ge2YubGFiZWwgZm9yIGYgaW4gKGFucy5mYWNldHMgaWYgYW5zIGVsc2UgW10pfQogICAgICAgIG1pc3NpbmcgPSBbXQogICAgICAgIGZvciBrLCBwcmVzZW50IGluIGhhdmUuaXRlbXMoKToKICAgICAgICAgICAgaWYgbm90IHByZXNlbnQ6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICB0b3RhbF9mYWNldHMgKz0gMQogICAgICAgICAgICBpZiBrID09ICJzdGVwcyI6CiAgICAgICAgICAgICAgICBvayA9IGJvb2woYW5zIGFuZCBhbnMuc3RlcHMpCiAgICAgICAgICAgIGVsaWYgayA9PSAibWF0ZXJpYWxzIjoKICAgICAgICAgICAgICAgIG9rID0gYm9vbChhbnMgYW5kIGFucy5tYXRlcmlhbHMpCiAgICAgICAgICAgIGVsaWYgayA9PSAicGl0ZmFsbHMiOgogICAgICAgICAgICAgICAgb2sgPSBib29sKGFucyBhbmQgYW5zLnBpdGZhbGxzKQogICAgICAgICAgICBlbGlmIGsgPT0gInNvdXJjZSI6CiAgICAgICAgICAgICAgICBvayA9IGJvb2woYW5zIGFuZCBhbnMuc291cmNlcykKICAgICAgICAgICAgZWxpZiBrID09ICJhbnN3ZXIiOgogICAgICAgICAgICAgICAgb2sgPSBib29sKGFucyBhbmQgYW5zLmNvbmNsdXNpb24pCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBvayA9IExBQkVMU1trXSBpbiBsYWJlbHMKICAgICAgICAgICAgaWYgb2s6CiAgICAgICAgICAgICAgICBjb3ZlcmVkICs9IDEKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIG1pc3NpbmcuYXBwZW5kKGspCiAgICAgICAgaWYgbWlzc2luZzoKICAgICAgICAgICAgYmFkLmFwcGVuZCgoclsicSJdLCByWyJnb2xkIl1bMF0sIG1pc3NpbmcpKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGZ1bGwgKz0gMQogICAgbiA9IGxlbihyb3dzKQogICAgcHJpbnQoZiLpl67ms5Uge259IOadoe+8m+Wtl+autee6p+WujOaVtOeOhyB7Y292ZXJlZH0ve3RvdGFsX2ZhY2V0c30gPSB7Y292ZXJlZC90b3RhbF9mYWNldHM6LjRmfe+8myIKICAgICAgICAgIGYi5pW05p2h5peg57y65aSxIHtmdWxsfS97bn0gPSB7ZnVsbC9uOi40Zn0iKQogICAgZm9yIHEsIGlpZCwgbWlzcyBpbiBiYWRbOjIwXToKICAgICAgICBwcmludChmIiAge3FbOjI0XToyNnN9IHtpaWQ6MjJzfSDnvLoge21pc3N9IikKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==
+"""答案完整性评测：命中条目之后，条目里有的信息是不是都进了答复。
+
+    python -m _eval.eval_answers
+
+对每条 presets 的 (问法, 条目)，用 `Engine.search(with_answer=True)` 装配答案，检查
+条目里每个非空字段（步骤 / 材料 / 费用 / 地点 / 时间 / 时限 / 窗口 / 注意事项 /
+联系方式 / 适用对象 / 渠道 / 出处）是否真的出现在答复文本里。
+"""
+from __future__ import annotations
+
+import json
+from pathlib import Path
+from types import SimpleNamespace
+
+from retrieval import Engine
+from retrieval.compose import build as compose_build
+
+ROOT = Path(__file__).resolve().parents[1]
+SETS = ROOT / "_eval" / "sets"
+
+FACETS = ("steps", "materials", "fee", "location", "hours", "duration", "window",
+          "pitfalls", "contact", "audience", "channel", "source")
+
+
+def item_facets(item: dict) -> dict[str, bool]:
+    out = {}
+    for k in FACETS:
+        v = item.get(k)
+        if isinstance(v, list):
+            out[k] = bool(v)
+        elif isinstance(v, dict):
+            out[k] = bool(v.get("value") or v.get("name"))
+        else:
+            out[k] = bool(v) if isinstance(v, str) else False
+    ans = item.get("answer")
+    out["answer"] = bool(ans) if isinstance(ans, str) else False
+    return out
+
+
+LABELS = {"fee": "费用", "location": "办理地点", "hours": "办理时间", "window": "窗口",
+          "duration": "办结时限", "audience": "适用对象", "channel": "办理渠道",
+          "contact": "联系方式"}
+
+
+def main() -> None:
+    eng = Engine.load()
+    rows = [json.loads(ln) for ln in (SETS / "presets.jsonl").read_text(encoding="utf-8").splitlines()]
+    total_facets = covered = 0
+    full = 0
+    bad: list[tuple[str, str, list[str]]] = []
+    for r in rows:
+        item = eng.items.get(r["gold"][0], {})
+        have = item_facets(item)
+        # 只评「装配」这一层：就用 gold 条目装配，不受召回/排序误差影响
+        doc = SimpleNamespace(id=r["gold"][0], title=item.get("title", ""))
+        fake = SimpleNamespace(hits=[SimpleNamespace(doc=doc, item=item, id=r["gold"][0],
+                                                    title=item.get("title", ""), prob=0.9)])
+        ans = compose_build(fake, eng.items)
+        labels = {f.label for f in (ans.facets if ans else [])}
+        missing = []
+        for k, present in have.items():
+            if not present:
+                continue
+            total_facets += 1
+            if k == "steps":
+                ok = bool(ans and ans.steps)
+            elif k == "materials":
+                ok = bool(ans and ans.materials)
+            elif k == "pitfalls":
+                ok = bool(ans and ans.pitfalls)
+            elif k == "source":
+                ok = bool(ans and ans.sources)
+            elif k == "answer":
+                ok = bool(ans and ans.conclusion)
+            else:
+                ok = LABELS[k] in labels
+            if ok:
+                covered += 1
+            else:
+                missing.append(k)
+        if missing:
+            bad.append((r["q"], r["gold"][0], missing))
+        else:
+            full += 1
+    n = len(rows)
+    print(f"问法 {n} 条；字段级完整率 {covered}/{total_facets} = {covered/total_facets:.4f}；"
+          f"整条无缺失 {full}/{n} = {full/n:.4f}")
+    for q, iid, miss in bad[:20]:
+        print(f"  {q[:24]:26s} {iid:22s} 缺 {miss}")
+
+
+if __name__ == "__main__":
+    main()

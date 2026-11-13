@@ -1,1 +1,185 @@
-IiIi5LuO5p2h55uu5Y6f5paH6YeM5oq944CM5Lqn5ZOBL+ezu+e7n+S4k+WQjeOAjee7tOW6pu+8jOS6p+WHuiBzb3VyY2VzL3Byb3Blci5qc29u44CCCgrkuLrku4DkuYjlgZrvvJrmiZPliIblj6rorqTlrZfpnaLph43lkIjvvIzjgIxBZG9iZei9r+S7tuaAjuS5iOa/gOa0u+OAjeiDvemdoOOAjOa/gOa0u+OAjemhtuWIsOOAjOe7n+S4gOi6q+S7veiupOivgei0puWPt+a/gOa0u+OAjQrkuIrigJTigJTkuJPlkI3lnKjmnaHnm67msaDph4zmsqHmnInouqvku73jgILov5nph4zmiorljp/mlofph4zlh7rnjrDnmoTkuqflk4HkuI7ns7vnu5/lkI3mir3miJDnu7TluqbvvIzkvpsgcmFuayDlgZrnoazmnaHku7bjgIIKCuivjeihqOS4jeaJi+WGme+8mgotIOaLieS4geWQjeaMieivjei+ueeVjOWIh++8iEFkb2JlIC8gV1BTMzY1IC8gVlBOIC8gT2ZmaWNl77yJ77yM6L+H5rukIFVSTOOAgeWfn+WQjeS4juaWh+S7tuagvOW8j+eijueJh++8mwotIOS4reaWh+WQjeaMieWOn+aWh+eahOaehOivjeWQjue8gOaKve+8iOKApuezu+e7nyAvIOKApuW5s+WPsCAvIOKApumXqOaItyAvIOKApuWuouaIt+erryAvIOKApuWwj+eoi+W6jyAvIOKApuWFrOS8l+WPtyAvIOKApuS6keebmCAvIOKApuWKnuS6i+Wkp+WOhe+8ie+8jAogIOaKveWIsOeahOaYr+ato+aWh+mHjOi/meS5iOeUqOeahOivje+8jOS4jeaYr+aIkeWHreepuuaDs+eahOaYoOWwhOOAggrkuKTovrnpg73opoHmsYLoh7PlsJEgU1VQUE9SVCDkuKrmnaHnm67nlKjov4fvvIzlraTkvovkuI3nrpfkuJPlkI3jgIIKCuadoeebruiHquW4pueahCBsb2NhdG9yc++8iOS6uuW3peWGmei/m+aVsOaNrueahOWQjeWtl+S4jue8qeWGme+8jOWmgiBBZG9iZSDlhajlrrbml4/nmoQgcHMvcHIvYWXvvInlj6botbDkuIDot6/vvJoK5LiN6L+HIF9va19sYXRpbu+8iOS4pOWtl+avjee8qeWGmeato+aYr+Wug+aMoeaOieeahO+8ie+8jOS5n+S4jeWPlyBTVVBQT1JUIOmXqOanm+mZkOWItuKAlOKAlOmCo+aYr+aLjeadv+WGmei/m+WOu+eahOWumuS9jeWZqO+8jArkuI3mmK/ku47mraPmlofph4znjJzlh7rmnaXnmoTjgIIKCueUqOazle+8mi4vLnZlbnYvU2NyaXB0cy9weXRob24uZXhlIHRvb2xzL2J1aWxkX3Byb3Blci5weQoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGpzb24KaW1wb3J0IHJlCmltcG9ydCBzeXMKZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgQ291bnRlciwgZGVmYXVsdGRpY3QKZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCgpST09UID0gUGF0aChfX2ZpbGVfXykucmVzb2x2ZSgpLnBhcmVudC5wYXJlbnQKSVRFTVMgPSBST09UIC8gIml0ZW1zLmpzb24iCkRTVCA9IFJPT1QgLyAic291cmNlcyIgLyAicHJvcGVyLmpzb24iClNVUFBPUlQgPSAzCk1BWF9JVEVNUyA9IDEyMDAgICAgICAgICAgIyDkuIDkuKror43ooqsgMTIwMCDmnaHku6XkuIrmnaHnm67nlKjov4fvvIzlroPlsLHmmK/pgJrnlKjor43kuI3mmK/kuJPlkI0KClVSTF9SRSA9IHJlLmNvbXBpbGUociJodHRwcz86Ly9cUysiLCByZS5JKQpET01BSU5fUkUgPSByZS5jb21waWxlKHIiW1x3Li1dK1wuKD86ZWR1fGNvbXxjbnxvcmd8bmV0fGdvdnxlZHVcLmNuKSg/OlwuXHcrKT8iLCByZS5JKQpQQVRIX1JFID0gcmUuY29tcGlsZShyIltcdy4tXSpbPyY9L11bXHclLi89Ji1dKyIpCiMg5Y+q6K6k5a2X5q+N5pWw5a2X6L+e5YaZ77ya5bim6L+e5a2X56ym55qE5ouJ5LiB5Liy5ZyoIFBERiDph4zlpJrljYrmmK/mlq3ooYzmrovniYfvvIhhc3NvY2lhLXRpb27vvInvvIwKIyDov57lrZfnrKbnlZnlnKjlrZfnrKbpm4bph4zkvJrmiorkuIDkuKror43liojmiJAgdGlvbiAvIGF0aW8g6L+Z56eN56KO54mH77yM56KO54mH6L+b5LiT5ZCN5Y+q5Lya6K+v6ZmN5p2D44CCCkxBVElOX1JFID0gcmUuY29tcGlsZShyIig/PCFbMC05QS1aYS16XSlbQS1aYS16XVtBLVphLXowLTldezEsMTV9KD8hWzAtOUEtWmEtel0pIikKQ05fU1VGRklYID0gIuezu+e7n3zlubPlj7B86Zeo5oi3fOWuouaIt+err3zlsI/nqIvluo985YWs5LyX5Y+3fOS6keebmHzlip7kuovlpKfljoV85LiA5L2T5YyW5bmz5Y+wfOe9keS4iuWKnuS6i+Wkp+WOhXzlupTnlKgiCkNOX1JFID0gcmUuY29tcGlsZShyIltcdTRlMDAtXHU5ZmZmQS1aYS16MC05XXsyLDh9KD86IiArIENOX1NVRkZJWCArIHIiKSIpCiMg5YaF6YOo57yW5Y+35LiO56KO54mH77ya5paH5qGjIHNsdWfjgIHnuq/ljYHlha3ov5vliLbjgIHluKblubTku73nmoTnn63mqKrkuLIKU0xVR19SRSA9IHJlLmNvbXBpbGUociJeKD86W2Etel17MSw4fVstX10pPyg/OlswLTlhLWZdezYsfXxcZHs0LH0pJCIpCkhFWElTSF9SRSA9IHJlLmNvbXBpbGUociJeW2Etel17MSw4fVswLTlhLWZdezYsfSQiKQojIOS4gOS4pOS4quWtl+avjeWKoOaVsOWtl+aYr+ihqOagvOe8luWPt++8iEE044CBQjAwOOOAgVNoZWV0Me+8ie+8jOS4jeaYr+S6p+WTgeWQjQpMQUJFTF9SRSA9IHJlLmNvbXBpbGUociJeKD86W2Etel17MSwyfVxkezAsNH18c2hlZXRcZCp8dGFibGVcZCp85Zu+XGQqKSQiLCByZS5JKQojIOe9kemhteS4juaWh+aho+eahOe7k+aehOivje+8jOWHuueOsOWcqOato+aWh+mHjOaYr+i3r+W+hOaIluWNoOS9jeespu+8jOS4jeaYr+WQjeWtlwpBUlRJRkFDVF9SRSA9IHJlLmNvbXBpbGUoCiAgICByIl4oPzpwYXJ0fHNlY3Rpb258Y2hhcHRlcnxmaWd8ZmlndXJlfGltYWdlfGltZ3xlZGl0b3J8ZmlsZXM/fGZpbGV8cGFnZXxtYWlsfHdlYiIKICAgIHIifGRhdGF8dGVzdHxkZW1vfHVzZXJ8bmFtZXxjb2RlfHR5cGV8aW5mb3xsaXN0fHZpZXd8aW5kZXh8bWFpbnxhZG1pbnx4ezMsfSkiCiAgICByIig/OlxkezEsNH0pPyQiKQoKIyDov5nkupvmi4nkuIHkuLLmmK/mlofku7Yv572R6aG156KO54mH5oiW6YCa55So57yp5YaZ77yM5LiN5piv5Lqn5ZOB5ZCNClNUT1AgPSB7CiAgICAiY29tIiwgImNuIiwgInd3dyIsICJodHRwIiwgImh0dHBzIiwgInBkZiIsICJkb2MiLCAiZG9jeCIsICJ4bHMiLCAieGxzeCIsICJwcHQiLAogICAgInBwdHgiLCAicG5nIiwgImpwZyIsICJqcGVnIiwgImdpZiIsICJibXAiLCAibXA0IiwgIm1wMyIsICJ6aXAiLCAicmFyIiwgInR4dCIsCiAgICAiZWR1IiwgImdvdiIsICJuZXQiLCAib3JnIiwgInFxIiwgIndlaXhpbiIsICJ3ZWNoYXQiLCAiaHRtbCIsICJodG0iLCAicGhwIiwgImpzcCIsCiAgICAiYXBpIiwgImlkIiwgIm5vIiwgInZzIiwgImV0YyIsICJlZyIsICJrYiIsICJtYiIsICJnYiIsICJwYyIsICJ0ZWwiLCAiZmF4IiwgImFwcCIsCiAgICAibmV3IiwgImFuZCIsICJmb3IiLCAidGhlIiwgImFuZHRoZSIsICJjbyIsICJpbmMiLCAiZWR1IiwgInZpcCIsICJjbXMiLCAib2EiLAogICAgInRydWUiLCAiZmFsc2UiLCAibnVsbCIsICJub25lIiwgInNyYyIsICJ1cmwiLCAidWlkIiwgInJlcyIsICJrZXkiLCAibmFtZSIsCn0KCgpkZWYgX29rX2xhdGluKHJhdzogc3RyKSAtPiBib29sOgogICAgIiIi5Y6f5paH6YeM5oCO5LmI5YaZ55qE77yM5Yaz5a6a6L+Z5Liq6K+N5piv5LiN5piv5Liq5ZCN5a2X44CCCgogICAg5Lqn5ZOB5ZCN55qE5YaZ5rOV5bCx6YKj5LmI5Yeg56eN77ya5YWo5aSn5YaZ77yIVlBO77yJ44CB6aaW5a2X5q+N5aSn5YaZ77yIQWRvYmXvvInjgIHluKbmlbDlrZfvvIhXUFMzNjXvvInjgIIKICAgIFBERiDmraPmlofph4znmoTmlq3or43mrovniYfmmK/jgIxXUFNPIFBTT2YgU09mZiBPZmZp44CN6L+Z56eN5aSn5bCP5YaZ5Lmx5Liy55qE5b2i5oCB77yMCiAgICDlroHlj6/mvI/vvIzkuI3lj6/miormrovniYflvZPkuJPlkI3igJTigJTmrovniYfov5vor43ooajlj6rkvJror6/pmY3mnYPjgIIKICAgICIiIgogICAgdCA9IHJhdy5sb3dlcigpCiAgICBpZiB0IGluIFNUT1Agb3IgTEFCRUxfUkUubWF0Y2godCkgb3IgU0xVR19SRS5tYXRjaCh0KSBvciBIRVhJU0hfUkUubWF0Y2godCk6CiAgICAgICAgcmV0dXJuIEZhbHNlCiAgICBoYXNfZGlnaXQgPSBhbnkoYy5pc2RpZ2l0KCkgZm9yIGMgaW4gdCkKICAgIGlmIG5vdCBoYXNfZGlnaXQgYW5kIG5vdCBhbnkoYy5pc3VwcGVyKCkgZm9yIGMgaW4gcmF3KToKICAgICAgICByZXR1cm4gRmFsc2UKICAgIGlmIGxlbih0KSA8IDMgYW5kIG5vdCBoYXNfZGlnaXQ6CiAgICAgICAgcmV0dXJuIEZhbHNlCiAgICAjIOWkp+Wwj+WGmeW9ouaAge+8muWFqOWkp+WGmSAvIOmmluWtl+avjeWkp+WGme+8iOiHs+WwkeS6lOS4quWtl++8iS8g5aSn5YaZ5o6l5pWw5a2X77yM5YW25L2Z5oyJ5q6L54mH5Lii5o6J44CCCiAgICAjIOmmluWtl+avjeWkp+WGmeimgeS6lOS4quWtl+S7peS4iu+8jOaYr+WboOS4uiBQREYg5pat6K+N5q6L54mH5bi46ZW/5oiQ44CMQXNzb+OAjeOAjEludGXjgI3ov5nnp43ljYrmiKror43vvIwKICAgICMg6ICMIEFkb2Jl44CBT2ZmaWNl44CBU3ByaW5nZXIg6YO95aSf6ZW/44CCCiAgICBpZiBub3QgKHJhdy5pc3VwcGVyKCkgb3IgKHJhdy5pc3RpdGxlKCkgYW5kIGxlbihyYXcpID49IDUpCiAgICAgICAgICAgIG9yIHJlLmZ1bGxtYXRjaChyIltBLVpdezIsfVswLTldezEsNn0iLCByYXcpCiAgICAgICAgICAgIG9yIHJlLmZ1bGxtYXRjaChyIltBLVpdezIsfVtBLVpdW2Etel17Myx9IiwgcmF3KSAgICAgIyBXUFNPZmZpY2Ug6L+Z56eN6L+e5YaZ5ZCNCiAgICAgICAgICAgIG9yIChoYXNfZGlnaXQgYW5kIHJlLmZ1bGxtYXRjaChyIltBLVphLXpdK1swLTldW0EtWmEtejAtOV0qIiwgcmF3KSkpOgogICAgICAgIHJldHVybiBGYWxzZQogICAgaWYgQVJUSUZBQ1RfUkUubWF0Y2godCk6CiAgICAgICAgcmV0dXJuIEZhbHNlCiAgICByZXR1cm4gVHJ1ZQoKCmRlZiBpdGVtX3RleHQoaXRlbTogZGljdCkgLT4gc3RyOgogICAgIiIi5p2h55uu55qE5Y+v6K+75paH5a2X77ya5qCH6aKY44CB5Yir5ZCN44CB5YWz6ZSu6K+N5Yqg5LiK5q2j5paH5ZCE5a2X5q6144CCCgogICAgc2xvdHMg5piv6Ieq5Yqo5YiH55qE56KO6K+N44CBYWxzb19mcm9tIOaYr+aWh+aho+e8luWPt++8jOmDveS4jeeul+WOn+aWh+eUqOivje+8jOS4jei/m+i/memHjOOAggogICAgIiIiCiAgICBjaHVua3M6IGxpc3Rbc3RyXSA9IFtzdHIoaXRlbS5nZXQoInRpdGxlIikgb3IgIiIpXQogICAgZm9yIGsgaW4gKCJhbGlhc2VzIiwgImtleXdvcmRzIik6CiAgICAgICAgY2h1bmtzLmV4dGVuZChzdHIoeCkgZm9yIHggaW4gKGl0ZW0uZ2V0KGspIG9yIFtdKSkKICAgIGZvciBrIGluICgibWF0ZXJpYWxzIiwgInN0ZXBzIiwgInBpdGZhbGxzIiwgImNvbnRhY3QiKToKICAgICAgICB2ID0gaXRlbS5nZXQoaykKICAgICAgICBpZiBpc2luc3RhbmNlKHYsIGxpc3QpOgogICAgICAgICAgICBmb3IgeCBpbiB2OgogICAgICAgICAgICAgICAgY2h1bmtzLmFwcGVuZCh4IGlmIGlzaW5zdGFuY2UoeCwgc3RyKSBlbHNlICIgIi5qb2luKAogICAgICAgICAgICAgICAgICAgIHN0cih5KSBmb3IgeSBpbiAoeC52YWx1ZXMoKSBpZiBpc2luc3RhbmNlKHgsIGRpY3QpIGVsc2UgW10pKSkKICAgICAgICBlbGlmIHY6CiAgICAgICAgICAgIGNodW5rcy5hcHBlbmQoc3RyKHYpKQogICAgZm9yIGsgaW4gKCJhbnN3ZXIiLCAibG9jYXRpb24iLCAicGFyYSIsICJjbGF1c2UiLCAibm90ZSIsICJzdW1tYXJ5Iik6CiAgICAgICAgaWYgaXRlbS5nZXQoayk6CiAgICAgICAgICAgIGNodW5rcy5hcHBlbmQoc3RyKGl0ZW1ba10pKQogICAgZXYgPSBpdGVtLmdldCgiZXZpZGVuY2UiKQogICAgaWYgaXNpbnN0YW5jZShldiwgZGljdCk6CiAgICAgICAgZm9yIHYgaW4gZXYudmFsdWVzKCk6CiAgICAgICAgICAgIGlmIGlzaW5zdGFuY2Uodiwgc3RyKToKICAgICAgICAgICAgICAgIGNodW5rcy5hcHBlbmQodikKICAgICAgICAgICAgZWxpZiBpc2luc3RhbmNlKHYsIGxpc3QpOgogICAgICAgICAgICAgICAgY2h1bmtzLmV4dGVuZChzdHIoeCkgaWYgaXNpbnN0YW5jZSh4LCBzdHIpIGVsc2UgIiAiLmpvaW4oCiAgICAgICAgICAgICAgICAgICAgc3RyKHkpIGZvciB5IGluICh4LnZhbHVlcygpIGlmIGlzaW5zdGFuY2UoeCwgZGljdCkgZWxzZSBbXSkpIGZvciB4IGluIHYpCiAgICByZXR1cm4gIiAiLmpvaW4oY2h1bmtzKQoKCmRlZiBleHRyYWN0KHRleHQ6IHN0cikgLT4gc2V0W3N0cl06CiAgICB0ID0gUEFUSF9SRS5zdWIoIiAiLCBET01BSU5fUkUuc3ViKCIgIiwgVVJMX1JFLnN1YigiICIsIHRleHQpKSkKICAgIG91dCA9IHttLmdyb3VwKDApLmxvd2VyKCkgZm9yIG0gaW4gTEFUSU5fUkUuZmluZGl0ZXIodCkgaWYgX29rX2xhdGluKG0uZ3JvdXAoMCkpfQogICAgb3V0IHw9IHttLmdyb3VwKDApIGZvciBtIGluIENOX1JFLmZpbmRpdGVyKHQpfQogICAgcmV0dXJuIHt4IGZvciB4IGluIG91dCBpZiB4IG5vdCBpbiBTVE9QfQoKCmRlZiBsb2NfbmFtZXMoaXRlbTogZGljdCkgLT4gc2V0W3N0cl06CiAgICAiIiLmnaHnm67oh6rluKbnmoTlrprkvY3lmajvvJrlsI/lhpnvvIzlubbmjInmr5Tlr7nnlKjnmoTlvaLmgIHljrvmjonnqbrmoLzjgIIKCiAgICDmr5Tlr7nkuKTlpLTlvaLmgIHkuI3kuIDmoLfigJTigJTpl67lj6XmmK/mjInljp/moLflsI/lhpnmr5TvvIjmnInnqbrmoLzvvInvvIzmnaHnm67ooajpnaLmloflrZfotbAgbm9ybe+8iOepuuagvOiiq+W9k+agh+eCueWIoOaOie+8ieOAggogICAg5omA5Lul44CMYWZ0ZXIgZWZmZWN0c+OAjei/meenjeW4puivjeeVjOeahOWQjeWtl+S4pOS4quWGmeazlemDveaUtuS4i++8jOWwkeS4gOS4quWwseacieS4gOWktOiupOS4jeWHuuOAggogICAgIiIiCiAgICBvdXQ6IHNldFtzdHJdID0gc2V0KCkKICAgIGZvciB4IGluIGl0ZW0uZ2V0KCJsb2NhdG9ycyIpIG9yIFtdOgogICAgICAgIHQgPSBzdHIoeCkuc3RyaXAoKS5sb3dlcigpCiAgICAgICAgaWYgbm90IHQ6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgb3V0LmFkZCh0KQogICAgICAgIHRpZ2h0ID0gcmUuc3ViKHIiXHMrIiwgIiIsIHQpCiAgICAgICAgaWYgdGlnaHQ6CiAgICAgICAgICAgIG91dC5hZGQodGlnaHQpCiAgICByZXR1cm4gb3V0CgoKCmRlZiBtYWluKCkgLT4gTm9uZToKICAgIGRhdGEgPSBqc29uLmxvYWRzKElURU1TLnJlYWRfdGV4dChlbmNvZGluZz0idXRmLTgiKSkKICAgIGl0ZW1zID0gZGF0YVsiaXRlbXMiXSBpZiBpc2luc3RhbmNlKGRhdGEsIGRpY3QpIGVsc2UgZGF0YQogICAgY291bnRzOiBDb3VudGVyW3N0cl0gPSBDb3VudGVyKCkKICAgIHBlcl9pdGVtOiBkaWN0W3N0ciwgbGlzdFtzdHJdXSA9IHt9CiAgICBmb3JjZWQ6IHNldFtzdHJdID0gc2V0KCkgICAgICAgICAgIyDlrprkvY3lmajvvJrmi43mnb/lhpnov5vmlbDmja7nmoTlkI3lrZfvvIzkuI3lj5flraTkvovpl6jmp5vnrqEKICAgIGZvciBpdCBpbiBpdGVtczoKICAgICAgICB0b2tzID0gZXh0cmFjdChpdGVtX3RleHQoaXQpKSB8IGxvY19uYW1lcyhpdCkKICAgICAgICBmb3JjZWQgfD0gbG9jX25hbWVzKGl0KQogICAgICAgIGlmIHRva3M6CiAgICAgICAgICAgIHBlcl9pdGVtW2l0WyJpZCJdXSA9IHNvcnRlZCh0b2tzKQogICAgICAgICAgICBjb3VudHMudXBkYXRlKHRva3MpCiAgICB2b2NhYiA9IHtrIGZvciBrLCBjIGluIGNvdW50cy5pdGVtcygpIGlmIFNVUFBPUlQgPD0gYyA8IE1BWF9JVEVNU30gfCBmb3JjZWQKICAgICMg55+t6K+N5a655piT6KKr6ZW/6K+N5YyF5ZCr77yI44CM5qCh5Zut5Y2h57O757uf44CN5ZCr44CM5qCh5Zut5Y2h44CN77yJ77yM5Y+q55WZ5ZCE6Ieq54us56uL55qE6K+NCiAgICBpdGVtc19tYXAgPSB7aWlkOiBzb3J0ZWQodCBmb3IgdCBpbiB0b2tzIGlmIHQgaW4gdm9jYWIpIGZvciBpaWQsIHRva3MgaW4gcGVyX2l0ZW0uaXRlbXMoKX0KICAgIGl0ZW1zX21hcCA9IHtpaWQ6IHQgZm9yIGlpZCwgdCBpbiBpdGVtc19tYXAuaXRlbXMoKSBpZiB0fQogICAgcG9zdGluZ3M6IGRpY3Rbc3RyLCBsaXN0W3N0cl1dID0gZGVmYXVsdGRpY3QobGlzdCkKICAgIGZvciBpaWQsIHRva3MgaW4gaXRlbXNfbWFwLml0ZW1zKCk6CiAgICAgICAgZm9yIHQgaW4gdG9rczoKICAgICAgICAgICAgcG9zdGluZ3NbdF0uYXBwZW5kKGlpZCkKICAgIHBheWxvYWQgPSB7CiAgICAgICAgInZlcnNpb24iOiAyLAogICAgICAgICJidWlsdF9mcm9tIjogIml0ZW1zLmpzb24iLAogICAgICAgICJzdXBwb3J0IjogU1VQUE9SVCwKICAgICAgICAidm9jYWIiOiBzb3J0ZWQocG9zdGluZ3Mua2V5cygpKSwKICAgICAgICAidm9jYWJfY291bnRzIjoge3Q6IGxlbihpZHMpIGZvciB0LCBpZHMgaW4gcG9zdGluZ3MuaXRlbXMoKX0sCiAgICAgICAgIml0ZW1zIjogaXRlbXNfbWFwLAogICAgfQogICAgRFNULndyaXRlX3RleHQoanNvbi5kdW1wcyhwYXlsb2FkLCBlbnN1cmVfYXNjaWk9RmFsc2UpLCBlbmNvZGluZz0idXRmLTgiKQogICAgbl9sb2MgPSBzdW0oMSBmb3IgaXQgaW4gaXRlbXMgaWYgaXQuZ2V0KCJsb2NhdG9ycyIpKQogICAgcHJpbnQoIuadoeebriIsIGxlbihpdGVtcyksICLmnInkuJPlkI3nmoTmnaHnm64iLCBsZW4oaXRlbXNfbWFwKSwgIuivjeihqCIsIGxlbihwb3N0aW5ncyksCiAgICAgICAgICAi5bim5a6a5L2N5Zmo55qE5p2h55uuIiwgbl9sb2MsICLlrprkvY3lmajor40iLCBsZW4oZm9yY2VkKSkKICAgIHRvcCA9IHNvcnRlZChwb3N0aW5ncy5pdGVtcygpLCBrZXk9bGFtYmRhIGt2OiAtbGVuKGt2WzFdKSlbOjQwXQogICAgZm9yIHQsIGlkcyBpbiB0b3A6CiAgICAgICAgcHJpbnQoZiIgIHt0fVx0e2xlbihpZHMpfSIpCiAgICBwcmludCgid3JvdGUiLCBEU1QsIERTVC5zdGF0KCkuc3Rfc2l6ZSwgImJ5dGVzIikKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgc3lzLmV4aXQobWFpbigpKQo=
+"""从条目原文里抽「产品/系统专名」维度，产出 sources/proper.json。
+
+为什么做：打分只认字面重合，「Adobe软件怎么激活」能靠「激活」顶到「统一身份认证账号激活」
+上——专名在条目池里没有身份。这里把原文里出现的产品与系统名抽成维度，供 rank 做硬条件。
+
+词表不手写：
+- 拉丁名按词边界切（Adobe / WPS365 / VPN / Office），过滤 URL、域名与文件格式碎片；
+- 中文名按原文的构词后缀抽（…系统 / …平台 / …门户 / …客户端 / …小程序 / …公众号 / …云盘 / …办事大厅），
+  抽到的是正文里这么用的词，不是我凭空想的映射。
+两边都要求至少 SUPPORT 个条目用过，孤例不算专名。
+
+条目自带的 locators（人工写进数据的名字与缩写，如 Adobe 全家族的 ps/pr/ae）另走一路：
+不过 _ok_latin（两字母缩写正是它挡掉的），也不受 SUPPORT 门槛限制——那是拍板写进去的定位器，
+不是从正文里猜出来的。
+
+用法：./.venv/Scripts/python.exe tools/build_proper.py
+"""
+from __future__ import annotations
+
+import json
+import re
+import sys
+from collections import Counter, defaultdict
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+ITEMS = ROOT / "items.json"
+DST = ROOT / "sources" / "proper.json"
+SUPPORT = 3
+MAX_ITEMS = 1200          # 一个词被 1200 条以上条目用过，它就是通用词不是专名
+
+URL_RE = re.compile(r"https?://\S+", re.I)
+DOMAIN_RE = re.compile(r"[\w.-]+\.(?:edu|com|cn|org|net|gov|edu\.cn)(?:\.\w+)?", re.I)
+PATH_RE = re.compile(r"[\w.-]*[?&=/][\w%./=&-]+")
+# 只认字母数字连写：带连字符的拉丁串在 PDF 里多半是断行残片（associa-tion），
+# 连字符留在字符集里会把一个词劈成 tion / atio 这种碎片，碎片进专名只会误降权。
+LATIN_RE = re.compile(r"(?<![0-9A-Za-z])[A-Za-z][A-Za-z0-9]{1,15}(?![0-9A-Za-z])")
+CN_SUFFIX = "系统|平台|门户|客户端|小程序|公众号|云盘|办事大厅|一体化平台|网上办事大厅|应用"
+CN_RE = re.compile(r"[\u4e00-\u9fffA-Za-z0-9]{2,8}(?:" + CN_SUFFIX + r")")
+# 内部编号与碎片：文档 slug、纯十六进制、带年份的短横串
+SLUG_RE = re.compile(r"^(?:[a-z]{1,8}[-_])?(?:[0-9a-f]{6,}|\d{4,})$")
+HEXISH_RE = re.compile(r"^[a-z]{1,8}[0-9a-f]{6,}$")
+# 一两个字母加数字是表格编号（A4、B008、Sheet1），不是产品名
+LABEL_RE = re.compile(r"^(?:[a-z]{1,2}\d{0,4}|sheet\d*|table\d*|图\d*)$", re.I)
+# 网页与文档的结构词，出现在正文里是路径或占位符，不是名字
+ARTIFACT_RE = re.compile(
+    r"^(?:part|section|chapter|fig|figure|image|img|editor|files?|file|page|mail|web"
+    r"|data|test|demo|user|name|code|type|info|list|view|index|main|admin|x{3,})"
+    r"(?:\d{1,4})?$")
+
+# 这些拉丁串是文件/网页碎片或通用缩写，不是产品名
+STOP = {
+    "com", "cn", "www", "http", "https", "pdf", "doc", "docx", "xls", "xlsx", "ppt",
+    "pptx", "png", "jpg", "jpeg", "gif", "bmp", "mp4", "mp3", "zip", "rar", "txt",
+    "edu", "gov", "net", "org", "qq", "weixin", "wechat", "html", "htm", "php", "jsp",
+    "api", "id", "no", "vs", "etc", "eg", "kb", "mb", "gb", "pc", "tel", "fax", "app",
+    "new", "and", "for", "the", "andthe", "co", "inc", "edu", "vip", "cms", "oa",
+    "true", "false", "null", "none", "src", "url", "uid", "res", "key", "name",
+}
+
+
+def _ok_latin(raw: str) -> bool:
+    """原文里怎么写的，决定这个词是不是个名字。
+
+    产品名的写法就那么几种：全大写（VPN）、首字母大写（Adobe）、带数字（WPS365）。
+    PDF 正文里的断词残片是「WPSO PSOf SOff Offi」这种大小写乱串的形态，
+    宁可漏，不可把残片当专名——残片进词表只会误降权。
+    """
+    t = raw.lower()
+    if t in STOP or LABEL_RE.match(t) or SLUG_RE.match(t) or HEXISH_RE.match(t):
+        return False
+    has_digit = any(c.isdigit() for c in t)
+    if not has_digit and not any(c.isupper() for c in raw):
+        return False
+    if len(t) < 3 and not has_digit:
+        return False
+    # 大小写形态：全大写 / 首字母大写（至少五个字）/ 大写接数字，其余按残片丢掉。
+    # 首字母大写要五个字以上，是因为 PDF 断词残片常长成「Asso」「Inte」这种半截词，
+    # 而 Adobe、Office、Springer 都够长。
+    if not (raw.isupper() or (raw.istitle() and len(raw) >= 5)
+            or re.fullmatch(r"[A-Z]{2,}[0-9]{1,6}", raw)
+            or re.fullmatch(r"[A-Z]{2,}[A-Z][a-z]{3,}", raw)     # WPSOffice 这种连写名
+            or (has_digit and re.fullmatch(r"[A-Za-z]+[0-9][A-Za-z0-9]*", raw))):
+        return False
+    if ARTIFACT_RE.match(t):
+        return False
+    return True
+
+
+def item_text(item: dict) -> str:
+    """条目的可读文字：标题、别名、关键词加上正文各字段。
+
+    slots 是自动切的碎词、also_from 是文档编号，都不算原文用词，不进这里。
+    """
+    chunks: list[str] = [str(item.get("title") or "")]
+    for k in ("aliases", "keywords"):
+        chunks.extend(str(x) for x in (item.get(k) or []))
+    for k in ("materials", "steps", "pitfalls", "contact"):
+        v = item.get(k)
+        if isinstance(v, list):
+            for x in v:
+                chunks.append(x if isinstance(x, str) else " ".join(
+                    str(y) for y in (x.values() if isinstance(x, dict) else [])))
+        elif v:
+            chunks.append(str(v))
+    for k in ("answer", "location", "para", "clause", "note", "summary"):
+        if item.get(k):
+            chunks.append(str(item[k]))
+    ev = item.get("evidence")
+    if isinstance(ev, dict):
+        for v in ev.values():
+            if isinstance(v, str):
+                chunks.append(v)
+            elif isinstance(v, list):
+                chunks.extend(str(x) if isinstance(x, str) else " ".join(
+                    str(y) for y in (x.values() if isinstance(x, dict) else [])) for x in v)
+    return " ".join(chunks)
+
+
+def extract(text: str) -> set[str]:
+    t = PATH_RE.sub(" ", DOMAIN_RE.sub(" ", URL_RE.sub(" ", text)))
+    out = {m.group(0).lower() for m in LATIN_RE.finditer(t) if _ok_latin(m.group(0))}
+    out |= {m.group(0) for m in CN_RE.finditer(t)}
+    return {x for x in out if x not in STOP}
+
+
+def loc_names(item: dict) -> set[str]:
+    """条目自带的定位器：小写，并按比对用的形态去掉空格。
+
+    比对两头形态不一样——问句是按原样小写比（有空格），条目表面文字走 norm（空格被当标点删掉）。
+    所以「after effects」这种带词界的名字两个写法都收下，少一个就有一头认不出。
+    """
+    out: set[str] = set()
+    for x in item.get("locators") or []:
+        t = str(x).strip().lower()
+        if not t:
+            continue
+        out.add(t)
+        tight = re.sub(r"\s+", "", t)
+        if tight:
+            out.add(tight)
+    return out
+
+
+
+def main() -> None:
+    data = json.loads(ITEMS.read_text(encoding="utf-8"))
+    items = data["items"] if isinstance(data, dict) else data
+    counts: Counter[str] = Counter()
+    per_item: dict[str, list[str]] = {}
+    forced: set[str] = set()          # 定位器：拍板写进数据的名字，不受孤例门槛管
+    for it in items:
+        toks = extract(item_text(it)) | loc_names(it)
+        forced |= loc_names(it)
+        if toks:
+            per_item[it["id"]] = sorted(toks)
+            counts.update(toks)
+    vocab = {k for k, c in counts.items() if SUPPORT <= c < MAX_ITEMS} | forced
+    # 短词容易被长词包含（「校园卡系统」含「校园卡」），只留各自独立的词
+    items_map = {iid: sorted(t for t in toks if t in vocab) for iid, toks in per_item.items()}
+    items_map = {iid: t for iid, t in items_map.items() if t}
+    postings: dict[str, list[str]] = defaultdict(list)
+    for iid, toks in items_map.items():
+        for t in toks:
+            postings[t].append(iid)
+    payload = {
+        "version": 2,
+        "built_from": "items.json",
+        "support": SUPPORT,
+        "vocab": sorted(postings.keys()),
+        "vocab_counts": {t: len(ids) for t, ids in postings.items()},
+        "items": items_map,
+    }
+    DST.write_text(json.dumps(payload, ensure_ascii=False), encoding="utf-8")
+    n_loc = sum(1 for it in items if it.get("locators"))
+    print("条目", len(items), "有专名的条目", len(items_map), "词表", len(postings),
+          "带定位器的条目", n_loc, "定位器词", len(forced))
+    top = sorted(postings.items(), key=lambda kv: -len(kv[1]))[:40]
+    for t, ids in top:
+        print(f"  {t}\t{len(ids)}")
+    print("wrote", DST, DST.stat().st_size, "bytes")
+
+
+if __name__ == "__main__":
+    sys.exit(main())

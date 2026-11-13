@@ -1,1 +1,26 @@
-IiIi6YePIGRlbnNlIOafpeivoueahOecn+WunuW7tui/n++8muWGt++8iOimgeiwg+S6keerr+e8luegge+8ieS4jueDre+8iOWRveS4reacrOWcsOe8k+WtmO+8ieOAgiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgdGltZQoKZnJvbSByZXRyaWV2YWwgaW1wb3J0IEVuZ2luZQoKUVMgPSBbIuWtpueUn+ivgeS4ouS6huWcqOWTquihpeWKnuWRgCIsICLnoJTnqbbnlJ/og73kuI3og73mjaLlrr/oiI3lkaIiLCAi5qCh5Yy76Zmi55qE54mZ56eR5Yeg54K55byA6Zeo5ZWKIl0KCgpkZWYgbWFpbigpIC0+IE5vbmU6CiAgICBlbmcgPSBFbmdpbmUubG9hZChkZW5zZT1UcnVlKQogICAgcHJpbnQoImRlbnNlIG9uOiIsIGVuZy51c2VfZGVuc2UsICJ8IGluZGV4IiwgZW5nLmRlbnNlLm1hdC5zaGFwZSBpZiBlbmcuZGVuc2UgZWxzZSBOb25lKQogICAgZm9yIHEgaW4gUVM6CiAgICAgICAgdCA9IHRpbWUucGVyZl9jb3VudGVyKCkKICAgICAgICByID0gZW5nLnNlYXJjaChxLCBrPTMpCiAgICAgICAgZHQgPSAodGltZS5wZXJmX2NvdW50ZXIoKSAtIHQpICogMTAwMAogICAgICAgIHRvcCA9IHIuaGl0c1swXS50aXRsZVs6MjBdIGlmIHIuaGl0cyBlbHNlICItIgogICAgICAgIHByaW50KGYie2R0OjcuMGZ9bXMgIHtxWzoxNl06MThzfSByZWZ1c2VkPXtyLnJlZnVzZWR9IHRvcD17dG9wfSIpCiAgICB0ID0gdGltZS5wZXJmX2NvdW50ZXIoKQogICAgZW5nLnNlYXJjaChRU1swXSwgaz0zKQogICAgcHJpbnQoZiJ7KHRpbWUucGVyZl9jb3VudGVyKCktdCkqMTAwMDo3LjBmfW1zICDlkIzkuIDlj6XnrKzkuozmrKHvvIjlhoXlrZjnvJPlrZjvvIkiKQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBtYWluKCkK
+"""量 dense 查询的真实延迟：冷（要调云端编码）与热（命中本地缓存）。"""
+from __future__ import annotations
+
+import time
+
+from retrieval import Engine
+
+QS = ["学生证丢了在哪补办呀", "研究生能不能换宿舍呢", "校医院的牙科几点开门啊"]
+
+
+def main() -> None:
+    eng = Engine.load(dense=True)
+    print("dense on:", eng.use_dense, "| index", eng.dense.mat.shape if eng.dense else None)
+    for q in QS:
+        t = time.perf_counter()
+        r = eng.search(q, k=3)
+        dt = (time.perf_counter() - t) * 1000
+        top = r.hits[0].title[:20] if r.hits else "-"
+        print(f"{dt:7.0f}ms  {q[:16]:18s} refused={r.refused} top={top}")
+    t = time.perf_counter()
+    eng.search(QS[0], k=3)
+    print(f"{(time.perf_counter()-t)*1000:7.0f}ms  同一句第二次（内存缓存）")
+
+
+if __name__ == "__main__":
+    main()

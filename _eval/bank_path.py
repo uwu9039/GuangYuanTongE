@@ -1,1 +1,29 @@
-IiIi6aKY5bqT5paH5Lu255qE5L2N572u77ya5LiN6L+b5LuT5bqT77yI5a6D5piv5aeU5omY5pa555qE6K+E5rWL6L6T5YWl77yJ77yM55So546v5aKD5Y+Y6YeP57uZ44CCCgogICAgc2V0IEJBTktfSlNPTj1EOlxccGF0aFxcdG9cXOmimOW6k18yMDI2MTExMy5qc29uICAgICAgIyBXaW5kb3dzCiAgICBleHBvcnQgQkFOS19KU09OPS9wYXRoL3RvL+mimOW6k18yMDI2MTExMy5qc29uICAgICAgICMgYmFzaAoK5rKh6K6+5pe25oyJ5LuT5bqT5YaF5Yeg5Liq5bi46KeB5L2N572u5om+5LiA6YGN77yM5om+5LiN5Yiw5bCx5piv44CM5rKh5pyJ44CN77yM6LCD55So5pa56Ieq5bex6Lez6L+H44CCCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgb3MKZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCgpST09UID0gUGF0aChfX2ZpbGVfXykucmVzb2x2ZSgpLnBhcmVudHNbMV0KQ0FORElEQVRFUyA9ICgKICAgIFJPT1QgLyAiX3Jldmlld19pdGVtcyIgLyAi6aKY5bqTXzIwMjYxMTEzLmpzb24iLAogICAgUk9PVCAvICLpopjlupNfMjAyNjExMTMuanNvbiIsCiAgICBST09ULnBhcmVudCAvICLpopjlupNfMjAyNjExMTMuanNvbiIsCikKCgpkZWYgYmFua19qc29uKCkgLT4gUGF0aDoKICAgICIiIumimOW6k+i3r+W+hO+8iOWPr+iDveS4jeWtmOWcqO+8m+eUqCBgLmV4aXN0cygpYCDliKTvvInjgIIiIiIKICAgIGVudiA9IChvcy5lbnZpcm9uLmdldCgiQkFOS19KU09OIikgb3IgIiIpLnN0cmlwKCkuc3RyaXAoJyInKQogICAgaWYgZW52OgogICAgICAgIHJldHVybiBQYXRoKGVudikKICAgIGZvciBwIGluIENBTkRJREFURVM6CiAgICAgICAgaWYgcC5leGlzdHMoKToKICAgICAgICAgICAgcmV0dXJuIHAKICAgIHJldHVybiBDQU5ESURBVEVTWzBdCg==
+"""题库文件的位置：不进仓库（它是委托方的评测输入），用环境变量给。
+
+    set BANK_JSON=D:\\path\\to\\题库_20261113.json      # Windows
+    export BANK_JSON=/path/to/题库_20261113.json       # bash
+
+没设时按仓库内几个常见位置找一遍，找不到就是「没有」，调用方自己跳过。
+"""
+from __future__ import annotations
+
+import os
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+CANDIDATES = (
+    ROOT / "_review_items" / "题库_20261113.json",
+    ROOT / "题库_20261113.json",
+    ROOT.parent / "题库_20261113.json",
+)
+
+
+def bank_json() -> Path:
+    """题库路径（可能不存在；用 `.exists()` 判）。"""
+    env = (os.environ.get("BANK_JSON") or "").strip().strip('"')
+    if env:
+        return Path(env)
+    for p in CANDIDATES:
+        if p.exists():
+            return p
+    return CANDIDATES[0]

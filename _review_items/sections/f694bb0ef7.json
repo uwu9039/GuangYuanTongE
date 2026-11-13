@@ -1,1 +1,167 @@
-ewogImtleSI6ICJmNjk0YmIwZWY3IiwKICJ0aXRsZSI6ICLmnI3liqHluIjnlJ8gfCDkuK3kvKDkupHpq5jmgKfog73orqHnrpflubPlj7Dln7norq3mnaXkuobvvIEiLAogInRydW5jYXRlZCI6IGZhbHNlLAogInNlY3Rpb25zIjogWwogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIuagh+mimOS4juagj+ebruW9kuWxniIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFsKICAgIDEsCiAgICAyCiAgIF0sCiAgICJpdGVtcyI6IFtdLAogICAiY2hhcnMiOiAyNwogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi6aG16Z2i5qGG5p6277yI5YWo56uZ5a+86Iiq5LiO5qiq5bmF77yJIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWwogICAgMywKICAgIDI0CiAgIF0sCiAgICJpdGVtcyI6IFtdLAogICAiY2hhcnMiOiAxNTgKICB9LAogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIuato+aWh+agh+mimOS4juWPkeW4g+S/oeaBryIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFsKICAgIDI1LAogICAgMzAKICAgXSwKICAgIml0ZW1zIjogWwogICAgInB0LWI4NDc3ZGM2MzAiCiAgIF0sCiAgICJjaGFycyI6IDI1MQogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi5a+86K+t77yI5bmz5Y+w5a6a5L2N5LiO5pys5qyh5Z+56K6t77yJIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWwogICAgMzEsCiAgICAzNQogICBdLAogICAiaXRlbXMiOiBbCiAgICAicnVsZS1mNjk0YmIwZWY3IiwKICAgICJwdC03Mzg4ZTUzNTk1IiwKICAgICJwdC0xMGQ4OTVjYjc5IgogICBdLAogICAiY2hhcnMiOiAzMzUKICB9LAogIHsKICAgIm5vIjogIlBhcnQuMDEiLAogICAiaGVhZGluZyI6ICLln7norq3lhoXlrrkiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsKICAgIDM3LAogICAgNDMKICAgXSwKICAgIml0ZW1zIjogWwogICAgInB0LTM3YmIxMzA4NzEiLAogICAgInB0LTUwYmY5NGY0ZWQiLAogICAgInB0LWQyOGMzMGY3YzUiLAogICAgInB0LTk2NmRjMjRkOWUiCiAgIF0sCiAgICJjaGFycyI6IDYxNwogIH0sCiAgewogICAibm8iOiAiUGFydC4wMiIsCiAgICJoZWFkaW5nIjogIuWfueiureaXtumXtOOAgeWcsOeCuSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWwogICAgNDUsCiAgICA0OAogICBdLAogICAiaXRlbXMiOiBbCiAgICAicHQtNjQxMzUyNDJlYyIsCiAgICAicHQtZTE5NjM5MzcyYiIKICAgXSwKICAgImNoYXJzIjogMTk3CiAgfSwKICB7CiAgICJubyI6ICJQYXJ0LjAzIiwKICAgImhlYWRpbmciOiAi5oql5ZCN5LqM57u056CBIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbCiAgICA1MCwKICAgIDUxCiAgIF0sCiAgICJpdGVtcyI6IFsKICAgICJwdC01MTBjNGU2MWQ4IgogICBdLAogICAiY2hhcnMiOiAxNjgKICB9LAogIHsKICAgIm5vIjogIlBhcnQuMDQiLAogICAiaGVhZGluZyI6ICLmm7TlpJoiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsKICAgIDUzLAogICAgNTkKICAgXSwKICAgIml0ZW1zIjogWwogICAgInB0LTliMGM2Yzc4NTgiLAogICAgInB0LTQ4NDY2M2FlMWUiLAogICAgInB0LTBmNmI0Yzc0NjAiLAogICAgInB0LTQwOGNkYWIwMmYiCiAgIF0sCiAgICJjaGFycyI6IDI2MAogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi6aG16ISa77yI5p2l5rqQ572y5ZCN44CB6IGU57O75pa55byP5LiO5bi455So6ZO+5o6l77yJIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWwogICAgNjAsCiAgICA4NgogICBdLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogNDM2CiAgfSwKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLniYjmnYPkuI7orr/pl67nu5/orqEiLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbCiAgICA4NywKICAgIDg4CiAgIF0sCiAgICJpdGVtcyI6IFtdLAogICAiY2hhcnMiOiAxMTMKICB9CiBdLAogIml0ZW1zIjogWwogICJydWxlLWY2OTRiYjBlZjciLAogICJwdC1iODQ3N2RjNjMwIiwKICAicHQtNzM4OGU1MzU5NSIsCiAgInB0LTEwZDg5NWNiNzkiLAogICJwdC0zN2JiMTMwODcxIiwKICAicHQtNTBiZjk0ZjRlZCIsCiAgInB0LWQyOGMzMGY3YzUiLAogICJwdC05NjZkYzI0ZDllIiwKICAicHQtNjQxMzUyNDJlYyIsCiAgInB0LWUxOTYzOTM3MmIiLAogICJwdC01MTBjNGU2MWQ4IiwKICAicHQtOWIwYzZjNzg1OCIsCiAgInB0LTQ4NDY2M2FlMWUiLAogICJwdC0wZjZiNGM3NDYwIiwKICAicHQtNDA4Y2RhYjAyZiIKIF0sCiAibm90ZXMiOiBbCiAgIuWumOe9keOAjOmHh+mbhuOAjeS7tu+8iGV4dHJh77yJ77ya56ysIDEg6KGM5piv6aG15aS05qCH6aKY44CB56ysIDIg6KGM5piv5qCP55uu5b2S5bGe77yI5L+h5oGv5YyW5aSE77yJ77yM5Y2V5YiX44CM5qCH6aKY5LiO5qCP55uu5b2S5bGe44CN77yb56ysIDPigJMyMyDooYzmmK/lhajnq5nlr7zoiKroj5zljZXvvIjpppbpobXvvI/lhbPkuo7miJHku6zvvI/pg6jpl6jmpoLlhrXvvI/kv6Hmga/ljJbmnI3liqHvvI9JVOacjeWKoe+8j+agoeWbreWNoeacjeWKoe+8j+S/oeaBr+WMlumhueebru+8j+acjeWKoeaMh+WNl+Wkp+WFqO+8j+inhOeroOWItuW6pu+8j+aUv+etluazleinhO+8j+WtpuagoeinhOeroOWItuW6pu+8j+mDqOmXqOinhOeroOWItuW6pu+8j+mAmuefpeWFrOWRiu+8j+e9kee7nOWuieWFqO+8j+W4ruWKqe+8j+W4uOingemXrumimO+8j+W4uOeUqOWKn+iDve+8j+W4uOeUqOaWh+aho++8j+e6v+S4iuaKpeS/ru+8ie+8jOesrCAyNCDooYzmmK/mqKrluYXlm77vvIzlkIjmiJDjgIzpobXpnaLmoYbmnrbjgI3kuIDoioLvvIzlr7zoiKrkuI3pgJDpobnmi4boioLjgIIiLAogICLnrKwgMjXigJMyOSDooYzmmK/mraPmlofljLrmoIfpopjvvIjkuI7nrKwgMSDooYzph43lpI3vvInjgIHjgIzlj5HluIPml7bpl7TvvJoyMDI1LTA1LTMw5rWP6KeI5qyh5pWw77yaNjM544CN5Y+K5YWs5LyX5Y+3572y5ZCN44CM5Lit5Lyg5L+h5oGv5YyWIOS4reWbveS8oOWqkuWkp+WtpuS/oeaBr+mXqOaIt++8jzIwMjXlubQwNeaciDI25pelIDE5OjE4IOWMl+S6rOOAje+8jOWNleWIl+S4gOiKgu+8m+esrCAzMCDooYznmoTpopjlm77pmYTku7blubblhaXmnKzoioLjgIIiLAogICLnrKwgMzHigJMzNSDooYzmmK/lr7zor63vvJrngrnpopjlj6XjgIzkvaDmlLbliLDkuIDku73mnaXoh6rkv6Hmga/ljJblpITnmoTvvI/kuK3kvKDkupHpq5jmgKfog73orqHnrpflubPlj7Dln7norq3pgJrnn6V+44CN77yL5bmz5Y+w5a6a5L2N5q6177yL44CM5bCG5LqOMjAyNeW5tDXmnIgyOeaXpe+8iOWRqOWbm++8ieWGjeasoeS4vuWKnuW5s+WPsOWfueiureOAje+8m+esrCAzNiDooYzjgIzigKZQYXJ0LjAx44CN5piv5Zu+54mH6KGM5YW85YiG6YOo5qCH6K6w77yM5pyq6K6h5YWl5pys6IqC44CCIiwKICAi5Y6f5paH5rKh5pyJ44CM56ug77yP5p2h44CN77ya57uT5p6E5piv5YWs5LyX5Y+35o6o5paH55qEIFBhcnQuMDHigJNQYXJ0LjA0IOWbm+S4quWIhumDqO+8jOOAjOWfueiureWGheWuueOAjeS4i+WGjeWIlyAwMSDlubPlj7DnroDku4vvvI8wMiDlubPlj7DluLjop4Hmk43kvZzvvI8wMyDluLjop4Hpl67popjop6PnrZQg5LiJ5Liq6K6u6aKY77yIMznjgIE0MeOAgTQzIOihjO+8jOiurumimOWQjuWQhOi3n+S4gOW8oOWbvueJh++8ieOAguiurumimOWPquacieagh+mimOOAgeaXoOe6v+S4i+ato+aWh++8jOaVheS4jeWNleWIl+WtkOiKgu+8jOS4juOAjOWfueiureWGheWuueOAjeWQiOW5tuS4uuS4gOiKgu+8iG5vIOWPliBQYXJ0LjAx77yMaGVhZGluZyDpgJDlrZflj5bnrKwgMzcg6KGM77yJ44CCIiwKICAicHQtMzdiYjEzMDg3Me+8j3B0LTUwYmY5NGY0ZWTvvI9wdC1kMjhjMzBmN2M177yPcHQtOTY2ZGMyNGQ5ZSDlm5vmnaHnmoTlvJXmlofliIbliKvmmK/jgIzln7norq3lhoXlrrnjgI3jgIzlubPlj7DnroDku4vjgI3jgIzlubPlj7DluLjop4Hmk43kvZzjgI3jgIzluLjop4Hpl67popjop6PnrZTjgI3lm5vkuKrmoIfpopjor43vvIzotbfngrnpg73lnKjjgIzln7norq3lhoXlrrnjgI3ov5nkuIDoioLnmoTljLrpl7TlhoXvvIzmlYXlkIzliJfor6XoioLjgIIiLAogICJwdC1lMTk2MzkzNzJiIOeahOW8leaWh+OAjOetvuWIsOaXtumXtO+8muS4i+WNiDLngrnlvIDlp4vlnLDngrnvvJrkuIDmlZkxMDfjgI3ot6jnrKwgNDfjgIE0OCDkuKTooYzvvIzokL3lnKjjgIzln7norq3ml7bpl7TjgIHlnLDngrnjgI3oioLlhoXvvJtwdC00MDhjZGFiMDJmIOeahOW8leaWh+OAjOW5s+WPsOW/q+mAn+S9v+eUqOaJi+WGjO+8mmh0dHBzOi8va2RvY3MuY24vbC9jZ1pwSWkzNzIycHbjgI3ot6jnrKwgNTjjgIE1OSDkuKTooYzvvIzokL3lnKjjgIzmm7TlpJrjgI3oioLlhoXjgIIiLAogICLpobXohJogNjDigJM4NiDooYzlkKvjgIzmnaXmupAgfCDkv6Hmga/ljJblpITjgI3jgIHmjpLniYjvvI/otKPnvJbvvI/lrqHmoLjnvbLlkI3jgIHkv6Hmga/ljJblpITlnLDlnYDkuI7mnI3liqHkuK3lv4PvvI/lip7lhazlrqTjgIHlrrblsZ7ljLrnvZHnu5zkuI7mnInnur/nlLXop4bmiqXkv67nlLXor53jgIHlrr/oiI3nvZHnu5zmiqXkv67nlLXor53jgIHmoKHlm63ljaHlj4rnvZHnu5zmiqXkv67nlLXor53jgIHluLjnlKjpk77mjqXvvIjmraPniYjova/ku7blubPlj7DvvI/ov5znqIvnlKjmiLfmjqXlhaXmnI3liqHvvI/mlbDlrZfmoKHlm63vvI/orqHotLnns7vnu5/nmbvlvZXvvI/pgq7ku7bns7vnu5/nmbvlvZXvvInvvIzku6Xlj4rmqKHmnb/mrovnlZnvvIh757yp55Wl5Zu+feOAgXvmoIfpoph944CBZ290b3AucG5n44CB5rOo6YeK5bC+IC0tPu+8ie+8jOS4jeWNleWIl+OAgiIsCiAgInJ1bGUtZjY5NGJiMGVmNyDkuLrmlofmoaPnuqfmnaHnm67vvIjml6DlvJXmlofvvInvvIzmjInlj6PlvoTliJflhaXmlofmoaPnuqcgaXRlbXMg5bm26JC95Zyo5pyA6LS06aKY55qE44CM5a+86K+t77yI5bmz5Y+w5a6a5L2N5LiO5pys5qyh5Z+56K6t77yJ44CN5LiA6IqC77yM5Y+q5YiX5LiA5qyh44CCIiwKICAi56ysIDM244CBNDTjgIE0OeOAgTUyIOihjOaYr+OAjFvpmYTku7ZdIOKApiBQYXJ0LjAx4oCTUGFydC4wNOOAjeeahOWbvueJh+WFvOWIhumDqOagh+iusOihjO+8jOaYr+WIhumDqOS5i+mXtOeahOWIhumalOOAgeS4jeWxnuS6juS7u+S9leS4gOiKgueahOWGheWuue+8jOaVheeVmeepuu+8iHNlY3Rpb25zX2NoZWNrIOiusOepuumamSA077yJ77yb56ysIDM444CBNDDjgIE0MiDooYzvvIjjgIxb6ZmE5Lu2XSDigKYgMDHvvI8wMu+8jzAz44CN77yJ5bm25YWl44CM5Z+56K6t5YaF5a6544CN6IqC77yM56ysIDQ2IOihjO+8iOOAjFvpmYTku7ZdIOKApiDml7bpl7TvvJoyMDI15bm0NeaciDI55pel5LiL5Y2IMjoyMC00OjAw44CN77yJ5bm25YWl44CM5Z+56K6t5pe26Ze044CB5Zyw54K544CN6IqC44CCIiwKICAi56ysIDMw44CBMzPjgIE1MeOAgTU044CBNjAg6KGM5piv5ZCr6ZmE5Lu255qE5pW06KGM77yI6aKY5Zu+44CB5q2j5paH6YWN5Zu+44CB5oql5ZCN5LqM57u056CB5Zu+44CB6aG16ISa6aaW6KGM77yJ77yM6ZqP5omA5bGe6IqC6K6h5YWl5Yy66Ze044CC5YWo5paH5q2i5LqO56ysIDg4IOihjO+8iOiuv+mXrue7n+iuoeWbvu+8ie+8jOacquingeaIquaWreOAgiIKIF0KfQo=
+{
+ "key": "f694bb0ef7",
+ "title": "服务师生 | 中传云高性能计算平台培训来了！",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "标题与栏目归属",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    2
+   ],
+   "items": [],
+   "chars": 27
+  },
+  {
+   "no": "—",
+   "heading": "页面框架（全站导航与横幅）",
+   "heading_kind": "derived",
+   "lines": [
+    3,
+    24
+   ],
+   "items": [],
+   "chars": 158
+  },
+  {
+   "no": "—",
+   "heading": "正文标题与发布信息",
+   "heading_kind": "derived",
+   "lines": [
+    25,
+    30
+   ],
+   "items": [
+    "pt-b8477dc630"
+   ],
+   "chars": 251
+  },
+  {
+   "no": "—",
+   "heading": "导语（平台定位与本次培训）",
+   "heading_kind": "derived",
+   "lines": [
+    31,
+    35
+   ],
+   "items": [
+    "rule-f694bb0ef7",
+    "pt-7388e53595",
+    "pt-10d895cb79"
+   ],
+   "chars": 335
+  },
+  {
+   "no": "Part.01",
+   "heading": "培训内容",
+   "heading_kind": "author",
+   "lines": [
+    37,
+    43
+   ],
+   "items": [
+    "pt-37bb130871",
+    "pt-50bf94f4ed",
+    "pt-d28c30f7c5",
+    "pt-966dc24d9e"
+   ],
+   "chars": 617
+  },
+  {
+   "no": "Part.02",
+   "heading": "培训时间、地点",
+   "heading_kind": "author",
+   "lines": [
+    45,
+    48
+   ],
+   "items": [
+    "pt-64135242ec",
+    "pt-e19639372b"
+   ],
+   "chars": 197
+  },
+  {
+   "no": "Part.03",
+   "heading": "报名二维码",
+   "heading_kind": "author",
+   "lines": [
+    50,
+    51
+   ],
+   "items": [
+    "pt-510c4e61d8"
+   ],
+   "chars": 168
+  },
+  {
+   "no": "Part.04",
+   "heading": "更多",
+   "heading_kind": "author",
+   "lines": [
+    53,
+    59
+   ],
+   "items": [
+    "pt-9b0c6c7858",
+    "pt-484663ae1e",
+    "pt-0f6b4c7460",
+    "pt-408cdab02f"
+   ],
+   "chars": 260
+  },
+  {
+   "no": "—",
+   "heading": "页脚（来源署名、联系方式与常用链接）",
+   "heading_kind": "derived",
+   "lines": [
+    60,
+    86
+   ],
+   "items": [],
+   "chars": 436
+  },
+  {
+   "no": "—",
+   "heading": "版权与访问统计",
+   "heading_kind": "derived",
+   "lines": [
+    87,
+    88
+   ],
+   "items": [],
+   "chars": 113
+  }
+ ],
+ "items": [
+  "rule-f694bb0ef7",
+  "pt-b8477dc630",
+  "pt-7388e53595",
+  "pt-10d895cb79",
+  "pt-37bb130871",
+  "pt-50bf94f4ed",
+  "pt-d28c30f7c5",
+  "pt-966dc24d9e",
+  "pt-64135242ec",
+  "pt-e19639372b",
+  "pt-510c4e61d8",
+  "pt-9b0c6c7858",
+  "pt-484663ae1e",
+  "pt-0f6b4c7460",
+  "pt-408cdab02f"
+ ],
+ "notes": [
+  "官网「采集」件（extra）：第 1 行是页头标题、第 2 行是栏目归属（信息化处），单列「标题与栏目归属」；第 3–23 行是全站导航菜单（首页／关于我们／部门概况／信息化服务／IT服务／校园卡服务／信息化项目／服务指南大全／规章制度／政策法规／学校规章制度／部门规章制度／通知公告／网络安全／帮助／常见问题／常用功能／常用文档／线上报修），第 24 行是横幅图，合成「页面框架」一节，导航不逐项拆节。",
+  "第 25–29 行是正文区标题（与第 1 行重复）、「发布时间：2025-05-30浏览次数：639」及公众号署名「中传信息化 中国传媒大学信息门户／2025年05月26日 19:18 北京」，单列一节；第 30 行的题图附件并入本节。",
+  "第 31–35 行是导语：点题句「你收到一份来自信息化处的／中传云高性能计算平台培训通知~」＋平台定位段＋「将于2025年5月29日（周四）再次举办平台培训」；第 36 行「…Part.01」是图片行兼分部标记，未计入本节。",
+  "原文没有「章／条」：结构是公众号推文的 Part.01–Part.04 四个分部，「培训内容」下再列 01 平台简介／02 平台常见操作／03 常见问题解答 三个议题（39、41、43 行，议题后各跟一张图片）。议题只有标题、无线下正文，故不单列子节，与「培训内容」合并为一节（no 取 Part.01，heading 逐字取第 37 行）。",
+  "pt-37bb130871／pt-50bf94f4ed／pt-d28c30f7c5／pt-966dc24d9e 四条的引文分别是「培训内容」「平台简介」「平台常见操作」「常见问题解答」四个标题词，起点都在「培训内容」这一节的区间内，故同列该节。",
+  "pt-e19639372b 的引文「签到时间：下午2点开始地点：一教107」跨第 47、48 两行，落在「培训时间、地点」节内；pt-408cdab02f 的引文「平台快速使用手册：https://kdocs.cn/l/cgZpIi3722pv」跨第 58、59 两行，落在「更多」节内。",
+  "页脚 60–86 行含「来源 | 信息化处」、排版／责编／审核署名、信息化处地址与服务中心／办公室、家属区网络与有线电视报修电话、宿舍网络报修电话、校园卡及网络报修电话、常用链接（正版软件平台／远程用户接入服务／数字校园／计费系统登录／邮件系统登录），以及模板残留（{缩略图}、{标题}、gotop.png、注释尾 -->），不单列。",
+  "rule-f694bb0ef7 为文档级条目（无引文），按口径列入文档级 items 并落在最贴题的「导语（平台定位与本次培训）」一节，只列一次。",
+  "第 36、44、49、52 行是「[附件] … Part.01–Part.04」的图片兼分部标记行，是分部之间的分隔、不属于任何一节的内容，故留空（sections_check 记空隙 4）；第 38、40、42 行（「[附件] … 01／02／03」）并入「培训内容」节，第 46 行（「[附件] … 时间：2025年5月29日下午2:20-4:00」）并入「培训时间、地点」节。",
+  "第 30、33、51、54、60 行是含附件的整行（题图、正文配图、报名二维码图、页脚首行），随所属节计入区间。全文止于第 88 行（访问统计图），未见截断。"
+ ]
+}

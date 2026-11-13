@@ -1,1 +1,279 @@
-ew0KICJrZXkiOiAiOTZjYjIyZDUiLA0KICJ0aXRsZSI6ICLopb/pg6jorqHliJLvvZwyMDI2IOW5tOWkp+WtpueUn+W/l+aEv+acjeWKoeilv+mDqOiuoeWIkuaUv+etlumXruetlCIsDQogInRydW5jYXRlZCI6IGZhbHNlLA0KICJzZWN0aW9ucyI6IFsNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLmoIfpopjkuI7miqXlkI3lr7zor60iLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxLA0KICAgIDcNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInJ1bGUtOTZjYjIyZDUiLA0KICAgICJwdC0zZmU2NmU2Yzk1IiwNCiAgICAicHQtZGMyYmE1MjY3ZiIsDQogICAgInB0LTFkZjYzMmQ2ZWQiDQogICBdLA0KICAgImNoYXJzIjogMjYzDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5LuA5LmI5piv5aSn5a2m55Sf5b+X5oS/5pyN5Yqh6KW/6YOo6K6h5YiS77yfIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA4LA0KICAgIDIwDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC04OGYwYTY2OTVkIiwNCiAgICAicHQtNjMwMGU1OWUzZiIsDQogICAgInB0LTAyOWU2MjIxYWMiLA0KICAgICJwdC1mYzUxZjkwZTc2IiwNCiAgICAicHQtNzgwNjQ3NGJhNCINCiAgIF0sDQogICAiY2hhcnMiOiA0MTQNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLopb/pg6jorqHliJLnmoTmnI3liqHlhoXlrrnkuLvopoHmnInlk6rkupvvvJ8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDIxLA0KICAgIDQxDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0wZGQyYTJmODk0IiwNCiAgICAicHQtZDZjNTA0YjhlNCIsDQogICAgInB0LTY3Yjc3NjA1YWYiLA0KICAgICJwdC0yZjQ1YTZkYmFjIiwNCiAgICAicHQtNDcxN2E4MDNiYSIsDQogICAgInB0LTJiZGY0YTU0YzgiLA0KICAgICJwdC1kNTQyYmZlN2I4IiwNCiAgICAicHQtYzgwMzQ0MWY2MSIsDQogICAgInB0LTgwMzEzYzVlZTMiLA0KICAgICJwdC0zYjkyOWY2ZmM5IiwNCiAgICAicHQtMDdjOGU0MGQzZCINCiAgIF0sDQogICAiY2hhcnMiOiA1ODMNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLopb/pg6jorqHliJLlv5fmhL/ogIXnmoTpgInmi5TmoIflh4bmmK/ku4DkuYjvvJ8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDQyLA0KICAgIDQ1DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC04NmNmZDVmZTQ3Ig0KICAgXSwNCiAgICJjaGFycyI6IDEyNg0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIjIwMjYg5bm06KW/6YOo6K6h5YiS5oql5ZCN5pe26Ze05piv5LuA5LmI5pe25YCZ77yf6aKE6K6h5oub5Yuf5aSa5bCR5Lq677yfIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA0NiwNCiAgICA0Nw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNDUwZjM5NmU0YiINCiAgIF0sDQogICAiY2hhcnMiOiA3Mg0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuWTquS6m+S6uuWPr+S7peaKpeWQjeWPguWKoCAyMDI2IOW5tOilv+mDqOiuoeWIku+8nyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNDgsDQogICAgNTANCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTk2Y2VlY2E1MmQiDQogICBdLA0KICAgImNoYXJzIjogOTkNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLlpoLkvZXmiqXlkI3lj4LliqDopb/pg6jorqHliJLvvJ8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDUxLA0KICAgIDU5DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC00ZDAxM2VmM2I2IiwNCiAgICAicHQtZTk3YmMxMDI3ZiIsDQogICAgInB0LTM0YjJhOGE5OWQiLA0KICAgICJwdC1lOTFlN2ZjOTg3IiwNCiAgICAicHQtNGJiNWFjNzk3MyINCiAgIF0sDQogICAiY2hhcnMiOiAyMzENCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLopb/pg6jorqHliJLlv5fmhL/ogIXnmoTpgInmi5TmlrnlvI/lkozmtYHnqIvmmK/mgI7moLfnmoTvvJ8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDYwLA0KICAgIDYzDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0wNDNmZTcxMGQwIg0KICAgXSwNCiAgICJjaGFycyI6IDExOA0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIjIwMjYg5bm05paw5oub5Yuf6KW/6YOo6K6h5YiS5b+X5oS/6ICF5LuA5LmI5pe26Ze05LiK5bKX5pyN5Yqh77yfIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA2NCwNCiAgICA3MA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtY2RkY2YyYmZhMCIsDQogICAgInB0LThmNDRiZWQ4OWEiDQogICBdLA0KICAgImNoYXJzIjogMjI1DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi6KW/6YOo6K6h5YiS5b+X5oS/6ICF5pyN5Yqh5pyf6Ze077yM5pel5bi45bel5L2c55Sf5rS75aaC5L2V5L+d6Zqc77yfIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA3MSwNCiAgICA4Mg0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtOTFiMzQ2ZDQwNCIsDQogICAgInB0LTFhNDYyNjNkYzAiLA0KICAgICJwdC0wMmVhMGE1MWU2IiwNCiAgICAicHQtNjViMDQ1N2RjOCIsDQogICAgInB0LWEzYjdlMjU2ODgiLA0KICAgICJwdC04NTkxNDA1M2JlIiwNCiAgICAicHQtNjYxYTI3NjA0OCIsDQogICAgInB0LWVhYTMzZWIzMGQiDQogICBdLA0KICAgImNoYXJzIjogMjg0DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi6KW/6YOo6K6h5YiS5b+X5oS/6ICF5Y+v5Lqr5Y+X5ZOq5Lqb5LyY5oOg5pS/562W77yfIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA4MywNCiAgICA5Mg0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtYWUwZmUwYWU0MyIsDQogICAgInB0LTI4NjZlNGQ5NTQiLA0KICAgICJwdC1kYTlmMmE1MDc1IiwNCiAgICAicHQtOGRlODUxMDg1NyINCiAgIF0sDQogICAiY2hhcnMiOiAyODINCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLkuK3lm73kvKDlqpLlpKflrabnm7jlhbPlr7nmjqXkv6Hmga8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDkzLA0KICAgIDk3DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1iYjRmNjg1ZWJiIiwNCiAgICAicHQtOWUyM2RlNDM2NSINCiAgIF0sDQogICAiY2hhcnMiOiAxMTMNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLlm77mlofmnaXmupDkuI7nvJbovpHnvbLlkI0iLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA5OCwNCiAgICAxMDQNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWVlZDg5MTQ0MmEiDQogICBdLA0KICAgImNoYXJzIjogNzQNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLlhazkvJflj7flsL7ms6giLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMDUsDQogICAgMTA3DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0zZjc4ODZjZjhjIg0KICAgXSwNCiAgICJjaGFycyI6IDYwDQogIH0NCiBdLA0KICJpdGVtcyI6IFsNCiAgInJ1bGUtOTZjYjIyZDUiLA0KICAicHQtODhmMGE2Njk1ZCIsDQogICJwdC1mYzUxZjkwZTc2IiwNCiAgInB0LTc4MDY0NzRiYTQiLA0KICAicHQtNjdiNzc2MDVhZiIsDQogICJwdC0yZjQ1YTZkYmFjIiwNCiAgInB0LTQ3MTdhODAzYmEiLA0KICAicHQtMmJkZjRhNTRjOCIsDQogICJwdC1kNTQyYmZlN2I4IiwNCiAgInB0LWM4MDM0NDFmNjEiLA0KICAicHQtODAzMTNjNWVlMyIsDQogICJwdC0zYjkyOWY2ZmM5IiwNCiAgInB0LTg2Y2ZkNWZlNDciLA0KICAicHQtOTZjZWVjYTUyZCIsDQogICJwdC1lOTdiYzEwMjdmIiwNCiAgInB0LTM0YjJhOGE5OWQiLA0KICAicHQtZTkxZTdmYzk4NyIsDQogICJwdC0wNDNmZTcxMGQwIiwNCiAgInB0LWNkZGNmMmJmYTAiLA0KICAicHQtOGY0NGJlZDg5YSIsDQogICJwdC0wMmVhMGE1MWU2IiwNCiAgInB0LTY1YjA0NTdkYzgiLA0KICAicHQtYTNiN2UyNTY4OCIsDQogICJwdC04NTkxNDA1M2JlIiwNCiAgInB0LTY2MWEyNzYwNDgiLA0KICAicHQtYWUwZmUwYWU0MyIsDQogICJwdC1kYTlmMmE1MDc1IiwNCiAgInB0LThkZTg1MTA4NTciLA0KICAicHQtM2ZlNjZlNmM5NSIsDQogICJwdC1kYzJiYTUyNjdmIiwNCiAgInB0LTFkZjYzMmQ2ZWQiLA0KICAicHQtNjMwMGU1OWUzZiIsDQogICJwdC0wMjllNjIyMWFjIiwNCiAgInB0LTBkZDJhMmY4OTQiLA0KICAicHQtZDZjNTA0YjhlNCIsDQogICJwdC0wN2M4ZTQwZDNkIiwNCiAgInB0LTQ1MGYzOTZlNGIiLA0KICAicHQtNGQwMTNlZjNiNiIsDQogICJwdC00YmI1YWM3OTczIiwNCiAgInB0LTkxYjM0NmQ0MDQiLA0KICAicHQtMWE0NjI2M2RjMCIsDQogICJwdC1lYWEzM2ViMzBkIiwNCiAgInB0LTI4NjZlNGQ5NTQiLA0KICAicHQtYmI0ZjY4NWViYiIsDQogICJwdC05ZTIzZGU0MzY1IiwNCiAgInB0LWVlZDg5MTQ0MmEiLA0KICAicHQtM2Y3ODg2Y2Y4YyINCiBdLA0KICJub3RlcyI6IFsNCiAgInJ1bGUtOTZjYjIyZDUg5piv5paH5qGj57qn5p2h55uu77yI5peg5byV5paH77yM5qCH6aKY4omI5paH5qGj5ZCN44CM6KW/6YOo6K6h5YiS772cMjAyNiDlubTlpKflrabnlJ/lv5fmhL/mnI3liqHopb/pg6jorqHliJLmlL/nrZbpl67nrZTjgI3vvInvvIzmjInlj6PlvoTliJfov5vmlofmoaPnuqcgaXRlbXMg5bm25pS+6L+b56ys5LiA6IqC44CM5qCH6aKY5LiO5oql5ZCN5a+86K+t44CN44CCIiwNCiAgIuacrOaWh+aYr+WFrOS8l+WPt+mXruetlOS9k++8jOayoeacieeroOadoe+8muesrCA444CBMjHjgIE0MuOAgTQ244CBNDjjgIE1MeOAgTYw44CBNjTjgIE3MeOAgTgz44CBOTMg6KGM55qE6Zeu5Y+l77yP5bCP5qCH6aKY5bCx5piv5YiG6IqC5L6d5o2u77yM5YWo6YOo6YCQ5a2X5Y+W6Ieq5Y6f5paH77yM5qCHIGF1dGhvcu+8m+WOn+aWh+aXoOadoeWPt++8jGBub2Ag6K6w44CM4oCU44CN44CCIiwNCiAgIuesrCAx4oCTNyDooYzkuLrmoIfpopjjgIHlj5HluIPkv6Hmga/vvIgyMDI2IOW5tCAzIOaciCAxNCDml6Ug5YyX5Lqs77yJ5LiO5oql5ZCN5a+86K+t77yIMyDmnIggMSDml6Xoh7MgNSDmnIggMTAg5pel5oql5ZCN44CB572R5Z2A5LiO5YWs5LyX5Y+35YWl5Y+j77yJ77yM5ZCI5Li656ys5LiA6IqC44CCIiwNCiAgIuesrCA5OOKAkzEwNCDooYzmmK/jgIzlm77mlofmnaXmupDvvI/mnaXmupDvvI/moKHlr7nvvI/otKPnvJbvvI/kuLvnvJbvvI/lrqHmoKHvvI/nm5HliLbjgI3nvbLlkI3vvIznrKwgMTA14oCTMTA3IOihjOaYr+WFrOS8l+WPt+WwvuazqO+8iOS8oOWqkuWbouiLseOAgeagoeWbouWnlOWuo+S8oOS4juWqkuS9k+i/kOiQpemDqO+8ie+8jOS4pOiKguS4uumhtemdoue9suWQjeS/oeaBr+OAgiIsDQogICLpg6jliIbmnaHnm67nmoTlvJXmlofot6joioLvvIjlpoIgcHQtNDUwZjM5NmU0YiDnlLHnrKwgNDYg6KGM6Zeu5Y+l5o6l5YiwIDQ3IOihjOetlOahiO+8jHB0LTRiYjVhYzc5NzMg55Sx56ysIDU5IOihjOaOpeWIsCA2MSDooYzvvIxwdC1lYWEzM2ViMzBkIOeUseesrCA4MiDooYzmjqXliLAgODQg6KGM77yJ77yM5oyJ5byV5paH6LW354K55omA5Zyo6IqC55m76K6w77yb5byV5paH6LW354K55LiN5Zyo5Lu75L2V6IqC5YaF55qE5ou85o6l5p2h55uu77yI5peg77yJ5bey5qC444CCIiwNCiAgIuesrCA3MiDooYzjgIzlhajlm73pobnnm67lv5fmhL/ogIXjgI3jgIHnrKwgODEg6KGM44CM5Zyw5pa56aG555uu5b+X5oS/6ICF44CN5piv44CM5pel5bi45bel5L2c55Sf5rS75aaC5L2V5L+d6Zqc77yf44CN562U5qGI6YeM55qE5Lik5Liq5bCP5YiG57uE77yM5ZCEIDEg6KGM5LiU5peg5LiL57qn5qCH6aKY77yM5pyq5Y+m56uL5a2Q6IqC44CCIg0KIF0NCn0=
+{
+ "key": "96cb22d5",
+ "title": "西部计划｜2026 年大学生志愿服务西部计划政策问答",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "标题与报名导语",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    7
+   ],
+   "items": [
+    "rule-96cb22d5",
+    "pt-3fe66e6c95",
+    "pt-dc2ba5267f",
+    "pt-1df632d6ed"
+   ],
+   "chars": 263
+  },
+  {
+   "no": "—",
+   "heading": "什么是大学生志愿服务西部计划？",
+   "heading_kind": "author",
+   "lines": [
+    8,
+    20
+   ],
+   "items": [
+    "pt-88f0a6695d",
+    "pt-6300e59e3f",
+    "pt-029e6221ac",
+    "pt-fc51f90e76",
+    "pt-7806474ba4"
+   ],
+   "chars": 414
+  },
+  {
+   "no": "—",
+   "heading": "西部计划的服务内容主要有哪些？",
+   "heading_kind": "author",
+   "lines": [
+    21,
+    41
+   ],
+   "items": [
+    "pt-0dd2a2f894",
+    "pt-d6c504b8e4",
+    "pt-67b77605af",
+    "pt-2f45a6dbac",
+    "pt-4717a803ba",
+    "pt-2bdf4a54c8",
+    "pt-d542bfe7b8",
+    "pt-c803441f61",
+    "pt-80313c5ee3",
+    "pt-3b929f6fc9",
+    "pt-07c8e40d3d"
+   ],
+   "chars": 583
+  },
+  {
+   "no": "—",
+   "heading": "西部计划志愿者的选拔标准是什么？",
+   "heading_kind": "author",
+   "lines": [
+    42,
+    45
+   ],
+   "items": [
+    "pt-86cfd5fe47"
+   ],
+   "chars": 126
+  },
+  {
+   "no": "—",
+   "heading": "2026 年西部计划报名时间是什么时候？预计招募多少人？",
+   "heading_kind": "author",
+   "lines": [
+    46,
+    47
+   ],
+   "items": [
+    "pt-450f396e4b"
+   ],
+   "chars": 72
+  },
+  {
+   "no": "—",
+   "heading": "哪些人可以报名参加 2026 年西部计划？",
+   "heading_kind": "author",
+   "lines": [
+    48,
+    50
+   ],
+   "items": [
+    "pt-96ceeca52d"
+   ],
+   "chars": 99
+  },
+  {
+   "no": "—",
+   "heading": "如何报名参加西部计划？",
+   "heading_kind": "author",
+   "lines": [
+    51,
+    59
+   ],
+   "items": [
+    "pt-4d013ef3b6",
+    "pt-e97bc1027f",
+    "pt-34b2a8a99d",
+    "pt-e91e7fc987",
+    "pt-4bb5ac7973"
+   ],
+   "chars": 231
+  },
+  {
+   "no": "—",
+   "heading": "西部计划志愿者的选拔方式和流程是怎样的？",
+   "heading_kind": "author",
+   "lines": [
+    60,
+    63
+   ],
+   "items": [
+    "pt-043fe710d0"
+   ],
+   "chars": 118
+  },
+  {
+   "no": "—",
+   "heading": "2026 年新招募西部计划志愿者什么时间上岗服务？",
+   "heading_kind": "author",
+   "lines": [
+    64,
+    70
+   ],
+   "items": [
+    "pt-cddcf2bfa0",
+    "pt-8f44bed89a"
+   ],
+   "chars": 225
+  },
+  {
+   "no": "—",
+   "heading": "西部计划志愿者服务期间，日常工作生活如何保障？",
+   "heading_kind": "author",
+   "lines": [
+    71,
+    82
+   ],
+   "items": [
+    "pt-91b346d404",
+    "pt-1a46263dc0",
+    "pt-02ea0a51e6",
+    "pt-65b0457dc8",
+    "pt-a3b7e25688",
+    "pt-85914053be",
+    "pt-661a276048",
+    "pt-eaa33eb30d"
+   ],
+   "chars": 284
+  },
+  {
+   "no": "—",
+   "heading": "西部计划志愿者可享受哪些优惠政策？",
+   "heading_kind": "author",
+   "lines": [
+    83,
+    92
+   ],
+   "items": [
+    "pt-ae0fe0ae43",
+    "pt-2866e4d954",
+    "pt-da9f2a5075",
+    "pt-8de8510857"
+   ],
+   "chars": 282
+  },
+  {
+   "no": "—",
+   "heading": "中国传媒大学相关对接信息",
+   "heading_kind": "author",
+   "lines": [
+    93,
+    97
+   ],
+   "items": [
+    "pt-bb4f685ebb",
+    "pt-9e23de4365"
+   ],
+   "chars": 113
+  },
+  {
+   "no": "—",
+   "heading": "图文来源与编辑署名",
+   "heading_kind": "derived",
+   "lines": [
+    98,
+    104
+   ],
+   "items": [
+    "pt-eed891442a"
+   ],
+   "chars": 74
+  },
+  {
+   "no": "—",
+   "heading": "公众号尾注",
+   "heading_kind": "derived",
+   "lines": [
+    105,
+    107
+   ],
+   "items": [
+    "pt-3f7886cf8c"
+   ],
+   "chars": 60
+  }
+ ],
+ "items": [
+  "rule-96cb22d5",
+  "pt-88f0a6695d",
+  "pt-fc51f90e76",
+  "pt-7806474ba4",
+  "pt-67b77605af",
+  "pt-2f45a6dbac",
+  "pt-4717a803ba",
+  "pt-2bdf4a54c8",
+  "pt-d542bfe7b8",
+  "pt-c803441f61",
+  "pt-80313c5ee3",
+  "pt-3b929f6fc9",
+  "pt-86cfd5fe47",
+  "pt-96ceeca52d",
+  "pt-e97bc1027f",
+  "pt-34b2a8a99d",
+  "pt-e91e7fc987",
+  "pt-043fe710d0",
+  "pt-cddcf2bfa0",
+  "pt-8f44bed89a",
+  "pt-02ea0a51e6",
+  "pt-65b0457dc8",
+  "pt-a3b7e25688",
+  "pt-85914053be",
+  "pt-661a276048",
+  "pt-ae0fe0ae43",
+  "pt-da9f2a5075",
+  "pt-8de8510857",
+  "pt-3fe66e6c95",
+  "pt-dc2ba5267f",
+  "pt-1df632d6ed",
+  "pt-6300e59e3f",
+  "pt-029e6221ac",
+  "pt-0dd2a2f894",
+  "pt-d6c504b8e4",
+  "pt-07c8e40d3d",
+  "pt-450f396e4b",
+  "pt-4d013ef3b6",
+  "pt-4bb5ac7973",
+  "pt-91b346d404",
+  "pt-1a46263dc0",
+  "pt-eaa33eb30d",
+  "pt-2866e4d954",
+  "pt-bb4f685ebb",
+  "pt-9e23de4365",
+  "pt-eed891442a",
+  "pt-3f7886cf8c"
+ ],
+ "notes": [
+  "rule-96cb22d5 是文档级条目（无引文，标题≈文档名「西部计划｜2026 年大学生志愿服务西部计划政策问答」），按口径列进文档级 items 并放进第一节「标题与报名导语」。",
+  "本文是公众号问答体，没有章条：第 8、21、42、46、48、51、60、64、71、83、93 行的问句／小标题就是分节依据，全部逐字取自原文，标 author；原文无条号，`no` 记「—」。",
+  "第 1–7 行为标题、发布信息（2026 年 3 月 14 日 北京）与报名导语（3 月 1 日至 5 月 10 日报名、网址与公众号入口），合为第一节。",
+  "第 98–104 行是「图文来源／来源／校对／责编／主编／审校／监制」署名，第 105–107 行是公众号尾注（传媒团英、校团委宣传与媒体运营部），两节为页面署名信息。",
+  "部分条目的引文跨节（如 pt-450f396e4b 由第 46 行问句接到 47 行答案，pt-4bb5ac7973 由第 59 行接到 61 行，pt-eaa33eb30d 由第 82 行接到 84 行），按引文起点所在节登记；引文起点不在任何节内的拼接条目（无）已核。",
+  "第 72 行「全国项目志愿者」、第 81 行「地方项目志愿者」是「日常工作生活如何保障？」答案里的两个小分组，各 1 行且无下级标题，未另立子节。"
+ ]
+}

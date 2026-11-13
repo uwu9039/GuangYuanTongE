@@ -1,1 +1,194 @@
-ew0KICJrZXkiOiAiMjAyNTEwMjAtYzE0NzQ1YTI2MTI0NSIsDQogInRpdGxlIjogIui/t+W9qemdkuaYpe+8jOS/oeS8oOWQr+iIqiB8IOS/oeaBr+S8oOaSreWtpumZojIwMjXnuqfmnKznp5HmlrDnlJ/lhpvorq3po47ph4fnuqrlrp4iLA0KICJ0cnVuY2F0ZWQiOiBmYWxzZSwNCiAic2VjdGlvbnMiOiBbDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi6L+35b2p6Z2S5pil77yM5L+h5Lyg5ZCv6IiqIHwg5L+h5oGv5Lyg5pKt5a2m6ZmiMjAyNee6p+acrOenkeaWsOeUn+WGm+iuremjjumHh+e6quWuniIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMSwNCiAgICAzNQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZGEyNzJjMmY1ZiINCiAgIF0sDQogICAiY2hhcnMiOiAzNDQNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLlj5HluIPml7bpl7TkuI7lr7zor63vvIjlhpvorq3mpoLlhrXvvIkiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzNiwNCiAgICAzOA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtODY2NjdlNjRlNiINCiAgIF0sDQogICAiY2hhcnMiOiAyNDANCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLlhpvorq3nuqrlrp7mraPmlofvvIjjgJDku47pm7blvIDlp4vjgJHoh7PjgJDlnIbmu6Hnu5Porq3jgJHvvIkiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzOSwNCiAgICA5Ng0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtY2UzM2M5MTlmZiIsDQogICAgInB0LTMxMDIzMjkxZWUiLA0KICAgICJwdC00YzI2ZWNjNWMwIiwNCiAgICAicHQtYjFmY2U2MGMxNSINCiAgIF0sDQogICAiY2hhcnMiOiA0MjMxDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi44CQ5LuO6Zu25byA5aeL77yM5oan5oas5oiQ6ZW/44CRIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzOSwNCiAgICA0Mw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMjJhMDAwN2I4OCIsDQogICAgInB0LTdhZmM3YzhkNmUiDQogICBdLA0KICAgImNoYXJzIjogMzM2DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi44CQ6aOS54i96Iux5ae/77yM5Yid546w5YW15Zy644CRIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA0NCwNCiAgICA1Mg0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtOWM1MzI2YzJiMCIsDQogICAgInB0LWMzMmMzY2U2OTciDQogICBdLA0KICAgImNoYXJzIjogNzMxDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi44CQ5paw55Sf5qyi5aOw6b2Q6IGa77yM5Yab6K6t55Sf5rS757K+5b2p44CRIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1MywNCiAgICA1OA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZWQzODhlM2QzNiIsDQogICAgInB0LWE2M2M5NjgxNGEiDQogICBdLA0KICAgImNoYXJzIjogNDE3DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi44CQ5a2m6Zmi5YWz5oCA6Iez77yM5biI55Sf5rip5oOF5pe244CRIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1OSwNCiAgICA2NA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtYTk3OTMzYTlkZCIsDQogICAgInB0LTNkYzlhNjY5YTgiDQogICBdLA0KICAgImNoYXJzIjogNDEzDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi44CQ5Yab6K6t5pma5Lya77yM6Z2S5pil57u95pS+44CRIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA2NSwNCiAgICA3MQ0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogNTQ0DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi44CQ6L+35b2p6Z2S5pil77yM55m95p2o5ouF5b2T44CRIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA3MiwNCiAgICA4Mg0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtY2VkNDM1NWM2OCIsDQogICAgInB0LWNhNzI1ZWMyOTAiLA0KICAgICJwdC1jNTA5Y2VhODc4Ig0KICAgXSwNCiAgICJjaGFycyI6IDgxNw0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuOAkOWchua7oee7k+iure+8jOa7oei9veiAjOW9kuOAkSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgODMsDQogICAgOTYNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTJhMGY5ZTAyNTIiLA0KICAgICJwdC01YTY1MWIyMjAwIiwNCiAgICAicHQtZTVmODFkMTFhMiIsDQogICAgInB0LTllNzAwNGJlNzMiLA0KICAgICJwdC1kZGU2YWQxNDEzIiwNCiAgICAicHQtNTc5MzAxZjgxMCINCiAgIF0sDQogICAiY2hhcnMiOiA5NzMNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLlj4vmg4Xpk77mjqXjgIHlnLDlnYDkuI7niYjmnYPkv6Hmga/vvIjpobXohJrvvIkiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA5NywNCiAgICAxMTQNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDM5Mw0KICB9DQogXSwNCiAiaXRlbXMiOiBbDQogICJwdC1kYTI3MmMyZjVmIiwNCiAgInB0LTg2NjY3ZTY0ZTYiLA0KICAicHQtMjJhMDAwN2I4OCIsDQogICJwdC03YWZjN2M4ZDZlIiwNCiAgInB0LWNlMzNjOTE5ZmYiLA0KICAicHQtOWM1MzI2YzJiMCIsDQogICJwdC1jMzJjM2NlNjk3IiwNCiAgInB0LWVkMzg4ZTNkMzYiLA0KICAicHQtYTYzYzk2ODE0YSIsDQogICJwdC1hOTc5MzNhOWRkIiwNCiAgInB0LTNkYzlhNjY5YTgiLA0KICAicHQtMzEwMjMyOTFlZSIsDQogICJwdC00YzI2ZWNjNWMwIiwNCiAgInB0LWNlZDQzNTVjNjgiLA0KICAicHQtY2E3MjVlYzI5MCIsDQogICJwdC1jNTA5Y2VhODc4IiwNCiAgInB0LWIxZmNlNjBjMTUiLA0KICAicHQtMmEwZjllMDI1MiIsDQogICJwdC01YTY1MWIyMjAwIiwNCiAgInB0LWU1ZjgxZDExYTIiLA0KICAicHQtOWU3MDA0YmU3MyIsDQogICJwdC1kZGU2YWQxNDEzIiwNCiAgInB0LTU3OTMwMWY4MTAiDQogXSwNCiAibm90ZXMiOiBbDQogICLmnKzmlofku7bmmK/nvZHpobXmipPlj5bmlofmnKzvvJrnrKwgMSDooYzkuLrmlofnq6DmoIfpopjvvIznrKwgM+KAkzMwIOihjOS4uuermeeCueWvvOiIquiPnOWNle+8jOesrCAzMeKAkzM1IOihjOS4uuOAjOWFmue+pOW3peS9nCAvIOWbouWtpuWKqOaAgeOAjemdouWMheWxkeS4jumHjeWkjeagh+mimO+8iOesrCAzNSDooYzmoIfpopjkuI7nrKwgMSDooYzlkIzmlofvvInvvIznu5/kuIDlvZLnrKwgMSDoioLjgIzmoIfpopjkuI7pobXpnaLmoYbmnrbjgI3vvJvnrKwgOTfigJMxMTQg6KGM5Li66aG16ISa77yI5Y+L5oOF6ZO+5o6l44CB5Zyw5Z2A44CB6YKu57yW44CB54mI5p2D44CB5oqA5pyv5pSv5oyB44CB5Zue5Yiw6aG26YOo77yJ44CCIiwNCiAgIjQg5p2h5p2h55uu55qE5byV5paH6LW354K56JC95Zyo5Zu+5rOo6KGM5LiU6Leo5Yiw5LiL5LiA6IqC55qE44CQ4oCm44CR5qCH6aKY6KGM77yIcHQtY2UzM2M5MTlmZiDnrKwgNDPihpI0NCDooYzjgIFwdC0zMTAyMzI5MWVlIOesrCA2NOKGkjY1IOihjOOAgXB0LTRjMjZlY2M1YzAg56ysIDcx4oaSNzIg6KGM44CBcHQtYjFmY2U2MGMxNSDnrKwgODLihpI4NCDooYzvvInvvIzml6Dms5XokL3lhaXku7vkvZXljZXkuKrlm77mloflnZfvvIzmlYXlj6rliJfliLDniLboioLjgIzlhpvorq3nuqrlrp7mraPmlofvvIjjgJDku47pm7blvIDlp4vjgJHoh7PjgJDlnIbmu6Hnu5Porq3jgJHvvInjgI3vvIzlubblnKjlkITlm77mloflnZflhoXkuI3ph43lpI3liJflh7rjgIIiLA0KICAi5Y6f5paH5Lul44CQ4oCm44CR5pa55aS05ous5Y+35bCP5qCH6aKY5YiG5q6177yMNyDkuKrlnZfnmoQgaGVhZGluZyDlnYfpgJDlrZflj5boh6rljp/mloflsI/moIfpopjooYzjgIIiLA0KICAi56ysIDg14oCTOTYg6KGM5Li654+t5Li75Lu75p2O55Cz54aZ5LiOIDUg5L2N5paw55Sf77yI6aKc5oWn5am344CB5p2o6JOd5biM44CB56ym6YeR5piV44CB6YKT5riF5oe/44CB6LW16ZWx6K+677yJ55qE5oSf6KiA77yM5q+P5Lq655qE572y5ZCN6KGM5LiO5oSf6KiA5q2j5paH6KKr5Y6f5paH5ouG5oiQ5Lik6KGM77yI5aaC56ysIDg3Lzg4IOihjO+8ie+8jOadoeebruW8leaWh+i3qOi/meS4pOihjO+8jOaVheaVtOWdl+aIkOS4gOiKgu+8iOOAkOWchua7oee7k+iure+8jOa7oei9veiAjOW9kuOAke+8ieOAgiIsDQogICLlm77ms6jooYzvvIjnrKwgMzjjgIE0M+OAgTUx44CBNTfjgIE2MuOAgTY044CBNzHjgIE3NeOAgTc444CBODIg6KGM77yJ5piv6YWN5Zu+6K+05piO77yM5oyJ6IqC6aaW5Yik5o2u5LiN5Y2V5YiX6IqC77yM5bey5bm25YWl5omA5bGe5Zu+5paH5Z2X77yb56ysIDM4IOihjOeahOWbvuazqOS4juWbvueJh+WcqOWQjOS4gOihjO+8iFvpmYTku7ZdIOKApnBuZyArIOivtOaYjuaWh+Wtl++8ieOAgiIsDQogICLnrKwgMuOAgTMw44CBMzjjgIE0MuOAgTQ34oCTNTDjgIE1MuOAgTU14oCTNTbjgIE2MeOAgTYz44CBNjfigJM3MOOAgTc044CBNzfjgIE3OeOAgTgx44CBOTfigJM5OOOAgTExM+OAgTExNCDooYzkuLogW+mZhOS7tl0g5Zu+54mH5oiW6K6/6Zeu6K6h5pWw5Y2g5L2N6KGM77yM6Z2e5q2j5paH77yM5pyq5Y2V5YiX6IqC44CCIiwNCiAgIuOAkOWGm+iureaZmuS8mu+8jOmdkuaYpee7veaUvuOAkeS4gOiKgu+8iDY14oCTNzEg6KGM77yJ5rKh5pyJ54us56uL5p2h55uu77yI5YW25q2j5paH5q616JC95pyq55Sf5oiQ5p2h55uu77yJ77yMaXRlbXMg5Li656m644CCIg0KIF0NCn0=
+{
+ "key": "20251020-c14745a261245",
+ "title": "迷彩青春，信传启航 | 信息传播学院2025级本科新生军训风采纪实",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "迷彩青春，信传启航 | 信息传播学院2025级本科新生军训风采纪实",
+   "heading_kind": "author",
+   "lines": [
+    1,
+    35
+   ],
+   "items": [
+    "pt-da272c2f5f"
+   ],
+   "chars": 344
+  },
+  {
+   "no": "—",
+   "heading": "发布时间与导语（军训概况）",
+   "heading_kind": "derived",
+   "lines": [
+    36,
+    38
+   ],
+   "items": [
+    "pt-86667e64e6"
+   ],
+   "chars": 240
+  },
+  {
+   "no": "—",
+   "heading": "军训纪实正文（【从零开始】至【圆满结训】）",
+   "heading_kind": "derived",
+   "lines": [
+    39,
+    96
+   ],
+   "items": [
+    "pt-ce33c919ff",
+    "pt-31023291ee",
+    "pt-4c26ecc5c0",
+    "pt-b1fce60c15"
+   ],
+   "chars": 4231
+  },
+  {
+   "no": "—",
+   "heading": "【从零开始，憧憬成长】",
+   "heading_kind": "author",
+   "lines": [
+    39,
+    43
+   ],
+   "items": [
+    "pt-22a0007b88",
+    "pt-7afc7c8d6e"
+   ],
+   "chars": 336
+  },
+  {
+   "no": "—",
+   "heading": "【飒爽英姿，初现兵场】",
+   "heading_kind": "author",
+   "lines": [
+    44,
+    52
+   ],
+   "items": [
+    "pt-9c5326c2b0",
+    "pt-c32c3ce697"
+   ],
+   "chars": 731
+  },
+  {
+   "no": "—",
+   "heading": "【新生欢声齐聚，军训生活精彩】",
+   "heading_kind": "author",
+   "lines": [
+    53,
+    58
+   ],
+   "items": [
+    "pt-ed388e3d36",
+    "pt-a63c96814a"
+   ],
+   "chars": 417
+  },
+  {
+   "no": "—",
+   "heading": "【学院关怀至，师生温情时】",
+   "heading_kind": "author",
+   "lines": [
+    59,
+    64
+   ],
+   "items": [
+    "pt-a97933a9dd",
+    "pt-3dc9a669a8"
+   ],
+   "chars": 413
+  },
+  {
+   "no": "—",
+   "heading": "【军训晚会，青春绽放】",
+   "heading_kind": "author",
+   "lines": [
+    65,
+    71
+   ],
+   "items": [],
+   "chars": 544
+  },
+  {
+   "no": "—",
+   "heading": "【迷彩青春，白杨担当】",
+   "heading_kind": "author",
+   "lines": [
+    72,
+    82
+   ],
+   "items": [
+    "pt-ced4355c68",
+    "pt-ca725ec290",
+    "pt-c509cea878"
+   ],
+   "chars": 817
+  },
+  {
+   "no": "—",
+   "heading": "【圆满结训，满载而归】",
+   "heading_kind": "author",
+   "lines": [
+    83,
+    96
+   ],
+   "items": [
+    "pt-2a0f9e0252",
+    "pt-5a651b2200",
+    "pt-e5f81d11a2",
+    "pt-9e7004be73",
+    "pt-dde6ad1413",
+    "pt-579301f810"
+   ],
+   "chars": 973
+  },
+  {
+   "no": "—",
+   "heading": "友情链接、地址与版权信息（页脚）",
+   "heading_kind": "derived",
+   "lines": [
+    97,
+    114
+   ],
+   "items": [],
+   "chars": 393
+  }
+ ],
+ "items": [
+  "pt-da272c2f5f",
+  "pt-86667e64e6",
+  "pt-22a0007b88",
+  "pt-7afc7c8d6e",
+  "pt-ce33c919ff",
+  "pt-9c5326c2b0",
+  "pt-c32c3ce697",
+  "pt-ed388e3d36",
+  "pt-a63c96814a",
+  "pt-a97933a9dd",
+  "pt-3dc9a669a8",
+  "pt-31023291ee",
+  "pt-4c26ecc5c0",
+  "pt-ced4355c68",
+  "pt-ca725ec290",
+  "pt-c509cea878",
+  "pt-b1fce60c15",
+  "pt-2a0f9e0252",
+  "pt-5a651b2200",
+  "pt-e5f81d11a2",
+  "pt-9e7004be73",
+  "pt-dde6ad1413",
+  "pt-579301f810"
+ ],
+ "notes": [
+  "本文件是网页抓取文本：第 1 行为文章标题，第 3–30 行为站点导航菜单，第 31–35 行为「党群工作 / 团学动态」面包屑与重复标题（第 35 行标题与第 1 行同文），统一归第 1 节「标题与页面框架」；第 97–114 行为页脚（友情链接、地址、邮编、版权、技术支持、回到顶部）。",
+  "4 条条目的引文起点落在图注行且跨到下一节的【…】标题行（pt-ce33c919ff 第 43→44 行、pt-31023291ee 第 64→65 行、pt-4c26ecc5c0 第 71→72 行、pt-b1fce60c15 第 82→84 行），无法落入任何单个图文块，故只列到父节「军训纪实正文（【从零开始】至【圆满结训】）」，并在各图文块内不重复列出。",
+  "原文以【…】方头括号小标题分段，7 个块的 heading 均逐字取自原文小标题行。",
+  "第 85–96 行为班主任李琳熙与 5 位新生（颜慧婷、杨蓝希、符金昕、邓清懿、赵镱诺）的感言，每人的署名行与感言正文被原文拆成两行（如第 87/88 行），条目引文跨这两行，故整块成一节（【圆满结训，满载而归】）。",
+  "图注行（第 38、43、51、57、62、64、71、75、78、82 行）是配图说明，按节首判据不单列节，已并入所属图文块；第 38 行的图注与图片在同一行（[附件] …png + 说明文字）。",
+  "第 2、30、38、42、47–50、52、55–56、61、63、67–70、74、77、79、81、97–98、113、114 行为 [附件] 图片或访问计数占位行，非正文，未单列节。",
+  "【军训晚会，青春绽放】一节（65–71 行）没有独立条目（其正文段落未生成条目），items 为空。"
+ ]
+}

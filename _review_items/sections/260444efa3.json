@@ -1,1 +1,112 @@
-ewogICJrZXkiOiAiMjYwNDQ0ZWZhMyIsCiAgInRpdGxlIjogIuS4reWbveS8oOWqkuWkp+WtpuacrOenkeeUn+mZoiIsCiAgInRydW5jYXRlZCI6IGZhbHNlLAogICJzZWN0aW9ucyI6IFsKICAgIHsKICAgICAgIm5vIjogIuermeeCuSIsCiAgICAgICJoZWFkaW5nIjogIuermeeCueWQjeS4juermeeCueagh+ivhiIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICAgICJsaW5lcyI6IFsxLCAyXSwKICAgICAgIml0ZW1zIjogWyJwdC0xNGJjMGI4ZWQzIl0sCiAgICAgICJjaGFycyI6IDY5CiAgICB9LAogICAgewogICAgICAibm8iOiAi5a+86Iiq5LiAIiwKICAgICAgImhlYWRpbmciOiAi5a+86Iiq77ya5pys56eR5pWZ6IKy5qCP55uu77yI5LiT5Lia44CB6K++56iL44CB5oiQ5p6c44CB5a6e6Le144CB5pWZ5p2Q77yJIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgICAgImxpbmVzIjogWzMsIDM2XSwKICAgICAgIml0ZW1zIjogWyJwdC1hZDE5ODUwNTYxIiwgInB0LTNkODU0YmY4YWQiLCAicHQtOTJkNzQ1OWRhYyIsICJwdC0xNTZiYzQxNzhlIiwgInB0LTAyMGU5NWRjNTYiXSwKICAgICAgImNoYXJzIjogMjQ5CiAgICB9LAogICAgewogICAgICAibm8iOiAi5a+86Iiq5LqMIiwKICAgICAgImhlYWRpbmciOiAi5a+86Iiq77ya6YCa55+l5YWs5ZGK44CB5oiQ57up5Y2V44CB6KeE56ug5Yi25bqm5LiO5bi455So5pyN5Yqh5YWl5Y+jIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgICAgImxpbmVzIjogWzM3LCA2N10sCiAgICAgICJpdGVtcyI6IFsicHQtY2ZjMjViYTJmNiIsICJwdC1lOGVlYTEyODUxIiwgInB0LTRjM2U3ZWIwN2IiXSwKICAgICAgImNoYXJzIjogMTA3CiAgICB9LAogICAgewogICAgICAibm8iOiAi5a+86Iiq5LiJIiwKICAgICAgImhlYWRpbmciOiAi5a+86Iiq77ya57O757uf5ZKM5bmz5Y+w77yI5a2m55Sf5LiO5pWZ5biI5bi455So5Lia5Yqh44CB5pWZ5a2m5pS56Z2p77yJIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgICAgImxpbmVzIjogWzY4LCAxMzFdLAogICAgICAiaXRlbXMiOiBbInB0LTk2NDg2MGYzMjUiLCAicHQtZGUzYTYzNDQ0MCJdLAogICAgICAiY2hhcnMiOiAzMDkKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLlr7zoiKrlm5siLAogICAgICAiaGVhZGluZyI6ICLlr7zoiKrlsL7pg6jvvJrluLjnlKjkuJrliqHlubPlj7DjgIHmr5XkuJrnlJ/miJDnu6nljZXjgIHogZTns7vmiJHku6wiLAogICAgICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAgICAibGluZXMiOiBbMTMyLCAxNDddLAogICAgICAiaXRlbXMiOiBbXSwKICAgICAgImNoYXJzIjogODAKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLpppblsY8iLAogICAgICAiaGVhZGluZyI6ICLpppblsY/lm77niYfkvY3kuI7jgIznp43lrZDor77loILmpoLop4jjgI3lhaXlj6MiLAogICAgICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAgICAibGluZXMiOiBbMTQ4LCAxNTBdLAogICAgICAiaXRlbXMiOiBbXSwKICAgICAgImNoYXJzIjogMTIxCiAgICB9LAogICAgewogICAgICAibm8iOiAiQU5OT1VOQ0VNRU5UIiwKICAgICAgImhlYWRpbmciOiAi6YCa55+l5YWs5ZGKIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbMTUxLCAxNjddLAogICAgICAiaXRlbXMiOiBbInB0LWE2NDBjZmNjZDgiLCAicHQtYTk1NzM3NWJhOCJdLAogICAgICAiY2hhcnMiOiAzMDEKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICJJTkZPUk1BVElPTiIsCiAgICAgICJoZWFkaW5nIjogIuaWsOmXu+i1hOiur+adoeebruWIl+ihqCIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICAgICJsaW5lcyI6IFsxNjgsIDE4Ml0sCiAgICAgICJpdGVtcyI6IFsicHQtMjhiMTk4ZjIxZiIsICJwdC01OGE4MGJmMGU5Il0sCiAgICAgICJjaGFycyI6IDM2MgogICAgfSwKICAgIHsKICAgICAgIm5vIjogIkRBVEEiLAogICAgICAiaGVhZGluZyI6ICLkv6Hmga/kuIvovb0iLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFsxODMsIDE5Ml0sCiAgICAgICJpdGVtcyI6IFsicHQtMzdhNzQ2MjYyMCJdLAogICAgICAiY2hhcnMiOiA0MQogICAgfSwKICAgIHsKICAgICAgIm5vIjogIkFDQ0VTUyIsCiAgICAgICJoZWFkaW5nIjogIueDreeCuemTvuaOpSIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzE5MywgMjA3XSwKICAgICAgIml0ZW1zIjogWyJwdC1mYmE2MDQyMWY2IiwgInB0LTU3Nzg2MmQwNjIiLCAicHQtMDlmZjFlMWViOSIsICJwdC0wN2QzYzdiNjU0IiwgInB0LTY0OGJiNzY2YTciXSwKICAgICAgImNoYXJzIjogNTI4CiAgICB9LAogICAgewogICAgICAibm8iOiAi6ZO+5o6lIiwKICAgICAgImhlYWRpbmciOiAi5Y+L5oOF6ZO+5o6lIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbMjA4LCAyMTZdLAogICAgICAiaXRlbXMiOiBbInB0LTdlNjQ1ZjQ0ZmQiXSwKICAgICAgImNoYXJzIjogNDIKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLpobXohJoiLAogICAgICAiaGVhZGluZyI6ICLpobXpnaLniYjmnYPjgIHlpIfmoYjlj7fkuI7orr/pl67nu5/orqEiLAogICAgICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAgICAibGluZXMiOiBbMjE3LCAyMThdLAogICAgICAiaXRlbXMiOiBbXSwKICAgICAgImNoYXJzIjogMTA0CiAgICB9CiAgXSwKICAiaXRlbXMiOiBbInB0LTE0YmMwYjhlZDMiLCAicHQtYWQxOTg1MDU2MSIsICJwdC0zZDg1NGJmOGFkIiwgInB0LTkyZDc0NTlkYWMiLCAicHQtMTU2YmM0MTc4ZSIsICJwdC0wMjBlOTVkYzU2IiwgInB0LWNmYzI1YmEyZjYiLCAicHQtZThlZWExMjg1MSIsICJwdC00YzNlN2ViMDdiIiwgInB0LTk2NDg2MGYzMjUiLCAicHQtZGUzYTYzNDQ0MCIsICJwdC1hNjQwY2ZjY2Q4IiwgInB0LWE5NTczNzViYTgiLCAicHQtMjhiMTk4ZjIxZiIsICJwdC01OGE4MGJmMGU5IiwgInB0LTM3YTc0NjI2MjAiLCAicHQtZmJhNjA0MjFmNiIsICJwdC01Nzc4NjJkMDYyIiwgInB0LTA5ZmYxZTFlYjkiLCAicHQtMDdkM2M3YjY1NCIsICJwdC02NDhiYjc2NmE3IiwgInB0LTdlNjQ1ZjQ0ZmQiXSwKICAibm90ZXMiOiBbCiAgICAi5pys5Lu25piv44CM5Lit5Zu95Lyg5aqS5aSn5a2m5pys56eR55Sf6Zmi44CN572R56uZ6aaW6aG155qE5pW06aG15oq95Y+W77yI6Z2e5q2j5paH5paH5qGj77yJ77ya56ysIDPigJMxNDcg6KGM5YWo5piv5a+86Iiq6I+c5Y2V77yM5oyJ5qCP55uu5YiH5oiQ5a+86Iiq5LiA6Iez5a+86Iiq5ZubIDQg6IqC77yb56ysIDE0OOKAkzE1MCDooYzmmK/mqKHmnb/lm77niYfkvY3vvIhpY29uX21vcmVfMS5naWbjgIFubmF2X2Fycm93LnBuZ++8ieS4juOAjOenjeWtkOivvuWgguamguiniOOAjeWFpeWPo++8jOWNleWIl+OAjOmmluWxj+OAjeS4gOiKguOAgiIsCiAgICAi56ysIDE1MeKAkzE2NyDooYznmoTljLrlnZfmoIfpopjjgIxBTk5PVU5DRU1FTlQgLyDpgJrnn6XlhazlkYrjgI3kuI7nrKwgMTY1IOihjOeahOOAjOafpeeci+abtOWkmivjgI3jgIExNjYg6KGM55qEIElORk9STUFUSU9O44CBMTY3IOihjOeahOOAjOaWsOmXu+i1hOiur+OAjeWxnuS6juWQjOS4gOWMuuWdl+WktO+8jOaVheWQiOS4uuS4gOiKgu+8m3B0LWE5NTczNzViYTgg55qE5byV5paH44CM5p+l55yL5pu05aSaK0lORk9STUFUSU9O5paw6Ze76LWE6K6v44CN5qiq6LeoIDE2NeKAkzE2NyDkuInooYzvvIzlv4XpobvnlLHov5nkuIDoioLmlbTmrrXljIXkvY/miY3og73lkb3kuK3jgIIiLAogICAgIuesrCAxODMg6KGM44CM5p+l55yL5pu05aSaK+OAjeaYryBEQVRBIOWMuuWdl+eahOagh+mimOaui+eVme+8jOS4jiAxODQg6KGMIERBVEHjgIExODUg6KGM44CM5L+h5oGv5LiL6L2944CN5Y+K57uf6K6h6aG56L+e5oiQ5LiA5L2T77yM5pWF44CM5L+h5oGv5LiL6L2944CN6IqC5Y+WIDE4M+KAkzE5Mu+8m+esrCAxOTPigJMyMDcg6KGM55qEIEFDQ0VTUyDljLrlnZflkKvjgIzng63ngrnpk77mjqXjgI3jgIzkuobop6PmiJHku6zjgI3jgIzmnLrmnoTorr7nva7jgI3jgIzkv6Hmga/kuIvovb0gLyDkuIvovb3jgI3nrYnlhaXlj6PjgIIiLAogICAgIuesrCAxIOihjOermeeCueWQjeS4jiAyMTcg6KGM6aG16ISa6YO95ZCr44CM5Lit5Zu95Lyg5aqS5aSn5a2m5pys56eR55Sf6Zmi44CN77yMcHQtMTRiYzBiOGVkMyDnmoTlvJXmlofokL3ngrnlnKjnq5nngrnmoIfpopjvvIjnrKwgMSDooYzvvInvvIzmlYXlvZLjgIznq5nngrnlkI3kuI7nq5nngrnmoIfor4bjgI3oioLvvJvpobXohJrvvIjniYjmnYPjgIHkuqwgSUNQIOWkhyAxMDAzOTU2NCDlj7fjgIHkuqzlhaznvZHlronlpIcgMTEwNDAyNDMwMDMxIOWPt++8ieS4juesrCAyMTgg6KGM6K6/6Zeu57uf6K6h5Zu+54mH5L2N5Y2V5YiX44CCIiwKICAgICI0IOS4qiBhdXRob3Ig6IqC5ZCN77yI6YCa55+l5YWs5ZGKIC8g5L+h5oGv5LiL6L29IC8g54Ot54K56ZO+5o6lIC8g5Y+L5oOF6ZO+5o6l77yJ5Z2H5Zyo5pys6IqC6KGM5Yy66Ze05YaF6YCQ5a2X5Y+v5p+l77yb5a+86Iiq44CB6aaW5bGP44CB5paw6Ze75YiX6KGo44CB6aG16ISa55qE5bCP5qCH6aKY5piv5qaC5ous77yIZGVyaXZlZO+8ie+8jOWOn+aWh+ayoeacieWvueW6lOWwj+agh+mimOOAgiIsCiAgICAi5paH5qGj57qnIGl0ZW1zIOWFsSAyMiDmnaHvvIzlhajpg6jlnKjmlofkuK3pgJDkuIDlrprkvY3liLDoioLvvJvmnaHnm67moIfpopjph4zooqvkuIrmuLjmi7zov5vmnaXnmoTjgIzlr7zoiKrigKbjgI3jgIzmn6XnnIvmm7TlpJor4oCm44CN5YmN57yA5Y+q5piv5LiK5LiL5paH5bm25YWl77yM6JC954K55LulIHF1b3RlIOS4uuWHhuOAgiIKICBdCn0K
+{
+  "key": "260444efa3",
+  "title": "中国传媒大学本科生院",
+  "truncated": false,
+  "sections": [
+    {
+      "no": "站点",
+      "heading": "站点名与站点标识",
+      "heading_kind": "derived",
+      "lines": [1, 2],
+      "items": ["pt-14bc0b8ed3"],
+      "chars": 69
+    },
+    {
+      "no": "导航一",
+      "heading": "导航：本科教育栏目（专业、课程、成果、实践、教材）",
+      "heading_kind": "derived",
+      "lines": [3, 36],
+      "items": ["pt-ad19850561", "pt-3d854bf8ad", "pt-92d7459dac", "pt-156bc4178e", "pt-020e95dc56"],
+      "chars": 249
+    },
+    {
+      "no": "导航二",
+      "heading": "导航：通知公告、成绩单、规章制度与常用服务入口",
+      "heading_kind": "derived",
+      "lines": [37, 67],
+      "items": ["pt-cfc25ba2f6", "pt-e8eea12851", "pt-4c3e7eb07b"],
+      "chars": 107
+    },
+    {
+      "no": "导航三",
+      "heading": "导航：系统和平台（学生与教师常用业务、教学改革）",
+      "heading_kind": "derived",
+      "lines": [68, 131],
+      "items": ["pt-964860f325", "pt-de3a634440"],
+      "chars": 309
+    },
+    {
+      "no": "导航四",
+      "heading": "导航尾部：常用业务平台、毕业生成绩单、联系我们",
+      "heading_kind": "derived",
+      "lines": [132, 147],
+      "items": [],
+      "chars": 80
+    },
+    {
+      "no": "首屏",
+      "heading": "首屏图片位与「种子课堂概览」入口",
+      "heading_kind": "derived",
+      "lines": [148, 150],
+      "items": [],
+      "chars": 121
+    },
+    {
+      "no": "ANNOUNCEMENT",
+      "heading": "通知公告",
+      "heading_kind": "author",
+      "lines": [151, 167],
+      "items": ["pt-a640cfccd8", "pt-a957375ba8"],
+      "chars": 301
+    },
+    {
+      "no": "INFORMATION",
+      "heading": "新闻资讯条目列表",
+      "heading_kind": "derived",
+      "lines": [168, 182],
+      "items": ["pt-28b198f21f", "pt-58a80bf0e9"],
+      "chars": 362
+    },
+    {
+      "no": "DATA",
+      "heading": "信息下载",
+      "heading_kind": "author",
+      "lines": [183, 192],
+      "items": ["pt-37a7462620"],
+      "chars": 41
+    },
+    {
+      "no": "ACCESS",
+      "heading": "热点链接",
+      "heading_kind": "author",
+      "lines": [193, 207],
+      "items": ["pt-fba60421f6", "pt-577862d062", "pt-09ff1e1eb9", "pt-07d3c7b654", "pt-648bb766a7"],
+      "chars": 528
+    },
+    {
+      "no": "链接",
+      "heading": "友情链接",
+      "heading_kind": "author",
+      "lines": [208, 216],
+      "items": ["pt-7e645f44fd"],
+      "chars": 42
+    },
+    {
+      "no": "页脚",
+      "heading": "页面版权、备案号与访问统计",
+      "heading_kind": "derived",
+      "lines": [217, 218],
+      "items": [],
+      "chars": 104
+    }
+  ],
+  "items": ["pt-14bc0b8ed3", "pt-ad19850561", "pt-3d854bf8ad", "pt-92d7459dac", "pt-156bc4178e", "pt-020e95dc56", "pt-cfc25ba2f6", "pt-e8eea12851", "pt-4c3e7eb07b", "pt-964860f325", "pt-de3a634440", "pt-a640cfccd8", "pt-a957375ba8", "pt-28b198f21f", "pt-58a80bf0e9", "pt-37a7462620", "pt-fba60421f6", "pt-577862d062", "pt-09ff1e1eb9", "pt-07d3c7b654", "pt-648bb766a7", "pt-7e645f44fd"],
+  "notes": [
+    "本件是「中国传媒大学本科生院」网站首页的整页抽取（非正文文档）：第 3–147 行全是导航菜单，按栏目切成导航一至导航四 4 节；第 148–150 行是模板图片位（icon_more_1.gif、nnav_arrow.png）与「种子课堂概览」入口，单列「首屏」一节。",
+    "第 151–167 行的区块标题「ANNOUNCEMENT / 通知公告」与第 165 行的「查看更多+」、166 行的 INFORMATION、167 行的「新闻资讯」属于同一区块头，故合为一节；pt-a957375ba8 的引文「查看更多+INFORMATION新闻资讯」横跨 165–167 三行，必须由这一节整段包住才能命中。",
+    "第 183 行「查看更多+」是 DATA 区块的标题残留，与 184 行 DATA、185 行「信息下载」及统计项连成一体，故「信息下载」节取 183–192；第 193–207 行的 ACCESS 区块含「热点链接」「了解我们」「机构设置」「信息下载 / 下载」等入口。",
+    "第 1 行站点名与 217 行页脚都含「中国传媒大学本科生院」，pt-14bc0b8ed3 的引文落点在站点标题（第 1 行），故归「站点名与站点标识」节；页脚（版权、京 ICP 备 10039564 号、京公网安备 110402430031 号）与第 218 行访问统计图片位单列。",
+    "4 个 author 节名（通知公告 / 信息下载 / 热点链接 / 友情链接）均在本节行区间内逐字可查；导航、首屏、新闻列表、页脚的小标题是概括（derived），原文没有对应小标题。",
+    "文档级 items 共 22 条，全部在文中逐一定位到节；条目标题里被上游拼进来的「导航…」「查看更多+…」前缀只是上下文并入，落点以 quote 为准。"
+  ]
+}

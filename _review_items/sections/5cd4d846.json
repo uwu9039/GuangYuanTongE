@@ -1,1 +1,252 @@
-ew0KICJrZXkiOiAiNWNkNGQ4NDYiLA0KICJ0aXRsZSI6ICLkuK3kvKDkurrlrZfjgJQyMDE444CVOSDlj7cg5Lit5Zu95Lyg5aqS5aSn5a2m5pWZ6IGM5bel6ICD5Yuk566h55CG5Yqe5rOVIiwNCiAidHJ1bmNhdGVkIjogZmFsc2UsDQogInNlY3Rpb25zIjogWw0KICB7DQogICAibm8iOiAi6YCa55+lIiwNCiAgICJoZWFkaW5nIjogIuaWh+WktOS4juWNsOWPkemAmuefpSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDEsDQogICAgMTQNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgIndkLTVjZDRkODQ2Ig0KICAgXSwNCiAgICJjaGFycyI6IDE5Mg0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LiA56ugIiwNCiAgICJoZWFkaW5nIjogIuaAu+WImSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTUsDQogICAgMjkNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgIndkLTVjZDRkODQ2Ig0KICAgXSwNCiAgICJjaGFycyI6IDMwNQ0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LqM56ugIiwNCiAgICJoZWFkaW5nIjogIuW3peS9nOaXtumXtCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMzAsDQogICAgMzkNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDE4Ng0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LiJ56ugIiwNCiAgICJoZWFkaW5nIjogIuiAg+WLpOW3peS9nOimgeaxgiIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNDAsDQogICAgNTYNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDM3Mw0KICB9LA0KICB7DQogICAibm8iOiAi56ys5Zub56ugIiwNCiAgICJoZWFkaW5nIjogIuivt+WBh+WItuW6puWPiue8uuWLpOWkhOeQhiIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNTcsDQogICAgMTk3DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAyOTc4DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzljYHkuInmnaEiLA0KICAgImhlYWRpbmciOiAi5LqL5YGH5LiO5LqL5YGH5omj5Y+RIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNTgsDQogICAgODINCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDUwMg0KICB9LA0KICB7DQogICAibm8iOiAi56ys5Y2B5Zub5p2hIiwNCiAgICJoZWFkaW5nIjogIueXheWBh+OAgeWMu+eWl+acn+S4juW3pei1hCIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDgzLA0KICAgIDEyOQ0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTAxOQ0KICB9LA0KICB7DQogICAibm8iOiAi56ys5Y2B5LqU5p2hIiwNCiAgICJoZWFkaW5nIjogIuaOouS6suWBh+S4jui3r+i0ueaKpemUgCIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDEzMCwNCiAgICAxNDINCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDI2MQ0KICB9LA0KICB7DQogICAibm8iOiAi56ys5Y2B5YWt5p2hIiwNCiAgICJoZWFkaW5nIjogIuWpmuWBhyIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDE0MywNCiAgICAxNDgNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDEyMg0KICB9LA0KICB7DQogICAibm8iOiAi56ys5Y2B5LiD5p2hIiwNCiAgICJoZWFkaW5nIjogIuS6p+WBh+OAgemZquS6p+WBh+S4juW+hemBhyIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDE0OSwNCiAgICAxNzENCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDUwNw0KICB9LA0KICB7DQogICAibm8iOiAi56ys5Y2B5YWr5p2hIiwNCiAgICJoZWFkaW5nIjogIuS4p+WBhyIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDE3MiwNCiAgICAxNzYNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDg0DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzljYHkuZ3mnaEiLA0KICAgImhlYWRpbmciOiAi5YWs5rS+5Ye65Zu95LiO6ZqP5Lu75b6F6YGHIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMTc3LA0KICAgIDE5Nw0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogNDcxDQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkupTnq6AiLA0KICAgImhlYWRpbmciOiAi6K+35YGH5Y+K6ZSA5YGH5omL57utIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxOTgsDQogICAgMjE0DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAzNDYNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWFreeroCIsDQogICAiaGVhZGluZyI6ICLml7flt6XooYzkuLrlj4rlhbblpITnkIYiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDIxNSwNCiAgICAyMzgNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDQ2Mw0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LiD56ugIiwNCiAgICJoZWFkaW5nIjogIuWFtuWug+ebuOWFs+S6i+mhuSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMjM5LA0KICAgIDI1Ng0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogNDE3DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzlhavnq6AiLA0KICAgImhlYWRpbmciOiAi6ZmE5YiZIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyNTcsDQogICAgMjY3DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAxOTMNCiAgfSwNCiAgew0KICAgIm5vIjogIumZhOS7tjEiLA0KICAgImhlYWRpbmciOiAi6ICD5Yuk57uf6K6h6KGoIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyNjgsDQogICAgMjc3DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAxNTENCiAgfSwNCiAgew0KICAgIm5vIjogIumZhOS7tjIiLA0KICAgImhlYWRpbmciOiAi6ICD5Yuk5rGH5oC76KGoIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyNzgsDQogICAgMjkwDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAxODYNCiAgfSwNCiAgew0KICAgIm5vIjogIumZhOS7tjMiLA0KICAgImhlYWRpbmciOiAi6K+35YGH5a6h5om56KGoIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyOTEsDQogICAgMzI0DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiA1MDMNCiAgfSwNCiAgew0KICAgIm5vIjogIumZhOS7tjQiLA0KICAgImhlYWRpbmciOiAi6ZSA5YGH5a6h5om56KGoIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzMjUsDQogICAgMzM0DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAxMDINCiAgfSwNCiAgew0KICAgIm5vIjogIueJiOiusCIsDQogICAiaGVhZGluZyI6ICLljbDlj5HniYjorrAiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzMzUsDQogICAgMzM1DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAyOQ0KICB9DQogXSwNCiAiaXRlbXMiOiBbDQogICJ3ZC01Y2Q0ZDg0NiINCiBdLA0KICJub3RlcyI6IFsNCiAgIuesrOS4gOiHs+esrOWFq+eroOe8luWPt+i/nue7re+8jOaXoOmHjeWkjee8luWPt++8m+esrOWbm+eroCA1N+KAkzE5NyDooYzkuIvmjInjgIzmnaHjgI3lho3mi4blh7rnrKzljYHkuInmnaHoh7PnrKzljYHkuZ3mnaEgNyDkuKror7flgYfkuovnlLHlrZDoioLvvIjniLboioLkuI7lrZDoioLooYzlj7fph43lj6DvvIzlkIzmoLfkvosg5LqUL+S6lO+8iOS4gO+8ie+8ieOAgiIsDQogICLpmYTku7YgMeKAkzQg5Li65Zub5byg6KGo5Y2V77yI6ICD5Yuk57uf6K6h6KGo44CB6ICD5Yuk5rGH5oC76KGo44CB6K+35YGH5a6h5om56KGo44CB6ZSA5YGH5a6h5om56KGo77yJ77yM5ZCE5oiQ5LiA6IqC77yb56ysIDI2OC8yNzgvMjkxLzMyNSDooYzotbfkuLrjgIzpmYTku7YgTu+8muOAjeagh+mimOihjOOAgiIsDQogICLnrKwgMTQg6KGM5Li65Yqe5rOV5qCH6aKY6KGM77yI44CK5Lit5Zu95Lyg5aqS5aSn5a2m5pWZ6IGM5bel6ICD5Yuk566h55CG5Yqe5rOV44CL77yJ77yM5LiOIDHigJMxMyDooYznmoTljbDlj5HpgJrnn6XlkIjlubbkuLrjgIzmloflpLTkuI7ljbDlj5HpgJrnn6XjgI3kuIDoioLjgIIiLA0KICAi5YW25L2Z5ZCE56ug77yI56ys5LiA44CB5LqM44CB5LiJ44CB5LqU44CB5YWt44CB5LiD44CB5YWr56ug77yJ5p2h5paH5Zu057uV5ZCM5LiA5Li76aKY6L+e6LSv6KeE5a6a77yM5oyJ44CM56ug44CN5Li66IqC77yM5LiN5YaN6YCQ5p2h5ouG5YiG44CCIiwNCiAgIndkLTVjZDRkODQ2IOS4uuaWh+aho+e6p+adoeebru+8jOWFtiBldmlkZW5jZSDlvJXmlofmqKrot6ggMiDoioLvvIjnrKwgMeKAkzYg6KGM5Zyo44CM5paH5aS05LiO5Y2w5Y+R6YCa55+l44CN77yM56ysIDE244CBMTkg6KGM5Zyo44CM56ys5LiA56ugIOaAu+WImeOAje+8ie+8jOaVheWcqOi/mSAyIOiKgueahCBpdGVtcyDph4zlkITliJfkuIDmrKHvvJvmlofmoaPnuqcgaXRlbXMg5LuN5Y+q5YiX5LiA5qyh44CCIg0KIF0NCn0NCg==
+{
+ "key": "5cd4d846",
+ "title": "中传人字〔2018〕9 号 中国传媒大学教职工考勤管理办法",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "通知",
+   "heading": "文头与印发通知",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    14
+   ],
+   "items": [
+    "wd-5cd4d846"
+   ],
+   "chars": 192
+  },
+  {
+   "no": "第一章",
+   "heading": "总则",
+   "heading_kind": "author",
+   "lines": [
+    15,
+    29
+   ],
+   "items": [
+    "wd-5cd4d846"
+   ],
+   "chars": 305
+  },
+  {
+   "no": "第二章",
+   "heading": "工作时间",
+   "heading_kind": "author",
+   "lines": [
+    30,
+    39
+   ],
+   "items": [],
+   "chars": 186
+  },
+  {
+   "no": "第三章",
+   "heading": "考勤工作要求",
+   "heading_kind": "author",
+   "lines": [
+    40,
+    56
+   ],
+   "items": [],
+   "chars": 373
+  },
+  {
+   "no": "第四章",
+   "heading": "请假制度及缺勤处理",
+   "heading_kind": "author",
+   "lines": [
+    57,
+    197
+   ],
+   "items": [],
+   "chars": 2978
+  },
+  {
+   "no": "第十三条",
+   "heading": "事假与事假扣发",
+   "heading_kind": "derived",
+   "lines": [
+    58,
+    82
+   ],
+   "items": [],
+   "chars": 502
+  },
+  {
+   "no": "第十四条",
+   "heading": "病假、医疗期与工资",
+   "heading_kind": "derived",
+   "lines": [
+    83,
+    129
+   ],
+   "items": [],
+   "chars": 1019
+  },
+  {
+   "no": "第十五条",
+   "heading": "探亲假与路费报销",
+   "heading_kind": "derived",
+   "lines": [
+    130,
+    142
+   ],
+   "items": [],
+   "chars": 261
+  },
+  {
+   "no": "第十六条",
+   "heading": "婚假",
+   "heading_kind": "derived",
+   "lines": [
+    143,
+    148
+   ],
+   "items": [],
+   "chars": 122
+  },
+  {
+   "no": "第十七条",
+   "heading": "产假、陪产假与待遇",
+   "heading_kind": "derived",
+   "lines": [
+    149,
+    171
+   ],
+   "items": [],
+   "chars": 507
+  },
+  {
+   "no": "第十八条",
+   "heading": "丧假",
+   "heading_kind": "derived",
+   "lines": [
+    172,
+    176
+   ],
+   "items": [],
+   "chars": 84
+  },
+  {
+   "no": "第十九条",
+   "heading": "公派出国与随任待遇",
+   "heading_kind": "derived",
+   "lines": [
+    177,
+    197
+   ],
+   "items": [],
+   "chars": 471
+  },
+  {
+   "no": "第五章",
+   "heading": "请假及销假手续",
+   "heading_kind": "author",
+   "lines": [
+    198,
+    214
+   ],
+   "items": [],
+   "chars": 346
+  },
+  {
+   "no": "第六章",
+   "heading": "旷工行为及其处理",
+   "heading_kind": "author",
+   "lines": [
+    215,
+    238
+   ],
+   "items": [],
+   "chars": 463
+  },
+  {
+   "no": "第七章",
+   "heading": "其它相关事项",
+   "heading_kind": "author",
+   "lines": [
+    239,
+    256
+   ],
+   "items": [],
+   "chars": 417
+  },
+  {
+   "no": "第八章",
+   "heading": "附则",
+   "heading_kind": "author",
+   "lines": [
+    257,
+    267
+   ],
+   "items": [],
+   "chars": 193
+  },
+  {
+   "no": "附件1",
+   "heading": "考勤统计表",
+   "heading_kind": "author",
+   "lines": [
+    268,
+    277
+   ],
+   "items": [],
+   "chars": 151
+  },
+  {
+   "no": "附件2",
+   "heading": "考勤汇总表",
+   "heading_kind": "author",
+   "lines": [
+    278,
+    290
+   ],
+   "items": [],
+   "chars": 186
+  },
+  {
+   "no": "附件3",
+   "heading": "请假审批表",
+   "heading_kind": "author",
+   "lines": [
+    291,
+    324
+   ],
+   "items": [],
+   "chars": 503
+  },
+  {
+   "no": "附件4",
+   "heading": "销假审批表",
+   "heading_kind": "author",
+   "lines": [
+    325,
+    334
+   ],
+   "items": [],
+   "chars": 102
+  },
+  {
+   "no": "版记",
+   "heading": "印发版记",
+   "heading_kind": "derived",
+   "lines": [
+    335,
+    335
+   ],
+   "items": [],
+   "chars": 29
+  }
+ ],
+ "items": [
+  "wd-5cd4d846"
+ ],
+ "notes": [
+  "第一至第八章编号连续，无重复编号；第四章 57–197 行下按「条」再拆出第十三条至第十九条 7 个请假事由子节（父节与子节行号重叠，同样例 五/五（一））。",
+  "附件 1–4 为四张表单（考勤统计表、考勤汇总表、请假审批表、销假审批表），各成一节；第 268/278/291/325 行起为「附件 N：」标题行。",
+  "第 14 行为办法标题行（《中国传媒大学教职工考勤管理办法》），与 1–13 行的印发通知合并为「文头与印发通知」一节。",
+  "其余各章（第一、二、三、五、六、七、八章）条文围绕同一主题连贯规定，按「章」为节，不再逐条拆分。",
+  "wd-5cd4d846 为文档级条目，其 evidence 引文横跨 2 节（第 1–6 行在「文头与印发通知」，第 16、19 行在「第一章 总则」），故在这 2 节的 items 里各列一次；文档级 items 仍只列一次。"
+ ]
+}

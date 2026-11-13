@@ -1,1 +1,126 @@
-ew0KICAia2V5IjogImF0dC05YmQ4OTNiOGE5IiwNCiAgInRpdGxlIjogIumZhOS7tjIg5Lit5Zu95Lyg5aqS5aSn5a2m5pS26LS556Wo5o2u6aKE5YCf5a6h5om55Y2VIiwNCiAgInRydW5jYXRlZCI6IGZhbHNlLA0KICAic2VjdGlvbnMiOiBbDQogICAgew0KICAgICAgIm5vIjogIuKAlCIsDQogICAgICAiaGVhZGluZyI6ICLooajmoLzmoIfpopjvvIjpmYTku7Yy77yJIiwNCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAgICAibGluZXMiOiBbDQogICAgICAgIDEsDQogICAgICAgIDMNCiAgICAgIF0sDQogICAgICAiaXRlbXMiOiBbDQogICAgICAgICJhdHRmLTliZDg5M2I4YTkiDQogICAgICBdLA0KICAgICAgImNoYXJzIjogMTgNCiAgICB9LA0KICAgIHsNCiAgICAgICJubyI6ICLigJQiLA0KICAgICAgImhlYWRpbmciOiAi6KGo5aS077yI5aGr6KGo5pel5pyf6KGM77yJIiwNCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAgICAibGluZXMiOiBbDQogICAgICAgIDQsDQogICAgICAgIDEwDQogICAgICBdLA0KICAgICAgIml0ZW1zIjogW10sDQogICAgICAiY2hhcnMiOiAzODENCiAgICB9LA0KICAgIHsNCiAgICAgICJubyI6ICLigJQiLA0KICAgICAgImhlYWRpbmciOiAi5Z+65pys5L+h5oGv5qCP77yI55Sz6K+35Lq644CB6YOo6Zeo44CB6aG555uu44CB5ZCI5ZCM44CB5byA56Wo5LiO5om/6K+65Yiw5qy+5pel5pyf44CB56Wo5o2u57G75Z6L44CB56Wo5o2u5Y+356CB77yJIiwNCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAgICAibGluZXMiOiBbDQogICAgICAgIDExLA0KICAgICAgICAxNQ0KICAgICAgXSwNCiAgICAgICJpdGVtcyI6IFtdLA0KICAgICAgImNoYXJzIjogNDQwDQogICAgfSwNCiAgICB7DQogICAgICAibm8iOiAi4oCUIiwNCiAgICAgICJoZWFkaW5nIjogIuelqOaNruW8gOWFt+S/oeaBr+agj++8iOaKrOWktOOAgee6s+eojuS6uuivhuWIq+WPt+OAgemHkemineOAgeWGheWuueOAgeaOpeaUtueUteWtkOWPkeelqOmCrueuse+8iSIsDQogICAgICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgICAgImxpbmVzIjogWw0KICAgICAgICAxNiwNCiAgICAgICAgMzINCiAgICAgIF0sDQogICAgICAiaXRlbXMiOiBbDQogICAgICAgICJwdC01NDU3YWJjYzU3IiwNCiAgICAgICAgInB0LTlhMWQ0MmUxYjciLA0KICAgICAgICAicHQtYTNiYzBjYjliNSINCiAgICAgIF0sDQogICAgICAiY2hhcnMiOiAxODMNCiAgICB9LA0KICAgIHsNCiAgICAgICJubyI6ICLigJQiLA0KICAgICAgImhlYWRpbmciOiAi5aKe5YC856iO5LiT55So5Y+R56Wo6KGl5YWF5L+h5oGv5LiO5Ya757uT56iO6YeR6aG555uu5qCPIiwNCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAgICAibGluZXMiOiBbDQogICAgICAgIDMzLA0KICAgICAgICAzOQ0KICAgICAgXSwNCiAgICAgICJpdGVtcyI6IFsNCiAgICAgICAgInB0LTdlY2MwNzkxNWYiLA0KICAgICAgICAicHQtYmU2OGU3MGI0OSINCiAgICAgIF0sDQogICAgICAiY2hhcnMiOiAzNDcNCiAgICB9LA0KICAgIHsNCiAgICAgICJubyI6ICLigJQiLA0KICAgICAgImhlYWRpbmciOiAi55yf5a6e5oCn5aOw5piO5LiO55Sz6K+35Lq6562+5a2X5qCPIiwNCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAgICAibGluZXMiOiBbDQogICAgICAgIDQwLA0KICAgICAgICA0MA0KICAgICAgXSwNCiAgICAgICJpdGVtcyI6IFsNCiAgICAgICAgInB0LWQ4NzViZjIwNjMiDQogICAgICBdLA0KICAgICAgImNoYXJzIjogMTc5DQogICAgfSwNCiAgICB7DQogICAgICAibm8iOiAi4oCUIiwNCiAgICAgICJoZWFkaW5nIjogIumhu+efpeWPiuaJv+ivuiIsDQogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAgICAibGluZXMiOiBbDQogICAgICAgIDQxLA0KICAgICAgICA5NQ0KICAgICAgXSwNCiAgICAgICJpdGVtcyI6IFsNCiAgICAgICAgInB0LWM2NmZhYmVlYzEiLA0KICAgICAgICAicHQtOGU4NDlhMmIyNCINCiAgICAgIF0sDQogICAgICAiY2hhcnMiOiAxNTk1DQogICAgfSwNCiAgICB7DQogICAgICAibm8iOiAi4oCUIiwNCiAgICAgICJoZWFkaW5nIjogIui0ouWKoeWkhOWuoeaJuSIsDQogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAgICAibGluZXMiOiBbDQogICAgICAgIDk2LA0KICAgICAgICAxMDINCiAgICAgIF0sDQogICAgICAiaXRlbXMiOiBbXSwNCiAgICAgICJjaGFycyI6IDExOQ0KICAgIH0NCiAgXSwNCiAgIml0ZW1zIjogWw0KICAgICJhdHRmLTliZDg5M2I4YTkiLA0KICAgICJwdC01NDU3YWJjYzU3IiwNCiAgICAicHQtOWExZDQyZTFiNyIsDQogICAgInB0LWEzYmMwY2I5YjUiLA0KICAgICJwdC03ZWNjMDc5MTVmIiwNCiAgICAicHQtYmU2OGU3MGI0OSIsDQogICAgInB0LWQ4NzViZjIwNjMiLA0KICAgICJwdC1jNjZmYWJlZWMxIiwNCiAgICAicHQtOGU4NDlhMmIyNCINCiAgXSwNCiAgIm5vdGVzIjogWw0KICAgICLmnKzmlofmmK/ljZXlvKDlrqHmibnooajnmoQgRE9DWCDovazmlofmnKzvvIzlkIjlubbljZXlhYPmoLzooqvpgJDooYzph43lpI3lr7zlh7rvvIjlkIzkuIDmoLzph43lpI0gMuKAkzcg5qyh44CB5Lul44CMfOOAjeWIhumalO+8ie+8jOS4jeWtmOWcqOeroOiKguWxgue6p++8m+aMieOAjOaVtOihqOS4gOiKguOAjeeahOWBmuazleaMieagj+S9jeWIh+WIhuOAgiIsDQogICAgImF0dGYtOWJkODkzYjhhOSDmmK/mlofmoaPnuqfooajmoLzmnaHnm67vvIhraW5kPWZvcm3vvIzmoIfpopjljbPooajlkI3vvInvvIzliJflhaXmlofmoaPnuqcgaXRlbXMg5bm26JC95Zyo44CM6KGo5qC85qCH6aKY44CN6IqC44CCIiwNCiAgICAiNOKAkzEwIOihjOS4uuihqOWktOOAjOW5tCDmnIgg5pel44CN5LiO6KGo5ZCN55qE6YeN5aSN6KGM77yMMTHigJMxNSDooYzkuLrnlLPor7fln7rmnKzkv6Hmga/moI/vvIwxNuKAkzM5IOihjOS4uuelqOaNruW8gOWFt+S4jueojuWPt+S/oeaBr+agj++8iOWQq+WinuWAvOeojuS4k+eUqOWPkeelqOihpeWFhemhue+8ie+8jDQw4oCTOTUg6KGM5Li6562+5a2X44CB6aG755+l5LiO5om/6K+677yMOTbigJMxMDIg6KGM5Li66LSi5Yqh5aSE5a6h5om55qCP44CCIiwNCiAgICAiNDDigJM5NSDooYzkuK3jgIzpooTlgJ/pobvnn6XvvI/pooTlgJ/mib/or7rvvI/pg6jpl6jvvIjpobnnm67vvInotJ/otKPkurrjgI3mlbTmrrXlnKjmupDmlofmnKzph4zph43lpI3lh7rnjrAgNiDmrKHvvIjlkIjlubbljZXlhYPmoLzpgJDooYzlsZXlvIDmiYDoh7TvvInvvIzmjInlkIzkuIDoioLlpITnkIbvvIzmnKrph43lpI3lu7roioLjgIIiDQogIF0NCn0NCg==
+{
+  "key": "att-9bd893b8a9",
+  "title": "附件2 中国传媒大学收费票据预借审批单",
+  "truncated": false,
+  "sections": [
+    {
+      "no": "—",
+      "heading": "表格标题（附件2）",
+      "heading_kind": "derived",
+      "lines": [
+        1,
+        3
+      ],
+      "items": [
+        "attf-9bd893b8a9"
+      ],
+      "chars": 18
+    },
+    {
+      "no": "—",
+      "heading": "表头（填表日期行）",
+      "heading_kind": "derived",
+      "lines": [
+        4,
+        10
+      ],
+      "items": [],
+      "chars": 381
+    },
+    {
+      "no": "—",
+      "heading": "基本信息栏（申请人、部门、项目、合同、开票与承诺到款日期、票据类型、票据号码）",
+      "heading_kind": "derived",
+      "lines": [
+        11,
+        15
+      ],
+      "items": [],
+      "chars": 440
+    },
+    {
+      "no": "—",
+      "heading": "票据开具信息栏（抬头、纳税人识别号、金额、内容、接收电子发票邮箱）",
+      "heading_kind": "derived",
+      "lines": [
+        16,
+        32
+      ],
+      "items": [
+        "pt-5457abcc57",
+        "pt-9a1d42e1b7",
+        "pt-a3bc0cb9b5"
+      ],
+      "chars": 183
+    },
+    {
+      "no": "—",
+      "heading": "增值税专用发票补充信息与冻结税金项目栏",
+      "heading_kind": "derived",
+      "lines": [
+        33,
+        39
+      ],
+      "items": [
+        "pt-7ecc07915f",
+        "pt-be68e70b49"
+      ],
+      "chars": 347
+    },
+    {
+      "no": "—",
+      "heading": "真实性声明与申请人签字栏",
+      "heading_kind": "derived",
+      "lines": [
+        40,
+        40
+      ],
+      "items": [
+        "pt-d875bf2063"
+      ],
+      "chars": 179
+    },
+    {
+      "no": "—",
+      "heading": "须知及承诺",
+      "heading_kind": "author",
+      "lines": [
+        41,
+        95
+      ],
+      "items": [
+        "pt-c66fabeec1",
+        "pt-8e849a2b24"
+      ],
+      "chars": 1595
+    },
+    {
+      "no": "—",
+      "heading": "财务处审批",
+      "heading_kind": "author",
+      "lines": [
+        96,
+        102
+      ],
+      "items": [],
+      "chars": 119
+    }
+  ],
+  "items": [
+    "attf-9bd893b8a9",
+    "pt-5457abcc57",
+    "pt-9a1d42e1b7",
+    "pt-a3bc0cb9b5",
+    "pt-7ecc07915f",
+    "pt-be68e70b49",
+    "pt-d875bf2063",
+    "pt-c66fabeec1",
+    "pt-8e849a2b24"
+  ],
+  "notes": [
+    "本文是单张审批表的 DOCX 转文本，合并单元格被逐行重复导出（同一格重复 2–7 次、以「|」分隔），不存在章节层级；按「整表一节」的做法按栏位切分。",
+    "attf-9bd893b8a9 是文档级表格条目（kind=form，标题即表名），列入文档级 items 并落在「表格标题」节。",
+    "4–10 行为表头「年 月 日」与表名的重复行，11–15 行为申请基本信息栏，16–39 行为票据开具与税号信息栏（含增值税专用发票补充项），40–95 行为签字、须知与承诺，96–102 行为财务处审批栏。",
+    "40–95 行中「预借须知／预借承诺／部门（项目）负责人」整段在源文本里重复出现 6 次（合并单元格逐行展开所致），按同一节处理，未重复建节。"
+  ]
+}

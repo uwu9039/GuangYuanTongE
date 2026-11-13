@@ -1,1 +1,160 @@
-ewogImtleSI6ICJhdHQtYTNiMDQ1MGYwZSIsCiAidGl0bGUiOiAi5Lit5Zu95Lyg5aqS5aSn5a2m5pys56eR55Sf5L2T6IKy6K++56iL566h55CG6KeE5a6a77yI5pys56eR55Sf6Zmi44CUMjAyM+OAlTYy5Y+377yJIiwKICJ0cnVuY2F0ZWQiOiBmYWxzZSwKICJzZWN0aW9ucyI6IFsKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLkuK3lm73kvKDlqpLlpKflrabmnKznp5HnlJ/kvZPogrLor77nqIvnrqHnkIbop4TlrpoiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsKICAgIDEsCiAgICA2MAogICBdLAogICAiaXRlbXMiOiBbCiAgICAicHQtZjg3ZWIyMDg4NyIKICAgXSwKICAgImNoYXJzIjogMTE3OAogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi5YWz5LqO5Y2w5Y+R44CK5Lit5Zu95Lyg5aqS5aSn5a2m5pys56eR55Sf5L2T6IKy6K++56iL566h55CG6KeE5a6a44CL55qE6YCa55+lIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbCiAgICAxLAogICAgMTYKICAgXSwKICAgIml0ZW1zIjogWwogICAgInB0LTQ4Nzc3MmUzYzIiLAogICAgInB0LTI0NzQzODMwNWYiCiAgIF0sCiAgICJjaGFycyI6IDIwMQogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi6KeE5a6a6aaW6YOo77ya5Yi25a6a55uu55qE5LiO5L6d5o2uIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWwogICAgMTgsCiAgICAyMwogICBdLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogMTEyCiAgfSwKICB7CiAgICJubyI6ICLkuIDjgIEiLAogICAiaGVhZGluZyI6ICLkuIDjgIHkvZPogrLor77nqIvln7rmnKzopoHmsYIiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsKICAgIDI0LAogICAgMzEKICAgXSwKICAgIml0ZW1zIjogWwogICAgInB0LWVhZTBiZDRlZWYiLAogICAgInB0LTQ0MzZhODU1NDYiCiAgIF0sCiAgICJjaGFycyI6IDIxMwogIH0sCiAgewogICAibm8iOiAi5LqM44CBIiwKICAgImhlYWRpbmciOiAi5LqM44CB5L2T6IKy6K++56iL6ICD5qC45LiO5oiQ57up6K+E5a6aIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbCiAgICAzMiwKICAgIDM1CiAgIF0sCiAgICJpdGVtcyI6IFsKICAgICJwdC1jZDllNWRkNzQwIgogICBdLAogICAiY2hhcnMiOiA4MwogIH0sCiAgewogICAibm8iOiAi5LiJ44CBIiwKICAgImhlYWRpbmciOiAi5LiJ44CB5L2T6IKy6K++56iL6YeN6ICD44CB6YeN5L+u44CB5YWN5L+u5Y+K57yT6ICD5Yqe5rOVIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbCiAgICAzNiwKICAgIDUxCiAgIF0sCiAgICJpdGVtcyI6IFsKICAgICJwdC0yMWIyYmJlMzUwIiwKICAgICJwdC0yYWZhMmY5NGZmIiwKICAgICJwdC01Y2IxM2U2MTE0IiwKICAgICJwdC1jMDhiNGQzYTg5IgogICBdLAogICAiY2hhcnMiOiAzODIKICB9LAogIHsKICAgIm5vIjogIuWbm+OAgSIsCiAgICJoZWFkaW5nIjogIuWbm+OAgeWtpueUn+S9k+i0qOWBpeW6t+agh+WHhua1i+ivleimgeaxgiIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFsKICAgIDUzLAogICAgNTYKICAgXSwKICAgIml0ZW1zIjogWwogICAgInB0LWQwODQyMzNlZTciCiAgIF0sCiAgICJjaGFycyI6IDEwNQogIH0sCiAgewogICAibm8iOiAi5LqU44CBIiwKICAgImhlYWRpbmciOiAi5LqU44CB5pyq5bC95LqL5a6c55qE5omn6KGM5L6d5o2uIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWwogICAgNTgsCiAgICA1OAogICBdLAogICAiaXRlbXMiOiBbCiAgICAicHQtNDc5ZDBlZDM4OCIKICAgXSwKICAgImNoYXJzIjogMjkKICB9LAogIHsKICAgIm5vIjogIuWFreOAgSIsCiAgICJoZWFkaW5nIjogIuWFreOAgeaJp+ihjOi1t+Wni+W5tOe6pyIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFsKICAgIDU5LAogICAgNTkKICAgXSwKICAgIml0ZW1zIjogW10sCiAgICJjaGFycyI6IDE3CiAgfSwKICB7CiAgICJubyI6ICLkuIPjgIEiLAogICAiaGVhZGluZyI6ICLkuIPjgIHop6Pph4rmnYPlvZLlsZ4iLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbCiAgICA2MCwKICAgIDYwCiAgIF0sCiAgICJpdGVtcyI6IFsKICAgICJwdC0xYWQ3NmNlNTUyIgogICBdLAogICAiY2hhcnMiOiAxOQogIH0KIF0sCiAiaXRlbXMiOiBbCiAgInB0LTQ4Nzc3MmUzYzIiLAogICJwdC0yNDc0MzgzMDVmIiwKICAicHQtZjg3ZWIyMDg4NyIsCiAgInB0LWVhZTBiZDRlZWYiLAogICJwdC00NDM2YTg1NTQ2IiwKICAicHQtY2Q5ZTVkZDc0MCIsCiAgInB0LTIxYjJiYmUzNTAiLAogICJwdC0yYWZhMmY5NGZmIiwKICAicHQtNWNiMTNlNjExNCIsCiAgInB0LWMwOGI0ZDNhODkiLAogICJwdC1kMDg0MjMzZWU3IiwKICAicHQtNDc5ZDBlZDM4OCIsCiAgInB0LTFhZDc2Y2U1NTIiCiBdLAogIm5vdGVzIjogWwogICLmlofmoaPkuLrjgIzljbDlj5HpgJrnn6XvvIvop4TlrprmraPmlofjgI3lkIjkvZPvvJrnrKwgMeKAkzE2IOihjOaYr+mAmuefpe+8iOaWh+WPt+OAgeagh+mimOOAgeS4u+mAgeacuuWFs+OAgeato+aWh+OAgeiQveasvu+8ie+8jOesrCAxNyDooYzotbfmmK/op4TlrprmraPmlofjgILpppboioLvvIgx4oCTNjDvvInku6Xop4TlrprmoIfpopjkuLrlkI3kvZzmlbTnr4fniLboioLvvIzpgJrnn6XkvZzkuLrlhbblrZDoioLvvIjnnJ/ltYzlpZfvvInjgIIiLAogICJwdC1mODdlYjIwODg3IOeahOW8leaWh+i3qOmAmuefpeiQveasvuS4juinhOWumuagh+mimO+8iOOAjOKApuS9k+iCsumDqDIwMjPlubQ45pyIMzDml6XkuK3lm73kvKDlqpLlpKflrabmnKznp5HnlJ/kvZPogrLor77nqIvnrqHnkIbop4TlrprigKbjgI3vvInvvIzkuKTooYzliIblsZ7pgJrnn6XkuI7mraPmlofvvIzlj6rog73okL3lnKjmlbTnr4fniLboioLvvIzmlYXliJflnKjpppboioLjgIIiLAogICLkuIDjgIHkuozjgIHkuIkg5piv5Y6f5paH6Ieq5bim55qE55Wq5Y+35bCP5qCH6aKY77yI56ysIDI044CBMzLjgIEzNiDooYzvvInvvIzmoIcgYXV0aG9y77yb5Zub44CB5LqU44CB5YWt44CB5LiDIOWOn+aWh+WPquacieeVquWPt+OAgeaXoOWwj+agh+mimO+8iOesrCA1M+OAgTU444CBNTnjgIE2MCDooYzvvInvvIxoZWFkaW5nIOS4uuaNruato+aWh+amguaLrOeahCBkZXJpdmVk44CCIiwKICAi6KeE5a6a5q2j5paH6aaW6YOo77yI56ysIDE34oCTMjMg6KGM77ya6KeE5a6a5ZCN56ew77yL5Yi25a6a5L6d5o2u5q6177yJ5peg54us56uL5bCP5qCH6aKY77yM56ysIDE3IOihjOW9kuWFpeaVtOevh+eItuiKgu+8jOesrCAxOOKAkzIzIOihjOWNleWIlyBkZXJpdmVkIOiKguOAgiIsCiAgIuWOn+aWh+W8guW4uO+8muesrCA0NiDooYzjgIzigKblrqHmibnlkIzmhI/lkI7vvIzmjInnm7jlhbPop4TlrprmiafooYzjgILjgI3liY3nmoTooYzot50v56m66KGM5Li65oq95Y+W55WZ55m977yb5q2j5paH5a6M5pW077yM5pyr5Y+l5Li644CM5LiD44CB5pys6KeE5a6a55Sx5pys56eR55Sf6Zmi44CB5L2T6IKy6YOo6LSf6LSj6Kej6YeK44CC44CN77yM5pyq6KeB5oiq5pat44CCIgogXQp9Cg==
+{
+ "key": "att-a3b0450f0e",
+ "title": "中国传媒大学本科生体育课程管理规定（本科生院〔2023〕62号）",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "中国传媒大学本科生体育课程管理规定",
+   "heading_kind": "author",
+   "lines": [
+    1,
+    60
+   ],
+   "items": [
+    "pt-f87eb20887"
+   ],
+   "chars": 1178
+  },
+  {
+   "no": "—",
+   "heading": "关于印发《中国传媒大学本科生体育课程管理规定》的通知",
+   "heading_kind": "author",
+   "lines": [
+    1,
+    16
+   ],
+   "items": [
+    "pt-487772e3c2",
+    "pt-247438305f"
+   ],
+   "chars": 201
+  },
+  {
+   "no": "—",
+   "heading": "规定首部：制定目的与依据",
+   "heading_kind": "derived",
+   "lines": [
+    18,
+    23
+   ],
+   "items": [],
+   "chars": 112
+  },
+  {
+   "no": "一、",
+   "heading": "一、体育课程基本要求",
+   "heading_kind": "author",
+   "lines": [
+    24,
+    31
+   ],
+   "items": [
+    "pt-eae0bd4eef",
+    "pt-4436a85546"
+   ],
+   "chars": 213
+  },
+  {
+   "no": "二、",
+   "heading": "二、体育课程考核与成绩评定",
+   "heading_kind": "author",
+   "lines": [
+    32,
+    35
+   ],
+   "items": [
+    "pt-cd9e5dd740"
+   ],
+   "chars": 83
+  },
+  {
+   "no": "三、",
+   "heading": "三、体育课程重考、重修、免修及缓考办法",
+   "heading_kind": "author",
+   "lines": [
+    36,
+    51
+   ],
+   "items": [
+    "pt-21b2bbe350",
+    "pt-2afa2f94ff",
+    "pt-5cb13e6114",
+    "pt-c08b4d3a89"
+   ],
+   "chars": 382
+  },
+  {
+   "no": "四、",
+   "heading": "四、学生体质健康标准测试要求",
+   "heading_kind": "derived",
+   "lines": [
+    53,
+    56
+   ],
+   "items": [
+    "pt-d084233ee7"
+   ],
+   "chars": 105
+  },
+  {
+   "no": "五、",
+   "heading": "五、未尽事宜的执行依据",
+   "heading_kind": "derived",
+   "lines": [
+    58,
+    58
+   ],
+   "items": [
+    "pt-479d0ed388"
+   ],
+   "chars": 29
+  },
+  {
+   "no": "六、",
+   "heading": "六、执行起始年级",
+   "heading_kind": "derived",
+   "lines": [
+    59,
+    59
+   ],
+   "items": [],
+   "chars": 17
+  },
+  {
+   "no": "七、",
+   "heading": "七、解释权归属",
+   "heading_kind": "derived",
+   "lines": [
+    60,
+    60
+   ],
+   "items": [
+    "pt-1ad76ce552"
+   ],
+   "chars": 19
+  }
+ ],
+ "items": [
+  "pt-487772e3c2",
+  "pt-247438305f",
+  "pt-f87eb20887",
+  "pt-eae0bd4eef",
+  "pt-4436a85546",
+  "pt-cd9e5dd740",
+  "pt-21b2bbe350",
+  "pt-2afa2f94ff",
+  "pt-5cb13e6114",
+  "pt-c08b4d3a89",
+  "pt-d084233ee7",
+  "pt-479d0ed388",
+  "pt-1ad76ce552"
+ ],
+ "notes": [
+  "文档为「印发通知＋规定正文」合体：第 1–16 行是通知（文号、标题、主送机关、正文、落款），第 17 行起是规定正文。首节（1–60）以规定标题为名作整篇父节，通知作为其子节（真嵌套）。",
+  "pt-f87eb20887 的引文跨通知落款与规定标题（「…体育部2023年8月30日中国传媒大学本科生体育课程管理规定…」），两行分属通知与正文，只能落在整篇父节，故列在首节。",
+  "一、二、三 是原文自带的番号小标题（第 24、32、36 行），标 author；四、五、六、七 原文只有番号、无小标题（第 53、58、59、60 行），heading 为据正文概括的 derived。",
+  "规定正文首部（第 17–23 行：规定名称＋制定依据段）无独立小标题，第 17 行归入整篇父节，第 18–23 行单列 derived 节。",
+  "原文异常：第 46 行「…审批同意后，按相关规定执行。」前的行距/空行为抽取留白；正文完整，末句为「七、本规定由本科生院、体育部负责解释。」，未见截断。"
+ ]
+}

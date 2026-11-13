@@ -1,1 +1,151 @@
-ew0KICAia2V5IjogIjIwMjYwNjAxLWMxNDc0NWEyNzExOTYiLA0KICAidGl0bGUiOiAi6Z2S5pil6IGa5Yqb56ue6aOO6YeH77yM5L+h5Lyg5oms5biG5ZCR5pyq5p2l772c5L+h5oGv5Lyg5pKt5a2m6Zmi5biI55Sf5Y+C5Yqg5Lit5Zu95Lyg5aqS5aSn5a2m56ys5Zub5Y2B5Zub5bGK6L+Q5Yqo5LyaIiwNCiAgInRydW5jYXRlZCI6IGZhbHNlLA0KICAic2VjdGlvbnMiOiBbDQogICAgew0KICAgICAgIm5vIjogIuKAlCIsDQogICAgICAiaGVhZGluZyI6ICLpobXpnaLmoYbmnrbkuI7lr7zoiKrmoI8iLA0KICAgICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICAgICJsaW5lcyI6IFsNCiAgICAgICAgMSwNCiAgICAgICAgMzYNCiAgICAgIF0sDQogICAgICAiaXRlbXMiOiBbDQogICAgICAgICJwdC0wNmNmNTZmYzhkIg0KICAgICAgXSwNCiAgICAgICJjaGFycyI6IDM5MA0KICAgIH0sDQogICAgew0KICAgICAgIm5vIjogIuKAlCIsDQogICAgICAiaGVhZGluZyI6ICLotZvkuovmpoLlhrXvvIjlvIDnr4fmgLvov7DvvIkiLA0KICAgICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICAgICJsaW5lcyI6IFsNCiAgICAgICAgMzcsDQogICAgICAgIDM3DQogICAgICBdLA0KICAgICAgIml0ZW1zIjogWw0KICAgICAgICAicHQtN2FmMTEwNzQyNyINCiAgICAgIF0sDQogICAgICAiY2hhcnMiOiA3OQ0KICAgIH0sDQogICAgew0KICAgICAgIm5vIjogIuKAlCIsDQogICAgICAiaGVhZGluZyI6ICLlvIDluZXlvI8iLA0KICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgICAgImxpbmVzIjogWw0KICAgICAgICAzOCwNCiAgICAgICAgNDQNCiAgICAgIF0sDQogICAgICAiaXRlbXMiOiBbDQogICAgICAgICJwdC02YWFhZjUzMWZlIiwNCiAgICAgICAgInB0LWI5MmUzNjk1MmQiDQogICAgICBdLA0KICAgICAgImNoYXJzIjogNDMzDQogICAgfSwNCiAgICB7DQogICAgICAibm8iOiAi4oCUIiwNCiAgICAgICJoZWFkaW5nIjogIueUsOW+hOavlOi1myIsDQogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAgICAibGluZXMiOiBbDQogICAgICAgIDQ1LA0KICAgICAgICA1Mw0KICAgICAgXSwNCiAgICAgICJpdGVtcyI6IFsNCiAgICAgICAgInB0LTA1YjdmZDRiM2YiLA0KICAgICAgICAicHQtOGJlMGQyMjJlYyIsDQogICAgICAgICJwdC1hYmQ5OGQyMGIwIg0KICAgICAgXSwNCiAgICAgICJjaGFycyI6IDU2OA0KICAgIH0sDQogICAgew0KICAgICAgIm5vIjogIuKAlCIsDQogICAgICAiaGVhZGluZyI6ICLotqPlkbPov5DliqjkvJoiLA0KICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgICAgImxpbmVzIjogWw0KICAgICAgICA1NCwNCiAgICAgICAgNjMNCiAgICAgIF0sDQogICAgICAiaXRlbXMiOiBbDQogICAgICAgICJwdC1hODI5ZGU5ZjQyIiwNCiAgICAgICAgInB0LWIyNWYxZjQzYjEiLA0KICAgICAgICAicHQtZGFlNTAzZDRlNCIsDQogICAgICAgICJwdC0zYzViYTBiYmVmIiwNCiAgICAgICAgInB0LTRkM2E2MzJmYTMiDQogICAgICBdLA0KICAgICAgImNoYXJzIjogNzIxDQogICAgfSwNCiAgICB7DQogICAgICAibm8iOiAi4oCUIiwNCiAgICAgICJoZWFkaW5nIjogIuawtOS4iumhueebriIsDQogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAgICAibGluZXMiOiBbDQogICAgICAgIDY0LA0KICAgICAgICA2Nw0KICAgICAgXSwNCiAgICAgICJpdGVtcyI6IFsNCiAgICAgICAgInB0LTQ3MmQ5NWQwODciDQogICAgICBdLA0KICAgICAgImNoYXJzIjogMjUzDQogICAgfSwNCiAgICB7DQogICAgICAibm8iOiAi4oCUIiwNCiAgICAgICJoZWFkaW5nIjogIuS/oeaBr+S8oOaSreWtpumZouW4iOeUn+WllumhueS4gOiniCIsDQogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAgICAibGluZXMiOiBbDQogICAgICAgIDY4LA0KICAgICAgICA4MQ0KICAgICAgXSwNCiAgICAgICJpdGVtcyI6IFsNCiAgICAgICAgInB0LTg5OWQzOWM5NjMiDQogICAgICBdLA0KICAgICAgImNoYXJzIjogMjc4DQogICAgfSwNCiAgICB7DQogICAgICAibm8iOiAi4oCUIiwNCiAgICAgICJoZWFkaW5nIjogIue7k+ivre+8iOi/kOWKqOS8muWchua7oee7k+adn++8iSIsDQogICAgICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgICAgImxpbmVzIjogWw0KICAgICAgICA4MiwNCiAgICAgICAgODINCiAgICAgIF0sDQogICAgICAiaXRlbXMiOiBbDQogICAgICAgICJwdC00YjM2ODIwM2Y1Ig0KICAgICAgXSwNCiAgICAgICJjaGFycyI6IDg5DQogICAgfSwNCiAgICB7DQogICAgICAibm8iOiAi4oCUIiwNCiAgICAgICJoZWFkaW5nIjogIumhtemdoumhteiEmuS4juWPi+aDhemTvuaOpSIsDQogICAgICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgICAgImxpbmVzIjogWw0KICAgICAgICA4MywNCiAgICAgICAgMTAwDQogICAgICBdLA0KICAgICAgIml0ZW1zIjogW10sDQogICAgICAiY2hhcnMiOiA0MDUNCiAgICB9DQogIF0sDQogICJpdGVtcyI6IFsNCiAgICAicHQtMDZjZjU2ZmM4ZCIsDQogICAgInB0LTdhZjExMDc0MjciLA0KICAgICJwdC02YWFhZjUzMWZlIiwNCiAgICAicHQtYjkyZTM2OTUyZCIsDQogICAgInB0LTA1YjdmZDRiM2YiLA0KICAgICJwdC04YmUwZDIyMmVjIiwNCiAgICAicHQtYWJkOThkMjBiMCIsDQogICAgInB0LWE4MjlkZTlmNDIiLA0KICAgICJwdC1iMjVmMWY0M2IxIiwNCiAgICAicHQtZGFlNTAzZDRlNCIsDQogICAgInB0LTNjNWJhMGJiZWYiLA0KICAgICJwdC00ZDNhNjMyZmEzIiwNCiAgICAicHQtNDcyZDk1ZDA4NyIsDQogICAgInB0LTg5OWQzOWM5NjMiLA0KICAgICJwdC00YjM2ODIwM2Y1Ig0KICBdLA0KICAibm90ZXMiOiBbDQogICAgIuaWsOmXu+e9kemhte+8mjHigJMzNCDooYzkuLrnq5nlhoXlr7zoiKrvvIwzNeKAkzM2IOihjOS4uuagh+mimOS4juWPkeW4g+aXtumXtO+8jDgz4oCTMTAwIOihjOS4uumhteiEmuOAgeWPi+aDhemTvuaOpeS4juiuv+mXrue7n+iuoeOAgiIsDQogICAgIuWQhOi1m+WGteWwj+iKguS5i+mXtOWkuee7hOWbviBb6ZmE5Lu2XSDooYzkuI7lm77ms6jooYzvvJvlpJrmnaHmnaHnm67nmoTlvJXmlofotbfngrnokL3lnKjlm77ms6jooYzlubbot6jlhaXkuIvkuIDmnaHlsI/moIfpopjvvIg0MC80Ni81NC82NS82OSDooYzvvInvvIzmlYXlsI/oioLotbfngrnlkKvov5nkupvlm77niYcv5Zu+5rOo6KGM77yM5ZCm5YiZ5byV5paH6Leo6KGM6JC95LiN5LqG5Zyw44CCIiwNCiAgICAi44CM57uT6K+t44CN5LiA5q6177yIODIg6KGM77yJ5Y6f5paH5peg5bCP5qCH6aKY77yM5qCHIGRlcml2ZWTjgIIiDQogIF0NCn0NCg==
+{
+  "key": "20260601-c14745a271196",
+  "title": "青春聚力竞风采，信传扬帆向未来｜信息传播学院师生参加中国传媒大学第四十四届运动会",
+  "truncated": false,
+  "sections": [
+    {
+      "no": "—",
+      "heading": "页面框架与导航栏",
+      "heading_kind": "derived",
+      "lines": [
+        1,
+        36
+      ],
+      "items": [
+        "pt-06cf56fc8d"
+      ],
+      "chars": 390
+    },
+    {
+      "no": "—",
+      "heading": "赛事概况（开篇总述）",
+      "heading_kind": "derived",
+      "lines": [
+        37,
+        37
+      ],
+      "items": [
+        "pt-7af1107427"
+      ],
+      "chars": 79
+    },
+    {
+      "no": "—",
+      "heading": "开幕式",
+      "heading_kind": "author",
+      "lines": [
+        38,
+        44
+      ],
+      "items": [
+        "pt-6aaaf531fe",
+        "pt-b92e36952d"
+      ],
+      "chars": 433
+    },
+    {
+      "no": "—",
+      "heading": "田径比赛",
+      "heading_kind": "author",
+      "lines": [
+        45,
+        53
+      ],
+      "items": [
+        "pt-05b7fd4b3f",
+        "pt-8be0d222ec",
+        "pt-abd98d20b0"
+      ],
+      "chars": 568
+    },
+    {
+      "no": "—",
+      "heading": "趣味运动会",
+      "heading_kind": "author",
+      "lines": [
+        54,
+        63
+      ],
+      "items": [
+        "pt-a829de9f42",
+        "pt-b25f1f43b1",
+        "pt-dae503d4e4",
+        "pt-3c5ba0bbef",
+        "pt-4d3a632fa3"
+      ],
+      "chars": 721
+    },
+    {
+      "no": "—",
+      "heading": "水上项目",
+      "heading_kind": "author",
+      "lines": [
+        64,
+        67
+      ],
+      "items": [
+        "pt-472d95d087"
+      ],
+      "chars": 253
+    },
+    {
+      "no": "—",
+      "heading": "信息传播学院师生奖项一览",
+      "heading_kind": "author",
+      "lines": [
+        68,
+        81
+      ],
+      "items": [
+        "pt-899d39c963"
+      ],
+      "chars": 278
+    },
+    {
+      "no": "—",
+      "heading": "结语（运动会圆满结束）",
+      "heading_kind": "derived",
+      "lines": [
+        82,
+        82
+      ],
+      "items": [
+        "pt-4b368203f5"
+      ],
+      "chars": 89
+    },
+    {
+      "no": "—",
+      "heading": "页面页脚与友情链接",
+      "heading_kind": "derived",
+      "lines": [
+        83,
+        100
+      ],
+      "items": [],
+      "chars": 405
+    }
+  ],
+  "items": [
+    "pt-06cf56fc8d",
+    "pt-7af1107427",
+    "pt-6aaaf531fe",
+    "pt-b92e36952d",
+    "pt-05b7fd4b3f",
+    "pt-8be0d222ec",
+    "pt-abd98d20b0",
+    "pt-a829de9f42",
+    "pt-b25f1f43b1",
+    "pt-dae503d4e4",
+    "pt-3c5ba0bbef",
+    "pt-4d3a632fa3",
+    "pt-472d95d087",
+    "pt-899d39c963",
+    "pt-4b368203f5"
+  ],
+  "notes": [
+    "新闻网页：1–34 行为站内导航，35–36 行为标题与发布时间，83–100 行为页脚、友情链接与访问统计。",
+    "各赛况小节之间夹组图 [附件] 行与图注行；多条条目的引文起点落在图注行并跨入下一条小标题（40/46/54/65/69 行），故小节起点含这些图片/图注行，否则引文跨行落不了地。",
+    "「结语」一段（82 行）原文无小标题，标 derived。"
+  ]
+}

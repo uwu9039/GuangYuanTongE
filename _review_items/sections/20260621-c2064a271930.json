@@ -1,1 +1,202 @@
-ew0KICJrZXkiOiAiMjAyNjA2MjEtYzIwNjRhMjcxOTMwIiwNCiAidGl0bGUiOiAi5pm65aqS5YWx55SfIOiejeWIm+acquadpSB8IOS/oeaBr+S8oOaSreWtpumZouS4vuWKnuKAnOaZuuiDveS8oOaSreWunui3teKAneacrOenkeivvueoi+S9nOWTgei3r+a8lOS8miIsDQogInRydW5jYXRlZCI6IGZhbHNlLA0KICJzZWN0aW9ucyI6IFsNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLmmbrlqpLlhbHnlJ8g6J6N5Yib5pyq5p2lIHwg5L+h5oGv5Lyg5pKt5a2m6Zmi5Li+5Yqe4oCc5pm66IO95Lyg5pKt5a6e6Le14oCd5pys56eR6K++56iL5L2c5ZOB6Lev5ryU5LyaIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxLA0KICAgIDENCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWNhYzhjY2FlMGIiDQogICBdLA0KICAgImNoYXJzIjogMzcNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLpobXpnaLmoYbmnrbvvJrnq5nngrnlr7zoiKrkuI7moI/nm67oj5zljZUiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyLA0KICAgIDMyDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAyNTYNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLmoIfpopjkuI7lj5HluIPkv6Hmga8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzMywNCiAgICAzNA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogNTkNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLot6/mvJTmpoLlhrXkuI7moKHpooblr7zlj4Lop4LmjIflr7wiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzNSwNCiAgICAzOQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtOTU3YjkyOTRkYSIsDQogICAgInB0LTc0ZDY3NTZhZWEiLA0KICAgICJwdC00MzcyNDhkNzdiIg0KICAgXSwNCiAgICJjaGFycyI6IDU3MQ0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuW7luelpeW/oOS5puiusOiusuivnSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNDAsDQogICAgNDINCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTc1ZmY3MjVjNzAiDQogICBdLA0KICAgImNoYXJzIjogMjE5DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5p2O6IiS6Zmi6ZW/6Ie06L6eIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA0MywNCiAgICA0NQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMjliNGE2OTk4OCINCiAgIF0sDQogICAiY2hhcnMiOiAyMTMNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLnjovmmZPojLnlia/pmaLplb/oh7Tovp4iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDQ2LA0KICAgIDUxDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC04ZWZhYzU0NDdmIiwNCiAgICAicHQtYTc1NDY0YjZjZiIsDQogICAgInB0LTU5M2VmMzczYWYiDQogICBdLA0KICAgImNoYXJzIjogNzgwDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5a2m55Sf5Luj6KGo5bGV56S6IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1MiwNCiAgICA1Ng0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMzgyZWRiMmRhYSIsDQogICAgInB0LTNiNGVkYTE1OWYiDQogICBdLA0KICAgImNoYXJzIjogMzA5DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5Y2B5LiJ57uE6Lev5ryU5L2c5ZOB44CB5Zui6Zif5LiO6aKB5aWW5Luq5byPIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNTcsDQogICAgMTAxDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0zYWEyYTZjNGZjIiwNCiAgICAicHQtODE2ZTc0NDliNyIsDQogICAgInB0LWY1YjE3YTIzMGQiLA0KICAgICJwdC05MDNiZjAxYmI0IiwNCiAgICAicHQtYjM1ZWQ1MjQxOSIsDQogICAgInB0LTk5Zjc5YTQ4NTEiLA0KICAgICJwdC00M2EzMjFkODhmIiwNCiAgICAicHQtNTE3NWRmNTg1OCIsDQogICAgInB0LTBmOTczM2Q2NGIiLA0KICAgICJwdC01YmJlMjYyYTFkIiwNCiAgICAicHQtYTQwMTdlMDE2ZSIsDQogICAgInB0LTUzZDg2NWU2MTEiLA0KICAgICJwdC02ZjBhN2M5MzZjIg0KICAgXSwNCiAgICJjaGFycyI6IDIxNTMNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLor77nqIvmgLvnu5PjgIHmjIflr7zogIHluIjkuI7lkIjlvbEiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMDIsDQogICAgMTA4DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0xMDFhMGMxMzhlIiwNCiAgICAicHQtYjY2NWJkMzExMSIsDQogICAgInB0LTJmYmJlOGEzMmYiLA0KICAgICJwdC02NTQyNDA0MjE2Ig0KICAgXSwNCiAgICJjaGFycyI6IDU4MQ0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIumhtemdouahhuaetu+8muWPi+aDhemTvuaOpeS4jueJiOadg+S/oeaBryIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDEwOSwNCiAgICAxMjYNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDQwNQ0KICB9DQogXSwNCiAiaXRlbXMiOiBbDQogICJwdC1jYWM4Y2NhZTBiIiwNCiAgInB0LTk1N2I5Mjk0ZGEiLA0KICAicHQtNzRkNjc1NmFlYSIsDQogICJwdC00MzcyNDhkNzdiIiwNCiAgInB0LTc1ZmY3MjVjNzAiLA0KICAicHQtMjliNGE2OTk4OCIsDQogICJwdC04ZWZhYzU0NDdmIiwNCiAgInB0LWE3NTQ2NGI2Y2YiLA0KICAicHQtNTkzZWYzNzNhZiIsDQogICJwdC0zODJlZGIyZGFhIiwNCiAgInB0LTNiNGVkYTE1OWYiLA0KICAicHQtM2FhMmE2YzRmYyIsDQogICJwdC04MTZlNzQ0OWI3IiwNCiAgInB0LWY1YjE3YTIzMGQiLA0KICAicHQtOTAzYmYwMWJiNCIsDQogICJwdC1iMzVlZDUyNDE5IiwNCiAgInB0LTk5Zjc5YTQ4NTEiLA0KICAicHQtNDNhMzIxZDg4ZiIsDQogICJwdC01MTc1ZGY1ODU4IiwNCiAgInB0LTBmOTczM2Q2NGIiLA0KICAicHQtNWJiZTI2MmExZCIsDQogICJwdC1hNDAxN2UwMTZlIiwNCiAgInB0LTUzZDg2NWU2MTEiLA0KICAicHQtNmYwYTdjOTM2YyIsDQogICJwdC0xMDFhMGMxMzhlIiwNCiAgInB0LWI2NjViZDMxMTEiLA0KICAicHQtMmZiYmU4YTMyZiIsDQogICJwdC02NTQyNDA0MjE2Ig0KIF0sDQogIm5vdGVzIjogWw0KICAi572R6aG156i/77yaMSDooYzmmK/pobXpnaLmoIfpopjvvIwy4oCTMzIg6KGM5piv56uZ54K55a+86Iiq77yI6aaW6aG177yP5YWz5LqO5oiR5Lus77yP5a2m55Sf5Z+55YW777yP5a2m5pyv56CU56m277yP5YWa576k5bel5L2c77yP5Zu96ZmF5ZCI5L2cIOWPiuS6jOe6p+iPnOWNle+8jOWkueS4pOihjCBsb2dv44CB5qCP5Zu+6ZmE5Lu277yJ77yMMzPigJMzNCDooYzmmK/mraPmlofmoIfpopjkuI7jgIzlj5HluIPml7bpl7TvvI/mtY/op4jmrKHmlbDjgI3vvIzlkITmiJDkuIDoioLvvJsxMDnigJMxMjYg6KGM5piv6aG16ISa77yI5Y+L5oOF6ZO+5o6l44CB5Zyw5Z2A6YKu57yW44CB54mI5p2D5LiO5aSH5qGI44CB5Zue5Yiw6aG26YOo44CB6K6/6Zeu6K6h5pWw77yJ77yM5Lmf5peg5Y6f5paH5bCP5qCH6aKY44CCIiwNCiAgIuato+aWh+WbvueJh+S4gOW+i+S7peOAjFvpmYTku7ZdIC9fdXBsb2FkLy4uLuOAjeihjO+8i+S4i+S4gOihjOWbvuazqOeahOW9ouW8j+WHuueOsO+8iDM2LzM344CBMzkvNDDjgIE0Mi80M+OAgTQ1LzQ244CBNDnigJM1MS81MuOAgTU0LzU144CBOTbigJMxMDEvMTAy44CBMTA0LzEwNeOAgTEwNy8xMDjvvInvvIzlm77ms6jkvZzkuLroioLlhoXov4fmuKHooYzvvIzmnKrljZXliJfoioLjgIIiLA0KICAi6IqC55WM5oyJ5byV5paH6Leo5bqm5a6a77yaNDDigJM0Mu+8iOW7luelpeW/oOS5puiusOiusuivne+8i+W8gOW5leW8j+aute+8ieOAgTQz4oCTNDXvvIjmnY7oiJLpmaLplb/oh7Tovp7vvIvnjovmmZPojLnoh7Tovp7mrrXvvInjgIE0NuKAkzUx77yI546L5pmT6Iy55Ymv6Zmi6ZW/6Ie06L6e5Zu+5rOo77yL5LiJ5aSn5p2/5Z2X5bGV56S677yL5Zub5L2N5ZiJ5a6+54K56K+E77yJ4oCU4oCU5LiJ6IqC5LiN6IO95ZCI5bm25Lmf5LiN6IO95YaN5ouG77yM5ZCm5YiZIHB0LTc1ZmY3MjVjNzDvvIg0MOKGkjQx77yJ44CBcHQtMjliNGE2OTk4OO+8iDQz4oaSNDTvvInjgIFwdC04ZWZhYzU0NDdm77yINDbihpI0N++8ieeahOW8leaWh+i3qOiKguiQveS4jeS6huWcsOOAgiIsDQogICIxMyDnu4TkvZzlk4HvvIg1N+KAkzk0IOihjO+8jOavj+e7hOOAjOS9nOWTgeWQje+8j+WboumYn+aIkOWRmOOAjeS4pOihjOOAgeS4remXtOWkueWbvueJh+mZhOS7tuihjO+8ieS4jiA5NSDooYznmoTpooHlpZbmraPmlofjgIE5NuKAkzEwMSDooYznmoTpooHlpZbnhafniYfpmYTku7booYzlkIjmiJDkuIDoioLvvJtwdC02ZjBhN2M5MzZjIOeahOW8leaWh+S7jiA5MyDooYznmoTjgIznroDmtYHjgI3ot6jliLAgOTUg6KGM55qE44CM6Lev5ryU57uT5p2f5ZCO5Li+6KGM5LqG6aKB5aWW5Luq5byP4oCm44CN44CCIiwNCiAgIjEwMiDooYznmoTlm77ms6jjgIzpooHlpZbku6rlvI/jgI3lhbblrp7mmK8gOTbigJMxMDEg6KGM54Wn54mH55qE5Zu+5rOo77yM5LiOIDk1IOihjOeahOmigeWlluato+aWh+WIhuemu++8m+S9hiBwdC0xMDFhMGMxMzhlIOeahOW8leaWh+i1t+eCueWwseiQveWcqOivpeWbvuazqOihjO+8iOOAjOmigeWlluS7quW8j+WcqOa0u+WKqOeahOWwvuWjsOKApuOAje+8ie+8jOaVheOAjOivvueoi+aAu+e7k+OAjeiKguS7jiAxMDIg6KGM6LW344CBaGVhZGluZyDnlKjmpoLmi6zvvIzmjInoioLpppbliKTmja7nmoTkvovlpJblnKjmraTms6jmmI7jgIIiLA0KICAi5Y6f5paH5peg56ug5p2h57yW5Y+377yM5YWo6YOo6IqCIG5vIOeUqOOAjOKAlOOAje+8iOe8luWPt+mHjeWkjeWxnumihOacn++8ieOAgiINCiBdDQp9
+{
+ "key": "20260621-c2064a271930",
+ "title": "智媒共生 融创未来 | 信息传播学院举办“智能传播实践”本科课程作品路演会",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "智媒共生 融创未来 | 信息传播学院举办“智能传播实践”本科课程作品路演会",
+   "heading_kind": "author",
+   "lines": [
+    1,
+    1
+   ],
+   "items": [
+    "pt-cac8ccae0b"
+   ],
+   "chars": 37
+  },
+  {
+   "no": "—",
+   "heading": "页面框架：站点导航与栏目菜单",
+   "heading_kind": "derived",
+   "lines": [
+    2,
+    32
+   ],
+   "items": [],
+   "chars": 256
+  },
+  {
+   "no": "—",
+   "heading": "标题与发布信息",
+   "heading_kind": "derived",
+   "lines": [
+    33,
+    34
+   ],
+   "items": [],
+   "chars": 59
+  },
+  {
+   "no": "—",
+   "heading": "路演概况与校领导参观指导",
+   "heading_kind": "derived",
+   "lines": [
+    35,
+    39
+   ],
+   "items": [
+    "pt-957b9294da",
+    "pt-74d6756aea",
+    "pt-437248d77b"
+   ],
+   "chars": 571
+  },
+  {
+   "no": "—",
+   "heading": "廖祥忠书记讲话",
+   "heading_kind": "author",
+   "lines": [
+    40,
+    42
+   ],
+   "items": [
+    "pt-75ff725c70"
+   ],
+   "chars": 219
+  },
+  {
+   "no": "—",
+   "heading": "李舒院长致辞",
+   "heading_kind": "author",
+   "lines": [
+    43,
+    45
+   ],
+   "items": [
+    "pt-29b4a69988"
+   ],
+   "chars": 213
+  },
+  {
+   "no": "—",
+   "heading": "王晓茹副院长致辞",
+   "heading_kind": "author",
+   "lines": [
+    46,
+    51
+   ],
+   "items": [
+    "pt-8efac5447f",
+    "pt-a75464b6cf",
+    "pt-593ef373af"
+   ],
+   "chars": 780
+  },
+  {
+   "no": "—",
+   "heading": "学生代表展示",
+   "heading_kind": "author",
+   "lines": [
+    52,
+    56
+   ],
+   "items": [
+    "pt-382edb2daa",
+    "pt-3b4eda159f"
+   ],
+   "chars": 309
+  },
+  {
+   "no": "—",
+   "heading": "十三组路演作品、团队与颁奖仪式",
+   "heading_kind": "derived",
+   "lines": [
+    57,
+    101
+   ],
+   "items": [
+    "pt-3aa2a6c4fc",
+    "pt-816e7449b7",
+    "pt-f5b17a230d",
+    "pt-903bf01bb4",
+    "pt-b35ed52419",
+    "pt-99f79a4851",
+    "pt-43a321d88f",
+    "pt-5175df5858",
+    "pt-0f9733d64b",
+    "pt-5bbe262a1d",
+    "pt-a4017e016e",
+    "pt-53d865e611",
+    "pt-6f0a7c936c"
+   ],
+   "chars": 2153
+  },
+  {
+   "no": "—",
+   "heading": "课程总结、指导老师与合影",
+   "heading_kind": "derived",
+   "lines": [
+    102,
+    108
+   ],
+   "items": [
+    "pt-101a0c138e",
+    "pt-b665bd3111",
+    "pt-2fbbe8a32f",
+    "pt-6542404216"
+   ],
+   "chars": 581
+  },
+  {
+   "no": "—",
+   "heading": "页面框架：友情链接与版权信息",
+   "heading_kind": "derived",
+   "lines": [
+    109,
+    126
+   ],
+   "items": [],
+   "chars": 405
+  }
+ ],
+ "items": [
+  "pt-cac8ccae0b",
+  "pt-957b9294da",
+  "pt-74d6756aea",
+  "pt-437248d77b",
+  "pt-75ff725c70",
+  "pt-29b4a69988",
+  "pt-8efac5447f",
+  "pt-a75464b6cf",
+  "pt-593ef373af",
+  "pt-382edb2daa",
+  "pt-3b4eda159f",
+  "pt-3aa2a6c4fc",
+  "pt-816e7449b7",
+  "pt-f5b17a230d",
+  "pt-903bf01bb4",
+  "pt-b35ed52419",
+  "pt-99f79a4851",
+  "pt-43a321d88f",
+  "pt-5175df5858",
+  "pt-0f9733d64b",
+  "pt-5bbe262a1d",
+  "pt-a4017e016e",
+  "pt-53d865e611",
+  "pt-6f0a7c936c",
+  "pt-101a0c138e",
+  "pt-b665bd3111",
+  "pt-2fbbe8a32f",
+  "pt-6542404216"
+ ],
+ "notes": [
+  "网页稿：1 行是页面标题，2–32 行是站点导航（首页／关于我们／学生培养／学术研究／党群工作／国际合作 及二级菜单，夹两行 logo、栏图附件），33–34 行是正文标题与「发布时间／浏览次数」，各成一节；109–126 行是页脚（友情链接、地址邮编、版权与备案、回到顶部、访问计数），也无原文小标题。",
+  "正文图片一律以「[附件] /_upload/...」行＋下一行图注的形式出现（36/37、39/40、42/43、45/46、49–51/52、54/55、96–101/102、104/105、107/108），图注作为节内过渡行，未单列节。",
+  "节界按引文跨度定：40–42（廖祥忠书记讲话＋开幕式段）、43–45（李舒院长致辞＋王晓茹致辞段）、46–51（王晓茹副院长致辞图注＋三大板块展示＋四位嘉宾点评）——三节不能合并也不能再拆，否则 pt-75ff725c70（40→41）、pt-29b4a69988（43→44）、pt-8efac5447f（46→47）的引文跨节落不了地。",
+  "13 组作品（57–94 行，每组「作品名／团队成员」两行、中间夹图片附件行）与 95 行的颁奖正文、96–101 行的颁奖照片附件行合成一节；pt-6f0a7c936c 的引文从 93 行的「简流」跨到 95 行的「路演结束后举行了颁奖仪式…」。",
+  "102 行的图注「颁奖仪式」其实是 96–101 行照片的图注，与 95 行的颁奖正文分离；但 pt-101a0c138e 的引文起点就落在该图注行（「颁奖仪式在活动的尾声…」），故「课程总结」节从 102 行起、heading 用概括，按节首判据的例外在此注明。",
+  "原文无章条编号，全部节 no 用「—」（编号重复属预期）。"
+ ]
+}

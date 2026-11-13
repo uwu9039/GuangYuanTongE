@@ -1,1 +1,235 @@
-ewogImtleSI6ICLluqfkvY3pooTnuqYtNzJkYjEzYmYxYWM5MTMxMWVmMTgzYjgxOWI4Njc5ZmMxNjY0IiwKICJ0aXRsZSI6ICLkuK3lm73kvKDlqpLlpKflrablm77kuabppobCt+W6p+S9jemihOe6piIsCiAidHJ1bmNhdGVkIjogZmFsc2UsCiAic2VjdGlvbnMiOiBbCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi6aG16Z2i5qCH6aKY44CB5p2l5rqQ44CB5o6l5Y+j5LiO5Y+R5biD5pe26Ze0IiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWwogICAgMSwKICAgIDQKICAgXSwKICAgIml0ZW1zIjogWwogICAgInB0LWQwZmNlYmUwMDgiLAogICAgInB0LTVhNjI5ZDkwY2UiCiAgIF0sCiAgICJjaGFycyI6IDE4MAogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi5Zu+5Lmm6aaG5bqn5L2N6aKE57qm57O757uf5L2/55So5oyH5Y2XIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbCiAgICA2LAogICAgOTgKICAgXSwKICAgIml0ZW1zIjogWwogICAgInB0LWFiNzc1MTgyYTMiCiAgIF0sCiAgICJjaGFycyI6IDU2NzUKICB9LAogIHsKICAgIm5vIjogIuS4gOOAgSIsCiAgICJoZWFkaW5nIjogIuinhOWImeivtOaYjuWPiuazqOaEj+S6i+mhuSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWwogICAgNywKICAgIDEyCiAgIF0sCiAgICJpdGVtcyI6IFsKICAgICJwdC0yYzMzYmMzMGEwIiwKICAgICJwdC02MWEzOWIyYjc5IiwKICAgICJwdC00NjlkM2NhOWRkIiwKICAgICJwdC0xZGJiNzFhZDlhIgogICBdLAogICAiY2hhcnMiOiAyOTYKICB9LAogIHsKICAgIm5vIjogIuS6jOOAgSIsCiAgICJoZWFkaW5nIjogIuW6p+S9jeS9v+eUqOa1geeoiyIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWwogICAgMTMsCiAgICAxNAogICBdLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogMTIxCiAgfSwKICB7CiAgICJubyI6ICLkuInjgIEiLAogICAiaGVhZGluZyI6ICLlm77kuabppoblhazkvJflj7fpooTnuqYiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsKICAgIDE1LAogICAgNDcKICAgXSwKICAgIml0ZW1zIjogWwogICAgInB0LTNmNTZjYTRmNDQiLAogICAgInB0LTRjMjNhNmIzMTciLAogICAgInB0LWUyYmIyNDg5YTMiCiAgIF0sCiAgICJjaGFycyI6IDIyNTMKICB9LAogIHsKICAgIm5vIjogIuWbm+OAgSIsCiAgICJoZWFkaW5nIjogIuS9v+eUqOinpuWxj+acuui/m+ihjOmihOe6piIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWwogICAgNDgsCiAgICA5MgogICBdLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogMjcyNAogIH0sCiAgewogICAibm8iOiAi5Zub44CBMS4iLAogICAiaGVhZGluZyI6ICLop6blsY/mnLror7TmmI4iLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsKICAgIDQ5LAogICAgNTkKICAgXSwKICAgIml0ZW1zIjogWwogICAgInB0LWVmOGI2MDQyZTUiLAogICAgInB0LTkzMjE5ZDM3ZjUiLAogICAgInB0LWU3ZDI5OWEwZGMiCiAgIF0sCiAgICJjaGFycyI6IDcxOAogIH0sCiAgewogICAibm8iOiAi5Zub44CBMi4iLAogICAiaGVhZGluZyI6ICLoh6rpgInluqfkvY0iLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsKICAgIDYwLAogICAgNjkKICAgXSwKICAgIml0ZW1zIjogWwogICAgInB0LWEyNjdlODk5YzciLAogICAgInB0LThlZjVlMmViZGQiCiAgIF0sCiAgICJjaGFycyI6IDU3NwogIH0sCiAgewogICAibm8iOiAi5Zub44CBMy4iLAogICAiaGVhZGluZyI6ICLpmo/mnLrmtL7luqciLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsKICAgIDcwLAogICAgNzQKICAgXSwKICAgIml0ZW1zIjogWwogICAgInB0LWU1MDQ2MjIwOGQiCiAgIF0sCiAgICJjaGFycyI6IDMzNQogIH0sCiAgewogICAibm8iOiAi5Zub44CBNC4iLAogICAiaGVhZGluZyI6ICLmmoLnprvkuI7ov5Tlm54iLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsKICAgIDc1LAogICAgODAKICAgXSwKICAgIml0ZW1zIjogWwogICAgInB0LWViMTcxODMzNzIiLAogICAgInB0LWRiYzYyMzY1YzgiCiAgIF0sCiAgICJjaGFycyI6IDM1NQogIH0sCiAgewogICAibm8iOiAi5Zub44CBNS4iLAogICAiaGVhZGluZyI6ICLnu63luqciLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsKICAgIDgxLAogICAgODYKICAgXSwKICAgIml0ZW1zIjogWwogICAgInB0LWE5NGJhMmRiZjgiLAogICAgInB0LTkyNmE0NDAxMzAiCiAgIF0sCiAgICJjaGFycyI6IDM0NwogIH0sCiAgewogICAibm8iOiAi5Zub44CBNi4iLAogICAiaGVhZGluZyI6ICLnu5PmnZ/kvb/nlKgiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsKICAgIDg3LAogICAgOTAKICAgXSwKICAgIml0ZW1zIjogW10sCiAgICJjaGFycyI6IDI4NwogIH0sCiAgewogICAibm8iOiAi5Zub44CBNy4iLAogICAiaGVhZGluZyI6ICLliLfljaHnrb7liLAiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsKICAgIDkxLAogICAgOTIKICAgXSwKICAgIml0ZW1zIjogWwogICAgInB0LTFmODg1NjU5MDkiCiAgIF0sCiAgICJjaGFycyI6IDk0CiAgfSwKICB7CiAgICJubyI6ICLkupTjgIEiLAogICAiaGVhZGluZyI6ICLpgJrov4fnvZHpobXpooTnuqYiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsKICAgIDkzLAogICAgOTQKICAgXSwKICAgIml0ZW1zIjogWwogICAgInB0LTE0YTQwZDU1YWIiCiAgIF0sCiAgICJjaGFycyI6IDYxCiAgfSwKICB7CiAgICJubyI6ICLlha3jgIEiLAogICAiaGVhZGluZyI6ICLpgJrov4flvq7kv6HmjqXmlLbluqfkvY3pooTnuqbnmoTmj5DnpLrkv6Hmga8iLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsKICAgIDk1LAogICAgOTgKICAgXSwKICAgIml0ZW1zIjogW10sCiAgICJjaGFycyI6IDIwNwogIH0KIF0sCiAiaXRlbXMiOiBbCiAgInB0LWQwZmNlYmUwMDgiLAogICJwdC01YTYyOWQ5MGNlIiwKICAicHQtYWI3NzUxODJhMyIsCiAgInB0LTJjMzNiYzMwYTAiLAogICJwdC02MWEzOWIyYjc5IiwKICAicHQtNDY5ZDNjYTlkZCIsCiAgInB0LTFkYmI3MWFkOWEiLAogICJwdC0zZjU2Y2E0ZjQ0IiwKICAicHQtNGMyM2E2YjMxNyIsCiAgInB0LWUyYmIyNDg5YTMiLAogICJwdC1lZjhiNjA0MmU1IiwKICAicHQtOTMyMTlkMzdmNSIsCiAgInB0LWU3ZDI5OWEwZGMiLAogICJwdC1hMjY3ZTg5OWM3IiwKICAicHQtOGVmNWUyZWJkZCIsCiAgInB0LWU1MDQ2MjIwOGQiLAogICJwdC1lYjE3MTgzMzcyIiwKICAicHQtZGJjNjIzNjVjOCIsCiAgInB0LWE5NGJhMmRiZjgiLAogICJwdC05MjZhNDQwMTMwIiwKICAicHQtMWY4ODU2NTkwOSIsCiAgInB0LTE0YTQwZDU1YWIiCiBdLAogIm5vdGVzIjogWwogICLnrKwgMeKAlDQg6KGM5Li6572R6aG16aG15aS077yI5qCH6aKY44CB5p2l5rqQ44CB5pWw5o2u5o6l5Y+j44CB5Y+R5biD5pe26Ze077yJ77yM5Y2V5YiX5Li66aG16Z2i5qGG5p626IqC77yb56ysIDUg6KGM5LiO56ysIDk5IOihjOS4uuepuuihjOOAgiIsCiAgIuesrCA2IOihjOS4uuS9v+eUqOaMh+WNl+agh+mimOihjO+8jOS9nOS4uueItuiKgu+8iDbigJQ5OO+8ieWMheS9j+S4gOOAgeiHs+WFreOAgeWQhOiKgu+8m+ivpeeItuiKguWPquaJv+aOpei3qOOAjOagh+mimOihjCvnrKzkuIDmnaHjgI3nmoTmnaHnm64gcHQtYWI3NzUxODJhM+OAgiIsCiAgIuWbm+OAgeS9v+eUqOinpuWxj+acuui/m+ihjOmihOe6pu+8iDQ44oCUOTLvvInkuIvlho3liIYgMS7igJQ3LiDkuIPkuKrlrZDoioLvvIzniLboioLkuI7lrZDoioLkuLrnnJ/ltYzlpZfjgIIiLAogICLnrKwgMTTjgIExOOOAgTIx4oCUMjPjgIEyNuOAgTMw4oCUMzHjgIEzNOKAlDM144CBMzfigJQzOOOAgTQy4oCUNDTjgIE0N+OAgTUw4oCUNTHjgIE1M+KAlDU144CBNjTjgIE2NuKAlDY344CBNjnjgIE3M+KAlDc044CBNzjjgIE4MOOAgTg044CBODbjgIE4OeKAlDkw44CBOTcg6KGM5Li644CMW+Wbvl0gL2VkaXRvci8uLi7jgI3lm77niYfljaDkvY3ooYzvvIjlm77ms6jvvInvvIzpmo/miYDlnKjoioLljLrpl7Topobnm5bjgIIiCiBdCn0K
+{
+ "key": "座位预约-72db13bf1ac91311ef183b819b8679fc1664",
+ "title": "中国传媒大学图书馆·座位预约",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "页面标题、来源、接口与发布时间",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    4
+   ],
+   "items": [
+    "pt-d0fcebe008",
+    "pt-5a629d90ce"
+   ],
+   "chars": 180
+  },
+  {
+   "no": "—",
+   "heading": "图书馆座位预约系统使用指南",
+   "heading_kind": "author",
+   "lines": [
+    6,
+    98
+   ],
+   "items": [
+    "pt-ab775182a3"
+   ],
+   "chars": 5675
+  },
+  {
+   "no": "一、",
+   "heading": "规则说明及注意事项",
+   "heading_kind": "author",
+   "lines": [
+    7,
+    12
+   ],
+   "items": [
+    "pt-2c33bc30a0",
+    "pt-61a39b2b79",
+    "pt-469d3ca9dd",
+    "pt-1dbb71ad9a"
+   ],
+   "chars": 296
+  },
+  {
+   "no": "二、",
+   "heading": "座位使用流程",
+   "heading_kind": "author",
+   "lines": [
+    13,
+    14
+   ],
+   "items": [],
+   "chars": 121
+  },
+  {
+   "no": "三、",
+   "heading": "图书馆公众号预约",
+   "heading_kind": "author",
+   "lines": [
+    15,
+    47
+   ],
+   "items": [
+    "pt-3f56ca4f44",
+    "pt-4c23a6b317",
+    "pt-e2bb2489a3"
+   ],
+   "chars": 2253
+  },
+  {
+   "no": "四、",
+   "heading": "使用触屏机进行预约",
+   "heading_kind": "author",
+   "lines": [
+    48,
+    92
+   ],
+   "items": [],
+   "chars": 2724
+  },
+  {
+   "no": "四、1.",
+   "heading": "触屏机说明",
+   "heading_kind": "author",
+   "lines": [
+    49,
+    59
+   ],
+   "items": [
+    "pt-ef8b6042e5",
+    "pt-93219d37f5",
+    "pt-e7d299a0dc"
+   ],
+   "chars": 718
+  },
+  {
+   "no": "四、2.",
+   "heading": "自选座位",
+   "heading_kind": "author",
+   "lines": [
+    60,
+    69
+   ],
+   "items": [
+    "pt-a267e899c7",
+    "pt-8ef5e2ebdd"
+   ],
+   "chars": 577
+  },
+  {
+   "no": "四、3.",
+   "heading": "随机派座",
+   "heading_kind": "author",
+   "lines": [
+    70,
+    74
+   ],
+   "items": [
+    "pt-e50462208d"
+   ],
+   "chars": 335
+  },
+  {
+   "no": "四、4.",
+   "heading": "暂离与返回",
+   "heading_kind": "author",
+   "lines": [
+    75,
+    80
+   ],
+   "items": [
+    "pt-eb17183372",
+    "pt-dbc62365c8"
+   ],
+   "chars": 355
+  },
+  {
+   "no": "四、5.",
+   "heading": "续座",
+   "heading_kind": "author",
+   "lines": [
+    81,
+    86
+   ],
+   "items": [
+    "pt-a94ba2dbf8",
+    "pt-926a440130"
+   ],
+   "chars": 347
+  },
+  {
+   "no": "四、6.",
+   "heading": "结束使用",
+   "heading_kind": "author",
+   "lines": [
+    87,
+    90
+   ],
+   "items": [],
+   "chars": 287
+  },
+  {
+   "no": "四、7.",
+   "heading": "刷卡签到",
+   "heading_kind": "author",
+   "lines": [
+    91,
+    92
+   ],
+   "items": [
+    "pt-1f88565909"
+   ],
+   "chars": 94
+  },
+  {
+   "no": "五、",
+   "heading": "通过网页预约",
+   "heading_kind": "author",
+   "lines": [
+    93,
+    94
+   ],
+   "items": [
+    "pt-14a40d55ab"
+   ],
+   "chars": 61
+  },
+  {
+   "no": "六、",
+   "heading": "通过微信接收座位预约的提示信息",
+   "heading_kind": "author",
+   "lines": [
+    95,
+    98
+   ],
+   "items": [],
+   "chars": 207
+  }
+ ],
+ "items": [
+  "pt-d0fcebe008",
+  "pt-5a629d90ce",
+  "pt-ab775182a3",
+  "pt-2c33bc30a0",
+  "pt-61a39b2b79",
+  "pt-469d3ca9dd",
+  "pt-1dbb71ad9a",
+  "pt-3f56ca4f44",
+  "pt-4c23a6b317",
+  "pt-e2bb2489a3",
+  "pt-ef8b6042e5",
+  "pt-93219d37f5",
+  "pt-e7d299a0dc",
+  "pt-a267e899c7",
+  "pt-8ef5e2ebdd",
+  "pt-e50462208d",
+  "pt-eb17183372",
+  "pt-dbc62365c8",
+  "pt-a94ba2dbf8",
+  "pt-926a440130",
+  "pt-1f88565909",
+  "pt-14a40d55ab"
+ ],
+ "notes": [
+  "第 1—4 行为网页页头（标题、来源、数据接口、发布时间），单列为页面框架节；第 5 行与第 99 行为空行。",
+  "第 6 行为使用指南标题行，作为父节（6—98）包住一、至六、各节；该父节只承接跨「标题行+第一条」的条目 pt-ab775182a3。",
+  "四、使用触屏机进行预约（48—92）下再分 1.—7. 七个子节，父节与子节为真嵌套。",
+  "第 14、18、21—23、26、30—31、34—35、37—38、42—44、47、50—51、53—55、64、66—67、69、73—74、78、80、84、86、89—90、97 行为「[图] /editor/...」图片占位行（图注），随所在节区间覆盖。"
+ ]
+}

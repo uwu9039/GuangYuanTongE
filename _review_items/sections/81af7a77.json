@@ -1,1 +1,112 @@
-ewogICJrZXkiOiAiODFhZjdhNzciLAogICJ0aXRsZSI6ICLkuK3kvKDotKLlrZfjgJQyMDE544CVMTc2IOWPtyDkuK3lm73kvKDlqpLlpKflrablhazliqHljaHnrqHnkIblip7ms5XvvIjkv67orqLvvIkiLAogICJ0cnVuY2F0ZWQiOiBmYWxzZSwKICAic2VjdGlvbnMiOiBbCiAgICB7CiAgICAgICJubyI6ICLpgJrnn6UiLAogICAgICAiaGVhZGluZyI6ICLljbDlj5HpgJrnn6UiLAogICAgICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAgICAibGluZXMiOiBbMSwgMTJdLAogICAgICAiaXRlbXMiOiBbInB0LTk1YzliNjM0NTAiLCAicHQtYTU1MDkzYWVkZSIsICJwdC0zN2EzMTI0ZGQzIl0sCiAgICAgICJjaGFycyI6IDEzOQogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuagh+mimCIsCiAgICAgICJoZWFkaW5nIjogIuWKnuazleWQjeensOS4juWItuWumuS+neaNriIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICAgICJsaW5lcyI6IFsxMywgMjRdLAogICAgICAiaXRlbXMiOiBbInJ1bGUtODFhZjdhNzciXSwKICAgICAgImNoYXJzIjogMzA1CiAgICB9LAogICAgewogICAgICAibm8iOiAi56ys5LiA5p2hIiwKICAgICAgImhlYWRpbmciOiAi5YWs5Yqh5Y2h55qE5oCn6LSo5ZKM5Yqe55CG6IyD5Zu0IiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbMjUsIDMzXSwKICAgICAgIml0ZW1zIjogWyJwdC0zNjlhMzJhMTA4Il0sCiAgICAgICJjaGFycyI6IDE5MQogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuesrOS6jOadoSIsCiAgICAgICJoZWFkaW5nIjogIuWFrOWKoeWNoeeahOaXpeW4uOeuoeeQhiIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzM0LCA2MV0sCiAgICAgICJpdGVtcyI6IFsicHQtYWQ5ODhjN2MyMSIsICJwdC02OTgxMTY0ZjI0IiwgInB0LWYzM2JlMTMyZjEiLCAicHQtNWUxZDQzOTY4OSIsICJwdC0xYzk2ZmViYTU3IiwgInB0LTFjNzU5MDMzYzAiLCAicHQtZWZkODEwZjhlOSJdLAogICAgICAiY2hhcnMiOiA2MDIKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLnrKzkuInmnaEiLAogICAgICAiaGVhZGluZyI6ICLlhazliqHljaHnmoTkvb/nlKjojIPlm7QiLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFs2MiwgNjhdLAogICAgICAiaXRlbXMiOiBbXSwKICAgICAgImNoYXJzIjogMTY3CiAgICB9LAogICAgewogICAgICAibm8iOiAi56ys5Zub5p2hIiwKICAgICAgImhlYWRpbmciOiAi5YWs5Yqh5Y2h55qE5oql6ZSA5Y6f5YiZIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbNjksIDg5XSwKICAgICAgIml0ZW1zIjogWyJwdC0wOWZlNjAyOWViIiwgInB0LTA3MGQzNDVhNGEiLCAicHQtZjY2NTcxMDEzNCIsICJwdC00OTg5M2Y2ZDAyIiwgInB0LWVhMzM2NGI1OTIiLCAicHQtYjVjZTgxOWJlNSIsICJwdC0yNzk5ODMxMDI1IiwgInB0LWZmNjNkMzViNzUiLCAicHQtZmU1ZTUxYWZjMSIsICJwdC02MTM1Zjg3MTJhIl0sCiAgICAgICJjaGFycyI6IDM5MgogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuesrOS6lOadoSIsCiAgICAgICJoZWFkaW5nIjogIuWFrOWKoeWNoee7k+eul+WSjOaKpemUgOeoi+W6jyIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzkwLCA5NV0sCiAgICAgICJpdGVtcyI6IFtdLAogICAgICAiY2hhcnMiOiAxMDgKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLnrKzlha3mnaEiLAogICAgICAiaGVhZGluZyI6ICLkuIvliJfmg4XlhrXlj6/mmoLkuI3kvb/nlKjlhazliqHljaHnu5PnrpciLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFs5NiwgMTEzXSwKICAgICAgIml0ZW1zIjogWyJwdC03NzM4OWFkMWExIiwgInB0LTQ4N2MxMjBiMTIiLCAicHQtNWVkNmYwNDg1MiIsICJwdC1kZmEzMDhhNDIyIiwgInB0LWM1MWU0YTU1NjIiLCAicHQtMDlmZDlkOWNmNyIsICJwdC04YmZkMzBjOGM3IiwgInB0LWE1OGQwYTI3MDEiXSwKICAgICAgImNoYXJzIjogMzc2CiAgICB9LAogICAgewogICAgICAibm8iOiAi56ys5LiD5p2hIiwKICAgICAgImhlYWRpbmciOiAi6Kej6YeK6YOo6ZeoIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgICAgImxpbmVzIjogWzExNCwgMTE0XSwKICAgICAgIml0ZW1zIjogWyJwdC04YTU2ODlmZTU1Il0sCiAgICAgICJjaGFycyI6IDE2CiAgICB9LAogICAgewogICAgICAibm8iOiAi56ys5YWr5p2hIiwKICAgICAgImhlYWRpbmciOiAi5pa96KGM5pel5pyf5LiO5bqf5q2i5pen5Yqe5rOVIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgICAgImxpbmVzIjogWzExNSwgMTE2XSwKICAgICAgIml0ZW1zIjogW10sCiAgICAgICJjaGFycyI6IDU4CiAgICB9LAogICAgewogICAgICAibm8iOiAi6ZmE5Lu2IiwKICAgICAgImhlYWRpbmciOiAi6ZmE5Lu25riF5Y2VIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgICAgImxpbmVzIjogWzExNywgMTE5XSwKICAgICAgIml0ZW1zIjogW10sCiAgICAgICJjaGFycyI6IDM3CiAgICB9LAogICAgewogICAgICAibm8iOiAi54mI6K6wIiwKICAgICAgImhlYWRpbmciOiAi5Y2w5Y+R54mI6K6wIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgICAgImxpbmVzIjogWzEyMCwgMTIwXSwKICAgICAgIml0ZW1zIjogW10sCiAgICAgICJjaGFycyI6IDM0CiAgICB9CiAgXSwKICAiaXRlbXMiOiBbInJ1bGUtODFhZjdhNzciLCAicHQtOTVjOWI2MzQ1MCIsICJwdC1hNTUwOTNhZWRlIiwgInB0LTM3YTMxMjRkZDMiLCAicHQtMzY5YTMyYTEwOCIsICJwdC1hZDk4OGM3YzIxIiwgInB0LTY5ODExNjRmMjQiLCAicHQtZjMzYmUxMzJmMSIsICJwdC01ZTFkNDM5Njg5IiwgInB0LTFjOTZmZWJhNTciLCAicHQtMWM3NTkwMzNjMCIsICJwdC1lZmQ4MTBmOGU5IiwgInB0LTA5ZmU2MDI5ZWIiLCAicHQtMDcwZDM0NWE0YSIsICJwdC1mNjY1NzEwMTM0IiwgInB0LTQ5ODkzZjZkMDIiLCAicHQtZWEzMzY0YjU5MiIsICJwdC1iNWNlODE5YmU1IiwgInB0LTI3OTk4MzEwMjUiLCAicHQtZmY2M2QzNWI3NSIsICJwdC1mZTVlNTFhZmMxIiwgInB0LTYxMzVmODcxMmEiLCAicHQtNzczODlhZDFhMSIsICJwdC00ODdjMTIwYjEyIiwgInB0LTVlZDZmMDQ4NTIiLCAicHQtZGZhMzA4YTQyMiIsICJwdC1jNTFlNGE1NTYyIiwgInB0LTA5ZmQ5ZDljZjciLCAicHQtOGJmZDMwYzhjNyIsICJwdC1hNThkMGEyNzAxIiwgInB0LThhNTY4OWZlNTUiXSwKICAibm90ZXMiOiBbCiAgICAi56ysIDEg6KGM44CMLSAxIC3jgI3liLDnrKwgMTIg6KGM5piv5Y2w5Y+R6YCa55+l77yI5paH5Y+344CB5LiJ6KGM5qCH6aKY44CM5YWzIOS6jiDljbAg5Y+RIC8g44CK4oCm44CL55qEIC8g6YCaIOefpeOAjeOAgeS4u+mAgeOAgeato+aWh+OAgeeJueatpOmAmuefpeOAgeiQveasvu+8ie+8jOWQiOW5tuS4gOiKgu+8m+esrCAxMyDooYzjgIwtIDIgLeOAjeS4juesrCAxNCDooYzlip7ms5XlkI3np7DjgIHnrKwgMTXigJMyNCDooYzliLblrprkvp3mja7vvIjlkKsgNCDkuKrkvp3mja7mloflj7fvvInlkIjlubbkuLrjgIzlip7ms5XlkI3np7DkuI7liLblrprkvp3mja7jgI3kuIDoioLjgIIiLAogICAgIumhteeggeihjOW5tuWFpeebuOmCu+iKgu+8muesrCAxIOihjOOAjC0gMSAt44CN5bm25YWl44CM5Y2w5Y+R6YCa55+l44CN77yM56ysIDEzIOihjOOAjC0gMiAt44CN5bm25YWl44CM5Yqe5rOV5ZCN56ew5LiO5Yi25a6a5L6d5o2u44CN77yM56ysIDM2IOihjOOAjC0gMyAt44CN5LiO56ysIDU5IOihjOOAjC0gNCAt44CN5bm25YWl44CM56ys5LqM5p2h44CN77yM56ysIDgyIOihjOOAjC0gNSAt44CN5bm25YWl44CM56ys5Zub5p2h44CN77yM56ysIDEwNSDooYzjgIwtIDYgLeOAjeW5tuWFpeOAjOesrOWFreadoeOAjeOAgiIsCiAgICAi56ys5LiA5p2h6Iez56ys5YWt5p2h5Y6f5paH6Ieq5bim5bCP5qCH6aKY77yI5YWs5Yqh5Y2h55qE5oCn6LSo5ZKM5Yqe55CG6IyD5Zu0IC8g5YWs5Yqh5Y2h55qE5pel5bi4566h55CGIC8g5YWs5Yqh5Y2h55qE5L2/55So6IyD5Zu0IC8g5YWs5Yqh5Y2h55qE5oql6ZSA5Y6f5YiZIC8g5YWs5Yqh5Y2h57uT566X5ZKM5oql6ZSA56iL5bqPIC8g5LiL5YiX5oOF5Ya15Y+v5pqC5LiN5L2/55So5YWs5Yqh5Y2h57uT566X77yJ77yM5qCHIGF1dGhvcu+8m+esrOS4g+adoeWPquacieS4gOWPpeOAjOacrOWKnuazleeUsei0ouWKoeWkhOi0n+i0o+ino+mHiuOAjeOAgeesrOWFq+adoeWPquacieaWveihjOS4juW6n+atouWPpe+8jOiKguWQjeS4uuamguaLrO+8iGRlcml2ZWTvvInjgIIiLAogICAgInJ1bGUtODFhZjdhNzcg5piv5paH5qGj57qn5p2h55uu44CB5peg5byV5paH77yM5oyJ5Y+j5b6E5pS+6L+b5qaC6L+w5oCn55qE44CM5Yqe5rOV5ZCN56ew5LiO5Yi25a6a5L6d5o2u44CN5LiA6IqC77yM5bm25ZCM5pe25YiX6L+b5paH5qGj57qnIGl0ZW1z44CCIiwKICAgICJwdC04YTU2ODlmZTU1IOeahOagh+mimOmHjOW4puOAjO+8iOS4g++8ieespuWQiOOAiuS4reWbveS8oOWqkuWkp+WtpuenkeeglOe7j+i0ueaKpemUgOWunuaWvee7huWImeOAi+inhOOAjeWJjee8gO+8jOS9hiBxdW90ZSDmmK/jgIznrKzkuIPmnaEg5pys5Yqe5rOV55Sx6LSi5Yqh5aSE6LSf6LSj6Kej6YeK44CC44CN77yI56ysIDExNCDooYzvvInvvIzmjIkgcXVvdGUg6JC95Zyo44CM56ys5LiD5p2h44CN6IqC77ybcHQtMWM3NTkwMzNjMO+8iOesrCA1NyDooYzvvInkuI4gcHQtZWZkODEwZjhlOe+8iOesrCA2MCDooYzvvInmmK/nrKzkuozmnaHvvIjlha3vvInooqvpobXnoIHooYzjgIwtIDQgLeOAjeaIquaWreeahOS4pOWNiu+8jOmDveeVmeWcqOesrOS6jOadoeiKguOAgiIsCiAgICAi56ys5LiJ5p2h44CB56ys5LqU5p2h5Zyo5ZCE6IqC5YaF5rKh5pyJ5a+55LiK5Lu75L2V5p2h55uu5byV5paH77yI5p2h55uu5Y+q6KaG55uW5Yiw5p2h5LiL55qE6YOo5YiG5YiG6aG577yJ77yM6L+Z5Lik6IqCIGl0ZW1zIOS4uuepuuaYr+WOn+aWh+S4juadoeebruWIhuW4g+aJgOiHtO+8jOS4jeaYr+a8j+WIl+OAgiIKICBdCn0K
+{
+  "key": "81af7a77",
+  "title": "中传财字〔2019〕176 号 中国传媒大学公务卡管理办法（修订）",
+  "truncated": false,
+  "sections": [
+    {
+      "no": "通知",
+      "heading": "印发通知",
+      "heading_kind": "derived",
+      "lines": [1, 12],
+      "items": ["pt-95c9b63450", "pt-a55093aede", "pt-37a3124dd3"],
+      "chars": 139
+    },
+    {
+      "no": "标题",
+      "heading": "办法名称与制定依据",
+      "heading_kind": "derived",
+      "lines": [13, 24],
+      "items": ["rule-81af7a77"],
+      "chars": 305
+    },
+    {
+      "no": "第一条",
+      "heading": "公务卡的性质和办理范围",
+      "heading_kind": "author",
+      "lines": [25, 33],
+      "items": ["pt-369a32a108"],
+      "chars": 191
+    },
+    {
+      "no": "第二条",
+      "heading": "公务卡的日常管理",
+      "heading_kind": "author",
+      "lines": [34, 61],
+      "items": ["pt-ad988c7c21", "pt-6981164f24", "pt-f33be132f1", "pt-5e1d439689", "pt-1c96feba57", "pt-1c759033c0", "pt-efd810f8e9"],
+      "chars": 602
+    },
+    {
+      "no": "第三条",
+      "heading": "公务卡的使用范围",
+      "heading_kind": "author",
+      "lines": [62, 68],
+      "items": [],
+      "chars": 167
+    },
+    {
+      "no": "第四条",
+      "heading": "公务卡的报销原则",
+      "heading_kind": "author",
+      "lines": [69, 89],
+      "items": ["pt-09fe6029eb", "pt-070d345a4a", "pt-f665710134", "pt-49893f6d02", "pt-ea3364b592", "pt-b5ce819be5", "pt-2799831025", "pt-ff63d35b75", "pt-fe5e51afc1", "pt-6135f8712a"],
+      "chars": 392
+    },
+    {
+      "no": "第五条",
+      "heading": "公务卡结算和报销程序",
+      "heading_kind": "author",
+      "lines": [90, 95],
+      "items": [],
+      "chars": 108
+    },
+    {
+      "no": "第六条",
+      "heading": "下列情况可暂不使用公务卡结算",
+      "heading_kind": "author",
+      "lines": [96, 113],
+      "items": ["pt-77389ad1a1", "pt-487c120b12", "pt-5ed6f04852", "pt-dfa308a422", "pt-c51e4a5562", "pt-09fd9d9cf7", "pt-8bfd30c8c7", "pt-a58d0a2701"],
+      "chars": 376
+    },
+    {
+      "no": "第七条",
+      "heading": "解释部门",
+      "heading_kind": "derived",
+      "lines": [114, 114],
+      "items": ["pt-8a5689fe55"],
+      "chars": 16
+    },
+    {
+      "no": "第八条",
+      "heading": "施行日期与废止旧办法",
+      "heading_kind": "derived",
+      "lines": [115, 116],
+      "items": [],
+      "chars": 58
+    },
+    {
+      "no": "附件",
+      "heading": "附件清单",
+      "heading_kind": "derived",
+      "lines": [117, 119],
+      "items": [],
+      "chars": 37
+    },
+    {
+      "no": "版记",
+      "heading": "印发版记",
+      "heading_kind": "derived",
+      "lines": [120, 120],
+      "items": [],
+      "chars": 34
+    }
+  ],
+  "items": ["rule-81af7a77", "pt-95c9b63450", "pt-a55093aede", "pt-37a3124dd3", "pt-369a32a108", "pt-ad988c7c21", "pt-6981164f24", "pt-f33be132f1", "pt-5e1d439689", "pt-1c96feba57", "pt-1c759033c0", "pt-efd810f8e9", "pt-09fe6029eb", "pt-070d345a4a", "pt-f665710134", "pt-49893f6d02", "pt-ea3364b592", "pt-b5ce819be5", "pt-2799831025", "pt-ff63d35b75", "pt-fe5e51afc1", "pt-6135f8712a", "pt-77389ad1a1", "pt-487c120b12", "pt-5ed6f04852", "pt-dfa308a422", "pt-c51e4a5562", "pt-09fd9d9cf7", "pt-8bfd30c8c7", "pt-a58d0a2701", "pt-8a5689fe55"],
+  "notes": [
+    "第 1 行「- 1 -」到第 12 行是印发通知（文号、三行标题「关 于 印 发 / 《…》的 / 通 知」、主送、正文、特此通知、落款），合并一节；第 13 行「- 2 -」与第 14 行办法名称、第 15–24 行制定依据（含 4 个依据文号）合并为「办法名称与制定依据」一节。",
+    "页码行并入相邻节：第 1 行「- 1 -」并入「印发通知」，第 13 行「- 2 -」并入「办法名称与制定依据」，第 36 行「- 3 -」与第 59 行「- 4 -」并入「第二条」，第 82 行「- 5 -」并入「第四条」，第 105 行「- 6 -」并入「第六条」。",
+    "第一条至第六条原文自带小标题（公务卡的性质和办理范围 / 公务卡的日常管理 / 公务卡的使用范围 / 公务卡的报销原则 / 公务卡结算和报销程序 / 下列情况可暂不使用公务卡结算），标 author；第七条只有一句「本办法由财务处负责解释」、第八条只有施行与废止句，节名为概括（derived）。",
+    "rule-81af7a77 是文档级条目、无引文，按口径放进概述性的「办法名称与制定依据」一节，并同时列进文档级 items。",
+    "pt-8a5689fe55 的标题里带「（七）符合《中国传媒大学科研经费报销实施细则》规」前缀，但 quote 是「第七条 本办法由财务处负责解释。」（第 114 行），按 quote 落在「第七条」节；pt-1c759033c0（第 57 行）与 pt-efd810f8e9（第 60 行）是第二条（六）被页码行「- 4 -」截断的两半，都留在第二条节。",
+    "第三条、第五条在各节内没有对上任何条目引文（条目只覆盖到条下的部分分项），这两节 items 为空是原文与条目分布所致，不是漏列。"
+  ]
+}

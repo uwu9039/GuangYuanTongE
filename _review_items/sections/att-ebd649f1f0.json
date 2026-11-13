@@ -1,1 +1,185 @@
-ew0KICJrZXkiOiAiYXR0LWViZDY0OWYxZjAiLA0KICJ0aXRsZSI6ICLkuK3kvKDmlZnlrZfjgJQyMDIx44CVMTkwIOWPtyDlhbPkuo7ljbDlj5HjgIrkuK3lm73kvKDlqpLlpKflrablnKjnur/lvIDmlL7or77nqIvnrqHnkIblip7ms5XjgIvnmoTpgJrnn6UiLA0KICJ0cnVuY2F0ZWQiOiBmYWxzZSwNCiAic2VjdGlvbnMiOiBbDQogIHsNCiAgICJubyI6ICLpgJrnn6UiLA0KICAgImhlYWRpbmciOiAi5Y2w5Y+R6YCa55+lIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMSwNCiAgICAxNQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMGVkNzgzYzI4NSIsDQogICAgInB0LTQwNWFlNWI3NjYiDQogICBdLA0KICAgImNoYXJzIjogMzczDQogIH0sDQogIHsNCiAgICJubyI6ICLmoIfpopgiLA0KICAgImhlYWRpbmciOiAi5Yqe5rOV5ZCN56ewIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMTYsDQogICAgMTYNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDI2DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuIDnq6AiLA0KICAgImhlYWRpbmciOiAi5oC75YiZIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNiwNCiAgICAzOA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMTU1NzYzNWE2MiIsDQogICAgInB0LTU1MmNkMGYxNzgiLA0KICAgICJwdC03ODE4Y2RlOWQxIiwNCiAgICAicHQtNjMxNTUyMzY3ZSINCiAgIF0sDQogICAiY2hhcnMiOiA1MzENCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS6jOeroCIsDQogICAiaGVhZGluZyI6ICLor77nqIvop4TliJLkuI7lu7rorr4iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDM5LA0KICAgIDYxDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC04YTZhOGUzZmE4IiwNCiAgICAicHQtYTlmOWU0MmI3MyIsDQogICAgInB0LTdjOGU5NTUzYTAiLA0KICAgICJwdC1iNTc5MmVkNGNiIiwNCiAgICAicHQtZjQzYWM2Mjk3MSINCiAgIF0sDQogICAiY2hhcnMiOiA2NjUNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS4ieeroCIsDQogICAiaGVhZGluZyI6ICLor77nqIvov5DooYzkuI7nrqHnkIYiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDYyLA0KICAgIDkyDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1iYjRhYzAyYzU3IiwNCiAgICAicHQtMzdkNTI3OTkxOCIsDQogICAgInB0LWM0YzBiMDQ1M2MiLA0KICAgICJwdC05YzczY2JiZDg4IiwNCiAgICAicHQtNGY1Zjc0M2Y0ZiIsDQogICAgInB0LTdiMmJhOWYwNDEiLA0KICAgICJwdC0xNmRmZjM4YzFkIg0KICAgXSwNCiAgICJjaGFycyI6IDc0Mg0KICB9LA0KICB7DQogICAibm8iOiAi56ys5Zub56ugIiwNCiAgICJoZWFkaW5nIjogIuivvueoi+ivhOS7tyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgOTQsDQogICAgMTAyDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC04M2JjZDkxOWFkIiwNCiAgICAicHQtMjA5MWZiZmIzYyINCiAgIF0sDQogICAiY2hhcnMiOiAyNDINCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS6lOeroCIsDQogICAiaGVhZGluZyI6ICLmlK/mjIHkuI7kv53pmpwiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDEwNCwNCiAgICAxMzgNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWEwMDhjYjRlNjQiLA0KICAgICJwdC05YTAwMjI1ZjQzIiwNCiAgICAicHQtNzQ0YWM0YTdkMSIsDQogICAgInB0LTM4ZTA4NjdiYjQiLA0KICAgICJwdC1hNTY0YzUzMThjIiwNCiAgICAicHQtYWYwN2FlMjFkZCIsDQogICAgInB0LTJhOWM4MmU0NDkiLA0KICAgICJwdC1lYmI4NDhkOWEyIg0KICAgXSwNCiAgICJjaGFycyI6IDg0Ng0KICB9LA0KICB7DQogICAibm8iOiAi56ys5YWt56ugIiwNCiAgICJoZWFkaW5nIjogIumZhOWImSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTQwLA0KICAgIDE0Ng0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNTJmNzEzODVkYyIsDQogICAgInB0LWU0ZDhmZmZjOGUiDQogICBdLA0KICAgImNoYXJzIjogMjI1DQogIH0sDQogIHsNCiAgICJubyI6ICLniYjorrAiLA0KICAgImhlYWRpbmciOiAi5Y2w5Y+R54mI6K6wIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMTQ3LA0KICAgIDE0Nw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMTQ0MzY5ZDY4ZCINCiAgIF0sDQogICAiY2hhcnMiOiAzNQ0KICB9DQogXSwNCiAiaXRlbXMiOiBbDQogICJwdC0wZWQ3ODNjMjg1IiwNCiAgInB0LTQwNWFlNWI3NjYiLA0KICAicHQtMTU1NzYzNWE2MiIsDQogICJwdC01NTJjZDBmMTc4IiwNCiAgInB0LTc4MThjZGU5ZDEiLA0KICAicHQtNjMxNTUyMzY3ZSIsDQogICJwdC04YTZhOGUzZmE4IiwNCiAgInB0LWE5ZjllNDJiNzMiLA0KICAicHQtN2M4ZTk1NTNhMCIsDQogICJwdC1iNTc5MmVkNGNiIiwNCiAgInB0LWY0M2FjNjI5NzEiLA0KICAicHQtYmI0YWMwMmM1NyIsDQogICJwdC0zN2Q1Mjc5OTE4IiwNCiAgInB0LWM0YzBiMDQ1M2MiLA0KICAicHQtOWM3M2NiYmQ4OCIsDQogICJwdC00ZjVmNzQzZjRmIiwNCiAgInB0LTdiMmJhOWYwNDEiLA0KICAicHQtMTZkZmYzOGMxZCIsDQogICJwdC04M2JjZDkxOWFkIiwNCiAgInB0LTIwOTFmYmZiM2MiLA0KICAicHQtYTAwOGNiNGU2NCIsDQogICJwdC05YTAwMjI1ZjQzIiwNCiAgInB0LTc0NGFjNGE3ZDEiLA0KICAicHQtMzhlMDg2N2JiNCIsDQogICJwdC1hNTY0YzUzMThjIiwNCiAgInB0LWFmMDdhZTIxZGQiLA0KICAicHQtMmE5YzgyZTQ0OSIsDQogICJwdC1lYmI4NDhkOWEyIiwNCiAgInB0LTUyZjcxMzg1ZGMiLA0KICAicHQtZTRkOGZmZmM4ZSIsDQogICJwdC0xNDQzNjlkNjhkIg0KIF0sDQogIm5vdGVzIjogWw0KICAi5pys5Lu25Li6IHBkZiDmir3lj5bnmoTmraPlvI/lj5HmlofvvJrnrKwgMSDooYzmloflj7fjgIHnrKwgM+KAkzQg6KGM5qCH6aKY44CB56ysIDYg6KGM5Li76YCB5py65YWz44CB56ysIDfigJMxMCDooYzmraPmlofvvIjlkKvjgIznibnmraTpgJrnn6XjgILjgI3vvInjgIHnrKwgMTLigJMxMyDooYzokL3mrL7vvIzlkIjlubbkuLrjgIzljbDlj5HpgJrnn6XjgI3kuIDoioLvvJvnrKwgMTUg6KGM6aG156CB44CMLTEt44CN5bm25YWl6K+l6IqC44CCIiwNCiAgIuOAjOesrOS4gOeroCDmgLvliJnjgI3kuIDoioLnmoTljLrpl7Tku47nrKwgMTYg6KGM77yI5Yqe5rOV5ZCN56ew6KGM77yJ6LW3566X77yacHQtMTU1NzYzNWE2MiDnmoTlvJXmlofjgIzkuK3lm73kvKDlqpLlpKflrablnKjnur/lvIDmlL7or77nqIvnrqHnkIblip7ms5XnrKzkuIDnq6DmgLvliJnnrKzkuIDmnaHigKbjgI3otbfngrnmraPlpb3okL3lnKjnrKwgMTYg6KGM77yM5LiN5bm25YWl5bCx5peg5rOV6JC95Zyw77yM5pWF5oyJ5L6L5aSW5L+d55WZ77yb56ysIDE2IOihjOWQjOaXtuWNleWIl+OAjOagh+mimOOAjeiKgu+8iFsxNiwxNl0g55yf5bWM5aWX5LqO56ys5LiA56ug77yJ44CCIiwNCiAgIuWFreeroOaMieOAjOesrFjnq6Ag56ug5ZCN44CN56uL6IqC77yIYXV0aG9y77yM56ug5ZCN6YCQ5a2X5Y+W6Ieq5Y6f5paH77yJ77yM56ug5YaF5ZCE5p2h5LiN5YaN5ouG5a2Q6IqC77yb56ys5LqM5Y2B5p2h55qE44CM77yI5LiA77yJ77yI5LqM77yJ44CN5Lik6aG56K6h566X5Y+j5b6E55WZ5Zyo56ys5LqU56ug5YaF44CCIiwNCiAgIumhteeggeihjOW5tuWFpeebuOmCu+iKgu+8jOS4jeWNleeLrOi1t+iKgu+8muesrCAzOCDooYzjgIwtMi3jgI3lubblhaXjgIznrKzkuIDnq6DjgI3vvIznrKwgNjEg6KGM44CMLTMt44CN5bm25YWl44CM56ys5LqM56ug44CN77yM56ysIDg0IOihjOOAjC00LeOAjeW5tuWFpeOAjOesrOS4ieeroOOAje+8jOesrCAxMDkg6KGM44CMLTUt44CN5bm25YWl44CM56ys5LqU56ug44CN77yM56ysIDEzNSDooYzjgIwtNi3jgI3lubblhaXjgIznrKzkupTnq6DjgI3vvIznrKwgMTQ2IOihjOOAjC03LeOAjeW5tuWFpeOAjOesrOWFreeroOOAjeOAgiIsDQogICLnrKwgMTQ3IOihjO+8iOihjOmmluWQq+WIhumhteespu+8ieS4uueJiOiusOOAjOS4reWbveS8oOWqkuWkp+WtpuWFmuaUv+WKnuWFrOWupCDkuLvliqjlhazlvIAgMjAyMSDlubQgOCDmnIggNSDml6XljbDlj5HjgI3vvIzljZXliJfjgIzniYjorrDjgI3oioLjgIIiDQogXQ0KfQ==
+{
+ "key": "att-ebd649f1f0",
+ "title": "中传教字〔2021〕190 号 关于印发《中国传媒大学在线开放课程管理办法》的通知",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "通知",
+   "heading": "印发通知",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    15
+   ],
+   "items": [
+    "pt-0ed783c285",
+    "pt-405ae5b766"
+   ],
+   "chars": 373
+  },
+  {
+   "no": "标题",
+   "heading": "办法名称",
+   "heading_kind": "derived",
+   "lines": [
+    16,
+    16
+   ],
+   "items": [],
+   "chars": 26
+  },
+  {
+   "no": "第一章",
+   "heading": "总则",
+   "heading_kind": "author",
+   "lines": [
+    16,
+    38
+   ],
+   "items": [
+    "pt-1557635a62",
+    "pt-552cd0f178",
+    "pt-7818cde9d1",
+    "pt-631552367e"
+   ],
+   "chars": 531
+  },
+  {
+   "no": "第二章",
+   "heading": "课程规划与建设",
+   "heading_kind": "author",
+   "lines": [
+    39,
+    61
+   ],
+   "items": [
+    "pt-8a6a8e3fa8",
+    "pt-a9f9e42b73",
+    "pt-7c8e9553a0",
+    "pt-b5792ed4cb",
+    "pt-f43ac62971"
+   ],
+   "chars": 665
+  },
+  {
+   "no": "第三章",
+   "heading": "课程运行与管理",
+   "heading_kind": "author",
+   "lines": [
+    62,
+    92
+   ],
+   "items": [
+    "pt-bb4ac02c57",
+    "pt-37d5279918",
+    "pt-c4c0b0453c",
+    "pt-9c73cbbd88",
+    "pt-4f5f743f4f",
+    "pt-7b2ba9f041",
+    "pt-16dff38c1d"
+   ],
+   "chars": 742
+  },
+  {
+   "no": "第四章",
+   "heading": "课程评价",
+   "heading_kind": "author",
+   "lines": [
+    94,
+    102
+   ],
+   "items": [
+    "pt-83bcd919ad",
+    "pt-2091fbfb3c"
+   ],
+   "chars": 242
+  },
+  {
+   "no": "第五章",
+   "heading": "支持与保障",
+   "heading_kind": "author",
+   "lines": [
+    104,
+    138
+   ],
+   "items": [
+    "pt-a008cb4e64",
+    "pt-9a00225f43",
+    "pt-744ac4a7d1",
+    "pt-38e0867bb4",
+    "pt-a564c5318c",
+    "pt-af07ae21dd",
+    "pt-2a9c82e449",
+    "pt-ebb848d9a2"
+   ],
+   "chars": 846
+  },
+  {
+   "no": "第六章",
+   "heading": "附则",
+   "heading_kind": "author",
+   "lines": [
+    140,
+    146
+   ],
+   "items": [
+    "pt-52f71385dc",
+    "pt-e4d8fffc8e"
+   ],
+   "chars": 225
+  },
+  {
+   "no": "版记",
+   "heading": "印发版记",
+   "heading_kind": "derived",
+   "lines": [
+    147,
+    147
+   ],
+   "items": [
+    "pt-144369d68d"
+   ],
+   "chars": 35
+  }
+ ],
+ "items": [
+  "pt-0ed783c285",
+  "pt-405ae5b766",
+  "pt-1557635a62",
+  "pt-552cd0f178",
+  "pt-7818cde9d1",
+  "pt-631552367e",
+  "pt-8a6a8e3fa8",
+  "pt-a9f9e42b73",
+  "pt-7c8e9553a0",
+  "pt-b5792ed4cb",
+  "pt-f43ac62971",
+  "pt-bb4ac02c57",
+  "pt-37d5279918",
+  "pt-c4c0b0453c",
+  "pt-9c73cbbd88",
+  "pt-4f5f743f4f",
+  "pt-7b2ba9f041",
+  "pt-16dff38c1d",
+  "pt-83bcd919ad",
+  "pt-2091fbfb3c",
+  "pt-a008cb4e64",
+  "pt-9a00225f43",
+  "pt-744ac4a7d1",
+  "pt-38e0867bb4",
+  "pt-a564c5318c",
+  "pt-af07ae21dd",
+  "pt-2a9c82e449",
+  "pt-ebb848d9a2",
+  "pt-52f71385dc",
+  "pt-e4d8fffc8e",
+  "pt-144369d68d"
+ ],
+ "notes": [
+  "本件为 pdf 抽取的正式发文：第 1 行文号、第 3–4 行标题、第 6 行主送机关、第 7–10 行正文（含「特此通知。」）、第 12–13 行落款，合并为「印发通知」一节；第 15 行页码「-1-」并入该节。",
+  "「第一章 总则」一节的区间从第 16 行（办法名称行）起算：pt-1557635a62 的引文「中国传媒大学在线开放课程管理办法第一章总则第一条…」起点正好落在第 16 行，不并入就无法落地，故按例外保留；第 16 行同时单列「标题」节（[16,16] 真嵌套于第一章）。",
+  "六章按「第X章 章名」立节（author，章名逐字取自原文），章内各条不再拆子节；第二十条的「（一）（二）」两项计算口径留在第五章内。",
+  "页码行并入相邻节，不单独起节：第 38 行「-2-」并入「第一章」，第 61 行「-3-」并入「第二章」，第 84 行「-4-」并入「第三章」，第 109 行「-5-」并入「第五章」，第 135 行「-6-」并入「第五章」，第 146 行「-7-」并入「第六章」。",
+  "第 147 行（行首含分页符）为版记「中国传媒大学党政办公室 主动公开 2021 年 8 月 5 日印发」，单列「版记」节。"
+ ]
+}

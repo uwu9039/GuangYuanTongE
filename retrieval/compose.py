@@ -1,1 +1,187 @@
-IiIi562U5qGI6KOF6YWN77ya5oqK5ZG95Lit55qE5p2h55uu5pGK5oiQ44CM5LiA5p2h5LiN57y644CN55qE562U5aSN44CCCgropoHmsYLmmK/jgIzlm57nrZTlhajpnaLjgI3vvIzmiYDku6Xov5nph4zkuI3mmK/lj5bkuIDmnaHmnIDnm7jlhbPlsLHlrozkuovvvJoKCiog5p2h55uu55qE5q+P5Liq5pyJ5YaF5a6555qE5a2X5q616YO96KaB5Ye6546w5Zyo562U5aSN6YeM77yI5q2l6aqkIC8g5p2Q5paZIC8g6LS555SoIC8g5Zyw54K5IC8g5pe26Ze0IC8g5pe26ZmQIC8KICDnqpflj6MgLyDms6jmhI/kuovpobkgLyDogZTns7vmlrnlvI8gLyDpgILnlKjkurrnvqQgLyDmuKDpgZPvvInvvJsKKiDmr4/kuKrlrZfmrrXlsL3ph4/mjILkuIrlroPoh6rlt7HnmoTljp/mloflvJXmlofvvIhgaXRlbVsiZXZpZGVuY2UiXWDvvInvvIzkvr/kuo7moLjlr7nvvJsKKiDlkIzmibnlkb3kuK3ph4zliIblgLzmjqXov5HnmoTlhbblroPmnaHnm67kvZzkuLrjgIznm7jlhbPkuovpobnjgI3liJflh7rvvIzpgb/lhY3jgIzlj6ror7TkuobkuIDljYrjgI3vvJsKKiDmnaHnm67msqHmnInnmoTlrZfmrrXkuI3nvJbvvIxgbWlzc2luZ2Ag6YeM5aaC5a6e55WZ56m644CCCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgcmUKZnJvbSBkYXRhY2xhc3NlcyBpbXBvcnQgZGF0YWNsYXNzLCBmaWVsZApmcm9tIHR5cGluZyBpbXBvcnQgQW55LCBJdGVyYWJsZQoKIyDlrZfmrrUgLT4g5Lit5paH5qCH562+44CC6aG65bqP5Y2z562U5aSN6YeM55qE5Ye6546w6aG65bqP44CCCkZBQ0VUX0xBQkVMUzogdHVwbGVbdHVwbGVbc3RyLCBzdHJdLCAuLi5dID0gKAogICAgKCJhdWRpZW5jZSIsICLpgILnlKjlr7nosaEiKSwKICAgICgiY2hhbm5lbCIsICLlip7nkIbmuKDpgZMiKSwKICAgICgiZmVlIiwgIui0ueeUqCIpLAogICAgKCJsb2NhdGlvbiIsICLlip7nkIblnLDngrkiKSwKICAgICgiaG91cnMiLCAi5Yqe55CG5pe26Ze0IiksCiAgICAoIndpbmRvdyIsICLnqpflj6MiKSwKICAgICgiZHVyYXRpb24iLCAi5Yqe57uT5pe26ZmQIiksCiAgICAoImNvbnRhY3QiLCAi6IGU57O75pa55byPIiksCikKCl9OVUxMSVNIID0geyIiLCAi5pegIiwgIm5vbmUiLCAibnVsbCIsICLigJQiLCAiLSJ9CgoKQGRhdGFjbGFzcwpjbGFzcyBGYWNldDoKICAgIGxhYmVsOiBzdHIKICAgIHRleHQ6IHN0cgogICAgcXVvdGU6IHN0ciA9ICIiCiAgICBzcmM6IHN0ciA9ICIiCgoKQGRhdGFjbGFzcwpjbGFzcyBBbnN3ZXI6CiAgICB0aXRsZTogc3RyCiAgICBpdGVtX2lkOiBzdHIKICAgIGNvbmNsdXNpb246IHN0cgogICAgc3RlcHM6IGxpc3Rbc3RyXSA9IGZpZWxkKGRlZmF1bHRfZmFjdG9yeT1saXN0KQogICAgbWF0ZXJpYWxzOiBsaXN0W3N0cl0gPSBmaWVsZChkZWZhdWx0X2ZhY3Rvcnk9bGlzdCkKICAgIHBpdGZhbGxzOiBsaXN0W3N0cl0gPSBmaWVsZChkZWZhdWx0X2ZhY3Rvcnk9bGlzdCkKICAgIGZhY2V0czogbGlzdFtGYWNldF0gPSBmaWVsZChkZWZhdWx0X2ZhY3Rvcnk9bGlzdCkKICAgIHF1b3RlczogbGlzdFtkaWN0W3N0ciwgc3RyXV0gPSBmaWVsZChkZWZhdWx0X2ZhY3Rvcnk9bGlzdCkKICAgIHNvdXJjZXM6IGxpc3RbZGljdFtzdHIsIHN0cl1dID0gZmllbGQoZGVmYXVsdF9mYWN0b3J5PWxpc3QpCiAgICByZWxhdGVkOiBsaXN0W2RpY3Rbc3RyLCBzdHJdXSA9IGZpZWxkKGRlZmF1bHRfZmFjdG9yeT1saXN0KQogICAgdGV4dDogc3RyID0gIiIKICAgIGZpbGxlZDogZGljdFtzdHIsIGJvb2xdID0gZmllbGQoZGVmYXVsdF9mYWN0b3J5PWRpY3QpCiAgICBtaXNzaW5nOiBsaXN0W3N0cl0gPSBmaWVsZChkZWZhdWx0X2ZhY3Rvcnk9bGlzdCkKCgpkZWYgX2NsZWFuKHY6IEFueSkgLT4gc3RyOgogICAgaWYgaXNpbnN0YW5jZSh2LCAoaW50LCBmbG9hdCkpOgogICAgICAgIHJldHVybiBzdHIodikKICAgIGlmIG5vdCBpc2luc3RhbmNlKHYsIHN0cik6CiAgICAgICAgcmV0dXJuICIiCiAgICB2ID0gdi5zdHJpcCgpCiAgICByZXR1cm4gIiIgaWYgdi5sb3dlcigpIGluIF9OVUxMSVNIIGVsc2UgdgoKCmRlZiBfc3RlcF90ZXh0KHM6IGRpY3Rbc3RyLCBBbnldKSAtPiBzdHI6CiAgICB3aGF0ID0gX2NsZWFuKHMuZ2V0KCJ3aGF0IikpIG9yIF9jbGVhbihzLmdldCgid2hlcmUiKSkKICAgIHdoZXJlID0gX2NsZWFuKHMuZ2V0KCJ3aGVyZSIpKQogICAgY29uZCA9IHMuZ2V0KCJpZiIpCiAgICBwcmVmaXggPSAiIgogICAgaWYgaXNpbnN0YW5jZShjb25kLCBkaWN0KSBhbmQgY29uZDoKICAgICAgICAjIOadoeS7tuWPquWGmeWPluWAvO+8iOOAjOmcgOimgeOAjeOAjOeUn+a6kOWcsOi0t+asvuOAje+8ie+8jOS4jeaKiuWGhemDqOeahOmUruWQje+8iGtpbmQgLyBzZWFsZWTvvInpnLLnu5nnlKjmiLcKICAgICAgICBwcmVmaXggPSAi77yIIiArICLjgIEiLmpvaW4oc3RyKHYpIGZvciB2IGluIGNvbmQudmFsdWVzKCkgaWYgdikgKyAi5pe277yJIgogICAgd2hlbiA9IF9jbGVhbihzLmdldCgid2hlbiIpKQogICAgaWYgd2hlcmUgYW5kIHdoZXJlIG5vdCBpbiB3aGF0OgogICAgICAgIHdoYXQgPSBmInt3aGF0fe+8iHt3aGVyZX3vvIkiCiAgICAjIOOAjOesrCAxIOatpSAvIOesrCAyIOatpeOAjeS6pOe7meWIl+ihqOe8luWPt++8jOato+aWh+mHjOS4jeWGjemHjeWkjQogICAgaGVhZCA9ICIiIGlmIHJlLmZ1bGxtYXRjaChyIuesrFxzKlxkK1xzKuatpSIsIHdoZW4gb3IgIiIpIGVsc2UgKGYie3doZW5977yaIiBpZiB3aGVuIGVsc2UgIiIpCiAgICByZXR1cm4gZiJ7cHJlZml4fXtoZWFkfXt3aGF0fSIKCgpkZWYgX21hdGVyaWFscyhpdGVtOiBkaWN0W3N0ciwgQW55XSkgLT4gbGlzdFtzdHJdOgogICAgb3V0ID0gW10KICAgIGZvciBtIGluIGl0ZW0uZ2V0KCJtYXRlcmlhbHMiKSBvciBbXToKICAgICAgICBpZiBpc2luc3RhbmNlKG0sIGRpY3QpOgogICAgICAgICAgICB0ID0gX2NsZWFuKG0uZ2V0KCJuYW1lIikpIG9yIF9jbGVhbihtLmdldCgid2hhdCIpKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHQgPSBfY2xlYW4obSkKICAgICAgICBpZiB0OgogICAgICAgICAgICBvdXQuYXBwZW5kKHQpCiAgICByZXR1cm4gb3V0CgoKZGVmIF9xdW90ZXNfZm9yKGl0ZW06IGRpY3Rbc3RyLCBBbnldLCBrZXk6IHN0cikgLT4gdHVwbGVbc3RyLCBzdHJdOgogICAgZXYgPSBpdGVtLmdldCgiZXZpZGVuY2UiKQogICAgaWYgaXNpbnN0YW5jZShldiwgZGljdCk6CiAgICAgICAgZSA9IGV2LmdldChrZXkpCiAgICAgICAgaWYgaXNpbnN0YW5jZShlLCBkaWN0KToKICAgICAgICAgICAgcmV0dXJuIF9jbGVhbihlLmdldCgicXVvdGUiKSksIF9jbGVhbihlLmdldCgic3JjIikpCiAgICByZXR1cm4gIiIsICIiCgoKZGVmIGJ1aWxkKHJlczogQW55LCBpdGVtczogZGljdFtzdHIsIGRpY3Rbc3RyLCBBbnldXSkgLT4gQW5zd2VyOgogICAgaGl0ID0gcmVzLmhpdHNbMF0KICAgIGl0ZW0gPSBoaXQuaXRlbSBvciBpdGVtcy5nZXQoaGl0LmlkLCB7fSkKICAgIHRpdGxlID0gX2NsZWFuKGl0ZW0uZ2V0KCJ0aXRsZSIpKSBvciBoaXQudGl0bGUKICAgIHN0ZXBzID0gW19zdGVwX3RleHQocykgZm9yIHMgaW4gKGl0ZW0uZ2V0KCJzdGVwcyIpIG9yIFtdKSBpZiBpc2luc3RhbmNlKHMsIGRpY3QpXQogICAgc3RlcHMgPSBbcyBmb3IgcyBpbiBzdGVwcyBpZiBzXQogICAgbWF0ZXJpYWxzID0gX21hdGVyaWFscyhpdGVtKQogICAgcGl0ZmFsbHMgPSBbdCBmb3IgdCBpbiAoX2NsZWFuKHApIGZvciBwIGluIChpdGVtLmdldCgicGl0ZmFsbHMiKSBvciBbXSkpIGlmIHRdCgogICAgYW5zID0gX2NsZWFuKGl0ZW0uZ2V0KCJhbnN3ZXIiKSkKICAgIGlmIGFuczoKICAgICAgICBjb25jbHVzaW9uID0gYW5zCiAgICBlbGlmIHN0ZXBzOgogICAgICAgICMg5rKh5pyJ44CM5LiA5Y+l6K+d562U5qGI44CN5pe25LiN56Gs6YCg77ya55u05o6l6L+b5q2l6aqk77yM6YG/5YWN5ZKM56ys5LiA5p2h5q2l6aqk6YeN5aSNCiAgICAgICAgY29uY2x1c2lvbiA9IGYi5YWxIHtsZW4oc3RlcHMpfSDkuKrmraXpqqTjgIIiCiAgICBlbHNlOgogICAgICAgIGNvbmNsdXNpb24gPSB0aXRsZQoKICAgIGZhY2V0czogbGlzdFtGYWNldF0gPSBbXQogICAgZmlsbGVkOiBkaWN0W3N0ciwgYm9vbF0gPSB7InN0ZXBzIjogYm9vbChzdGVwcyksICJtYXRlcmlhbHMiOiBib29sKG1hdGVyaWFscyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAicGl0ZmFsbHMiOiBib29sKHBpdGZhbGxzKSwgImNvbmNsdXNpb24iOiBib29sKGNvbmNsdXNpb24pfQogICAgZm9yIGtleSwgbGFiZWwgaW4gRkFDRVRfTEFCRUxTOgogICAgICAgIHYgPSBpdGVtLmdldChrZXkpCiAgICAgICAgaWYgaXNpbnN0YW5jZSh2LCBsaXN0KToKICAgICAgICAgICAgdGV4dCA9ICLjgIEiLmpvaW4odCBmb3IgdCBpbiAoX2NsZWFuKHgpIGZvciB4IGluIHYpIGlmIHQpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgdGV4dCA9IF9jbGVhbih2KQogICAgICAgIGlmIG5vdCB0ZXh0OgogICAgICAgICAgICBmaWxsZWRba2V5XSA9IEZhbHNlCiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgZmlsbGVkW2tleV0gPSBUcnVlCiAgICAgICAgcXVvdGUsIHNyYyA9IF9xdW90ZXNfZm9yKGl0ZW0sIGtleSkKICAgICAgICBmYWNldHMuYXBwZW5kKEZhY2V0KGxhYmVsPWxhYmVsLCB0ZXh0PXRleHQsIHF1b3RlPXF1b3RlLCBzcmM9c3JjKSkKCiAgICBxdW90ZXM6IGxpc3RbZGljdFtzdHIsIHN0cl1dID0gW10KICAgIGV2ID0gaXRlbS5nZXQoImV2aWRlbmNlIikKICAgIGlmIGlzaW5zdGFuY2UoZXYsIGRpY3QpOgogICAgICAgIGZvciBrZXksIGUgaW4gZXYuaXRlbXMoKToKICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShlLCBkaWN0KSBhbmQgX2NsZWFuKGUuZ2V0KCJxdW90ZSIpKToKICAgICAgICAgICAgICAgIHF1b3Rlcy5hcHBlbmQoeyJmaWVsZCI6IHN0cihrZXkpLCAicXVvdGUiOiBfY2xlYW4oZS5nZXQoInF1b3RlIikpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgInNyYyI6IF9jbGVhbihlLmdldCgic3JjIikpfSkKCiAgICBzb3VyY2VzID0gW10KICAgIGZvciBzIGluIGl0ZW0uZ2V0KCJzb3VyY2UiKSBvciBbXToKICAgICAgICBpZiBpc2luc3RhbmNlKHMsIGRpY3QpOgogICAgICAgICAgICBzb3VyY2VzLmFwcGVuZCh7InRpdGxlIjogX2NsZWFuKHMuZ2V0KCJ0aXRsZSIpKSwgInVybCI6IF9jbGVhbihzLmdldCgidXJsIikpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgImNoZWNrZWQiOiBfY2xlYW4ocy5nZXQoImNoZWNrZWQiKSl9KQoKICAgIHJlbGF0ZWQgPSBbXQogICAgZm9yIGggaW4gcmVzLmhpdHNbMTo0XToKICAgICAgICBpZiBoLnByb2IgPCAwLjM1OgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIHQgPSBfY2xlYW4oKGguaXRlbSBvciB7fSkuZ2V0KCJ0aXRsZSIpKSBvciBoLnRpdGxlCiAgICAgICAgaWYgdCBhbmQgdCAhPSB0aXRsZToKICAgICAgICAgICAgcmVsYXRlZC5hcHBlbmQoeyJpZCI6IGguaWQsICJ0aXRsZSI6IHQsICJzY29yZSI6IHJvdW5kKGZsb2F0KGgucHJvYiksIDMpfSkKCiAgICBtaXNzaW5nID0gW2xhYmVsIGZvciBrZXksIGxhYmVsIGluIEZBQ0VUX0xBQkVMUyBpZiBub3QgZmlsbGVkLmdldChrZXkpXQogICAgaWYgbm90IHN0ZXBzOgogICAgICAgIG1pc3NpbmcuaW5zZXJ0KDAsICLlip7nkIbmraXpqqQiKQoKICAgIGFuc19vYmogPSBBbnN3ZXIodGl0bGU9dGl0bGUsIGl0ZW1faWQ9aGl0LmlkLCBjb25jbHVzaW9uPWNvbmNsdXNpb24sIHN0ZXBzPXN0ZXBzLAogICAgICAgICAgICAgICAgICAgICBtYXRlcmlhbHM9bWF0ZXJpYWxzLCBwaXRmYWxscz1waXRmYWxscywgZmFjZXRzPWZhY2V0cywgcXVvdGVzPXF1b3RlcywKICAgICAgICAgICAgICAgICAgICAgc291cmNlcz1zb3VyY2VzLCByZWxhdGVkPXJlbGF0ZWQsIGZpbGxlZD1maWxsZWQsIG1pc3Npbmc9bWlzc2luZykKICAgIGFuc19vYmoudGV4dCA9IHJlbmRlcihhbnNfb2JqKQogICAgcmV0dXJuIGFuc19vYmoKCgpkZWYgcmVuZGVyKGE6IEFuc3dlcikgLT4gc3RyOgogICAgbGluZXM6IGxpc3Rbc3RyXSA9IFtmIuOAkHthLnRpdGxlfeOAkSIsIGEuY29uY2x1c2lvbl0KICAgIGlmIGEuc3RlcHM6CiAgICAgICAgbGluZXMuYXBwZW5kKCLlip7nkIbmraXpqqTvvJoiKQogICAgICAgIGxpbmVzLmV4dGVuZChmIiAge259LiB7c30iIGZvciBuLCBzIGluIGVudW1lcmF0ZShhLnN0ZXBzLCAxKSkKICAgIGlmIGEubWF0ZXJpYWxzOgogICAgICAgIGxpbmVzLmFwcGVuZCgi6ZyA6KaB5bim55qE5p2Q5paZ77yaIiArICLvvJsiLmpvaW4oYS5tYXRlcmlhbHMpKQogICAgZm9yIGYgaW4gYS5mYWNldHM6CiAgICAgICAgbGluZXMuYXBwZW5kKGYie2YubGFiZWx977yae2YudGV4dH0iKQogICAgaWYgYS5waXRmYWxsczoKICAgICAgICBsaW5lcy5hcHBlbmQoIuazqOaEj+S6i+mhue+8miIgKyAi77ybIi5qb2luKGEucGl0ZmFsbHMpKQogICAgaWYgYS5yZWxhdGVkOgogICAgICAgIGxpbmVzLmFwcGVuZCgi55u45YWz5LqL6aG577yaIiArICLvvJsiLmpvaW4oclsidGl0bGUiXSBmb3IgciBpbiBhLnJlbGF0ZWQpKQogICAgaWYgYS5zb3VyY2VzOgogICAgICAgIHNyYyA9ICLvvJsiLmpvaW4oc1sidGl0bGUiXSBmb3IgcyBpbiBhLnNvdXJjZXMgaWYgc1sidGl0bGUiXSkKICAgICAgICBpZiBzcmM6CiAgICAgICAgICAgIGxpbmVzLmFwcGVuZCgi5Ye65aSE77yaIiArIHNyYykKICAgIHJldHVybiAiXG4iLmpvaW4obGluZXMpCg==
+"""答案装配：把命中的条目摊成「一条不缺」的答复。
+
+要求是「回答全面」，所以这里不是取一条最相关就完事：
+
+* 条目的每个有内容的字段都要出现在答复里（步骤 / 材料 / 费用 / 地点 / 时间 / 时限 /
+  窗口 / 注意事项 / 联系方式 / 适用人群 / 渠道）；
+* 每个字段尽量挂上它自己的原文引文（`item["evidence"]`），便于核对；
+* 同批命中里分值接近的其它条目作为「相关事项」列出，避免「只说了一半」；
+* 条目没有的字段不编，`missing` 里如实留空。
+"""
+from __future__ import annotations
+
+import re
+from dataclasses import dataclass, field
+from typing import Any, Iterable
+
+# 字段 -> 中文标签。顺序即答复里的出现顺序。
+FACET_LABELS: tuple[tuple[str, str], ...] = (
+    ("audience", "适用对象"),
+    ("channel", "办理渠道"),
+    ("fee", "费用"),
+    ("location", "办理地点"),
+    ("hours", "办理时间"),
+    ("window", "窗口"),
+    ("duration", "办结时限"),
+    ("contact", "联系方式"),
+)
+
+_NULLISH = {"", "无", "none", "null", "—", "-"}
+
+
+@dataclass
+class Facet:
+    label: str
+    text: str
+    quote: str = ""
+    src: str = ""
+
+
+@dataclass
+class Answer:
+    title: str
+    item_id: str
+    conclusion: str
+    steps: list[str] = field(default_factory=list)
+    materials: list[str] = field(default_factory=list)
+    pitfalls: list[str] = field(default_factory=list)
+    facets: list[Facet] = field(default_factory=list)
+    quotes: list[dict[str, str]] = field(default_factory=list)
+    sources: list[dict[str, str]] = field(default_factory=list)
+    related: list[dict[str, str]] = field(default_factory=list)
+    text: str = ""
+    filled: dict[str, bool] = field(default_factory=dict)
+    missing: list[str] = field(default_factory=list)
+
+
+def _clean(v: Any) -> str:
+    if isinstance(v, (int, float)):
+        return str(v)
+    if not isinstance(v, str):
+        return ""
+    v = v.strip()
+    return "" if v.lower() in _NULLISH else v
+
+
+def _step_text(s: dict[str, Any]) -> str:
+    what = _clean(s.get("what")) or _clean(s.get("where"))
+    where = _clean(s.get("where"))
+    cond = s.get("if")
+    prefix = ""
+    if isinstance(cond, dict) and cond:
+        # 条件只写取值（「需要」「生源地贷款」），不把内部的键名（kind / sealed）露给用户
+        prefix = "（" + "、".join(str(v) for v in cond.values() if v) + "时）"
+    when = _clean(s.get("when"))
+    if where and where not in what:
+        what = f"{what}（{where}）"
+    # 「第 1 步 / 第 2 步」交给列表编号，正文里不再重复
+    head = "" if re.fullmatch(r"第\s*\d+\s*步", when or "") else (f"{when}：" if when else "")
+    return f"{prefix}{head}{what}"
+
+
+def _materials(item: dict[str, Any]) -> list[str]:
+    out = []
+    for m in item.get("materials") or []:
+        if isinstance(m, dict):
+            t = _clean(m.get("name")) or _clean(m.get("what"))
+        else:
+            t = _clean(m)
+        if t:
+            out.append(t)
+    return out
+
+
+def _quotes_for(item: dict[str, Any], key: str) -> tuple[str, str]:
+    ev = item.get("evidence")
+    if isinstance(ev, dict):
+        e = ev.get(key)
+        if isinstance(e, dict):
+            return _clean(e.get("quote")), _clean(e.get("src"))
+    return "", ""
+
+
+def build(res: Any, items: dict[str, dict[str, Any]]) -> Answer:
+    hit = res.hits[0]
+    item = hit.item or items.get(hit.id, {})
+    title = _clean(item.get("title")) or hit.title
+    steps = [_step_text(s) for s in (item.get("steps") or []) if isinstance(s, dict)]
+    steps = [s for s in steps if s]
+    materials = _materials(item)
+    pitfalls = [t for t in (_clean(p) for p in (item.get("pitfalls") or [])) if t]
+
+    ans = _clean(item.get("answer"))
+    if ans:
+        conclusion = ans
+    elif steps:
+        # 没有「一句话答案」时不硬造：直接进步骤，避免和第一条步骤重复
+        conclusion = f"共 {len(steps)} 个步骤。"
+    else:
+        conclusion = title
+
+    facets: list[Facet] = []
+    filled: dict[str, bool] = {"steps": bool(steps), "materials": bool(materials),
+                               "pitfalls": bool(pitfalls), "conclusion": bool(conclusion)}
+    for key, label in FACET_LABELS:
+        v = item.get(key)
+        if isinstance(v, list):
+            text = "、".join(t for t in (_clean(x) for x in v) if t)
+        else:
+            text = _clean(v)
+        if not text:
+            filled[key] = False
+            continue
+        filled[key] = True
+        quote, src = _quotes_for(item, key)
+        facets.append(Facet(label=label, text=text, quote=quote, src=src))
+
+    quotes: list[dict[str, str]] = []
+    ev = item.get("evidence")
+    if isinstance(ev, dict):
+        for key, e in ev.items():
+            if isinstance(e, dict) and _clean(e.get("quote")):
+                quotes.append({"field": str(key), "quote": _clean(e.get("quote")),
+                               "src": _clean(e.get("src"))})
+
+    sources = []
+    for s in item.get("source") or []:
+        if isinstance(s, dict):
+            sources.append({"title": _clean(s.get("title")), "url": _clean(s.get("url")),
+                            "checked": _clean(s.get("checked"))})
+
+    related = []
+    for h in res.hits[1:4]:
+        if h.prob < 0.35:
+            continue
+        t = _clean((h.item or {}).get("title")) or h.title
+        if t and t != title:
+            related.append({"id": h.id, "title": t, "score": round(float(h.prob), 3)})
+
+    missing = [label for key, label in FACET_LABELS if not filled.get(key)]
+    if not steps:
+        missing.insert(0, "办理步骤")
+
+    ans_obj = Answer(title=title, item_id=hit.id, conclusion=conclusion, steps=steps,
+                     materials=materials, pitfalls=pitfalls, facets=facets, quotes=quotes,
+                     sources=sources, related=related, filled=filled, missing=missing)
+    ans_obj.text = render(ans_obj)
+    return ans_obj
+
+
+def render(a: Answer) -> str:
+    lines: list[str] = [f"【{a.title}】", a.conclusion]
+    if a.steps:
+        lines.append("办理步骤：")
+        lines.extend(f"  {n}. {s}" for n, s in enumerate(a.steps, 1))
+    if a.materials:
+        lines.append("需要带的材料：" + "；".join(a.materials))
+    for f in a.facets:
+        lines.append(f"{f.label}：{f.text}")
+    if a.pitfalls:
+        lines.append("注意事项：" + "；".join(a.pitfalls))
+    if a.related:
+        lines.append("相关事项：" + "；".join(r["title"] for r in a.related))
+    if a.sources:
+        src = "；".join(s["title"] for s in a.sources if s["title"])
+        if src:
+            lines.append("出处：" + src)
+    return "\n".join(lines)

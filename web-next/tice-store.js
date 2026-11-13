@@ -1,1 +1,443 @@
-Ly8g5L2T5rWL5pys5py65a2Y5YKo5bGC77ya6Ieq5Yqo5pqC5a2YICsg5oyJ5a2m5bm05a2Y5qGjICsg5Zub56eN5aSx6LSl5L+d5oqkICsg5a+85Ye66ISx5pWP44CCCi8vCi8vIOi/meS4gOWxguaYr+e6r+WHveaVsOWxgu+8muaJgOacieivu+WGmeWPqui1sCBjcmVhdGUoYmFja2VuZCkg5rOo5YWl6L+b5p2l55qE6YKj5Liq5ZCO56uv5a+56LGhCi8vIO+8iOmhtemdouS8oOa1j+iniOWZqOeahOacrOacuuWtmOWCqOWvueixoe+8jOa1i+ivleS8oOWGheWtmOWBh+WQjuerr++8ieOAguacrOaWh+S7tuS4jeeisCBET03jgIHkuI3norDku7vkvZUKLy8g5YWo5bGA5a2Y5YKo5a+56LGh44CB5LiN5Y+R5Lu75L2V572R57uc6K+35rGC77yM5Lmf5LiNIHJlcXVpcmUg5Yir55qE5qih5Z2X77yM5omA5Lul6IO955u05o6l5ZyoIG5vZGUg6YeMCi8vIHJlcXVpcmUg6LeR5pat6KiA44CC5Zub5Liq5aSx6LSl5YiG5pSv5ZCE6Ieq6L+U5ZueIHsgb2s6IGZhbHNlLCBjb3B5IH3vvIxjb3B5IOWFqOmDqOaYr+iuvuiuoeaWh+ahowovLyDCpzkg5oiW5Y6f56iL5bqP6YeM55qE5Y6f6K+d77yI6KeBIENPUFkg6KGo6YeM55qE5Ye65aSE5rOo6YeK77yJ77yM6aG16Z2i5Y+q6LSf6LSj54Wn5Y6f5qC35pi+56S644CCCihmdW5jdGlvbiAocm9vdCwgZmFjdG9yeSkgewogIGlmICh0eXBlb2YgbW9kdWxlICE9PSAndW5kZWZpbmVkJyAmJiBtb2R1bGUuZXhwb3J0cykgbW9kdWxlLmV4cG9ydHMgPSBmYWN0b3J5KCk7CiAgZWxzZSByb290LlRJQ0VfU1RPUkUgPSBmYWN0b3J5KCk7Cn0odHlwZW9mIGdsb2JhbFRoaXMgIT09ICd1bmRlZmluZWQnID8gZ2xvYmFsVGhpcyA6IHRoaXMsIGZ1bmN0aW9uICgpIHsKICAndXNlIHN0cmljdCc7CgogIC8vIOmUruWQjeeFp+iuvuiuoeaWh+ahoyDCpzkg5Y6f5paH44CC54mI5pys5Y+35bey57uP5YaZ5Zyo6ZSu5ZCN6YeM77yI5ZCO57yAIF92Me+8ie+8jOWGjeWKoOWJjee8gOWwseetieS6jgogIC8vIOWGmeS6huS4pOWll+eJiOacrOagh+iusO+8jOaUueWQjeaXtuW/heeEtua8j+S4gOS4qu+8jOaJgOS7peaMieWOn+agt+eUqOOAggogIGNvbnN0IFNDSEVNQSA9ICd2MSc7CiAgY29uc3QgTEVHQUNZX1NDSEVNQSA9ICd2MCc7CiAgY29uc3QgS0VZUyA9IHsKICAgIGRyYWZ0OiAndGljZV9kcmFmdF92MScsICAgICAgLy8g5b2T5YmN5aGr5YaZICsg5pe26Ze05oizCiAgICBhcmNoaXZlczogJ3RpY2VfYXJjaGl2ZXNfdjEnIC8vIOaMieWtpuW5tOeahOWtmOaho+aVsOe7hAogIH07CgogIC8vIOWtmOaho+adoeaVsOS4iumZkOOAguiuvuiuoeaWh+aho+ayoee7meWFt+S9k+adoeaVsO+8iOWPquimgeaxguOAjOmYsuatouaXoOmZkOWinumVv+OAje+8ie+8jOi/memHjOaMieWuuemHj+WAkueul++8mgogIC8vIOWNleWtmOaho+e6piAx4oCTMiBLQu+8jDUwIOadoSDiiYggMTAwIEtC77yM6L+c5L2O5LqO5pys5py65a2Y5YKo5bi46KeB55qEIDUgTUIg6YWN6aKd77yM5ZCM5pe25aSf6KaG55uWCiAgLy8g5pys56eR5Zub5bm05q+P5a2m5bm05aSa5Lu96K6w5b2V55qE55So5rOV44CC6LaF5Ye65pe25reY5rGwIHNhdmVkQXQg5pyA5pen55qE77yM5YaZ55uY5LuN54S25oiQ5Yqf77yM5L2G5oqKCiAgLy8g6KKr5reY5rGw55qEIGlkIOaUvuWcqOi/lOWbnuWAvCBkcm9wcGVkIOmHjO+8jOmhtemdouiLpeaDs+aPkOekuueUqOaIt+WPr+S7peebtOaOpeeUqOOAggogIGNvbnN0IE1BWF9BUkNISVZFUyA9IDUwOwoKICAvLyDotYTmlpnkuInpobnvvJrlj6rokL3mnKzmnLrvvIzmsLjkuI3ov5vku7vkvZXlr7zlh7ov5aSN5Yi2L+WIhuS6q+aWh+acrO+8iOiuvuiuoeaWh+ahoyDCpzkuMSDmnKvmrrXvvInjgIIKICAvLyDms6jmhI/ljLrliIbvvJppdGVtc1tdLm5hbWUg5piv6aG555uu5ZCN77yI6IK65rS76YePLzUw57Gz4oCm77yJ77yMcmVjb3JkLm5hbWUg5omN5piv5aeT5ZCN44CCCiAgY29uc3QgUElJX0tFWVMgPSBbJ25hbWUnLCAnY29sbGVnZScsICdtYWpvciddOwogIC8vIOaho+ahiOe8lui+kea1ruWxgueahOWFreS4quWtl+autemHjOmZpOWtpuW5tOS5i+WklueahOS6lOmhue+8iOWtpuW5tOaYr+WtmOaho+eahOmUru+8jOWNleeLrOagoemqjO+8ieOAggogIGNvbnN0IFBST0ZJTEVfS0VZUyA9IFsnbmFtZScsICdjb2xsZWdlJywgJ21ham9yJywgJ2Vucm9sbEdyYWRlJywgJ25vdGUnXTsKCiAgY29uc3QgUFJPQkVfS0VZID0gJ19fdGljZV9wcm9iZV9fJzsKCiAgLy8g5oC75YiG5Y2h5LiL5pa55bCP5a2X77yI6K6+6K6h5paH5qGjIMKnMTAg5Y6f5paH77yJ44CCCiAgY29uc3QgUkVGRVJFTkNFX05PVEUgPSAn5LuF5L6b5Y+C6ICD77yM5a6e6ZmF5oiQ57up5Lul5a2m5qCh5L2T5rWL57O757uf6K6w5b2V5Li65YeG44CCJzsKCiAgY29uc3QgQ09QWSA9IHsKICAgIC8vIMKnOSDkv53miqQgMSDljp/mlofvvIhzcGVjIOmHjOayoeacieWPpeacq+WPpeWPt++8jOi/memHjOS5n+S4jeWKoO+8jOa1i+ivleaMieWOn+aWh+avlOWvue+8iQogICAgZHJhZnRSZWFkRmFpbDogJ+acrOWcsOaaguWtmOivu+WPluWksei0peaIlueJiOacrOaaguS4jeaUr+aMge+8jOWOn+aVsOaNruW3suS/neeVme+8m+W9k+WJjeWhq+WGmeaaguS4jeiDveimhuebluWugycsCiAgICAvLyDCpzkg5L+d5oqkIDIg5Y6f5paHCiAgICBkcmFmdFdyaXRlRmFpbDogJ+iHquWKqOaaguWtmOWksei0pe+8jOW9k+WJjeWhq+WGmeS7jeWcqOmhtemdouS4re+8m+ivt+WLv+WwhuacrOacuuiusOW9leS9nOS4uuWUr+S4gOWHreivgScsCiAgICAvLyDCpzkg5L+d5oqkIDMg5Y6f5paHCiAgICBkZWxldGVGYWlsOiAn5Yig6Zmk5aSx6LSl77yM5Y6f6K6w5b2V5bey5L+d55WZJywKICAgIC8vIMKnOSDkv53miqQgNCDljp/mlocKICAgIHNhdmVGYWlsOiAn5L+d5a2Y5aSx6LSl77yM5Y6f5a2Y5qGj5pyq6KKr5pu/5o2i77yM6K+356iN5ZCO6YeN6K+VJywKICAgIC8vIMKnMyDopoHmsYLjgIzmmoLlrZjor7vjgIHlhpnjgIHmuIXkuInnp43lpLHotKXlkITmnInmlofmoYjjgI3vvIzCpzkg5Y+q57uZ5LqG6K+75LiO5YaZ5Lik5Y+l77ybCiAgICAvLyDmuIXmmoLlrZjnmoTmlofmoYjlj5bljp/nqIvluo8gcGFnZXMvZml0bmVzcy9pbmRleCDnmoQgb25SZXN0YXJ0IOWOn+aWh++8jOS4jeWPpumAoOaOqui+nuOAggogICAgZHJhZnRDbGVhckZhaWw6ICfmmoLlrZjmuIXpmaTlpLHotKXvvIzljp/loavlhpnlt7Lkv53nlZknLAogICAgLy8g5Y6G5Y+y6K+75Y+W5aSx6LSl77yawqc5IOS/neaKpCAxIOWPquiusuS6huaaguWtmO+8m+WOhuWPsui/meS4gOaUr+WPluWOn+eoi+W6jwogICAgLy8gcGFnZXMvZml0bmVzcy1oaXN0b3J5L2luZGV4IOeahCByZWZyZXNoIOWOn+aWh++8iOWQjOaehO+8jOS4lOW3suWcqOWOn+eoi+W6j+mHjOeUqOi/h++8ieOAggogICAgaGlzdG9yeUZhaWw6ICfljoblj7Lor7vlj5blpLHotKXmiJbniYjmnKzmmoLkuI3mlK/mjIHvvIzljp/lrZjlgqjlt7Lkv53nlZknLAogICAgLy8gwqc5LjEg5Y6f5paHCiAgICB5ZWFyUmVxdWlyZWQ6ICfor7floavlhpnlrablubQnLAogICAgLy8g5Y6f56iL5bqPIHBhZ2VzL2ZpdG5lc3MtaGlzdG9yeS9pbmRleCDnmoQgb25Db3B5IOWOn+aWh++8iFRhc2sgMTAg55So5a6D77yJCiAgICBjb3B5RmFpbDogJ+WkjeWItuWksei0pe+8jOWOn+aaguWtmOS4juWtmOaho+W3suS/neeVmScsCiAgICAvLyDCpzExIOepuuaAgeWOn+aWh++8jOmhtemdouWcqCBhdmFpbGFibGUgPT09IGZhbHNlIOaXtuaYvuekugogICAgdW5hdmFpbGFibGU6ICfmnKzmnLrlrZjlgqjkuI3lj6/nlKgnCiAgfTsKCiAgZnVuY3Rpb24gaXNQbGFpbk9iamVjdCh2KSB7CiAgICByZXR1cm4gISF2ICYmIHR5cGVvZiB2ID09PSAnb2JqZWN0JyAmJiAhQXJyYXkuaXNBcnJheSh2KTsKICB9CgogIGZ1bmN0aW9uIG5vd0lzbygpIHsKICAgIHJldHVybiBuZXcgRGF0ZSgpLnRvSVNPU3RyaW5nKCk7CiAgfQoKICBmdW5jdGlvbiBkYXNoKHYpIHsKICAgIGlmICh2ID09PSBudWxsIHx8IHYgPT09IHVuZGVmaW5lZCkgcmV0dXJuICfigJQnOwogICAgaWYgKHR5cGVvZiB2ID09PSAnc3RyaW5nJyAmJiB2LnRyaW0oKSA9PT0gJycpIHJldHVybiAn4oCUJzsKICAgIHJldHVybiBTdHJpbmcodik7CiAgfQoKICBmdW5jdGlvbiBudW1UZXh0KHYpIHsKICAgIHJldHVybiB2ID09PSBudWxsIHx8IHYgPT09IHVuZGVmaW5lZCB8fCB2ID09PSAnJyA/ICfigJQnIDogU3RyaW5nKHYpOwogIH0KCiAgZnVuY3Rpb24gaGFzQWNhZGVtaWNZZWFyKHYpIHsKICAgIGlmICh0eXBlb2YgdiA9PT0gJ3N0cmluZycpIHJldHVybiB2LnRyaW0oKSAhPT0gJyc7CiAgICByZXR1cm4gdHlwZW9mIHYgPT09ICdudW1iZXInICYmIE51bWJlci5pc0Zpbml0ZSh2KTsKICB9CgogIGZ1bmN0aW9uIGNyZWF0ZShiYWNrZW5kKSB7CiAgICBjb25zdCB1c2FibGUgPSAhIWJhY2tlbmQKICAgICAgJiYgdHlwZW9mIGJhY2tlbmQuZ2V0SXRlbSA9PT0gJ2Z1bmN0aW9uJwogICAgICAmJiB0eXBlb2YgYmFja2VuZC5zZXRJdGVtID09PSAnZnVuY3Rpb24nCiAgICAgICYmIHR5cGVvZiBiYWNrZW5kLnJlbW92ZUl0ZW0gPT09ICdmdW5jdGlvbic7CgogICAgLy8g5Y+v55So5oCn5o6i6ZKI77ya5YaZ5b6X6L+b44CB6K+75b6X5Zue5omN566X5Y+v55So44CC5pW05Z2X5a2Y5YKo5LiN5Y+v55So77yI6ZqQ56eB5qih5byP5LiA57G777yJ5pe2CiAgICAvLyDpobXpnaLlj6rnlZnnrpfliIbvvIzmmoLlrZjkuI7ljoblj7LkuIDotbfpmY3nuqfvvIzlubbmmL7npLogQ09QWS51bmF2YWlsYWJsZeOAggogICAgbGV0IGF2YWlsYWJsZSA9IGZhbHNlOwogICAgaWYgKHVzYWJsZSkgewogICAgICB0cnkgewogICAgICAgIGJhY2tlbmQuc2V0SXRlbShQUk9CRV9LRVksICcxJyk7CiAgICAgICAgYXZhaWxhYmxlID0gYmFja2VuZC5nZXRJdGVtKFBST0JFX0tFWSkgPT09ICcxJzsKICAgICAgfSBjYXRjaCAoZSkgewogICAgICAgIGF2YWlsYWJsZSA9IGZhbHNlOwogICAgICB9CiAgICAgIHRyeSB7CiAgICAgICAgYmFja2VuZC5yZW1vdmVJdGVtKFBST0JFX0tFWSk7CiAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAvLyDmjqLpkojplK7mrovnlZnkuIDkuKrkuI3lvbHlk43or7vlhpnvvIzkuI3nrpfkuI3lj6/nlKgKICAgICAgfQogICAgfQoKICAgIC8vIOivu+S4gOadoeWOn+Wni+aWh+acrO+8muWMuuWIhuOAjOivu+Wksei0peOAjeS4juOAjOacrOadpeWwseayoeacieOAjeKAlOKAlOS4pOiAhee7neS4jeiDvea3t+aIkOS4gOS4quWIhuaUr++8jAogICAgLy8g5ZCm5YiZ6K+75aSx6LSl5Lya6KKr5b2T5oiQ56m65a2Y5YKo77yM5o6l552A5YaZ5YWl5bCx5oqK5Y6f5pWw5o2u6KaG55uW5LqG44CCCiAgICBmdW5jdGlvbiByZWFkUmF3KGtleSkgewogICAgICBpZiAoIXVzYWJsZSkgcmV0dXJuIHsgb2s6IGZhbHNlLCB0ZXh0OiBudWxsIH07CiAgICAgIHRyeSB7CiAgICAgICAgY29uc3QgdiA9IGJhY2tlbmQuZ2V0SXRlbShrZXkpOwogICAgICAgIGlmICh2ID09PSBudWxsIHx8IHYgPT09IHVuZGVmaW5lZCkgcmV0dXJuIHsgb2s6IHRydWUsIHRleHQ6IG51bGwgfTsKICAgICAgICByZXR1cm4geyBvazogdHJ1ZSwgdGV4dDogU3RyaW5nKHYpIH07CiAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICByZXR1cm4geyBvazogZmFsc2UsIHRleHQ6IG51bGwgfTsKICAgICAgfQogICAgfQoKICAgIGZ1bmN0aW9uIHJhd0dldChrZXkpIHsKICAgICAgY29uc3QgciA9IHJlYWRSYXcoa2V5KTsKICAgICAgcmV0dXJuIHIub2sgPyByLnRleHQgOiBudWxsOwogICAgfQoKICAgIGZ1bmN0aW9uIHJhd1NldChrZXksIHRleHQpIHsKICAgICAgaWYgKCF1c2FibGUpIHJldHVybiBmYWxzZTsKICAgICAgdHJ5IHsKICAgICAgICBiYWNrZW5kLnNldEl0ZW0oa2V5LCBTdHJpbmcodGV4dCkpOwogICAgICAgIHJldHVybiB0cnVlOwogICAgICB9IGNhdGNoIChlKSB7CiAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICB9CiAgICB9CgogICAgZnVuY3Rpb24gcmF3RGVsKGtleSkgewogICAgICBpZiAoIXVzYWJsZSkgcmV0dXJuIGZhbHNlOwogICAgICB0cnkgewogICAgICAgIGJhY2tlbmQucmVtb3ZlSXRlbShrZXkpOwogICAgICAgIHJldHVybiB0cnVlOwogICAgICB9IGNhdGNoIChlKSB7CiAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICB9CiAgICB9CgogICAgLy8g5YWI5bqP5YiX5YyW5Yiw5bGA6YOo5Y+Y6YeP77yM5oiQ5Yqf5LmL5ZCO5omN5YaZ77yb5Lit6YCU5oqb6ZSZ5pe255uY5LiK55qE5pen5YC85LiA5Liq5a2X6IqC6YO95rKh5Yqo6L+H44CCCiAgICBmdW5jdGlvbiBzZXJpYWxpemUocGF5bG9hZCkgewogICAgICB0cnkgewogICAgICAgIGNvbnN0IGJvZHkgPSBPYmplY3QuYXNzaWduKHsgX19zY2hlbWE6IFNDSEVNQSB9LCBwYXlsb2FkKTsKICAgICAgICByZXR1cm4geyBvazogdHJ1ZSwgdGV4dDogSlNPTi5zdHJpbmdpZnkoYm9keSkgfTsKICAgICAgfSBjYXRjaCAoZSkgewogICAgICAgIHJldHVybiB7IG9rOiBmYWxzZSwgdGV4dDogbnVsbCB9OwogICAgICB9CiAgICB9CgogICAgLy8g4pSA4pSAIOaaguWtmCDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKICAgIC8vIOeJiOacrOi/geenu++8mui9veiNt+W4piBfX3NjaGVtYTondjAn77yI5oiW5bmy6ISG5rKh5bim5qCH6K6w55qE5pen5b2i5oCB77yJ5pe277yM5Y+q5Zyo5YaF5a2Y6YeM6KGl5oiQCiAgICAvLyB2MSDor7vlh7rmnaXvvIzkuI3kuLvliqjlm57lhpnigJTigJTor7vmk43kvZzkuI3or6XpobrmiYvmlLnnm5jjgILnnJ/mraPnmoTljYfnuqflj5HnlJ/lnKjkuIvkuIDmrKEgc2F2ZeOAggogICAgZnVuY3Rpb24gcmVhZERyYWZ0UGF5bG9hZCgpIHsKICAgICAgLy8g5pW05Z2X5a2Y5YKo5LiN5Y+v55So5pe26K+75Lmf5LiN5Y+v5L+h77yIwqc577ya5pqC5a2Y5LiO5Y6G5Y+y5LiA6LW36ZmN57qn77yJ77yM5LiN6KOF5L2c44CM5rKh5pyJ5pWw5o2u44CNCiAgICAgIGlmICghYXZhaWxhYmxlKSByZXR1cm4geyBvazogZmFsc2UsIGNvcHk6IENPUFkuZHJhZnRSZWFkRmFpbCB9OwogICAgICBjb25zdCByID0gcmVhZFJhdyhLRVlTLmRyYWZ0KTsKICAgICAgaWYgKCFyLm9rKSByZXR1cm4geyBvazogZmFsc2UsIGNvcHk6IENPUFkuZHJhZnRSZWFkRmFpbCB9OwogICAgICBpZiAoci50ZXh0ID09PSBudWxsKSByZXR1cm4geyBvazogdHJ1ZSwgcGF5bG9hZDogbnVsbCB9OwogICAgICBsZXQgcGFyc2VkOwogICAgICB0cnkgewogICAgICAgIHBhcnNlZCA9IEpTT04ucGFyc2Uoci50ZXh0KTsKICAgICAgfSBjYXRjaCAoZSkgewogICAgICAgIHJldHVybiB7IG9rOiBmYWxzZSwgY29weTogQ09QWS5kcmFmdFJlYWRGYWlsIH07CiAgICAgIH0KICAgICAgaWYgKCFpc1BsYWluT2JqZWN0KHBhcnNlZCkpIHJldHVybiB7IG9rOiBmYWxzZSwgY29weTogQ09QWS5kcmFmdFJlYWRGYWlsIH07CiAgICAgIGNvbnN0IHZlcnNpb24gPSBwYXJzZWQuX19zY2hlbWE7CiAgICAgIGNvbnN0IHJlY29nbmlzZWQgPSB2ZXJzaW9uID09PSBTQ0hFTUEgfHwgdmVyc2lvbiA9PT0gTEVHQUNZX1NDSEVNQTsKICAgICAgY29uc3QgdW50b3VjaGVkID0gdmVyc2lvbiA9PT0gdW5kZWZpbmVkIHx8IHZlcnNpb24gPT09IG51bGw7CiAgICAgIGlmICghcmVjb2duaXNlZCAmJiAhdW50b3VjaGVkKSByZXR1cm4geyBvazogZmFsc2UsIGNvcHk6IENPUFkuZHJhZnRSZWFkRmFpbCB9OwogICAgICBpZiAoISgndmFsdWUnIGluIHBhcnNlZCkpIHJldHVybiB7IG9rOiBmYWxzZSwgY29weTogQ09QWS5kcmFmdFJlYWRGYWlsIH07CiAgICAgIHJldHVybiB7CiAgICAgICAgb2s6IHRydWUsCiAgICAgICAgcGF5bG9hZDogewogICAgICAgICAgdmFsdWU6IHBhcnNlZC52YWx1ZSA9PT0gdW5kZWZpbmVkID8gbnVsbCA6IHBhcnNlZC52YWx1ZSwKICAgICAgICAgIHNhdmVkQXQ6IHR5cGVvZiBwYXJzZWQuc2F2ZWRBdCA9PT0gJ3N0cmluZycgPyBwYXJzZWQuc2F2ZWRBdCA6IG51bGwKICAgICAgICB9LAogICAgICAgIG1pZ3JhdGVkRnJvbTogcmVjb2duaXNlZCAmJiB2ZXJzaW9uID09PSBMRUdBQ1lfU0NIRU1BID8gTEVHQUNZX1NDSEVNQQogICAgICAgICAgOiAodW50b3VjaGVkID8gTEVHQUNZX1NDSEVNQSA6IG51bGwpCiAgICAgIH07CiAgICB9CgogICAgLy8g6LWE5paZ5LiJ6aG55Y+q6L+b5a2Y5qGj5a+56LGh77yIVGFzayAxMCDnmoTnuqrlvovvvInvvJrmmoLlrZjlsYLljbPkvb/ooqvor6/kvKDkuobov5nkuInkuKrplK7vvIzkuZ/kuI3okL3nm5jjgIIKICAgIGZ1bmN0aW9uIHNhbml0aXplRHJhZnQodmFsdWUpIHsKICAgICAgaWYgKCFpc1BsYWluT2JqZWN0KHZhbHVlKSkgcmV0dXJuIHZhbHVlOwogICAgICBsZXQgdG91Y2hlZCA9IGZhbHNlOwogICAgICBjb25zdCBvdXQgPSB7fTsKICAgICAgT2JqZWN0LmtleXModmFsdWUpLmZvckVhY2goKGspID0+IHsKICAgICAgICBpZiAoUElJX0tFWVMuaW5kZXhPZihrKSA+PSAwKSB7IHRvdWNoZWQgPSB0cnVlOyByZXR1cm47IH0KICAgICAgICBvdXRba10gPSB2YWx1ZVtrXTsKICAgICAgfSk7CiAgICAgIHJldHVybiB0b3VjaGVkID8gb3V0IDogdmFsdWU7CiAgICB9CgogICAgY29uc3QgZHJhZnQgPSB7CiAgICAgIC8vIHsgb2ssIHZhbHVlLCBzYXZlZEF0LCBtaWdyYXRlZEZyb20gfe+8muepuuWtmOWCqOivu+WHuiB2YWx1ZSA9PT0gbnVsbO+8jOS4jeaKmwogICAgICBsb2FkKCkgewogICAgICAgIGNvbnN0IHIgPSByZWFkRHJhZnRQYXlsb2FkKCk7CiAgICAgICAgaWYgKCFyLm9rKSByZXR1cm4geyBvazogZmFsc2UsIGNvcHk6IHIuY29weSwgdmFsdWU6IG51bGwsIHNhdmVkQXQ6IG51bGwgfTsKICAgICAgICBpZiAoIXIucGF5bG9hZCkgcmV0dXJuIHsgb2s6IHRydWUsIHZhbHVlOiBudWxsLCBzYXZlZEF0OiBudWxsLCBtaWdyYXRlZEZyb206IG51bGwgfTsKICAgICAgICByZXR1cm4gewogICAgICAgICAgb2s6IHRydWUsCiAgICAgICAgICB2YWx1ZTogci5wYXlsb2FkLnZhbHVlLAogICAgICAgICAgc2F2ZWRBdDogci5wYXlsb2FkLnNhdmVkQXQsCiAgICAgICAgICBtaWdyYXRlZEZyb206IHIubWlncmF0ZWRGcm9tIHx8IG51bGwKICAgICAgICB9OwogICAgICB9LAogICAgICBzYXZlKHZhbHVlKSB7CiAgICAgICAgaWYgKCFhdmFpbGFibGUpIHJldHVybiB7IG9rOiBmYWxzZSwgY29weTogQ09QWS5kcmFmdFdyaXRlRmFpbCB9OwogICAgICAgIGNvbnN0IGN1ciA9IHJlYWREcmFmdFBheWxvYWQoKTsKICAgICAgICAvLyDnm5jkuIrmnInmlbDmja7kvYbor7vkuI3lh7rmnaUg4oaSIOS4jeiuuOimhuebluWug++8jOaKpeOAjOWOn+aVsOaNruW3suS/neeVmeOAjemCo+WPpe+8iMKnOSDkv53miqQgMe+8iQogICAgICAgIGlmICghY3VyLm9rKSByZXR1cm4geyBvazogZmFsc2UsIGNvcHk6IENPUFkuZHJhZnRSZWFkRmFpbCB9OwogICAgICAgIGNvbnN0IHNhdmVkQXQgPSBub3dJc28oKTsKICAgICAgICBjb25zdCBzYWZlID0gdmFsdWUgPT09IHVuZGVmaW5lZCA/IG51bGwgOiBzYW5pdGl6ZURyYWZ0KHZhbHVlKTsKICAgICAgICBjb25zdCB3cmFwcGVkID0gc2VyaWFsaXplKHsgdmFsdWU6IHNhZmUsIHNhdmVkQXQgfSk7CiAgICAgICAgaWYgKCF3cmFwcGVkLm9rKSByZXR1cm4geyBvazogZmFsc2UsIGNvcHk6IENPUFkuZHJhZnRXcml0ZUZhaWwgfTsKICAgICAgICBpZiAoIXJhd1NldChLRVlTLmRyYWZ0LCB3cmFwcGVkLnRleHQpKSByZXR1cm4geyBvazogZmFsc2UsIGNvcHk6IENPUFkuZHJhZnRXcml0ZUZhaWwgfTsKICAgICAgICByZXR1cm4geyBvazogdHJ1ZSwgc2F2ZWRBdCB9OwogICAgICB9LAogICAgICBjbGVhcigpIHsKICAgICAgICBpZiAoIWF2YWlsYWJsZSkgcmV0dXJuIHsgb2s6IGZhbHNlLCBjb3B5OiBDT1BZLmRyYWZ0Q2xlYXJGYWlsIH07CiAgICAgICAgY29uc3QgY3VyID0gcmVhZERyYWZ0UGF5bG9hZCgpOwogICAgICAgIC8vIOeJiOacrOS4jeiupOivhueahOaaguWtmOS4jeWIoO+8muWugeWPr+a4heS4jeaOie+8jOS5n+S4jemUgOavgeeci+S4jeaHgueahOWOn+aVsOaNrgogICAgICAgIGlmICghY3VyLm9rKSByZXR1cm4geyBvazogZmFsc2UsIGNvcHk6IENPUFkuZHJhZnRDbGVhckZhaWwgfTsKICAgICAgICBpZiAoIXJhd0RlbChLRVlTLmRyYWZ0KSkgcmV0dXJuIHsgb2s6IGZhbHNlLCBjb3B5OiBDT1BZLmRyYWZ0Q2xlYXJGYWlsIH07CiAgICAgICAgcmV0dXJuIHsgb2s6IHRydWUgfTsKICAgICAgfQogICAgfTsKCiAgICAvLyDilIDilIAg5a2Y5qGjIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAogICAgLy8g5Y+q5L+d55WZ5pmu6YCa5a+56LGh5p2h55uu77ya5pWw57uE6YeM5re36L+b5p2l55qEIG51bGwv5a2X56ym5LiyL+aVsOe7hOaXoua4suafk+S4jeS6hu+8jOS5n+S4jeivpeiiqwogICAgLy8g5b2T5oiQ5LiA5p2h6K6w5b2V57un57ut5a2Y5LiL5Y6744CCCiAgICBmdW5jdGlvbiBzYW5pdGl6ZVJlY29yZHMobGlzdCkgewogICAgICByZXR1cm4gbGlzdAogICAgICAgIC5maWx0ZXIoKHgpID0+IGlzUGxhaW5PYmplY3QoeCkpCiAgICAgICAgLm1hcCgoeCkgPT4gT2JqZWN0LmFzc2lnbih7fSwgeCkpOwogICAgfQoKICAgIGZ1bmN0aW9uIHJlYWRBcmNoaXZlc1BheWxvYWQoKSB7CiAgICAgIGlmICghYXZhaWxhYmxlKSByZXR1cm4geyBvazogZmFsc2UsIGNvcHk6IENPUFkuaGlzdG9yeUZhaWwgfTsKICAgICAgY29uc3QgciA9IHJlYWRSYXcoS0VZUy5hcmNoaXZlcyk7CiAgICAgIGlmICghci5vaykgcmV0dXJuIHsgb2s6IGZhbHNlLCBjb3B5OiBDT1BZLmhpc3RvcnlGYWlsIH07CiAgICAgIGlmIChyLnRleHQgPT09IG51bGwpIHJldHVybiB7IG9rOiB0cnVlLCBwYXlsb2FkOiB7IHJlY29yZHM6IFtdIH0gfTsKICAgICAgbGV0IHBhcnNlZDsKICAgICAgdHJ5IHsKICAgICAgICBwYXJzZWQgPSBKU09OLnBhcnNlKHIudGV4dCk7CiAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICByZXR1cm4geyBvazogZmFsc2UsIGNvcHk6IENPUFkuaGlzdG9yeUZhaWwgfTsKICAgICAgfQogICAgICAvLyB2MCDml6flvaLmgIHvvJrmlbTmnaHlsLHmmK/kuIDkuKroo7jmlbDnu4TvvIzmsqHmnInniYjmnKzkv6HlsIEKICAgICAgaWYgKEFycmF5LmlzQXJyYXkocGFyc2VkKSkgewogICAgICAgIHJldHVybiB7IG9rOiB0cnVlLCBwYXlsb2FkOiB7IHJlY29yZHM6IHNhbml0aXplUmVjb3JkcyhwYXJzZWQpIH0sIG1pZ3JhdGVkRnJvbTogTEVHQUNZX1NDSEVNQSB9OwogICAgICB9CiAgICAgIGlmICghaXNQbGFpbk9iamVjdChwYXJzZWQpKSByZXR1cm4geyBvazogZmFsc2UsIGNvcHk6IENPUFkuaGlzdG9yeUZhaWwgfTsKICAgICAgY29uc3QgdmVyc2lvbiA9IHBhcnNlZC5fX3NjaGVtYTsKICAgICAgaWYgKHZlcnNpb24gIT09IFNDSEVNQSAmJiB2ZXJzaW9uICE9PSBMRUdBQ1lfU0NIRU1BKSByZXR1cm4geyBvazogZmFsc2UsIGNvcHk6IENPUFkuaGlzdG9yeUZhaWwgfTsKICAgICAgaWYgKCFBcnJheS5pc0FycmF5KHBhcnNlZC5yZWNvcmRzKSkgcmV0dXJuIHsgb2s6IGZhbHNlLCBjb3B5OiBDT1BZLmhpc3RvcnlGYWlsIH07CiAgICAgIHJldHVybiB7CiAgICAgICAgb2s6IHRydWUsCiAgICAgICAgcGF5bG9hZDogeyByZWNvcmRzOiBzYW5pdGl6ZVJlY29yZHMocGFyc2VkLnJlY29yZHMpIH0sCiAgICAgICAgbWlncmF0ZWRGcm9tOiB2ZXJzaW9uID09PSBMRUdBQ1lfU0NIRU1BID8gTEVHQUNZX1NDSEVNQSA6IG51bGwKICAgICAgfTsKICAgIH0KCiAgICBmdW5jdGlvbiBzYXZlZEF0T2YocmVjKSB7CiAgICAgIGNvbnN0IHQgPSBEYXRlLnBhcnNlKHJlYyAmJiByZWMuc2F2ZWRBdCk7CiAgICAgIHJldHVybiBOdW1iZXIuaXNGaW5pdGUodCkgPyB0IDogLUluZmluaXR5OwogICAgfQoKICAgIC8vIOi2heWHuuS4iumZkOaXtuS/neeVmSBzYXZlZEF0IOacgOaWsOeahCBNQVhfQVJDSElWRVMg5p2h77yb5ZCM5LiA5q+r56eS5oyJ44CM5ZCO5YaZ5YWl55qE5LyY5YWI44CNCiAgICAvLyDvvIjmlbDnu4TpnaDlkI7ljbPlkI7lhpnvvInjgILooqvmt5jmsbDnmoTljZXni6zov5Tlm57vvIzpgb/lhY3mgoTmgoTkuKLmlbDmja7ml7bosIPnlKjmlrnkuIDml6DmiYDnn6XjgIIKICAgIGZ1bmN0aW9uIGNhcFJlY29yZHMocmVjb3JkcykgewogICAgICBpZiAocmVjb3Jkcy5sZW5ndGggPD0gTUFYX0FSQ0hJVkVTKSByZXR1cm4geyBrZXB0OiByZWNvcmRzLCBkcm9wcGVkOiBbXSB9OwogICAgICBjb25zdCByYW5rID0gcmVjb3Jkcy5tYXAoKHJlYywgaSkgPT4gKHsgaSwgdDogc2F2ZWRBdE9mKHJlYykgfSkpCiAgICAgICAgLnNvcnQoKGEsIGIpID0+IChiLnQgLSBhLnQpIHx8IChiLmkgLSBhLmkpKTsKICAgICAgY29uc3Qga2VlcCA9IG5ldyBTZXQocmFuay5zbGljZSgwLCBNQVhfQVJDSElWRVMpLm1hcCgoeCkgPT4geC5pKSk7CiAgICAgIGNvbnN0IGtlcHQgPSBbXTsKICAgICAgY29uc3QgZHJvcHBlZCA9IFtdOwogICAgICByZWNvcmRzLmZvckVhY2goKHJlYywgaSkgPT4geyAoa2VlcC5oYXMoaSkgPyBrZXB0IDogZHJvcHBlZCkucHVzaChyZWMpOyB9KTsKICAgICAgcmV0dXJuIHsga2VwdCwgZHJvcHBlZCB9OwogICAgfQoKICAgIGZ1bmN0aW9uIG5leHRJZChyZWNvcmRzKSB7CiAgICAgIGNvbnN0IHVzZWQgPSBuZXcgU2V0KHJlY29yZHMubWFwKCh4KSA9PiB4LmlkKSk7CiAgICAgIGZvciAobGV0IG4gPSAwOyBuIDwgNjQ7IG4gKz0gMSkgewogICAgICAgIGNvbnN0IGlkID0gJ3QnICsgRGF0ZS5ub3coKS50b1N0cmluZygzNikgKyBNYXRoLmZsb29yKE1hdGgucmFuZG9tKCkgKiAxMjk2KS50b1N0cmluZygzNik7CiAgICAgICAgaWYgKCF1c2VkLmhhcyhpZCkpIHJldHVybiBpZDsKICAgICAgfQogICAgICByZXR1cm4gJ3QnICsgRGF0ZS5ub3coKS50b1N0cmluZygzNikgKyAnLScgKyByZWNvcmRzLmxlbmd0aDsKICAgIH0KCiAgICBjb25zdCBhcmNoaXZlcyA9IHsKICAgICAgLy8g6L+U5Zue5pWw57uE77yIVGFzayAxMCDnm7TmjqUgbWFwL2ZpbmTvvInjgILmlbDnu4TkuIrlj6bmjIIgb2svY29wee+8muivu+WPluWksei0peaXtumhtemdogogICAgICAvLyDmmL7npLogY29weSDljp/mlofvvIzogIzkuI3mmK/miorjgIzljoblj7Lor7vlj5blpLHotKXjgI3plJnmiqXmiJDjgIzov5jmsqHmnInmnKzmnLrlrZjmoaPjgI3jgIIKICAgICAgbGlzdCgpIHsKICAgICAgICBjb25zdCByID0gcmVhZEFyY2hpdmVzUGF5bG9hZCgpOwogICAgICAgIGNvbnN0IHJlY29yZHMgPSByLm9rID8gci5wYXlsb2FkLnJlY29yZHMgOiBbXTsKICAgICAgICByZWNvcmRzLm9rID0gci5vazsKICAgICAgICByZWNvcmRzLmNvcHkgPSByLm9rID8gJycgOiByLmNvcHk7CiAgICAgICAgcmV0dXJuIHJlY29yZHM7CiAgICAgIH0sCiAgICAgIC8vIOWQjOS4gOasoeivu+eahOWujOaVtOe7k+aenO+8jOe7memcgOimgeWMuuWIhuWksei0peWOn+WboOeahOiwg+eUqOaWuQogICAgICByZWFkKCkgewogICAgICAgIGNvbnN0IHIgPSByZWFkQXJjaGl2ZXNQYXlsb2FkKCk7CiAgICAgICAgcmV0dXJuIHIub2sKICAgICAgICAgID8geyBvazogdHJ1ZSwgdmFsdWU6IHIucGF5bG9hZC5yZWNvcmRzLnNsaWNlKCkgfQogICAgICAgICAgOiB7IG9rOiBmYWxzZSwgY29weTogci5jb3B5LCB2YWx1ZTogW10gfTsKICAgICAgfSwKICAgICAgLy8gb3B0aW9ucy5yZXF1aXJlWWVhciA9PT0gZmFsc2Ug5Y+q57uZIGR1cGxpY2F0ZUFzTmV3IOeUqO+8muWkjeWItuWHuuadpeeahOiusOW9leWtpuW5tAogICAgICAvLyDlhYjnva7nqbrvvIznlLHnlKjmiLflnKjmoaPmoYjmta7lsYLph4zloavvvIzloavlrozlho0gdXBzZXJ0IOS4gOasoe+8iOatpOaXtuaJjeagoemqjOWtpuW5tO+8ieOAggogICAgICB1cHNlcnQocmVjb3JkLCBvcHRpb25zKSB7CiAgICAgICAgY29uc3QgcmVxdWlyZVllYXIgPSAhKG9wdGlvbnMgJiYgb3B0aW9ucy5yZXF1aXJlWWVhciA9PT0gZmFsc2UpOwogICAgICAgIGlmICghaXNQbGFpbk9iamVjdChyZWNvcmQpKSByZXR1cm4geyBvazogZmFsc2UsIGNvcHk6IENPUFkuc2F2ZUZhaWwgfTsKICAgICAgICBpZiAocmVxdWlyZVllYXIgJiYgIWhhc0FjYWRlbWljWWVhcihyZWNvcmQuYWNhZGVtaWNZZWFyKSkgewogICAgICAgICAgcmV0dXJuIHsgb2s6IGZhbHNlLCBjb3B5OiBDT1BZLnllYXJSZXF1aXJlZCB9OwogICAgICAgIH0KICAgICAgICBpZiAoIWF2YWlsYWJsZSkgcmV0dXJuIHsgb2s6IGZhbHNlLCBjb3B5OiBDT1BZLnNhdmVGYWlsIH07CiAgICAgICAgY29uc3QgY3VyID0gcmVhZEFyY2hpdmVzUGF5bG9hZCgpOwogICAgICAgIC8vIOivu+S4jeWHuuadpeWwseWIq+WGme+8muS7u+S9leWGmeWFpemDveetieS6juaKiueci+S4jeaHgueahOWOn+WtmOWCqOaVtOWdl+abv+aNouaOiQogICAgICAgIGlmICghY3VyLm9rKSByZXR1cm4geyBvazogZmFsc2UsIGNvcHk6IGN1ci5jb3B5IH07CiAgICAgICAgY29uc3QgcmVjb3JkcyA9IGN1ci5wYXlsb2FkLnJlY29yZHMuc2xpY2UoKTsKICAgICAgICBjb25zdCBzdG9yZWQgPSBPYmplY3QuYXNzaWduKHt9LCByZWNvcmQpOwogICAgICAgIGNvbnN0IGhhc0lkID0gdHlwZW9mIHN0b3JlZC5pZCA9PT0gJ3N0cmluZycgJiYgc3RvcmVkLmlkLnRyaW0oKSAhPT0gJyc7CiAgICAgICAgbGV0IGlkID0gaGFzSWQgPyBzdG9yZWQuaWQudHJpbSgpIDogJyc7CiAgICAgICAgbGV0IGF0ID0gaGFzSWQgPyByZWNvcmRzLmZpbmRJbmRleCgoeCkgPT4geC5pZCA9PT0gaWQpIDogLTE7CiAgICAgICAgaWYgKCFoYXNJZCkgaWQgPSBuZXh0SWQocmVjb3Jkcyk7CiAgICAgICAgc3RvcmVkLmlkID0gaWQ7CiAgICAgICAgc3RvcmVkLnNhdmVkQXQgPSBub3dJc28oKTsKICAgICAgICBpZiAoYXQgPj0gMCkgcmVjb3Jkc1thdF0gPSBzdG9yZWQ7CiAgICAgICAgZWxzZSByZWNvcmRzLnB1c2goc3RvcmVkKTsKICAgICAgICBjb25zdCBjYXBwZWQgPSBjYXBSZWNvcmRzKHJlY29yZHMpOwogICAgICAgIGNvbnN0IHdyYXBwZWQgPSBzZXJpYWxpemUoeyByZWNvcmRzOiBjYXBwZWQua2VwdCB9KTsKICAgICAgICBpZiAoIXdyYXBwZWQub2spIHJldHVybiB7IG9rOiBmYWxzZSwgY29weTogQ09QWS5zYXZlRmFpbCB9OwogICAgICAgIGlmICghcmF3U2V0KEtFWVMuYXJjaGl2ZXMsIHdyYXBwZWQudGV4dCkpIHJldHVybiB7IG9rOiBmYWxzZSwgY29weTogQ09QWS5zYXZlRmFpbCB9OwogICAgICAgIHJldHVybiB7CiAgICAgICAgICBvazogdHJ1ZSwKICAgICAgICAgIGlkLAogICAgICAgICAgcmVjb3JkOiBzdG9yZWQsCiAgICAgICAgICBkcm9wcGVkOiBjYXBwZWQuZHJvcHBlZC5tYXAoKHgpID0+IHguaWQpLmZpbHRlcihCb29sZWFuKQogICAgICAgIH07CiAgICAgIH0sCiAgICAgIHJlbW92ZShpZCkgewogICAgICAgIGlmICghYXZhaWxhYmxlKSByZXR1cm4geyBvazogZmFsc2UsIGNvcHk6IENPUFkuZGVsZXRlRmFpbCB9OwogICAgICAgIGNvbnN0IGN1ciA9IHJlYWRBcmNoaXZlc1BheWxvYWQoKTsKICAgICAgICBpZiAoIWN1ci5vaykgcmV0dXJuIHsgb2s6IGZhbHNlLCBjb3B5OiBjdXIuY29weSB9OwogICAgICAgIGNvbnN0IGJlZm9yZSA9IGN1ci5wYXlsb2FkLnJlY29yZHM7CiAgICAgICAgY29uc3QgbmV4dCA9IGJlZm9yZS5maWx0ZXIoKHgpID0+IHguaWQgIT09IGlkKTsKICAgICAgICBpZiAobmV4dC5sZW5ndGggPT09IGJlZm9yZS5sZW5ndGgpIHJldHVybiB7IG9rOiB0cnVlLCByZW1vdmVkOiBmYWxzZSB9OwogICAgICAgIC8vIOacgOWQjuS4gOadoeWIoOaOieWQjuS4jeeVmeepuuWjs+mUru+8m+atpOaXtuWIoOmZpOWKqOS9nOmAgOWMluS4uuOAjOWIoOmUruOAje+8jOWksei0peWQjOagt+aKpeWOn+aWhwogICAgICAgIGlmIChuZXh0Lmxlbmd0aCA9PT0gMCkgewogICAgICAgICAgcmV0dXJuIHJhd0RlbChLRVlTLmFyY2hpdmVzKQogICAgICAgICAgICA/IHsgb2s6IHRydWUsIHJlbW92ZWQ6IHRydWUgfQogICAgICAgICAgICA6IHsgb2s6IGZhbHNlLCBjb3B5OiBDT1BZLmRlbGV0ZUZhaWwgfTsKICAgICAgICB9CiAgICAgICAgY29uc3Qgd3JhcHBlZCA9IHNlcmlhbGl6ZSh7IHJlY29yZHM6IG5leHQgfSk7CiAgICAgICAgaWYgKCF3cmFwcGVkLm9rKSByZXR1cm4geyBvazogZmFsc2UsIGNvcHk6IENPUFkuZGVsZXRlRmFpbCB9OwogICAgICAgIHJldHVybiByYXdTZXQoS0VZUy5hcmNoaXZlcywgd3JhcHBlZC50ZXh0KQogICAgICAgICAgPyB7IG9rOiB0cnVlLCByZW1vdmVkOiB0cnVlIH0KICAgICAgICAgIDogeyBvazogZmFsc2UsIGNvcHk6IENPUFkuZGVsZXRlRmFpbCB9OwogICAgICB9LAogICAgICBkdXBsaWNhdGVBc05ldyhpZCkgewogICAgICAgIGlmICghYXZhaWxhYmxlKSByZXR1cm4geyBvazogZmFsc2UsIGNvcHk6IENPUFkuY29weUZhaWwgfTsKICAgICAgICBjb25zdCBjdXIgPSByZWFkQXJjaGl2ZXNQYXlsb2FkKCk7CiAgICAgICAgaWYgKCFjdXIub2spIHJldHVybiB7IG9rOiBmYWxzZSwgY29weTogY3VyLmNvcHkgfTsKICAgICAgICBjb25zdCBzcmMgPSBjdXIucGF5bG9hZC5yZWNvcmRzLmZpbmQoKHgpID0+IHguaWQgPT09IGlkKTsKICAgICAgICBpZiAoIXNyYykgcmV0dXJuIHsgb2s6IGZhbHNlLCBjb3B5OiBDT1BZLmNvcHlGYWlsIH07CiAgICAgICAgY29uc3QgY29weSA9IE9iamVjdC5hc3NpZ24oe30sIHNyYyk7CiAgICAgICAgZGVsZXRlIGNvcHkuaWQ7CiAgICAgICAgZGVsZXRlIGNvcHkuc2F2ZWRBdDsKICAgICAgICBjb3B5LmFjYWRlbWljWWVhciA9ICcnOwogICAgICAgIC8vIOWkjeWItuS5n+aYr+S4gOadoeS8muemu+W8gOacrOmhteeahOi3r+W+hO+8iFRhc2sgMTAg55qE44CM5aSN5Yi25Li65paw6K6h566X44CN77yJ77ya6LWE5paZ5LiJ6aG5CiAgICAgICAgLy8g5LiA5b6L5LiN5bim77yIwqc5LjEg5pyr5q6177yJ44CC5pen5a2Y5qGj5Y6f5a+56LGh5LiN5Yqo44CCCiAgICAgICAgUElJX0tFWVMuZm9yRWFjaCgoaykgPT4geyBkZWxldGUgY29weVtrXTsgfSk7CiAgICAgICAgY29uc3QgdyA9IGFyY2hpdmVzLnVwc2VydChjb3B5LCB7IHJlcXVpcmVZZWFyOiBmYWxzZSB9KTsKICAgICAgICBpZiAoIXcub2spIHJldHVybiB7IG9rOiBmYWxzZSwgY29weTogQ09QWS5jb3B5RmFpbCB9OwogICAgICAgIHJldHVybiB7IG9rOiB0cnVlLCBpZDogdy5pZCwgcmVjb3JkOiB3LnJlY29yZCB9OwogICAgICB9CiAgICB9OwoKICAgIHJldHVybiB7CiAgICAgIGF2YWlsYWJsZSwKICAgICAgZHJhZnQsCiAgICAgIGFyY2hpdmVzLAogICAgICByYXdHZXQsCiAgICAgIHJhd1NldCwKICAgICAgQ09QWSwKICAgICAgS0VZUywKICAgICAgU0NIRU1BLAogICAgICBNQVhfQVJDSElWRVMsCiAgICAgIFBJSV9LRVlTLAogICAgICBQUk9GSUxFX0tFWVMsCiAgICAgIFJFRkVSRU5DRV9OT1RFCiAgICB9OwogIH0KCiAgLy8g5a+85Ye65paH5pys77ya5Y+q5oyJ55m95ZCN5Y2V5ou86KGM77yM57ud5LiNIEpTT04uc3RyaW5naWZ5IOaVtOadoeiusOW9leKAlOKAlOmCo+agt+Wnk+WQjS/lrabpmaIv5LiT5LiaLwogIC8vIOWFpeWtpuW5tOe6py/lpIfms6jkvJrot5/nnYDot5Hlh7rljrvvvIjCpzkuMSDmnKvmrrUgKyDCpzEyIOesrCA2IOadoe+8ieOAggogIGZ1bmN0aW9uIGV4cG9ydFRleHQocmVjb3JkKSB7CiAgICBjb25zdCByZWMgPSBpc1BsYWluT2JqZWN0KHJlY29yZCkgPyByZWNvcmQgOiB7fTsKICAgIGNvbnN0IGxpbmVzID0gW107CiAgICBsaW5lcy5wdXNoKCflrablubTvvJonICsgZGFzaChyZWMuYWNhZGVtaWNZZWFyKSk7CiAgICBsaW5lcy5wdXNoKCflubTnuqfvvJonICsgZGFzaChyZWMuZ3JhZGUpKTsKICAgIGNvbnN0IGl0ZW1zID0gQXJyYXkuaXNBcnJheShyZWMuaXRlbXMpID8gcmVjLml0ZW1zIDogW107CiAgICBpdGVtcy5mb3JFYWNoKChpdCkgPT4gewogICAgICBpZiAoIWlzUGxhaW5PYmplY3QoaXQpKSByZXR1cm47CiAgICAgIGNvbnN0IGxhYmVsID0gZGFzaChpdC5sYWJlbCB8fCBpdC5uYW1lIHx8IGl0LmV2ZW50TmFtZSB8fCBpdC5ldmVudEtleSk7CiAgICAgIGNvbnN0IHJhdyA9IGRhc2goaXQucmF3RGlzcGxheSk7CiAgICAgIGNvbnN0IHNjb3JlID0gaXQuc2NvcmUgPT09IG51bGwgfHwgaXQuc2NvcmUgPT09IHVuZGVmaW5lZCB8fCBpdC5zY29yZSA9PT0gJycKICAgICAgICA/ICfigJQnIDogaXQuc2NvcmUgKyAnIOWIhic7CiAgICAgIGxpbmVzLnB1c2gobGFiZWwgKyAn77yaJyArIHJhdyArICcg4oaSICcgKyBzY29yZSk7CiAgICB9KTsKICAgIGNvbnN0IHN0YW5kYXJkU2NvcmUgPSByZWMuc3RhbmRhcmRTY29yZTsKICAgIGNvbnN0IHRvdGFsQm9udXMgPSByZWMudG90YWxCb251cyAhPT0gdW5kZWZpbmVkID8gcmVjLnRvdGFsQm9udXMgOiBudWxsOwogICAgY29uc3QgdG90YWxTY29yZSA9IHJlYy50b3RhbFNjb3JlOwogICAgY29uc3QgZ3JhZGVMYWJlbCA9IHJlYy5ncmFkZUxhYmVsIHx8ICh0eXBlb2YgcmVjLmxldmVsID09PSAnc3RyaW5nJyA/IHJlYy5sZXZlbCA6ICcnKTsKICAgIGxpbmVzLnB1c2goJ+agh+WHhuWIhu+8micgKyBudW1UZXh0KHN0YW5kYXJkU2NvcmUpKTsKICAgIGxpbmVzLnB1c2goJ+mZhOWKoOWIhu+8micgKyBudW1UZXh0KHRvdGFsQm9udXMpKTsKICAgIC8vIDEyMCDmmK/orr7orqHmlofmoaMgwqc2IGxpbWl0cy5tYXhUb3RhbFNjb3Jl77yM5Y+q5Zyo6L+Z6YeM5b2T5Y2V5L2N55SoCiAgICBsaW5lcy5wdXNoKCfmgLvliIbvvJonICsgKHRvdGFsU2NvcmUgPT09IG51bGwgfHwgdG90YWxTY29yZSA9PT0gdW5kZWZpbmVkID8gJ+KAlCcgOiB0b3RhbFNjb3JlICsgJyAvIDEyMCcpKTsKICAgIGxpbmVzLnB1c2goJ+etiee6p++8micgKyBkYXNoKGdyYWRlTGFiZWwpKTsKICAgIGxpbmVzLnB1c2goUkVGRVJFTkNFX05PVEUpOwogICAgcmV0dXJuIGxpbmVzLmpvaW4oJ1xuJyk7CiAgfQoKICByZXR1cm4gewogICAgY3JlYXRlLAogICAgZXhwb3J0VGV4dCwKICAgIENPUFksCiAgICBLRVlTLAogICAgU0NIRU1BLAogICAgTEVHQUNZX1NDSEVNQSwKICAgIE1BWF9BUkNISVZFUywKICAgIFBJSV9LRVlTLAogICAgUFJPRklMRV9LRVlTLAogICAgUkVGRVJFTkNFX05PVEUKICB9Owp9KSk7Cg==
+// 体测本机存储层：自动暂存 + 按学年存档 + 四种失败保护 + 导出脱敏。
+//
+// 这一层是纯函数层：所有读写只走 create(backend) 注入进来的那个后端对象
+// （页面传浏览器的本机存储对象，测试传内存假后端）。本文件不碰 DOM、不碰任何
+// 全局存储对象、不发任何网络请求，也不 require 别的模块，所以能直接在 node 里
+// require 跑断言。四个失败分支各自返回 { ok: false, copy }，copy 全部是设计文档
+// §9 或原程序里的原话（见 COPY 表里的出处注释），页面只负责照原样显示。
+(function (root, factory) {
+  if (typeof module !== 'undefined' && module.exports) module.exports = factory();
+  else root.TICE_STORE = factory();
+}(typeof globalThis !== 'undefined' ? globalThis : this, function () {
+  'use strict';
+
+  // 键名照设计文档 §9 原文。版本号已经写在键名里（后缀 _v1），再加前缀就等于
+  // 写了两套版本标记，改名时必然漏一个，所以按原样用。
+  const SCHEMA = 'v1';
+  const LEGACY_SCHEMA = 'v0';
+  const KEYS = {
+    draft: 'tice_draft_v1',      // 当前填写 + 时间戳
+    archives: 'tice_archives_v1' // 按学年的存档数组
+  };
+
+  // 存档条数上限。设计文档没给具体条数（只要求「防止无限增长」），这里按容量倒算：
+  // 单存档约 1–2 KB，50 条 ≈ 100 KB，远低于本机存储常见的 5 MB 配额，同时够覆盖
+  // 本科四年每学年多份记录的用法。超出时淘汰 savedAt 最旧的，写盘仍然成功，但把
+  // 被淘汰的 id 放在返回值 dropped 里，页面若想提示用户可以直接用。
+  const MAX_ARCHIVES = 50;
+
+  // 资料三项：只落本机，永不进任何导出/复制/分享文本（设计文档 §9.1 末段）。
+  // 注意区分：items[].name 是项目名（肺活量/50米…），record.name 才是姓名。
+  const PII_KEYS = ['name', 'college', 'major'];
+  // 档案编辑浮层的六个字段里除学年之外的五项（学年是存档的键，单独校验）。
+  const PROFILE_KEYS = ['name', 'college', 'major', 'enrollGrade', 'note'];
+
+  const PROBE_KEY = '__tice_probe__';
+
+  // 总分卡下方小字（设计文档 §10 原文）。
+  const REFERENCE_NOTE = '仅供参考，实际成绩以学校体测系统记录为准。';
+
+  const COPY = {
+    // §9 保护 1 原文（spec 里没有句末句号，这里也不加，测试按原文比对）
+    draftReadFail: '本地暂存读取失败或版本暂不支持，原数据已保留；当前填写暂不能覆盖它',
+    // §9 保护 2 原文
+    draftWriteFail: '自动暂存失败，当前填写仍在页面中；请勿将本机记录作为唯一凭证',
+    // §9 保护 3 原文
+    deleteFail: '删除失败，原记录已保留',
+    // §9 保护 4 原文
+    saveFail: '保存失败，原存档未被替换，请稍后重试',
+    // §3 要求「暂存读、写、清三种失败各有文案」，§9 只给了读与写两句；
+    // 清暂存的文案取原程序 pages/fitness/index 的 onRestart 原文，不另造措辞。
+    draftClearFail: '暂存清除失败，原填写已保留',
+    // 历史读取失败：§9 保护 1 只讲了暂存；历史这一支取原程序
+    // pages/fitness-history/index 的 refresh 原文（同构，且已在原程序里用过）。
+    historyFail: '历史读取失败或版本暂不支持，原存储已保留',
+    // §9.1 原文
+    yearRequired: '请填写学年',
+    // 原程序 pages/fitness-history/index 的 onCopy 原文（Task 10 用它）
+    copyFail: '复制失败，原暂存与存档已保留',
+    // §11 空态原文，页面在 available === false 时显示
+    unavailable: '本机存储不可用'
+  };
+
+  function isPlainObject(v) {
+    return !!v && typeof v === 'object' && !Array.isArray(v);
+  }
+
+  function nowIso() {
+    return new Date().toISOString();
+  }
+
+  function dash(v) {
+    if (v === null || v === undefined) return '—';
+    if (typeof v === 'string' && v.trim() === '') return '—';
+    return String(v);
+  }
+
+  function numText(v) {
+    return v === null || v === undefined || v === '' ? '—' : String(v);
+  }
+
+  function hasAcademicYear(v) {
+    if (typeof v === 'string') return v.trim() !== '';
+    return typeof v === 'number' && Number.isFinite(v);
+  }
+
+  function create(backend) {
+    const usable = !!backend
+      && typeof backend.getItem === 'function'
+      && typeof backend.setItem === 'function'
+      && typeof backend.removeItem === 'function';
+
+    // 可用性探针：写得进、读得回才算可用。整块存储不可用（隐私模式一类）时
+    // 页面只留算分，暂存与历史一起降级，并显示 COPY.unavailable。
+    let available = false;
+    if (usable) {
+      try {
+        backend.setItem(PROBE_KEY, '1');
+        available = backend.getItem(PROBE_KEY) === '1';
+      } catch (e) {
+        available = false;
+      }
+      try {
+        backend.removeItem(PROBE_KEY);
+      } catch (e) {
+        // 探针键残留一个不影响读写，不算不可用
+      }
+    }
+
+    // 读一条原始文本：区分「读失败」与「本来就没有」——两者绝不能混成一个分支，
+    // 否则读失败会被当成空存储，接着写入就把原数据覆盖了。
+    function readRaw(key) {
+      if (!usable) return { ok: false, text: null };
+      try {
+        const v = backend.getItem(key);
+        if (v === null || v === undefined) return { ok: true, text: null };
+        return { ok: true, text: String(v) };
+      } catch (e) {
+        return { ok: false, text: null };
+      }
+    }
+
+    function rawGet(key) {
+      const r = readRaw(key);
+      return r.ok ? r.text : null;
+    }
+
+    function rawSet(key, text) {
+      if (!usable) return false;
+      try {
+        backend.setItem(key, String(text));
+        return true;
+      } catch (e) {
+        return false;
+      }
+    }
+
+    function rawDel(key) {
+      if (!usable) return false;
+      try {
+        backend.removeItem(key);
+        return true;
+      } catch (e) {
+        return false;
+      }
+    }
+
+    // 先序列化到局部变量，成功之后才写；中途抛错时盘上的旧值一个字节都没动过。
+    function serialize(payload) {
+      try {
+        const body = Object.assign({ __schema: SCHEMA }, payload);
+        return { ok: true, text: JSON.stringify(body) };
+      } catch (e) {
+        return { ok: false, text: null };
+      }
+    }
+
+    // ── 暂存 ──────────────────────────────────────────────────────
+    // 版本迁移：载荷带 __schema:'v0'（或干脆没带标记的旧形态）时，只在内存里补成
+    // v1 读出来，不主动回写——读操作不该顺手改盘。真正的升级发生在下一次 save。
+    function readDraftPayload() {
+      // 整块存储不可用时读也不可信（§9：暂存与历史一起降级），不装作「没有数据」
+      if (!available) return { ok: false, copy: COPY.draftReadFail };
+      const r = readRaw(KEYS.draft);
+      if (!r.ok) return { ok: false, copy: COPY.draftReadFail };
+      if (r.text === null) return { ok: true, payload: null };
+      let parsed;
+      try {
+        parsed = JSON.parse(r.text);
+      } catch (e) {
+        return { ok: false, copy: COPY.draftReadFail };
+      }
+      if (!isPlainObject(parsed)) return { ok: false, copy: COPY.draftReadFail };
+      const version = parsed.__schema;
+      const recognised = version === SCHEMA || version === LEGACY_SCHEMA;
+      const untouched = version === undefined || version === null;
+      if (!recognised && !untouched) return { ok: false, copy: COPY.draftReadFail };
+      if (!('value' in parsed)) return { ok: false, copy: COPY.draftReadFail };
+      return {
+        ok: true,
+        payload: {
+          value: parsed.value === undefined ? null : parsed.value,
+          savedAt: typeof parsed.savedAt === 'string' ? parsed.savedAt : null
+        },
+        migratedFrom: recognised && version === LEGACY_SCHEMA ? LEGACY_SCHEMA
+          : (untouched ? LEGACY_SCHEMA : null)
+      };
+    }
+
+    // 资料三项只进存档对象（Task 10 的纪律）：暂存层即使被误传了这三个键，也不落盘。
+    function sanitizeDraft(value) {
+      if (!isPlainObject(value)) return value;
+      let touched = false;
+      const out = {};
+      Object.keys(value).forEach((k) => {
+        if (PII_KEYS.indexOf(k) >= 0) { touched = true; return; }
+        out[k] = value[k];
+      });
+      return touched ? out : value;
+    }
+
+    const draft = {
+      // { ok, value, savedAt, migratedFrom }：空存储读出 value === null，不抛
+      load() {
+        const r = readDraftPayload();
+        if (!r.ok) return { ok: false, copy: r.copy, value: null, savedAt: null };
+        if (!r.payload) return { ok: true, value: null, savedAt: null, migratedFrom: null };
+        return {
+          ok: true,
+          value: r.payload.value,
+          savedAt: r.payload.savedAt,
+          migratedFrom: r.migratedFrom || null
+        };
+      },
+      save(value) {
+        if (!available) return { ok: false, copy: COPY.draftWriteFail };
+        const cur = readDraftPayload();
+        // 盘上有数据但读不出来 → 不许覆盖它，报「原数据已保留」那句（§9 保护 1）
+        if (!cur.ok) return { ok: false, copy: COPY.draftReadFail };
+        const savedAt = nowIso();
+        const safe = value === undefined ? null : sanitizeDraft(value);
+        const wrapped = serialize({ value: safe, savedAt });
+        if (!wrapped.ok) return { ok: false, copy: COPY.draftWriteFail };
+        if (!rawSet(KEYS.draft, wrapped.text)) return { ok: false, copy: COPY.draftWriteFail };
+        return { ok: true, savedAt };
+      },
+      clear() {
+        if (!available) return { ok: false, copy: COPY.draftClearFail };
+        const cur = readDraftPayload();
+        // 版本不认识的暂存不删：宁可清不掉，也不销毁看不懂的原数据
+        if (!cur.ok) return { ok: false, copy: COPY.draftClearFail };
+        if (!rawDel(KEYS.draft)) return { ok: false, copy: COPY.draftClearFail };
+        return { ok: true };
+      }
+    };
+
+    // ── 存档 ──────────────────────────────────────────────────────
+    // 只保留普通对象条目：数组里混进来的 null/字符串/数组既渲染不了，也不该被
+    // 当成一条记录继续存下去。
+    function sanitizeRecords(list) {
+      return list
+        .filter((x) => isPlainObject(x))
+        .map((x) => Object.assign({}, x));
+    }
+
+    function readArchivesPayload() {
+      if (!available) return { ok: false, copy: COPY.historyFail };
+      const r = readRaw(KEYS.archives);
+      if (!r.ok) return { ok: false, copy: COPY.historyFail };
+      if (r.text === null) return { ok: true, payload: { records: [] } };
+      let parsed;
+      try {
+        parsed = JSON.parse(r.text);
+      } catch (e) {
+        return { ok: false, copy: COPY.historyFail };
+      }
+      // v0 旧形态：整条就是一个裸数组，没有版本信封
+      if (Array.isArray(parsed)) {
+        return { ok: true, payload: { records: sanitizeRecords(parsed) }, migratedFrom: LEGACY_SCHEMA };
+      }
+      if (!isPlainObject(parsed)) return { ok: false, copy: COPY.historyFail };
+      const version = parsed.__schema;
+      if (version !== SCHEMA && version !== LEGACY_SCHEMA) return { ok: false, copy: COPY.historyFail };
+      if (!Array.isArray(parsed.records)) return { ok: false, copy: COPY.historyFail };
+      return {
+        ok: true,
+        payload: { records: sanitizeRecords(parsed.records) },
+        migratedFrom: version === LEGACY_SCHEMA ? LEGACY_SCHEMA : null
+      };
+    }
+
+    function savedAtOf(rec) {
+      const t = Date.parse(rec && rec.savedAt);
+      return Number.isFinite(t) ? t : -Infinity;
+    }
+
+    // 超出上限时保留 savedAt 最新的 MAX_ARCHIVES 条；同一毫秒按「后写入的优先」
+    // （数组靠后即后写）。被淘汰的单独返回，避免悄悄丢数据时调用方一无所知。
+    function capRecords(records) {
+      if (records.length <= MAX_ARCHIVES) return { kept: records, dropped: [] };
+      const rank = records.map((rec, i) => ({ i, t: savedAtOf(rec) }))
+        .sort((a, b) => (b.t - a.t) || (b.i - a.i));
+      const keep = new Set(rank.slice(0, MAX_ARCHIVES).map((x) => x.i));
+      const kept = [];
+      const dropped = [];
+      records.forEach((rec, i) => { (keep.has(i) ? kept : dropped).push(rec); });
+      return { kept, dropped };
+    }
+
+    function nextId(records) {
+      const used = new Set(records.map((x) => x.id));
+      for (let n = 0; n < 64; n += 1) {
+        const id = 't' + Date.now().toString(36) + Math.floor(Math.random() * 1296).toString(36);
+        if (!used.has(id)) return id;
+      }
+      return 't' + Date.now().toString(36) + '-' + records.length;
+    }
+
+    const archives = {
+      // 返回数组（Task 10 直接 map/find）。数组上另挂 ok/copy：读取失败时页面
+      // 显示 copy 原文，而不是把「历史读取失败」错报成「还没有本机存档」。
+      list() {
+        const r = readArchivesPayload();
+        const records = r.ok ? r.payload.records : [];
+        records.ok = r.ok;
+        records.copy = r.ok ? '' : r.copy;
+        return records;
+      },
+      // 同一次读的完整结果，给需要区分失败原因的调用方
+      read() {
+        const r = readArchivesPayload();
+        return r.ok
+          ? { ok: true, value: r.payload.records.slice() }
+          : { ok: false, copy: r.copy, value: [] };
+      },
+      // options.requireYear === false 只给 duplicateAsNew 用：复制出来的记录学年
+      // 先置空，由用户在档案浮层里填，填完再 upsert 一次（此时才校验学年）。
+      upsert(record, options) {
+        const requireYear = !(options && options.requireYear === false);
+        if (!isPlainObject(record)) return { ok: false, copy: COPY.saveFail };
+        if (requireYear && !hasAcademicYear(record.academicYear)) {
+          return { ok: false, copy: COPY.yearRequired };
+        }
+        if (!available) return { ok: false, copy: COPY.saveFail };
+        const cur = readArchivesPayload();
+        // 读不出来就别写：任何写入都等于把看不懂的原存储整块替换掉
+        if (!cur.ok) return { ok: false, copy: cur.copy };
+        const records = cur.payload.records.slice();
+        const stored = Object.assign({}, record);
+        const hasId = typeof stored.id === 'string' && stored.id.trim() !== '';
+        let id = hasId ? stored.id.trim() : '';
+        let at = hasId ? records.findIndex((x) => x.id === id) : -1;
+        if (!hasId) id = nextId(records);
+        stored.id = id;
+        stored.savedAt = nowIso();
+        if (at >= 0) records[at] = stored;
+        else records.push(stored);
+        const capped = capRecords(records);
+        const wrapped = serialize({ records: capped.kept });
+        if (!wrapped.ok) return { ok: false, copy: COPY.saveFail };
+        if (!rawSet(KEYS.archives, wrapped.text)) return { ok: false, copy: COPY.saveFail };
+        return {
+          ok: true,
+          id,
+          record: stored,
+          dropped: capped.dropped.map((x) => x.id).filter(Boolean)
+        };
+      },
+      remove(id) {
+        if (!available) return { ok: false, copy: COPY.deleteFail };
+        const cur = readArchivesPayload();
+        if (!cur.ok) return { ok: false, copy: cur.copy };
+        const before = cur.payload.records;
+        const next = before.filter((x) => x.id !== id);
+        if (next.length === before.length) return { ok: true, removed: false };
+        // 最后一条删掉后不留空壳键；此时删除动作退化为「删键」，失败同样报原文
+        if (next.length === 0) {
+          return rawDel(KEYS.archives)
+            ? { ok: true, removed: true }
+            : { ok: false, copy: COPY.deleteFail };
+        }
+        const wrapped = serialize({ records: next });
+        if (!wrapped.ok) return { ok: false, copy: COPY.deleteFail };
+        return rawSet(KEYS.archives, wrapped.text)
+          ? { ok: true, removed: true }
+          : { ok: false, copy: COPY.deleteFail };
+      },
+      duplicateAsNew(id) {
+        if (!available) return { ok: false, copy: COPY.copyFail };
+        const cur = readArchivesPayload();
+        if (!cur.ok) return { ok: false, copy: cur.copy };
+        const src = cur.payload.records.find((x) => x.id === id);
+        if (!src) return { ok: false, copy: COPY.copyFail };
+        const copy = Object.assign({}, src);
+        delete copy.id;
+        delete copy.savedAt;
+        copy.academicYear = '';
+        // 复制也是一条会离开本页的路径（Task 10 的「复制为新计算」）：资料三项
+        // 一律不带（§9.1 末段）。旧存档原对象不动。
+        PII_KEYS.forEach((k) => { delete copy[k]; });
+        const w = archives.upsert(copy, { requireYear: false });
+        if (!w.ok) return { ok: false, copy: COPY.copyFail };
+        return { ok: true, id: w.id, record: w.record };
+      }
+    };
+
+    return {
+      available,
+      draft,
+      archives,
+      rawGet,
+      rawSet,
+      COPY,
+      KEYS,
+      SCHEMA,
+      MAX_ARCHIVES,
+      PII_KEYS,
+      PROFILE_KEYS,
+      REFERENCE_NOTE
+    };
+  }
+
+  // 导出文本：只按白名单拼行，绝不 JSON.stringify 整条记录——那样姓名/学院/专业/
+  // 入学年级/备注会跟着跑出去（§9.1 末段 + §12 第 6 条）。
+  function exportText(record) {
+    const rec = isPlainObject(record) ? record : {};
+    const lines = [];
+    lines.push('学年：' + dash(rec.academicYear));
+    lines.push('年级：' + dash(rec.grade));
+    const items = Array.isArray(rec.items) ? rec.items : [];
+    items.forEach((it) => {
+      if (!isPlainObject(it)) return;
+      const label = dash(it.label || it.name || it.eventName || it.eventKey);
+      const raw = dash(it.rawDisplay);
+      const score = it.score === null || it.score === undefined || it.score === ''
+        ? '—' : it.score + ' 分';
+      lines.push(label + '：' + raw + ' → ' + score);
+    });
+    const standardScore = rec.standardScore;
+    const totalBonus = rec.totalBonus !== undefined ? rec.totalBonus : null;
+    const totalScore = rec.totalScore;
+    const gradeLabel = rec.gradeLabel || (typeof rec.level === 'string' ? rec.level : '');
+    lines.push('标准分：' + numText(standardScore));
+    lines.push('附加分：' + numText(totalBonus));
+    // 120 是设计文档 §6 limits.maxTotalScore，只在这里当单位用
+    lines.push('总分：' + (totalScore === null || totalScore === undefined ? '—' : totalScore + ' / 120'));
+    lines.push('等级：' + dash(gradeLabel));
+    lines.push(REFERENCE_NOTE);
+    return lines.join('\n');
+  }
+
+  return {
+    create,
+    exportText,
+    COPY,
+    KEYS,
+    SCHEMA,
+    LEGACY_SCHEMA,
+    MAX_ARCHIVES,
+    PII_KEYS,
+    PROFILE_KEYS,
+    REFERENCE_NOTE
+  };
+}));

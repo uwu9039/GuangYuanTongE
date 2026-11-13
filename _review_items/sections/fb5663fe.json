@@ -1,1 +1,882 @@
-ew0KICJrZXkiOiAiZmI1NjYzZmUiLA0KICJ0aXRsZSI6ICLkuovkuJrljZXkvY3lm73mnInotYTkuqfnrqHnkIbmmoLooYzlip7ms5XvvIjotKLmlL/pg6jku6TnrKwgMzYg5Y+377yJIiwNCiAidHJ1bmNhdGVkIjogZmFsc2UsDQogInNlY3Rpb25zIjogWw0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIui0ouaUv+mDqOS7pOS4juWKnuazleWQjeensCIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDEsDQogICAgOQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicnVsZS1mYjU2NjNmZSIsDQogICAgInB0LTI4N2JiMWQ1ZGQiLA0KICAgICJwdC1hZTFhYjIzYjhiIg0KICAgXSwNCiAgICJjaGFycyI6IDkwDQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuIDnq6AiLA0KICAgImhlYWRpbmciOiAi5oC75YiZIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMCwNCiAgICAyNw0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogNDc3DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuIDmnaEiLA0KICAgImhlYWRpbmciOiAi5Yi25a6a55uu55qE5LiO5L6d5o2uIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMTEsDQogICAgMTQNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDEwOA0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LqM5p2hIiwNCiAgICJoZWFkaW5nIjogIumAgueUqOiMg+WbtCIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDE1LA0KICAgIDE1DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAyNw0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LiJ5p2hIiwNCiAgICJoZWFkaW5nIjogIuS6i+S4muWNleS9jeWbveaciei1hOS6p+eahOWumuS5ieS4juiMg+WbtCIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDE2LA0KICAgIDIxDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAxNzENCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWbm+adoSIsDQogICAiaGVhZGluZyI6ICLotYTkuqfnrqHnkIbnmoTkuInpobnljp/liJkiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyMiwNCiAgICAyNQ0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTI2DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkupTmnaEiLA0KICAgImhlYWRpbmciOiAi5Zu95a6257uf5LiA5omA5pyJ44CB5pS/5bqc5YiG57qn55uR566h55qE566h55CG5L2T5Yi2IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMjYsDQogICAgMjcNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDQwDQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuoznq6AiLA0KICAgImhlYWRpbmciOiAi566h55CG5py65p6E5Y+K5YW26IGM6LSjIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyOCwNCiAgICA4MA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTI4Nw0KICB9LA0KICB7DQogICAibm8iOiAi56ys5YWt5p2hIiwNCiAgICJoZWFkaW5nIjogIui0ouaUv+mDqOmXqOeahOe7vOWQiOeuoeeQhuiBjOi0oyIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDI5LA0KICAgIDQ3DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiA0OTcNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS4g+adoSIsDQogICAiaGVhZGluZyI6ICLkuLvnrqHpg6jpl6jnmoTnm5HnnaPnrqHnkIbogYzotKMiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA0OCwNCiAgICA2Mg0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMzcxDQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzlhavmnaEiLA0KICAgImhlYWRpbmciOiAi5LqL5Lia5Y2V5L2N55qE5YW35L2T566h55CG6IGM6LSjIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNjMsDQogICAgNzYNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWRkZTYyYWMzYWMiLA0KICAgICJwdC00M2Y4ODQwNTY4Ig0KICAgXSwNCiAgICJjaGFycyI6IDMxNg0KICB9LA0KICB7DQogICAibm8iOiAi56ys5Lmd5p2hIiwNCiAgICJoZWFkaW5nIjogIuaYjuehrueuoeeQhuacuuaehOWSjOS6uuWRmCIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDc3LA0KICAgIDc4DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiA1NQ0KICB9LA0KICB7DQogICAibm8iOiAi56ys5Y2B5p2hIiwNCiAgICJoZWFkaW5nIjogIumDqOWIhuW3peS9nOWPr+S6pOeUseacieWFs+WNleS9jeWujOaIkCIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDc5LA0KICAgIDgwDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAzNw0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LiJ56ugIiwNCiAgICJoZWFkaW5nIjogIui1hOS6p+mFjee9ruWPiuS9v+eUqCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgODEsDQogICAgMTMwDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAxMjU2DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzljYHkuIDmnaEiLA0KICAgImhlYWRpbmciOiAi6LWE5Lqn6YWN572u55qE5a6a5LmJIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgODIsDQogICAgODQNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDkxDQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzljYHkuozmnaEiLA0KICAgImhlYWRpbmciOiAi6LWE5Lqn6YWN572u5bqU5b2T56ym5ZCI55qE5p2h5Lu2IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgODUsDQogICAgODkNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDEwOQ0KICB9LA0KICB7DQogICAibm8iOiAi56ys5Y2B5LiJ5p2hIiwNCiAgICJoZWFkaW5nIjogIumFjee9ruagh+WHhuS4juS7juS4peaOp+WItiIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDkwLA0KICAgIDkxDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiA0OA0KICB9LA0KICB7DQogICAibm8iOiAi56ys5Y2B5Zub5p2hIiwNCiAgICJoZWFkaW5nIjogIumXsue9ruOAgeS9juaViOOAgei2heagh+i1hOS6p+eahOiwg+WJgiIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDkyLA0KICAgIDk1DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAxMDUNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWNgeS6lOadoSIsDQogICAiaGVhZGluZyI6ICLotKLmlL/mgKfotYTph5HotK3nva7op4TlrprpmZDpop3ku6XkuIrotYTkuqfnmoTmiqXmibnnqIvluo8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA5NiwNCiAgICAxMDcNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWYxZTk5NTMwNWUiLA0KICAgICJwdC1kZDc2N2FlMThiIg0KICAgXSwNCiAgICJjaGFycyI6IDMxNA0KICB9LA0KICB7DQogICAibm8iOiAi56ys5Y2B5YWt5p2hIiwNCiAgICJoZWFkaW5nIjogIumhueebrue7j+i0ueS4reeahOi1hOS6p+i0ree9riIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDEwOCwNCiAgICAxMTANCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDY4DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzljYHkuIPmnaEiLA0KICAgImhlYWRpbmciOiAi55So5YW25LuW6LWE6YeR6LSt572u55qE5a6h5om55LiO5aSH5qGIIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMTExLA0KICAgIDExMg0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogNTYNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWNgeWFq+adoSIsDQogICAiaGVhZGluZyI6ICLnurPlhaXmlL/lupzph4fotK3ojIPlm7TnmoTotYTkuqciLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMTMsDQogICAgMTE0DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiA0MA0KICB9LA0KICB7DQogICAibm8iOiAi56ys5Y2B5Lmd5p2hIiwNCiAgICJoZWFkaW5nIjogIui1hOS6p+S9v+eUqOeahOaWueW8jyIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDExNSwNCiAgICAxMTYNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDM5DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuozljYHmnaEiLA0KICAgImhlYWRpbmciOiAi5YaF6YOo566h55CG5Yi25bqm5LiO5a6e54mp6LWE5Lqn5a6a5pyf5riF5p+lIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMTE3LA0KICAgIDEyMQ0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTE2DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuozljYHkuIDmnaEiLA0KICAgImhlYWRpbmciOiAi5a+55aSW5oqV6LWE44CB5Ye656ef44CB5Ye65YCf5ZKM5ouF5L+d55qE5a6h5om5IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMTIyLA0KICAgIDEyNg0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtYWE4NDcyMTY3OSINCiAgIF0sDQogICAiY2hhcnMiOiAxNDMNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS6jOWNgeS6jOadoSIsDQogICAiaGVhZGluZyI6ICLlr7nlpJbmipXotYTnrYnooYzkuLrnmoTpo47pmanmjqfliLYiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMjcsDQogICAgMTI4DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiA1MQ0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LqM5Y2B5LiJ5p2hIiwNCiAgICJoZWFkaW5nIjogIuWvueWkluaKlei1hOaUtuebiuS4juWHuuenn+WHuuWAn+aUtuWFpee6s+WFpemihOeulyIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDEyOSwNCiAgICAxMzANCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTQxYzE1NTM5NjUiDQogICBdLA0KICAgImNoYXJzIjogNjYNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWbm+eroCIsDQogICAiaGVhZGluZyI6ICLotYTkuqflpITnva4iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDEzMSwNCiAgICAxNDkNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDQ4NQ0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LqM5Y2B5Zub5p2hIiwNCiAgICJoZWFkaW5nIjogIui1hOS6p+WkhOe9rueahOWumuS5ieS4juaWueW8jyIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDEzMiwNCiAgICAxMzQNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDg4DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuozljYHkupTmnaEiLA0KICAgImhlYWRpbmciOiAi5aSE572u6aG75bGl6KGM5a6h5om55omL57utIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMTM1LA0KICAgIDEzNg0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMzgNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS6jOWNgeWFreadoSIsDQogICAiaGVhZGluZyI6ICLlpITnva7nmoTlrqHmibnmnYPpmZAiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMzcsDQogICAgMTQxDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1mM2UwMTE4MWJjIg0KICAgXSwNCiAgICJjaGFycyI6IDE0NQ0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LqM5Y2B5LiD5p2hIiwNCiAgICJoZWFkaW5nIjogIuWkhOe9ruaJueWkjeeahOS9nOeUqCIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDE0MiwNCiAgICAxNDQNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDc3DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuozljYHlhavmnaEiLA0KICAgImhlYWRpbmciOiAi5aSE572u5Y6f5YiZ5LiO5YWs5byA5aSE572uIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMTQ1LA0KICAgIDE0Nw0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogNzgNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS6jOWNgeS5neadoSIsDQogICAiaGVhZGluZyI6ICLlpITnva7mlLblhaXnmoTmlLbmlK/kuKTmnaHnur/nrqHnkIYiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNDgsDQogICAgMTQ5DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC03YmM0ZTI1NjQ4Ig0KICAgXSwNCiAgICJjaGFycyI6IDUyDQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkupTnq6AiLA0KICAgImhlYWRpbmciOiAi5Lqn5p2D55m76K6w5LiO5Lqn5p2D57qg57q35aSE55CGIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNTAsDQogICAgMTgwDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiA3OTgNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS4ieWNgeadoSIsDQogICAiaGVhZGluZyI6ICLkuqfmnYPnmbvorrDnmoTlrprkuYkiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNTEsDQogICAgMTUzDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiA4NQ0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LiJ5Y2B5LiA5p2hIiwNCiAgICJoZWFkaW5nIjogIuS6p+adg+eZu+iusOeahOeUs+aKpeS4juaguOWPkSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDE1NCwNCiAgICAxNTYNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDk3DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuInljYHkuozmnaEiLA0KICAgImhlYWRpbmciOiAi44CK5Lqn5p2D55m76K6w6K+B44CL55qE5pWI5Yqb5LiO55So6YCUIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMTU3LA0KICAgIDE2MA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTEwDQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuInljYHkuInmnaEiLA0KICAgImhlYWRpbmciOiAi5Lqn5p2D55m76K6w55qE5YaF5a65IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMTYxLA0KICAgIDE2Ng0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTA5DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuInljYHlm5vmnaEiLA0KICAgImhlYWRpbmciOiAi5Lqn5p2D55m76K6w55qE57G75Z6L77yI5Y2g5pyJ44CB5Y+Y5pu044CB5rOo6ZSA77yJIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMTY3LA0KICAgIDE3Mg0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTQ5DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuInljYHkupTmnaEiLA0KICAgImhlYWRpbmciOiAi5Lqn5p2D55m76K6w55qE5a6a5pyf5qOA5p+lIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMTczLA0KICAgIDE3NA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogNTYNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS4ieWNgeWFreadoSIsDQogICAiaGVhZGluZyI6ICLlm73mnInljZXkvY3kuYvpl7TnmoTkuqfmnYPnuqDnurflpITnkIYiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNzUsDQogICAgMTc3DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiA4OA0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LiJ5Y2B5LiD5p2hIiwNCiAgICJoZWFkaW5nIjogIuS4jumdnuWbveacieWNleS9jeaIluS4quS6uuS5i+mXtOeahOS6p+adg+e6oOe6t+WkhOeQhiIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDE3OCwNCiAgICAxODANCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDkwDQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzlha3nq6AiLA0KICAgImhlYWRpbmciOiAi6LWE5Lqn6K+E5Lyw5LiO6LWE5Lqn5riF5p+lIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxODEsDQogICAgMjE1DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiA4MTUNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS4ieWNgeWFq+adoSIsDQogICAiaGVhZGluZyI6ICLlupTlvZPov5vooYzotYTkuqfor4TkvLDnmoTmg4XlvaIiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxODIsDQogICAgMTg5DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAxNDUNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS4ieWNgeS5neadoSIsDQogICAiaGVhZGluZyI6ICLlj6/ku6XkuI3ov5vooYzotYTkuqfor4TkvLDnmoTmg4XlvaIiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxOTAsDQogICAgMTk1DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC02NDU2MGU4NGYyIg0KICAgXSwNCiAgICJjaGFycyI6IDEzMg0KICB9LA0KICB7DQogICAibm8iOiAi56ys5Zub5Y2B5p2hIiwNCiAgICJoZWFkaW5nIjogIuivhOS8sOacuuaehOS4juWNleS9jeeahOS5ieWKoSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDE5NiwNCiAgICAxOTkNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDExMQ0KICB9LA0KICB7DQogICAibm8iOiAi56ys5Zub5Y2B5LiA5p2hIiwNCiAgICJoZWFkaW5nIjogIuivhOS8sOmhueebrueahOaguOWHhuWItuS4juWkh+ahiOWItiIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDIwMCwNCiAgICAyMDENCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWEyN2YxZjM1NDYiDQogICBdLA0KICAgImNoYXJzIjogNjENCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWbm+WNgeS6jOadoSIsDQogICAiaGVhZGluZyI6ICLlupTlvZPov5vooYzotYTkuqfmuIXmn6XnmoTmg4XlvaIiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyMDIsDQogICAgMjA5DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0zMWYyN2MyMDZjIg0KICAgXSwNCiAgICJjaGFycyI6IDE5OA0KICB9LA0KICB7DQogICAibm8iOiAi56ys5Zub5Y2B5LiJ5p2hIiwNCiAgICJoZWFkaW5nIjogIui1hOS6p+a4heafpeeahOeUs+ivt+S4juaJueWHhiIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDIxMCwNCiAgICAyMTINCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LThmYmYzOTAzZTgiDQogICBdLA0KICAgImNoYXJzIjogODMNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWbm+WNgeWbm+adoSIsDQogICAiaGVhZGluZyI6ICLotYTkuqfmuIXmn6XnmoTlhoXlrrkiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyMTMsDQogICAgMjE1DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1mZWYyZGQ2ZDNhIg0KICAgXSwNCiAgICJjaGFycyI6IDczDQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuIPnq6AiLA0KICAgImhlYWRpbmciOiAi6LWE5Lqn5L+h5oGv566h55CG5LiO5oql5ZGKIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyMTYsDQogICAgMjI2DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC05NTA1NmZlMDM0Ig0KICAgXSwNCiAgICJjaGFycyI6IDMxMw0KICB9LA0KICB7DQogICAibm8iOiAi56ys5Zub5Y2B5LqU5p2hIiwNCiAgICJoZWFkaW5nIjogIui1hOS6p+S/oeaBr+W9leWFpeS4juWKqOaAgeeuoeeQhiIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDIxNywNCiAgICAyMTkNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDc5DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzlm5vljYHlha3mnaEiLA0KICAgImhlYWRpbmciOiAi5Zu95pyJ6LWE5Lqn5L+h5oGv5oql5ZGKIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMjIwLA0KICAgIDIyMg0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNWI2ZDM1OTYyOCINCiAgIF0sDQogICAiY2hhcnMiOiA5Mg0KICB9LA0KICB7DQogICAibm8iOiAi56ys5Zub5Y2B5LiD5p2hIiwNCiAgICJoZWFkaW5nIjogIui1hOS6p+S/oeaBr+S9nOS4uumihOeul+e8luWItueahOWPguiAg+S+neaNriIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDIyMywNCiAgICAyMjYNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTY0ZTI0ZGExNTIiDQogICBdLA0KICAgImNoYXJzIjogMTMwDQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzlhavnq6AiLA0KICAgImhlYWRpbmciOiAi55uR552j5qOA5p+l5LiO5rOV5b6L6LSj5Lu7IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyMjcsDQogICAgMjQ5DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC01ZGY3MmQ4MjY2Ig0KICAgXSwNCiAgICJjaGFycyI6IDU0OQ0KICB9LA0KICB7DQogICAibm8iOiAi56ys5Zub5Y2B5YWr5p2hIiwNCiAgICJoZWFkaW5nIjogIuS+neazlee7tOaKpOi1hOS6p+WuieWFqOWujOaVtCIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDIyOCwNCiAgICAyMjkNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDU3DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzlm5vljYHkuZ3mnaEiLA0KICAgImhlYWRpbmciOiAi55uR552j566h55CG6LSj5Lu75Yi2IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMjMwLA0KICAgIDIzMg0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNWI3NjA2MjI1YyINCiAgIF0sDQogICAiY2hhcnMiOiA3MQ0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LqU5Y2B5p2hIiwNCiAgICJoZWFkaW5nIjogIuS4ieenjeebkeedo+aWueW8j+ebuOe7k+WQiCIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDIzMywNCiAgICAyMzUNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWY3MmU5YmMxOTEiDQogICBdLA0KICAgImNoYXJzIjogNzQNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS6lOWNgeS4gOadoSIsDQogICAiaGVhZGluZyI6ICLov53lj43mnKzlip7ms5XlupTlj5flpITnvZrnmoTlm5vnsbvooYzkuLoiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyMzYsDQogICAgMjQxDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1jMjY5ODQ4MzM2IiwNCiAgICAicHQtMTI1M2NiM2IyZSINCiAgIF0sDQogICAiY2hhcnMiOiAxMjcNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS6lOWNgeS6jOadoSIsDQogICAiaGVhZGluZyI6ICLkuIrnvLTmlLbnm4rmiJbkuIvmi6jotYTph5Hnjq/oioLnmoTov53op4TlpITnkIYiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyNDIsDQogICAgMjQ0DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1jOTVkNzdmNzBkIg0KICAgXSwNCiAgICJjaGFycyI6IDgyDQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkupTljYHkuInmnaEiLA0KICAgImhlYWRpbmciOiAi5Li7566h6YOo6Zeo6L+d6KeE55qE6LSj5Luk5pS55q2j5LiO6K2m5ZGKIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMjQ1LA0KICAgIDI0Nw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtYWNiMjkzOTNmYiINCiAgIF0sDQogICAiY2hhcnMiOiA3NQ0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LqU5Y2B5Zub5p2hIiwNCiAgICJoZWFkaW5nIjogIuWFtuS7lui/neinhOihjOS4uueahOWkhOeQhiIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDI0OCwNCiAgICAyNDkNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTkzMjQ2NDIzMDEiDQogICBdLA0KICAgImNoYXJzIjogNTENCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS5neeroCIsDQogICAiaGVhZGluZyI6ICLpmYTliJkiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDI1MCwNCiAgICAyNjkNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWJmMTY3ZjBmZDIiDQogICBdLA0KICAgImNoYXJzIjogNDkzDQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkupTljYHkupTmnaEiLA0KICAgImhlYWRpbmciOiAi56S+5Lya5Zui5L2T5LiO5rCR5Yqe6Z2e5LyB5Lia5Y2V5L2N55qE5Y+C54Wn5omn6KGMIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMjUxLA0KICAgIDI1Mw0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogODENCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS6lOWNgeWFreadoSIsDQogICAiaGVhZGluZyI6ICLkvIHkuJrljJbnrqHnkIbkuovkuJrljZXkvY3nmoTnm5HnnaPnrqHnkIYiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyNTQsDQogICAgMjU2DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1hMzhkZTdjZmMwIg0KICAgXSwNCiAgICJjaGFycyI6IDc3DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkupTljYHkuIPmnaEiLA0KICAgImhlYWRpbmciOiAi5Zyw5pa55LiO5Lit5aSu57qn5a6e5pa95Yqe5rOV55qE5Yi25a6a5LiO5aSH5qGIIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMjU3LA0KICAgIDI2MA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMmUwNDdkN2RlMiINCiAgIF0sDQogICAiY2hhcnMiOiA4Ng0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LqU5Y2B5YWr5p2hIiwNCiAgICJoZWFkaW5nIjogIuWig+WkluOAgeWGm+mYn+WPiuihjOS4muS6i+S4muWNleS9jeeahOWKnuazlSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDI2MSwNCiAgICAyNjUNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LThlYzlmZjVkMzMiDQogICBdLA0KICAgImNoYXJzIjogMTQ1DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkupTljYHkuZ3mnaEiLA0KICAgImhlYWRpbmciOiAi44CM6KeE5a6a6ZmQ6aKd44CN55qE56Gu5a6a5py65YWzIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMjY2LA0KICAgIDI2Nw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtYTcwZGIzYTVkZCINCiAgIF0sDQogICAiY2hhcnMiOiA0MQ0KICB9LA0KICB7DQogICAibm8iOiAi56ys5YWt5Y2B5p2hIiwNCiAgICJoZWFkaW5nIjogIuaWveihjOaXpeacn+S4juaWsOaXp+inhOWumuihlOaOpSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDI2OCwNCiAgICAyNjkNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTlkYzEwMmRhZDgiDQogICBdLA0KICAgImNoYXJzIjogNTgNCiAgfQ0KIF0sDQogIml0ZW1zIjogWw0KICAicnVsZS1mYjU2NjNmZSIsDQogICJwdC0yODdiYjFkNWRkIiwNCiAgInB0LWFlMWFiMjNiOGIiLA0KICAicHQtZGRlNjJhYzNhYyIsDQogICJwdC00M2Y4ODQwNTY4IiwNCiAgInB0LWYxZTk5NTMwNWUiLA0KICAicHQtZGQ3NjdhZTE4YiIsDQogICJwdC1hYTg0NzIxNjc5IiwNCiAgInB0LTQxYzE1NTM5NjUiLA0KICAicHQtZjNlMDExODFiYyIsDQogICJwdC03YmM0ZTI1NjQ4IiwNCiAgInB0LTY0NTYwZTg0ZjIiLA0KICAicHQtYTI3ZjFmMzU0NiIsDQogICJwdC0zMWYyN2MyMDZjIiwNCiAgInB0LThmYmYzOTAzZTgiLA0KICAicHQtZmVmMmRkNmQzYSIsDQogICJwdC05NTA1NmZlMDM0IiwNCiAgInB0LTViNmQzNTk2MjgiLA0KICAicHQtNjRlMjRkYTE1MiIsDQogICJwdC01ZGY3MmQ4MjY2IiwNCiAgInB0LTViNzYwNjIyNWMiLA0KICAicHQtZjcyZTliYzE5MSIsDQogICJwdC1jMjY5ODQ4MzM2IiwNCiAgInB0LTEyNTNjYjNiMmUiLA0KICAicHQtYzk1ZDc3ZjcwZCIsDQogICJwdC1hY2IyOTM5M2ZiIiwNCiAgInB0LTkzMjQ2NDIzMDEiLA0KICAicHQtYmYxNjdmMGZkMiIsDQogICJwdC1hMzhkZTdjZmMwIiwNCiAgInB0LTJlMDQ3ZDdkZTIiLA0KICAicHQtOGVjOWZmNWQzMyIsDQogICJwdC1hNzBkYjNhNWRkIiwNCiAgInB0LTlkYzEwMmRhZDgiDQogXSwNCiAibm90ZXMiOiBbDQogICLnu5PmnoTvvJox4oCTNyDooYzmmK/otKLmlL/pg6jku6TnrKwgMzYg5Y+355qE5YWs5biD5Luk5LiO572y5ZCN77yI6YOo6ZW/6YeR5Lq65bqG44CB5LqM44CH44CH5YWt5bm05LqU5pyI5LiJ5Y2B5pel77yM5pel5pyf5oqY5oiQ5Lik6KGM77yJ77yMOSDooYzmmK/lip7ms5XlkI3np7DvvIwxMCDooYzotbfkuLrmraPmlofvvIzlhbEgOSDnq6AgNjAg5p2h77yM5p2h5paH57yW5Y+36L+e57ut44CB5peg57y65Y+344CCIiwNCiAgIuesrCA4IOihjOWPquacieS4gOS4quWFqOinkuepuuagvO+8jOaYr+epuuihjO+8jOacquaIkOiKgu+8jOS5n+S4jeS9nOS7u+S9leiKgueahOiKgummluOAgiIsDQogICLpppboioLjgIzotKLmlL/pg6jku6TkuI7lip7ms5XlkI3np7DjgI3lj5YgMeKAkzkg6KGM77ya5p2h55uuIHB0LWFlMWFiMjNiOGIg55qE5byV5paH5LuO56ysIDUg6KGM572y5ZCN44CM6YOo44CA6ZW/44CA44CA6YeR5Lq65bqG44CN55u06YCa56ysIDkg6KGM44CM5LqL5Lia5Y2V5L2N5Zu95pyJ6LWE5Lqn566h55CG5pqC6KGM5Yqe5rOV44CN77yM5Lit6Ze05aS5552A56ysIDgg6KGM56m66KGM77yM5ouG5LiN5byA77yM5pWF5LiN5YaN5Y2V6K6+44CM6KeE5a6a5ZCN56ew44CN6IqC44CCIiwNCiAgIuWOn+aWh+S4uiBQREYg5oq95Y+W77ya5q+P5q615Lul5YWo6KeS56m65qC857yp6L+b77yM5p2h5Y+35LiO5q2j5paH5LmL6Ze05Lmf55So5YWo6KeS56m65qC877yb6KGM5LiO6KGM5LmL6Ze05piv5o6S54mI5oqY6KGM77yI5aaC56ysIDEx4oCTMTIg6KGM44CM5a6J5YWo5a6M77yP5pW044CN44CB56ysIDE44oCTMTkg6KGM44CM5Zu977yP5pyJ77yI5YWs5YWx77yJ6LSi5Lqn44CN77yJ77yM5oyJ5Y6f5paH5L+d55WZ5oqY6KGM77yM5pyq5ZCI5bm25oiQ5pW05q6144CCIiwNCiAgIueroOS4juadoeS4uuecn+W1jOWll++8mjkg56ug5YyF5L2P5omA6L6WIDYwIOadoe+8m+adoee6p+agh+mimOWFqOmDqOaYr+amguaLrO+8iOWOn+aWh+adoeWGheaXoOWwj+agh+mimO+8jOWPquacieesrOWFreiHs+WFq+adoeOAgeesrOWNgeS6jOOAgeWNgeS6lOOAgeS4ieWNgeS4ieOAgeS4ieWNgeWbm+OAgeS4ieWNgeWFq+OAgeS4ieWNgeS5neOAgeWbm+WNgeS6jOOAgeS6lOWNgeS4gOiHs+S6lOWNgeS4ieadoeW4puOAjO+8iOS4gO+8ie+8iOS6jO+8ieKApuOAjemhue+8ie+8jOmhueacquWGjeaLhuiKguOAgiIsDQogICLlvJXmlofotbfngrnokL3lnKjnq6DmoIfpopjooYznmoTmnaHnm67vvIhwdC05NTA1NmZlMDM0IOesrOS4g+eroOOAgXB0LTVkZjcyZDgyNjYg56ys5YWr56ug44CBcHQtYmYxNjdmMGZkMiDnrKzkuZ3nq6DvvInmjInlj6PlvoTlj6rliJfliLDnq6DnuqfniLboioLjgIIiLA0KICAicnVsZS1mYjU2NjNmZSDmmK/ml6DlvJXmlofnmoTmlofmoaPnuqfmnaHnm67vvIjmoIfpopjiiYjmlofmoaPlkI3vvInvvIzmjInlj6PlvoTlkIzml7bliJfov5vpobblsYIgaXRlbXMg5LiO6aaW6IqC44CM6LSi5pS/6YOo5Luk5LiO5Yqe5rOV5ZCN56ew44CN44CCIg0KIF0NCn0NCg==
+{
+ "key": "fb5663fe",
+ "title": "事业单位国有资产管理暂行办法（财政部令第 36 号）",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "财政部令与办法名称",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    9
+   ],
+   "items": [
+    "rule-fb5663fe",
+    "pt-287bb1d5dd",
+    "pt-ae1ab23b8b"
+   ],
+   "chars": 90
+  },
+  {
+   "no": "第一章",
+   "heading": "总则",
+   "heading_kind": "author",
+   "lines": [
+    10,
+    27
+   ],
+   "items": [],
+   "chars": 477
+  },
+  {
+   "no": "第一条",
+   "heading": "制定目的与依据",
+   "heading_kind": "derived",
+   "lines": [
+    11,
+    14
+   ],
+   "items": [],
+   "chars": 108
+  },
+  {
+   "no": "第二条",
+   "heading": "适用范围",
+   "heading_kind": "derived",
+   "lines": [
+    15,
+    15
+   ],
+   "items": [],
+   "chars": 27
+  },
+  {
+   "no": "第三条",
+   "heading": "事业单位国有资产的定义与范围",
+   "heading_kind": "derived",
+   "lines": [
+    16,
+    21
+   ],
+   "items": [],
+   "chars": 171
+  },
+  {
+   "no": "第四条",
+   "heading": "资产管理的三项原则",
+   "heading_kind": "derived",
+   "lines": [
+    22,
+    25
+   ],
+   "items": [],
+   "chars": 126
+  },
+  {
+   "no": "第五条",
+   "heading": "国家统一所有、政府分级监管的管理体制",
+   "heading_kind": "derived",
+   "lines": [
+    26,
+    27
+   ],
+   "items": [],
+   "chars": 40
+  },
+  {
+   "no": "第二章",
+   "heading": "管理机构及其职责",
+   "heading_kind": "author",
+   "lines": [
+    28,
+    80
+   ],
+   "items": [],
+   "chars": 1287
+  },
+  {
+   "no": "第六条",
+   "heading": "财政部门的综合管理职责",
+   "heading_kind": "derived",
+   "lines": [
+    29,
+    47
+   ],
+   "items": [],
+   "chars": 497
+  },
+  {
+   "no": "第七条",
+   "heading": "主管部门的监督管理职责",
+   "heading_kind": "derived",
+   "lines": [
+    48,
+    62
+   ],
+   "items": [],
+   "chars": 371
+  },
+  {
+   "no": "第八条",
+   "heading": "事业单位的具体管理职责",
+   "heading_kind": "derived",
+   "lines": [
+    63,
+    76
+   ],
+   "items": [
+    "pt-dde62ac3ac",
+    "pt-43f8840568"
+   ],
+   "chars": 316
+  },
+  {
+   "no": "第九条",
+   "heading": "明确管理机构和人员",
+   "heading_kind": "derived",
+   "lines": [
+    77,
+    78
+   ],
+   "items": [],
+   "chars": 55
+  },
+  {
+   "no": "第十条",
+   "heading": "部分工作可交由有关单位完成",
+   "heading_kind": "derived",
+   "lines": [
+    79,
+    80
+   ],
+   "items": [],
+   "chars": 37
+  },
+  {
+   "no": "第三章",
+   "heading": "资产配置及使用",
+   "heading_kind": "author",
+   "lines": [
+    81,
+    130
+   ],
+   "items": [],
+   "chars": 1256
+  },
+  {
+   "no": "第十一条",
+   "heading": "资产配置的定义",
+   "heading_kind": "derived",
+   "lines": [
+    82,
+    84
+   ],
+   "items": [],
+   "chars": 91
+  },
+  {
+   "no": "第十二条",
+   "heading": "资产配置应当符合的条件",
+   "heading_kind": "derived",
+   "lines": [
+    85,
+    89
+   ],
+   "items": [],
+   "chars": 109
+  },
+  {
+   "no": "第十三条",
+   "heading": "配置标准与从严控制",
+   "heading_kind": "derived",
+   "lines": [
+    90,
+    91
+   ],
+   "items": [],
+   "chars": 48
+  },
+  {
+   "no": "第十四条",
+   "heading": "闲置、低效、超标资产的调剂",
+   "heading_kind": "derived",
+   "lines": [
+    92,
+    95
+   ],
+   "items": [],
+   "chars": 105
+  },
+  {
+   "no": "第十五条",
+   "heading": "财政性资金购置规定限额以上资产的报批程序",
+   "heading_kind": "derived",
+   "lines": [
+    96,
+    107
+   ],
+   "items": [
+    "pt-f1e995305e",
+    "pt-dd767ae18b"
+   ],
+   "chars": 314
+  },
+  {
+   "no": "第十六条",
+   "heading": "项目经费中的资产购置",
+   "heading_kind": "derived",
+   "lines": [
+    108,
+    110
+   ],
+   "items": [],
+   "chars": 68
+  },
+  {
+   "no": "第十七条",
+   "heading": "用其他资金购置的审批与备案",
+   "heading_kind": "derived",
+   "lines": [
+    111,
+    112
+   ],
+   "items": [],
+   "chars": 56
+  },
+  {
+   "no": "第十八条",
+   "heading": "纳入政府采购范围的资产",
+   "heading_kind": "derived",
+   "lines": [
+    113,
+    114
+   ],
+   "items": [],
+   "chars": 40
+  },
+  {
+   "no": "第十九条",
+   "heading": "资产使用的方式",
+   "heading_kind": "derived",
+   "lines": [
+    115,
+    116
+   ],
+   "items": [],
+   "chars": 39
+  },
+  {
+   "no": "第二十条",
+   "heading": "内部管理制度与实物资产定期清查",
+   "heading_kind": "derived",
+   "lines": [
+    117,
+    121
+   ],
+   "items": [],
+   "chars": 116
+  },
+  {
+   "no": "第二十一条",
+   "heading": "对外投资、出租、出借和担保的审批",
+   "heading_kind": "derived",
+   "lines": [
+    122,
+    126
+   ],
+   "items": [
+    "pt-aa84721679"
+   ],
+   "chars": 143
+  },
+  {
+   "no": "第二十二条",
+   "heading": "对外投资等行为的风险控制",
+   "heading_kind": "derived",
+   "lines": [
+    127,
+    128
+   ],
+   "items": [],
+   "chars": 51
+  },
+  {
+   "no": "第二十三条",
+   "heading": "对外投资收益与出租出借收入纳入预算",
+   "heading_kind": "derived",
+   "lines": [
+    129,
+    130
+   ],
+   "items": [
+    "pt-41c1553965"
+   ],
+   "chars": 66
+  },
+  {
+   "no": "第四章",
+   "heading": "资产处置",
+   "heading_kind": "author",
+   "lines": [
+    131,
+    149
+   ],
+   "items": [],
+   "chars": 485
+  },
+  {
+   "no": "第二十四条",
+   "heading": "资产处置的定义与方式",
+   "heading_kind": "derived",
+   "lines": [
+    132,
+    134
+   ],
+   "items": [],
+   "chars": 88
+  },
+  {
+   "no": "第二十五条",
+   "heading": "处置须履行审批手续",
+   "heading_kind": "derived",
+   "lines": [
+    135,
+    136
+   ],
+   "items": [],
+   "chars": 38
+  },
+  {
+   "no": "第二十六条",
+   "heading": "处置的审批权限",
+   "heading_kind": "derived",
+   "lines": [
+    137,
+    141
+   ],
+   "items": [
+    "pt-f3e01181bc"
+   ],
+   "chars": 145
+  },
+  {
+   "no": "第二十七条",
+   "heading": "处置批复的作用",
+   "heading_kind": "derived",
+   "lines": [
+    142,
+    144
+   ],
+   "items": [],
+   "chars": 77
+  },
+  {
+   "no": "第二十八条",
+   "heading": "处置原则与公开处置",
+   "heading_kind": "derived",
+   "lines": [
+    145,
+    147
+   ],
+   "items": [],
+   "chars": 78
+  },
+  {
+   "no": "第二十九条",
+   "heading": "处置收入的收支两条线管理",
+   "heading_kind": "derived",
+   "lines": [
+    148,
+    149
+   ],
+   "items": [
+    "pt-7bc4e25648"
+   ],
+   "chars": 52
+  },
+  {
+   "no": "第五章",
+   "heading": "产权登记与产权纠纷处理",
+   "heading_kind": "author",
+   "lines": [
+    150,
+    180
+   ],
+   "items": [],
+   "chars": 798
+  },
+  {
+   "no": "第三十条",
+   "heading": "产权登记的定义",
+   "heading_kind": "derived",
+   "lines": [
+    151,
+    153
+   ],
+   "items": [],
+   "chars": 85
+  },
+  {
+   "no": "第三十一条",
+   "heading": "产权登记的申报与核发",
+   "heading_kind": "derived",
+   "lines": [
+    154,
+    156
+   ],
+   "items": [],
+   "chars": 97
+  },
+  {
+   "no": "第三十二条",
+   "heading": "《产权登记证》的效力与用途",
+   "heading_kind": "derived",
+   "lines": [
+    157,
+    160
+   ],
+   "items": [],
+   "chars": 110
+  },
+  {
+   "no": "第三十三条",
+   "heading": "产权登记的内容",
+   "heading_kind": "derived",
+   "lines": [
+    161,
+    166
+   ],
+   "items": [],
+   "chars": 109
+  },
+  {
+   "no": "第三十四条",
+   "heading": "产权登记的类型（占有、变更、注销）",
+   "heading_kind": "derived",
+   "lines": [
+    167,
+    172
+   ],
+   "items": [],
+   "chars": 149
+  },
+  {
+   "no": "第三十五条",
+   "heading": "产权登记的定期检查",
+   "heading_kind": "derived",
+   "lines": [
+    173,
+    174
+   ],
+   "items": [],
+   "chars": 56
+  },
+  {
+   "no": "第三十六条",
+   "heading": "国有单位之间的产权纠纷处理",
+   "heading_kind": "derived",
+   "lines": [
+    175,
+    177
+   ],
+   "items": [],
+   "chars": 88
+  },
+  {
+   "no": "第三十七条",
+   "heading": "与非国有单位或个人之间的产权纠纷处理",
+   "heading_kind": "derived",
+   "lines": [
+    178,
+    180
+   ],
+   "items": [],
+   "chars": 90
+  },
+  {
+   "no": "第六章",
+   "heading": "资产评估与资产清查",
+   "heading_kind": "author",
+   "lines": [
+    181,
+    215
+   ],
+   "items": [],
+   "chars": 815
+  },
+  {
+   "no": "第三十八条",
+   "heading": "应当进行资产评估的情形",
+   "heading_kind": "derived",
+   "lines": [
+    182,
+    189
+   ],
+   "items": [],
+   "chars": 145
+  },
+  {
+   "no": "第三十九条",
+   "heading": "可以不进行资产评估的情形",
+   "heading_kind": "derived",
+   "lines": [
+    190,
+    195
+   ],
+   "items": [
+    "pt-64560e84f2"
+   ],
+   "chars": 132
+  },
+  {
+   "no": "第四十条",
+   "heading": "评估机构与单位的义务",
+   "heading_kind": "derived",
+   "lines": [
+    196,
+    199
+   ],
+   "items": [],
+   "chars": 111
+  },
+  {
+   "no": "第四十一条",
+   "heading": "评估项目的核准制与备案制",
+   "heading_kind": "derived",
+   "lines": [
+    200,
+    201
+   ],
+   "items": [
+    "pt-a27f1f3546"
+   ],
+   "chars": 61
+  },
+  {
+   "no": "第四十二条",
+   "heading": "应当进行资产清查的情形",
+   "heading_kind": "derived",
+   "lines": [
+    202,
+    209
+   ],
+   "items": [
+    "pt-31f27c206c"
+   ],
+   "chars": 198
+  },
+  {
+   "no": "第四十三条",
+   "heading": "资产清查的申请与批准",
+   "heading_kind": "derived",
+   "lines": [
+    210,
+    212
+   ],
+   "items": [
+    "pt-8fbf3903e8"
+   ],
+   "chars": 83
+  },
+  {
+   "no": "第四十四条",
+   "heading": "资产清查的内容",
+   "heading_kind": "derived",
+   "lines": [
+    213,
+    215
+   ],
+   "items": [
+    "pt-fef2dd6d3a"
+   ],
+   "chars": 73
+  },
+  {
+   "no": "第七章",
+   "heading": "资产信息管理与报告",
+   "heading_kind": "author",
+   "lines": [
+    216,
+    226
+   ],
+   "items": [
+    "pt-95056fe034"
+   ],
+   "chars": 313
+  },
+  {
+   "no": "第四十五条",
+   "heading": "资产信息录入与动态管理",
+   "heading_kind": "derived",
+   "lines": [
+    217,
+    219
+   ],
+   "items": [],
+   "chars": 79
+  },
+  {
+   "no": "第四十六条",
+   "heading": "国有资产信息报告",
+   "heading_kind": "derived",
+   "lines": [
+    220,
+    222
+   ],
+   "items": [
+    "pt-5b6d359628"
+   ],
+   "chars": 92
+  },
+  {
+   "no": "第四十七条",
+   "heading": "资产信息作为预算编制的参考依据",
+   "heading_kind": "derived",
+   "lines": [
+    223,
+    226
+   ],
+   "items": [
+    "pt-64e24da152"
+   ],
+   "chars": 130
+  },
+  {
+   "no": "第八章",
+   "heading": "监督检查与法律责任",
+   "heading_kind": "author",
+   "lines": [
+    227,
+    249
+   ],
+   "items": [
+    "pt-5df72d8266"
+   ],
+   "chars": 549
+  },
+  {
+   "no": "第四十八条",
+   "heading": "依法维护资产安全完整",
+   "heading_kind": "derived",
+   "lines": [
+    228,
+    229
+   ],
+   "items": [],
+   "chars": 57
+  },
+  {
+   "no": "第四十九条",
+   "heading": "监督管理责任制",
+   "heading_kind": "derived",
+   "lines": [
+    230,
+    232
+   ],
+   "items": [
+    "pt-5b7606225c"
+   ],
+   "chars": 71
+  },
+  {
+   "no": "第五十条",
+   "heading": "三种监督方式相结合",
+   "heading_kind": "derived",
+   "lines": [
+    233,
+    235
+   ],
+   "items": [
+    "pt-f72e9bc191"
+   ],
+   "chars": 74
+  },
+  {
+   "no": "第五十一条",
+   "heading": "违反本办法应受处罚的四类行为",
+   "heading_kind": "derived",
+   "lines": [
+    236,
+    241
+   ],
+   "items": [
+    "pt-c269848336",
+    "pt-1253cb3b2e"
+   ],
+   "chars": 127
+  },
+  {
+   "no": "第五十二条",
+   "heading": "上缴收益或下拨资金环节的违规处理",
+   "heading_kind": "derived",
+   "lines": [
+    242,
+    244
+   ],
+   "items": [
+    "pt-c95d77f70d"
+   ],
+   "chars": 82
+  },
+  {
+   "no": "第五十三条",
+   "heading": "主管部门违规的责令改正与警告",
+   "heading_kind": "derived",
+   "lines": [
+    245,
+    247
+   ],
+   "items": [
+    "pt-acb29393fb"
+   ],
+   "chars": 75
+  },
+  {
+   "no": "第五十四条",
+   "heading": "其他违规行为的处理",
+   "heading_kind": "derived",
+   "lines": [
+    248,
+    249
+   ],
+   "items": [
+    "pt-9324642301"
+   ],
+   "chars": 51
+  },
+  {
+   "no": "第九章",
+   "heading": "附则",
+   "heading_kind": "author",
+   "lines": [
+    250,
+    269
+   ],
+   "items": [
+    "pt-bf167f0fd2"
+   ],
+   "chars": 493
+  },
+  {
+   "no": "第五十五条",
+   "heading": "社会团体与民办非企业单位的参照执行",
+   "heading_kind": "derived",
+   "lines": [
+    251,
+    253
+   ],
+   "items": [],
+   "chars": 81
+  },
+  {
+   "no": "第五十六条",
+   "heading": "企业化管理事业单位的监督管理",
+   "heading_kind": "derived",
+   "lines": [
+    254,
+    256
+   ],
+   "items": [
+    "pt-a38de7cfc0"
+   ],
+   "chars": 77
+  },
+  {
+   "no": "第五十七条",
+   "heading": "地方与中央级实施办法的制定与备案",
+   "heading_kind": "derived",
+   "lines": [
+    257,
+    260
+   ],
+   "items": [
+    "pt-2e047d7de2"
+   ],
+   "chars": 86
+  },
+  {
+   "no": "第五十八条",
+   "heading": "境外、军队及行业事业单位的办法",
+   "heading_kind": "derived",
+   "lines": [
+    261,
+    265
+   ],
+   "items": [
+    "pt-8ec9ff5d33"
+   ],
+   "chars": 145
+  },
+  {
+   "no": "第五十九条",
+   "heading": "「规定限额」的确定机关",
+   "heading_kind": "derived",
+   "lines": [
+    266,
+    267
+   ],
+   "items": [
+    "pt-a70db3a5dd"
+   ],
+   "chars": 41
+  },
+  {
+   "no": "第六十条",
+   "heading": "施行日期与新旧规定衔接",
+   "heading_kind": "derived",
+   "lines": [
+    268,
+    269
+   ],
+   "items": [
+    "pt-9dc102dad8"
+   ],
+   "chars": 58
+  }
+ ],
+ "items": [
+  "rule-fb5663fe",
+  "pt-287bb1d5dd",
+  "pt-ae1ab23b8b",
+  "pt-dde62ac3ac",
+  "pt-43f8840568",
+  "pt-f1e995305e",
+  "pt-dd767ae18b",
+  "pt-aa84721679",
+  "pt-41c1553965",
+  "pt-f3e01181bc",
+  "pt-7bc4e25648",
+  "pt-64560e84f2",
+  "pt-a27f1f3546",
+  "pt-31f27c206c",
+  "pt-8fbf3903e8",
+  "pt-fef2dd6d3a",
+  "pt-95056fe034",
+  "pt-5b6d359628",
+  "pt-64e24da152",
+  "pt-5df72d8266",
+  "pt-5b7606225c",
+  "pt-f72e9bc191",
+  "pt-c269848336",
+  "pt-1253cb3b2e",
+  "pt-c95d77f70d",
+  "pt-acb29393fb",
+  "pt-9324642301",
+  "pt-bf167f0fd2",
+  "pt-a38de7cfc0",
+  "pt-2e047d7de2",
+  "pt-8ec9ff5d33",
+  "pt-a70db3a5dd",
+  "pt-9dc102dad8"
+ ],
+ "notes": [
+  "结构：1–7 行是财政部令第 36 号的公布令与署名（部长金人庆、二〇〇六年五月三十日，日期折成两行），9 行是办法名称，10 行起为正文，共 9 章 60 条，条文编号连续、无缺号。",
+  "第 8 行只有一个全角空格，是空行，未成节，也不作任何节的节首。",
+  "首节「财政部令与办法名称」取 1–9 行：条目 pt-ae1ab23b8b 的引文从第 5 行署名「部　长　　金人庆」直通第 9 行「事业单位国有资产管理暂行办法」，中间夹着第 8 行空行，拆不开，故不再单设「规定名称」节。",
+  "原文为 PDF 抽取：每段以全角空格缩进，条号与正文之间也用全角空格；行与行之间是排版折行（如第 11–12 行「安全完／整」、第 18–19 行「国／有（公共）财产」），按原文保留折行，未合并成整段。",
+  "章与条为真嵌套：9 章包住所辖 60 条；条级标题全部是概括（原文条内无小标题，只有第六至八条、第十二、十五、三十三、三十四、三十八、三十九、四十二、五十一至五十三条带「（一）（二）…」项），项未再拆节。",
+  "引文起点落在章标题行的条目（pt-95056fe034 第七章、pt-5df72d8266 第八章、pt-bf167f0fd2 第九章）按口径只列到章级父节。",
+  "rule-fb5663fe 是无引文的文档级条目（标题≈文档名），按口径同时列进顶层 items 与首节「财政部令与办法名称」。"
+ ]
+}

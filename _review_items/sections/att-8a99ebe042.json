@@ -1,1 +1,190 @@
-ew0KICJrZXkiOiAiYXR0LThhOTllYmUwNDIiLA0KICJ0aXRsZSI6ICLkuK3lm73kvKDlqpLlpKflrabmlZnlrabmiJDmnpzlpZbor4TlrqHlj4rlpZblirHlip7ms5XvvIjkv67orqLvvInvvIjkuK3kvKDmlZnlrZfjgJQyMDEz44CVMzcg5Y+377yJIiwNCiAidHJ1bmNhdGVkIjogZmFsc2UsDQogInNlY3Rpb25zIjogWw0KICB7DQogICAibm8iOiAi5qCH6aKYIiwNCiAgICJoZWFkaW5nIjogIuagh+mimOS4juaWh+WPtyIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDEsDQogICAgMw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMTA1NjEyNTA5OCINCiAgIF0sDQogICAiY2hhcnMiOiA4NQ0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuaAu+WImSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNSwNCiAgICA4DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0wMDA5MDViN2FkIg0KICAgXSwNCiAgICJjaGFycyI6IDE2Ng0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuebrueahCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTAsDQogICAgMTINCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTBmZGM4MTUxNDkiDQogICBdLA0KICAgImNoYXJzIjogMTQ4DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi6IyD5Zu0IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNCwNCiAgICAyNQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNzU0NzEzZjRjYiIsDQogICAgInB0LWI3MjVmZDRjYzgiLA0KICAgICJwdC1iYjhkNjZjNDgxIiwNCiAgICAicHQtZGYzMmE4NDI0MCINCiAgIF0sDQogICAiY2hhcnMiOiA0MTUNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLmnaHku7YiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDI3LA0KICAgIDM5DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC04ZThhNjI3YjU3IiwNCiAgICAicHQtMjE4MmIwMTY2MiIsDQogICAgInB0LTAzNjk5NjhkNGQiLA0KICAgICJwdC05MTVhY2ZjNWRhIiwNCiAgICAicHQtNjViNjI1MTBiYSINCiAgIF0sDQogICAiY2hhcnMiOiA0NzINCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLnlLPmiqUiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDQxLA0KICAgIDQ3DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0xZGJiMDE0NGQ1IiwNCiAgICAicHQtMGVkZmFiMmExYSINCiAgIF0sDQogICAiY2hhcnMiOiAyNzYNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLor4TlrqEiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDQ5LA0KICAgIDY0DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC05NDc0NjI2YjUyIiwNCiAgICAicHQtNmZlN2JlZWQ0YSIsDQogICAgInB0LTZlM2U4MjQ2M2QiLA0KICAgICJwdC02MDJiNzg1MmVkIiwNCiAgICAicHQtYzQ4ZjExOWRmNiIsDQogICAgInB0LTJkNzE5NDUwNWQiLA0KICAgICJwdC1hYmU0YzY2MWM4IiwNCiAgICAicHQtOTUxNTZjODRlOCIsDQogICAgInB0LWE3NzI0NWE2NTAiDQogICBdLA0KICAgImNoYXJzIjogNTcyDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5aWW5YqxIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA2NiwNCiAgICA4NQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMzI0MTZmNTMxOSIsDQogICAgInB0LWEwZjFhZWQ1ZTUiLA0KICAgICJwdC1kYzdhNzA3ZTViIiwNCiAgICAicHQtMjc5NzE1NTE0MCIsDQogICAgInB0LThiMzA1NWRlMzIiLA0KICAgICJwdC0xZjAyN2QxOTM2Ig0KICAgXSwNCiAgICJjaGFycyI6IDU2NA0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIumZhOWImSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgODcsDQogICAgOTINCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTI4ZjcwMTMwZTgiLA0KICAgICJwdC1mM2ZjZTAyNDk1IiwNCiAgICAicHQtYjg2MmYxMDdhYyIsDQogICAgInB0LWMyZThlODA1OWEiDQogICBdLA0KICAgImNoYXJzIjogMjI0DQogIH0NCiBdLA0KICJpdGVtcyI6IFsNCiAgInB0LTEwNTYxMjUwOTgiLA0KICAicHQtMDAwOTA1YjdhZCIsDQogICJwdC0wZmRjODE1MTQ5IiwNCiAgInB0LTc1NDcxM2Y0Y2IiLA0KICAicHQtYjcyNWZkNGNjOCIsDQogICJwdC1iYjhkNjZjNDgxIiwNCiAgInB0LWRmMzJhODQyNDAiLA0KICAicHQtOGU4YTYyN2I1NyIsDQogICJwdC0yMTgyYjAxNjYyIiwNCiAgInB0LTAzNjk5NjhkNGQiLA0KICAicHQtOTE1YWNmYzVkYSIsDQogICJwdC02NWI2MjUxMGJhIiwNCiAgInB0LTFkYmIwMTQ0ZDUiLA0KICAicHQtMGVkZmFiMmExYSIsDQogICJwdC05NDc0NjI2YjUyIiwNCiAgInB0LTZmZTdiZWVkNGEiLA0KICAicHQtNmUzZTgyNDYzZCIsDQogICJwdC02MDJiNzg1MmVkIiwNCiAgInB0LWM0OGYxMTlkZjYiLA0KICAicHQtMmQ3MTk0NTA1ZCIsDQogICJwdC1hYmU0YzY2MWM4IiwNCiAgInB0LTk1MTU2Yzg0ZTgiLA0KICAicHQtYTc3MjQ1YTY1MCIsDQogICJwdC0zMjQxNmY1MzE5IiwNCiAgInB0LWEwZjFhZWQ1ZTUiLA0KICAicHQtZGM3YTcwN2U1YiIsDQogICJwdC0yNzk3MTU1MTQwIiwNCiAgInB0LThiMzA1NWRlMzIiLA0KICAicHQtMWYwMjdkMTkzNiIsDQogICJwdC0yOGY3MDEzMGU4IiwNCiAgInB0LWYzZmNlMDI0OTUiLA0KICAicHQtYjg2MmYxMDdhYyIsDQogICJwdC1jMmU4ZTgwNTlhIg0KIF0sDQogIm5vdGVzIjogWw0KICAi5Y6f5paH55qE5bCP5qCH6aKY5LiN5bim56ug5Y+377yM5ZCE5Y2g5LiA6KGM5bGF5Lit77ya5oC75YiZ77yI56ysIDUg6KGM77yJ44CB55uu55qE77yIMTDvvInjgIHojIPlm7TvvIgxNO+8ieOAgeadoeS7tu+8iDI377yJ44CB55Sz5oql77yINDHvvInjgIHor4TlrqHvvIg0Oe+8ieOAgeWlluWKse+8iDY277yJ44CB6ZmE5YiZ77yIODfvvInvvJvlhajpg6jpgJDlrZflj5boh6rljp/mlofmoIcgYXV0aG9y44CC5Zug5peg56ug5Y+377yMYG5vYCDorrDjgIzigJTjgI3vvIjkuI3miorjgIzmgLvliJnjgI3ph43lpI3ov5sgbm/vvIzpgb/lhY0gaGVhZGluZyDnrYnkuo4gbm/vvInjgIIiLA0KICAiUERGIOmhteeggeiiq+aKveaIkOeLrOeri+ihjOS4lOaPkuWFpeato+aWh++8muesrCAzNSDooYzjgIw4MjDjgI3jgIE2OeOAjDgyMeOAjeOAgTk044CMODIy44CN44CC5YW25LitIDM1IOihjOiQveWcqOOAjOadoeS7tuOAjeiKguWGhe+8iOesrOS6lOadoeS4juesrOWFreadoeS5i+mXtO+8ieOAgTY5IOihjOiQveWcqOOAjOWlluWKseOAjeiKguWGhe+8iOesrOWNgeWbm+adoeiiq+mhteeggeWIh+aIkOS4pOaute+8mjY34oCTNjgg6KGM5LiOIDcwIOihjO+8ie+8jOaMieiKgummluWIpOaNruS4jeWNleeLrOaIkOiKgu+8jOaIkOS4uuiKguWGheihjO+8mzk0IOihjOaYr+mhteWwvumhteegge+8jOacquimhuebluOAgiIsDQogICLmnaEgNjfigJM2OCDooYznmoTmlq3lj6XmmK/pobXnoIHmj5LooYzpgKDmiJDnmoTvvJrjgIzigKbmr4/kuKTlubTor4TlrqHkuIDmrKHjgILlrabmoKHjgI3vvI/vvIg4MjHvvInvvI/jgIzlsIbmi6nkvJjmjqjojZDlj4LliqDlm73lrrbjgIHnnIHpg6jnuqfmlZnlrabmiJDmnpzlpZbnmoTor4TpgInjgILjgI0iLA0KICAi56ysIDE14oCTMjUg6KGM44CM6IyD5Zu044CN5ZCr56ys5LiJ5p2h5LiO56ys5Zub5p2h77yIMS7igJMzLiDkuInnsbvmiJDmnpzvvInvvJvnrKwgNzHigJM4NSDooYzjgIzlpZblirHjgI3lkKvnrKzljYHkupTmnaHlj4rlhbYgMS7igJMzLiDkuInmoaPmoIflh4bjgIHnrKzljYHlha3mnaHkuI7nrKzljYHkuIPmnaHvvIjlpZbph5EgMTAwMDDvvI84MDAw77yPNTAwMCDlhYPvvInjgIIiLA0KICAi56ysIDHigJMzIOihjOS4uuagh+mimOS4juaWh+WPt++8iOS4reS8oOaVmeWtl+OAlDIwMTPjgJUzNyDlj7fvvIzmloflj7fooYzliY3mnInlpKfmrrXnvKnov5vnqbrnmb3vvInjgIIiDQogXQ0KfQ==
+{
+ "key": "att-8a99ebe042",
+ "title": "中国传媒大学教学成果奖评审及奖励办法（修订）（中传教字〔2013〕37 号）",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "标题",
+   "heading": "标题与文号",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    3
+   ],
+   "items": [
+    "pt-1056125098"
+   ],
+   "chars": 85
+  },
+  {
+   "no": "—",
+   "heading": "总则",
+   "heading_kind": "author",
+   "lines": [
+    5,
+    8
+   ],
+   "items": [
+    "pt-000905b7ad"
+   ],
+   "chars": 166
+  },
+  {
+   "no": "—",
+   "heading": "目的",
+   "heading_kind": "author",
+   "lines": [
+    10,
+    12
+   ],
+   "items": [
+    "pt-0fdc815149"
+   ],
+   "chars": 148
+  },
+  {
+   "no": "—",
+   "heading": "范围",
+   "heading_kind": "author",
+   "lines": [
+    14,
+    25
+   ],
+   "items": [
+    "pt-754713f4cb",
+    "pt-b725fd4cc8",
+    "pt-bb8d66c481",
+    "pt-df32a84240"
+   ],
+   "chars": 415
+  },
+  {
+   "no": "—",
+   "heading": "条件",
+   "heading_kind": "author",
+   "lines": [
+    27,
+    39
+   ],
+   "items": [
+    "pt-8e8a627b57",
+    "pt-2182b01662",
+    "pt-0369968d4d",
+    "pt-915acfc5da",
+    "pt-65b62510ba"
+   ],
+   "chars": 472
+  },
+  {
+   "no": "—",
+   "heading": "申报",
+   "heading_kind": "author",
+   "lines": [
+    41,
+    47
+   ],
+   "items": [
+    "pt-1dbb0144d5",
+    "pt-0edfab2a1a"
+   ],
+   "chars": 276
+  },
+  {
+   "no": "—",
+   "heading": "评审",
+   "heading_kind": "author",
+   "lines": [
+    49,
+    64
+   ],
+   "items": [
+    "pt-9474626b52",
+    "pt-6fe7beed4a",
+    "pt-6e3e82463d",
+    "pt-602b7852ed",
+    "pt-c48f119df6",
+    "pt-2d7194505d",
+    "pt-abe4c661c8",
+    "pt-95156c84e8",
+    "pt-a77245a650"
+   ],
+   "chars": 572
+  },
+  {
+   "no": "—",
+   "heading": "奖励",
+   "heading_kind": "author",
+   "lines": [
+    66,
+    85
+   ],
+   "items": [
+    "pt-32416f5319",
+    "pt-a0f1aed5e5",
+    "pt-dc7a707e5b",
+    "pt-2797155140",
+    "pt-8b3055de32",
+    "pt-1f027d1936"
+   ],
+   "chars": 564
+  },
+  {
+   "no": "—",
+   "heading": "附则",
+   "heading_kind": "author",
+   "lines": [
+    87,
+    92
+   ],
+   "items": [
+    "pt-28f70130e8",
+    "pt-f3fce02495",
+    "pt-b862f107ac",
+    "pt-c2e8e8059a"
+   ],
+   "chars": 224
+  }
+ ],
+ "items": [
+  "pt-1056125098",
+  "pt-000905b7ad",
+  "pt-0fdc815149",
+  "pt-754713f4cb",
+  "pt-b725fd4cc8",
+  "pt-bb8d66c481",
+  "pt-df32a84240",
+  "pt-8e8a627b57",
+  "pt-2182b01662",
+  "pt-0369968d4d",
+  "pt-915acfc5da",
+  "pt-65b62510ba",
+  "pt-1dbb0144d5",
+  "pt-0edfab2a1a",
+  "pt-9474626b52",
+  "pt-6fe7beed4a",
+  "pt-6e3e82463d",
+  "pt-602b7852ed",
+  "pt-c48f119df6",
+  "pt-2d7194505d",
+  "pt-abe4c661c8",
+  "pt-95156c84e8",
+  "pt-a77245a650",
+  "pt-32416f5319",
+  "pt-a0f1aed5e5",
+  "pt-dc7a707e5b",
+  "pt-2797155140",
+  "pt-8b3055de32",
+  "pt-1f027d1936",
+  "pt-28f70130e8",
+  "pt-f3fce02495",
+  "pt-b862f107ac",
+  "pt-c2e8e8059a"
+ ],
+ "notes": [
+  "原文的小标题不带章号，各占一行居中：总则（第 5 行）、目的（10）、范围（14）、条件（27）、申报（41）、评审（49）、奖励（66）、附则（87）；全部逐字取自原文标 author。因无章号，`no` 记「—」（不把「总则」重复进 no，避免 heading 等于 no）。",
+  "PDF 页码被抽成独立行且插入正文：第 35 行「820」、69「821」、94「822」。其中 35 行落在「条件」节内（第五条与第六条之间）、69 行落在「奖励」节内（第十四条被页码切成两段：67–68 行与 70 行），按节首判据不单独成节，成为节内行；94 行是页尾页码，未覆盖。",
+  "条 67–68 行的断句是页码插行造成的：「…每两年评审一次。学校」／（821）／「将择优推荐参加国家、省部级教学成果奖的评选。」",
+  "第 15–25 行「范围」含第三条与第四条（1.–3. 三类成果）；第 71–85 行「奖励」含第十五条及其 1.–3. 三档标准、第十六条与第十七条（奖金 10000／8000／5000 元）。",
+  "第 1–3 行为标题与文号（中传教字〔2013〕37 号，文号行前有大段缩进空白）。"
+ ]
+}

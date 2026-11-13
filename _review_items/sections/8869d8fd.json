@@ -1,1 +1,187 @@
-ew0KICJrZXkiOiAiODg2OWQ4ZmQiLA0KICJ0aXRsZSI6ICLkuK3kvKDnp5HnoJTlrZfjgJQyMDIz44CVMjQ1IOWPtyDkuK3lm73kvKDlqpLlpKflrabnp5HnoJTmnLrmnoTnrqHnkIbop4TlrprvvIjkv67orqLvvIkiLA0KICJ0cnVuY2F0ZWQiOiBmYWxzZSwNCiAic2VjdGlvbnMiOiBbDQogIHsNCiAgICJubyI6ICLpgJrnn6UiLA0KICAgImhlYWRpbmciOiAi5paH5aS05LiO5Y2w5Y+R6YCa55+lIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMSwNCiAgICAxMw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAid2QtODg2OWQ4ZmQiDQogICBdLA0KICAgImNoYXJzIjogMTkwDQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuIDnq6AiLA0KICAgImhlYWRpbmciOiAi5oC75YiZIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNCwNCiAgICAyNQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAid2QtODg2OWQ4ZmQiDQogICBdLA0KICAgImNoYXJzIjogMjUyDQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuoznq6AiLA0KICAgImhlYWRpbmciOiAi5YiG57G7IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyNiwNCiAgICA3MQ0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTAzMg0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LiJ56ugIiwNCiAgICJoZWFkaW5nIjogIuS9k+WItueuoeeQhiIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNzIsDQogICAgODQNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDMwNw0KICB9LA0KICB7DQogICAibm8iOiAi56ys5Zub56ugIiwNCiAgICJoZWFkaW5nIjogIuiuvueri+S4juiwg+aVtCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgODUsDQogICAgMTYyDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAxODc2DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkupTnq6AiLA0KICAgImhlYWRpbmciOiAi6ICD5qC4IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNjMsDQogICAgMjU4DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAyMTU3DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzlha3nq6AiLA0KICAgImhlYWRpbmciOiAi6LSf6LSj5Lq6566h55CGIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyNTksDQogICAgMzA3DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiA5OTgNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS4g+eroCIsDQogICAiaGVhZGluZyI6ICLljbDnq6DnrqHnkIYiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDMwOCwNCiAgICAzMjENCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDI3NA0KICB9LA0KICB7DQogICAibm8iOiAi56ys5YWr56ugIiwNCiAgICJoZWFkaW5nIjogIuebkeedo+euoeeQhiIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMzIyLA0KICAgIDM4Ng0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTQ1OQ0KICB9LA0KICB7DQogICAibm8iOiAi56ys5Lmd56ugIiwNCiAgICJoZWFkaW5nIjogIumZhOWImSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMzg3LA0KICAgIDQwMg0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMzYzDQogIH0sDQogIHsNCiAgICJubyI6ICLpmYTku7YxIiwNCiAgICJoZWFkaW5nIjogIuenkeeglOacuuaehOiuvueri+eUs+ivt+aKpeWRiiIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNDAzLA0KICAgIDQzMQ0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogNDI0DQogIH0sDQogIHsNCiAgICJubyI6ICLpmYTku7YyIiwNCiAgICJoZWFkaW5nIjogIuiZmuS9k+enkeeglOacuuaehOaLn+S7u+i0n+i0o+S6uuaJv+ivuuS5piIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNDMyLA0KICAgIDQ1Ng0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogNTYwDQogIH0sDQogIHsNCiAgICJubyI6ICLpmYTku7YzIiwNCiAgICJoZWFkaW5nIjogIuenkeeglOacuuaehOiwg+aVtOeUs+ivt+ihqCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNDU3LA0KICAgIDQ3Ng0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTcxDQogIH0sDQogIHsNCiAgICJubyI6ICLpmYTku7Y0IiwNCiAgICJoZWFkaW5nIjogIuenkeeglOacuuaehOiuvue9ruWIhuaUr+acuuaehOeUs+ivt+ihqCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNDc3LA0KICAgIDQ5Mw0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTUxDQogIH0sDQogIHsNCiAgICJubyI6ICLniYjorrAiLA0KICAgImhlYWRpbmciOiAi5Y2w5Y+R54mI6K6wIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNDk0LA0KICAgIDQ5NA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMjYNCiAgfQ0KIF0sDQogIml0ZW1zIjogWw0KICAid2QtODg2OWQ4ZmQiDQogXSwNCiAibm90ZXMiOiBbDQogICLmraPmlofkuZ3nq6DvvIjnrKzkuIDnq6DigJPnrKzkuZ3nq6DvvInnvJblj7fov57nu63vvIzml6Dph43lpI3jgIHml6DnvLrnq6DvvJvnrKwgMTMg6KGM5Li66KeE5a6a5qCH6aKY6KGM77yM5LiOIDHigJMxMiDooYznmoTljbDlj5HpgJrnn6XlkIjlubbkuLrjgIzmloflpLTkuI7ljbDlj5HpgJrnn6XjgI3kuIDoioLjgIIiLA0KICAi56ys5Y2B5LqU5p2h77yIODXigJMxNjIg6KGM5YaF77yJ55qE5YiG6aG555So5Y2K6KeS5ous5Y+344CMKOS4gCko5LqMKSjkuIkp44CN5bm25bWM5aWX44CMMS4vMi4vKDEpKDIp44CN77yM5YW25L2Z5p2h5paH55So5YWo6KeS44CM77yI5LiA77yJ44CN77yb5Y6f5paH5L2T5L6L5LiN57uf5LiA77yM5oyJ5Y6f5paH5L+d55WZ77yM5pyq5b2x5ZON6IqC6L6555WM44CCIiwNCiAgIuesrOS6lOeroOOAjOiAg+aguOOAjeWQq+Wkp+mHj+e7j+i0ueaho+S9je+8iDI0MO+8jzMwMO+8jzM2MO+8jzQ1MO+8jzQ4MO+8jzYwMO+8jzcyMO+8jzc1MO+8jzEwMDDvvI8xMjAw77yPMjAwMCDkuIflhYPvvInvvIzlnYfkuLrmnaHmloflhoXlrrnvvIzmnKrlvZPnq6DoioLjgIIiLA0KICAi6ZmE5Lu2IDHigJM0IOaYr+Wbm+W8oOepuueZveihqOWNle+8iOiuvueri+eUs+ivt+aKpeWRiuOAgeaLn+S7u+i0n+i0o+S6uuaJv+ivuuS5puOAgeiwg+aVtOeUs+ivt+ihqOOAgeiuvue9ruWIhuaUr+acuuaehOeUs+ivt+ihqO+8ie+8jOWQhOaIkOS4gOiKgu+8m+ihqOWNleihjOS4jeaYr+eroOiKguOAguesrOS5neeroOOAjOmZhOWImeOAjeeahCAzOTnigJM0MDIg6KGM5piv6ZmE5Lu25riF5Y2V44CCIiwNCiAgIueJiOiusOaXpeacn+S4uuOAjDIwMjQg5bm0IDEg5pyIIDMg5pel5Y2w5Y+R44CN77yM5q+U6YCa55+l6JC95qy+44CMMjAyMyDlubQgMTIg5pyIIDI5IOaXpeOAjeaZmiA1IOWkqe+8jOWxnuato+W4uOWNsOWPkea7nuWQju+8jOacquS9nOW8guW4uOWkhOeQhuOAgiIsDQogICJ3ZC04ODY5ZDhmZCDkuLrmlofmoaPnuqfmnaHnm67vvIzlvJXmlofot6ggMiDoioLvvIjnrKwgMeKAkzUg6KGM5Zyo44CM5paH5aS05LiO5Y2w5Y+R6YCa55+l44CN77yM56ysIDE144CBMjAg6KGM5Zyo44CM56ys5LiA56ugIOaAu+WImeOAje+8ie+8jOaVheWcqOi/mSAyIOiKguWQhOWIl+S4gOasoeOAgiINCiBdDQp9DQo=
+{
+ "key": "8869d8fd",
+ "title": "中传科研字〔2023〕245 号 中国传媒大学科研机构管理规定（修订）",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "通知",
+   "heading": "文头与印发通知",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    13
+   ],
+   "items": [
+    "wd-8869d8fd"
+   ],
+   "chars": 190
+  },
+  {
+   "no": "第一章",
+   "heading": "总则",
+   "heading_kind": "author",
+   "lines": [
+    14,
+    25
+   ],
+   "items": [
+    "wd-8869d8fd"
+   ],
+   "chars": 252
+  },
+  {
+   "no": "第二章",
+   "heading": "分类",
+   "heading_kind": "author",
+   "lines": [
+    26,
+    71
+   ],
+   "items": [],
+   "chars": 1032
+  },
+  {
+   "no": "第三章",
+   "heading": "体制管理",
+   "heading_kind": "author",
+   "lines": [
+    72,
+    84
+   ],
+   "items": [],
+   "chars": 307
+  },
+  {
+   "no": "第四章",
+   "heading": "设立与调整",
+   "heading_kind": "author",
+   "lines": [
+    85,
+    162
+   ],
+   "items": [],
+   "chars": 1876
+  },
+  {
+   "no": "第五章",
+   "heading": "考核",
+   "heading_kind": "author",
+   "lines": [
+    163,
+    258
+   ],
+   "items": [],
+   "chars": 2157
+  },
+  {
+   "no": "第六章",
+   "heading": "负责人管理",
+   "heading_kind": "author",
+   "lines": [
+    259,
+    307
+   ],
+   "items": [],
+   "chars": 998
+  },
+  {
+   "no": "第七章",
+   "heading": "印章管理",
+   "heading_kind": "author",
+   "lines": [
+    308,
+    321
+   ],
+   "items": [],
+   "chars": 274
+  },
+  {
+   "no": "第八章",
+   "heading": "监督管理",
+   "heading_kind": "author",
+   "lines": [
+    322,
+    386
+   ],
+   "items": [],
+   "chars": 1459
+  },
+  {
+   "no": "第九章",
+   "heading": "附则",
+   "heading_kind": "author",
+   "lines": [
+    387,
+    402
+   ],
+   "items": [],
+   "chars": 363
+  },
+  {
+   "no": "附件1",
+   "heading": "科研机构设立申请报告",
+   "heading_kind": "author",
+   "lines": [
+    403,
+    431
+   ],
+   "items": [],
+   "chars": 424
+  },
+  {
+   "no": "附件2",
+   "heading": "虚体科研机构拟任负责人承诺书",
+   "heading_kind": "author",
+   "lines": [
+    432,
+    456
+   ],
+   "items": [],
+   "chars": 560
+  },
+  {
+   "no": "附件3",
+   "heading": "科研机构调整申请表",
+   "heading_kind": "author",
+   "lines": [
+    457,
+    476
+   ],
+   "items": [],
+   "chars": 171
+  },
+  {
+   "no": "附件4",
+   "heading": "科研机构设置分支机构申请表",
+   "heading_kind": "author",
+   "lines": [
+    477,
+    493
+   ],
+   "items": [],
+   "chars": 151
+  },
+  {
+   "no": "版记",
+   "heading": "印发版记",
+   "heading_kind": "derived",
+   "lines": [
+    494,
+    494
+   ],
+   "items": [],
+   "chars": 26
+  }
+ ],
+ "items": [
+  "wd-8869d8fd"
+ ],
+ "notes": [
+  "正文九章（第一章–第九章）编号连续，无重复、无缺章；第 13 行为规定标题行，与 1–12 行的印发通知合并为「文头与印发通知」一节。",
+  "第十五条（85–162 行内）的分项用半角括号「(一)(二)(三)」并嵌套「1./2./(1)(2)」，其余条文用全角「（一）」；原文体例不统一，按原文保留，未影响节边界。",
+  "第五章「考核」含大量经费档位（240／300／360／450／480／600／720／750／1000／1200／2000 万元），均为条文内容，未当章节。",
+  "附件 1–4 是四张空白表单（设立申请报告、拟任负责人承诺书、调整申请表、设置分支机构申请表），各成一节；表单行不是章节。第九章「附则」的 399–402 行是附件清单。",
+  "版记日期为「2024 年 1 月 3 日印发」，比通知落款「2023 年 12 月 29 日」晚 5 天，属正常印发滞后，未作异常处理。",
+  "wd-8869d8fd 为文档级条目，引文跨 2 节（第 1–5 行在「文头与印发通知」，第 15、20 行在「第一章 总则」），故在这 2 节各列一次。"
+ ]
+}

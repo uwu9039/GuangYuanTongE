@@ -1,1 +1,203 @@
-ew0KICJrZXkiOiAi5paw6Ze75YWs5ZGKLTJlNmRlOTZlNzlhYWQxMTFmMDBiMDlhNGI3MWQ1NDAxMzEwOSIsDQogInRpdGxlIjogIuWFs+S6juS4vuWKnuKAnOesueW3neadr+WTgeS5puefpeaXpeacrOW+geaWh+Wkp+i1mzIwMjDigJ3moKHlhoXliJ3otZvnmoTpgJrnn6UiLA0KICJ0cnVuY2F0ZWQiOiBmYWxzZSwNCiAic2VjdGlvbnMiOiBbDQogIHsNCiAgICJubyI6ICLmoIfpopgiLA0KICAgImhlYWRpbmciOiAi5YWz5LqO5Li+5Yqe4oCc56y55bed5p2v5ZOB5Lmm55+l5pel5pys5b6B5paH5aSn6LWbMjAyMOKAneagoeWGheWInei1m+eahOmAmuefpSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMSwNCiAgICA1DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC04N2Y1YTAyMWU4Ig0KICAgXSwNCiAgICJjaGFycyI6IDIyNg0KICB9LA0KICB7DQogICAibm8iOiAi5byV6KiAIiwNCiAgICJoZWFkaW5nIjogIui1m+S6i+iDjOaZr+S4juW+geaWh+Wul+aXqCIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDcsDQogICAgOQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMWFmZDQ4MTc0YyINCiAgIF0sDQogICAiY2hhcnMiOiA0NTgNCiAgfSwNCiAgew0KICAgIm5vIjogIuato+aWhyIsDQogICAiaGVhZGluZyI6ICLmraPmlofkuInpg6jliIbvvIjkuLvlip7ljZXkvY3jgIHlvoHmlofopoHmsYLjgIHlvoHmlofor4TlrqHvvIkiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMCwNCiAgICA0OQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZjczMzJlMDJjOCINCiAgIF0sDQogICAiY2hhcnMiOiA4NDUNCiAgfSwNCiAgew0KICAgIm5vIjogIuS4gOOAgSIsDQogICAiaGVhZGluZyI6ICLmoKHlhoXkuLvlip7ljZXkvY0iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDEwLA0KICAgIDExDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAxNw0KICB9LA0KICB7DQogICAibm8iOiAi5LqM44CBIiwNCiAgICJoZWFkaW5nIjogIuW+geaWh+imgeaxgiIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTIsDQogICAgMzMNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWE5YTQxMzQyOWEiDQogICBdLA0KICAgImNoYXJzIjogNDk3DQogIH0sDQogIHsNCiAgICJubyI6ICLkuowxIiwNCiAgICJoZWFkaW5nIjogIuW+geaWh+WGheWuuSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTMsDQogICAgMTQNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDQyDQogIH0sDQogIHsNCiAgICJubyI6ICLkuowyIiwNCiAgICJoZWFkaW5nIjogIuW+geaWh+WvueixoSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTUsDQogICAgMTYNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTcyZWJkOTdmMGUiDQogICBdLA0KICAgImNoYXJzIjogMjcNCiAgfSwNCiAgew0KICAgIm5vIjogIuS6jDMiLA0KICAgImhlYWRpbmciOiAi5oiq5q2i5pe26Ze0IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNywNCiAgICAxOA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTYNCiAgfSwNCiAgew0KICAgIm5vIjogIuS6jDQiLA0KICAgImhlYWRpbmciOiAi5b6B5paH5pa55byPIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxOSwNCiAgICAyMw0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTY1DQogIH0sDQogIHsNCiAgICJubyI6ICLkuow1IiwNCiAgICJoZWFkaW5nIjogIjXjgIHlvoHmlofopoHmsYIiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDI0LA0KICAgIDMzDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0xZGI5ZTVlMWFiIiwNCiAgICAicHQtMzQ3N2RmZTYxNyINCiAgIF0sDQogICAiY2hhcnMiOiAyNDENCiAgfSwNCiAgew0KICAgIm5vIjogIuS4ieOAgSIsDQogICAiaGVhZGluZyI6ICLlvoHmlofor4TlrqEiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDM0LA0KICAgIDQ5DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0wNWIxYmEwYjhjIiwNCiAgICAicHQtZDU3NDcwOWJhMiINCiAgIF0sDQogICAiY2hhcnMiOiAzMzENCiAgfSwNCiAgew0KICAgIm5vIjogIuS4iTEiLA0KICAgImhlYWRpbmciOiAi6K+E5a6h5aeU5ZGYIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzNSwNCiAgICA0MQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMTA0ODJmMWNhYyIsDQogICAgInB0LTY0ZjEwN2JhZTYiDQogICBdLA0KICAgImNoYXJzIjogMTE5DQogIH0sDQogIHsNCiAgICJubyI6ICLkuIkyIiwNCiAgICJoZWFkaW5nIjogIuWllumhueiuvue9riIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNDIsDQogICAgNDUNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDYyDQogIH0sDQogIHsNCiAgICJubyI6ICLkuIkzIiwNCiAgICJoZWFkaW5nIjogIuivhOWuoee7k+aenCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNDYsDQogICAgNDkNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTE4NDgxNDAxMDciDQogICBdLA0KICAgImNoYXJzIjogMTQ0DQogIH0NCiBdLA0KICJpdGVtcyI6IFsNCiAgInB0LTg3ZjVhMDIxZTgiLA0KICAicHQtMWFmZDQ4MTc0YyIsDQogICJwdC1mNzMzMmUwMmM4IiwNCiAgInB0LTcyZWJkOTdmMGUiLA0KICAicHQtYTlhNDEzNDI5YSIsDQogICJwdC0xZGI5ZTVlMWFiIiwNCiAgInB0LTM0NzdkZmU2MTciLA0KICAicHQtMDViMWJhMGI4YyIsDQogICJwdC0xMDQ4MmYxY2FjIiwNCiAgInB0LTY0ZjEwN2JhZTYiLA0KICAicHQtZDU3NDcwOWJhMiIsDQogICJwdC0xODQ4MTQwMTA3Ig0KIF0sDQogIm5vdGVzIjogWw0KICAi44CM5q2j5paH44CN6IqC77yIMTDigJM0OSDooYzvvInmmK/ljIXkvY/jgIzkuIDjgIHjgI3jgIzkuozjgIHjgI3jgIzkuInjgIHjgI3nmoTniLboioLvvIzkuLrlrrnnurPkuIDmnaHot6joioLlvJXmlofogIzorr7vvJpwdC1mNzMzMmUwMmM4IOeahOW8leaWh+S7juOAjOS4gOOAgeagoeWGheS4u+WKnuWNleS9jeOAjeS4gOi3r+i/nuWIsOOAjOS6jOOAgeW+geaWh+imgeaxgiAx44CB5b6B5paH5YaF5a6544CN77yI5LiK5ri45YiH5YiG5oqK55u46YK75bCP6IqC5bm26L+b5LqG5ZCM5LiA5p2hIHF1b3Rl77yJ77yM5Y+q5pyJIDEw4oCTNDkg6KGM5pW05q616IO96YCQ5a2X5a6557qz77yM5pWF6K+l5p2h5Y+q5YiX5Zyo5q2k6IqC44CCIiwNCiAgInB0LWE5YTQxMzQyOWHvvIgz44CB5oiq5q2i5pe26Ze077yLNOOAgeW+geaWh+aWueW8j++8ieS4jiBwdC1kNTc0NzA5YmEy77yI5LqM562J5aWW44CB5LiJ562J5aWW5pyr77yLM+OAgeivhOWuoee7k+aenO+8ieeahOW8leaWh+WQhOiHqui3qOi/h+WtkOiKgui+ueeVjO+8jOWIhuWIq+WIl+WcqOiDveaVtOauteWuuee6s+Wug+S7rOeahOeItuiKguOAjOS6jOOAgeOAjeS4juOAjOS4ieOAgeOAje+8m3B0LTA1YjFiYTBiOGMg55qE5byV5paH6Ieq44CM5LiJ44CB5b6B5paH6K+E5a6h44CN5qCH6aKY6KGM6LW377yM5pWF5Lmf5YiX5Zyo44CM5LiJ44CB44CN44CCIiwNCiAgIuesrCA2IOihjOS4uuepuuihjO+8jOacquiuvuiKgu+8m+esrCAy4oCTNSDooYzmmK/mnaXmupAgVVJM44CB5qCP55uu44CB5L2c6ICF44CB5Y+R5biD5pe26Ze05YWD5L+h5oGv77yM5bm25YWl44CM5qCH6aKY44CN6IqC44CCIiwNCiAgIuWOn+aWh+W8guW4uO+8muesrCA5IOihjOaciemHjeWkjeagh+eCueOAjOOAiuino+W/p+adgui0p+W6l+OAi++8jO+8jOWkmumdouaXpeacrOetieS9oOadpeWPkeeOsOOAje+8m+esrCAyOSDooYzjgIzlvoHmloflo7DlkI3vvJrjgI3ljp/mloflpoLmraTvvIjlupTkuLrjgIzlo7DmmI7jgI3vvInvvIzmoIfpopjmjInljp/mlofnhafmioTvvIzmnKrmlLnlrZfjgIIiLA0KICAi44CM5LqMNeOAjeeahOWOn+aWh+Wwj+agh+mimOaYr+OAjDXjgIHlvoHmlofopoHmsYLjgI3vvIzkuI7niLboioLjgIzkuozjgIHlvoHmlofopoHmsYLjgI3lkIzlkI3vvJvkuLrlhY3mt7fmt4bvvIxoZWFkaW5nIOi/nuWQjOW6j+WPt+eFp+aKhOS4uuOAjDXjgIHlvoHmlofopoHmsYLjgI3vvIjpgJDlrZflj6/op4HvvInjgIIiDQogXQ0KfQ0K
+{
+ "key": "新闻公告-2e6de96e79aad111f00b09a4b71d54013109",
+ "title": "关于举办“笹川杯品书知日本征文大赛2020”校内初赛的通知",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "标题",
+   "heading": "关于举办“笹川杯品书知日本征文大赛2020”校内初赛的通知",
+   "heading_kind": "author",
+   "lines": [
+    1,
+    5
+   ],
+   "items": [
+    "pt-87f5a021e8"
+   ],
+   "chars": 226
+  },
+  {
+   "no": "引言",
+   "heading": "赛事背景与征文宗旨",
+   "heading_kind": "derived",
+   "lines": [
+    7,
+    9
+   ],
+   "items": [
+    "pt-1afd48174c"
+   ],
+   "chars": 458
+  },
+  {
+   "no": "正文",
+   "heading": "正文三部分（主办单位、征文要求、征文评审）",
+   "heading_kind": "derived",
+   "lines": [
+    10,
+    49
+   ],
+   "items": [
+    "pt-f7332e02c8"
+   ],
+   "chars": 845
+  },
+  {
+   "no": "一、",
+   "heading": "校内主办单位",
+   "heading_kind": "author",
+   "lines": [
+    10,
+    11
+   ],
+   "items": [],
+   "chars": 17
+  },
+  {
+   "no": "二、",
+   "heading": "征文要求",
+   "heading_kind": "author",
+   "lines": [
+    12,
+    33
+   ],
+   "items": [
+    "pt-a9a413429a"
+   ],
+   "chars": 497
+  },
+  {
+   "no": "二1",
+   "heading": "征文内容",
+   "heading_kind": "author",
+   "lines": [
+    13,
+    14
+   ],
+   "items": [],
+   "chars": 42
+  },
+  {
+   "no": "二2",
+   "heading": "征文对象",
+   "heading_kind": "author",
+   "lines": [
+    15,
+    16
+   ],
+   "items": [
+    "pt-72ebd97f0e"
+   ],
+   "chars": 27
+  },
+  {
+   "no": "二3",
+   "heading": "截止时间",
+   "heading_kind": "author",
+   "lines": [
+    17,
+    18
+   ],
+   "items": [],
+   "chars": 16
+  },
+  {
+   "no": "二4",
+   "heading": "征文方式",
+   "heading_kind": "author",
+   "lines": [
+    19,
+    23
+   ],
+   "items": [],
+   "chars": 165
+  },
+  {
+   "no": "二5",
+   "heading": "5、征文要求",
+   "heading_kind": "author",
+   "lines": [
+    24,
+    33
+   ],
+   "items": [
+    "pt-1db9e5e1ab",
+    "pt-3477dfe617"
+   ],
+   "chars": 241
+  },
+  {
+   "no": "三、",
+   "heading": "征文评审",
+   "heading_kind": "author",
+   "lines": [
+    34,
+    49
+   ],
+   "items": [
+    "pt-05b1ba0b8c",
+    "pt-d574709ba2"
+   ],
+   "chars": 331
+  },
+  {
+   "no": "三1",
+   "heading": "评审委员",
+   "heading_kind": "author",
+   "lines": [
+    35,
+    41
+   ],
+   "items": [
+    "pt-10482f1cac",
+    "pt-64f107bae6"
+   ],
+   "chars": 119
+  },
+  {
+   "no": "三2",
+   "heading": "奖项设置",
+   "heading_kind": "author",
+   "lines": [
+    42,
+    45
+   ],
+   "items": [],
+   "chars": 62
+  },
+  {
+   "no": "三3",
+   "heading": "评审结果",
+   "heading_kind": "author",
+   "lines": [
+    46,
+    49
+   ],
+   "items": [
+    "pt-1848140107"
+   ],
+   "chars": 144
+  }
+ ],
+ "items": [
+  "pt-87f5a021e8",
+  "pt-1afd48174c",
+  "pt-f7332e02c8",
+  "pt-72ebd97f0e",
+  "pt-a9a413429a",
+  "pt-1db9e5e1ab",
+  "pt-3477dfe617",
+  "pt-05b1ba0b8c",
+  "pt-10482f1cac",
+  "pt-64f107bae6",
+  "pt-d574709ba2",
+  "pt-1848140107"
+ ],
+ "notes": [
+  "「正文」节（10–49 行）是包住「一、」「二、」「三、」的父节，为容纳一条跨节引文而设：pt-f7332e02c8 的引文从「一、校内主办单位」一路连到「二、征文要求 1、征文内容」（上游切分把相邻小节并进了同一条 quote），只有 10–49 行整段能逐字容纳，故该条只列在此节。",
+  "pt-a9a413429a（3、截止时间＋4、征文方式）与 pt-d574709ba2（二等奖、三等奖末＋3、评审结果）的引文各自跨过子节边界，分别列在能整段容纳它们的父节「二、」与「三、」；pt-05b1ba0b8c 的引文自「三、征文评审」标题行起，故也列在「三、」。",
+  "第 6 行为空行，未设节；第 2–5 行是来源 URL、栏目、作者、发布时间元信息，并入「标题」节。",
+  "原文异常：第 9 行有重复标点「《解忧杂货店》，，多面日本等你来发现」；第 29 行「征文声名：」原文如此（应为「声明」），标题按原文照抄，未改字。",
+  "「二5」的原文小标题是「5、征文要求」，与父节「二、征文要求」同名；为免混淆，heading 连同序号照抄为「5、征文要求」（逐字可见）。"
+ ]
+}

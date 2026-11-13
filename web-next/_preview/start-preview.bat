@@ -1,1 +1,14 @@
-QGVjaG8gb2ZmCnNldGxvY2FsCnJlbSDliY3nq6/pooTop4jvvJrlkI7nq6/kuI3ov5DooYzkuZ/og73nnIvpobXpnaLjgILku5PlupPmoLnnm67lvZXkuIvlj4zlh7vljbPlj6/jgIIKY2QgL2QgIiV+ZHAwLi5cLi4iCgppZiBub3QgZXhpc3QgIndlYi1uZXh0XF9wcmV2aWV3XGZpeHR1cmVzXGl0ZW1zLmpzb24iICgKICBlY2hvIFsxLzJdIOeUn+aIkOWJjeerr+agt+W8oCBmaXh0dXJlcy4uLgogICIudmVudlxTY3JpcHRzXHB5dGhvbi5leGUiIHdlYi1uZXh0XF9wcmV2aWV3XGJ1aWxkX2ZpeHR1cmVzLnB5CikKCmVjaG8gWzIvMl0g5ZCv5Yqo6aKE6KeI5pyN5YqhICAgaHR0cDovLzEyNy4wLjAuMTo4MDEwL2ZpZWxkCmVjaG8gICAgICAgXijlkI7nq68gYXBwLnB5IC8gdXZpY29ybiDkuI3lkK/liqjvvJvlhbPmjonov5nkuKrnqpflj6PljbPlgZzmraJeKQpzdGFydCAiIiAiaHR0cDovLzEyNy4wLjAuMTo4MDEwL2ZpZWxkIgoiLnZlbnZcU2NyaXB0c1xweXRob24uZXhlIiB3ZWItbmV4dFxfcHJldmlld1xtb2NrX3NlcnZlci5weSAtLXBvcnQgODAxMAo=
+@echo off
+setlocal
+rem 前端预览：后端不运行也能看页面。仓库根目录下双击即可。
+cd /d "%~dp0..\.."
+
+if not exist "web-next\_preview\fixtures\items.json" (
+  echo [1/2] 生成前端样张 fixtures...
+  ".venv\Scripts\python.exe" web-next\_preview\build_fixtures.py
+)
+
+echo [2/2] 启动预览服务   http://127.0.0.1:8010/field
+echo       ^(后端 app.py / uvicorn 不启动；关掉这个窗口即停止^)
+start "" "http://127.0.0.1:8010/field"
+".venv\Scripts\python.exe" web-next\_preview\mock_server.py --port 8010

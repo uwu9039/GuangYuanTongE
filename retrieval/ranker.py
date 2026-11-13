@@ -1,1 +1,97 @@
-IiIi5a2m5Lmg5o6S5bqP5Zmo77yabnVtcHkg6YC76L6R5Zue5b2S77yI56a757q/6K6t57uD77yM5p2D6YeN6JC9IEpTT07vvInjgIIKCuS4jeW8leWFpSBza2xlYXJuIC8gdG9yY2jvvJrnm67moIfmnLrnmoQgYHJlcXVpcmVtZW50cy50eHRgIOWPquaciSBmYXN0YXBpL3V2aWNvcm4vbnVtcHnvvIzogIzov5kK5Liq5qih5Z6L5Y+q5pyJ5Yeg5Y2B5Liq54m55b6B77yM54mb6aG/5rOV77yISVJMU++8ieS6lOi9ruWwseaUtuaVm++8jOiuree7g+S4gOasoeWHoOenkuOAggoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGpzb24KZnJvbSBkYXRhY2xhc3NlcyBpbXBvcnQgZGF0YWNsYXNzCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAoKaW1wb3J0IG51bXB5IGFzIG5wCgpmcm9tIC5mZWF0dXJlcyBpbXBvcnQgRkVBVFVSRV9OQU1FUwoKCkBkYXRhY2xhc3MKY2xhc3MgUmFua2VyOgogICAgdzogbnAubmRhcnJheQogICAgYjogZmxvYXQKICAgIG1lYW46IG5wLm5kYXJyYXkKICAgIHN0ZDogbnAubmRhcnJheQogICAgbmFtZXM6IHR1cGxlW3N0ciwgLi4uXSA9IEZFQVRVUkVfTkFNRVMKCiAgICBkZWYgc2NvcmUoc2VsZiwgeDogbnAubmRhcnJheSkgLT4gbnAubmRhcnJheToKICAgICAgICBpZiB4LnNpemUgPT0gMDoKICAgICAgICAgICAgcmV0dXJuIG5wLnplcm9zKDAsIGR0eXBlPW5wLmZsb2F0MzIpCiAgICAgICAgeiA9ICh4IC0gc2VsZi5tZWFuKSAvIG5wLm1heGltdW0oc2VsZi5zdGQsIDFlLTYpCiAgICAgICAgcmV0dXJuICh6IEAgc2VsZi53ICsgc2VsZi5iKS5hc3R5cGUobnAuZmxvYXQzMikKCiAgICBkZWYgcHJvYihzZWxmLCB4OiBucC5uZGFycmF5KSAtPiBucC5uZGFycmF5OgogICAgICAgIHJldHVybiAxLjAgLyAoMS4wICsgbnAuZXhwKC1ucC5jbGlwKHNlbGYuc2NvcmUoeCksIC0zMCwgMzApKSkKCiAgICBkZWYgdG9wX2ZlYXR1cmVzKHNlbGYsIGs6IGludCA9IDEyKSAtPiBsaXN0W3R1cGxlW3N0ciwgZmxvYXRdXToKICAgICAgICBvcmRlciA9IG5wLmFyZ3NvcnQoLW5wLmFicyhzZWxmLncpKVs6a10KICAgICAgICByZXR1cm4gWyhzZWxmLm5hbWVzW2ldLCByb3VuZChmbG9hdChzZWxmLndbaV0pLCA0KSkgZm9yIGkgaW4gb3JkZXJdCgogICAgIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gdHJhaW4KCiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiB0cmFpbihjbHMsIHg6IG5wLm5kYXJyYXksIHk6IG5wLm5kYXJyYXksIGwyOiBmbG9hdCA9IDEuMCwKICAgICAgICAgICAgICBpdGVyczogaW50ID0gMTIpIC0+ICJSYW5rZXIiOgogICAgICAgICIiIkwyIOato+WImemAu+i+keWbnuW9ku+8jOeJm+mhv+azle+8iElSTFPvvInjgIIKCiAgICAgICAgYHhgIOaYryAoTiwgRikg54m55b6B55+p6Zi177yMYHlgIOaYryAwLzEg55u45YWz5qCH562+44CC5qC35pys6YeM5q2j6LSf5q+U5oKs5q6K77yM5oyJ5qCH562+6YeN5Yqg5p2DCiAgICAgICAg5Yiw5ZCE5Y2g5LiA5Y2K77yM5ZCm5YiZ5qih5Z6L5Lya5oqK5omA5pyJ5YCZ6YCJ6YO95Yik5oiQ5LiN55u45YWz44CCCiAgICAgICAgIiIiCiAgICAgICAgeCA9IG5wLmFzYXJyYXkoeCwgZHR5cGU9bnAuZmxvYXQ2NCkKICAgICAgICB5ID0gbnAuYXNhcnJheSh5LCBkdHlwZT1ucC5mbG9hdDY0KQogICAgICAgIG1lYW4gPSB4Lm1lYW4oYXhpcz0wKQogICAgICAgIHN0ZCA9IHguc3RkKGF4aXM9MCkKICAgICAgICBzdGRbc3RkIDwgMWUtNl0gPSAxLjAKICAgICAgICB6ID0gKHggLSBtZWFuKSAvIHN0ZAogICAgICAgIHogPSBucC5oc3RhY2soW3osIG5wLm9uZXMoKHouc2hhcGVbMF0sIDEpKV0pCgogICAgICAgIG5fcG9zID0gbWF4KHkuc3VtKCksIDEuMCkKICAgICAgICBuX25lZyA9IG1heChsZW4oeSkgLSB5LnN1bSgpLCAxLjApCiAgICAgICAgc3cgPSBucC53aGVyZSh5ID4gMC41LCAwLjUgLyBuX3BvcywgMC41IC8gbl9uZWcpCgogICAgICAgIGJldGEgPSBucC56ZXJvcyh6LnNoYXBlWzFdKQogICAgICAgIHJlZyA9IG5wLmV5ZSh6LnNoYXBlWzFdKSAqIGwyCiAgICAgICAgcmVnWy0xLCAtMV0gPSAwLjAgICMg5oiq6Led5LiN5q2j5YiZCiAgICAgICAgZm9yIF8gaW4gcmFuZ2UoaXRlcnMpOgogICAgICAgICAgICBwID0gMS4wIC8gKDEuMCArIG5wLmV4cCgtbnAuY2xpcCh6IEAgYmV0YSwgLTMwLCAzMCkpKQogICAgICAgICAgICBnID0gei5UIEAgKHN3ICogKHAgLSB5KSkgKyByZWcgQCBiZXRhCiAgICAgICAgICAgIHdndCA9IHN3ICogcCAqICgxLjAgLSBwKQogICAgICAgICAgICBIID0gKHogKiB3Z3RbOiwgTm9uZV0pLlQgQCB6ICsgcmVnICsgbnAuZXllKHouc2hhcGVbMV0pICogMWUtOAogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBzdGVwID0gbnAubGluYWxnLnNvbHZlKEgsIGcpCiAgICAgICAgICAgIGV4Y2VwdCBucC5saW5hbGcuTGluQWxnRXJyb3I6CiAgICAgICAgICAgICAgICBzdGVwID0gbnAubGluYWxnLmxzdHNxKEgsIGcsIHJjb25kPU5vbmUpWzBdCiAgICAgICAgICAgIGJldGEgLT0gc3RlcAogICAgICAgICAgICBpZiBucC5hYnMoc3RlcCkubWF4KCkgPCAxZS04OgogICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICByZXR1cm4gY2xzKHc9YmV0YVs6LTFdLmFzdHlwZShucC5mbG9hdDMyKSwgYj1mbG9hdChiZXRhWy0xXSksCiAgICAgICAgICAgICAgICAgICBtZWFuPW1lYW4uYXN0eXBlKG5wLmZsb2F0MzIpLCBzdGQ9c3RkLmFzdHlwZShucC5mbG9hdDMyKSkKCiAgICAjIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gaW8KCiAgICBkZWYgc2F2ZShzZWxmLCBwYXRoOiBQYXRoKSAtPiBOb25lOgogICAgICAgIFBhdGgocGF0aCkud3JpdGVfdGV4dChqc29uLmR1bXBzKHsKICAgICAgICAgICAgIm5hbWVzIjogbGlzdChzZWxmLm5hbWVzKSwKICAgICAgICAgICAgInciOiBbcm91bmQoZmxvYXQodiksIDYpIGZvciB2IGluIHNlbGYud10sCiAgICAgICAgICAgICJiIjogZmxvYXQoc2VsZi5iKSwKICAgICAgICAgICAgIm1lYW4iOiBbcm91bmQoZmxvYXQodiksIDYpIGZvciB2IGluIHNlbGYubWVhbl0sCiAgICAgICAgICAgICJzdGQiOiBbcm91bmQoZmxvYXQodiksIDYpIGZvciB2IGluIHNlbGYuc3RkXSwKICAgICAgICB9LCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0xKSwgZW5jb2Rpbmc9InV0Zi04IikKCiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBsb2FkKGNscywgcGF0aDogUGF0aCkgLT4gIlJhbmtlciI6CiAgICAgICAgZCA9IGpzb24ubG9hZHMoUGF0aChwYXRoKS5yZWFkX3RleHQoZW5jb2Rpbmc9InV0Zi04IikpCiAgICAgICAgbmFtZXMgPSB0dXBsZShkLmdldCgibmFtZXMiKSBvciBGRUFUVVJFX05BTUVTKQogICAgICAgIGlmIG5hbWVzICE9IEZFQVRVUkVfTkFNRVM6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoIuaOkuW6j+WZqOeJueW+geeJiOacrOS4juS7o+eggeS4jeS4gOiHtO+8jOmcgOimgemHjeaWsOiuree7gyIpCiAgICAgICAgcmV0dXJuIGNscyh3PW5wLmFzYXJyYXkoZFsidyJdLCBkdHlwZT1ucC5mbG9hdDMyKSwgYj1mbG9hdChkWyJiIl0pLAogICAgICAgICAgICAgICAgICAgbWVhbj1ucC5hc2FycmF5KGRbIm1lYW4iXSwgZHR5cGU9bnAuZmxvYXQzMiksCiAgICAgICAgICAgICAgICAgICBzdGQ9bnAuYXNhcnJheShkWyJzdGQiXSwgZHR5cGU9bnAuZmxvYXQzMiksIG5hbWVzPW5hbWVzKQo=
+"""学习排序器：numpy 逻辑回归（离线训练，权重落 JSON）。
+
+不引入 sklearn / torch：目标机的 `requirements.txt` 只有 fastapi/uvicorn/numpy，而这
+个模型只有几十个特征，牛顿法（IRLS）五轮就收敛，训练一次几秒。
+"""
+from __future__ import annotations
+
+import json
+from dataclasses import dataclass
+from pathlib import Path
+
+import numpy as np
+
+from .features import FEATURE_NAMES
+
+
+@dataclass
+class Ranker:
+    w: np.ndarray
+    b: float
+    mean: np.ndarray
+    std: np.ndarray
+    names: tuple[str, ...] = FEATURE_NAMES
+
+    def score(self, x: np.ndarray) -> np.ndarray:
+        if x.size == 0:
+            return np.zeros(0, dtype=np.float32)
+        z = (x - self.mean) / np.maximum(self.std, 1e-6)
+        return (z @ self.w + self.b).astype(np.float32)
+
+    def prob(self, x: np.ndarray) -> np.ndarray:
+        return 1.0 / (1.0 + np.exp(-np.clip(self.score(x), -30, 30)))
+
+    def top_features(self, k: int = 12) -> list[tuple[str, float]]:
+        order = np.argsort(-np.abs(self.w))[:k]
+        return [(self.names[i], round(float(self.w[i]), 4)) for i in order]
+
+    # ------------------------------------------------------------------ train
+
+    @classmethod
+    def train(cls, x: np.ndarray, y: np.ndarray, l2: float = 1.0,
+              iters: int = 12) -> "Ranker":
+        """L2 正则逻辑回归，牛顿法（IRLS）。
+
+        `x` 是 (N, F) 特征矩阵，`y` 是 0/1 相关标签。样本里正负比悬殊，按标签重加权
+        到各占一半，否则模型会把所有候选都判成不相关。
+        """
+        x = np.asarray(x, dtype=np.float64)
+        y = np.asarray(y, dtype=np.float64)
+        mean = x.mean(axis=0)
+        std = x.std(axis=0)
+        std[std < 1e-6] = 1.0
+        z = (x - mean) / std
+        z = np.hstack([z, np.ones((z.shape[0], 1))])
+
+        n_pos = max(y.sum(), 1.0)
+        n_neg = max(len(y) - y.sum(), 1.0)
+        sw = np.where(y > 0.5, 0.5 / n_pos, 0.5 / n_neg)
+
+        beta = np.zeros(z.shape[1])
+        reg = np.eye(z.shape[1]) * l2
+        reg[-1, -1] = 0.0  # 截距不正则
+        for _ in range(iters):
+            p = 1.0 / (1.0 + np.exp(-np.clip(z @ beta, -30, 30)))
+            g = z.T @ (sw * (p - y)) + reg @ beta
+            wgt = sw * p * (1.0 - p)
+            H = (z * wgt[:, None]).T @ z + reg + np.eye(z.shape[1]) * 1e-8
+            try:
+                step = np.linalg.solve(H, g)
+            except np.linalg.LinAlgError:
+                step = np.linalg.lstsq(H, g, rcond=None)[0]
+            beta -= step
+            if np.abs(step).max() < 1e-8:
+                break
+        return cls(w=beta[:-1].astype(np.float32), b=float(beta[-1]),
+                   mean=mean.astype(np.float32), std=std.astype(np.float32))
+
+    # ------------------------------------------------------------------- io
+
+    def save(self, path: Path) -> None:
+        Path(path).write_text(json.dumps({
+            "names": list(self.names),
+            "w": [round(float(v), 6) for v in self.w],
+            "b": float(self.b),
+            "mean": [round(float(v), 6) for v in self.mean],
+            "std": [round(float(v), 6) for v in self.std],
+        }, ensure_ascii=False, indent=1), encoding="utf-8")
+
+    @classmethod
+    def load(cls, path: Path) -> "Ranker":
+        d = json.loads(Path(path).read_text(encoding="utf-8"))
+        names = tuple(d.get("names") or FEATURE_NAMES)
+        if names != FEATURE_NAMES:
+            raise ValueError("排序器特征版本与代码不一致，需要重新训练")
+        return cls(w=np.asarray(d["w"], dtype=np.float32), b=float(d["b"]),
+                   mean=np.asarray(d["mean"], dtype=np.float32),
+                   std=np.asarray(d["std"], dtype=np.float32), names=names)

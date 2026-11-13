@@ -1,1 +1,283 @@
-IiIiUHJvbXB0IOeJh+auteazqOWGjOihqO+8muS4ieWkhOaooeWei+iwg+eUqOeahCBzeXN0ZW0g5paH5pys5Zyo6L+Z6YeM5oyJIHRhc2sg6KOF6YWN44CCCgrmi4bniYfnmoTljp/liJnmmK/jgIzlm7rlrprmlofmnKzov5vms6jlhozooajjgIHliqjmgIHlhoXlrrnnlZnlnKjosIPnlKjmlrnjgI3vvJrlgJnpgInmuIXljZXjgIHpl67pnaLooajov5nnsbsK5q+P5qyh6YO95Y+Y55qE5a2X56ym5Liy55SxIGFwcCDmuLLmn5PlkI7mlL7ov5sgc3RhdGXvvIzmnKzmqKHlnZflj6rotJ/otKPmi7zoo4Xpobrluo/lkozniYjmnKzmoIforrDjgIIK6aG65bqP5Y2z5oiQ5pys6aG65bqP4oCU4oCU5Zu65a6a54mH5q615Zyo5YmN77yM5Yqo5oCB54mH5q615Zyo5ZCO77yMRGVlcFNlZWsg55qE5YmN57yA57yT5a2Y5omN5pyJ5ZG95Lit5py65Lya44CCCgrniYjmnKznlKjkuo7nvJPlrZgga2V577ya5Lu75L2V5LiA54mH5paH5pys5pS55Yqo77yMcGFydHNfdmVyc2lvbiDlsLHlj5jvvIzml6fnvJPlrZjoh6rliqjkvZzlup/jgIIKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBoYXNobGliCmltcG9ydCB1bmljb2RlZGF0YQpmcm9tIHR5cGluZyBpbXBvcnQgQW55LCBDYWxsYWJsZQoKVkVSU0lPTiA9ICIxIgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIOWbuuWumueJh+autQoKRlJBR01FTlRTOiBkaWN0W3N0ciwgc3RyXSA9IHsKICAgICMgdGFzaz1yZXJhbmsKICAgICJyZXJhbmsucm9sZSI6ICLnlKjmiLflnKjpl67moKHlm63lip7kuovnmoTkuovjgILkuIvpnaLmmK/ku47nn6Xor4blupPmo4DntKLlh7rnmoTlgJnpgInmnaHnm67jgIJcbiIsCiAgICAicmVyYW5rLmp1ZGdlIjogKAogICAgICAgICLliKTmlq3opoHmsYLvvJpcbiIKICAgICAgICAiLSDnu5nmr4/mnaHmiZMgMO+9njEwMO+8mjEwMD3nm7TmjqXlm57nrZTkuobnlKjmiLfpl67nmoTov5nku7bkuovvvJs2MD3msr7ovrnkvYbnvLrlhbPplK7kv6Hmga/vvJswPeaXoOWFs+OAglxuIgogICAgICAgICItIOWPqueci+WFs+mUruivjemHjeWQiOS4jeeul+WbnuetlOOAgueUqOaIt+mXriBB77yM5p2h55uu6K6yIELvvIzlsLHmmK8gMCDliIbjgIJcbiIKICAgICAgICAiLSDlkIzkuIDku7bkuovml6LmnInjgIzmlbTnkIbmnaHnm67jgI3lj4jmnInjgIzljp/mlofmkZjlvZXjgI3ml7bvvIzkvJjlhYjpgInmlbTnkIbmnaHnm67vvJrlroPliIblpb3kuobotLnnlKjjgIHml7bpl7TjgIHmnZDmlpnvvIwiCiAgICAgICAgIuiDveWbnuetlOWFt+S9k+mXruazle+8m+WOn+aWh+aRmOW9leWPquWcqOaVtOeQhuadoeebruWujOWFqOayoeimhueblui/meS7tuS6i+aXtuaJjemAieOAglxuIgogICAgICAgICItIGJlc3Qg5Y+q6IO95aGr55yf5q2j5Zue562U5LqG6Zeu6aKY55qE5p2h55uuIGlk77yb6YO95rKh5pyJ5bCx5aGrIG51bGzvvIzkuI3opoHnoazpgInjgIJcbiIKICAgICksCiAgICAjIOmAmueUqOWBmuazleWIpOWIhueJh++8iDIwMjYtMTEtMDYgQSDmoYjvvInvvJrlrabmoKHmlofku7bluLjmiorkuIDml4/kuJzopb/lhpnmiJDkuIDmnaHpgJrnlKjlgZrms5XvvIwKICAgICMg44CMcHPmv4DmtLvjgI3ooqvliKTmiJDmsqHnrZTkuIrlsLHmmK/lm6DkuLrljp/mloflj6rlhpkgQWRvYmUg5LiN54K55ZCNIFBT44CC6L+Z54mH6Ieq5oiQ5LiA6ZSu77yM6KaB5pKk5bCx5pKk6L+Z54mH44CCCiAgICAicmVyYW5rLmp1ZGdlX2dlbmVyaWMiOiAoCiAgICAgICAgIumAmueUqOWBmuazleS4jueCueWQjeadoeebru+8mlxuIgogICAgICAgICItIOWtpuagoeaWh+S7tuW4uOaKiuS4gOaXj+S4nOilv+WGmeaIkOS4gOadoemAmueUqOWBmuazleOAguS+i+Wmguato+eJiOi9r+S7tuWPquWGmeOAjEFkb2JlIOWmguS9lea/gOa0u+eZu+W9leOAje+8jCIKICAgICAgICAi5LiN5Lya6YCQ5Liq54K55ZCNIFBT44CBUFLjgIFBSeOAgueUqOaIt+mXrui/meS4gOaXj+mHjOeahOafkOS4quWFt+S9k+S6p+WTgeaIluWtkOaDheW9ouaXtu+8jCIKICAgICAgICAi5Y+q6KaB6L+Z5p2h6YCa55So5YGa5rOV5bCx5piv6K+l5qCh5a+55a6D5ZSv5LiA55qE5a6Y5pa55YGa5rOV77yM5bCx566X562U5LiK77yM5LiN6KaB5Zug5Li65Y6f5paH5rKh54K55ZCN6YKj5Liq5Lqn5ZOB5bCx5omT5L2O5YiG44CCXG4iCiAgICAgICAgIi0g5Y+N6L+H5p2l6K+077yM5p2h55uu5Y+q57uZ5LqG5LiA5Liq5YWl5Y+j44CB572R5Z2A5oiW44CM5Yiw5bmz5Y+w5LiK5p+l44CN77yM5rKh5pyJ5Y+v5omn6KGM55qE5YGa5rOV77yMIgogICAgICAgICLogIznlKjmiLfpl67nmoTmmK/mgI7kuYjlip7vvIzov5nkuI3nrpfnrZTkuIrjgIJcbiIKICAgICAgICAiLSDmjInliY3kuIDmnaHliKTliIbml7bvvIzlnKggd2h5IOmHjOWGmeaYjuS9oOeUqOeahOaYr+mAmueUqOWBmuazleOAglxuIgogICAgKSwKICAgICJyZXJhbmsuanVkZ2VfbWVudSI6ICgKICAgICAgICAi5Yik5pat6KaB5rGC77yaXG4iCiAgICAgICAgIi0g55So5oi36L+Z5LiA5qyh5Y+q6L6T5YWl5LqG5LiA5Liq6K+N77yM5rKh5pyJ6K+05oOz6Zeu5ZOq5LiA6Z2i44CC5L2g6KaB5Yik55qE5piv77ya5YCZ6YCJ6YeM5pyJ5rKh5pyJ5LiA5p2h77yMIgogICAgICAgICLlroPnmoTkuLvpopjlsLHmmK/nlKjmiLfovpPlhaXnmoTov5nkuKrkuJzopb/mnKzouqvvvIjlroPnmoTmlbTkvZPku4vnu43jgIHlip7nkIbmjIfljZfjgIHlvIDmlL7lronmjpLpg73nrpfvvInjgIJcbiIKICAgICAgICAiLSDmnInlsLHpgInlroPvvIznu5kgNzDvvZ4xMDDvvJrkuLvpopjlr7nkuIrnmoTljp/mlofmkZjlvZXnhafmoLfnrpfmlbDvvIzkuI3opoHlm6DkuLrlroPmmK/mkZjlvZXjgIEiCiAgICAgICAgIuaIluiAheayoeWbnuetlOafkOS4quWFt+S9k+mXrumimOWwseS4jemAieOAglxuIgogICAgICAgICItIOWHoOadoemDveWcqOiusuWQjOS4gOS4quS4nOilv+aXtu+8jOmAieimhuebluacgOWFqOOAgeacgOWDj+aAu+iniOeahOmCo+S4gOadoe+8jOS4jeimgemAieWPquiusuS4gOS4que7huiKgueahOeJh+auteOAglxuIgogICAgICAgICItIOe7meavj+adoeaJkyAw772eMTAw77ya5Li76aKY5bCx5piv6L+Z5Liq6K+N55qE6L+Z5Lu25LqLIDgwIOS7peS4iu+8m+ayvui+ueS9huiusueahOaYr+WPpuS4gOS7tuS6i+eahOeJh+autSA0MCDku6XkuIvvvJvml6DlhbMgMOOAglxuIgogICAgICAgICItIOWPquacieaJgOacieWAmemAiemDvei3n+eUqOaIt+i+k+WFpeeahOivjeS4jeebuOW5suaXtu+8jGJlc3Qg5omN5aGrIG51bGzjgIJcbiIKICAgICksCiAgICAicmVyYW5rLmZhY2V0X2hlYWQiOiAi6Zeu6Z2i6KaB5rGC77ya5YaN5Yik5pat55So5oi36L+Z5Y+l6K+d6Zeu55qE5piv6L+Z5Lu25LqL55qE5ZOq5LiA6Z2i77yMIiwKICAgICJyZXJhbmsuZmFjZXRfdGFpbCI6ICgKICAgICAgICAi44CCXG4iCiAgICAgICAgIi0g6Zeu55qE5piv5pW05L2T5oCO5LmI5Yqe44CB5oiW6L+Z5Lqb6YO95a+55LiN5LiK77yMZmFjZXRzIOi/lOWbnuepuuaVsOe7hOOAglxuIgogICAgICAgICItIOeUqOaIt+mXrueahOaYr+i1hOagvOWHhuWFpe+8iOiDveS4jeiDveWKnuOAgeS7gOS5iOS6uuiDveWKnuOAgeS7gOS5iOaDheWGteS4i+S4jeihjO+8ieWwsemAieOAjOadoeS7tuS4jumZkOWItuOAjeOAglxuIgogICAgKSwKICAgICJyZXJhbmsucmV3cml0ZSI6ICgKICAgICAgICAi5pS55YaZ6KaB5rGC77ya5oqK55So5oi36Zeu6aKY57+76K+R5oiQIDPvvZ41IOenjeagoeWbremHjOeahOW4uOeUqOivtOazle+8jOWPo+ivreaUueS5pumdouOAgeihpeWFqOecgeeVpe+8jCIKICAgICAgICAi5LiA5p2h5Y+q6KGo6L6+5LiA5Liq5oSP5oCd77yM5LiN6LaF6L+HIDI0IOS4quWtl+OAglxuIgogICAgKSwKICAgICJyZXJhbmsuanNvbiI6ICgKICAgICAgICAn5Y+q6L6T5Ye6IEpTT07vvJp7InNjb3JlcyI6IHsi5p2h55uuaWQiOiDliIbmlbB9LCAiYmVzdCI6ICLmnaHnm65pZOaIlm51bGwiLCAnCiAgICAgICAgJyJ3aHkiOiAi5LiA5Y+l6K+d55CG55SxIiwgInJld3JpdGVzIjogWyLigKYiXSwgImZhY2V0cyI6IFsi4oCmIl19JwogICAgKSwKICAgICMgdGFzaz1yb3V0ZQogICAgInJvdXRlLnJvbGUiOiAoCiAgICAgICAgIueUqOaIt+WcqOmXruagoeWbreWKnuS6i+eahOS6i+OAguivt+WFiOaKiuS7lueahOmXrumimOe/u+ivkeaIkCAz772eNSDnp43moKHlm63ph4zluLjnlKjnmoTor7Tms5XvvIwiCiAgICAgICAgIuWGjeWIpOaWreS4i+WIl+WAmemAieS4reaYr+WQpuacieWUr+S4gOacgOWMuemFjeeahOS4gOmhueOAglxuIgogICAgKSwKICAgICJyb3V0ZS50cmFuc2xhdGUiOiAoCiAgICAgICAgIue/u+ivkeimgeaxgu+8mlxuIgogICAgICAgICItIOWPo+ivreaUueS5pumdou+8jOWQjOS5ieabv+aNou+8jOihpeWFqOecgeeVpeeahOS4u+ivreaIluWvueixoeOAglxuIgogICAgICAgICItIOeUqOivjei0tOi/keWtpuagoeaWh+S7tu+8jOS+i+WmguOAjOWuv+iIjeaNouS4gOS4i+OAjeKGkuOAjOiwg+Wuv+eUs+ivt+OAjeOAjOi9rOWuv+iIjeWKnueQhuOAje+8myIKICAgICAgICAi44CM5Y2h5Lii5LqG44CN4oaS44CM5qCh5Zut5Y2h5oyC5aSx44CN77yb44CM5oiQ57up5Y2V5Zyo5ZOq5byA44CN4oaS44CM5oiQ57up6K+B5piO5Yqe55CG44CN44CCXG4iCiAgICAgICAgIi0g5LiA5p2h5Y+q6KGo6L6+5LiA5Liq5oSP5oCd77yM5LiN6LaF6L+HIDI0IOS4quWtl++8jOS4jeimgemHjeWkjeWOn+WPpeOAglxuIgogICAgKSwKICAgICJyb3V0ZS5waWNrIjogIuWIpOaWreimgeaxgu+8muWPquaMkeS4gOS4quWAmemAie+8m+mDveS4jeWMuemFjSBpZCDov5Tlm54gbnVsbO+8m+S4jeimgeino+mHiuOAglxuIiwKICAgICJyb3V0ZS5qc29uIjogJ+WPqui+k+WHuiBKU09O77yaeyJyZXdyaXRlcyI6IFsi4oCmIl0sICJpZCI6ICLlgJnpgIlpZOaIlm51bGwifScsCiAgICAjIHRhc2s9ZnJlZV9hbnN3ZXIKICAgICJmcmVlLnJvbGUiOiAoCiAgICAgICAgIuS9oOWcqOW4ruS4reWbveS8oOWqkuWkp+WtpueahOWQjOWtpuWbnuetlOagoeWbreWKnuS6i+mXrumimOOAguS6i+mhueW6k+mHjOayoeacieaUtuW9lei/meS4qumXrumimO+8jCIKICAgICAgICAi6K+355u05o6l57uZ5Ye65Y+v5omn6KGM55qE5Zue562U77ya5YWI57uZ57uT6K6677yM5YaN6K+06K+l5Y675ZOq5Liq6YOo6Zeo6Zeu44CCXG4iCiAgICAgICAgIuimgeaxgu+8mlxuIgogICAgKSwKICAgICJmcmVlLnJ1bGVzIjogKAogICAgICAgICItIOeUteivneOAgemHkemineOAgeaIquatouaXpeacn+OAgeaWh+S7tuadoeasvuWPt+i/meexu+e7huiKgu+8jOS4jeehruWumuWwseS4jeimgeWGmeWHuuWFt+S9k+aVsOWAvO+8jOaUueaIkOS7peWtpuagoeacgOaWsOmAmuefpeS4uuWHhuOAglxuIgogICAgICAgICItIOS4jeimgeWjsOensOi/meaYr+WtpuagoeWOn+aWh++8jOS4jeimgeS8qumAoOaWh+S7tuWQjeOAgemTvuaOpeaIluaWh+WPt+OAglxuIgogICAgICAgICItIOS4jeimgeWIl+imgeWHhuWkh+eahOadkOaWmea4heWNleOAguS9oOayoeacieWumOaWueadpea6kO+8jOWGmeWHuuadpeeahOa4heWNleWwseaYr+e8lueahO+8myIKICAgICAgICAi55So5oi36Zeu6KaB5bim5LuA5LmI77yM5bCx6K+06L+Z5LiA6aG56KaB6Zeu5ZOq5Liq6YOo6Zeo77yM6K6p5LuW5oyJ6YOo6Zeo562U5aSN5YeG5aSH44CCXG4iCiAgICAgICAgIi0g56Gu5a6e5LiN55+l6YGT5bCx55u05o6l6K+05LiN55+l6YGT77yM5bm25oyH5Ye66K+l6Zeu5ZOq5Liq6YOo6Zeo77yb5LiN6KaB55So44CM5LiA6Iis5p2l6K+044CN44CM6YCa5bi444CN5oqK54yc5rWL5YaZ5oiQ5a2m5qCh6KeE5a6a44CCXG4iCiAgICAgICAgIi0g55So5q2j5bi455qE5Lit5paH5qCH54K577ya6YCX5Y+344CB5Y+l5Y+344CB6Zeu5Y+344CB5YaS5Y+344CB5byV5Y+36YO954Wn5bi45YaZ77yM5LiN6KaB5YaZ5oiQ5rKh5pyJ5Y+l5Y+355qE5rWB5rC05Y+l44CCXG4iCiAgICAgICAgIi0g5LiN6KaB55SoIE1hcmtkb3duIOeahOaYn+WPt+OAgeS6leWPt+OAgeWPjeW8leWPt+OAglxuIgogICAgICAgICItIOS4jeeUqOmmluWFiOOAgeWFtuasoeOAgeacgOWQjuOAgeatpOWkluOAgeWAvOW+l+azqOaEj+eahOaYr+OAgeaAu+iAjOiogOS5i+i/meexu+W8gOWcuuivjeOAglxuIgogICAgICAgICItIOS4jeeUqOS4jeaYr0HogIzmmK9C44CB5LiO5YW26K+0QeS4jeWmguivtELjgIHnhLbogIxB5LiN6L+HQui/meexu+i9rOaKmOWll+ivne+8jOS4jeeUqOavlOWWu+WSjOaOkuavlOOAglxuIgogICAgKSwKICAgICJmcmVlLmpzb24iOiAoCiAgICAgICAgJ+WPqui+k+WHuiBKU09O77yaeyJhbnN3ZXIiOiAi4oCmIiwgImNvbmZpZGVuY2UiOiAibG93fG1lZGl1bXxoaWdoIiwgImNhdmVhdCI6ICLigKYifScKICAgICksCiAgICAjIHRhc2s9aGVhZGxpbmXvvJrljaHniYfpobbpg6jpgqPlj6XmgLvmi6zjgILlj6rnnIvmraPmloflt7Lnu4/or7Tkuobku4DkuYjvvIzkuI3mlrDlop7ku7vkvZXkuovlrp7jgIIKICAgICJoZWFkbGluZS5yb2xlIjogKAogICAgICAgICLnlKjmiLfpl67kuobkuIDlj6XmoKHlm63lip7kuovnmoTpl67popjvvIzkuIvpnaLmmK/ns7vnu5/ku47lrpjmlrnmnaHnm67ph4zmn6XliLDnmoTnrZTlpI3mraPmlofjgIIiCiAgICAgICAgIuivt+e7mei/measoeWbnuetlOWGmeS4gOWPpeaAu+aLrO+8jOWug+S8muaYvuekuuWcqOWbnuetlOacgOS4iumdouW9k+Wkp+agh+mimOOAglxuIgogICAgKSwKICAgICJoZWFkbGluZS5ydWxlcyI6ICgKICAgICAgICAi6KaB5rGC77yaXG4iCiAgICAgICAgIi0g5Y+q6K+05q2j5paH6YeM5bey57uP5YaZ5Yiw55qE5LqL5a6e77yM5LiN6K645paw5aKe77ya5q2j5paH5rKh5pyJ55qE5pWw5a2X44CB5pel5pyf44CB6YeR6aKd44CB55S16K+d44CB572R5Z2A5LiA5b6L5LiN6KaB5YaZ6L+b5p2l44CCXG4iCiAgICAgICAgIi0g5LiN6LaF6L+HIDIwIOS4quWtl++8jOWGmeaIkOmZiOi/sOefreivre+8m+S4jeimgemXruWPt++8jOS4jeimgeW8leWPt+WSjOS5puWQjeWPt+OAglxuIgogICAgICAgICItIOato+aWh+mHjOS4gOadoeWumOaWueWGheWuuemDveayoeacieaXtu+8jGhlYWRsaW5lIOi/lOWbnuepuuWtl+espuS4suOAglxuIgogICAgKSwKICAgICJoZWFkbGluZS5qc29uIjogJ+WPqui+k+WHuiBKU09O77yaeyJoZWFkbGluZSI6ICLigKYifScsCiAgICAjIHRhc2s9Y29uZGVuc2XvvJrmiornnIHnlaXlvI/ov73pl67ooaXmiJDkuIDlj6Xog73ni6znq4vmo4DntKLnmoTpl67lj6XjgILlj6rlloLkuIrkuIDova7nmoTjgIzpl67jgI3vvIwKICAgICMg5LiN5ZaC5LiK5LiA6L2u55qE44CM562U44CN4oCU4oCU5Zue562U5q2j5paH6YeM5YWo5piv5LiK5LiA5p2h5LqL6aG555qE6K+N77yM5ZaC6L+b5Y675qOA57Si5bCx6Lef552A6LeR5YGP44CCCiAgICAiY29uZGVuc2Uucm9sZSI6ICgKICAgICAgICAi5a2m55Sf5Zyo5o6l552A5LiK5LiA5Y+l6K+d6L+96Zeu44CC6K+35oqK5pyA5paw6L+Z5Y+l6KGl5YWo5oiQ5LiA5Y+l5LiN6ZyA6KaB5LiK5LiL5paH5Lmf6IO955yL5oeC55qE6Zeu5Y+l44CCXG4iCiAgICApLAogICAgImNvbmRlbnNlLnJ1bGVzIjogKAogICAgICAgICLopoHmsYLvvJpcbiIKICAgICAgICAiLSDlj6rooaXnnIHnlaXnmoTkuLvor63lkozlr7nosaHvvIznlKjmnIDov5HkuIDmrKHpl67lj6Xph4znmoTor7Tms5XvvJvkuI3opoHmlrDlop7msqHpl67ov4fnmoTmnaHku7bjgIJcbiIKICAgICAgICAiLSDkuI3opoHlm57nrZTpl67popjvvIzkuI3opoHop6Pph4rvvIzkuI3otoXov4cgMzAg5Liq5a2X44CCXG4iCiAgICAgICAgIi0g6KGl5LiN5Ye65pu05YW35L2T55qE6K+05rOV5pe277yM5Y6f5qC36L+U5Zue5pyA5paw6L+Z5Y+l44CCXG4iCiAgICApLAogICAgImNvbmRlbnNlLmpzb24iOiAn5Y+q6L6T5Ye6IEpTT07vvJp7InF1ZXJ5IjogIuKApiJ9JywKICAgICMgdGFzaz1hc3NlbWJsZV9wbGFu77ya5oqK5LiA5Y+l6Zeu6K+d5ouG5oiQ6K+l55Sx5a2m5qCh5paH5Lu25YiG5byA5YaZ55qE5Yeg6Z2i77yM5bm257uZ5Ye65a6Y5pa55YaZ5rOV44CCCiAgICAjIOaLhumdouaYr+S4uuS6huino+WGs+OAjOeUqOaIt+ivtOWPo+ivreOAgeWOn+aWh+WGmeWumOaWueivneOAjeeahOWtl+mdoum4v+ayn++8jOS4jeaYr+abv+eUqOaIt+iuvuaDs+S7luayoemXrueahOS6i+OAggogICAgImFzc2VtYmxlLnBsYW4ucm9sZSI6ICgKICAgICAgICAi5a2m55Sf5Zyo6Zeu5qCh5Zut5Yqe5LqL55qE5LiA5Lu25LqL44CC5oqK6L+Z5Lu25LqL5ouG5oiQ5LiA5byg5riF5Y2V77ya5a2m5qCh6YeM5Lya5YiG5byA5YaZ44CB5ZCE562U5LiA6YOo5YiG55qE5Yeg5Liq6Z2i44CCXG4iCiAgICApLAogICAgImFzc2VtYmxlLnBsYW4ucnVsZXMiOiAoCiAgICAgICAgIuimgeaxgu+8mlxuIgogICAgICAgICItIOWPquWIl+i/meWPpeivneecn+ato+mXruWIsOeahOmdou+8jOacgOWkmiAzIOS4qu+8m+i/meWPpeivneacrOadpeWwseS4gOS7tuS6i+ivtOWujOS6hu+8jGZhY2VzIOi/lOWbnuepuuWIl+ihqO+8jOS4jeimgeehrOWHkeOAglxuIgogICAgICAgICItIOavj+S4qumdoue7mSAx772eMiDkuKogcGhyYXNlc++8muWGmeaIkOWtpuagoeaWh+S7tuOAgemAmuefpeOAgeeroOeoi+mHjOWvuei/meS7tuS6i+eahOW4uOingeivtOazle+8jCIKICAgICAgICAi5LiN6KaB54Wn5oqE5a2m55Sf55qE5Y+j6K+t44CCXG4iCiAgICAgICAgIi0g6K+05rOV6YeM5b+F6aG75L+d55WZ6L+Z5Y+l6K+d6YeM55qE5Li75L2T77yI5ZOq5Liq6YOo6Zeo44CB5ZOq5Liq5Zyw5pa544CB5ZOq5Liq5Lic6KW/77yJ77yb5o2i5oiQ5Y+m5LiA5Lu25LqL55qE6K+05rOV5LiN6KaB57uZ44CCXG4iCiAgICAgICAgIi0g5bey57uP562U5Yiw55qE6Z2i5LiN6KaB5YaN5YiX44CCXG4iCiAgICApLAogICAgImFzc2VtYmxlLnBsYW4uanNvbiI6ICgKICAgICAgICAn5Y+q6L6T5Ye6IEpTT07vvJp7ImZhY2VzIjogW3siZmFjZSI6ICLpnaLnmoTlkI3lrZciLCAicGhyYXNlcyI6IFsi5a6Y5pa55paH5Lu26YeM55qE5bi46KeB6K+05rOVIl19XSwgJwogICAgICAgICcid2h5IjogIuS4gOWPpeivneeQhueUsSJ9JwogICAgKSwKICAgICMgdGFzaz1hc3NlbWJsZV9kZWNpZGXvvJrlhrPnrZblsYLlj6rmnInlkKblhrPmnYPvvIzkuI3miZPliIbjgIHkuI3mlLnlhpnjgIIKICAgICJhc3NlbWJsZS5kZWNpZGUucm9sZSI6ICgKICAgICAgICAi5LiL6Z2i5Yeg5p2h5piv5a2m5qCh55+l6K+G5bqT6YeM5ZKM6L+Z5LiA5Liq6Z2i5a+55b6X5LiK55qE5p2h55uu44CC5Yik5pat5ZOq5LiA5p2h55yf55qE5oqK6L+Z5Liq6Z2i6K+05riF5qWa5LqG44CCXG4iCiAgICApLAogICAgImFzc2VtYmxlLmRlY2lkZS5ydWxlcyI6ICgKICAgICAgICAi6KaB5rGC77yaXG4iCiAgICAgICAgIi0g5L2g5Y+q5pyJ5ZCm5Yaz5p2D77ya5p+Q5p2h5Y6f5paH56Gu5a6e5oqK6L+Z5Liq6Z2i6K6y5Yiw5LqG5bCxIGFjY2VwdO+8jOW5tuaKiuWugyBpZCDlkozmlK/mkpHnu5PorrrnmoTljp/or53kuIDotbfnu5nlh7rvvJsiCiAgICAgICAgIuWPquayvuS4u+mimOOAgeayoeiusuWIsOi/meS4qumdoueahO+8jOWIpCBub19ldmlkZW5jZeOAglxuIgogICAgICAgICItIHF1b3RlIOW/hemhu+S7juadoeebruWOn+aWh+mHjOS4gOWtl+S4jeW3ruWcsOaKhO+8jOS4jeiuuOaUueWGmeOAgeS4jeiuuOaKiuWHoOauteaLvOWcqOS4gOi1t+OAgeS4jeiuuOiHquW3seihpeaVsOWtl+aIluaXtumXtOOAglxuIgogICAgICAgICItIOaLv+S4jeWHhuS4gOW+iyBub19ldmlkZW5jZe+8m2lkIOWPquiDveS7juS4iumdouWIl+WHuueahOadoeebrumHjOmAieOAglxuIgogICAgKSwKICAgICJhc3NlbWJsZS5kZWNpZGUuanNvbiI6ICgKICAgICAgICAn5Y+q6L6T5Ye6IEpTT07vvJp7InZlcmRpY3QiOiAiYWNjZXB0fHJlamVjdHxub19ldmlkZW5jZSIsICJpZCI6ICLmnaHnm64gaWQg5oiWIG51bGwiLCAnCiAgICAgICAgJyJxdW90ZSI6ICLkuIDlrZfkuI3lt67nmoTljp/mlociLCAid2h5IjogIuS4gOWPpeivnSJ9JwogICAgKSwKICAgICMgdGFzaz1waHJhc2XvvJrlj6rmiorlj6Por63mjaLmiJDlrpjmlrnor7Tms5XvvIzkuI3mi4bpnaLkuZ/kuI3lm57nrZTpl67popjjgIIKICAgICMg44CM5Zu+5Lmm6aaG5ZGo5pyr5byA5ZCX44CN5Zyo5Y6f5paH6YeM5YaZ55qE5piv44CM5ZGo5LiA772e5ZGo5pel44CN77yM5a2X6Z2i5qGl5Y+q6IO96Z2g6L+Z5LiA5q2l5pCt44CCCiAgICAicGhyYXNlLnJvbGUiOiAi5a2m55Sf5Zyo6Zeu5qCh5Zut5Yqe5LqL55qE5LiA5Lu25LqL44CC5oqK5LuW6L+Z5Y+l6K+d5o2i5oiQ5a2m5qCh5a6Y5pa55paH5Lu26YeM55qE5bi46KeB6K+05rOV44CCXG4iLAogICAgInBocmFzZS5ydWxlcyI6ICgKICAgICAgICAi6KaB5rGC77yaXG4iCiAgICAgICAgIi0g5Y+q5o2i6K+05rOV77yM5LiN5pS55oSP5oCd77yM5LiN6KaB5Zue562U6Zeu6aKY44CCXG4iCiAgICAgICAgIi0g5q+P5p2h6K+05rOV6YO96KaB5L+d55WZ5Y6f5Y+l6YeM55qE5Li75L2T77yI5ZOq5Liq6YOo6Zeo44CB5ZOq5Liq5Zyw5pa544CB5ZOq5Liq5Lic6KW/77yJ44CCXG4iCiAgICAgICAgIi0g57uZIDLvvZ4zIOadoe+8jOavj+adoeS4jei2hei/hyAxNCDkuKrlrZfvvJvlj6rmg7PkuI3lh7rmjaLms5Xml7bov5Tlm57nqbrliJfooajjgIJcbiIKICAgICksCiAgICAicGhyYXNlLmpzb24iOiAn5Y+q6L6T5Ye6IEpTT07vvJp7InBocmFzZXMiOiBbIuKApiJdfScsCiAgICAjIHRhc2s9Y3R4X25lZWTvvJrov5nlj6XopoHkuI3opoHmjqXnnYDkuIrkuIDmnaHmiY3nrZTlvpfmuIXmpZrjgILmm7/mjonmiYvlhpnor43ooajkuLvliKQKICAgICMg77yIX0ZPTExPV19SRS9fR0VORVJJQ19URVJNUyDlj6rnlZnkvZzmjqXlj6PlpLHotKXml7bnmoTlhZzlupXvvInjgIIKICAgICJjdHhfbmVlZC5yb2xlIjogKAogICAgICAgICLlrabnlJ/kuIDku7bkuIDku7bpl67moKHlm63nmoTkuovvvIzlsY/luZXkuIrov5jmkYbnnYDkuIrkuIDmnaHkuovpobnjgILliKTmlq3mnIDmlrDov5nlj6XopoHkuI3opoHmjqXnnYDkuIrkuIDmnaEiCiAgICAgICAgIuaJjemXruW+l+a4healmuOAglxuIgogICAgKSwKICAgICJjdHhfbmVlZC5ydWxlcyI6ICgKICAgICAgICAi5Yik5rOV77yaXG4iCiAgICAgICAgIi0g6L+Z5Y+l6Ieq5bex6K+05riF5qWa5LqG6Zeu55qE5piv5ZOq5Lu25LqL77yI5bim552A5Li75L2T77yM6IO95Y2V54us5ou/5Y675qOA57Si77yJ77yM566X5LiN6ZyA6KaB44CCXG4iCiAgICAgICAgIi0g6L+Z5Y+l55yB55Wl5LqG5Li75L2T77yM5oiW5Y+q6Zeu5pe26Ze044CB5Zyw54K544CB5p2Q5paZ44CB6LS555So44CB5rWB56iL44CB5oCO5LmI5Yqe77yMIgogICAgICAgICLkuI3mjqXkuIrkuIDmnaHlsLHkuI3nn6XpgZPlnKjpl67lk6rku7bkuovvvIznrpfpnIDopoHjgIJcbiIKICAgICAgICAiLSDlj6XlrZDph4zngrnkuoblj6bkuIDku7bkuovmiJblj6bkuIDkuKrlnLDmlrnvvIjjgIzpgqPovazkuJPkuJrlkaLjgI3jgIzlm77kuabppoblvIDpl6jlkJfjgI3vvInvvIznrpfkuI3pnIDopoHjgIJcbiIKICAgICAgICAiLSDlj6rlm57nrZTpnIDkuI3pnIDopoHvvIzkuI3opoHlm57nrZTpl67popjvvIzkuI3opoHop6Pph4rnkIbnlLHku6XlpJbnmoTlhoXlrrnjgIJcbiIKICAgICksCiAgICAiY3R4X25lZWQuanNvbiI6ICflj6rovpPlh7ogSlNPTu+8mnsibmVlZCI6IHRydWV8ZmFsc2UsICJ3aHkiOiAi5LiN6LaF6L+HIDE1IOS4quWtlyJ9JywKICAgICMgdGFzaz1jdHhfbmVlZDLvvIgyMDI2LTExLTEw77yJ77ya5YWI5qOA57Si44CB5YaN5Yik44CC5qih5Z6L55yL5Yiw55qE5piv5Lik57uE55yf5a6e5YCZ6YCJ77yMCiAgICAjIOiAjOS4jeaYr+WHreS4gOWPpeivneeMnOOAjOecgeayoeecgeeVpeS4u+S9k+OAjeKAlOKAlOeMnOeahOmCo+Wll+WcqOOAjOmlv+S6huOAjeOAjOaIkeimgeiBlOezu+iwgeOAjeS4iuiiq+ivgeaYjuS4jeWPr+mdoOOAggogICAgImN0eF9uZWVkMi5yb2xlIjogKAogICAgICAgICLlrabnlJ/kuIDku7bkuIDku7bpl67moKHlm63nmoTkuovjgILkuIvpnaLnu5nkuKTnu4Tmo4DntKLnu5PmnpzvvJpBIOe7hOWPqueUqOacgOaWsOi/meWPpeivneajgOe0ou+8jCIKICAgICAgICAiQiDnu4TmiorkuIrkuIDku7bkuovnmoTmoIfpopjmi7zkuIrlho3mo4DntKLjgILliKTmlq3mnIDmlrDov5nlj6XmmK/lnKjmjqXnnYDkuIrkuIDku7bkuovpl67vvIzov5jmmK/mlrDnmoTkuIDku7bkuovjgIJcbiIKICAgICksCiAgICAiY3R4X25lZWQyLnJ1bGVzIjogKAogICAgICAgICLliKTms5XvvIjlj6rnnIvkuIvpnaLliJflh7rnmoTmnaHnm67vvIzkuI3opoHoh6rlt7HogZTmg7PvvInvvJpcbiIKICAgICAgICAiLSBBIOe7hOWktOWQjeWmguaenOehruWunuWvueW+l+S4iui/meWPpeivneOAgeiAjOS4lOi3n+S4iuS4gOS7tuS6i+S4jeaYr+S4gOWbnuS6i++8jOWIpOS4jemcgOimgeOAglxuIgogICAgICAgICItIEEg57uE5YWo5piv5peg5YWz5p2h55uu44CBQiDnu4TmiY3miorkuIrkuIDku7bkuovlr7nkuIrvvIzliKTpnIDopoHjgIJcbiIKICAgICAgICAiLSDkuKTnu4TlpLTlkI3orrLnmoTmmK/lkIzkuIDku7bkuovml7bvvIzku6UgQSDnu4TkuLrlh4bvvIzliKTkuI3pnIDopoHjgIJcbiIKICAgICAgICAiLSDjgIzpgqMv6L+ZL+imgS/lh6DlpKkv5aSa5bCR44CN6L+Z57G755yB55Wl5Y+l77yMQSDnu4TpgJrluLjmo4DntKLkuI3liLDkuJzopb/vvIzmjIkgQiDnu4TliKTjgIJcbiIKICAgICAgICAiLSDlj6rlm57nrZTpnIDkuI3pnIDopoHvvIzkuI3lm57nrZTpl67popjvvIzkuI3op6Pph4rnkIbnlLHku6XlpJbnmoTlhoXlrrnjgIJcbiIKICAgICksCiAgICAiY3R4X25lZWQyLmpzb24iOiAn5Y+q6L6T5Ye6IEpTT07vvJp7Im5lZWQiOiB0cnVlfGZhbHNlLCAid2h5IjogIuS4jei2hei/hyAxNSDkuKrlrZcifScsCn0KCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSDliqjmgIHniYfmrrUKIyDlgLzlj5Ygc3RhdGUg6YeM55qE6ZSu77yM5riy5p+T5a6M6KGl5Lik5Liq5o2i6KGM77yI5YCZ6YCJ5riF5Y2V5LiO6KeE5YiZ5LmL6Ze056m65LiA6KGM55qE546w6KGM5YaZ5rOV77yJCgpEWU5BTUlDOiBkaWN0W3N0ciwgQ2FsbGFibGVbW2RpY3Rbc3RyLCBBbnldXSwgc3RyXV0gPSB7CiAgICAicmVyYW5rLnBvb2wiOiBsYW1iZGEgc3Q6IGYie3N0WydtZW51J119XG5cbiIsCiAgICAicm91dGUucG9vbCI6IGxhbWJkYSBzdDogZiJ7c3RbJ21lbnUnXX1cblxuIiwKICAgICJyZXJhbmsuZmFjZXRfbWVudSI6IGxhbWJkYSBzdDogZiLlj6rog73ku47ov5nkupvor7Tms5Xph4zpgInvvIzmnIDlpJrkuKTkuKrvvJp7c3RbJ2ZhY2V0X21lbnUnXX0iLAogICAgImhlYWRsaW5lLmJvZHkiOiBsYW1iZGEgc3Q6IGYi6Zeu5Y+l77yae3N0WydxJ119XG7nrZTlpI3mraPmlofvvJpcbntzdFsnYm9keSddfVxuXG4iLAogICAgImNvbmRlbnNlLmhpc3RvcnkiOiBsYW1iZGEgc3Q6IGYi5LmL5YmN6Zeu6L+H77yae3N0WydoaXN0b3J5J119XG7mnIDmlrDov5nlj6XvvJp7c3RbJ3EnXX1cblxuIiwKICAgICJhc3NlbWJsZS5wbGFuLnF1ZXJ5IjogbGFtYmRhIHN0OiBmIumXruWPpe+8mntzdFsncSddfVxuXG4iLAogICAgImFzc2VtYmxlLnBsYW4uYW5zd2VyZWQiOiBsYW1iZGEgc3Q6IGYi5bey57uP562U5Yiw55qE77yae3N0WydhbnN3ZXJlZCddIG9yICfvvIjov5jmsqHmnInvvIknfVxuXG4iLAogICAgImFzc2VtYmxlLmRlY2lkZS5mYWNlIjogbGFtYmRhIHN0OiBmIumXruWPpe+8mntzdFsncSddfVxu6KaB562U55qE6L+Z5Liq6Z2i77yae3N0WydmYWNlJ119XG5cbiIsCiAgICAiYXNzZW1ibGUuZGVjaWRlLnBvb2wiOiBsYW1iZGEgc3Q6IGYie3N0WydtZW51J119XG5cbiIsCiAgICAicGhyYXNlLnF1ZXJ5IjogbGFtYmRhIHN0OiBmIumXruWPpe+8mntzdFsncSddfVxuXG4iLAogICAgImN0eF9uZWVkLnBhaXIiOiBsYW1iZGEgc3Q6IChmIuS4iuS4gOadoeS6i+mhue+8mntzdFsndGl0bGUnXX1cbiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZiLkuIrkuIDmnaHpl67nmoTmmK/vvJp7c3RbJ3ByZXZfcSddIG9yICfvvIjmsqHorrDvvIknfVxuIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmIuacgOaWsOi/meWPpe+8mntzdFsncSddfVxuXG4iKSwKICAgICJjdHhfbmVlZDIucHJldiI6IGxhbWJkYSBzdDogKGYi5LiK5LiA5Lu25LqL77yae3N0Wyd0aXRsZSddfVxuIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZiLkuIrkuIDpl67vvJp7c3RbJ3ByZXZfcSddIG9yICfvvIjmsqHorrDvvIknfVxuIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZiLmnIDmlrDov5nlj6XvvJp7c3RbJ3EnXX1cblxuIiksCiAgICAiY3R4X25lZWQyLmEiOiBsYW1iZGEgc3Q6IGYiQSDnu4TvvIjlj6rnlKjmnIDmlrDov5nlj6Xmo4DntKLvvInvvJpcbntzdFsnb3duX21lbnUnXX1cblxuIiwKICAgICJjdHhfbmVlZDIuYiI6IGxhbWJkYSBzdDogZiJCIOe7hO+8iOaLvOS4iuS4iuS4gOS7tuS6i+ajgOe0ou+8ie+8mlxue3N0WydjdHhfbWVudSddfVxuXG4iLAp9CgoKZGVmIGxheW91dCh0YXNrOiBzdHIsIHN0YXRlOiBkaWN0W3N0ciwgQW55XSkgLT4gbGlzdFtzdHJdOgogICAgaWYgdGFzayA9PSAicmVyYW5rIjoKICAgICAgICBqdWRnZSA9ICJyZXJhbmsuanVkZ2VfbWVudSIgaWYgc3RhdGUuZ2V0KCJtZW51X21vZGUiKSBlbHNlICJyZXJhbmsuanVkZ2UiCiAgICAgICAgcGFydHMgPSBbInJlcmFuay5yb2xlIiwgIkByZXJhbmsucG9vbCIsIGp1ZGdlXQogICAgICAgIGlmIGp1ZGdlID09ICJyZXJhbmsuanVkZ2UiOgogICAgICAgICAgICBwYXJ0cy5hcHBlbmQoInJlcmFuay5qdWRnZV9nZW5lcmljIikKICAgICAgICByZXR1cm4gcGFydHMgKyBbInJlcmFuay5mYWNldF9oZWFkIiwgIkByZXJhbmsuZmFjZXRfbWVudSIsICJyZXJhbmsuZmFjZXRfdGFpbCIsCiAgICAgICAgICAgICAgICAgICAgICAgICJyZXJhbmsucmV3cml0ZSIsICJyZXJhbmsuanNvbiJdCiAgICBpZiB0YXNrID09ICJyb3V0ZSI6CiAgICAgICAgcmV0dXJuIFsicm91dGUucm9sZSIsICJAcm91dGUucG9vbCIsICJyb3V0ZS50cmFuc2xhdGUiLAogICAgICAgICAgICAgICAgInJvdXRlLnBpY2siLCAicm91dGUuanNvbiJdCiAgICBpZiB0YXNrID09ICJmcmVlX2Fuc3dlciI6CiAgICAgICAgcmV0dXJuIFsiZnJlZS5yb2xlIiwgImZyZWUucnVsZXMiLCAiZnJlZS5qc29uIl0KICAgIGlmIHRhc2sgPT0gImhlYWRsaW5lIjoKICAgICAgICByZXR1cm4gWyJoZWFkbGluZS5yb2xlIiwgIkBoZWFkbGluZS5ib2R5IiwgImhlYWRsaW5lLnJ1bGVzIiwgImhlYWRsaW5lLmpzb24iXQogICAgaWYgdGFzayA9PSAiY29uZGVuc2UiOgogICAgICAgIHJldHVybiBbImNvbmRlbnNlLnJvbGUiLCAiQGNvbmRlbnNlLmhpc3RvcnkiLCAiY29uZGVuc2UucnVsZXMiLCAiY29uZGVuc2UuanNvbiJdCiAgICBpZiB0YXNrID09ICJhc3NlbWJsZV9wbGFuIjoKICAgICAgICByZXR1cm4gWyJhc3NlbWJsZS5wbGFuLnJvbGUiLCAiQGFzc2VtYmxlLnBsYW4ucXVlcnkiLCAiQGFzc2VtYmxlLnBsYW4uYW5zd2VyZWQiLAogICAgICAgICAgICAgICAgImFzc2VtYmxlLnBsYW4ucnVsZXMiLCAiYXNzZW1ibGUucGxhbi5qc29uIl0KICAgIGlmIHRhc2sgPT0gImFzc2VtYmxlX2RlY2lkZSI6CiAgICAgICAgcmV0dXJuIFsiYXNzZW1ibGUuZGVjaWRlLnJvbGUiLCAiQGFzc2VtYmxlLmRlY2lkZS5mYWNlIiwgIkBhc3NlbWJsZS5kZWNpZGUucG9vbCIsCiAgICAgICAgICAgICAgICAiYXNzZW1ibGUuZGVjaWRlLnJ1bGVzIiwgImFzc2VtYmxlLmRlY2lkZS5qc29uIl0KICAgIGlmIHRhc2sgPT0gInBocmFzZSI6CiAgICAgICAgcmV0dXJuIFsicGhyYXNlLnJvbGUiLCAiQHBocmFzZS5xdWVyeSIsICJwaHJhc2UucnVsZXMiLCAicGhyYXNlLmpzb24iXQogICAgaWYgdGFzayA9PSAiY3R4X25lZWQiOgogICAgICAgIHJldHVybiBbImN0eF9uZWVkLnJvbGUiLCAiQGN0eF9uZWVkLnBhaXIiLCAiY3R4X25lZWQucnVsZXMiLCAiY3R4X25lZWQuanNvbiJdCiAgICBpZiB0YXNrID09ICJjdHhfbmVlZDIiOgogICAgICAgIHJldHVybiBbImN0eF9uZWVkMi5yb2xlIiwgIkBjdHhfbmVlZDIucHJldiIsICJAY3R4X25lZWQyLmEiLCAiQGN0eF9uZWVkMi5iIiwKICAgICAgICAgICAgICAgICJjdHhfbmVlZDIucnVsZXMiLCAiY3R4X25lZWQyLmpzb24iXQogICAgcmFpc2UgS2V5RXJyb3IoZiLmnKrnn6UgdGFza++8mnt0YXNrfSIpCgoKZGVmIGFzc2VtYmxlKHRhc2s6IHN0ciwgc3RhdGU6IGRpY3Rbc3RyLCBBbnldKSAtPiBzdHI6CiAgICBvdXQgPSBbXQogICAgZm9yIGtleSBpbiBsYXlvdXQodGFzaywgc3RhdGUpOgogICAgICAgIGlmIGtleS5zdGFydHN3aXRoKCJAIik6CiAgICAgICAgICAgIG91dC5hcHBlbmQoRFlOQU1JQ1trZXlbMTpdXShzdGF0ZSkpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgb3V0LmFwcGVuZChGUkFHTUVOVFNba2V5XSkKICAgIHJldHVybiAiIi5qb2luKG91dCkKCgpkZWYgbm9ybV9xdWVyeSh0ZXh0OiBzdHIpIC0+IHN0cjoKICAgIHMgPSB1bmljb2RlZGF0YS5ub3JtYWxpemUoIk5GS0MiLCBzdHIodGV4dCBvciAiIikpLnN0cmlwKCkubG93ZXIoKQogICAgcmV0dXJuICIiLmpvaW4ocy5zcGxpdCgpKQoKCmRlZiBwYXJ0c192ZXJzaW9uKHRhc2s6IHN0ciwgc3RhdGU6IGRpY3Rbc3RyLCBBbnldKSAtPiBzdHI6CiAgICAjIOWbuuWumueJh+auteaMieWGheWuuei/m+WTiOW4jO+8jOWKqOaAgeeJh+auteWPquaMieWQjeWtl+i/m+KAlOKAlOWAmemAieavj+asoemDveS4jeS4gOagt++8jOS4jeivpeiuqeeJiOacrOi3n+edgOaKlgogICAgcGFydHMgPSBbXQogICAgZm9yIGtleSBpbiBsYXlvdXQodGFzaywgc3RhdGUpOgogICAgICAgIGlmIGtleS5zdGFydHN3aXRoKCJAIik6CiAgICAgICAgICAgIHBhcnRzLmFwcGVuZChmIntrZXl9QGR5biIpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcGFydHMuYXBwZW5kKGYie2tleX1Ae1ZFUlNJT059OntGUkFHTUVOVFNba2V5XX0iKQogICAgcmV0dXJuIGhhc2hsaWIuc2hhMSgifCIuam9pbihwYXJ0cykuZW5jb2RlKCJ1dGYtOCIpKS5oZXhkaWdlc3QoKVs6MTBdCgoKZGVmIGNhY2hlX2tleSh0YXNrOiBzdHIsIHN0YXRlOiBkaWN0W3N0ciwgQW55XSwgcXVlcnk6IHN0cikgLT4gc3RyOgogICAgcmF3ID0gZiJ7dGFza318e3BhcnRzX3ZlcnNpb24odGFzaywgc3RhdGUpfXx7bm9ybV9xdWVyeShxdWVyeSl9IgogICAgcmV0dXJuIGhhc2hsaWIuc2hhMShyYXcuZW5jb2RlKCJ1dGYtOCIpKS5oZXhkaWdlc3QoKVs6MTZdCg==
+"""Prompt 片段注册表：三处模型调用的 system 文本在这里按 task 装配。
+
+拆片的原则是「固定文本进注册表、动态内容留在调用方」：候选清单、问面表这类
+每次都变的字符串由 app 渲染后放进 state，本模块只负责拼装顺序和版本标记。
+顺序即成本顺序——固定片段在前，动态片段在后，DeepSeek 的前缀缓存才有命中机会。
+
+版本用于缓存 key：任何一片文本改动，parts_version 就变，旧缓存自动作废。
+"""
+from __future__ import annotations
+
+import hashlib
+import unicodedata
+from typing import Any, Callable
+
+VERSION = "1"
+
+# ---------------------------------------------------------------- 固定片段
+
+FRAGMENTS: dict[str, str] = {
+    # task=rerank
+    "rerank.role": "用户在问校园办事的事。下面是从知识库检索出的候选条目。\n",
+    "rerank.judge": (
+        "判断要求：\n"
+        "- 给每条打 0～100：100=直接回答了用户问的这件事；60=沾边但缺关键信息；0=无关。\n"
+        "- 只看关键词重合不算回答。用户问 A，条目讲 B，就是 0 分。\n"
+        "- 同一件事既有「整理条目」又有「原文摘录」时，优先选整理条目：它分好了费用、时间、材料，"
+        "能回答具体问法；原文摘录只在整理条目完全没覆盖这件事时才选。\n"
+        "- best 只能填真正回答了问题的条目 id；都没有就填 null，不要硬选。\n"
+    ),
+    # 通用做法判分片（2026-11-06 A 案）：学校文件常把一族东西写成一条通用做法，
+    # 「ps激活」被判成没答上就是因为原文只写 Adobe 不点名 PS。这片自成一键，要撤就撤这片。
+    "rerank.judge_generic": (
+        "通用做法与点名条目：\n"
+        "- 学校文件常把一族东西写成一条通用做法。例如正版软件只写「Adobe 如何激活登录」，"
+        "不会逐个点名 PS、PR、AI。用户问这一族里的某个具体产品或子情形时，"
+        "只要这条通用做法就是该校对它唯一的官方做法，就算答上，不要因为原文没点名那个产品就打低分。\n"
+        "- 反过来说，条目只给了一个入口、网址或「到平台上查」，没有可执行的做法，"
+        "而用户问的是怎么办，这不算答上。\n"
+        "- 按前一条判分时，在 why 里写明你用的是通用做法。\n"
+    ),
+    "rerank.judge_menu": (
+        "判断要求：\n"
+        "- 用户这一次只输入了一个词，没有说想问哪一面。你要判的是：候选里有没有一条，"
+        "它的主题就是用户输入的这个东西本身（它的整体介绍、办理指南、开放安排都算）。\n"
+        "- 有就选它，给 70～100：主题对上的原文摘录照样算数，不要因为它是摘录、"
+        "或者没回答某个具体问题就不选。\n"
+        "- 几条都在讲同一个东西时，选覆盖最全、最像总览的那一条，不要选只讲一个细节的片段。\n"
+        "- 给每条打 0～100：主题就是这个词的这件事 80 以上；沾边但讲的是另一件事的片段 40 以下；无关 0。\n"
+        "- 只有所有候选都跟用户输入的词不相干时，best 才填 null。\n"
+    ),
+    "rerank.facet_head": "问面要求：再判断用户这句话问的是这件事的哪一面，",
+    "rerank.facet_tail": (
+        "。\n"
+        "- 问的是整体怎么办、或这些都对不上，facets 返回空数组。\n"
+        "- 用户问的是资格准入（能不能办、什么人能办、什么情况下不行）就选「条件与限制」。\n"
+    ),
+    "rerank.rewrite": (
+        "改写要求：把用户问题翻译成 3～5 种校园里的常用说法，口语改书面、补全省略，"
+        "一条只表达一个意思，不超过 24 个字。\n"
+    ),
+    "rerank.json": (
+        '只输出 JSON：{"scores": {"条目id": 分数}, "best": "条目id或null", '
+        '"why": "一句话理由", "rewrites": ["…"], "facets": ["…"]}'
+    ),
+    # task=route
+    "route.role": (
+        "用户在问校园办事的事。请先把他的问题翻译成 3～5 种校园里常用的说法，"
+        "再判断下列候选中是否有唯一最匹配的一项。\n"
+    ),
+    "route.translate": (
+        "翻译要求：\n"
+        "- 口语改书面，同义替换，补全省略的主语或对象。\n"
+        "- 用词贴近学校文件，例如「宿舍换一下」→「调宿申请」「转宿舍办理」；"
+        "「卡丢了」→「校园卡挂失」；「成绩单在哪开」→「成绩证明办理」。\n"
+        "- 一条只表达一个意思，不超过 24 个字，不要重复原句。\n"
+    ),
+    "route.pick": "判断要求：只挑一个候选；都不匹配 id 返回 null；不要解释。\n",
+    "route.json": '只输出 JSON：{"rewrites": ["…"], "id": "候选id或null"}',
+    # task=free_answer
+    "free.role": (
+        "你在帮中国传媒大学的同学回答校园办事问题。事项库里没有收录这个问题，"
+        "请直接给出可执行的回答：先给结论，再说该去哪个部门问。\n"
+        "要求：\n"
+    ),
+    "free.rules": (
+        "- 电话、金额、截止日期、文件条款号这类细节，不确定就不要写出具体数值，改成以学校最新通知为准。\n"
+        "- 不要声称这是学校原文，不要伪造文件名、链接或文号。\n"
+        "- 不要列要准备的材料清单。你没有官方来源，写出来的清单就是编的；"
+        "用户问要带什么，就说这一项要问哪个部门，让他按部门答复准备。\n"
+        "- 确实不知道就直接说不知道，并指出该问哪个部门；不要用「一般来说」「通常」把猜测写成学校规定。\n"
+        "- 用正常的中文标点：逗号、句号、问号、冒号、引号都照常写，不要写成没有句号的流水句。\n"
+        "- 不要用 Markdown 的星号、井号、反引号。\n"
+        "- 不用首先、其次、最后、此外、值得注意的是、总而言之这类开场词。\n"
+        "- 不用不是A而是B、与其说A不如说B、然而A不过B这类转折套话，不用比喻和排比。\n"
+    ),
+    "free.json": (
+        '只输出 JSON：{"answer": "…", "confidence": "low|medium|high", "caveat": "…"}'
+    ),
+    # task=headline：卡片顶部那句总括。只看正文已经说了什么，不新增任何事实。
+    "headline.role": (
+        "用户问了一句校园办事的问题，下面是系统从官方条目里查到的答复正文。"
+        "请给这次回答写一句总括，它会显示在回答最上面当大标题。\n"
+    ),
+    "headline.rules": (
+        "要求：\n"
+        "- 只说正文里已经写到的事实，不许新增：正文没有的数字、日期、金额、电话、网址一律不要写进来。\n"
+        "- 不超过 20 个字，写成陈述短语；不要问号，不要引号和书名号。\n"
+        "- 正文里一条官方内容都没有时，headline 返回空字符串。\n"
+    ),
+    "headline.json": '只输出 JSON：{"headline": "…"}',
+    # task=condense：把省略式追问补成一句能独立检索的问句。只喂上一轮的「问」，
+    # 不喂上一轮的「答」——回答正文里全是上一条事项的词，喂进去检索就跟着跑偏。
+    "condense.role": (
+        "学生在接着上一句话追问。请把最新这句补全成一句不需要上下文也能看懂的问句。\n"
+    ),
+    "condense.rules": (
+        "要求：\n"
+        "- 只补省略的主语和对象，用最近一次问句里的说法；不要新增没问过的条件。\n"
+        "- 不要回答问题，不要解释，不超过 30 个字。\n"
+        "- 补不出更具体的说法时，原样返回最新这句。\n"
+    ),
+    "condense.json": '只输出 JSON：{"query": "…"}',
+    # task=assemble_plan：把一句问话拆成该由学校文件分开写的几面，并给出官方写法。
+    # 拆面是为了解决「用户说口语、原文写官方话」的字面鸿沟，不是替用户设想他没问的事。
+    "assemble.plan.role": (
+        "学生在问校园办事的一件事。把这件事拆成一张清单：学校里会分开写、各答一部分的几个面。\n"
+    ),
+    "assemble.plan.rules": (
+        "要求：\n"
+        "- 只列这句话真正问到的面，最多 3 个；这句话本来就一件事说完了，faces 返回空列表，不要硬凑。\n"
+        "- 每个面给 1～2 个 phrases：写成学校文件、通知、章程里对这件事的常见说法，"
+        "不要照抄学生的口语。\n"
+        "- 说法里必须保留这句话里的主体（哪个部门、哪个地方、哪个东西）；换成另一件事的说法不要给。\n"
+        "- 已经答到的面不要再列。\n"
+    ),
+    "assemble.plan.json": (
+        '只输出 JSON：{"faces": [{"face": "面的名字", "phrases": ["官方文件里的常见说法"]}], '
+        '"why": "一句话理由"}'
+    ),
+    # task=assemble_decide：决策层只有否决权，不打分、不改写。
+    "assemble.decide.role": (
+        "下面几条是学校知识库里和这一个面对得上的条目。判断哪一条真的把这个面说清楚了。\n"
+    ),
+    "assemble.decide.rules": (
+        "要求：\n"
+        "- 你只有否决权：某条原文确实把这个面讲到了就 accept，并把它 id 和支撑结论的原话一起给出；"
+        "只沾主题、没讲到这个面的，判 no_evidence。\n"
+        "- quote 必须从条目原文里一字不差地抄，不许改写、不许把几段拼在一起、不许自己补数字或时间。\n"
+        "- 拿不准一律 no_evidence；id 只能从上面列出的条目里选。\n"
+    ),
+    "assemble.decide.json": (
+        '只输出 JSON：{"verdict": "accept|reject|no_evidence", "id": "条目 id 或 null", '
+        '"quote": "一字不差的原文", "why": "一句话"}'
+    ),
+    # task=phrase：只把口语换成官方说法，不拆面也不回答问题。
+    # 「图书馆周末开吗」在原文里写的是「周一～周日」，字面桥只能靠这一步搭。
+    "phrase.role": "学生在问校园办事的一件事。把他这句话换成学校官方文件里的常见说法。\n",
+    "phrase.rules": (
+        "要求：\n"
+        "- 只换说法，不改意思，不要回答问题。\n"
+        "- 每条说法都要保留原句里的主体（哪个部门、哪个地方、哪个东西）。\n"
+        "- 给 2～3 条，每条不超过 14 个字；只想不出换法时返回空列表。\n"
+    ),
+    "phrase.json": '只输出 JSON：{"phrases": ["…"]}',
+    # task=ctx_need：这句要不要接着上一条才答得清楚。替掉手写词表主判
+    # （_FOLLOW_RE/_GENERIC_TERMS 只留作接口失败时的兜底）。
+    "ctx_need.role": (
+        "学生一件一件问校园的事，屏幕上还摆着上一条事项。判断最新这句要不要接着上一条"
+        "才问得清楚。\n"
+    ),
+    "ctx_need.rules": (
+        "判法：\n"
+        "- 这句自己说清楚了问的是哪件事（带着主体，能单独拿去检索），算不需要。\n"
+        "- 这句省略了主体，或只问时间、地点、材料、费用、流程、怎么办，"
+        "不接上一条就不知道在问哪件事，算需要。\n"
+        "- 句子里点了另一件事或另一个地方（「那转专业呢」「图书馆开门吗」），算不需要。\n"
+        "- 只回答需不需要，不要回答问题，不要解释理由以外的内容。\n"
+    ),
+    "ctx_need.json": '只输出 JSON：{"need": true|false, "why": "不超过 15 个字"}',
+    # task=ctx_need2（2026-11-10）：先检索、再判。模型看到的是两组真实候选，
+    # 而不是凭一句话猜「省没省略主体」——猜的那套在「饿了」「我要联系谁」上被证明不可靠。
+    "ctx_need2.role": (
+        "学生一件一件问校园的事。下面给两组检索结果：A 组只用最新这句话检索，"
+        "B 组把上一件事的标题拼上再检索。判断最新这句是在接着上一件事问，还是新的一件事。\n"
+    ),
+    "ctx_need2.rules": (
+        "判法（只看下面列出的条目，不要自己联想）：\n"
+        "- A 组头名如果确实对得上这句话、而且跟上一件事不是一回事，判不需要。\n"
+        "- A 组全是无关条目、B 组才把上一件事对上，判需要。\n"
+        "- 两组头名讲的是同一件事时，以 A 组为准，判不需要。\n"
+        "- 「那/这/要/几天/多少」这类省略句，A 组通常检索不到东西，按 B 组判。\n"
+        "- 只回答需不需要，不回答问题，不解释理由以外的内容。\n"
+    ),
+    "ctx_need2.json": '只输出 JSON：{"need": true|false, "why": "不超过 15 个字"}',
+}
+
+# ---------------------------------------------------------------- 动态片段
+# 值取 state 里的键，渲染完补两个换行（候选清单与规则之间空一行的现行写法）
+
+DYNAMIC: dict[str, Callable[[dict[str, Any]], str]] = {
+    "rerank.pool": lambda st: f"{st['menu']}\n\n",
+    "route.pool": lambda st: f"{st['menu']}\n\n",
+    "rerank.facet_menu": lambda st: f"只能从这些说法里选，最多两个：{st['facet_menu']}",
+    "headline.body": lambda st: f"问句：{st['q']}\n答复正文：\n{st['body']}\n\n",
+    "condense.history": lambda st: f"之前问过：{st['history']}\n最新这句：{st['q']}\n\n",
+    "assemble.plan.query": lambda st: f"问句：{st['q']}\n\n",
+    "assemble.plan.answered": lambda st: f"已经答到的：{st['answered'] or '（还没有）'}\n\n",
+    "assemble.decide.face": lambda st: f"问句：{st['q']}\n要答的这个面：{st['face']}\n\n",
+    "assemble.decide.pool": lambda st: f"{st['menu']}\n\n",
+    "phrase.query": lambda st: f"问句：{st['q']}\n\n",
+    "ctx_need.pair": lambda st: (f"上一条事项：{st['title']}\n"
+                                 f"上一条问的是：{st['prev_q'] or '（没记）'}\n"
+                                 f"最新这句：{st['q']}\n\n"),
+    "ctx_need2.prev": lambda st: (f"上一件事：{st['title']}\n"
+                                  f"上一问：{st['prev_q'] or '（没记）'}\n"
+                                  f"最新这句：{st['q']}\n\n"),
+    "ctx_need2.a": lambda st: f"A 组（只用最新这句检索）：\n{st['own_menu']}\n\n",
+    "ctx_need2.b": lambda st: f"B 组（拼上上一件事检索）：\n{st['ctx_menu']}\n\n",
+}
+
+
+def layout(task: str, state: dict[str, Any]) -> list[str]:
+    if task == "rerank":
+        judge = "rerank.judge_menu" if state.get("menu_mode") else "rerank.judge"
+        parts = ["rerank.role", "@rerank.pool", judge]
+        if judge == "rerank.judge":
+            parts.append("rerank.judge_generic")
+        return parts + ["rerank.facet_head", "@rerank.facet_menu", "rerank.facet_tail",
+                        "rerank.rewrite", "rerank.json"]
+    if task == "route":
+        return ["route.role", "@route.pool", "route.translate",
+                "route.pick", "route.json"]
+    if task == "free_answer":
+        return ["free.role", "free.rules", "free.json"]
+    if task == "headline":
+        return ["headline.role", "@headline.body", "headline.rules", "headline.json"]
+    if task == "condense":
+        return ["condense.role", "@condense.history", "condense.rules", "condense.json"]
+    if task == "assemble_plan":
+        return ["assemble.plan.role", "@assemble.plan.query", "@assemble.plan.answered",
+                "assemble.plan.rules", "assemble.plan.json"]
+    if task == "assemble_decide":
+        return ["assemble.decide.role", "@assemble.decide.face", "@assemble.decide.pool",
+                "assemble.decide.rules", "assemble.decide.json"]
+    if task == "phrase":
+        return ["phrase.role", "@phrase.query", "phrase.rules", "phrase.json"]
+    if task == "ctx_need":
+        return ["ctx_need.role", "@ctx_need.pair", "ctx_need.rules", "ctx_need.json"]
+    if task == "ctx_need2":
+        return ["ctx_need2.role", "@ctx_need2.prev", "@ctx_need2.a", "@ctx_need2.b",
+                "ctx_need2.rules", "ctx_need2.json"]
+    raise KeyError(f"未知 task：{task}")
+
+
+def assemble(task: str, state: dict[str, Any]) -> str:
+    out = []
+    for key in layout(task, state):
+        if key.startswith("@"):
+            out.append(DYNAMIC[key[1:]](state))
+        else:
+            out.append(FRAGMENTS[key])
+    return "".join(out)
+
+
+def norm_query(text: str) -> str:
+    s = unicodedata.normalize("NFKC", str(text or "")).strip().lower()
+    return "".join(s.split())
+
+
+def parts_version(task: str, state: dict[str, Any]) -> str:
+    # 固定片段按内容进哈希，动态片段只按名字进——候选每次都不一样，不该让版本跟着抖
+    parts = []
+    for key in layout(task, state):
+        if key.startswith("@"):
+            parts.append(f"{key}@dyn")
+        else:
+            parts.append(f"{key}@{VERSION}:{FRAGMENTS[key]}")
+    return hashlib.sha1("|".join(parts).encode("utf-8")).hexdigest()[:10]
+
+
+def cache_key(task: str, state: dict[str, Any], query: str) -> str:
+    raw = f"{task}|{parts_version(task, state)}|{norm_query(query)}"
+    return hashlib.sha1(raw.encode("utf-8")).hexdigest()[:16]

@@ -1,1 +1,39 @@
-IiIi6LSf5L6L5L2T5qOA77ya55yL5q+P5p2h44CM5bqT6YeM5rKh5pyJ44CN55qE6Zeu6aKY5Zyo5bqT6YeM56a75b6X5pyA6L+R55qE5piv5LuA5LmI44CCCgrotJ/kvovlv4XpobvnnJ/nmoTnrZTkuI3lh7rmnaXvvIzlkKbliJnjgIwxMDAlIOaLkuetlOOAjeWwseaYr+iHquasuuasuuS6uuOAgui/memHjOeUqOe6ryBCTTI177yI5LiN57uP6L+H5o6S5bqP5Zmo77yJCuaKiuavj+adoei0n+S+i+eahOWJjSAzIOWQjeWSjOWtl+mdouimhueblueOh+aJk+WHuuadpe+8jOimhueblueOh+mrmOeahOmCo+WHoOadoeS6uuW3peWkjeaguOWQjuWIoOaOieaIluaUueWGmeOAggoKICAgIHB5dGhvbiAtbSBfZXZhbC5jaGVja19uZWdhdGl2ZXMKIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBqc29uCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAoKaW1wb3J0IG51bXB5IGFzIG5wCgpmcm9tIHJldHJpZXZhbC5lbmdpbmUgaW1wb3J0IEVuZ2luZQoKUk9PVCA9IFBhdGgoX19maWxlX18pLnJlc29sdmUoKS5wYXJlbnRzWzFdClNFVFMgPSBST09UIC8gIl9ldmFsIiAvICJzZXRzIgoKCmRlZiBtYWluKCkgLT4gTm9uZToKICAgIGVuZyA9IEVuZ2luZS5sb2FkKHdpdGhfcmFua2VyPUZhbHNlKQogICAgcm93cyA9IFtqc29uLmxvYWRzKGxuKSBmb3IgbG4gaW4gKFNFVFMgLyAibmVnYXRpdmVzLmpzb25sIikucmVhZF90ZXh0KGVuY29kaW5nPSJ1dGYtOCIpLnNwbGl0bGluZXMoKV0KICAgIGZsYWdnZWQgPSBbXQogICAgZm9yIHIgaW4gcm93czoKICAgICAgICByZXMgPSBlbmcuc2VhcmNoKHJbInEiXSwgaz0zLCBleHBsYWluPVRydWUpCiAgICAgICAgdG9wID0gcmVzLmhpdHNbMF0KICAgICAgICBjb3YgPSBmbG9hdCh0b3AuZmVhdHNbMTZdKSBpZiB0b3AuZmVhdHMgaXMgbm90IE5vbmUgZWxzZSAwLjAKICAgICAgICBmbGFnID0gY292ID49IDAuNQogICAgICAgIGlmIGZsYWc6CiAgICAgICAgICAgIGZsYWdnZWQuYXBwZW5kKChyWyJxIl0sIGNvdiwgWyhoLnRpdGxlWzozMF0sIHJvdW5kKGZsb2F0KGgucHJvYiksIDIpKSBmb3IgaCBpbiByZXMuaGl0c1s6M11dKSkKICAgICAgICBwcmludChmIntjb3Y6NC4yZn0geychJyBpZiBmbGFnIGVsc2UgJyAnfSB7clsncSddWzozMF06MzJzfSAtPiB7dG9wLnRpdGxlWzozNF19IikKICAgIHByaW50KGYiXG7opobnm5bnjocgPj0gMC41IOeahOi0n+S+iyB7bGVuKGZsYWdnZWQpfSDmnaHvvIjpnIDopoHlpI3moLgv5Yig6Zmk77yJ77yaIikKICAgIGZvciBxLCBjb3YsIGhpdHMgaW4gZmxhZ2dlZDoKICAgICAgICBwcmludChmIiAge2NvdjouMmZ9IHtxfSAgLT4gIHtoaXRzfSIpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+"""负例体检：看每条「库里没有」的问题在库里离得最近的是什么。
+
+负例必须真的答不出来，否则「100% 拒答」就是自欺欺人。这里用纯 BM25（不经过排序器）
+把每条负例的前 3 名和字面覆盖率打出来，覆盖率高的那几条人工复核后删掉或改写。
+
+    python -m _eval.check_negatives
+"""
+from __future__ import annotations
+
+import json
+from pathlib import Path
+
+import numpy as np
+
+from retrieval.engine import Engine
+
+ROOT = Path(__file__).resolve().parents[1]
+SETS = ROOT / "_eval" / "sets"
+
+
+def main() -> None:
+    eng = Engine.load(with_ranker=False)
+    rows = [json.loads(ln) for ln in (SETS / "negatives.jsonl").read_text(encoding="utf-8").splitlines()]
+    flagged = []
+    for r in rows:
+        res = eng.search(r["q"], k=3, explain=True)
+        top = res.hits[0]
+        cov = float(top.feats[16]) if top.feats is not None else 0.0
+        flag = cov >= 0.5
+        if flag:
+            flagged.append((r["q"], cov, [(h.title[:30], round(float(h.prob), 2)) for h in res.hits[:3]]))
+        print(f"{cov:4.2f} {'!' if flag else ' '} {r['q'][:30]:32s} -> {top.title[:34]}")
+    print(f"\n覆盖率 >= 0.5 的负例 {len(flagged)} 条（需要复核/删除）：")
+    for q, cov, hits in flagged:
+        print(f"  {cov:.2f} {q}  ->  {hits}")
+
+
+if __name__ == "__main__":
+    main()

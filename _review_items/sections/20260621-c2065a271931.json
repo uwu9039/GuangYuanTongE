@@ -1,1 +1,116 @@
-ewogImtleSI6ICIyMDI2MDYyMS1jMjA2NWEyNzE5MzEiLAogInRpdGxlIjogIuWxleiniOmihOWRiu+9nOS/oeaBr+S8oOaSreWtpumZouKAnOWkp+WcsOeahOWbnuWTjeKAneWkp+WcsOS8oOWqkuWdiuekvuS8muiwg+eglOS6lOWRqOW5tOaIkOaenOWxleWNs+WwhuW8gOW5lSIsCiAidHJ1bmNhdGVkIjogZmFsc2UsCiAic2VjdGlvbnMiOiBbCiAgewogICAibm8iOiAi6aG16Z2i5qGG5p62IiwKICAgImhlYWRpbmciOiAi6aG16Z2i5qCH6aKY44CB56uZ54K55qCP55uu5a+86Iiq5LiO5qCP55uu6aG15aS0IiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzEsIDM0XSwKICAgIml0ZW1zIjogWyJwdC03MTczOGE4MTJmIl0sCiAgICJjaGFycyI6IDM1MgogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi5bGV6KeI5ZCv5bmV44CB6aG555uu57yY6LW35LiO5LqU5bm05oiQ5pWIIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzM1LCAzOF0sCiAgICJpdGVtcyI6IFsicHQtMDE5N2QwMGUyMSIsICJwdC00MTE2ODkyYzA4IiwgInB0LTFjMmJjMzMzZDciXSwKICAgImNoYXJzIjogNDY3CiAgfSwKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLkupTkuKrkuLvpopjnr4fnq6DvvJrmgLvov7DkuI7miJDmnpzlsZXlm77niYciLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbMzksIDQ5XSwKICAgIml0ZW1zIjogWyJwdC00N2YyMDRlNjQ1Il0sCiAgICJjaGFycyI6IDEwMjgKICB9LAogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIuS4reWNjuaWh+iEiei1k+e7reevhyIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFs0NSwgNDVdLAogICAiaXRlbXMiOiBbInB0LTlkYThjNzRhODIiXSwKICAgImNoYXJzIjogODgKICB9LAogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIuS6uuW3peaZuuiDveWunui3teevhyIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFs0NiwgNDZdLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogNjAKICB9LAogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIuS5oeadkeaMr+WFtOWbvuaZr+evhyIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFs0NywgNDddLAogICAiaXRlbXMiOiBbInB0LWU1NWJkZTE2YTkiXSwKICAgImNoYXJzIjogMTEwCiAgfSwKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLln7rlsYLnpL7kvJrmsrvnkIbnr4ciLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbNDgsIDQ4XSwKICAgIml0ZW1zIjogW10sCiAgICJjaGFycyI6IDgzCiAgfSwKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLmlbDlrZfkuK3lm73lrp7ot7Xnr4ciLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbNDksIDQ5XSwKICAgIml0ZW1zIjogWyJwdC1hMjVhYmY2YWIyIl0sCiAgICJjaGFycyI6IDgzCiAgfSwKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLmnKrmnaXlsZXmnJvkuI7op4LlsZXpgoDor7ciLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbNTAsIDUxXSwKICAgIml0ZW1zIjogWyJwdC01YjZlOWRjYTRmIl0sCiAgICJjaGFycyI6IDEzNAogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi5bGV6KeI5L+h5oGv6KGo5LiO5Yi25L2c5Zui6ZifIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzUyLCA2N10sCiAgICJpdGVtcyI6IFsicHQtY2ZkZjg1YzJhNyIsICJwdC05MmI5N2ZkZDM0Il0sCiAgICJjaGFycyI6IDEyNQogIH0sCiAgewogICAibm8iOiAi6aG16ISaIiwKICAgImhlYWRpbmciOiAi5Y+L5oOF6ZO+5o6l44CB54mI5p2D5aSH5qGI5LiO6K6/6Zeu57uf6K6hIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzY4LCA4NV0sCiAgICJpdGVtcyI6IFtdLAogICAiY2hhcnMiOiA0MDUKICB9CiBdLAogIml0ZW1zIjogWwogICJwdC03MTczOGE4MTJmIiwKICAicHQtMDE5N2QwMGUyMSIsCiAgInB0LTQxMTY4OTJjMDgiLAogICJwdC0xYzJiYzMzM2Q3IiwKICAicHQtNDdmMjA0ZTY0NSIsCiAgInB0LTlkYThjNzRhODIiLAogICJwdC1lNTViZGUxNmE5IiwKICAicHQtYTI1YWJmNmFiMiIsCiAgInB0LTViNmU5ZGNhNGYiLAogICJwdC1jZmRmODVjMmE3IiwKICAicHQtOTJiOTdmZGQzNCIKIF0sCiAibm90ZXMiOiBbCiAgIue9kemhteWFrOWRiu+8muesrCAx4oCTMzQg6KGM5piv6aG16Z2i5qGG5p6277yM5ZCr6aG16Z2i5qCH6aKY77yI56ysIDEg6KGM77yJ44CB56uZ54K55qCP55uu5a+86Iiq5qCR77yI56ysIDPigJMzMCDooYzvvJrpppbpobXvvI/lhbPkuo7miJHku6zvvI/lrabpmaLnroDku4vvvI/igKbvvI/lm73pmYXkuqTmtYHnrqHnkIbvvIzlpLnkuKTlpIQgW+mZhOS7tl0g5qih5p2/5Zu+77yJ44CB5qCP55uu5ZCN44CM6YCa55+l5YWs5ZGK44CN5LiO6Z2i5YyF5bGR77yIMzHigJMzMu+8ieOAgeato+aWh+mhteWktOmHjeWkjeeahOagh+mimO+8iDMz77yJ44CB5Y+R5biD5pe26Ze05LiO5rWP6KeI5qyh5pWw77yIMzTvvInvvIzlkIjlubbkuLrjgIzpobXpnaLmoYbmnrbjgI3kuIDoioLvvIzlr7zoiKrkuI3pgJDmnaHorr7oioLjgIIiLAogICLml6Dljp/mloflsI/moIfpopjvvJrmraPmlofvvIgzNeKAkzUxIOihjO+8ieaYr+i/nue7reauteiQve+8jOS6lOS4quOAjOevh+eroOOAjeWPquWHuueOsOWcqOWPpeWtkOWGhemDqOOAgeayoeacieeLrOeri+agh+mimOihjO+8jOaVheWFqOmDqOeroOiKgiBoZWFkaW5nX2tpbmQ9ZGVyaXZlZO+8jG5vIOiusOOAjOKAlOOAjeOAgiIsCiAgIuesrCAzOSDooYzjgIzmnKzmrKHlsZXop4jlhbHorr7nva7kupTkuKrkuLvpopjnr4fnq6DigKbjgI3mmK/kupTkuKrnr4fnq6DnmoTmgLvov7DvvIzkuI7nrKwgNDDigJM0NCDooYznmoTmiJDmnpzlsZUgW+mZhOS7tl0g5Zu+54mH6KGM44CB56ysIDQ14oCTNDkg6KGM6YCQ56+H5YiG6L+w5ZCI5Li654i26IqC44CM5LqU5Liq5Li76aKY56+H56ug44CN77yIWzM5LDQ5Xe+8ie+8m+S6lOS4quevh+eroOWQhOiuvuWNleihjOWtkOiKgu+8jOS4uuecn+W1jOWll+OAguOAjOS6uuW3peaZuuiDveWunui3teevh+OAjeOAjOWfuuWxguekvuS8muayu+eQhuevh+OAjeS4pOauteayoeaciSBwdCDmnaHnm67vvIzmlYXov5nkuKTkuKrlrZDoioIgaXRlbXMg5Li656m644CCIiwKICAi56ysIDUy4oCTNjcg6KGM5piv56uW5o6S55qE5bGV6KeI5L+h5oGv6KGo77yI5bGV6KeI5pe26Ze077yP5bGV6KeI5Zyw54K577yP5Li75Yqe5Y2V5L2N77yP5pSv5oyB5Y2V5L2N77yP55uR5Yi277yP562W5bGV77yP5omn6KGM562W5bGV77yP57yW6L6R5Zui6Zif77yM5q+P5qC854us5Y2g5LiA6KGM77yJ77yM5oyJ5pW06KGo56uL44CM5bGV6KeI5L+h5oGv6KGo5LiO5Yi25L2c5Zui6Zif44CN5LiA6IqC77yM5LiN56Gs5ouG77ybcHQtY2ZkZjg1YzJhN++8iOWxleiniOaXtumXtOihjO+8ieOAgXB0LTkyYjk3ZmRkMzTvvIjlsZXop4jlnLDngrnotbfnm7Toh7PliLbkvZzlm6LpmJ/vvIzlvJXmlofkuLrlpJrmoLzmi7zmjqXvvInpg73okL3lnKjmnKzoioLjgIIiLAogICLnrKwgNjjigJM4NSDooYzkuLrpobXohJrvvJpsb2dvIOmZhOS7tuOAgeWPi+aDhemTvuaOpeOAgeWcsOWdgOmCrue8luOAgeeJiOadg+S4juS6rCBJQ1Ag5aSH5qGI5Y+344CB5oqA5pyv5pSv5oyB44CB5Zue5Yiw6aG26YOo44CBW+mZhOS7tl0gL192aXNpdGNvdW50IOiuv+mXrue7n+iuoe+8jOWPpuiuvuOAjOmhteiEmuOAjeS4gOiKgu+8iOivpeiKguaYr+aWh+S7tuacq+ihjO+8jOaVhSBsaW5lcyDliLAgODXvvInjgIIiLAogICLmraPmloflrozmlbTjgIHnu5PlsL7mnInlsZXop4jkv6Hmga/kuI7okL3mrL7mlLblsL7vvIzmnKrop4HmiKrmlq3vvIx0cnVuY2F0ZWQ9ZmFsc2XvvJvmnKzmlofku7bml6AgZG9jIOe6pyBydWxlLSog5p2h55uu77yMMTEg5LiqIHB0IOadoeebruWFqOmDqOWcqOacrOaWh+WRveS4reiQveeCueOAgiIKIF0KfQo=
+{
+ "key": "20260621-c2065a271931",
+ "title": "展览预告｜信息传播学院“大地的回响”大地传媒坊社会调研五周年成果展即将开幕",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "页面框架",
+   "heading": "页面标题、站点栏目导航与栏目页头",
+   "heading_kind": "derived",
+   "lines": [1, 34],
+   "items": ["pt-71738a812f"],
+   "chars": 352
+  },
+  {
+   "no": "—",
+   "heading": "展览启幕、项目缘起与五年成效",
+   "heading_kind": "derived",
+   "lines": [35, 38],
+   "items": ["pt-0197d00e21", "pt-4116892c08", "pt-1c2bc333d7"],
+   "chars": 467
+  },
+  {
+   "no": "—",
+   "heading": "五个主题篇章：总述与成果展图片",
+   "heading_kind": "derived",
+   "lines": [39, 49],
+   "items": ["pt-47f204e645"],
+   "chars": 1028
+  },
+  {
+   "no": "—",
+   "heading": "中华文脉赓续篇",
+   "heading_kind": "derived",
+   "lines": [45, 45],
+   "items": ["pt-9da8c74a82"],
+   "chars": 88
+  },
+  {
+   "no": "—",
+   "heading": "人工智能实践篇",
+   "heading_kind": "derived",
+   "lines": [46, 46],
+   "items": [],
+   "chars": 60
+  },
+  {
+   "no": "—",
+   "heading": "乡村振兴图景篇",
+   "heading_kind": "derived",
+   "lines": [47, 47],
+   "items": ["pt-e55bde16a9"],
+   "chars": 110
+  },
+  {
+   "no": "—",
+   "heading": "基层社会治理篇",
+   "heading_kind": "derived",
+   "lines": [48, 48],
+   "items": [],
+   "chars": 83
+  },
+  {
+   "no": "—",
+   "heading": "数字中国实践篇",
+   "heading_kind": "derived",
+   "lines": [49, 49],
+   "items": ["pt-a25abf6ab2"],
+   "chars": 83
+  },
+  {
+   "no": "—",
+   "heading": "未来展望与观展邀请",
+   "heading_kind": "derived",
+   "lines": [50, 51],
+   "items": ["pt-5b6e9dca4f"],
+   "chars": 134
+  },
+  {
+   "no": "—",
+   "heading": "展览信息表与制作团队",
+   "heading_kind": "derived",
+   "lines": [52, 67],
+   "items": ["pt-cfdf85c2a7", "pt-92b97fdd34"],
+   "chars": 125
+  },
+  {
+   "no": "页脚",
+   "heading": "友情链接、版权备案与访问统计",
+   "heading_kind": "derived",
+   "lines": [68, 85],
+   "items": [],
+   "chars": 405
+  }
+ ],
+ "items": [
+  "pt-71738a812f",
+  "pt-0197d00e21",
+  "pt-4116892c08",
+  "pt-1c2bc333d7",
+  "pt-47f204e645",
+  "pt-9da8c74a82",
+  "pt-e55bde16a9",
+  "pt-a25abf6ab2",
+  "pt-5b6e9dca4f",
+  "pt-cfdf85c2a7",
+  "pt-92b97fdd34"
+ ],
+ "notes": [
+  "网页公告：第 1–34 行是页面框架，含页面标题（第 1 行）、站点栏目导航树（第 3–30 行：首页／关于我们／学院简介／…／国际交流管理，夹两处 [附件] 模板图）、栏目名「通知公告」与面包屑（31–32）、正文页头重复的标题（33）、发布时间与浏览次数（34），合并为「页面框架」一节，导航不逐条设节。",
+  "无原文小标题：正文（35–51 行）是连续段落，五个「篇章」只出现在句子内部、没有独立标题行，故全部章节 heading_kind=derived，no 记「—」。",
+  "第 39 行「本次展览共设置五个主题篇章…」是五个篇章的总述，与第 40–44 行的成果展 [附件] 图片行、第 45–49 行逐篇分述合为父节「五个主题篇章」（[39,49]）；五个篇章各设单行子节，为真嵌套。「人工智能实践篇」「基层社会治理篇」两段没有 pt 条目，故这两个子节 items 为空。",
+  "第 52–67 行是竖排的展览信息表（展览时间／展览地点／主办单位／支持单位／监制／策展／执行策展／编辑团队，每格独占一行），按整表立「展览信息表与制作团队」一节，不硬拆；pt-cfdf85c2a7（展览时间行）、pt-92b97fdd34（展览地点起直至制作团队，引文为多格拼接）都落在本节。",
+  "第 68–85 行为页脚：logo 附件、友情链接、地址邮编、版权与京 ICP 备案号、技术支持、回到顶部、[附件] /_visitcount 访问统计，另设「页脚」一节（该节是文件末行，故 lines 到 85）。",
+  "正文完整、结尾有展览信息与落款收尾，未见截断，truncated=false；本文件无 doc 级 rule-* 条目，11 个 pt 条目全部在本文命中落点。"
+ ]
+}

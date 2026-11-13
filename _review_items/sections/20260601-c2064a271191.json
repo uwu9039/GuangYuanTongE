@@ -1,1 +1,161 @@
-ew0KICJrZXkiOiAiMjAyNjA2MDEtYzIwNjRhMjcxMTkxIiwNCiAidGl0bGUiOiAi44CK5Lit5Zu95pWZ6IKy5oql44CL5oql6YGT5oiR6Zmi6b6a5Lyf5Lqu5Ymv5pWZ5o6I6Z2i5a+55pm66IO95pe25Luj55qE6K++56iL5bu66K6+5o6i57Si5LiO5oCd6ICDIiwNCiAidHJ1bmNhdGVkIjogZmFsc2UsDQogInNlY3Rpb25zIjogWw0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIumhtemdouahhuaetu+8iOmhtemdouagh+mimOOAgeermeWGheWvvOiIquiPnOWNleOAgeagj+ebruWbvuS4jumdouWMheWxke+8iSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDEsDQogICAgMzINCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTk1MmQzZGQ2MGUiDQogICBdLA0KICAgImNoYXJzIjogMjg5DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5q2j5paH5qCH6aKY44CB5Y+R5biD5pe26Ze05LiO5a2m6Zmi5paw6Ze75a+86K+tIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMzMsDQogICAgMzYNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTMyOGM1YmE3NGIiDQogICBdLA0KICAgImNoYXJzIjogMzA5DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi6L2s6L295paH56ug6aKY5ZCN44CK55So5LiA6Zeo6K++5oyR5oiY4oCc5YiG5b+D55qE5LiW55WM4oCd44CL5LiO5byA56+H6aKY6K6wIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMzcsDQogICAgMzgNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWZjZTNhZDEzMWQiDQogICBdLA0KICAgImNoYXJzIjogOTkNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLlvIDor77nvJjnlLHvvJror77loILkuIrnmoTliIblv4Pmma/osaHkuI7ms6jmhI/lipvlm7DlooMiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzOSwNCiAgICA0NQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtY2FjYWNkNTkzYSIsDQogICAgInB0LTkxOWYxMTc3NzciLA0KICAgICJwdC00YzdiYmU4ODJhIg0KICAgXSwNCiAgICJjaGFycyI6IDU3Nw0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LiA6K6y4oCU56ys5YWt6K6yIiwNCiAgICJoZWFkaW5nIjogIuW9k+WtpueUn+esrOS4gOasoeWwneWIsOS4k+azqOeahOeUnOWktCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNDYsDQogICAgNjINCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTkyNmY4MDU0MmIiLA0KICAgICJwdC03NTVkMzQ1ZjE0IiwNCiAgICAicHQtM2ZjOTczMGQ0YSIsDQogICAgInB0LTZlZjM5ZmRjYzUiLA0KICAgICJwdC05ZGI3OTBiMjhjIg0KICAgXSwNCiAgICJjaGFycyI6IDk0OA0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LiD6K6y4oCU56ys5Lmd6K6yIiwNCiAgICJoZWFkaW5nIjogIumCo+S6m+aIkeayoeaDs+WIsOeahOKAnOiHquS4u+aOoue0ouKAnSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNjMsDQogICAgODANCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTRkODViMjJmNjMiLA0KICAgICJwdC05OGQ2YjlhMzUzIiwNCiAgICAicHQtZjkxOGJiOTVjOSIsDQogICAgInB0LTdmMDQ0MGQ4ZTciLA0KICAgICJwdC05ZmI3NzY3ODkyIiwNCiAgICAicHQtYWU1MDgzYTViYSIsDQogICAgInB0LWRjM2NhNTA2ODciDQogICBdLA0KICAgImNoYXJzIjogMTI5MQ0KICB9LA0KICB7DQogICAibm8iOiAi5pyA5ZCO5LiA6K6yIiwNCiAgICJoZWFkaW5nIjogIuaVmeiCsu+8jOaYr+iuqeS6uuS9k+mqjOKAnOWlveeahOeUn+a0u+KAnSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgODEsDQogICAgOTgNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWU4M2M2YzIwZTYiLA0KICAgICJwdC1lYmI0NDE5NTYwIiwNCiAgICAicHQtYzM0MjgwZGQ5ZCIsDQogICAgInB0LTVlZWRlNDkyOGMiLA0KICAgICJwdC0yNzFlZTYzMmJmIiwNCiAgICAicHQtNGFkNWU5MzZjMiINCiAgIF0sDQogICAiY2hhcnMiOiA5NTcNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLpobXohJrvvIjlj4vmg4Xpk77mjqXjgIHlnLDlnYDkuI7niYjmnYPlpIfmoYjjgIHorr/pl67nu5/orqHpmYTku7bvvIkiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA5OSwNCiAgICAxMTYNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDQwNQ0KICB9DQogXSwNCiAiaXRlbXMiOiBbDQogICJwdC05NTJkM2RkNjBlIiwNCiAgInB0LTMyOGM1YmE3NGIiLA0KICAicHQtZmNlM2FkMTMxZCIsDQogICJwdC1jYWNhY2Q1OTNhIiwNCiAgInB0LTkxOWYxMTc3NzciLA0KICAicHQtNGM3YmJlODgyYSIsDQogICJwdC05MjZmODA1NDJiIiwNCiAgInB0LTc1NWQzNDVmMTQiLA0KICAicHQtM2ZjOTczMGQ0YSIsDQogICJwdC02ZWYzOWZkY2M1IiwNCiAgInB0LTlkYjc5MGIyOGMiLA0KICAicHQtNGQ4NWIyMmY2MyIsDQogICJwdC05OGQ2YjlhMzUzIiwNCiAgInB0LWY5MThiYjk1YzkiLA0KICAicHQtN2YwNDQwZDhlNyIsDQogICJwdC05ZmI3NzY3ODkyIiwNCiAgInB0LWFlNTA4M2E1YmEiLA0KICAicHQtZGMzY2E1MDY4NyIsDQogICJwdC1lODNjNmMyMGU2IiwNCiAgInB0LWViYjQ0MTk1NjAiLA0KICAicHQtYzM0MjgwZGQ5ZCIsDQogICJwdC01ZWVkZTQ5MjhjIiwNCiAgInB0LTI3MWVlNjMyYmYiLA0KICAicHQtNGFkNWU5MzZjMiINCiBdLA0KICJub3RlcyI6IFsNCiAgIuesrCAx4oCTMzIg6KGM5Li66aG16Z2i5qCH6aKY44CB5YWo56uZ5a+86Iiq6I+c5Y2V77yI5YWz5LqO5oiR5LusL+WtpueUn+WfueWFuy/lrabmnK/noJTnqbYv5YWa576k5bel5L2cL+WbvemZheWQiOS9nO+8ieOAgeagj+ebruWbvuS4juOAjOmmlumhtSDlrabpmaLmlrDpl7vjgI3pnaLljIXlsZHvvJvnrKwgMuOAgTMwIOihjOaYr+mZhOS7tuWbvueJh+agh+iusOihjO+8jOWPquWcqOmhtemdouahhuaetuiKguWGhe+8jOS4jeWNleeLrOaIkOiKguOAgiIsDQogICJwdC05NTJkM2RkNjBlIOeahOW8leaWh+WwseaYr+mhtemdouagh+mimO+8jOiQveWcqOesrCAxIOihjO+8jOaVheWIl+i/m+mhtemdouahhuaetuiKgu+8m+WQjOS4gOagh+mimOWcqOesrCAzMyDooYzph43lpI3lh7rnjrDvvIzkuI3lj6bnq4voioLjgIIiLA0KICAi56ysIDM3IOihjOOAiueUqOS4gOmXqOivvuaMkeaImOKAnOWIhuW/g+eahOS4lueVjOKAneOAi+aYr+i9rOi9veaWh+eroOeahOmimOWQjeiAjOmdnueroOagh+mimO+8jOS9huWug+ato+aYryBwdC1mY2UzYWQxMzFkIOW8leaWh+eahOi1t+eCue+8jOaVheWNleWIl+S4gOiKguaJv+aOpeivpeadoeebru+8jOmBv+WFjeaKiuW8leaWh+i1t+eCueaJgOWcqOihjOaOkumZpOWcqOiKguWkluOAgiIsDQogICLovazovb3mraPmlofnmoTkuInlpITlsI/moIfpopjjgIzlvZPlrabnlJ/nrKzkuIDmrKHlsJ3liLDkuJPms6jnmoTnlJzlpLTjgI3jgIzpgqPkupvmiJHmsqHmg7PliLDnmoTigJzoh6rkuLvmjqLntKLigJ3jgI3jgIzmlZnogrLvvIzmmK/orqnkurrkvZPpqozigJzlpb3nmoTnlJ/mtLvigJ3jgI3lnYfkuLrljp/mlofoh6rluKbvvIzmoIcgYXV0aG9y77yb6L+Z5LiJ6IqC55qEIG5vIOeUqOiusuasoeiMg+WbtOamguaLrO+8iOesrOS4gOiusuKAlOesrOWFreiusiAvIOesrOS4g+iusuKAlOesrOS5neiusiAvIOacgOWQjuS4gOiusu+8ie+8jOS4jiBoZWFkaW5nIOS4jemHjeWkjeOAgiIsDQogICLnrKwgNjMg6KGM44CM5Luk5Lq65qyj5oWw55qE5piv77yM5pyJ5Lqb5pS55Y+Y77yM5Lul5oiR5oSP5oOz5LiN5Yiw55qE5pa55byP5Y+R55Sf5LqG44CC44CN5pys5piv5LiK5LiA6IqC77yINDbigJM2Mu+8ieeahOaUtuadn+WPpe+8jOS9hiBwdC00ZDg1YjIyZjYzIOeahOW8leaWh+ato+aYr+S7jui/meS4gOihjOi1t+OAgeaOpeesrCA2NCDooYzlsI/moIfpopjjgIzpgqPkupvmiJHmsqHmg7PliLDnmoTigJzoh6rkuLvmjqLntKLigJ3jgI3lho3ov5vnrKwgNjUg6KGM5q2j5paH77yb5LiN5bm25YWl5bCx6JC95LiN5LqG5Zyw77yM5pWF5oyJ6IqC6aaW5Yik5o2u55qE5L6L5aSW5L+d55WZ5Li6IDYz4oCTODAg6IqC55qE6aaW6KGM77yM5bm25Zyo5q2k6K+05piO44CCIiwNCiAgIuesrCA5OeKAkzExNiDooYzmmK/pobXohJrvvJrlj4vmg4Xpk77mjqXmuIXljZXjgIHlnLDlnYDpgq7nvJbjgIHniYjmnYPkuI7lpIfmoYjlj7fjgIHlm57liLDpobbpg6jlj4rorr/pl67nu5/orqHpmYTku7bmoIforrDooYzvvIzkuI3lkKvmnaHnm67jgIIiLA0KICAiMjQg5p2h5p2h55uu5byV5paH5Z2H6JC95Zyo5pys5paH5YaF77yM5peg6Leo5paH5Lu25byV55So77yb5q2j5paH5Yiw56ysIDk4IOihjOOAjO+8iOadpea6kO+8muS4reWbveaVmeiCsuaKpe+8ieOAjee7k+adn++8jOWFtuWQjuWNs+mhteiEmu+8jHRydW5jYXRlZD1mYWxzZeOAgiINCiBdDQp9
+{
+ "key": "20260601-c2064a271191",
+ "title": "《中国教育报》报道我院龚伟亮副教授面对智能时代的课程建设探索与思考",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "页面框架（页面标题、站内导航菜单、栏目图与面包屑）",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    32
+   ],
+   "items": [
+    "pt-952d3dd60e"
+   ],
+   "chars": 289
+  },
+  {
+   "no": "—",
+   "heading": "正文标题、发布时间与学院新闻导语",
+   "heading_kind": "derived",
+   "lines": [
+    33,
+    36
+   ],
+   "items": [
+    "pt-328c5ba74b"
+   ],
+   "chars": 309
+  },
+  {
+   "no": "—",
+   "heading": "转载文章题名《用一门课挑战“分心的世界”》与开篇题记",
+   "heading_kind": "derived",
+   "lines": [
+    37,
+    38
+   ],
+   "items": [
+    "pt-fce3ad131d"
+   ],
+   "chars": 99
+  },
+  {
+   "no": "—",
+   "heading": "开课缘由：课堂上的分心景象与注意力困境",
+   "heading_kind": "derived",
+   "lines": [
+    39,
+    45
+   ],
+   "items": [
+    "pt-cacacd593a",
+    "pt-919f117777",
+    "pt-4c7bbe882a"
+   ],
+   "chars": 577
+  },
+  {
+   "no": "第一讲—第六讲",
+   "heading": "当学生第一次尝到专注的甜头",
+   "heading_kind": "author",
+   "lines": [
+    46,
+    62
+   ],
+   "items": [
+    "pt-926f80542b",
+    "pt-755d345f14",
+    "pt-3fc9730d4a",
+    "pt-6ef39fdcc5",
+    "pt-9db790b28c"
+   ],
+   "chars": 948
+  },
+  {
+   "no": "第七讲—第九讲",
+   "heading": "那些我没想到的“自主探索”",
+   "heading_kind": "author",
+   "lines": [
+    63,
+    80
+   ],
+   "items": [
+    "pt-4d85b22f63",
+    "pt-98d6b9a353",
+    "pt-f918bb95c9",
+    "pt-7f0440d8e7",
+    "pt-9fb7767892",
+    "pt-ae5083a5ba",
+    "pt-dc3ca50687"
+   ],
+   "chars": 1291
+  },
+  {
+   "no": "最后一讲",
+   "heading": "教育，是让人体验“好的生活”",
+   "heading_kind": "author",
+   "lines": [
+    81,
+    98
+   ],
+   "items": [
+    "pt-e83c6c20e6",
+    "pt-ebb4419560",
+    "pt-c34280dd9d",
+    "pt-5eede4928c",
+    "pt-271ee632bf",
+    "pt-4ad5e936c2"
+   ],
+   "chars": 957
+  },
+  {
+   "no": "—",
+   "heading": "页脚（友情链接、地址与版权备案、访问统计附件）",
+   "heading_kind": "derived",
+   "lines": [
+    99,
+    116
+   ],
+   "items": [],
+   "chars": 405
+  }
+ ],
+ "items": [
+  "pt-952d3dd60e",
+  "pt-328c5ba74b",
+  "pt-fce3ad131d",
+  "pt-cacacd593a",
+  "pt-919f117777",
+  "pt-4c7bbe882a",
+  "pt-926f80542b",
+  "pt-755d345f14",
+  "pt-3fc9730d4a",
+  "pt-6ef39fdcc5",
+  "pt-9db790b28c",
+  "pt-4d85b22f63",
+  "pt-98d6b9a353",
+  "pt-f918bb95c9",
+  "pt-7f0440d8e7",
+  "pt-9fb7767892",
+  "pt-ae5083a5ba",
+  "pt-dc3ca50687",
+  "pt-e83c6c20e6",
+  "pt-ebb4419560",
+  "pt-c34280dd9d",
+  "pt-5eede4928c",
+  "pt-271ee632bf",
+  "pt-4ad5e936c2"
+ ],
+ "notes": [
+  "第 1–32 行为页面标题、全站导航菜单（关于我们/学生培养/学术研究/党群工作/国际合作）、栏目图与「首页 学院新闻」面包屑；第 2、30 行是附件图片标记行，只在页面框架节内，不单独成节。",
+  "pt-952d3dd60e 的引文就是页面标题，落在第 1 行，故列进页面框架节；同一标题在第 33 行重复出现，不另立节。",
+  "第 37 行《用一门课挑战“分心的世界”》是转载文章的题名而非章标题，但它正是 pt-fce3ad131d 引文的起点，故单列一节承接该条目，避免把引文起点所在行排除在节外。",
+  "转载正文的三处小标题「当学生第一次尝到专注的甜头」「那些我没想到的“自主探索”」「教育，是让人体验“好的生活”」均为原文自带，标 author；这三节的 no 用讲次范围概括（第一讲—第六讲 / 第七讲—第九讲 / 最后一讲），与 heading 不重复。",
+  "第 63 行「令人欣慰的是，有些改变，以我意想不到的方式发生了。」本是上一节（46–62）的收束句，但 pt-4d85b22f63 的引文正是从这一行起、接第 64 行小标题「那些我没想到的“自主探索”」再进第 65 行正文；不并入就落不了地，故按节首判据的例外保留为 63–80 节的首行，并在此说明。",
+  "第 99–116 行是页脚：友情链接清单、地址邮编、版权与备案号、回到顶部及访问统计附件标记行，不含条目。",
+  "24 条条目引文均落在本文内，无跨文件引用；正文到第 98 行「（来源：中国教育报）」结束，其后即页脚，truncated=false。"
+ ]
+}

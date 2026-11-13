@@ -1,1 +1,68 @@
-IyDliY3nq6/pooTop4jmnI3liqHvvIjlkI7nq6/kuI3ov5DooYzvvIkKCuWPquiwg+WJjeerr+iuvuiuoeaXtueUqOOAgioq5LiN5ZCv5YqoIGBhcHAucHlgIC8gdXZpY29ybioq77yM5LiN6K+7IDcxTUIg55qEIGBpdGVtcy5qc29uYO+8jOS4jeeisOWQkemHj+W6k+WSjOaooeWei++8mwrnlYzpnaLph4zor6Xlh7rnjrDnmoTljaHniYfjgIHnrZTmoYjjgIHmoaPmoYjmoI/jgIHpnaLmnb/pg73og73lh7rnjrDvvIzlm6DkuLogYC9hcGkvKmAg55Sx5pys55uu5b2V55qEIG1vY2sg5pyN5Yqh5oyJCmBhcHAucHlgIOeahOecn+Wunui/lOWbnue7k+aehOeOsOmAoOOAggoKIyMg6LW35pyN5YqhCgpgYGBiYXQKLnZlbnZcU2NyaXB0c1xweXRob24uZXhlIHdlYi1uZXh0XF9wcmV2aWV3XG1vY2tfc2VydmVyLnB5IC0tcG9ydCA4MDEwCmBgYAoK54S25ZCO5byAICoqaHR0cDovLzEyNy4wLjAuMTo4MDEwL2ZpZWxkKioKCnwgVVJMIHwg6aG16Z2iIHwKfC0tLXwtLS18CnwgYC9gIHwgMzAyIOKGkiBgL2ZpZWxkYO+8iOS4juWQjuerr+S4gOiHtO+8iSB8CnwgYC9maWVsZGAgfCDmlrDniYjkuLvnlYzpnaLvvIjmiYvmnLrkvJjlhYjnmoTlkJHlr7zpobXvvIkgfAp8IGAvZGVza2AgfCDlj4zmoI/lt6XkvZzlj7DvvIhgaW5kZXguaHRtbGDvvIkgfAp8IGAvY2xhc3NpY2AgfCDml6fniYjnlYzpnaIgfAp8IGAvdGljZWAgfCDop4TojIPlmajvvIjnuq/liY3nq6/vvIzmnKzmnaXlsLHkuI3ov57lkI7nq6/vvIkgfAoK5pS5IGB3ZWItbmV4dC9gIOmHjOeahCBodG1sL2Nzcy9qcyDlkI4qKuWIt+aWsOWNs+WPryoq77yM5LiN55So6YeN5ZCv5pyN5Yqh77yIaHRtbC9qcy9jc3MvanNvbiDpg73lj5EgYG5vLXN0b3JlYO+8ieOAggoKIyMg5LqU56eN5Y2h54mH6YO96IO95omL5Yqo5pWy5Ye65p2lCgrmraPluLjmj5Dpl67kvJrmjInjgIzmnaHnm64g4oaSIOWPjemXriDihpIg562U5qGI44CN55qE6aG65bqP6LWw77yI5ZKM55yf5a6e6ZO+6Lev5LiA6Ie077yJ44CC5oOz55u05Y+W5p+Q5Liq54q25oCB77yMCuWcqOmXrumimOWJjemdouWKoCBg5ryU56S6wrdg77yaCgp8IOi+k+WFpSB8IOW+l+WIsOeahOWNoeeJhyB8CnwtLS18LS0tfAp8IGDmvJTnpLrCt+agh+WHhiDmiJDnu6nljZXmgI7kuYjlvIBgIHwg5qCH5YeG562U5qGI5Y2h77yI5YiG6Z2i562U5qGIICsg5Y6f5paH5byV5paHICsg55u45YWz5LqL6aG577yJIHwKfCBg5ryU56S6wrflj43pl64g5oiQ57up5Y2V5Yqe55CGYCB8IOWPjemXruWNoe+8iOWFiOehruiupOS4pOS4ieS7tuS6i++8jOW4puOAjOW3suiusOS4i+OAje+8iSB8CnwgYOa8lOekusK35LqM6YCJ5LiAIOihpemAieivvmAgfCDkuozpgInkuIDmvoTmuIXljaEgfAp8IGDmvJTnpLrCt+ayoeaUtuW9lSDmiJHmg7PmjaLkuKrlrr/oiI1gIHwg5pyq5pS25b2V5Y2h77yI5Y6f5paH57q/57SiICsg5b2S5Y+j57q/57SiICsg6IGU57O75pa55byP77yJIHwKfCBg5ryU56S6wrfnu7zlkIgg5oiQ57up5Y2V5oCO5LmI5byAYCB8IOe7vOWQiOWxguWNoe+8iOe7k+iuuiArIOWIhuWxgiArIOmAkOWtl+ivgeaNru+8iSB8Cgrpu5jorqQgYC9maWVsZGAg55qE57u85ZCI5bGC5byA5YWz5pivKirlvIAqKueahO+8iOS4jiBgZmllbGQuaHRtbGAg546w54q25LiA6Ie077yJ77yM5omA5Lul6ZqP5L6/6Zeu5LiA5Y+l5Lya5YWI5Ye657u85ZCI5bGC5Y2h77ybCuaDs+eci+aZrumAmuetlOahiOWNoeWwseaKiuW8gOWFs+WFs+aOie+8jOaIlueUqCBg5ryU56S6wrfmoIflh4Zg44CCCgrlhbbku5blj6/ngrnnmoTkuJzopb/vvJpg5Y+v6IO95oOz6ZeuYOOAgWDnm7jlhbPkuovpoblg44CBYOaguOWvueWOn+aWh2DjgIFg5riF5Y2V5LiO5rWB56iLYOOAgeWPs+S4iuinkiBg6IGU57O75pa55byPYCAvIGDmkJzljp/mlodg44CBCumXruetlOWNoemHjOeahCBg5qCh5Zut5L2N572uYCDpnaLmnb/vvIhgL2FwaS9jYW1wdXNgIOeUqOeahOaYr+ecnyBQT0nvvInjgIIKCiMjIOWTquS6m+aYr+WBh+eahAoKLSDmo4DntKLkuI7ot6/nlLHvvJrmjInmoIfpopggLyDliKvlkI0gLyDlhbPplK7or43nmoTlrZfpnaLph43lkIjmiZPliIbvvIzlj6rlnKjov5kgODQg5p2h5qC35byg6YeM5ZG95Lit44CC55yf6ZO+6Lev55qE5aSa6Lev5Y+s5Zue44CBCiAg5qih5Z6L6KOB5Yaz44CB57ut6Zeu5Yik5a6a6YO95rKh5pyJ44CCCi0g5Yeh5piv55Sf5oiQ5YaF5a6577yI57u85ZCI5bGC57uT6K6644CB5qih5Z6L55Sf5oiQ5q616JC977yJ6YO95piv5qih5p2/5ou855qE77yMKirkuI3ku6PooajnnJ/lrp7nrZTmoYjotKjph48qKuOAggogIOi/memHjOiwg+eahOaYr+eVjOmdou+8jOS4jeaYr+ato+ehruetlOahiOeOh+OAggotIGBwaG90b3MgLyDmi43nhafmoLjlr7lg77yIYC9hcGkvdmVyaWZ5YO+8ieebtOaOpeWbniA1MDPvvJtgL2FwaS9wbGFuLWZpbGVgIOWbniA0MDTvvIjpooTop4jljIXkuI3luKYgUERG77yJ44CCCi0g5oCd6ICD5rWB77yIU1NF77yJ5piv55yf55qE5oyJ5bin5Y+R55qE77yM55So5p2l6aKE6KeI44CM5bey5oCd6ICDIE4g5q2l44CN6YKj5aWX5oqY5Y+g5qC35byP77yM5L2G5q+P5bin5YaF5a655Zu65a6a44CCCgojIyDmlbDmja7ku47lk6rmnaUKCmBmaXh0dXJlcy9gIOaYryBgYnVpbGRfZml4dHVyZXMucHlgIOS7juS7k+W6k+agueeahCBgaXRlbXMuanNvbmAgKirlj6ror7sqKuaKveWHuuadpeeahCA4NCDmnaHmoLflvKAK77yI5ZCrIDIyIOadoeW4puWPjemXruanveOAgeS6jOe7tOeggeOAgemZhOS7tuOAgee7j+mqjOW4luOAgWBzb3VyY2UtdGhpbmAgLyBgcGFydGlhbGAg54q25oCB44CB6LaF6ZW/5LiO6LaF55+t5qCH6aKY77yJ44CCCgrmg7Pph43mlrDmir3vvIjmr5TlpoLlkI7nq6/mlbDmja7mm7TmlrDkuobvvInvvJoKCmBgYGJhdAoudmVudlxTY3JpcHRzXHB5dGhvbi5leGUgd2ViLW5leHRcX3ByZXZpZXdcYnVpbGRfZml4dHVyZXMucHkKYGBgCgpgaXRlbXMuanNvbmDjgIFgY29udGFjdHMuanNvbmDjgIFgcHJlc2V0cy5qc29uYOOAgWBjYW1wdXMtbWFwLmpzb25gIOS4gOS4quWtl+iKgumDveayoeaUueOAggoKIyMg6L6555WMCgrmnKznm67lvZXlj6rmnI3liqHliY3nq6/pooTop4jjgILlroPkuI3mm7/ku6PlkI7nq6/vvIzkuZ/kuI3mlLnlkI7nq6/lpZHnuqbvvJrmlrDlop7mjqXlj6Pku43pnIDlnKggYGFwcC5weWAg6YeM5YGa44CCCg==
+# 前端预览服务（后端不运行）
+
+只调前端设计时用。**不启动 `app.py` / uvicorn**，不读 71MB 的 `items.json`，不碰向量库和模型；
+界面里该出现的卡片、答案、档案栏、面板都能出现，因为 `/api/*` 由本目录的 mock 服务按
+`app.py` 的真实返回结构现造。
+
+## 起服务
+
+```bat
+.venv\Scripts\python.exe web-next\_preview\mock_server.py --port 8010
+```
+
+然后开 **http://127.0.0.1:8010/field**
+
+| URL | 页面 |
+|---|---|
+| `/` | 302 → `/field`（与后端一致） |
+| `/field` | 新版主界面（手机优先的向导页） |
+| `/desk` | 双栏工作台（`index.html`） |
+| `/classic` | 旧版界面 |
+| `/tice` | 规范器（纯前端，本来就不连后端） |
+
+改 `web-next/` 里的 html/css/js 后**刷新即可**，不用重启服务（html/js/css/json 都发 `no-store`）。
+
+## 五种卡片都能手动敲出来
+
+正常提问会按「条目 → 反问 → 答案」的顺序走（和真实链路一致）。想直取某个状态，
+在问题前面加 `演示·`：
+
+| 输入 | 得到的卡片 |
+|---|---|
+| `演示·标准 成绩单怎么开` | 标准答案卡（分面答案 + 原文引文 + 相关事项） |
+| `演示·反问 成绩单办理` | 反问卡（先确认两三件事，带「已记下」） |
+| `演示·二选一 补选课` | 二选一澄清卡 |
+| `演示·没收录 我想换个宿舍` | 未收录卡（原文线索 + 归口线索 + 联系方式） |
+| `演示·综合 成绩单怎么开` | 综合层卡（结论 + 分层 + 逐字证据） |
+
+默认 `/field` 的综合层开关是**开**的（与 `field.html` 现状一致），所以随便问一句会先出综合层卡；
+想看普通答案卡就把开关关掉，或用 `演示·标准`。
+
+其他可点的东西：`可能想问`、`相关事项`、`核对原文`、`清单与流程`、右上角 `联系方式` / `搜原文`、
+问答卡里的 `校园位置` 面板（`/api/campus` 用的是真 POI）。
+
+## 哪些是假的
+
+- 检索与路由：按标题 / 别名 / 关键词的字面重合打分，只在这 84 条样张里命中。真链路的多路召回、
+  模型裁决、续问判定都没有。
+- 凡是生成内容（综合层结论、模型生成段落）都是模板拼的，**不代表真实答案质量**。
+  这里调的是界面，不是正确答案率。
+- `photos / 拍照核对`（`/api/verify`）直接回 503；`/api/plan-file` 回 404（预览包不带 PDF）。
+- 思考流（SSE）是真的按帧发的，用来预览「已思考 N 步」那套折叠样式，但每帧内容固定。
+
+## 数据从哪来
+
+`fixtures/` 是 `build_fixtures.py` 从仓库根的 `items.json` **只读**抽出来的 84 条样张
+（含 22 条带反问槽、二维码、附件、经验帖、`source-thin` / `partial` 状态、超长与超短标题）。
+
+想重新抽（比如后端数据更新了）：
+
+```bat
+.venv\Scripts\python.exe web-next\_preview\build_fixtures.py
+```
+
+`items.json`、`contacts.json`、`presets.json`、`campus-map.json` 一个字节都没改。
+
+## 边界
+
+本目录只服务前端预览。它不替代后端，也不改后端契约：新增接口仍需在 `app.py` 里做。

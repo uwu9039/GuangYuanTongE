@@ -1,1 +1,140 @@
-ew0KICJrZXkiOiAiMjAyNi0wMS0xNS1kMDRiZjRmOCIsDQogInRpdGxlIjogIueZveadqOi1hOiur++9nOWFs+S6juWvkuWBh+acn+mXtOWKnueQhuacrOenkeeUn+aIkOe7qeWNleetieadkOaWmeeahOaPkOmGkiIsDQogInRydW5jYXRlZCI6IGZhbHNlLA0KICJzZWN0aW9ucyI6IFsNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLlpLTlm77kuI7moIfpopjvvJrlr5LlgYflip7nkIbml7bpl7TkuI7mlrnlvI/pooTlkYoiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxLA0KICAgIDcNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTZlNGIwZDg3ZjQiLA0KICAgICJwdC02MDVjZjcyZDIxIiwNCiAgICAicHQtODMxZDAzMTE0ZCINCiAgIF0sDQogICAiY2hhcnMiOiAzNDUNCiAgfSwNCiAgew0KICAgIm5vIjogIjEiLA0KICAgImhlYWRpbmciOiAi57q/5LiKMjTlsI/ml7boh6rliqnlip7nkIbmlrnlvI8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDksDQogICAgMTUNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWYyMjRkZDMyYTUiLA0KICAgICJwdC0xYmFhMTQ2MDQyIg0KICAgXSwNCiAgICJjaGFycyI6IDIwOQ0KICB9LA0KICB7DQogICAibm8iOiAiMiIsDQogICAiaGVhZGluZyI6ICLpgq7ku7blip7nkIbmlrnlvI8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDE3LA0KICAgIDIzDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0zMjc5MzM4MDU1IiwNCiAgICAicHQtNDYyNzdkMzI2MCINCiAgIF0sDQogICAiY2hhcnMiOiAxMzcNCiAgfSwNCiAgew0KICAgIm5vIjogIjMiLA0KICAgImhlYWRpbmciOiAi5a+S5YGH57q/5LiL5Yqg55uW5a+G5bCB56ug5pyN5YqhIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyNSwNCiAgICAzNA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZDZmOTlmMTY1NyIsDQogICAgInB0LTI1NzY2MzA5ODEiLA0KICAgICJwdC00NzM4YWZiNjNkIg0KICAgXSwNCiAgICJjaGFycyI6IDI1Mg0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIueJueWIq+aPkOekuiIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMzUsDQogICAgNDENCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTFmNTU3ZjczNzkiLA0KICAgICJwdC1kZTI5Y2NhN2EyIiwNCiAgICAicHQtMGI0YmE2MjJhNSINCiAgIF0sDQogICAiY2hhcnMiOiAxMDMNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICJFTkQg5qCH6K6w5LiO5Lit5LygIEFQUCDmoKHlj4vmjqjlub8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA0MiwNCiAgICA1NA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMzVjZDdkZDk1ZSIsDQogICAgInB0LTI0MmU5M2VjODIiLA0KICAgICJwdC1kZmM5ZDVjOWMzIiwNCiAgICAicHQtNzRjYTFkM2YyMyIsDQogICAgInB0LTBjYzcxZTg1YzEiDQogICBdLA0KICAgImNoYXJzIjogNzAyDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5p2l5rqQ5LiO57yW6ICF572y5ZCN44CB6aG15bC+5Zu+54mHIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNTUsDQogICAgNjENCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTE3M2M3NGQxN2IiLA0KICAgICJwdC1iYTM5MTM1YzAwIg0KICAgXSwNCiAgICJjaGFycyI6IDE5OA0KICB9DQogXSwNCiAiaXRlbXMiOiBbDQogICJwdC1mMjI0ZGQzMmE1IiwNCiAgInB0LTMyNzkzMzgwNTUiLA0KICAicHQtNmU0YjBkODdmNCIsDQogICJwdC02MDVjZjcyZDIxIiwNCiAgInB0LTgzMWQwMzExNGQiLA0KICAicHQtMWJhYTE0NjA0MiIsDQogICJwdC00NjI3N2QzMjYwIiwNCiAgInB0LWQ2Zjk5ZjE2NTciLA0KICAicHQtMjU3NjYzMDk4MSIsDQogICJwdC00NzM4YWZiNjNkIiwNCiAgInB0LTFmNTU3ZjczNzkiLA0KICAicHQtZGUyOWNjYTdhMiIsDQogICJwdC0wYjRiYTYyMmE1IiwNCiAgInB0LTM1Y2Q3ZGQ5NWUiLA0KICAicHQtMjQyZTkzZWM4MiIsDQogICJwdC1kZmM5ZDVjOWMzIiwNCiAgInB0LTc0Y2ExZDNmMjMiLA0KICAicHQtMGNjNzFlODVjMSIsDQogICJwdC0xNzNjNzRkMTdiIiwNCiAgInB0LWJhMzkxMzVjMDAiDQogXSwNCiAibm90ZXMiOiBbDQogICLlvq7kv6HlhazkvJflj7flm77mlofmipPlj5bnqL/vvJrmraPmloflj6rmnIkgMS8yLzMg5LiJ5Liq5bim5bqP5Y+355qE5Yqe55CG5pa55byP5bCP5qCH6aKY5LiO44CM54m55Yir5o+Q56S644CN77yM5YW25L2Z5Li65Zu+54mH5Y2g5L2N6KGMIFvlm75dIOS4juaOqOW5v+aWh+ahiOOAgiIsDQogICLnrKwgOOOAgTE244CBMjQg6KGM5Y+q5pyJ5bqP5Y+344CMMeOAjeOAjDLjgI3jgIwz44CN77yM5ZCE5bm25YWl5YW25ZCO55qE5pa55byP6IqC77yb56ysIDI244CBMzEg6KGM5Li644CMMS7lip7nkIbml7bpl7TjgI3jgIwyLuWKnueQhuWcsOeCueOAjeWwj+mhueWPt++8jOS4jeWNleWIl+aIkOiKguOAgiIsDQogICLnrKwgNDItNTQg6KGM5Li6IEVORCDmoIforrDkuI7kuK3kvKAgQVBQIOagoeWPi+azqOWGjOaOqOW5v++8iOWbvueJhyBVUkwg6KGM77yJ77yM6Z2e5q2j5paH5Yqe55CG6K+05piO77yM5Y2V5YiX5LiA6IqC44CCIiwNCiAgIuesrCA1NS01OCDooYzkuLrmnaXmupAv57yW6L6RL+i0o+e8li/nvJblrqHnvbLlkI3vvIznrKwgNTktNjEg6KGM5Li66aG15bC+5Zu+54mH5LiO44CM6aKE6KeI5pe25qCH562+5LiN5Y+v54K544CN562J5bmz5Y+w5paH5qGI44CCIiwNCiAgIuWbvueJh+Wdh+S7pSBb5Zu+XSArIFVSTCDooYznlZnlnKjljp/kvY3vvIzmnKrljZXliJfmiJDoioLjgIIiDQogXQ0KfQ==
+{
+ "key": "2026-01-15-d04bf4f8",
+ "title": "白杨资讯｜关于寒假期间办理本科生成绩单等材料的提醒",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "头图与标题：寒假办理时间与方式预告",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    7
+   ],
+   "items": [
+    "pt-6e4b0d87f4",
+    "pt-605cf72d21",
+    "pt-831d03114d"
+   ],
+   "chars": 345
+  },
+  {
+   "no": "1",
+   "heading": "线上24小时自助办理方式",
+   "heading_kind": "author",
+   "lines": [
+    9,
+    15
+   ],
+   "items": [
+    "pt-f224dd32a5",
+    "pt-1baa146042"
+   ],
+   "chars": 209
+  },
+  {
+   "no": "2",
+   "heading": "邮件办理方式",
+   "heading_kind": "author",
+   "lines": [
+    17,
+    23
+   ],
+   "items": [
+    "pt-3279338055",
+    "pt-46277d3260"
+   ],
+   "chars": 137
+  },
+  {
+   "no": "3",
+   "heading": "寒假线下加盖密封章服务",
+   "heading_kind": "author",
+   "lines": [
+    25,
+    34
+   ],
+   "items": [
+    "pt-d6f99f1657",
+    "pt-2576630981",
+    "pt-4738afb63d"
+   ],
+   "chars": 252
+  },
+  {
+   "no": "—",
+   "heading": "特别提示",
+   "heading_kind": "author",
+   "lines": [
+    35,
+    41
+   ],
+   "items": [
+    "pt-1f557f7379",
+    "pt-de29cca7a2",
+    "pt-0b4ba622a5"
+   ],
+   "chars": 103
+  },
+  {
+   "no": "—",
+   "heading": "END 标记与中传 APP 校友推广",
+   "heading_kind": "derived",
+   "lines": [
+    42,
+    54
+   ],
+   "items": [
+    "pt-35cd7dd95e",
+    "pt-242e93ec82",
+    "pt-dfc9d5c9c3",
+    "pt-74ca1d3f23",
+    "pt-0cc71e85c1"
+   ],
+   "chars": 702
+  },
+  {
+   "no": "—",
+   "heading": "来源与编者署名、页尾图片",
+   "heading_kind": "derived",
+   "lines": [
+    55,
+    61
+   ],
+   "items": [
+    "pt-173c74d17b",
+    "pt-ba39135c00"
+   ],
+   "chars": 198
+  }
+ ],
+ "items": [
+  "pt-f224dd32a5",
+  "pt-3279338055",
+  "pt-6e4b0d87f4",
+  "pt-605cf72d21",
+  "pt-831d03114d",
+  "pt-1baa146042",
+  "pt-46277d3260",
+  "pt-d6f99f1657",
+  "pt-2576630981",
+  "pt-4738afb63d",
+  "pt-1f557f7379",
+  "pt-de29cca7a2",
+  "pt-0b4ba622a5",
+  "pt-35cd7dd95e",
+  "pt-242e93ec82",
+  "pt-dfc9d5c9c3",
+  "pt-74ca1d3f23",
+  "pt-0cc71e85c1",
+  "pt-173c74d17b",
+  "pt-ba39135c00"
+ ],
+ "notes": [
+  "微信公众号图文抓取稿：正文只有 1/2/3 三个带序号的办理方式小标题与「特别提示」，其余为图片占位行 [图] 与推广文案。",
+  "第 8、16、24 行只有序号「1」「2」「3」，各并入其后的方式节；第 26、31 行为「1.办理时间」「2.办理地点」小项号，不单列成节。",
+  "第 42-54 行为 END 标记与中传 APP 校友注册推广（图片 URL 行），非正文办理说明，单列一节。",
+  "第 55-58 行为来源/编辑/责编/编审署名，第 59-61 行为页尾图片与「预览时标签不可点」等平台文案。",
+  "图片均以 [图] + URL 行留在原位，未单列成节。"
+ ]
+}

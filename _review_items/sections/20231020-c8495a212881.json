@@ -1,1 +1,88 @@
-ewogImtleSI6ICIyMDIzMTAyMC1jODQ5NWEyMTI4ODEiLAogInRpdGxlIjogIuWtpueUn+eUteWtkOS6pOmAmuWNoeeUs+mihiIsCiAidHJ1bmNhdGVkIjogZmFsc2UsCiAic2VjdGlvbnMiOiBbCiAgewogICAibm8iOiAi6aG16Z2i5qGG5p62IiwKICAgImhlYWRpbmciOiAi56uZ54K55a+86Iiq44CB5qCP55uu6I+c5Y2V5LiOIGJhbm5lciDlm74iLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbMSwgNDddLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogMTcwCiAgfSwKICB7CiAgICJubyI6ICLmoIfpopgiLAogICAiaGVhZGluZyI6ICLlrabnlJ/nlLXlrZDkuqTpgJrljaHnlLPpooYiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs0OSwgNTFdLAogICAiaXRlbXMiOiBbInB0LTdhOTQ1NWNmMzkiXSwKICAgImNoYXJzIjogMzMKICB9LAogIHsKICAgIm5vIjogIuWvvOivrSIsCiAgICJoZWFkaW5nIjogIuWtpuagoeS4k+WxnuKAnOeUteWtkOWtpueUn+S6pOmAmuWNoeKAneeahOaOqOWHuuS4juS8mOaDoOiMg+WbtCIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFs1MywgNTddLAogICAiaXRlbXMiOiBbInB0LWMzNDQ5ZmRlMTAiXSwKICAgImNoYXJzIjogMjA3CiAgfSwKICB7CiAgICJubyI6ICIx44CBIiwKICAgImhlYWRpbmciOiAiMeOAgeeUs+mihuivtOaYjiIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzU5LCA4MV0sCiAgICJpdGVtcyI6IFsicHQtYTlkNTY3NmQ2MiIsICJwdC0yNDJmOWY1ZDZhIiwgInB0LWI3Yjg4MDBkYTkiLCAicHQtNThlNDM5MzcyNiJdLAogICAiY2hhcnMiOiA3MjYKICB9LAogIHsKICAgIm5vIjogIjLjgIEiLAogICAiaGVhZGluZyI6ICIy44CB5aSH6YCJ5pa55qGIIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbODMsIDk5XSwKICAgIml0ZW1zIjogWyJwdC00NTZkMzY4Njc0IiwgInB0LTE0NTMzYjY4YzgiLCAicHQtYzViY2NkZjlmMyJdLAogICAiY2hhcnMiOiAzNzAKICB9LAogIHsKICAgIm5vIjogIuWFtuS7luivtOaYjiIsCiAgICJoZWFkaW5nIjogIuWFtuS7luivtOaYjuS4juagoeWbreWNoeS9v+eUqOaPkOekuu+8iOWQq+acjeWKoeeDree6v++8iSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFsxMDEsIDExMV0sCiAgICJpdGVtcyI6IFsicHQtNWQzNzFkZmNjMCIsICJwdC03Mzg3OTJjYmI4IiwgInB0LWZjNDA5ZjIxYTciXSwKICAgImNoYXJzIjogMjIxCiAgfSwKICB7CiAgICJubyI6ICLpobXohJoiLAogICAiaGVhZGluZyI6ICLkv6Hmga/ljJblpITogZTns7vmlrnlvI/jgIHlkITnsbvmiqXkv67nlLXor53kuI7niYjmnYPlpIfmoYjkv6Hmga8iLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbMTEzLCAxNjFdLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogMzUwCiAgfQogXSwKICJpdGVtcyI6IFsKICAicHQtN2E5NDU1Y2YzOSIsCiAgInB0LWMzNDQ5ZmRlMTAiLAogICJwdC1hOWQ1Njc2ZDYyIiwKICAicHQtMjQyZjlmNWQ2YSIsCiAgInB0LWI3Yjg4MDBkYTkiLAogICJwdC01OGU0MzkzNzI2IiwKICAicHQtNDU2ZDM2ODY3NCIsCiAgInB0LTE0NTMzYjY4YzgiLAogICJwdC1jNWJjY2RmOWYzIiwKICAicHQtNWQzNzFkZmNjMCIsCiAgInB0LTczODc5MmNiYjgiLAogICJwdC1mYzQwOWYyMWE3IgogXSwKICJub3RlcyI6IFsKICAi5Y6f5paH5byC5bi477yI6KGM5bC+77yJ77ya5pys5paH5Lu25q+P6KGM5Lul44CMXFxyXFxyXFxu44CN57uT5bC+77yM5oyJIFB5dGhvbiDpgJrnlKjmjaLooYzliIfliIbkvJrmiormr4/kuKrmjaLooYzlj5jmiJDkuKTkuKrmjaLooYzjgIHlnKjmr4/ooYzlkI7mj5LlhaXkuIDkuKrnqbrooYzjgIJgbGVuKHRleHQuc3BsaXQoJ1xcbicpKT0xNjFg77yM5YaF5a656KGM5YWo5Li65aWH5pWw6KGM77yI56ysIDHjgIEz44CBNeKApjE2MSDooYzvvInvvIzmnKzntKLlvJXnmoQgbGluZXMg55So55qE5bCx5piv6L+Z5Liq5ZCr56m66KGM55qE6KGM5Y+35Y+j5b6E77yb5oyJ57yW6L6R5Zmo6YeM55yL5Yiw55qEIDgxIOihjOWvueaVsOS8muW3ruS4gOWAjeOAguW3suaguOWvue+8muWBtuaVsOihjOWFqOmDqOS4uuepuuihjOOAgiIsCiAgIumhtemdoue7k+aehO+8iOS/oeaBr+WMluWkhOermeeCueaWh+eroOmhte+8ie+8muesrCAxIOihjOmdouWMheWxkeagh+mimOOAgeesrCAz4oCTNDUg6KGM5piv5pW056uZ5a+86Iiq5LiO5qCP55uu5LiL5ouJ6I+c5Y2V77yI6aaW6aG177yP5YWz5LqO5oiR5Lus77yP6YOo6Zeo5qaC5Ya177yP5L+h5oGv5YyW5pyN5Yqh77yPSVTmnI3liqHvvI/moKHlm63ljaHmnI3liqHvvI/pgJrnn6XlhazlkYrvvI/nvZHnu5zlronlhajvvI/luK7liqnnrYnvvInjgIHnrKwgNDcg6KGM5pivIGxpc3RfYmFubmVyIOmZhOS7tuWbvu+8jOWQiOS4uuOAjOmhtemdouahhuaetuOAjeiKguOAgiIsCiAgIuato+aWh+iHquesrCA0OSDooYzpobXpnaLmoIfpopjotbfvvJrnrKwgNTEg6KGM5Y+R5biD5pe26Ze05LiO5rWP6KeI6YeP77yIMjAyMy0xMC0yMO+8jOa1j+iniOasoeaVsCAxODY077yJ44CB56ysIDUz4oCTNTUg6KGM5a+86K+t44CB56ysIDU5IOihjOOAjDHjgIHnlLPpoobor7TmmI7jgI3jgIHnrKwgODMg6KGM44CMMuOAgeWkh+mAieaWueahiOOAje+8jOS4pOS4quW6j+WPt+Wwj+agh+mimOWcqOWOn+aWh+mAkOWtl+WPr+inge+8jOaghyBhdXRob3LvvIxgbm9gIOWPluW6j+WPt+acrOi6q+OAgiIsCiAgIuesrCA1N+OAgTYz44CBNjnjgIE3M+OAgTc344CBODHjgIE4OSDooYzpg73mmK/mraPmlofmj5Llm77pmYTku7booYzvvIhbX3VwbG9hZC9hcnRpY2xlL2ltYWdlcy/igKZd77yJ77yM5bey5bm25YWl5omA5Zyo6IqC77yM5LiN5Y+m6K6+6IqC77yb56ysIDY3IOihjOOAjOeUs+ivt+S4reWbveS8oOWqkuWkp+WtpueUteWtkOagoeWbreWNoeOAjeOAgeesrCA3MSDooYzjgIznu5HlrprmoKHlm63ljaHjgI3mmK/phY3lm77kuIvnmoTlsI/moIfnrb7vvIzkuI3mmK/ni6znq4vlsI/oioLjgIIiLAogICJwdC1iN2I4ODAwZGE5IOeahOW8leaWh+S7juesrCA2NyDooYzjgIznlLPor7fkuK3lm73kvKDlqpLlpKflrabnlLXlrZDmoKHlm63ljaHjgI3otbfvvIzot6jnrKwgNjkg6KGM6ZmE5Lu26Lev5b6E44CB56ysIDcxIOihjOOAjOe7keWumuagoeWbreWNoeOAje+8jOWIsOesrCA3NSDooYzmn6XnnIvljaHniYfor6bmg4XnmoTor7TmmI7vvIzlhajpg6jlnKjjgIwx44CB55Sz6aKG6K+05piO44CN6IqC5YaF44CCIiwKICAicHQtYzViY2NkZjlmMyDnmoTlvJXmlofot6jkuKTlpITvvJrjgIznvZHngrnlkqjor6LnlLXor50wMTAtNTkwNzAyMTUg5Yqe5YWs5pe26Ze0Oe+8mjAwLTE377yaMzDjgI3vvIjnrKwgOTfigJM5OSDooYzvvIzlsZ7lpIfpgInmlrnmoYjnmoTpoobljaHnvZHngrnkv6Hmga/vvInkuI7jgIzlhbbku5bor7TmmI7vvJrkuK3lm73kvKDlqpLlpKflrabnlLXlrZDlrabnlJ/ljaEv5a6e5L2T5Y2h5Y+v5a6e546w5YWo5rWB56iL57q/5LiK5pm66IO9566h55CG44CC44CN77yI56ysIDEwMeKAkzEwMyDooYzvvInjgILliY0gMjYg5a2X6ZSa5Zyo56ysIDk34oCTOTkg6KGM77yM5pWF5YiX44CMMuOAgeWkh+mAieaWueahiOOAje+8jOacquWGjeWIl+i/m+OAjOWFtuS7luivtOaYjuOAjeiKguOAgiIsCiAgIuesrCAxMTPigJMxMzcg6KGM5piv6aG16ISa6IGU57O75Yy677yI5L+h5oGv5YyW5aSE44CB5Zyw5Z2A44CM5YyX5Lqs5biC5pyd6Ziz5Yy65a6a56aP5bqE5Lic6KGX5LiA5Y+344CN44CB5pyN5Yqh5Lit5b+D44CM6Im65pyv5LiO5Lyg5pKt5aSn5qW8MeWxgjEwNOOAjeOAgeWKnuWFrOWupOOAjDI15Y+35qW8M+WxguOAjeOAgeWutuWxnuWMuue9kee7nC/mnInnur/nlLXop4bmiqXkv67nlLXor53jgIHlrr/oiI3nvZHnu5zmiqXkv67nlLXor53jgIHmoKHlm63ljaHlj4rnvZHnu5zmiqXkv67nlLXor53vvInvvIznrKwgMTM54oCTMTUzIOihjOaYr+OAjOW4uOeUqOmTvuaOpeOAjeiPnOWNleS4juaooeadv+WNoOS9je+8iHvnvKnnlaXlm759e+agh+mimH3vvInvvIznrKwgMTU1IOihjCBnb3RvcCDpmYTku7bjgIHnrKwgMTU3IOihjOaui+eVmSBIVE1MIOazqOmHiuespuOAjC0tPuOAjeOAgeesrCAxNTkg6KGM54mI5p2D5LiO5Lqs5YWs572R5a6J5aSHL+S6rElDUCDlpIfmoYjlj7fjgIHnrKwgMTYxIOihjOiuv+mXrue7n+iuoemZhOS7tu+8jOWQiOS4uuOAjOmhteiEmuOAjeiKguOAgiIsCiAgInB0LTdhOTQ1NWNmMzkg55qE5byV5paH5Y+q5pyJ5qCH6aKY5Lmd5Liq5a2X44CM5a2m55Sf55S15a2Q5Lqk6YCa5Y2h55Sz6aKG44CN77yM5Zyo5paH5Lit5Ye6546w5Lik5qyh77yI56ysIDEg6KGM6Z2i5YyF5bGR5LiO56ysIDQ5IOihjOmhtemdouagh+mimO+8ie+8jOW9kuWFpeOAjOagh+mimOOAjeiKguOAgiIsCiAgIuacrOaWh+aXoOaIquaWre+8muesrCAxNjEg6KGM6K6/6Zeu57uf6K6h5Li66aG16Z2i5pyA5ZCO5LiA6KGM77yM5q2j5paH77yI5ZCr5L2/55So5o+Q56S6IDMg5p2h5LiO5YyX5Lqs5LiA5Y2h6YCa5pyN5Yqh54Ot57q/IDAxMC05NjA2Nu+8ieWujOaVtOOAgiIKIF0KfQo=
+{
+ "key": "20231020-c8495a212881",
+ "title": "学生电子交通卡申领",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "页面框架",
+   "heading": "站点导航、栏目菜单与 banner 图",
+   "heading_kind": "derived",
+   "lines": [1, 47],
+   "items": [],
+   "chars": 170
+  },
+  {
+   "no": "标题",
+   "heading": "学生电子交通卡申领",
+   "heading_kind": "author",
+   "lines": [49, 51],
+   "items": ["pt-7a9455cf39"],
+   "chars": 33
+  },
+  {
+   "no": "导语",
+   "heading": "学校专属“电子学生交通卡”的推出与优惠范围",
+   "heading_kind": "derived",
+   "lines": [53, 57],
+   "items": ["pt-c3449fde10"],
+   "chars": 207
+  },
+  {
+   "no": "1、",
+   "heading": "1、申领说明",
+   "heading_kind": "author",
+   "lines": [59, 81],
+   "items": ["pt-a9d5676d62", "pt-242f9f5d6a", "pt-b7b8800da9", "pt-58e4393726"],
+   "chars": 726
+  },
+  {
+   "no": "2、",
+   "heading": "2、备选方案",
+   "heading_kind": "author",
+   "lines": [83, 99],
+   "items": ["pt-456d368674", "pt-14533b68c8", "pt-c5bccdf9f3"],
+   "chars": 370
+  },
+  {
+   "no": "其他说明",
+   "heading": "其他说明与校园卡使用提示（含服务热线）",
+   "heading_kind": "derived",
+   "lines": [101, 111],
+   "items": ["pt-5d371dfcc0", "pt-738792cbb8", "pt-fc409f21a7"],
+   "chars": 221
+  },
+  {
+   "no": "页脚",
+   "heading": "信息化处联系方式、各类报修电话与版权备案信息",
+   "heading_kind": "derived",
+   "lines": [113, 161],
+   "items": [],
+   "chars": 350
+  }
+ ],
+ "items": [
+  "pt-7a9455cf39",
+  "pt-c3449fde10",
+  "pt-a9d5676d62",
+  "pt-242f9f5d6a",
+  "pt-b7b8800da9",
+  "pt-58e4393726",
+  "pt-456d368674",
+  "pt-14533b68c8",
+  "pt-c5bccdf9f3",
+  "pt-5d371dfcc0",
+  "pt-738792cbb8",
+  "pt-fc409f21a7"
+ ],
+ "notes": [
+  "原文异常（行尾）：本文件每行以「\\r\\r\\n」结尾，按 Python 通用换行切分会把每个换行变成两个换行、在每行后插入一个空行。`len(text.split('\\n'))=161`，内容行全为奇数行（第 1、3、5…161 行），本索引的 lines 用的就是这个含空行的行号口径；按编辑器里看到的 81 行对数会差一倍。已核对：偶数行全部为空行。",
+  "页面结构（信息化处站点文章页）：第 1 行面包屑标题、第 3–45 行是整站导航与栏目下拉菜单（首页／关于我们／部门概况／信息化服务／IT服务／校园卡服务／通知公告／网络安全／帮助等）、第 47 行是 list_banner 附件图，合为「页面框架」节。",
+  "正文自第 49 行页面标题起：第 51 行发布时间与浏览量（2023-10-20，浏览次数 1864）、第 53–55 行导语、第 59 行「1、申领说明」、第 83 行「2、备选方案」，两个序号小标题在原文逐字可见，标 author，`no` 取序号本身。",
+  "第 57、63、69、73、77、81、89 行都是正文插图附件行（[_upload/article/images/…]），已并入所在节，不另设节；第 67 行「申请中国传媒大学电子校园卡」、第 71 行「绑定校园卡」是配图下的小标签，不是独立小节。",
+  "pt-b7b8800da9 的引文从第 67 行「申请中国传媒大学电子校园卡」起，跨第 69 行附件路径、第 71 行「绑定校园卡」，到第 75 行查看卡片详情的说明，全部在「1、申领说明」节内。",
+  "pt-c5bccdf9f3 的引文跨两处：「网点咨询电话010-59070215 办公时间9：00-17：30」（第 97–99 行，属备选方案的领卡网点信息）与「其他说明：中国传媒大学电子学生卡/实体卡可实现全流程线上智能管理。」（第 101–103 行）。前 26 字锚在第 97–99 行，故列「2、备选方案」，未再列进「其他说明」节。",
+  "第 113–137 行是页脚联系区（信息化处、地址「北京市朝阳区定福庄东街一号」、服务中心「艺术与传播大楼1层104」、办公室「25号楼3层」、家属区网络/有线电视报修电话、宿舍网络报修电话、校园卡及网络报修电话），第 139–153 行是「常用链接」菜单与模板占位（{缩略图}{标题}），第 155 行 gotop 附件、第 157 行残留 HTML 注释符「-->」、第 159 行版权与京公网安备/京ICP 备案号、第 161 行访问统计附件，合为「页脚」节。",
+  "pt-7a9455cf39 的引文只有标题九个字「学生电子交通卡申领」，在文中出现两次（第 1 行面包屑与第 49 行页面标题），归入「标题」节。",
+  "本文无截断：第 161 行访问统计为页面最后一行，正文（含使用提示 3 条与北京一卡通服务热线 010-96066）完整。"
+ ]
+}

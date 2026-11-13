@@ -1,1 +1,142 @@
-ew0KICJrZXkiOiAiYzI1M2JkZTkiLA0KICJ0aXRsZSI6ICLkuK3kvKDlrp7pqozlrZfjgJQyMDI144CVMTIyIOWPtyDkuK3lm73kvKDlqpLlpKflrablrp7pqozlrqTlronlhajliIbnuqfliIbnsbvnrqHnkIblip7ms5UiLA0KICJ0cnVuY2F0ZWQiOiBmYWxzZSwNCiAic2VjdGlvbnMiOiBbDQogIHsNCiAgICJubyI6ICLpgJrnn6UiLA0KICAgImhlYWRpbmciOiAi5paH5aS05LiO5Y2w5Y+R6YCa55+lIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMSwNCiAgICAxNg0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAid2QtYzI1M2JkZTkiDQogICBdLA0KICAgImNoYXJzIjogMjE0DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuIDnq6AiLA0KICAgImhlYWRpbmciOiAi5oC75YiZIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNywNCiAgICAzOA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAid2QtYzI1M2JkZTkiDQogICBdLA0KICAgImNoYXJzIjogNTEyDQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuoznq6AiLA0KICAgImhlYWRpbmciOiAi566h55CG5L2T57O75LiO6IGM6LSjIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzOSwNCiAgICA2MA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogNTE3DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuInnq6AiLA0KICAgImhlYWRpbmciOiAi5a6e6aqM5a6k5a6J5YWo5YiG57qn5YiG57G75Y6f5YiZIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA2MSwNCiAgICA4OA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogNjU1DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzlm5vnq6AiLA0KICAgImhlYWRpbmciOiAi5a6e5pa95LiO55uR552j5qOA5p+lIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA4OSwNCiAgICAxMTQNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDYwOA0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LqU56ugIiwNCiAgICJoZWFkaW5nIjogIumZhOWImSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTE1LA0KICAgIDEyNA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTQyDQogIH0sDQogIHsNCiAgICJubyI6ICLpmYTku7YxIiwNCiAgICJoZWFkaW5nIjogIuWtpuagoeWunumqjOWupOWuieWFqOWIhue6p+ihqCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTI2LA0KICAgIDE5MA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogOTAwDQogIH0sDQogIHsNCiAgICJubyI6ICLpmYTku7YyIiwNCiAgICJoZWFkaW5nIjogIuWtpuagoeWunumqjOWupOWuieWFqOmjjumZqeivhOS7t+ihqCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTkyLA0KICAgIDI1NQ0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTExMQ0KICB9LA0KICB7DQogICAibm8iOiAi6ZmE5Lu2MyIsDQogICAiaGVhZGluZyI6ICLlrabmoKHlrp7pqozlrqTliIbnsbvlj4LnhafooagiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDI1NywNCiAgICAyODENCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDc3NQ0KICB9LA0KICB7DQogICAibm8iOiAi6ZmE5Lu2NCIsDQogICAiaGVhZGluZyI6ICLlrabmoKHlrp7pqozlrqTliIbnuqfnrqHnkIbopoHmsYLlj4LnhafooagiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDI4MywNCiAgICAzOTINCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDEzNDANCiAgfSwNCiAgew0KICAgIm5vIjogIueJiOiusCIsDQogICAiaGVhZGluZyI6ICLljbDlj5HniYjorrAiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzOTMsDQogICAgMzkzDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAyNw0KICB9DQogXSwNCiAiaXRlbXMiOiBbDQogICJ3ZC1jMjUzYmRlOSINCiBdLA0KICJub3RlcyI6IFsNCiAgIuato+aWh+S6lOeroO+8iOesrOS4gOeroOKAk+esrOS6lOeroO+8iee8luWPt+i/nue7re+8jOaXoOmHjeWkjeOAgeaXoOe8uueroO+8m+esrCAxNiDooYzkuLrlip7ms5XmoIfpopjooYzvvIzkuI4gMeKAkzEzIOihjOeahOWNsOWPkemAmuefpe+8iOWQq+esrCAx44CBMTUg6KGM55qE6aG156CB77yJ5ZCI5bm25Li644CM5paH5aS05LiO5Y2w5Y+R6YCa55+l44CN5LiA6IqC44CCIiwNCiAgInB5cGRmIOaKiumhteeggeOAjOKAlCBOIOKAlOOAjeaKvei/m+S6huato+aWh++8iOesrCAx44CBMTXjgIEzNuOAgTU444CBODDjgIExMDLjgIExMjDjgIExMjXjgIExNjHjgIExOTHjgIEyMTHjgIEyMzLjgIEyNTbjgIEyODLjgIEzNTQg6KGM77yJ77yM5Liq5Yir5Y+l5a2Q6KKr6aG156CB5YiH5pat77yI5aaC56ys5LqU5p2hIDM04oCTMzgg6KGM44CM5ZCE5LqM57qn5Y2V5L2N5Y+v5Lul5L6d5o2u77yP4oCUIDMg4oCU77yP5pys5Yqe5rOV4oCm44CN77yJ77yb6aG156CB55WZ5Zyo5omA5bGe56ug6IqC5YaF77yM5LiN5b2x5ZON6IqC6L6555WM44CC56ysIDEyNeOAgTE5MeOAgTI1NuOAgTI4MiDooYzmmK/pmYTku7bliY3nmoTpobXnoIHvvIzokL3lnKjkuIrkuIDoioLmnKvlsL7miJbkuIvkuIDoioLkuYvliY3jgIIiLA0KICAi56ys5LqU56ug44CM6ZmE5YiZ44CN5Y+q5pyJ56ys5LqM5Y2B5LqM5p2h77yI6L+96LSj77yJ5LiO56ys5LqM5Y2B5LiJ5p2h77yI5pa96KGM5pel5pyf77yJ77yMMTIx4oCTMTI0IOihjOaYr+mZhOS7tua4heWNle+8jOWQjOWcqOesrOS6lOeroOWGheOAgiIsDQogICLpmYTku7YgMeKAkzQg5piv5Zub5byg6KGo77yI5YiG57qn6KGo44CB6aOO6Zmp6K+E5Lu36KGo44CB5YiG57G75Y+C54Wn6KGo44CB5YiG57qn566h55CG6KaB5rGC5Y+C54Wn6KGo77yJ77yM5ZCE5oiQ5LiA6IqC77yb6KGo5qC86KGM77yI5aaC44CM4oWg57qnL+e6ouiJsue6p+OAjeOAjDI1IOWIhuOAjeOAjOWuieWFqOajgOafpeOAje+8ieS4jeaYr+eroOiKgu+8jOacquWNleWIl+OAgiIsDQogICJ3ZC1jMjUzYmRlOSDkuLrmlofmoaPnuqfmnaHnm67vvIzlvJXmlofot6ggMiDoioLvvIjnrKwgMeKAkzYg6KGM5Zyo44CM5paH5aS05LiO5Y2w5Y+R6YCa55+l44CN77yM56ysIDE444CBMjQg6KGM5Zyo44CM56ys5LiA56ugIOaAu+WImeOAje+8ie+8jOaVheWcqOi/mSAyIOiKguWQhOWIl+S4gOasoeOAgiINCiBdDQp9DQo=
+{
+ "key": "c253bde9",
+ "title": "中传实验字〔2025〕122 号 中国传媒大学实验室安全分级分类管理办法",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "通知",
+   "heading": "文头与印发通知",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    16
+   ],
+   "items": [
+    "wd-c253bde9"
+   ],
+   "chars": 214
+  },
+  {
+   "no": "第一章",
+   "heading": "总则",
+   "heading_kind": "author",
+   "lines": [
+    17,
+    38
+   ],
+   "items": [
+    "wd-c253bde9"
+   ],
+   "chars": 512
+  },
+  {
+   "no": "第二章",
+   "heading": "管理体系与职责",
+   "heading_kind": "author",
+   "lines": [
+    39,
+    60
+   ],
+   "items": [],
+   "chars": 517
+  },
+  {
+   "no": "第三章",
+   "heading": "实验室安全分级分类原则",
+   "heading_kind": "author",
+   "lines": [
+    61,
+    88
+   ],
+   "items": [],
+   "chars": 655
+  },
+  {
+   "no": "第四章",
+   "heading": "实施与监督检查",
+   "heading_kind": "author",
+   "lines": [
+    89,
+    114
+   ],
+   "items": [],
+   "chars": 608
+  },
+  {
+   "no": "第五章",
+   "heading": "附则",
+   "heading_kind": "author",
+   "lines": [
+    115,
+    124
+   ],
+   "items": [],
+   "chars": 142
+  },
+  {
+   "no": "附件1",
+   "heading": "学校实验室安全分级表",
+   "heading_kind": "author",
+   "lines": [
+    126,
+    190
+   ],
+   "items": [],
+   "chars": 900
+  },
+  {
+   "no": "附件2",
+   "heading": "学校实验室安全风险评价表",
+   "heading_kind": "author",
+   "lines": [
+    192,
+    255
+   ],
+   "items": [],
+   "chars": 1111
+  },
+  {
+   "no": "附件3",
+   "heading": "学校实验室分类参照表",
+   "heading_kind": "author",
+   "lines": [
+    257,
+    281
+   ],
+   "items": [],
+   "chars": 775
+  },
+  {
+   "no": "附件4",
+   "heading": "学校实验室分级管理要求参照表",
+   "heading_kind": "author",
+   "lines": [
+    283,
+    392
+   ],
+   "items": [],
+   "chars": 1340
+  },
+  {
+   "no": "版记",
+   "heading": "印发版记",
+   "heading_kind": "derived",
+   "lines": [
+    393,
+    393
+   ],
+   "items": [],
+   "chars": 27
+  }
+ ],
+ "items": [
+  "wd-c253bde9"
+ ],
+ "notes": [
+  "正文五章（第一章–第五章）编号连续，无重复、无缺章；第 16 行为办法标题行，与 1–13 行的印发通知（含第 1、15 行的页码）合并为「文头与印发通知」一节。",
+  "pypdf 把页码「— N —」抽进了正文（第 1、15、36、58、80、102、120、125、161、191、211、232、256、282、354 行），个别句子被页码切断（如第五条 34–38 行「各二级单位可以依据／— 3 —／本办法…」）；页码留在所属章节内，不影响节边界。第 125、191、256、282 行是附件前的页码，落在上一节末尾或下一节之前。",
+  "第五章「附则」只有第二十二条（追责）与第二十三条（施行日期），121–124 行是附件清单，同在第五章内。",
+  "附件 1–4 是四张表（分级表、风险评价表、分类参照表、分级管理要求参照表），各成一节；表格行（如「Ⅰ级/红色级」「25 分」「安全检查」）不是章节，未单列。",
+  "wd-c253bde9 为文档级条目，引文跨 2 节（第 1–6 行在「文头与印发通知」，第 18、24 行在「第一章 总则」），故在这 2 节各列一次。"
+ ]
+}

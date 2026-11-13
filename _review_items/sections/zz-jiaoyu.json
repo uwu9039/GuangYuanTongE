@@ -1,1 +1,259 @@
-ewogICJrZXkiOiAienotamlhb3l1IiwKICAidGl0bGUiOiAi5pmu6YCa6auY562J5pWZ6IKy5a2m55Sf6LWE5Yqp5pS/562WIiwKICAidHJ1bmNhdGVkIjogZmFsc2UsCiAgInNlY3Rpb25zIjogWwogICAgewogICAgICAibm8iOiAi4oCUIiwKICAgICAgImhlYWRpbmciOiAi6aG16Z2i5qGG5p62IiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgICAgImxpbmVzIjogWzEsIDQ5XSwKICAgICAgIml0ZW1zIjogWyJydWxlLXp6LWppYW95dSIsICJwdC1jY2JkMTNmZjRjIiwgInB0LThkYmVmMzY4MjciXSwKICAgICAgImNoYXJzIjogMjc4CiAgICB9LAogICAgewogICAgICAibm8iOiAi5LiA44CBIiwKICAgICAgImhlYWRpbmciOiAi5pys5LiT56eR55Sf5pWZ6IKy6Zi25q616LWE5Yqp5pS/562WIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbNTAsIDc5XSwKICAgICAgIml0ZW1zIjogWyJwdC1lNThiZTkzMGM0Il0sCiAgICAgICJjaGFycyI6IDIzMjEKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLkuIDjgIExIiwKICAgICAgImhlYWRpbmciOiAiMS4g5pys5LiT56eR55Sf5Zu95a625aWW5a2m6YeRIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbNTMsIDU0XSwKICAgICAgIml0ZW1zIjogWyJwdC0xY2FmYjVjYTJmIl0sCiAgICAgICJjaGFycyI6IDg0CiAgICB9LAogICAgewogICAgICAibm8iOiAi5LiA44CBMiIsCiAgICAgICJoZWFkaW5nIjogIjIuIOacrOS4k+enkeeUn+WbveWutuWKseW/l+WlluWtpumHkSIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzU1LCA1Nl0sCiAgICAgICJpdGVtcyI6IFsicHQtM2JiMGEzY2ExMCJdLAogICAgICAiY2hhcnMiOiA2OAogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuS4gOOAgTMiLAogICAgICAiaGVhZGluZyI6ICIzLiDmnKzkuJPnp5HnlJ/lm73lrrbliqnlrabph5EiLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFs1NywgNThdLAogICAgICAiaXRlbXMiOiBbXSwKICAgICAgImNoYXJzIjogMTU5CiAgICB9LAogICAgewogICAgICAibm8iOiAi5LiA44CBNCIsCiAgICAgICJoZWFkaW5nIjogIjQuIOWbveWutuWKqeWtpui0t+asviIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzU5LCA2MF0sCiAgICAgICJpdGVtcyI6IFsicHQtZTc0ZjQyYjE5MCJdLAogICAgICAiY2hhcnMiOiAyOTgKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLkuIDjgIE1IiwKICAgICAgImhlYWRpbmciOiAiNS4g5pyN5YW15b256auY562J5a2m5qCh5a2m55Sf5Zu95a625pWZ6IKy6LWE5YqpIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbNjEsIDYyXSwKICAgICAgIml0ZW1zIjogW10sCiAgICAgICJjaGFycyI6IDM2OAogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuS4gOOAgTYiLAogICAgICAiaGVhZGluZyI6ICI2LiDln7rlsYLlsLHkuJrlrabotLnooaXlgb/otLfmrL7ku6Plgb8iLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFs2MywgNjRdLAogICAgICAiaXRlbXMiOiBbXSwKICAgICAgImNoYXJzIjogMTU3CiAgICB9LAogICAgewogICAgICAibm8iOiAi5LiA44CBNyIsCiAgICAgICJoZWFkaW5nIjogIjcuIOW4iOiMg+eUn+WFrOi0ueaVmeiCsiDkuK3opb/pg6jmrKDlj5Hovr7lnLDljLrkvJjnp4DmlZnluIjlrprlkJHln7nlhbvorqHliJIiLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFs2NSwgNjZdLAogICAgICAiaXRlbXMiOiBbXSwKICAgICAgImNoYXJzIjogMjQ5CiAgICB9LAogICAgewogICAgICAibm8iOiAi5LiA44CBOCIsCiAgICAgICJoZWFkaW5nIjogIjguIOS4reWkruS4k+mhueW9qeelqOWFrOebiumHkeaVmeiCsuWKqeWtpumhueebrua7i+iVmeiuoeWIku+8iOWOn+aWsOeUn+WFpeWtpui1hOWKqemhueebru+8iSIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzY3LCA2OV0sCiAgICAgICJpdGVtcyI6IFsicHQtZmQ5NTBmNjYyMyJdLAogICAgICAiY2hhcnMiOiAyNTcKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLkuIDjgIE5IiwKICAgICAgImhlYWRpbmciOiAiOS4g5Yuk5bel5Yqp5a2mIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbNzAsIDcxXSwKICAgICAgIml0ZW1zIjogWyJwdC1mMjc3ZGU1NzkyIl0sCiAgICAgICJjaGFycyI6IDY0CiAgICB9LAogICAgewogICAgICAibm8iOiAi5LiA44CBMTAiLAogICAgICAiaGVhZGluZyI6ICIxMC4g57u/6Imy6YCa6YGTIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbNzIsIDczXSwKICAgICAgIml0ZW1zIjogW10sCiAgICAgICJjaGFycyI6IDEwNwogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuS4gOOAgTExIiwKICAgICAgImhlYWRpbmciOiAiMTEuIOagoeWGhei1hOWKqSIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzc0LCA3NV0sCiAgICAgICJpdGVtcyI6IFtdLAogICAgICAiY2hhcnMiOiA2NwogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuS4gOOAgea4qemmqOaPkOmGkiIsCiAgICAgICJoZWFkaW5nIjogIua4qemmqOaPkOmGkiIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzc2LCA3N10sCiAgICAgICJpdGVtcyI6IFtdLAogICAgICAiY2hhcnMiOiAxMTcKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLkuIDjgIHlronlhajpooToraYiLAogICAgICAiaGVhZGluZyI6ICLlronlhajpooToraYiLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFs3OCwgNzldLAogICAgICAiaXRlbXMiOiBbXSwKICAgICAgImNoYXJzIjogMjQwCiAgICB9LAogICAgewogICAgICAibm8iOiAi4oCUIiwKICAgICAgImhlYWRpbmciOiAi6ZmE5Lu25LiL6L29IiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgICAgImxpbmVzIjogWzgwLCA4MV0sCiAgICAgICJpdGVtcyI6IFsicHQtNjQwYTcyYTNlYyJdLAogICAgICAiY2hhcnMiOiA1NQogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuS6jOOAgSIsCiAgICAgICJoZWFkaW5nIjogIueglOeptueUn+aVmeiCsumYtuautei1hOWKqeaUv+etliIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzgyLCAxMDBdLAogICAgICAiaXRlbXMiOiBbXSwKICAgICAgImNoYXJzIjogMTI4MQogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuS6jOOAgTEiLAogICAgICAiaGVhZGluZyI6ICIxLiDlm73lrrblpZblrabph5EiLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFs4MywgODRdLAogICAgICAiaXRlbXMiOiBbInB0LTNjMjgyZDVmODQiLCAicHQtOWQ1NGE3N2I2YSJdLAogICAgICAiY2hhcnMiOiA4MgogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuS6jOOAgTIiLAogICAgICAiaGVhZGluZyI6ICIyLiDlrabkuJrlpZblrabph5EiLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFs4NSwgODZdLAogICAgICAiaXRlbXMiOiBbInB0LTI1OTk3OGM4M2IiLCAicHQtOTVhMmJkNmFlZiJdLAogICAgICAiY2hhcnMiOiA3NgogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuS6jOOAgTMiLAogICAgICAiaGVhZGluZyI6ICIzLiDlm73lrrbliqnlrabph5EiLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFs4NywgODhdLAogICAgICAiaXRlbXMiOiBbInB0LTJiZWFiMWVhNzgiXSwKICAgICAgImNoYXJzIjogMTMwCiAgICB9LAogICAgewogICAgICAibm8iOiAi5LqM44CBNCIsCiAgICAgICJoZWFkaW5nIjogIjQuIOWbveWutuWKqeWtpui0t+asviIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzg5LCA5MF0sCiAgICAgICJpdGVtcyI6IFsicHQtMzI4NzBjOTFkOCIsICJwdC1hYzcwODVhMTc1Il0sCiAgICAgICJjaGFycyI6IDI5NAogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuS6jOOAgTUiLAogICAgICAiaGVhZGluZyI6ICI1LiDmnI3lhbXlvbnpq5jnrYnlrabmoKHlrabnlJ/lm73lrrbmlZnogrLotYTliqkiLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFs5MSwgOTJdLAogICAgICAiaXRlbXMiOiBbInB0LTIyOWY3YjEwYTciLCAicHQtM2FkOTdjZTcyZiIsICJwdC03MjIyYjBiMDNhIl0sCiAgICAgICJjaGFycyI6IDMxNQogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuS6jOOAgTYiLAogICAgICAiaGVhZGluZyI6ICI2LiDln7rlsYLlsLHkuJrlrabotLnooaXlgb/otLfmrL7ku6Plgb8iLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFs5MywgOTRdLAogICAgICAiaXRlbXMiOiBbInB0LWNhYTc1MzQxN2IiLCAicHQtZTVlMjA3YmM2OCJdLAogICAgICAiY2hhcnMiOiAxNTgKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLkuozjgIE3IiwKICAgICAgImhlYWRpbmciOiAiNy4g4oCc5LiJ5Yqp4oCd5bKX5L2N5rSl6LS0IiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbOTUsIDk2XSwKICAgICAgIml0ZW1zIjogWyJwdC00MjMwOTBjNDBhIl0sCiAgICAgICJjaGFycyI6IDQxCiAgICB9LAogICAgewogICAgICAibm8iOiAi5LqM44CBOCIsCiAgICAgICJoZWFkaW5nIjogIjguIOe7v+iJsumAmumBkyIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzk3LCA5OF0sCiAgICAgICJpdGVtcyI6IFsicHQtYWY1N2YzYTI4MyJdLAogICAgICAiY2hhcnMiOiAxMDYKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLkuozjgIE5IiwKICAgICAgImhlYWRpbmciOiAiOS4g5qCh5YaF6LWE5YqpIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbOTksIDEwMF0sCiAgICAgICJpdGVtcyI6IFsicHQtOTNhZDcwZDExNCJdLAogICAgICAiY2hhcnMiOiA2NgogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuKAlCIsCiAgICAgICJoZWFkaW5nIjogIumhteiEmiIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICAgICJsaW5lcyI6IFsxMDEsIDExMV0sCiAgICAgICJpdGVtcyI6IFsicHQtMmIzNGIyNWNhZSJdLAogICAgICAiY2hhcnMiOiAxMTQKICAgIH0KICBdLAogICJpdGVtcyI6IFsKICAgICJydWxlLXp6LWppYW95dSIsCiAgICAicHQtY2NiZDEzZmY0YyIsCiAgICAicHQtOGRiZWYzNjgyNyIsCiAgICAicHQtZTU4YmU5MzBjNCIsCiAgICAicHQtMWNhZmI1Y2EyZiIsCiAgICAicHQtM2JiMGEzY2ExMCIsCiAgICAicHQtZTc0ZjQyYjE5MCIsCiAgICAicHQtZmQ5NTBmNjYyMyIsCiAgICAicHQtZjI3N2RlNTc5MiIsCiAgICAicHQtNjQwYTcyYTNlYyIsCiAgICAicHQtM2MyODJkNWY4NCIsCiAgICAicHQtOWQ1NGE3N2I2YSIsCiAgICAicHQtMjU5OTc4YzgzYiIsCiAgICAicHQtOTVhMmJkNmFlZiIsCiAgICAicHQtMmJlYWIxZWE3OCIsCiAgICAicHQtMzI4NzBjOTFkOCIsCiAgICAicHQtYWM3MDg1YTE3NSIsCiAgICAicHQtMjI5ZjdiMTBhNyIsCiAgICAicHQtM2FkOTdjZTcyZiIsCiAgICAicHQtNzIyMmIwYjAzYSIsCiAgICAicHQtY2FhNzUzNDE3YiIsCiAgICAicHQtZTVlMjA3YmM2OCIsCiAgICAicHQtNDIzMDkwYzQwYSIsCiAgICAicHQtYWY1N2YzYTI4MyIsCiAgICAicHQtOTNhZDcwZDExNCIsCiAgICAicHQtMmIzNGIyNWNhZSIKICBdLAogICJub3RlcyI6IFsKICAgICJydWxlLXp6LWppYW95dSDml6DlvJXmlofvvIzkuLrmlofmoaPnuqfmnaHnm67vvIzlt7LlkIzml7bliJflhaXmlofmoaPnuqcgaXRlbXMg5LiO5qaC6L+w6IqC77yI56ysMS00OeihjOOAjOmhtemdouahhuaetuOAje+8ieOAgiIsCiAgICAi6aG16Z2i5qGG5p625ZCr56uZ54K55a+86Iiq44CB6Z2i5YyF5bGR44CB5qCH6aKY44CB5Y+R5biD5pe26Ze0L+acgOWQjuabtOaWsOaXtumXtOOAgeWtl+WPt+S4juiuv+mXrumHj++8m3B0LWNjYmQxM2ZmNGPvvIjpobXpnaLmoIfpopjvvInjgIFwdC04ZGJlZjM2ODI377yI6Z2i5YyF5bGR77yJ6JC95q2k44CCIiwKICAgICLkuIDjgIHkuLrniLboioLvvIg1MC03Oe+8ie+8jOS4i+WQqyAxLTExIOWNgeS4qui1hOWKqemhueebruWwj+agh+mimOOAgea4qemmqOaPkOmGkuOAgeWuieWFqOmihOitpuetieWtkOiKgu+8m+esrDUy6KGM44CM6auY5qCh5a2m55Sf6LWE5Yqp5pS/562W5L2T57O744CN5Li65o+S5Zu+6K+05piO77yM5pWF5pyq5Y2V56uL5a2Q6IqC44CCIiwKICAgICLpmYTku7YxL+mZhOS7tjLvvIjnrKw4MC04MeihjO+8ieS9jeS6juS4gOOAgeS4juS6jOOAgeS5i+mXtO+8jOWNleeri+OAjOmZhOS7tuS4i+i9veOAjeiKgu+8m3B0LTY0MGE3MmEzZWMg55qE5byV5paH6LW354K55q2j5piv56ysODDooYzpmYTku7Yx77yM5YW25q2j5paH5a6e5Li65LqM44CBMS7lm73lrrblpZblrabph5HvvIzlt7LmjInlvJXmlofokL3ngrnliJflnKjpmYTku7boioLjgIIiLAogICAgInB0LWU3NGY0MmIxOTAg55qE5byV5paH77yINC7lm73lrrbliqnlrabotLfmrL7igKbvvInlnKjkuIDjgIE0IOS4juS6jOOAgTQg55qE5a+55bqU5q616JC95ZCM5b2i77yM5oyJ5pys56eR6Zi25q615Y6f5paH77yI56ysNTktNjDooYzvvInokL3lnKjkuIDjgIE044CCIiwKICAgICLkuozjgIHkuLrniLboioLvvIg4Mi0xMDDvvInvvIzkuIvlkKsgMS05IOWQhOWtkOiKgu+8m+S6jOOAgeacrOi6q+aXoOadoeebru+8iOaXoOW8leaWh+i1t+S6juesrDgy6KGM77yJ44CCIgogIF0KfQo=
+{
+  "key": "zz-jiaoyu",
+  "title": "普通高等教育学生资助政策",
+  "truncated": false,
+  "sections": [
+    {
+      "no": "—",
+      "heading": "页面框架",
+      "heading_kind": "derived",
+      "lines": [1, 49],
+      "items": ["rule-zz-jiaoyu", "pt-ccbd13ff4c", "pt-8dbef36827"],
+      "chars": 278
+    },
+    {
+      "no": "一、",
+      "heading": "本专科生教育阶段资助政策",
+      "heading_kind": "author",
+      "lines": [50, 79],
+      "items": ["pt-e58be930c4"],
+      "chars": 2321
+    },
+    {
+      "no": "一、1",
+      "heading": "1. 本专科生国家奖学金",
+      "heading_kind": "author",
+      "lines": [53, 54],
+      "items": ["pt-1cafb5ca2f"],
+      "chars": 84
+    },
+    {
+      "no": "一、2",
+      "heading": "2. 本专科生国家励志奖学金",
+      "heading_kind": "author",
+      "lines": [55, 56],
+      "items": ["pt-3bb0a3ca10"],
+      "chars": 68
+    },
+    {
+      "no": "一、3",
+      "heading": "3. 本专科生国家助学金",
+      "heading_kind": "author",
+      "lines": [57, 58],
+      "items": [],
+      "chars": 159
+    },
+    {
+      "no": "一、4",
+      "heading": "4. 国家助学贷款",
+      "heading_kind": "author",
+      "lines": [59, 60],
+      "items": ["pt-e74f42b190"],
+      "chars": 298
+    },
+    {
+      "no": "一、5",
+      "heading": "5. 服兵役高等学校学生国家教育资助",
+      "heading_kind": "author",
+      "lines": [61, 62],
+      "items": [],
+      "chars": 368
+    },
+    {
+      "no": "一、6",
+      "heading": "6. 基层就业学费补偿贷款代偿",
+      "heading_kind": "author",
+      "lines": [63, 64],
+      "items": [],
+      "chars": 157
+    },
+    {
+      "no": "一、7",
+      "heading": "7. 师范生公费教育 中西部欠发达地区优秀教师定向培养计划",
+      "heading_kind": "author",
+      "lines": [65, 66],
+      "items": [],
+      "chars": 249
+    },
+    {
+      "no": "一、8",
+      "heading": "8. 中央专项彩票公益金教育助学项目滋蕙计划（原新生入学资助项目）",
+      "heading_kind": "author",
+      "lines": [67, 69],
+      "items": ["pt-fd950f6623"],
+      "chars": 257
+    },
+    {
+      "no": "一、9",
+      "heading": "9. 勤工助学",
+      "heading_kind": "author",
+      "lines": [70, 71],
+      "items": ["pt-f277de5792"],
+      "chars": 64
+    },
+    {
+      "no": "一、10",
+      "heading": "10. 绿色通道",
+      "heading_kind": "author",
+      "lines": [72, 73],
+      "items": [],
+      "chars": 107
+    },
+    {
+      "no": "一、11",
+      "heading": "11. 校内资助",
+      "heading_kind": "author",
+      "lines": [74, 75],
+      "items": [],
+      "chars": 67
+    },
+    {
+      "no": "一、温馨提醒",
+      "heading": "温馨提醒",
+      "heading_kind": "author",
+      "lines": [76, 77],
+      "items": [],
+      "chars": 117
+    },
+    {
+      "no": "一、安全预警",
+      "heading": "安全预警",
+      "heading_kind": "author",
+      "lines": [78, 79],
+      "items": [],
+      "chars": 240
+    },
+    {
+      "no": "—",
+      "heading": "附件下载",
+      "heading_kind": "derived",
+      "lines": [80, 81],
+      "items": ["pt-640a72a3ec"],
+      "chars": 55
+    },
+    {
+      "no": "二、",
+      "heading": "研究生教育阶段资助政策",
+      "heading_kind": "author",
+      "lines": [82, 100],
+      "items": [],
+      "chars": 1281
+    },
+    {
+      "no": "二、1",
+      "heading": "1. 国家奖学金",
+      "heading_kind": "author",
+      "lines": [83, 84],
+      "items": ["pt-3c282d5f84", "pt-9d54a77b6a"],
+      "chars": 82
+    },
+    {
+      "no": "二、2",
+      "heading": "2. 学业奖学金",
+      "heading_kind": "author",
+      "lines": [85, 86],
+      "items": ["pt-259978c83b", "pt-95a2bd6aef"],
+      "chars": 76
+    },
+    {
+      "no": "二、3",
+      "heading": "3. 国家助学金",
+      "heading_kind": "author",
+      "lines": [87, 88],
+      "items": ["pt-2beab1ea78"],
+      "chars": 130
+    },
+    {
+      "no": "二、4",
+      "heading": "4. 国家助学贷款",
+      "heading_kind": "author",
+      "lines": [89, 90],
+      "items": ["pt-32870c91d8", "pt-ac7085a175"],
+      "chars": 294
+    },
+    {
+      "no": "二、5",
+      "heading": "5. 服兵役高等学校学生国家教育资助",
+      "heading_kind": "author",
+      "lines": [91, 92],
+      "items": ["pt-229f7b10a7", "pt-3ad97ce72f", "pt-7222b0b03a"],
+      "chars": 315
+    },
+    {
+      "no": "二、6",
+      "heading": "6. 基层就业学费补偿贷款代偿",
+      "heading_kind": "author",
+      "lines": [93, 94],
+      "items": ["pt-caa753417b", "pt-e5e207bc68"],
+      "chars": 158
+    },
+    {
+      "no": "二、7",
+      "heading": "7. “三助”岗位津贴",
+      "heading_kind": "author",
+      "lines": [95, 96],
+      "items": ["pt-423090c40a"],
+      "chars": 41
+    },
+    {
+      "no": "二、8",
+      "heading": "8. 绿色通道",
+      "heading_kind": "author",
+      "lines": [97, 98],
+      "items": ["pt-af57f3a283"],
+      "chars": 106
+    },
+    {
+      "no": "二、9",
+      "heading": "9. 校内资助",
+      "heading_kind": "author",
+      "lines": [99, 100],
+      "items": ["pt-93ad70d114"],
+      "chars": 66
+    },
+    {
+      "no": "—",
+      "heading": "页脚",
+      "heading_kind": "derived",
+      "lines": [101, 111],
+      "items": ["pt-2b34b25cae"],
+      "chars": 114
+    }
+  ],
+  "items": [
+    "rule-zz-jiaoyu",
+    "pt-ccbd13ff4c",
+    "pt-8dbef36827",
+    "pt-e58be930c4",
+    "pt-1cafb5ca2f",
+    "pt-3bb0a3ca10",
+    "pt-e74f42b190",
+    "pt-fd950f6623",
+    "pt-f277de5792",
+    "pt-640a72a3ec",
+    "pt-3c282d5f84",
+    "pt-9d54a77b6a",
+    "pt-259978c83b",
+    "pt-95a2bd6aef",
+    "pt-2beab1ea78",
+    "pt-32870c91d8",
+    "pt-ac7085a175",
+    "pt-229f7b10a7",
+    "pt-3ad97ce72f",
+    "pt-7222b0b03a",
+    "pt-caa753417b",
+    "pt-e5e207bc68",
+    "pt-423090c40a",
+    "pt-af57f3a283",
+    "pt-93ad70d114",
+    "pt-2b34b25cae"
+  ],
+  "notes": [
+    "rule-zz-jiaoyu 无引文，为文档级条目，已同时列入文档级 items 与概述节（第1-49行「页面框架」）。",
+    "页面框架含站点导航、面包屑、标题、发布时间/最后更新时间、字号与访问量；pt-ccbd13ff4c（页面标题）、pt-8dbef36827（面包屑）落此。",
+    "一、为父节（50-79），下含 1-11 十个资助项目小标题、温馨提醒、安全预警等子节；第52行「高校学生资助政策体系」为插图说明，故未单立子节。",
+    "附件1/附件2（第80-81行）位于一、与二、之间，单立「附件下载」节；pt-640a72a3ec 的引文起点正是第80行附件1，其正文实为二、1.国家奖学金，已按引文落点列在附件节。",
+    "pt-e74f42b190 的引文（4.国家助学贷款…）在一、4 与二、4 的对应段落同形，按本科阶段原文（第59-60行）落在一、4。",
+    "二、为父节（82-100），下含 1-9 各子节；二、本身无条目（无引文起于第82行）。"
+  ]
+}

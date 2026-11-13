@@ -1,1 +1,228 @@
-ew0KICJrZXkiOiAiaGI0OTgzM2Y0NDA5IiwNCiAidGl0bGUiOiAi5Lit5Zu95Lyg5aqS5aSn5a2m6ZuG5L2T5oi35Y+j566h55CG5pqC6KGM6KeE5a6a77yO5YyX5Lqs5biC5b6B5YW15LyY5b6F5pS/562W566A5LuLIiwNCiAidHJ1bmNhdGVkIjogZmFsc2UsDQogInNlY3Rpb25zIjogWw0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuS4reWbveS8oOWqkuWkp+WtpumbhuS9k+aIt+WPo+euoeeQhuaaguihjOinhOWumiIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMiwNCiAgICA2MQ0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTY4Ng0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuagh+mimOS4juWItuWumuS+neaNriIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDIsDQogICAgNA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogNzMNCiAgfSwNCiAgew0KICAgIm5vIjogIuS4gOOAgSIsDQogICAiaGVhZGluZyI6ICLlhaXmoKHmiLflj6Plip7nkIYiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDUsDQogICAgMjQNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTVmYjMzNGU5M2UiDQogICBdLA0KICAgImNoYXJzIjogNjI0DQogIH0sDQogIHsNCiAgICJubyI6ICLkuozjgIEiLA0KICAgImhlYWRpbmciOiAi56a75qCh5oi35Y+j5Yqe55CGIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyNSwNCiAgICA0OA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtY2RjZDJmYjI3NSIsDQogICAgInB0LWViNGE3NmYzZGUiDQogICBdLA0KICAgImNoYXJzIjogNjgxDQogIH0sDQogIHsNCiAgICJubyI6ICLkuInjgIEiLA0KICAgImhlYWRpbmciOiAi6Lqr5Lu96K+B5Yqe55CGIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA0OSwNCiAgICA1MQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtYmMwZWUyMTVkMiINCiAgIF0sDQogICAiY2hhcnMiOiA5MA0KICB9LA0KICB7DQogICAibm8iOiAi5Zub44CBIiwNCiAgICJoZWFkaW5nIjogIuaIt+exjeWNoeWAn+eUqCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNTIsDQogICAgNTgNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTkxNDU2MTc3OWEiDQogICBdLA0KICAgImNoYXJzIjogMTQ3DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi6Kej6YeK5p2D5LiO5pa96KGM5pel5pyfIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNTksDQogICAgNjENCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDcxDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5YyX5Lqs5biC5b6B5YW15LyY5b6F5pS/562W566A5LuLIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA2MywNCiAgICAxNDgNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWIyYmYwNTU2NjUiDQogICBdLA0KICAgImNoYXJzIjogMzEyNQ0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuWkjeWtpuOAgeWNh+WtpuS4juaKgOiDveWfueiureS8mOW+hSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDY0LA0KICAgIDk5DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1mN2ZmM2QzMmNmIiwNCiAgICAicHQtNDY1ZThlZDcxZiIsDQogICAgInB0LTRmMWY5MWQ0YjMiLA0KICAgICJwdC1lZWE2NzQyZTdkIiwNCiAgICAicHQtMDJkZDY4MzY5YSIsDQogICAgInB0LTExYzgzMGNjNGEiLA0KICAgICJwdC1mNDAwZmE4NzI4IiwNCiAgICAicHQtMGViNGYzODc0NCIsDQogICAgInB0LWNkZjE3OGUyMTMiLA0KICAgICJwdC03YmNlODQxMGNlIiwNCiAgICAicHQtNmMwMjIyYWNlNSIsDQogICAgInB0LTE3ZmM0ZTA4MmQiLA0KICAgICJwdC1mZmIyNTNhNDUyIiwNCiAgICAicHQtNTM1YmJmYjc5MiINCiAgIF0sDQogICAiY2hhcnMiOiAxMzM2DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5bCx5Lia5LiO5a6J572u5LyY5b6FIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMTAwLA0KICAgIDEyNQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMWVjMjg1ZmFjMiIsDQogICAgInB0LWI1OWRiYmFkZjYiLA0KICAgICJwdC1jYjJjY2NkNzQ3IiwNCiAgICAicHQtZWE1NGI2ODE0YSIsDQogICAgInB0LWY2OWQ4YjE4NzYiLA0KICAgICJwdC1hMGNjMzZlMjI3IiwNCiAgICAicHQtODk3MDg1MjhiMiIsDQogICAgInB0LTliNGUwMjc5OTUiLA0KICAgICJwdC02YzI0MGZmZTBiIiwNCiAgICAicHQtMWJiNzgxMGVmYyIsDQogICAgInB0LWU1M2E3MGVkODgiDQogICBdLA0KICAgImNoYXJzIjogOTkxDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi57uP5rWO6KGl5Yqp5LiO5L+d6Zmp5LyY5b6FIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMTI2LA0KICAgIDE0OA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMzk0YzNjNGNmZSIsDQogICAgInB0LTM2Y2E5MjBkMWMiLA0KICAgICJwdC00NWY1ZTYyZmQxIiwNCiAgICAicHQtMTkxZDU4ZWVkZCIsDQogICAgInB0LTA0M2RhMzRmZTUiLA0KICAgICJwdC1lMDJmMjdiZjUwIiwNCiAgICAicHQtYmQ1NWUxNjE3NyIsDQogICAgInB0LTdiOGMyNDcwYjkiLA0KICAgICJwdC02NTM3ZWVmNmM0IiwNCiAgICAicHQtZDEyNzc1OTJmOCINCiAgIF0sDQogICAiY2hhcnMiOiA3ODcNCiAgfQ0KIF0sDQogIml0ZW1zIjogWw0KICAicHQtY2RjZDJmYjI3NSIsDQogICJwdC1lYjRhNzZmM2RlIiwNCiAgInB0LWJjMGVlMjE1ZDIiLA0KICAicHQtOTE0NTYxNzc5YSIsDQogICJwdC1mN2ZmM2QzMmNmIiwNCiAgInB0LTRmMWY5MWQ0YjMiLA0KICAicHQtZWVhNjc0MmU3ZCIsDQogICJwdC0wMmRkNjgzNjlhIiwNCiAgInB0LTBlYjRmMzg3NDQiLA0KICAicHQtY2RmMTc4ZTIxMyIsDQogICJwdC03YmNlODQxMGNlIiwNCiAgInB0LTFlYzI4NWZhYzIiLA0KICAicHQtY2IyY2NjZDc0NyIsDQogICJwdC04OTcwODUyOGIyIiwNCiAgInB0LTFiYjc4MTBlZmMiLA0KICAicHQtMzk0YzNjNGNmZSIsDQogICJwdC0wNDNkYTM0ZmU1IiwNCiAgInB0LWJkNTVlMTYxNzciLA0KICAicHQtNjUzN2VlZjZjNCIsDQogICJwdC01ZmIzMzRlOTNlIiwNCiAgInB0LWIyYmYwNTU2NjUiLA0KICAicHQtNDY1ZThlZDcxZiIsDQogICJwdC0xMWM4MzBjYzRhIiwNCiAgInB0LWY0MDBmYTg3MjgiLA0KICAicHQtNmMwMjIyYWNlNSIsDQogICJwdC0xN2ZjNGUwODJkIiwNCiAgInB0LWZmYjI1M2E0NTIiLA0KICAicHQtNTM1YmJmYjc5MiIsDQogICJwdC1iNTlkYmJhZGY2IiwNCiAgInB0LWVhNTRiNjgxNGEiLA0KICAicHQtZjY5ZDhiMTg3NiIsDQogICJwdC1hMGNjMzZlMjI3IiwNCiAgInB0LTliNGUwMjc5OTUiLA0KICAicHQtNmMyNDBmZmUwYiIsDQogICJwdC1lNTNhNzBlZDg4IiwNCiAgInB0LTM2Y2E5MjBkMWMiLA0KICAicHQtNDVmNWU2MmZkMSIsDQogICJwdC0xOTFkNThlZWRkIiwNCiAgInB0LWUwMmYyN2JmNTAiLA0KICAicHQtN2I4YzI0NzBiOSIsDQogICJwdC1kMTI3NzU5MmY4Ig0KIF0sDQogIm5vdGVzIjogWw0KICAi5pys5paH5piv5rGH57yW5Lu277yM5LiA5Lu95paH5Lu26YeM6KOF5LqG5Lik5Lu95paH5qGj77ya56ysIDLigJM2MSDooYzjgIrkuK3lm73kvKDlqpLlpKflrabpm4bkvZPmiLflj6PnrqHnkIbmmoLooYzop4TlrprjgIvvvIjkuIDjgIHlhaXmoKHmiLflj6Plip7nkIYg4oCmIOWbm+OAgeaIt+exjeWNoeWAn+eUqO+8jOacq+S4uuesrOS6jOWNgeadoeino+mHiuadg+OAgeesrOS6jOWNgeS4gOadoeaWveihjOS4juW6n+atou+8ie+8jOesrCA2M+KAkzE0OCDooYzjgIrljJfkuqzluILlvoHlhbXkvJjlvoXmlL/nrZbnroDku4vjgIvjgILkuKTogIXlkITorr7kuIDkuKrmlofmoaPnuqfniLboioLvvIgy4oCTNjHjgIE2M+KAkzE0OO+8ie+8jOeItuiKguS4i+WGjeWIhuWtkOiKgu+8m+S4pOS7veaWh+aho+S5i+mXtOaXoOihjOWPt+S6pOWPoOOAgiIsDQogICLljp/mloflvILluLjvvIjlsI/moIfpopjlhajkuLrkubHnoIHvvInvvJrnrKzkuozku73mlofmoaPnmoTkuInkuKrliIboioLlsI/moIfpopjlnKjnrKwgNjQg6KGM44CM4YGCYdqv4L+Q4LS24L+Q4YKq1oDjgI3jgIHnrKwgMTAwIOihjOOAjNi9YeCjvOGAvOGCqtaA44CN44CB56ysIDEyNiDooYzjgIzgs5hh4KC24KOc4Ye50oDTiuOAje+8jOaYryBQREYg5a2X5L2T57yW56CB5pyq5pig5bCE6YCg5oiQ55qE5Lmx56CB77yM5peg5rOV6L+Y5Y6f5Y6f5paH55So5a2X77yM5pWF6L+Z5LiJ5Liq6IqC55qEIGhlYWRpbmcg5LiA5b6L5qCHIGRlcml2ZWTvvIjmjInoioLlhoXvvIjkuIDvvInvvZ7vvIjlhavvvInnmoTmnaHnm67lhoXlrrnmpoLmi6zkuLrjgIzlpI3lrabjgIHljYflrabkuI7mioDog73ln7norq3kvJjlvoXjgI3jgIzlsLHkuJrkuI7lronnva7kvJjlvoXjgI3jgIznu4/mtY7ooaXliqnkuI7kv53pmankvJjlvoXjgI3vvInvvIxubyDnlKjjgIzigJTjgI3jgIIiLA0KICAi6IqC6aaW6K+05piO77ya56ys5LqM5Lu95paH5qGj55qE54i26IqCIGxpbmVzIOS7juesrCA2MyDooYzvvIjmlofmoaPmoIfpopjvvInotbfvvIzlm6DkuLogcHQtYjJiZjA1NTY2NSDnmoTlvJXmlofjgIzljJfkuqzluILlvoHlhbXkvJjlvoXmlL/nrZbnroDku4vhgYJh2q/gv5DgtLbgv5DhgqrWgO+8iOS4gO+8ieWkjeWtpuaUv+etluOAguKApuOAjei1t+eCueWcqOagh+mimOihjOOAgeS4lOimgei/nuWIsOesrCA2NSDooYzmiY3okL3lvpfkuoblnLDvvIzmjInlj6PlvoTliJfliLDmlofmoaPnuqfniLboioLjgIIiLA0KICAi56ys5LiA5Lu95paH5qGj5Y+m5pyJ5LiA5Liq5paH5qGj57qn54i26IqC77yIMuKAkzYx77yJ5YyF5L2P44CM5qCH6aKY5LiO5Yi25a6a5L6d5o2u44CN5LiO5Zub5Liq5aSn5p2h77yM5bGe55yf5bWM5aWX77yb56ys5LiA5Lu95paH5qGj55qEIG5vIOeUqOOAjOKAlOOAje+8iOWOn+aWh+ayoeacieOAjOesrFjnq6DjgI3vvIzlj6rmnInjgIzkuIDjgIHkuozjgIHkuInjgIHlm5vjgI3lm5vkuKrkuovpobnmoIfpopjkuI7mnKvkuKTmnaHml6DmoIflj7fmnaHmrL7vvInjgIIiLA0KICAi56ysIDHjgIEzM+OAgTYy44CBOTPjgIExMjkg6KGM5piv57qv6aG156CB6KGM77yILSA0NyAtIOKApiAtIDUxIC3vvInvvIzmjInlj6PlvoTkuI3orqHlhaXku7vkvZXoioLvvJvnrKwgMzMg6KGM5Zug6JC95Zyo44CM5LqM44CB56a75qCh5oi35Y+j5Yqe55CG44CN5Yy66Ze05YaF6KKr6Ieq54S26KaG55uW44CCIiwNCiAgIjQxIOadoeadoeebruWFqOmDqOiQveWcqOacrOaWh++8jOaXoOi3qOaWh+S7tuW8leeUqO+8m+WQjOS4gOauteaWh+Wtl+iiq+aKveaIkOS4pOadoeebrueahO+8iOWmgu+8iOS6jO+8iei9rOaNouS4k+S4muOAgeWuieaOkuW3peS9nOOAgeWumuWQkeaLm+iBmOOAgei0reS5sOWMu+eWl+S/nemZqeWQhOacieS4pOadoeW8leaWh+mVv+efreS4jeWQjOeahOadoeebru+8ie+8jOaMieWFtuW8leaWh+aJgOWcqOiKguWQhOWIl+S4gOasoeOAgiINCiBdDQp9DQo=
+{
+ "key": "hb49833f4409",
+ "title": "中国传媒大学集体户口管理暂行规定．北京市征兵优待政策简介",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "中国传媒大学集体户口管理暂行规定",
+   "heading_kind": "author",
+   "lines": [
+    2,
+    61
+   ],
+   "items": [],
+   "chars": 1686
+  },
+  {
+   "no": "—",
+   "heading": "标题与制定依据",
+   "heading_kind": "derived",
+   "lines": [
+    2,
+    4
+   ],
+   "items": [],
+   "chars": 73
+  },
+  {
+   "no": "一、",
+   "heading": "入校户口办理",
+   "heading_kind": "author",
+   "lines": [
+    5,
+    24
+   ],
+   "items": [
+    "pt-5fb334e93e"
+   ],
+   "chars": 624
+  },
+  {
+   "no": "二、",
+   "heading": "离校户口办理",
+   "heading_kind": "author",
+   "lines": [
+    25,
+    48
+   ],
+   "items": [
+    "pt-cdcd2fb275",
+    "pt-eb4a76f3de"
+   ],
+   "chars": 681
+  },
+  {
+   "no": "三、",
+   "heading": "身份证办理",
+   "heading_kind": "author",
+   "lines": [
+    49,
+    51
+   ],
+   "items": [
+    "pt-bc0ee215d2"
+   ],
+   "chars": 90
+  },
+  {
+   "no": "四、",
+   "heading": "户籍卡借用",
+   "heading_kind": "author",
+   "lines": [
+    52,
+    58
+   ],
+   "items": [
+    "pt-914561779a"
+   ],
+   "chars": 147
+  },
+  {
+   "no": "—",
+   "heading": "解释权与施行日期",
+   "heading_kind": "derived",
+   "lines": [
+    59,
+    61
+   ],
+   "items": [],
+   "chars": 71
+  },
+  {
+   "no": "—",
+   "heading": "北京市征兵优待政策简介",
+   "heading_kind": "author",
+   "lines": [
+    63,
+    148
+   ],
+   "items": [
+    "pt-b2bf055665"
+   ],
+   "chars": 3125
+  },
+  {
+   "no": "—",
+   "heading": "复学、升学与技能培训优待",
+   "heading_kind": "derived",
+   "lines": [
+    64,
+    99
+   ],
+   "items": [
+    "pt-f7ff3d32cf",
+    "pt-465e8ed71f",
+    "pt-4f1f91d4b3",
+    "pt-eea6742e7d",
+    "pt-02dd68369a",
+    "pt-11c830cc4a",
+    "pt-f400fa8728",
+    "pt-0eb4f38744",
+    "pt-cdf178e213",
+    "pt-7bce8410ce",
+    "pt-6c0222ace5",
+    "pt-17fc4e082d",
+    "pt-ffb253a452",
+    "pt-535bbfb792"
+   ],
+   "chars": 1336
+  },
+  {
+   "no": "—",
+   "heading": "就业与安置优待",
+   "heading_kind": "derived",
+   "lines": [
+    100,
+    125
+   ],
+   "items": [
+    "pt-1ec285fac2",
+    "pt-b59dbbadf6",
+    "pt-cb2cccd747",
+    "pt-ea54b6814a",
+    "pt-f69d8b1876",
+    "pt-a0cc36e227",
+    "pt-89708528b2",
+    "pt-9b4e027995",
+    "pt-6c240ffe0b",
+    "pt-1bb7810efc",
+    "pt-e53a70ed88"
+   ],
+   "chars": 991
+  },
+  {
+   "no": "—",
+   "heading": "经济补助与保险优待",
+   "heading_kind": "derived",
+   "lines": [
+    126,
+    148
+   ],
+   "items": [
+    "pt-394c3c4cfe",
+    "pt-36ca920d1c",
+    "pt-45f5e62fd1",
+    "pt-191d58eedd",
+    "pt-043da34fe5",
+    "pt-e02f27bf50",
+    "pt-bd55e16177",
+    "pt-7b8c2470b9",
+    "pt-6537eef6c4",
+    "pt-d1277592f8"
+   ],
+   "chars": 787
+  }
+ ],
+ "items": [
+  "pt-cdcd2fb275",
+  "pt-eb4a76f3de",
+  "pt-bc0ee215d2",
+  "pt-914561779a",
+  "pt-f7ff3d32cf",
+  "pt-4f1f91d4b3",
+  "pt-eea6742e7d",
+  "pt-02dd68369a",
+  "pt-0eb4f38744",
+  "pt-cdf178e213",
+  "pt-7bce8410ce",
+  "pt-1ec285fac2",
+  "pt-cb2cccd747",
+  "pt-89708528b2",
+  "pt-1bb7810efc",
+  "pt-394c3c4cfe",
+  "pt-043da34fe5",
+  "pt-bd55e16177",
+  "pt-6537eef6c4",
+  "pt-5fb334e93e",
+  "pt-b2bf055665",
+  "pt-465e8ed71f",
+  "pt-11c830cc4a",
+  "pt-f400fa8728",
+  "pt-6c0222ace5",
+  "pt-17fc4e082d",
+  "pt-ffb253a452",
+  "pt-535bbfb792",
+  "pt-b59dbbadf6",
+  "pt-ea54b6814a",
+  "pt-f69d8b1876",
+  "pt-a0cc36e227",
+  "pt-9b4e027995",
+  "pt-6c240ffe0b",
+  "pt-e53a70ed88",
+  "pt-36ca920d1c",
+  "pt-45f5e62fd1",
+  "pt-191d58eedd",
+  "pt-e02f27bf50",
+  "pt-7b8c2470b9",
+  "pt-d1277592f8"
+ ],
+ "notes": [
+  "本文是汇编件，一份文件里装了两份文档：第 2–61 行《中国传媒大学集体户口管理暂行规定》（一、入校户口办理 … 四、户籍卡借用，末为第二十条解释权、第二十一条施行与废止），第 63–148 行《北京市征兵优待政策简介》。两者各设一个文档级父节（2–61、63–148），父节下再分子节；两份文档之间无行号交叠。",
+  "原文异常（小标题全为乱码）：第二份文档的三个分节小标题在第 64 行「၂aگ࿐ശ࿐Ⴊր」、第 100 行「ؽaࣼြႪր」、第 126 行「೘a࠶ࣜᇹҀӊ」，是 PDF 字体编码未映射造成的乱码，无法还原原文用字，故这三个节的 heading 一律标 derived（按节内（一）～（八）的条目内容概括为「复学、升学与技能培训优待」「就业与安置优待」「经济补助与保险优待」），no 用「—」。",
+  "节首说明：第二份文档的父节 lines 从第 63 行（文档标题）起，因为 pt-b2bf055665 的引文「北京市征兵优待政策简介၂aگ࿐ശ࿐Ⴊր（一）复学政策。…」起点在标题行、且要连到第 65 行才落得了地，按口径列到文档级父节。",
+  "第一份文档另有一个文档级父节（2–61）包住「标题与制定依据」与四个大条，属真嵌套；第一份文档的 no 用「—」（原文没有「第X章」，只有「一、二、三、四」四个事项标题与末两条无标号条款）。",
+  "第 1、33、62、93、129 行是纯页码行（- 47 - … - 51 -），按口径不计入任何节；第 33 行因落在「二、离校户口办理」区间内被自然覆盖。",
+  "41 条条目全部落在本文，无跨文件引用；同一段文字被抽成两条目的（如（二）转换专业、安排工作、定向招聘、购买医疗保险各有两条引文长短不同的条目），按其引文所在节各列一次。"
+ ]
+}

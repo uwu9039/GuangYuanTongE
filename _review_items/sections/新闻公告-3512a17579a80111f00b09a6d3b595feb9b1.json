@@ -1,1 +1,250 @@
-ew0KICJrZXkiOiAi5paw6Ze75YWs5ZGKLTM1MTJhMTc1NzlhODAxMTFmMDBiMDlhNmQzYjU5NWZlYjliMSIsDQogInRpdGxlIjogIuesrOS4ieWxiuKAnOWjsOWKqOmHkeeni+KAneacl+ivu+i1m+mAmuefpSIsDQogInRydW5jYXRlZCI6IGZhbHNlLA0KICJzZWN0aW9ucyI6IFsNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLmoIfpopjkuI7lr7zor60iLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxLA0KICAgIDkNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTJjZTFmNWQyYzMiLA0KICAgICJwdC0zMWQyNDZmMzk1Ig0KICAgXSwNCiAgICJjaGFycyI6IDM5OA0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIua0u+WKqOWQjeensCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTAsDQogICAgMTENCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTUzNDAxMmI3NzUiDQogICBdLA0KICAgImNoYXJzIjogMTYNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLmtLvliqjkuLvpopjkuI7ml7bpl7TlronmjpIiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMiwNCiAgICAxOQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZTc0M2MwZGNiNCINCiAgIF0sDQogICAiY2hhcnMiOiAxMzcNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLmtLvliqjkuLvpopgiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDEyLA0KICAgIDEzDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAxMw0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuaXtumXtOWuieaOkiIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTQsDQogICAgMTkNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDEyNA0KICB9LA0KICB7DQogICAibm8iOiAi5Zub44CBIiwNCiAgICJoZWFkaW5nIjogIuWPgui1m+WvueixoSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMjAsDQogICAgMjENCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDI1DQogIH0sDQogIHsNCiAgICJubyI6ICLkupTjgIEiLA0KICAgImhlYWRpbmciOiAi5q+U6LWb5b2i5byPIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyMiwNCiAgICAyMw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMDc3M2Y1ZWMyZSINCiAgIF0sDQogICAiY2hhcnMiOiA2NQ0KICB9LA0KICB7DQogICAibm8iOiAi5YWt44CBIiwNCiAgICJoZWFkaW5nIjogIuaKpeWQjemAlOW+hO+8iOS4pOenjeaWueW8j++8iSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMjQsDQogICAgMjcNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTk1NjI3M2YyZmUiLA0KICAgICJwdC02MWRjMDI1MDc0IiwNCiAgICAicHQtNjE4YjlhZDMzNiINCiAgIF0sDQogICAiY2hhcnMiOiAxMzYNCiAgfSwNCiAgew0KICAgIm5vIjogIuS4g+OAgSIsDQogICAiaGVhZGluZyI6ICLkvZzlk4HopoHmsYIiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDI4LA0KICAgIDMxDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC04MDJjMjkxMDM2IiwNCiAgICAicHQtNzI0N2E0M2VhNSIsDQogICAgInB0LTdhNjhjYTNjYjYiDQogICBdLA0KICAgImNoYXJzIjogOTgNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLor4TlrqHmoIflh4bkuI7kvJjnp4DkvZzlk4HlsZXnpLoiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzMiwNCiAgICA1OA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtN2I4OGFhZWFjNyINCiAgIF0sDQogICAiY2hhcnMiOiAyMjgNCiAgfSwNCiAgew0KICAgIm5vIjogIuWFq+OAgSIsDQogICAiaGVhZGluZyI6ICLor4TlrqHmoIflh4YiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDMyLA0KICAgIDU0DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC01MjA4NGVmYTA3IiwNCiAgICAicHQtNDI0NGM0ZjkyNiIsDQogICAgInB0LWY3MGViYmM5NmYiLA0KICAgICJwdC0zOGIzNjAzMDY2Ig0KICAgXSwNCiAgICJjaGFycyI6IDE3Mw0KICB9LA0KICB7DQogICAibm8iOiAi5Lmd44CBIiwNCiAgICJoZWFkaW5nIjogIuS8mOengOS9nOWTgeWxleekuiIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNTUsDQogICAgNTgNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWIzMWRhYjJjMTEiLA0KICAgICJwdC1iM2ZlYzA2MDZiIg0KICAgXSwNCiAgICJjaGFycyI6IDU1DQogIH0sDQogIHsNCiAgICJubyI6ICLljYHjgIEiLA0KICAgImhlYWRpbmciOiAi5Li75Yqe5Y2V5L2NIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1OSwNCiAgICA3MA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNGVjYWRjNDIzZiIsDQogICAgInB0LWMxMDBlMmNkYmUiLA0KICAgICJwdC1jZDI5NzA5NjM3Ig0KICAgXSwNCiAgICJjaGFycyI6IDEzMw0KICB9LA0KICB7DQogICAibm8iOiAi5Y2B5LiA44CBIiwNCiAgICJoZWFkaW5nIjogIuiBlOezu+aWueW8jyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNzEsDQogICAgNzINCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWJjOWJlMDZlMmMiDQogICBdLA0KICAgImNoYXJzIjogMTkNCiAgfSwNCiAgew0KICAgIm5vIjogIuWNgeS6jOOAgSIsDQogICAiaGVhZGluZyI6ICLnibnliKvlo7DmmI4iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDczLA0KICAgIDc5DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1mMmNmZDUyYzA1IiwNCiAgICAicHQtMGQwYzdhNDMwZCIsDQogICAgInB0LTM5NmI1YjMzOWQiLA0KICAgICJwdC1mMDE2MmY1YTM3Ig0KICAgXSwNCiAgICJjaGFycyI6IDM1MA0KICB9DQogXSwNCiAiaXRlbXMiOiBbDQogICJwdC0yY2UxZjVkMmMzIiwNCiAgInB0LTMxZDI0NmYzOTUiLA0KICAicHQtNTM0MDEyYjc3NSIsDQogICJwdC1lNzQzYzBkY2I0IiwNCiAgInB0LTA3NzNmNWVjMmUiLA0KICAicHQtOTU2MjczZjJmZSIsDQogICJwdC02MWRjMDI1MDc0IiwNCiAgInB0LTYxOGI5YWQzMzYiLA0KICAicHQtODAyYzI5MTAzNiIsDQogICJwdC03MjQ3YTQzZWE1IiwNCiAgInB0LTdhNjhjYTNjYjYiLA0KICAicHQtNTIwODRlZmEwNyIsDQogICJwdC00MjQ0YzRmOTI2IiwNCiAgInB0LWY3MGViYmM5NmYiLA0KICAicHQtMzhiMzYwMzA2NiIsDQogICJwdC03Yjg4YWFlYWM3IiwNCiAgInB0LWIzMWRhYjJjMTEiLA0KICAicHQtYjNmZWMwNjA2YiIsDQogICJwdC00ZWNhZGM0MjNmIiwNCiAgInB0LWMxMDBlMmNkYmUiLA0KICAicHQtY2QyOTcwOTYzNyIsDQogICJwdC1iYzliZTA2ZTJjIiwNCiAgInB0LWYyY2ZkNTJjMDUiLA0KICAicHQtMGQwYzdhNDMwZCIsDQogICJwdC0zOTZiNWIzMzlkIiwNCiAgInB0LWYwMTYyZjVhMzciDQogXSwNCiAibm90ZXMiOiBbDQogICLnrKwgMeKAkzYg6KGM5piv5qCH6aKY44CB5p2l5rqQIFVSTOOAgeagj+ebruOAgeS9nOiAheOAgeWPkeW4g+aXtumXtOWFg+S/oeaBr++8jOesrCA3IOihjOmHjeWkjeS4gOasoeagh+mimO+8jOesrCA44oCTOSDooYzmmK/lr7zor63vvIjjgIzlhbfkvZPlhoXlrrnpgJrnn6XlpoLkuIvvvJrjgI3kuLrmraLvvInvvJvlubbmiJDpppboioLjgIzmoIfpopjkuI7lr7zor63jgI3vvIgx4oCTOe+8ie+8mnB0LTMxZDI0NmYzOTUg55qE5byV5paH5LuO56ysIDcg6KGM5qCH6aKY6L+e5Yiw56ysIDgg6KGM5a+86K+t77yMcHQtMmNlMWY1ZDJjMyDlj6rlkb3kuK3moIfpopjjgIIiLA0KICAi5Y6f5paH57yW5Y+357y65LiJ6aG577ya56ysIDEw4oCTMTkg6KGM55qE44CM5rS75Yqo5ZCN56ew44CN44CM5rS75Yqo5Li76aKY44CN44CM5pe26Ze05a6J5o6S44CN5rKh5pyJ57yW5Y+377yI55u05o6l6Lez5Yiw44CM5Zub44CB5Y+C6LWb5a+56LGh44CN77yM57y65LiA44CB5LqM44CB5LiJ77yJ77yM6L+Z5LiJ6IqCIGBub2Ag5LiA5b6L55So44CM4oCU44CN77yI5Y+j5b6EIDXvvInvvJvmoIfpopjku43mmK/ljp/mloflsI/moIfpopjvvIzmoIcgYXV0aG9y44CCIiwNCiAgIuOAjOa0u+WKqOS4u+mimOS4juaXtumXtOWuieaOkuOAje+8iDEy4oCTMTnvvInmmK/niLboioLvvIzljIXkvY/jgIzmtLvliqjkuLvpopjjgI3vvIgxMuKAkzEz77yJ5LiO44CM5pe26Ze05a6J5o6S44CN77yIMTTigJMxOe+8ie+8mnB0LWU3NDNjMGRjYjQg55qE5byV5paH5LuO5rS75Yqo5Li76aKY5Liy5Yiw5pe26Ze05a6J5o6S55qE5YmN5Yeg5p2h77yM5Y+q6IO96JC954i26IqC77yM5Lik5Liq5a2Q6IqC5pys6Lqr5LiN5bim5p2h55uu44CCIiwNCiAgIuOAjOivhOWuoeagh+WHhuS4juS8mOengOS9nOWTgeWxleekuuOAje+8iDMy4oCTNTjvvInmmK/niLboioLvvIzljIXkvY/jgIzlhavjgIHor4TlrqHmoIflh4bjgI3vvIgzMuKAkzU077yJ5LiO44CM5Lmd44CB5LyY56eA5L2c5ZOB5bGV56S644CN77yINTXigJM1OO+8ie+8mnB0LTdiODhhYWVhYzcg55qE5byV5paH6LW36Ieq56ysIDUzIOihjOOAjOacl+ivteW9ouW8j+WvjOacieWIm+aEjzE144CN77yM5o6l6L+b44CM5Lmd44CB5LyY56eA5L2c5ZOB5bGV56S644CN56ysIDU2IOihjO+8jOi3qOS4pOiKguOAgiIsDQogICLnrKwgMzPigJM1NCDooYzmmK/or4TlrqHmoIflh4booajmoLzvvIjpobnnm67vvI/moIflh4bvvI/liIblgLzvvInvvIzmir3lj5blkI7kuIDmoLzkuIDooYzvvIzmjInljp/mlofooYzluo/kv53nlZnvvIzmnKrmi4boioLngrnjgIIiLA0KICAi56ysIDc5IOihjOaYr+ato+aWh+acq+WwvueahOWbvueJh+WcsOWdgOihjO+8iFvlm75dIC9lZGl0b3IvcGMvZmlsZXMvaW1hZ2U/cmVzaWQ94oCm77yJ77yM5bm25YWl44CM5Y2B5LqM44CB54m55Yir5aOw5piO44CN5Yy66Ze044CCIiwNCiAgIuWOn+aWh+mUmeWtl++8muOAjDMuIOacl+ivteWGheWuueWPr+WOn+WIm++8jOS5n+WPr+S7juavlOi1m+W5s+WPsOe0oOadkOW6k+aIluWQhOWkp+e7j+WFuOivu+eJqeOAgeWQjeS6uuS9s+S9nOS4remAieWPlue0oOOAguOAje+8iOesrCAzMSDooYzvvIzlupTkuLrjgIzpgInlj5bntKDmnZDjgI3vvInvvIzmjInljp/mlofkv53nlZnvvIxwdC03YTY4Y2EzY2I2IOeahOW8leaWh+WQjOatpOOAgiIsDQogICLjgIzljYHjgIHkuLvlip7ljZXkvY3jgI3nrKwgNjLigJM2OCDooYzmiorlhavkuKrkuLvlip7ljZXkvY3lkI3kuIDooYzkuIDkuKrliJflh7rvvIjkuLvlip7ljZXkvY3vvJror7vkuabkuI7mnJfor7vljY/kvJrkuYvlpJbov5jmnInlm77kuabppobnrYnkuIPlrrbvvInvvIzmjInljp/mlofooYzluo/kv53nlZnjgIIiLA0KICAi44CM5Zub44CB5Y+C6LWb5a+56LGh44CN5Y+q5pyJ5LiA5Y+l44CM5Lit5Zu95Lyg5aqS5aSn5a2m5YWo5L2T5biI55Sf77yI5Liq5Lq65oiW5Zui5L2T5Z2H5Y+v77yJ44CN77yM5pys5paH5rKh5pyJ5byV55So5a6D55qE5p2h55uu44CCIiwNCiAgIuWFqOmDqCAyNiDkuKrmnaHnm67pg73lvJXnlKjmnKzmlofvvIjml6AgcnVsZS0g5paH5qGj57qn5p2h55uu77yJ77yb5YWo5paH5pyq6KeB5oiq5pat77ya5q2j5paH5q2i5LqO44CM5Y2B5LqM44CB54m55Yir5aOw5piO44CN56ysIDUg5p2h5LiO5Zu+54mH5Zyw5Z2A6KGM44CCIg0KIF0NCn0NCg==
+{
+ "key": "新闻公告-3512a17579a80111f00b09a6d3b595feb9b1",
+ "title": "第三届“声动金秋”朗读赛通知",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "标题与导语",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    9
+   ],
+   "items": [
+    "pt-2ce1f5d2c3",
+    "pt-31d246f395"
+   ],
+   "chars": 398
+  },
+  {
+   "no": "—",
+   "heading": "活动名称",
+   "heading_kind": "author",
+   "lines": [
+    10,
+    11
+   ],
+   "items": [
+    "pt-534012b775"
+   ],
+   "chars": 16
+  },
+  {
+   "no": "—",
+   "heading": "活动主题与时间安排",
+   "heading_kind": "derived",
+   "lines": [
+    12,
+    19
+   ],
+   "items": [
+    "pt-e743c0dcb4"
+   ],
+   "chars": 137
+  },
+  {
+   "no": "—",
+   "heading": "活动主题",
+   "heading_kind": "author",
+   "lines": [
+    12,
+    13
+   ],
+   "items": [],
+   "chars": 13
+  },
+  {
+   "no": "—",
+   "heading": "时间安排",
+   "heading_kind": "author",
+   "lines": [
+    14,
+    19
+   ],
+   "items": [],
+   "chars": 124
+  },
+  {
+   "no": "四、",
+   "heading": "参赛对象",
+   "heading_kind": "author",
+   "lines": [
+    20,
+    21
+   ],
+   "items": [],
+   "chars": 25
+  },
+  {
+   "no": "五、",
+   "heading": "比赛形式",
+   "heading_kind": "author",
+   "lines": [
+    22,
+    23
+   ],
+   "items": [
+    "pt-0773f5ec2e"
+   ],
+   "chars": 65
+  },
+  {
+   "no": "六、",
+   "heading": "报名途径（两种方式）",
+   "heading_kind": "author",
+   "lines": [
+    24,
+    27
+   ],
+   "items": [
+    "pt-956273f2fe",
+    "pt-61dc025074",
+    "pt-618b9ad336"
+   ],
+   "chars": 136
+  },
+  {
+   "no": "七、",
+   "heading": "作品要求",
+   "heading_kind": "author",
+   "lines": [
+    28,
+    31
+   ],
+   "items": [
+    "pt-802c291036",
+    "pt-7247a43ea5",
+    "pt-7a68ca3cb6"
+   ],
+   "chars": 98
+  },
+  {
+   "no": "—",
+   "heading": "评审标准与优秀作品展示",
+   "heading_kind": "derived",
+   "lines": [
+    32,
+    58
+   ],
+   "items": [
+    "pt-7b88aaeac7"
+   ],
+   "chars": 228
+  },
+  {
+   "no": "八、",
+   "heading": "评审标准",
+   "heading_kind": "author",
+   "lines": [
+    32,
+    54
+   ],
+   "items": [
+    "pt-52084efa07",
+    "pt-4244c4f926",
+    "pt-f70ebbc96f",
+    "pt-38b3603066"
+   ],
+   "chars": 173
+  },
+  {
+   "no": "九、",
+   "heading": "优秀作品展示",
+   "heading_kind": "author",
+   "lines": [
+    55,
+    58
+   ],
+   "items": [
+    "pt-b31dab2c11",
+    "pt-b3fec0606b"
+   ],
+   "chars": 55
+  },
+  {
+   "no": "十、",
+   "heading": "主办单位",
+   "heading_kind": "author",
+   "lines": [
+    59,
+    70
+   ],
+   "items": [
+    "pt-4ecadc423f",
+    "pt-c100e2cdbe",
+    "pt-cd29709637"
+   ],
+   "chars": 133
+  },
+  {
+   "no": "十一、",
+   "heading": "联系方式",
+   "heading_kind": "author",
+   "lines": [
+    71,
+    72
+   ],
+   "items": [
+    "pt-bc9be06e2c"
+   ],
+   "chars": 19
+  },
+  {
+   "no": "十二、",
+   "heading": "特别声明",
+   "heading_kind": "author",
+   "lines": [
+    73,
+    79
+   ],
+   "items": [
+    "pt-f2cfd52c05",
+    "pt-0d0c7a430d",
+    "pt-396b5b339d",
+    "pt-f0162f5a37"
+   ],
+   "chars": 350
+  }
+ ],
+ "items": [
+  "pt-2ce1f5d2c3",
+  "pt-31d246f395",
+  "pt-534012b775",
+  "pt-e743c0dcb4",
+  "pt-0773f5ec2e",
+  "pt-956273f2fe",
+  "pt-61dc025074",
+  "pt-618b9ad336",
+  "pt-802c291036",
+  "pt-7247a43ea5",
+  "pt-7a68ca3cb6",
+  "pt-52084efa07",
+  "pt-4244c4f926",
+  "pt-f70ebbc96f",
+  "pt-38b3603066",
+  "pt-7b88aaeac7",
+  "pt-b31dab2c11",
+  "pt-b3fec0606b",
+  "pt-4ecadc423f",
+  "pt-c100e2cdbe",
+  "pt-cd29709637",
+  "pt-bc9be06e2c",
+  "pt-f2cfd52c05",
+  "pt-0d0c7a430d",
+  "pt-396b5b339d",
+  "pt-f0162f5a37"
+ ],
+ "notes": [
+  "第 1–6 行是标题、来源 URL、栏目、作者、发布时间元信息，第 7 行重复一次标题，第 8–9 行是导语（「具体内容通知如下：」为止）；并成首节「标题与导语」（1–9）：pt-31d246f395 的引文从第 7 行标题连到第 8 行导语，pt-2ce1f5d2c3 只命中标题。",
+  "原文编号缺三项：第 10–19 行的「活动名称」「活动主题」「时间安排」没有编号（直接跳到「四、参赛对象」，缺一、二、三），这三节 `no` 一律用「—」（口径 5）；标题仍是原文小标题，标 author。",
+  "「活动主题与时间安排」（12–19）是父节，包住「活动主题」（12–13）与「时间安排」（14–19）：pt-e743c0dcb4 的引文从活动主题串到时间安排的前几条，只能落父节，两个子节本身不带条目。",
+  "「评审标准与优秀作品展示」（32–58）是父节，包住「八、评审标准」（32–54）与「九、优秀作品展示」（55–58）：pt-7b88aaeac7 的引文起自第 53 行「朗诵形式富有创意15」，接进「九、优秀作品展示」第 56 行，跨两节。",
+  "第 33–54 行是评审标准表格（项目／标准／分值），抽取后一格一行，按原文行序保留，未拆节点。",
+  "第 79 行是正文末尾的图片地址行（[图] /editor/pc/files/image?resid=…），并入「十二、特别声明」区间。",
+  "原文错字：「3. 朗诵内容可原创，也可从比赛平台素材库或各大经典读物、名人佳作中选取素。」（第 31 行，应为「选取素材」），按原文保留，pt-7a68ca3cb6 的引文同此。",
+  "「十、主办单位」第 62–68 行把八个主办单位名一行一个列出（主办单位：读书与朗读协会之外还有图书馆等七家），按原文行序保留。",
+  "「四、参赛对象」只有一句「中国传媒大学全体师生（个人或团体均可）」，本文没有引用它的条目。",
+  "全部 26 个条目都引用本文（无 rule- 文档级条目）；全文未见截断：正文止于「十二、特别声明」第 5 条与图片地址行。"
+ ]
+}

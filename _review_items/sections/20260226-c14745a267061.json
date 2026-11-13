@@ -1,1 +1,154 @@
-ew0KICJrZXkiOiAiMjAyNjAyMjYtYzE0NzQ1YTI2NzA2MSIsDQogInRpdGxlIjogIuaIkemZojIwMjTnuqfkvKDmkq3lraYy54+t5Zui5pSv6YOo6I636K+EMjAyNC0yMDI15a2m5bm05qCh4oCc57qi5peX5Zui5pSv6YOo4oCdIiwNCiAidHJ1bmNhdGVkIjogZmFsc2UsDQogInNlY3Rpb25zIjogWw0KICB7DQogICAibm8iOiAi6aG16Z2i5qGG5p62IiwNCiAgICJoZWFkaW5nIjogIuermeeCueagh+mimOOAgemhteWktOWvvOiIquS4juagj+ebriIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDEsDQogICAgMzQNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDMyNA0KICB9LA0KICB7DQogICAibm8iOiAi5qCH6aKYIiwNCiAgICJoZWFkaW5nIjogIuato+aWh+agh+mimOS4juWPkeW4g+S/oeaBryIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDM1LA0KICAgIDM2DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC05ZTk5NTRkZmJmIg0KICAgXSwNCiAgICJjaGFycyI6IDU4DQogIH0sDQogIHsNCiAgICJubyI6ICLlr7zor60iLA0KICAgImhlYWRpbmciOiAi6I635aWW5oOF5Ya15LiO5pSv6YOo5qaC5Ya1IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMzcsDQogICAgNDANCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTlkNjRmZmIwNzUiLA0KICAgICJwdC03YzRiMzIyN2Q3Ig0KICAgXSwNCiAgICJjaGFycyI6IDM2Mg0KICB9LA0KICB7DQogICAibm8iOiAi5LiA44CBIiwNCiAgICJoZWFkaW5nIjogIumTuOmtguiCsuS6uu+8muS7peaAneaDs+W8lemihuetkeeJouS/oeS7sOagueWfuiIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNDIsDQogICAgNDMNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTNiMjA5NWVlOTEiDQogICBdLA0KICAgImNoYXJzIjogMTg2DQogIH0sDQogIHsNCiAgICJubyI6ICLkuozjgIEiLA0KICAgImhlYWRpbmciOiAi5Yed5b+D6IGa5Yqb77ya5Lul6KeE6IyD5bu66K6+5aSv5a6e5pSv6YOo5Z+656GAIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA0NSwNCiAgICA0Ng0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNDAzYTIzOGJlMCINCiAgIF0sDQogICAiY2hhcnMiOiAxNjQNCiAgfSwNCiAgew0KICAgIm5vIjogIuS4ieOAgSIsDQogICAiaGVhZGluZyI6ICLmt7HogJXlrabmnK/vvJrku6XkuJPkuJrmiYDplb/mjqLmsYLnnJ/nn6Xngbzop4EiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDQ4LA0KICAgIDQ5DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0zODFiMjI1MDM5Ig0KICAgXSwNCiAgICJjaGFycyI6IDEzOQ0KICB9LA0KICB7DQogICAibm8iOiAi5Zub44CBIiwNCiAgICJoZWFkaW5nIjogIuefpeihjOWQiOS4gO+8muS7peWunui3teacjeWKoeW9sOaYvumdkuW5tOaLheW9kyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNTEsDQogICAgNTINCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWJjZGM2NzlmNzIiLA0KICAgICJwdC05MDNmNTAxYzA4Ig0KICAgXSwNCiAgICJjaGFycyI6IDI4Mg0KICB9LA0KICB7DQogICAibm8iOiAi5LqU44CBIiwNCiAgICJoZWFkaW5nIjogIuWFqOmdouWPkeWxle+8muS7peaWh+S9k+a0u+WKqOe7veaUvumdkuaYpea0u+WKmyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNTUsDQogICAgNTYNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LThmNGE3Y2MzNzkiDQogICBdLA0KICAgImNoYXJzIjogMTk4DQogIH0sDQogIHsNCiAgICJubyI6ICLnu5Por60iLA0KICAgImhlYWRpbmciOiAi6I635aWW5oSP5LmJ5LiO5LuK5ZCO5pa55ZCRIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNTgsDQogICAgNTgNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTMxNjExZGUyZWQiDQogICBdLA0KICAgImNoYXJzIjogMTUzDQogIH0sDQogIHsNCiAgICJubyI6ICLpobXohJoiLA0KICAgImhlYWRpbmciOiAi5Y+L5oOF6ZO+5o6l44CB5Zyw5Z2A5LiO54mI5p2DIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNTksDQogICAgNzYNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDQwNQ0KICB9DQogXSwNCiAiaXRlbXMiOiBbDQogICJwdC05ZTk5NTRkZmJmIiwNCiAgInB0LTlkNjRmZmIwNzUiLA0KICAicHQtN2M0YjMyMjdkNyIsDQogICJwdC0zYjIwOTVlZTkxIiwNCiAgInB0LTQwM2EyMzhiZTAiLA0KICAicHQtMzgxYjIyNTAzOSIsDQogICJwdC1iY2RjNjc5ZjcyIiwNCiAgInB0LTkwM2Y1MDFjMDgiLA0KICAicHQtOGY0YTdjYzM3OSIsDQogICJwdC0zMTYxMWRlMmVkIg0KIF0sDQogIm5vdGVzIjogWw0KICAi572R6aG16YeH6ZuG56i/77ya56ysIDHigJMzNCDooYzmmK/pobXpnaLmoYbmnrbigJTigJTnq5nngrnmoIfpopjvvIjnrKwgMSDooYzvvIzkuI7nrKwgMzUg6KGM5q2j5paH5qCH6aKY6YeN5aSN77yJ44CB6aG15aS05aSa57qn5a+86Iiq77yI5YWz5LqO5oiR5Lus77yP5a2m55Sf5Z+55YW777yP5a2m5pyv56CU56m277yP5YWa576k5bel5L2c77yP5Zu96ZmF5ZCI5L2c5Y+K5ZCE5a2Q6aG577yJ44CB5qCP55uuIGJhbm5lciDkuI7pnaLljIXlsZHjgIzpppbpobUg5YWa576k5bel5L2cIOWbouWtpuWKqOaAgeOAjeOAguaMieWPo+W+hOmhteWktOmHjeWkjeagh+mimOS4juWvvOiIquWFpeOAjOmhtemdouahhuaetuOAje+8jOato+aWh+agh+mimOWFpeOAjOagh+mimOOAjeiKguOAgiIsDQogICLnrKwgMzYg6KGM5Li65Y+R5biD5L+h5oGv44CM5Y+R5biD5pe26Ze077yaMjAyNi0wMS0xNeOAgOa1j+iniOasoeaVsO+8mjMx44CN44CCIiwNCiAgIuato+aWh+WbvueJh+ihjO+8iFvpmYTku7ZdIC9fdXBsb2FkL+KApiDlhbEgMTIg6KGM77ya56ysIDM544CBNDHjgIE0NOOAgTQ344CBNTDjgIE1M+OAgTU044CBNTfjgIE1OeOAgTYw44CBNzXjgIE3NiDooYzvvInmmK/pobXpnaLmj5Llm77kuI7nq5nngrnlm77moIfvvJozOSDokL3lnKjjgIzlr7zor63jgI3oioLlhoXvvIw1Oe+8jzYw77yPNzXvvI83NiDokL3lnKjjgIzpobXohJrjgI3oioLlhoXvvIzlhbbkvZkgNyDooYzvvIg0MeOAgTQ044CBNDfjgIE1MOOAgTUz44CBNTTjgIE1N++8ieWcqOiKguS4juiKgueahOS6pOeVjOWkhOacquiuoeWFpeS7u+S9leiKgu+8jOaVheepuumameiuoeaVsOS4uiA377yb56ysIDU0IOihjOaYr+S4pOW8oOi/nuaOkuWbvueJh+OAgiIsDQogICLkupTkuKrlsI/moIfpopjjgIzkuIDjgIHjgI3igJTjgIzkupTjgIHjgI3pgJDlrZflj5boh6rljp/mlofvvIjnrKwgNDLjgIE0NeOAgTQ444CBNTHjgIE1NSDooYzvvInvvIzmoIcgYXV0aG9y77yb56ysIDU4IOihjOe7k+ivreS4juesrCA1OSDooYzotbfnmoTpobXlsL7ml6DlsI/moIfpopjvvIzmoIcgZGVyaXZlZOOAgiIsDQogICLnrKwgNTnigJM3NiDooYzpobXlsL7lkKsgbG9nb+OAgeWPi+aDhemTvuaOpe+8iOaVmeiCsumDqOetiSA5IOadoe+8ieOAgeWcsOWdgOmCrue8luS4jueJiOadg+Wkh+ahiOOAgeWbnuWIsOmhtumDqOS4juiuv+mXrue7n+iuoeOAgiINCiBdDQp9
+{
+ "key": "20260226-c14745a267061",
+ "title": "我院2024级传播学2班团支部获评2024-2025学年校“红旗团支部”",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "页面框架",
+   "heading": "站点标题、页头导航与栏目",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    34
+   ],
+   "items": [],
+   "chars": 324
+  },
+  {
+   "no": "标题",
+   "heading": "正文标题与发布信息",
+   "heading_kind": "derived",
+   "lines": [
+    35,
+    36
+   ],
+   "items": [
+    "pt-9e9954dfbf"
+   ],
+   "chars": 58
+  },
+  {
+   "no": "导语",
+   "heading": "获奖情况与支部概况",
+   "heading_kind": "derived",
+   "lines": [
+    37,
+    40
+   ],
+   "items": [
+    "pt-9d64ffb075",
+    "pt-7c4b3227d7"
+   ],
+   "chars": 362
+  },
+  {
+   "no": "一、",
+   "heading": "铸魂育人：以思想引领筑牢信仰根基",
+   "heading_kind": "author",
+   "lines": [
+    42,
+    43
+   ],
+   "items": [
+    "pt-3b2095ee91"
+   ],
+   "chars": 186
+  },
+  {
+   "no": "二、",
+   "heading": "凝心聚力：以规范建设夯实支部基础",
+   "heading_kind": "author",
+   "lines": [
+    45,
+    46
+   ],
+   "items": [
+    "pt-403a238be0"
+   ],
+   "chars": 164
+  },
+  {
+   "no": "三、",
+   "heading": "深耕学术：以专业所长探求真知灼见",
+   "heading_kind": "author",
+   "lines": [
+    48,
+    49
+   ],
+   "items": [
+    "pt-381b225039"
+   ],
+   "chars": 139
+  },
+  {
+   "no": "四、",
+   "heading": "知行合一：以实践服务彰显青年担当",
+   "heading_kind": "author",
+   "lines": [
+    51,
+    52
+   ],
+   "items": [
+    "pt-bcdc679f72",
+    "pt-903f501c08"
+   ],
+   "chars": 282
+  },
+  {
+   "no": "五、",
+   "heading": "全面发展：以文体活动绽放青春活力",
+   "heading_kind": "author",
+   "lines": [
+    55,
+    56
+   ],
+   "items": [
+    "pt-8f4a7cc379"
+   ],
+   "chars": 198
+  },
+  {
+   "no": "结语",
+   "heading": "获奖意义与今后方向",
+   "heading_kind": "derived",
+   "lines": [
+    58,
+    58
+   ],
+   "items": [
+    "pt-31611de2ed"
+   ],
+   "chars": 153
+  },
+  {
+   "no": "页脚",
+   "heading": "友情链接、地址与版权",
+   "heading_kind": "derived",
+   "lines": [
+    59,
+    76
+   ],
+   "items": [],
+   "chars": 405
+  }
+ ],
+ "items": [
+  "pt-9e9954dfbf",
+  "pt-9d64ffb075",
+  "pt-7c4b3227d7",
+  "pt-3b2095ee91",
+  "pt-403a238be0",
+  "pt-381b225039",
+  "pt-bcdc679f72",
+  "pt-903f501c08",
+  "pt-8f4a7cc379",
+  "pt-31611de2ed"
+ ],
+ "notes": [
+  "网页采集稿：第 1–34 行是页面框架——站点标题（第 1 行，与第 35 行正文标题重复）、页头多级导航（关于我们／学生培养／学术研究／党群工作／国际合作及各子项）、栏目 banner 与面包屑「首页 党群工作 团学动态」。按口径页头重复标题与导航入「页面框架」，正文标题入「标题」节。",
+  "第 36 行为发布信息「发布时间：2026-01-15　浏览次数：31」。",
+  "正文图片行（[附件] /_upload/… 共 12 行：第 39、41、44、47、50、53、54、57、59、60、75、76 行）是页面插图与站点图标：39 落在「导语」节内，59／60／75／76 落在「页脚」节内，其余 7 行（41、44、47、50、53、54、57）在节与节的交界处未计入任何节，故空隙计数为 7；第 54 行是两张连排图片。",
+  "五个小标题「一、」—「五、」逐字取自原文（第 42、45、48、51、55 行），标 author；第 58 行结语与第 59 行起的页尾无小标题，标 derived。",
+  "第 59–76 行页尾含 logo、友情链接（教育部等 9 条）、地址邮编与版权备案、回到顶部与访问统计。"
+ ]
+}

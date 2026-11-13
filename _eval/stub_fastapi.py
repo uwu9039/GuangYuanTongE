@@ -1,1 +1,52 @@
-IiIi5oqKIGZhc3RhcGkgLyBmYXN0YXBpLnJlc3BvbnNlcyAvIGZhc3RhcGkuc3RhdGljZmlsZXMg5pu/5o2i5oiQ5Y2g5L2N5qih5Z2X44CCCgrnlKjms5XvvIjlhbblroPohJrmnKzlvIDlpLTosIPnlKjkuIDmrKHvvInvvJoKICAgIGZyb20gX2V2YWwgaW1wb3J0IHN0dWJfZmFzdGFwaQogICAgc3R1Yl9mYXN0YXBpLmluc3RhbGwoKQogICAgaW1wb3J0IGFwcAoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IHN5cwppbXBvcnQgdHlwZXMKCgpkZWYgaW5zdGFsbCgpIC0+IE5vbmU6CiAgICBpZiAiZmFzdGFwaSIgaW4gc3lzLm1vZHVsZXMgYW5kIG5vdCBoYXNhdHRyKHN5cy5tb2R1bGVzWyJmYXN0YXBpIl0sICJfX3N0dWJfXyIpOgogICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcigi55yf55qEIGZhc3RhcGkg5bey57uP6KOF5LiK5LqG77yM5LiN6ZyA6KaB5YGH5qih5Z2XIikKCiAgICBmcm9tIF9ldmFsIGltcG9ydCBmYXN0YXBpX3N0dWIgYXMgc3R1YgoKICAgIHJvb3QgPSB0eXBlcy5Nb2R1bGVUeXBlKCJmYXN0YXBpIikKICAgIHJvb3QuX19zdHViX18gPSBUcnVlCiAgICByb290LkZhc3RBUEkgPSBzdHViLkZhc3RBUEkKICAgIHJvb3QuSFRUUEV4Y2VwdGlvbiA9IHN0dWIuSFRUUEV4Y2VwdGlvbgogICAgcm9vdC5SZXF1ZXN0ID0gc3R1Yi5SZXF1ZXN0CgogICAgcmVzcG9uc2VzID0gdHlwZXMuTW9kdWxlVHlwZSgiZmFzdGFwaS5yZXNwb25zZXMiKQoKICAgIGNsYXNzIF9SZXNwOgogICAgICAgIGRlZiBfX2luaXRfXyhzZWxmLCAqYSwgKiprdyk6CiAgICAgICAgICAgIHNlbGYuYXJncyA9IGEKICAgICAgICAgICAgc2VsZi5rdyA9IGt3CgogICAgcmVzcG9uc2VzLkZpbGVSZXNwb25zZSA9IF9SZXNwCiAgICByZXNwb25zZXMuSlNPTlJlc3BvbnNlID0gX1Jlc3AKICAgIHJlc3BvbnNlcy5SZWRpcmVjdFJlc3BvbnNlID0gX1Jlc3AKICAgIHJlc3BvbnNlcy5TdHJlYW1pbmdSZXNwb25zZSA9IF9SZXNwCiAgICByZXNwb25zZXMuSFRNTFJlc3BvbnNlID0gX1Jlc3AKICAgIHJlc3BvbnNlcy5QbGFpblRleHRSZXNwb25zZSA9IF9SZXNwCiAgICByb290LnJlc3BvbnNlcyA9IHJlc3BvbnNlcwoKICAgIHN0YXRpY2ZpbGVzID0gdHlwZXMuTW9kdWxlVHlwZSgiZmFzdGFwaS5zdGF0aWNmaWxlcyIpCgogICAgY2xhc3MgU3RhdGljRmlsZXM6CiAgICAgICAgZGVmIF9faW5pdF9fKHNlbGYsICphLCAqKmt3KToKICAgICAgICAgICAgcGFzcwoKICAgIHN0YXRpY2ZpbGVzLlN0YXRpY0ZpbGVzID0gU3RhdGljRmlsZXMKICAgIHJvb3Quc3RhdGljZmlsZXMgPSBzdGF0aWNmaWxlcwoKICAgIHN5cy5tb2R1bGVzLnNldGRlZmF1bHQoImZhc3RhcGkiLCByb290KQogICAgc3lzLm1vZHVsZXMuc2V0ZGVmYXVsdCgiZmFzdGFwaS5yZXNwb25zZXMiLCByZXNwb25zZXMpCiAgICBzeXMubW9kdWxlcy5zZXRkZWZhdWx0KCJmYXN0YXBpLnN0YXRpY2ZpbGVzIiwgc3RhdGljZmlsZXMpCg==
+"""把 fastapi / fastapi.responses / fastapi.staticfiles 替换成占位模块。
+
+用法（其它脚本开头调用一次）：
+    from _eval import stub_fastapi
+    stub_fastapi.install()
+    import app
+"""
+from __future__ import annotations
+
+import sys
+import types
+
+
+def install() -> None:
+    if "fastapi" in sys.modules and not hasattr(sys.modules["fastapi"], "__stub__"):
+        raise RuntimeError("真的 fastapi 已经装上了，不需要假模块")
+
+    from _eval import fastapi_stub as stub
+
+    root = types.ModuleType("fastapi")
+    root.__stub__ = True
+    root.FastAPI = stub.FastAPI
+    root.HTTPException = stub.HTTPException
+    root.Request = stub.Request
+
+    responses = types.ModuleType("fastapi.responses")
+
+    class _Resp:
+        def __init__(self, *a, **kw):
+            self.args = a
+            self.kw = kw
+
+    responses.FileResponse = _Resp
+    responses.JSONResponse = _Resp
+    responses.RedirectResponse = _Resp
+    responses.StreamingResponse = _Resp
+    responses.HTMLResponse = _Resp
+    responses.PlainTextResponse = _Resp
+    root.responses = responses
+
+    staticfiles = types.ModuleType("fastapi.staticfiles")
+
+    class StaticFiles:
+        def __init__(self, *a, **kw):
+            pass
+
+    staticfiles.StaticFiles = StaticFiles
+    root.staticfiles = staticfiles
+
+    sys.modules.setdefault("fastapi", root)
+    sys.modules.setdefault("fastapi.responses", responses)
+    sys.modules.setdefault("fastapi.staticfiles", staticfiles)

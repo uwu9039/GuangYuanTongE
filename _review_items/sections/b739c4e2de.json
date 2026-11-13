@@ -1,1 +1,97 @@
-ewogImtleSI6ICJiNzM5YzRlMmRlIiwKICJ0aXRsZSI6ICLkuK3kvKDkuJPlsZ5XUFPlho3ljYfnuqfvvIzop6PplIFBSeWtpuS5oOWKnuWFrOaWsOaooeW8j++8geaWsOWinuS8muWRmOadg+ebiuetieS9oOadpemihu+8gSIsCiAidHJ1bmNhdGVkIjogZmFsc2UsCiAic2VjdGlvbnMiOiBbCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi5Lit5Lyg5LiT5bGeV1BT5YaN5Y2H57qn77yM6Kej6ZSBQUnlrabkuaDlip7lhazmlrDmqKHlvI/vvIHmlrDlop7kvJrlkZjmnYPnm4rnrYnkvaDmnaXpoobvvIEiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsxLCAxXSwKICAgIml0ZW1zIjogWyJydWxlLWI3MzljNGUyZGUiXSwKICAgImNoYXJzIjogMzQKICB9LAogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIumhtemdouahhuaetu+8iOS/oeaBr+WMluWkhOermeeCueWvvOiIqu+8iSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFsyLCAyNl0sCiAgICJpdGVtcyI6IFtdLAogICAiY2hhcnMiOiAyMjAKICB9LAogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIuW8gOevh+WvvOivre+8iFdQUyDngbXnioDmjqXlhaUgRGVlcFNlZWsgUjHvvIkiLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbMjcsIDMyXSwKICAgIml0ZW1zIjogWyJwdC1lZGY0MDMzYWIwIl0sCiAgICJjaGFycyI6IDgxCiAgfSwKICB7CiAgICJubyI6ICIxIiwKICAgImhlYWRpbmciOiAiV1BT5qCh5Zut6LSm5Y+355m75b2V5oyH5byVIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbMzMsIDM5XSwKICAgIml0ZW1zIjogWyJwdC1mM2I5ZGRjZjQ5IiwgInB0LTFlMjM5YTZkY2UiXSwKICAgImNoYXJzIjogNTYyCiAgfSwKICB7CiAgICJubyI6ICIyIiwKICAgImhlYWRpbmciOiAi5ZOq6YeM6I635b6XV1BT54G154qA77yfIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbNDAsIDY3XSwKICAgIml0ZW1zIjogWyJwdC03YWQzZGM0ZmE2IiwgInB0LTA1ZDk4NDY5YTkiLCAicHQtNmMwMjhiNjNhMyIsICJwdC0wNDFiZjA5ZWI3IiwgInB0LWI3NTcwZTQ1MjMiLCAicHQtZmM0YjIzNzMyYyIsICJwdC02ZGU2NzlkZjdhIiwgInB0LWM5YWU0ZDhjMzAiLCAicHQtODE0NDc3ZmM5NyIsICJwdC1iZDI1ZWRiOWIwIl0sCiAgICJjaGFycyI6IDEwMjMKICB9LAogIHsKICAgIm5vIjogIjMiLAogICAiaGVhZGluZyI6ICJXUFPngbXnioDkuq7ngrnlip/og70iLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs2OCwgOTBdLAogICAiaXRlbXMiOiBbInB0LThkNGJjNTJhNzIiLCAicHQtMWY0MTU3OTBkZiIsICJwdC0zNTZjZGZjYWViIiwgInB0LWMyODRmZTA4YjkiXSwKICAgImNoYXJzIjogMTExMwogIH0sCiAgewogICAibm8iOiAiNCIsCiAgICJoZWFkaW5nIjogIuS4k+Wxnuemj+WIqeadpeWVpu+8gSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzkxLCAxMDVdLAogICAiaXRlbXMiOiBbInB0LTM1NDI3NjA5MjAiLCAicHQtZmQ3YzIwMmZmNSIsICJwdC0yYzJmMjY2YzNiIiwgInB0LWZlM2VmOWFiNjgiXSwKICAgImNoYXJzIjogNjEwCiAgfSwKICB7CiAgICJubyI6ICI1IiwKICAgImhlYWRpbmciOiAi5rOo5oSP5LqL6aG5IiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbMTA2LCAxMTZdLAogICAiaXRlbXMiOiBbInB0LWVjMzU1MjA1OTgiLCAicHQtM2UxZGIxODhkYSJdLAogICAiY2hhcnMiOiA1NzIKICB9LAogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIuadpea6kOS4jue9suWQjSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFsxMTcsIDEyMF0sCiAgICJpdGVtcyI6IFtdLAogICAiY2hhcnMiOiAzNQogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi6aG16ISa77yI6IGU57O75pa55byP44CB5bi455So6ZO+5o6l5LiO54mI5p2D77yJIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzEyMSwgMTQ1XSwKICAgIml0ZW1zIjogW10sCiAgICJjaGFycyI6IDM2MwogIH0KIF0sCiAiaXRlbXMiOiBbInJ1bGUtYjczOWM0ZTJkZSIsICJwdC1lZGY0MDMzYWIwIiwgInB0LWYzYjlkZGNmNDkiLCAicHQtMDQxYmYwOWViNyIsICJwdC1iNzU3MGU0NTIzIiwgInB0LTFlMjM5YTZkY2UiLCAicHQtN2FkM2RjNGZhNiIsICJwdC0wNWQ5ODQ2OWE5IiwgInB0LTZjMDI4YjYzYTMiLCAicHQtZmM0YjIzNzMyYyIsICJwdC02ZGU2NzlkZjdhIiwgInB0LWM5YWU0ZDhjMzAiLCAicHQtODE0NDc3ZmM5NyIsICJwdC1iZDI1ZWRiOWIwIiwgInB0LThkNGJjNTJhNzIiLCAicHQtMWY0MTU3OTBkZiIsICJwdC0zNTZjZGZjYWViIiwgInB0LWMyODRmZTA4YjkiLCAicHQtMzU0Mjc2MDkyMCIsICJwdC1mZDdjMjAyZmY1IiwgInB0LTJjMmYyNjZjM2IiLCAicHQtZmUzZWY5YWI2OCIsICJwdC1lYzM1NTIwNTk4IiwgInB0LTNlMWRiMTg4ZGEiXSwKICJub3RlcyI6IFsKICAi572R6aG15oqT5Y+W57uT5p6c77yI5b6u5L+h5YWs5LyX5Y+35paH56ug6L2s6aG177yJ77yaMuKAkzIzIOihjOaYr+OAjOS/oeaBr+WMluWkhOOAjeermeeCueWvvOiIqu+8jOesrCAyNCDooYzmmK/moI/nm67mqKrluYXlm77niYfpmYTku7bvvIznrKwgMjUg6KGM5qCH6aKY6YeN5Ye677yM56ysIDI2IOihjOaYr+WPkeW4g+aXtumXtCAyMDI1LTA0LTEwIOS4jua1j+iniOasoeaVsO+8jOaVtOS9k+W9kuOAjOmhtemdouahhuaetuOAjeiKguOAgiIsCiAgIuato+aWh+aMieWOn+aWh+eahOOAjDHjgI3jgIwy44CN44CMM+OAjeOAjDTjgI3jgIw144CN5LqU5Liq5pWw5a2X5bqP5Y+35YiG5q6177yM5bqP5Y+35Y2V54us5Y2g5LiA6KGM77yI56ysIDMz44CBNDDjgIE2OOOAgTkx44CBMTA2IOihjO+8ie+8jOWFtuS4i+esrOS4gOihjOaJjeaYr+auteagh+mimO+8iOesrCAzNOOAgTQx44CBNjnjgIE5MuOAgTEwNyDooYzvvInvvJtubyDorrDmlbDlrZfluo/lj7fvvIxoZWFkaW5nIOWPluWOn+aWh+auteagh+mimO+8iGF1dGhvcu+8jOmAkOWtl+WPr+afpe+8ieOAgiIsCiAgIuOAjDHjgI3mrrXkuYvliY3lj6bmnInkuIDmrrXml6DmoIfpopjnmoTlvIDnr4flr7zor63vvIgyN+KAkzMyIOihjO+8muWbm+ihjOefreWPpSArIOOAjOWNs+WPr+WFjei0ueS9v+eUqO+8geOAje+8ie+8jOaXoOWOn+aWh+agh+mimO+8jOWNleWIl+OAjOW8gOevh+WvvOivreOAjeiKgu+8jGhlYWRpbmcg6K6wIGRlcml2ZWTjgIIiLAogICLjgIwyIOWTqumHjOiOt+W+l1dQU+eBteeKgO+8n+OAje+8iDQw4oCTNjcg6KGM77yJ5YaF6YOo5pyJ5Zub5Liq5bm25YiX5bCP5qCH562+77yaV1BT5a6i5oi356uv77yI56ysIDQzIOihjO+8ieOAgVdQU+enu+WKqOerr++8iOesrCA1NSDooYzvvInjgIHlvq7kv6HlsI/nqIvluo/vvIjnrKwgNjAg6KGM77yJ44CBV2Vi572R6aG156uv77yI56ysIDY0IOihjO+8ie+8m+OAjDMgV1BT54G154qA5Lqu54K55Yqf6IO944CN77yINjjigJM5MCDooYzvvInlhoXpg6jmnInlm5vkuKrvvJpBSSDnlJ/miJAgUFBU77yINzDvvInjgIFBSSDpmIXor7vvvIg3Nu+8ieOAgUFJIOWGmeS9nO+8iDgx77yJ44CBQUkg5pCc57Si77yIODbvvInjgILov5nkupvmmK/mrrXlhoXlsI/moIfnrb7ogIzpnZ7ni6znq4vnq6DoioLvvIzmnKrlj6bnq4voioLvvIzooYzljLrpl7Tku43mjInmrrXorqHjgIIiLAogICLmlofkuK3lpKfph4/jgIxb6ZmE5Lu2XeOAjeihjOaYr+WbvueJh+ebtOmTvu+8iG1tZWNvYS5xcGljLmNuIOW+ruS/oeWbvuW6iuOAgeS7peWPiiAvX3VwbG9hZC90cGwvIOaooeadv+Wbvu+8ie+8jOepv+aPkuWcqOaWh+Wtl+S5i+mXtO+8m+WbvueJh+acqumaj+aWh+acrOS/neWtmO+8jOihjOWPt+aMieWOn+mhuuW6j+S/neeVme+8jOacquaNruWbvueri+iKguOAgiIsCiAgIjExN+KAkzEyMCDooYzmmK/lhazkvJflj7fnvbLlkI3vvIjmnaXmupDvvZzkv6Hmga/ljJblpITjgIHmjpLniYjvvZzmspnoibrjgIHotKPnvJbvvZzllJDkvbPlrrkg6Z+p6ZuF5paH44CB5a6h5qC4772c5byg5byb77yJ77ybMTQw4oCTMTQzIOihjOaui+eVmeermeeCueaooeadv+WNoOS9jeespuOAjHvnvKnnlaXlm75944CN44CMe+agh+mimH3jgI3kuI7kuIDkuKrlraTnq4vnmoTjgIwtLT7jgI3vvIzpmo/pobXohJrkuIDoioLmlLbjgIIiLAogICJydWxlLWI3MzljNGUyZGUg5piv5peg5byV5paH55qE5paH5qGj57qn5p2h55uu77yI5qCH6aKY4omI5pys5paH5qCH6aKY77yJ77yM5bey5YiX5YWl5paH5qGj57qnIGl0ZW1z77yM5bm25oyJ44CM5qaC6L+w77yP56ys5LiA6IqC44CN6KeE5YiZ5pS+6L+b44CM5qCH6aKY44CN6IqC44CCIgogXQp9Cg==
+{
+ "key": "b739c4e2de",
+ "title": "中传专属WPS再升级，解锁AI学习办公新模式！新增会员权益等你来领！",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "中传专属WPS再升级，解锁AI学习办公新模式！新增会员权益等你来领！",
+   "heading_kind": "author",
+   "lines": [1, 1],
+   "items": ["rule-b739c4e2de"],
+   "chars": 34
+  },
+  {
+   "no": "—",
+   "heading": "页面框架（信息化处站点导航）",
+   "heading_kind": "derived",
+   "lines": [2, 26],
+   "items": [],
+   "chars": 220
+  },
+  {
+   "no": "—",
+   "heading": "开篇导语（WPS 灵犀接入 DeepSeek R1）",
+   "heading_kind": "derived",
+   "lines": [27, 32],
+   "items": ["pt-edf4033ab0"],
+   "chars": 81
+  },
+  {
+   "no": "1",
+   "heading": "WPS校园账号登录指引",
+   "heading_kind": "author",
+   "lines": [33, 39],
+   "items": ["pt-f3b9ddcf49", "pt-1e239a6dce"],
+   "chars": 562
+  },
+  {
+   "no": "2",
+   "heading": "哪里获得WPS灵犀？",
+   "heading_kind": "author",
+   "lines": [40, 67],
+   "items": ["pt-7ad3dc4fa6", "pt-05d98469a9", "pt-6c028b63a3", "pt-041bf09eb7", "pt-b7570e4523", "pt-fc4b23732c", "pt-6de679df7a", "pt-c9ae4d8c30", "pt-814477fc97", "pt-bd25edb9b0"],
+   "chars": 1023
+  },
+  {
+   "no": "3",
+   "heading": "WPS灵犀亮点功能",
+   "heading_kind": "author",
+   "lines": [68, 90],
+   "items": ["pt-8d4bc52a72", "pt-1f415790df", "pt-356cdfcaeb", "pt-c284fe08b9"],
+   "chars": 1113
+  },
+  {
+   "no": "4",
+   "heading": "专属福利来啦！",
+   "heading_kind": "author",
+   "lines": [91, 105],
+   "items": ["pt-3542760920", "pt-fd7c202ff5", "pt-2c2f266c3b", "pt-fe3ef9ab68"],
+   "chars": 610
+  },
+  {
+   "no": "5",
+   "heading": "注意事项",
+   "heading_kind": "author",
+   "lines": [106, 116],
+   "items": ["pt-ec35520598", "pt-3e1db188da"],
+   "chars": 572
+  },
+  {
+   "no": "—",
+   "heading": "来源与署名",
+   "heading_kind": "derived",
+   "lines": [117, 120],
+   "items": [],
+   "chars": 35
+  },
+  {
+   "no": "—",
+   "heading": "页脚（联系方式、常用链接与版权）",
+   "heading_kind": "derived",
+   "lines": [121, 145],
+   "items": [],
+   "chars": 363
+  }
+ ],
+ "items": ["rule-b739c4e2de", "pt-edf4033ab0", "pt-f3b9ddcf49", "pt-041bf09eb7", "pt-b7570e4523", "pt-1e239a6dce", "pt-7ad3dc4fa6", "pt-05d98469a9", "pt-6c028b63a3", "pt-fc4b23732c", "pt-6de679df7a", "pt-c9ae4d8c30", "pt-814477fc97", "pt-bd25edb9b0", "pt-8d4bc52a72", "pt-1f415790df", "pt-356cdfcaeb", "pt-c284fe08b9", "pt-3542760920", "pt-fd7c202ff5", "pt-2c2f266c3b", "pt-fe3ef9ab68", "pt-ec35520598", "pt-3e1db188da"],
+ "notes": [
+  "网页抓取结果（微信公众号文章转页）：2–23 行是「信息化处」站点导航，第 24 行是栏目横幅图片附件，第 25 行标题重出，第 26 行是发布时间 2025-04-10 与浏览次数，整体归「页面框架」节。",
+  "正文按原文的「1」「2」「3」「4」「5」五个数字序号分段，序号单独占一行（第 33、40、68、91、106 行），其下第一行才是段标题（第 34、41、69、92、107 行）；no 记数字序号，heading 取原文段标题（author，逐字可查）。",
+  "「1」段之前另有一段无标题的开篇导语（27–32 行：四行短句 + 「即可免费使用！」），无原文标题，单列「开篇导语」节，heading 记 derived。",
+  "「2 哪里获得WPS灵犀？」（40–67 行）内部有四个并列小标签：WPS客户端（第 43 行）、WPS移动端（第 55 行）、微信小程序（第 60 行）、Web网页端（第 64 行）；「3 WPS灵犀亮点功能」（68–90 行）内部有四个：AI 生成 PPT（70）、AI 阅读（76）、AI 写作（81）、AI 搜索（86）。这些是段内小标签而非独立章节，未另立节，行区间仍按段计。",
+  "文中大量「[附件]」行是图片直链（mmecoa.qpic.cn 微信图床、以及 /_upload/tpl/ 模板图），穿插在文字之间；图片未随文本保存，行号按原顺序保留，未据图立节。",
+  "117–120 行是公众号署名（来源｜信息化处、排版｜沙艺、责编｜唐佳容 韩雅文、审核｜张弛）；140–143 行残留站点模板占位符「{缩略图}」「{标题}」与一个孤立的「-->」，随页脚一节收。",
+  "rule-b739c4e2de 是无引文的文档级条目（标题≈本文标题），已列入文档级 items，并按「概述／第一节」规则放进「标题」节。"
+ ]
+}

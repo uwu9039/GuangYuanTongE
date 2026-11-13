@@ -1,1 +1,237 @@
-ew0KICJrZXkiOiAiZGRlZTA3MGMiLA0KICJ0aXRsZSI6ICLnoJTnqbbnlJ/pmaLjgJQyMDI144CVMTDlj7cg5YWz5LqO5Y2w5Y+R44CK5Lit5Zu95Lyg5aqS5aSn5a2m5LiT5Lia5a2m5L2N5Y2a5aOr56CU56m255Sf5a2m5L2N6K665paH562U6L6p5bel5L2c5Yqe5rOV44CL55qE6YCa55+lIiwNCiAidHJ1bmNhdGVkIjogZmFsc2UsDQogInNlY3Rpb25zIjogWw0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuWFs+S6juWNsOWPkeOAiuS4reWbveS8oOWqkuWkp+WtpuS4k+S4muWtpuS9jeWNmuWjq+eglOeptueUn+WtpuS9jeiuuuaWh+etlOi+qeW3peS9nOWKnuazleOAi+eahOmAmuefpSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMiwNCiAgICAxMw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicnVsZS1kZGVlMDcwYyIsDQogICAgInB0LTJkZTM0MDRkZjgiLA0KICAgICJwdC0zNzU2NWM1ZWVmIg0KICAgXSwNCiAgICJjaGFycyI6IDE4NA0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuS4reWbveS8oOWqkuWkp+WtpuS4k+S4muWtpuS9jeWNmuWjq+eglOeptueUn+WtpuS9jeiuuuaWh+etlOi+qeW3peS9nOWKnuazlSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTUsDQogICAgMjANCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTczYTdiYTBhMzciDQogICBdLA0KICAgImNoYXJzIjogMTI5DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuozmnaEiLA0KICAgImhlYWRpbmciOiAi5a2m5L2N6K665paH5b2i5byP6KaB5rGCIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMjEsDQogICAgMjQNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDk5DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuInmnaEiLA0KICAgImhlYWRpbmciOiAi562U6L6p5bel5L2c55qE55uu55qEIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMjUsDQogICAgMjcNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDYxDQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzlm5vmnaEiLA0KICAgImhlYWRpbmciOiAi562U6L6p55Sz6K+35LiO5a6h5qC4IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMjgsDQogICAgMjkNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDQyDQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkupTmnaEiLA0KICAgImhlYWRpbmciOiAi562U6L6p5aeU5ZGY5Lya55qE57uE5oiQIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMzAsDQogICAgMzcNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTMwMzcyMzQyM2MiDQogICBdLA0KICAgImNoYXJzIjogMTcwDQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzlha3mnaEiLA0KICAgImhlYWRpbmciOiAi6K665paH6YCB5Lqk5LiO5a6h6ZiFIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMzgsDQogICAgMzkNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDMxDQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuIPmnaEiLA0KICAgImhlYWRpbmciOiAi562U6L6p5YWs5byA5LiO5YWs5ZGKIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNDAsDQogICAgNDINCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDY1DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzlhavmnaEiLA0KICAgImhlYWRpbmciOiAi6LSj5Lu75Y2a5a+86IGM6LSjIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNDMsDQogICAgNDYNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDk4DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuZ3mnaEiLA0KICAgImhlYWRpbmciOiAi562U6L6p5aeU5ZGY5Lya55qE5a6h5p+l5LiO5oqV56Wo6IGM6LSjIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNDcsDQogICAgNDkNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDY3DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzljYHmnaEiLA0KICAgImhlYWRpbmciOiAi562U6L6p56iL5bqP77yI5Y2B5LqM6aG5546v6IqC77yJIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNTAsDQogICAgNzANCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTZmYjUzYThhOGEiLA0KICAgICJwdC0zNDRjYjgxZTZlIg0KICAgXSwNCiAgICJjaGFycyI6IDM5Mg0KICB9LA0KICB7DQogICAibm8iOiAi56ys5Y2B5LiA5p2hIiwNCiAgICJoZWFkaW5nIjogIuetlOi+qee7k+aenOS4jumHjeaWsOeUs+ivtyIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDcxLA0KICAgIDc4DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAyMTYNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWNgeS6jOadoSIsDQogICAiaGVhZGluZyI6ICLpgJrov4flhbbkuK3kuIDpobnnmoTlhrPorq4iLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA3OSwNCiAgICA4Mw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtN2YyZDQxMDkzOSIsDQogICAgInB0LTdlZWQ0ZTZjNjkiDQogICBdLA0KICAgImNoYXJzIjogODkNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWNgeS4ieadoSIsDQogICAiaGVhZGluZyI6ICLlu7rorq7mjojkuojnoZXlo6vkuJPkuJrlrabkvY0iLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA4NCwNCiAgICA4Nw0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogODUNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWNgeWbm+adoSIsDQogICAiaGVhZGluZyI6ICLnrZTovqnorrDlvZUiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA4OCwNCiAgICA5MA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogNzYNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWNgeS6lOadoSIsDQogICAiaGVhZGluZyI6ICLnrZTovqnmnZDmlpnlvZLmoaMiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA5MSwNCiAgICA5Mw0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogNjkNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWNgeWFreadoSIsDQogICAiaGVhZGluZyI6ICLop6Pph4rpg6jpl6giLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA5NCwNCiAgICA5NA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTcNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWNgeS4g+adoSIsDQogICAiaGVhZGluZyI6ICLmlr3ooYzml6XmnJ8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA5NSwNCiAgICA5NQ0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMjMNCiAgfQ0KIF0sDQogIml0ZW1zIjogWw0KICAicnVsZS1kZGVlMDcwYyIsDQogICJwdC0yZGUzNDA0ZGY4IiwNCiAgInB0LTM3NTY1YzVlZWYiLA0KICAicHQtNzNhN2JhMGEzNyIsDQogICJwdC0zMDM3MjM0MjNjIiwNCiAgInB0LTZmYjUzYThhOGEiLA0KICAicHQtMzQ0Y2I4MWU2ZSIsDQogICJwdC03ZjJkNDEwOTM5IiwNCiAgInB0LTdlZWQ0ZTZjNjkiDQogXSwNCiAibm90ZXMiOiBbDQogICLop4TliJnmnaEgcnVsZS1kZGVlMDcwYyDml6DlvJXmlofvvIjmlofmoaPnuqfvvInvvIzliJfov5vpppboioLvvIjljbDlj5HpgJrnn6XvvInjgIIiLA0KICAi5Y6f5paH6aG156CB6KGM77ya56ysIDEg6KGM44CMLSAxIC3jgI3jgIHnrKwgMTQg6KGM44CMLSAyIC3jgI3jgIHnrKwgMzYg6KGM44CMLSAzIC3jgI3jgIHnrKwgNTkg6KGM44CMLSA0IC3jgI3jgIHnrKwgODIg6KGM44CMLSA1IC3jgI3vvIzlnYflt7LlubblhaXnm7jpgrvoioLjgIIiLA0KICAi56ysIDE0IOihjOmhteeggeOAgTE14oCTMTYg6KGM5Yqe5rOV5qCH6aKY5LiOIDE34oCTMjAg6KGM56ys5LiA5p2h77yI5Yi25a6a5L6d5o2u77yJ5ZCI5Li65LiA6IqC77yIMTTigJMyMO+8ie+8m+WboCBwdC03M2E3YmEwYTM3IOeahOW8leaWh+S7juWKnuazleagh+mimOesrCAxNSDooYznm7TotK/nrKzkuIDmnaHnrKwgMTcg6KGM77yM5peg5rOV5Zyo5qCH6aKY5LiO56ys5LiA5p2h5LmL6Ze05YiH5byA44CCIiwNCiAgIuesrOS6jOiHs+esrOWNgeS4g+adoeWOn+aWh+WPquacieadoeWPt+OAgeaXoOadoeWQje+8jGhlYWRpbmcg5Li65o2u5p2h5paH5qaC5ous55qEIGRlcml2ZWTvvIzmnaHlj7flhpnlnKggbm/jgIIiLA0KICAicHQtNmZiNTNhOGE4YeOAgXB0LTM0NGNiODFlNmUg55qE5byV5paH6JC95Zyo56ys5Y2B5p2h77yI562U6L6p56iL5bqP77yJ5YaF6Leo6aG15aSE77yINTjigJM2MSDooYzvvInvvJtwdC03ZWVkNGU2YzY5IOW8leaWh+S7heOAjOetlOi+qeeahOWGs+iuruOAguOAje+8jOiQveWcqOesrOWNgeS6jOadoe+8iDgzIOihjO+8jOi3qOesrCA1IOmhtemhteegge+8ieOAgiINCiBdDQp9
+{
+ "key": "ddee070c",
+ "title": "研究生院〔2025〕10号 关于印发《中国传媒大学专业学位博士研究生学位论文答辩工作办法》的通知",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "关于印发《中国传媒大学专业学位博士研究生学位论文答辩工作办法》的通知",
+   "heading_kind": "author",
+   "lines": [
+    2,
+    13
+   ],
+   "items": [
+    "rule-ddee070c",
+    "pt-2de3404df8",
+    "pt-37565c5eef"
+   ],
+   "chars": 184
+  },
+  {
+   "no": "—",
+   "heading": "中国传媒大学专业学位博士研究生学位论文答辩工作办法",
+   "heading_kind": "author",
+   "lines": [
+    15,
+    20
+   ],
+   "items": [
+    "pt-73a7ba0a37"
+   ],
+   "chars": 129
+  },
+  {
+   "no": "第二条",
+   "heading": "学位论文形式要求",
+   "heading_kind": "derived",
+   "lines": [
+    21,
+    24
+   ],
+   "items": [],
+   "chars": 99
+  },
+  {
+   "no": "第三条",
+   "heading": "答辩工作的目的",
+   "heading_kind": "derived",
+   "lines": [
+    25,
+    27
+   ],
+   "items": [],
+   "chars": 61
+  },
+  {
+   "no": "第四条",
+   "heading": "答辩申请与审核",
+   "heading_kind": "derived",
+   "lines": [
+    28,
+    29
+   ],
+   "items": [],
+   "chars": 42
+  },
+  {
+   "no": "第五条",
+   "heading": "答辩委员会的组成",
+   "heading_kind": "derived",
+   "lines": [
+    30,
+    37
+   ],
+   "items": [
+    "pt-303723423c"
+   ],
+   "chars": 170
+  },
+  {
+   "no": "第六条",
+   "heading": "论文送交与审阅",
+   "heading_kind": "derived",
+   "lines": [
+    38,
+    39
+   ],
+   "items": [],
+   "chars": 31
+  },
+  {
+   "no": "第七条",
+   "heading": "答辩公开与公告",
+   "heading_kind": "derived",
+   "lines": [
+    40,
+    42
+   ],
+   "items": [],
+   "chars": 65
+  },
+  {
+   "no": "第八条",
+   "heading": "责任博导职责",
+   "heading_kind": "derived",
+   "lines": [
+    43,
+    46
+   ],
+   "items": [],
+   "chars": 98
+  },
+  {
+   "no": "第九条",
+   "heading": "答辩委员会的审查与投票职责",
+   "heading_kind": "derived",
+   "lines": [
+    47,
+    49
+   ],
+   "items": [],
+   "chars": 67
+  },
+  {
+   "no": "第十条",
+   "heading": "答辩程序（十二项环节）",
+   "heading_kind": "derived",
+   "lines": [
+    50,
+    70
+   ],
+   "items": [
+    "pt-6fb53a8a8a",
+    "pt-344cb81e6e"
+   ],
+   "chars": 392
+  },
+  {
+   "no": "第十一条",
+   "heading": "答辩结果与重新申请",
+   "heading_kind": "derived",
+   "lines": [
+    71,
+    78
+   ],
+   "items": [],
+   "chars": 216
+  },
+  {
+   "no": "第十二条",
+   "heading": "通过其中一项的决议",
+   "heading_kind": "derived",
+   "lines": [
+    79,
+    83
+   ],
+   "items": [
+    "pt-7f2d410939",
+    "pt-7eed4e6c69"
+   ],
+   "chars": 89
+  },
+  {
+   "no": "第十三条",
+   "heading": "建议授予硕士专业学位",
+   "heading_kind": "derived",
+   "lines": [
+    84,
+    87
+   ],
+   "items": [],
+   "chars": 85
+  },
+  {
+   "no": "第十四条",
+   "heading": "答辩记录",
+   "heading_kind": "derived",
+   "lines": [
+    88,
+    90
+   ],
+   "items": [],
+   "chars": 76
+  },
+  {
+   "no": "第十五条",
+   "heading": "答辩材料归档",
+   "heading_kind": "derived",
+   "lines": [
+    91,
+    93
+   ],
+   "items": [],
+   "chars": 69
+  },
+  {
+   "no": "第十六条",
+   "heading": "解释部门",
+   "heading_kind": "derived",
+   "lines": [
+    94,
+    94
+   ],
+   "items": [],
+   "chars": 17
+  },
+  {
+   "no": "第十七条",
+   "heading": "施行日期",
+   "heading_kind": "derived",
+   "lines": [
+    95,
+    95
+   ],
+   "items": [],
+   "chars": 23
+  }
+ ],
+ "items": [
+  "rule-ddee070c",
+  "pt-2de3404df8",
+  "pt-37565c5eef",
+  "pt-73a7ba0a37",
+  "pt-303723423c",
+  "pt-6fb53a8a8a",
+  "pt-344cb81e6e",
+  "pt-7f2d410939",
+  "pt-7eed4e6c69"
+ ],
+ "notes": [
+  "规则条 rule-ddee070c 无引文（文档级），列进首节（印发通知）。",
+  "原文页码行：第 1 行「- 1 -」、第 14 行「- 2 -」、第 36 行「- 3 -」、第 59 行「- 4 -」、第 82 行「- 5 -」，均已并入相邻节。",
+  "第 14 行页码、15–16 行办法标题与 17–20 行第一条（制定依据）合为一节（14–20）；因 pt-73a7ba0a37 的引文从办法标题第 15 行直贯第一条第 17 行，无法在标题与第一条之间切开。",
+  "第二至第十七条原文只有条号、无条名，heading 为据条文概括的 derived，条号写在 no。",
+  "pt-6fb53a8a8a、pt-344cb81e6e 的引文落在第十条（答辩程序）内跨页处（58–61 行）；pt-7eed4e6c69 引文仅「答辩的决议。」，落在第十二条（83 行，跨第 5 页页码）。"
+ ]
+}

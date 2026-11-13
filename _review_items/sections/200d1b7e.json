@@ -1,1 +1,252 @@
-ew0KICJrZXkiOiAiMjAwZDFiN2UiLA0KICJ0aXRsZSI6ICLkuK3kvKDkurrlrZfjgJQyMDIz44CVMTM5IOWPtyDkuK3lm73kvKDlqpLlpKflrabkuJPkuJrmioDmnK/lspfkvY3ogZjnlKjln7rmnKzmnaHku7YiLA0KICJ0cnVuY2F0ZWQiOiBmYWxzZSwNCiAic2VjdGlvbnMiOiBbDQogIHsNCiAgICJubyI6ICLpgJrnn6UiLA0KICAgImhlYWRpbmciOiAi5paH5aS05LiO5Y2w5Y+R6YCa55+lIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMSwNCiAgICAxMw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAid2QtMjAwZDFiN2UiDQogICBdLA0KICAgImNoYXJzIjogMTk4DQogIH0sDQogIHsNCiAgICJubyI6ICLlvJXoqIAiLA0KICAgImhlYWRpbmciOiAi5Yi25a6a5L6d5o2uIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMTQsDQogICAgMTgNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDEzOA0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LiA5p2hIiwNCiAgICJoZWFkaW5nIjogIuS4k+S4muaKgOacr+Wyl+S9jeWIhuexu+S4jue6p+WIqyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTksDQogICAgMzUNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgIndkLTIwMGQxYjdlIg0KICAgXSwNCiAgICJjaGFycyI6IDM1Ng0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LqM5p2hIiwNCiAgICJoZWFkaW5nIjogIuS4k+S4muaKgOacr+Wyl+S9jeiBmOeUqOeahOebuOWFs+imgeaxgiIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMzYsDQogICAgNDgNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDMwNQ0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LiJ5p2hIiwNCiAgICJoZWFkaW5nIjogIuS4k+S4muaKgOacr+S6jOe6p+Wyl+S9jeiBmOeUqOeahOWfuuacrOadoeS7tiIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNDksDQogICAgMTQ0DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAyMzAzDQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuInmnaHCt+S4gCIsDQogICAiaGVhZGluZyI6ICLmgLvkvZPmnaHku7YiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDUyLA0KICAgIDY0DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAzMjcNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS4ieadocK35LqMIiwNCiAgICJoZWFkaW5nIjogIuS7o+ihqOS9nCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNjUsDQogICAgODcNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDQ4OQ0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LiJ5p2hwrfkuIkiLA0KICAgImhlYWRpbmciOiAi6LSh54yu5bqmIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA4OCwNCiAgICAxMzgNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDEzMDcNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS4ieadocK35ZubIiwNCiAgICJoZWFkaW5nIjogIuS4u+inguivhOS7tyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTM5LA0KICAgIDE0NA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTI0DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzlm5vmnaEiLA0KICAgImhlYWRpbmciOiAi5LiT5Lia5oqA5pyv5LiJ57qn5bKX5L2N6IGY55So5Z+65pys5p2h5Lu2IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNDUsDQogICAgMjM4DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAyMjA5DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzlm5vmnaHCt+S4gCIsDQogICAiaGVhZGluZyI6ICLmgLvkvZPmnaHku7YiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDE0OCwNCiAgICAxNTgNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDI4Mg0KICB9LA0KICB7DQogICAibm8iOiAi56ys5Zub5p2hwrfkuowiLA0KICAgImhlYWRpbmciOiAi5Luj6KGo5L2cIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNTksDQogICAgMTgwDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiA0NjkNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWbm+adocK35LiJIiwNCiAgICJoZWFkaW5nIjogIui0oeeMruW6piIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTgxLA0KICAgIDIzMg0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTI3OQ0KICB9LA0KICB7DQogICAibm8iOiAi56ys5Zub5p2hwrflm5siLA0KICAgImhlYWRpbmciOiAi5Li76KeC6K+E5Lu3IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyMzMsDQogICAgMjM4DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAxMjQNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS6lOadoSIsDQogICAiaGVhZGluZyI6ICLkuJPkuJrmioDmnK/kuozjgIHkuInnuqflspfkvY3nu7/oibLpgJrpgZPopoHmsYIiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDIzOSwNCiAgICAyODENCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDEwOTUNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWFreadoSIsDQogICAiaGVhZGluZyI6ICLkuJPkuJrmioDmnK/lm5vnuqflspfkvY3ogZjnlKjln7rmnKzmnaHku7YiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDI4MiwNCiAgICAyODkNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDE5OA0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LiD5p2hIiwNCiAgICJoZWFkaW5nIjogIuWJr+mrmOe6p+S4k+S4muaKgOacr+Wyl+S9jeiBmOeUqOWfuuacrOadoeS7tiIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMjkwLA0KICAgIDMyOQ0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogODU2DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzlhavmnaEiLA0KICAgImhlYWRpbmciOiAi5Lit57qn5LiT5Lia5oqA5pyv5bKX5L2N6IGY55So5Z+65pys5p2h5Lu2IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzMzAsDQogICAgMzU1DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiA0OTINCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS5neadoSIsDQogICAiaGVhZGluZyI6ICLliJ3nuqfkuJPkuJrmioDmnK/lspfkvY3ogZjnlKjln7rmnKzmnaHku7YiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDM1NiwNCiAgICAzNjYNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDIzOA0KICB9LA0KICB7DQogICAibm8iOiAi56ys5Y2B5p2hIiwNCiAgICJoZWFkaW5nIjogIuWFtuS7luS6i+mhueivtOaYjiIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMzY3LA0KICAgIDM5NA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogNTgwDQogIH0sDQogIHsNCiAgICJubyI6ICLniYjorrAiLA0KICAgImhlYWRpbmciOiAi5Y2w5Y+R54mI6K6wIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMzk1LA0KICAgIDM5NQ0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMjYNCiAgfQ0KIF0sDQogIml0ZW1zIjogWw0KICAid2QtMjAwZDFiN2UiDQogXSwNCiAibm90ZXMiOiBbDQogICLmnKzku7bmsqHmnInnq6DvvIzmraPmloflj6rmnInnrKzkuIDmnaHoh7PnrKzljYHmnaHvvIjmnaHkuIvlho3liIbjgIzkuIDjgIHkuozjgIHkuInjgIHlm5vjgI3vvInvvIzmlYXku6XjgIzmnaHjgI3kuLrkuIDoioLvvJvnrKzkuIDoh7PnrKzljYHmnaHnvJblj7fov57nu63vvIzml6Dph43lpI3jgIHml6DnvLrnq6DjgIIiLA0KICAi56ys5LiJ5p2h77yINDnigJMxNDQg6KGM77yJ5LiO56ys5Zub5p2h77yIMTQ14oCTMjM4IOihjO+8ieWQhOe6piA5NSDooYzvvIzmjInljp/mlofjgIzkuIDjgIHmgLvkvZPmnaHku7bvvI/kuozjgIHku6PooajkvZzvvI/kuInjgIHotKHnjK7luqbvvI/lm5vjgIHkuLvop4Lor4Tku7fjgI3lho3mi4bkuIDlsYLlrZDoioLvvIjniLboioLkuI7lrZDoioLooYzlj7fph43lj6DvvIzlsZ7nnJ/ltYzlpZfvvInvvJvlhbbkvZnlkITmnaHkuLvpopjljZXkuIDvvIzkuI3lho3kuIvmi4bjgIIiLA0KICAi56ys5LqU5p2h44CM5LiT5Lia5oqA5pyv5LqM44CB5LiJ57qn5bKX5L2N57u/6Imy6YCa6YGT6KaB5rGC44CN5LiL5YiG44CM5LiA44CB5LiT5Lia5oqA5pyv5LqM57qn5bKX5L2N44CN5LiO44CM5LqM44CB5LiT5Lia5oqA5pyv5LiJ57qn5bKX5L2N44CN5Lik5aWX5p2h5Lu277yM5bGe5ZCM5LiA5Li76aKY55qE5Lik5qGj77yM5pyq5YaN5ouG5YiG44CCIiwNCiAgIuesrCAxMyDooYzkuLrmlofku7bmoIfpopjooYzvvIzkuI4gMeKAkzExIOihjOeahOWNsOWPkemAmuefpeWQiOW5tuS4uuOAjOaWh+WktOS4juWNsOWPkemAmuefpeOAje+8mzE04oCTMTgg6KGM5piv5pyq57yW5Y+355qE5Yi25a6a5L6d5o2u5q6177yM5Y2V5YiX44CM5Yi25a6a5L6d5o2u44CN5LiA6IqC44CCIiwNCiAgIndkLTIwMGQxYjdlIOS4uuaWh+aho+e6p+adoeebru+8jOW8leaWh+i3qCAyIOiKgu+8iOesrCAx4oCTNSDooYzlnKjjgIzmloflpLTkuI7ljbDlj5HpgJrnn6XjgI3vvIznrKwgMTkg6KGM5Zyo44CM56ys5LiA5p2h44CN77yJ77yM5pWF5Zyo6L+ZIDIg6IqC5ZCE5YiX5LiA5qyh44CCIg0KIF0NCn0NCg==
+{
+ "key": "200d1b7e",
+ "title": "中传人字〔2023〕139 号 中国传媒大学专业技术岗位聘用基本条件",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "通知",
+   "heading": "文头与印发通知",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    13
+   ],
+   "items": [
+    "wd-200d1b7e"
+   ],
+   "chars": 198
+  },
+  {
+   "no": "引言",
+   "heading": "制定依据",
+   "heading_kind": "derived",
+   "lines": [
+    14,
+    18
+   ],
+   "items": [],
+   "chars": 138
+  },
+  {
+   "no": "第一条",
+   "heading": "专业技术岗位分类与级别",
+   "heading_kind": "author",
+   "lines": [
+    19,
+    35
+   ],
+   "items": [
+    "wd-200d1b7e"
+   ],
+   "chars": 356
+  },
+  {
+   "no": "第二条",
+   "heading": "专业技术岗位聘用的相关要求",
+   "heading_kind": "author",
+   "lines": [
+    36,
+    48
+   ],
+   "items": [],
+   "chars": 305
+  },
+  {
+   "no": "第三条",
+   "heading": "专业技术二级岗位聘用的基本条件",
+   "heading_kind": "author",
+   "lines": [
+    49,
+    144
+   ],
+   "items": [],
+   "chars": 2303
+  },
+  {
+   "no": "第三条·一",
+   "heading": "总体条件",
+   "heading_kind": "author",
+   "lines": [
+    52,
+    64
+   ],
+   "items": [],
+   "chars": 327
+  },
+  {
+   "no": "第三条·二",
+   "heading": "代表作",
+   "heading_kind": "author",
+   "lines": [
+    65,
+    87
+   ],
+   "items": [],
+   "chars": 489
+  },
+  {
+   "no": "第三条·三",
+   "heading": "贡献度",
+   "heading_kind": "author",
+   "lines": [
+    88,
+    138
+   ],
+   "items": [],
+   "chars": 1307
+  },
+  {
+   "no": "第三条·四",
+   "heading": "主观评价",
+   "heading_kind": "author",
+   "lines": [
+    139,
+    144
+   ],
+   "items": [],
+   "chars": 124
+  },
+  {
+   "no": "第四条",
+   "heading": "专业技术三级岗位聘用基本条件",
+   "heading_kind": "author",
+   "lines": [
+    145,
+    238
+   ],
+   "items": [],
+   "chars": 2209
+  },
+  {
+   "no": "第四条·一",
+   "heading": "总体条件",
+   "heading_kind": "author",
+   "lines": [
+    148,
+    158
+   ],
+   "items": [],
+   "chars": 282
+  },
+  {
+   "no": "第四条·二",
+   "heading": "代表作",
+   "heading_kind": "author",
+   "lines": [
+    159,
+    180
+   ],
+   "items": [],
+   "chars": 469
+  },
+  {
+   "no": "第四条·三",
+   "heading": "贡献度",
+   "heading_kind": "author",
+   "lines": [
+    181,
+    232
+   ],
+   "items": [],
+   "chars": 1279
+  },
+  {
+   "no": "第四条·四",
+   "heading": "主观评价",
+   "heading_kind": "author",
+   "lines": [
+    233,
+    238
+   ],
+   "items": [],
+   "chars": 124
+  },
+  {
+   "no": "第五条",
+   "heading": "专业技术二、三级岗位绿色通道要求",
+   "heading_kind": "author",
+   "lines": [
+    239,
+    281
+   ],
+   "items": [],
+   "chars": 1095
+  },
+  {
+   "no": "第六条",
+   "heading": "专业技术四级岗位聘用基本条件",
+   "heading_kind": "author",
+   "lines": [
+    282,
+    289
+   ],
+   "items": [],
+   "chars": 198
+  },
+  {
+   "no": "第七条",
+   "heading": "副高级专业技术岗位聘用基本条件",
+   "heading_kind": "author",
+   "lines": [
+    290,
+    329
+   ],
+   "items": [],
+   "chars": 856
+  },
+  {
+   "no": "第八条",
+   "heading": "中级专业技术岗位聘用基本条件",
+   "heading_kind": "author",
+   "lines": [
+    330,
+    355
+   ],
+   "items": [],
+   "chars": 492
+  },
+  {
+   "no": "第九条",
+   "heading": "初级专业技术岗位聘用基本条件",
+   "heading_kind": "author",
+   "lines": [
+    356,
+    366
+   ],
+   "items": [],
+   "chars": 238
+  },
+  {
+   "no": "第十条",
+   "heading": "其他事项说明",
+   "heading_kind": "author",
+   "lines": [
+    367,
+    394
+   ],
+   "items": [],
+   "chars": 580
+  },
+  {
+   "no": "版记",
+   "heading": "印发版记",
+   "heading_kind": "derived",
+   "lines": [
+    395,
+    395
+   ],
+   "items": [],
+   "chars": 26
+  }
+ ],
+ "items": [
+  "wd-200d1b7e"
+ ],
+ "notes": [
+  "本件没有章，正文只有第一条至第十条（条下再分「一、二、三、四」），故以「条」为一节；第一至第十条编号连续，无重复、无缺章。",
+  "第三条（49–144 行）与第四条（145–238 行）各约 95 行，按原文「一、总体条件／二、代表作／三、贡献度／四、主观评价」再拆一层子节（父节与子节行号重叠，属真嵌套）；其余各条主题单一，不再下拆。",
+  "第五条「专业技术二、三级岗位绿色通道要求」下分「一、专业技术二级岗位」与「二、专业技术三级岗位」两套条件，属同一主题的两档，未再拆分。",
+  "第 13 行为文件标题行，与 1–11 行的印发通知合并为「文头与印发通知」；14–18 行是未编号的制定依据段，单列「制定依据」一节。",
+  "wd-200d1b7e 为文档级条目，引文跨 2 节（第 1–5 行在「文头与印发通知」，第 19 行在「第一条」），故在这 2 节各列一次。"
+ ]
+}

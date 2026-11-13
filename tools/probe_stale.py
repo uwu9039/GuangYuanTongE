@@ -1,1 +1,88 @@
-IiIi55u05o6l6LeRIGZpZWxkLmpzIOmHjOmCo+auteOAjOaXtuaViOWIpOaWreOAje+8jOeUqOecn+WunuWTjeW6lOaguOWvueWug+S8muS4jeS8muinpuWPkeOAggoKICAgIHB5dGhvbiB0b29scy9wcm9iZV9zdGFsZS5weQoK5YGa5rOV77ya5oqKIGBTVEFMRV9NSU5fWUVBUlNgIC8gYHNvdXJjZVllYXJzYCAvIGBzdGFsZUhpbnRgIOS4ieS4quWumuS5ieS7jiBmaWVsZC5qcyDljp/mlofph4zmiqDlh7rmnaXvvIwK55SoIG5vZGUg5omn6KGM77yI5YW25L2Z5YWo5bGA6YO95LiN6ZyA6KaB77yJ77yM5YaN5ZaC55yf5a6eIC9hcGkvYXNrIOWTjeW6lOOAggoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGpzb24KaW1wb3J0IHJlCmltcG9ydCBzaHV0aWwKaW1wb3J0IHN1YnByb2Nlc3MKaW1wb3J0IHN5cwppbXBvcnQgdXJsbGliLnJlcXVlc3QKZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCgpST09UID0gUGF0aChfX2ZpbGVfXykucmVzb2x2ZSgpLnBhcmVudHNbMV0KIyBub2Rl77ya546v5aKD5Y+Y6YePIE5PREUg5LyY5YWI77yM5YW25qyhIFBBVEgg6YeM55qEIG5vZGUKaW1wb3J0IG9zICAjIG5vcWE6IEU0MDIKCl9jYW5kID0gb3MuZW52aXJvbi5nZXQoIk5PREUiKSBvciBzaHV0aWwud2hpY2goIm5vZGUiKSBvciAiIgpOT0RFID0gUGF0aChfY2FuZCkgaWYgX2NhbmQgZWxzZSBQYXRoKCJub2RlIikKQkFTRSA9ICJodHRwOi8vMTI3LjAuMC4xOjc4NjAiCgpDQVNFUyA9IFsi5YWs6LS55Yy755aX5oCO5LmI5oql6ZSAIiwgIuaIt+WPo+i/geenu+aAjuS5iOWKniIsICLlm77kuabppobog73nu63lgJ/lkJciLCAi5qGj5qGI5Zyo5ZOq6YeMIiwKICAgICAgICAgIui9rOS4k+S4muWIsOS/oeaBr+S4jumAmuS/oeW3peeoi+WtpumZoiIsICLmlrDpl7vlrabpmaLovazkuJPkuJrmjqXmlLborqHliJIiXQoKCmRlZiBhc2sodGV4dDogc3RyKSAtPiBkaWN0OgogICAgcmVxID0gdXJsbGliLnJlcXVlc3QuUmVxdWVzdCgKICAgICAgICBCQVNFICsgIi9hcGkvYXNrIiwKICAgICAgICBkYXRhPWpzb24uZHVtcHMoeyJ0ZXh0IjogdGV4dCwgInJvdXRlcl9sbG0iOiBGYWxzZSwgInN5bnRoIjogRmFsc2V9KS5lbmNvZGUoKSwKICAgICAgICBoZWFkZXJzPXsiQ29udGVudC1UeXBlIjogImFwcGxpY2F0aW9uL2pzb24ifSwgbWV0aG9kPSJQT1NUIikKICAgIHdpdGggdXJsbGliLnJlcXVlc3QudXJsb3BlbihyZXEsIHRpbWVvdXQ9MjQwKSBhcyByOgogICAgICAgIHJldHVybiBqc29uLmxvYWRzKHIucmVhZCgpLmRlY29kZSgidXRmLTgiKSkKCgpkZWYgZXh0cmFjdChzcmM6IHN0cikgLT4gc3RyOgogICAgc3RhcnQgPSBzcmMuaW5kZXgoImNvbnN0IFNUQUxFX01JTl9ZRUFSUyIpCiAgICBlbmQgPSBzcmMuaW5kZXgoImZ1bmN0aW9uIGNhcmRIZWFkIikKICAgIHJldHVybiBzcmNbc3RhcnQ6ZW5kXQoKCmRlZiBtYWluKCkgLT4gaW50OgogICAganMgPSAoUk9PVCAvICJ3ZWItbmV4dCIgLyAiZmllbGQuanMiKS5yZWFkX3RleHQoZW5jb2Rpbmc9InV0Zi04IikKICAgIGJsb2NrID0gZXh0cmFjdChqcykKICAgIHBheWxvYWRzID0ge3E6IGFzayhxKSBmb3IgcSBpbiBDQVNFU30KICAgIHBheWxvYWRfanNvbiA9IGpzb24uZHVtcHMocGF5bG9hZHMsIGVuc3VyZV9hc2NpaT1GYWxzZSkucmVwbGFjZSgiXFwiLCAiXFxcXCIpLnJlcGxhY2UoImAiLCAiXFxgIikKICAgIHBheWxvYWRfZmlsZSA9IFJPT1QgLyAiLnRtcCIgLyAicHJvYmUiIC8gIl9wYXlsb2Fkcy5qc29uIgogICAgcGF5bG9hZF9maWxlLnBhcmVudC5ta2RpcihwYXJlbnRzPVRydWUsIGV4aXN0X29rPVRydWUpCiAgICBwYXlsb2FkX2ZpbGUud3JpdGVfdGV4dChqc29uLmR1bXBzKHBheWxvYWRzLCBlbnN1cmVfYXNjaWk9RmFsc2UpLCBlbmNvZGluZz0idXRmLTgiKQogICAgc2NyaXB0ID0gZiIiIgppbXBvcnQgZnMgZnJvbSAibm9kZTpmcyI7CmNvbnN0IFBBWUxPQURTID0gSlNPTi5wYXJzZShmcy5yZWFkRmlsZVN5bmMocHJvY2Vzcy5hcmd2WzJdLCAidXRmOCIpKTsKY29uc3QgZXNjID0gKHMpID0+IFN0cmluZyhzID8/ICIiKS5yZXBsYWNlKC9bJjw+Il0vZywKICAoYykgPT4gKHt7ICImIjogIiZhbXA7IiwgIjwiOiAiJmx0OyIsICI+IjogIiZndDsiLCAnIic6ICImcXVvdDsiIH19W2NdKSk7CntibG9ja30KZm9yIChjb25zdCBbcSwgZF0gb2YgT2JqZWN0LmVudHJpZXMoUEFZTE9BRFMpKSB7ewogIGNvbnN0IGl0ZW1zID0gc291cmNlWWVhcnMoZCk7CiAgY29uc3QgaHRtbCA9IHN0YWxlSGludChkKTsKICBjb25zdCB5ZWFycyA9IGl0ZW1zLm1hcCgoeCkgPT4geC55KTsKICBjb25zdCBjeWMgPSBpdGVtcy5maWx0ZXIoKHgpID0+IHguY3ljbGUpLm1hcCgoeCkgPT4geC55KTsKICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeSh7eyBxLCBuZXdlc3Q6IHllYXJzLmxlbmd0aCA/IE1hdGgubWF4KC4uLnllYXJzKSA6IG51bGwsCiAgICBuZXdlc3RDeWNsZTogY3ljLmxlbmd0aCA/IE1hdGgubWF4KC4uLmN5YykgOiBudWxsLCBuOiB5ZWFycy5sZW5ndGgsIGZpcmVkOiAhIWh0bWwsCiAgICB0ZXh0OiAoaHRtbC5tYXRjaCgvPihbXjxdKyk8LykgfHwgW10pWzFdIHx8ICIiLCBoYXNJdGVtOiAhIShkLml0ZW0gJiYgZC5pdGVtLnRpdGxlKSwKICAgIHBsYW46ICEhZC5wbGFuIH19KSk7Cn19CiIiIgogICAgdG1wID0gUk9PVCAvICIudG1wIiAvICJwcm9iZSIgLyAiX3N0YWxlX2NoZWNrLm1qcyIKICAgIHRtcC5wYXJlbnQubWtkaXIocGFyZW50cz1UcnVlLCBleGlzdF9vaz1UcnVlKQogICAgdG1wLndyaXRlX3RleHQoc2NyaXB0LCBlbmNvZGluZz0idXRmLTgiKQogICAgb3V0ID0gc3VicHJvY2Vzcy5ydW4oW3N0cihOT0RFKSwgc3RyKHRtcCksIHN0cihwYXlsb2FkX2ZpbGUpXSwKICAgICAgICAgICAgICAgICAgICAgICAgIGNhcHR1cmVfb3V0cHV0PVRydWUsIHRleHQ9VHJ1ZSwgZW5jb2Rpbmc9InV0Zi04IikKICAgIGlmIG91dC5yZXR1cm5jb2RlICE9IDA6CiAgICAgICAgcHJpbnQoIm5vZGUg5aSx6LSl77yaIiwgb3V0LnN0ZGVycls6ODAwXSkKICAgICAgICByZXR1cm4gMQogICAgZm9yIGxpbmUgaW4gb3V0LnN0ZG91dC5zdHJpcCgpLnNwbGl0bGluZXMoKToKICAgICAgICBkID0ganNvbi5sb2FkcyhsaW5lKQogICAgICAgIG1hcmsgPSAi6Kem5Y+RIiBpZiBkWyJmaXJlZCJdIGVsc2UgIuS4jeinpuWPkSIKICAgICAgICBwcmludChmIiAge21hcms6NHN9IOacgOaWsOS+neaNruW5tD17ZFsnbmV3ZXN0J119IOWAmemAieW5tOaVsD17ZFsnbiddOjJkfSDmnInmnaHnm649e2RbJ2hhc0l0ZW0nXX0gIHtkWydxJ119IikKICAgICAgICBpZiBkWyJmaXJlZCJdOgogICAgICAgICAgICBwcmludChmIiAgICAgICDmlofmoYjvvJp7ZFsndGV4dCddfSIpCiAgICByZXR1cm4gMAoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBzeXMuZXhpdChtYWluKCkpCg==
+"""直接跑 field.js 里那段「时效判断」，用真实响应核对它会不会触发。
+
+    python tools/probe_stale.py
+
+做法：把 `STALE_MIN_YEARS` / `sourceYears` / `staleHint` 三个定义从 field.js 原文里抠出来，
+用 node 执行（其余全局都不需要），再喂真实 /api/ask 响应。
+"""
+from __future__ import annotations
+
+import json
+import re
+import shutil
+import subprocess
+import sys
+import urllib.request
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+# node：环境变量 NODE 优先，其次 PATH 里的 node
+import os  # noqa: E402
+
+_cand = os.environ.get("NODE") or shutil.which("node") or ""
+NODE = Path(_cand) if _cand else Path("node")
+BASE = "http://127.0.0.1:7860"
+
+CASES = ["公费医疗怎么报销", "户口迁移怎么办", "图书馆能续借吗", "档案在哪里",
+         "转专业到信息与通信工程学院", "新闻学院转专业接收计划"]
+
+
+def ask(text: str) -> dict:
+    req = urllib.request.Request(
+        BASE + "/api/ask",
+        data=json.dumps({"text": text, "router_llm": False, "synth": False}).encode(),
+        headers={"Content-Type": "application/json"}, method="POST")
+    with urllib.request.urlopen(req, timeout=240) as r:
+        return json.loads(r.read().decode("utf-8"))
+
+
+def extract(src: str) -> str:
+    start = src.index("const STALE_MIN_YEARS")
+    end = src.index("function cardHead")
+    return src[start:end]
+
+
+def main() -> int:
+    js = (ROOT / "web-next" / "field.js").read_text(encoding="utf-8")
+    block = extract(js)
+    payloads = {q: ask(q) for q in CASES}
+    payload_json = json.dumps(payloads, ensure_ascii=False).replace("\\", "\\\\").replace("`", "\\`")
+    payload_file = ROOT / ".tmp" / "probe" / "_payloads.json"
+    payload_file.parent.mkdir(parents=True, exist_ok=True)
+    payload_file.write_text(json.dumps(payloads, ensure_ascii=False), encoding="utf-8")
+    script = f"""
+import fs from "node:fs";
+const PAYLOADS = JSON.parse(fs.readFileSync(process.argv[2], "utf8"));
+const esc = (s) => String(s ?? "").replace(/[&<>"]/g,
+  (c) => ({{ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }}[c]));
+{block}
+for (const [q, d] of Object.entries(PAYLOADS)) {{
+  const items = sourceYears(d);
+  const html = staleHint(d);
+  const years = items.map((x) => x.y);
+  const cyc = items.filter((x) => x.cycle).map((x) => x.y);
+  console.log(JSON.stringify({{ q, newest: years.length ? Math.max(...years) : null,
+    newestCycle: cyc.length ? Math.max(...cyc) : null, n: years.length, fired: !!html,
+    text: (html.match(/>([^<]+)</) || [])[1] || "", hasItem: !!(d.item && d.item.title),
+    plan: !!d.plan }}));
+}}
+"""
+    tmp = ROOT / ".tmp" / "probe" / "_stale_check.mjs"
+    tmp.parent.mkdir(parents=True, exist_ok=True)
+    tmp.write_text(script, encoding="utf-8")
+    out = subprocess.run([str(NODE), str(tmp), str(payload_file)],
+                         capture_output=True, text=True, encoding="utf-8")
+    if out.returncode != 0:
+        print("node 失败：", out.stderr[:800])
+        return 1
+    for line in out.stdout.strip().splitlines():
+        d = json.loads(line)
+        mark = "触发" if d["fired"] else "不触发"
+        print(f"  {mark:4s} 最新依据年={d['newest']} 候选年数={d['n']:2d} 有条目={d['hasItem']}  {d['q']}")
+        if d["fired"]:
+            print(f"       文案：{d['text']}")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

@@ -1,1 +1,125 @@
-ewogImtleSI6ICLmlofnjK7kv53pmpwtODUxNzJkM2M4ODBjMDExMWYwMDlhN2YzODExNmU0NzlkOTA5IiwKICJ0aXRsZSI6ICLnjrDku6PkvKDmkq0iLAogInRydW5jYXRlZCI6IGZhbHNlLAogInNlY3Rpb25zIjogWwogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIueOsOS7o+S8oOaSrSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWwogICAgMSwKICAgIDE1CiAgIF0sCiAgICJpdGVtcyI6IFsKICAgICJwdC03YWEzM2NkNTJmIgogICBdLAogICAiY2hhcnMiOiAzNzAKICB9LAogIHsKICAgIm5vIjogIuS4gOOAgSIsCiAgICJoZWFkaW5nIjogIuS4gOOAgeacn+WIiueugOS7iyIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWwogICAgMTYsCiAgICAxOQogICBdLAogICAiaXRlbXMiOiBbCiAgICAicHQtYzZiZDc1NGRjMiIKICAgXSwKICAgImNoYXJzIjogMjk0CiAgfSwKICB7CiAgICJubyI6ICLkuozjgIEiLAogICAiaGVhZGluZyI6ICLkuozjgIHmipXnqL/pobvnn6UiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsKICAgIDIwLAogICAgMjUKICAgXSwKICAgIml0ZW1zIjogWwogICAgInB0LTZjYzk1MWViYzAiLAogICAgInB0LWE1NzU1MzEwM2EiLAogICAgInB0LTc4NWNjOTEyOTYiLAogICAgInB0LTU5MGU5Y2I2NzkiCiAgIF0sCiAgICJjaGFycyI6IDE2MwogIH0sCiAgewogICAibm8iOiAi5LiJ44CBIiwKICAgImhlYWRpbmciOiAi5LiJ44CB6IGU57O75oiR5LusIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbCiAgICAyNiwKICAgIDM5CiAgIF0sCiAgICJpdGVtcyI6IFsKICAgICJwdC01YzRmNWMwMDcyIiwKICAgICJwdC1hMzAwN2FjYzNmIiwKICAgICJwdC05ZDlkYTRlODY5IgogICBdLAogICAiY2hhcnMiOiAxOTIKICB9LAogIHsKICAgIm5vIjogIuWbm+OAgSIsCiAgICJoZWFkaW5nIjogIuWbm+OAgeagj+ebruS7i+e7jSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWwogICAgNDAsCiAgICA1MQogICBdLAogICAiaXRlbXMiOiBbCiAgICAicHQtYWE3ZDU3MmNhYSIsCiAgICAicHQtYzFmNjA0YmJjZCIsCiAgICAicHQtZjQ0NGM5NGE2MCIsCiAgICAicHQtYTZjNDVlNjg0ZCIsCiAgICAicHQtNDBkYjIxN2UxZCIsCiAgICAicHQtZDM0NzU0Y2YyNCIsCiAgICAicHQtNTVhZjEwYjdjNyIsCiAgICAicHQtNzFlZGU3ZDNlNiIsCiAgICAicHQtYzkzZWZmYTRmZCIKICAgXSwKICAgImNoYXJzIjogNDQyCiAgfSwKICB7CiAgICJubyI6ICLkupTjgIEiLAogICAiaGVhZGluZyI6ICLkupTjgIHorqLpmIXmjIfljZciLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsKICAgIDUyLAogICAgNTYKICAgXSwKICAgIml0ZW1zIjogWwogICAgInB0LTk5MmUyMWQ2ZmYiCiAgIF0sCiAgICJjaGFycyI6IDkzCiAgfQogXSwKICJpdGVtcyI6IFsKICAicHQtN2FhMzNjZDUyZiIsCiAgInB0LWM2YmQ3NTRkYzIiLAogICJwdC02Y2M5NTFlYmMwIiwKICAicHQtYTU3NTUzMTAzYSIsCiAgInB0LTc4NWNjOTEyOTYiLAogICJwdC01OTBlOWNiNjc5IiwKICAicHQtNWM0ZjVjMDA3MiIsCiAgInB0LWEzMDA3YWNjM2YiLAogICJwdC05ZDlkYTRlODY5IiwKICAicHQtYWE3ZDU3MmNhYSIsCiAgInB0LWMxZjYwNGJiY2QiLAogICJwdC1mNDQ0Yzk0YTYwIiwKICAicHQtYTZjNDVlNjg0ZCIsCiAgInB0LTQwZGIyMTdlMWQiLAogICJwdC1kMzQ3NTRjZjI0IiwKICAicHQtNTVhZjEwYjdjNyIsCiAgInB0LTcxZWRlN2QzZTYiLAogICJwdC1jOTNlZmZhNGZkIiwKICAicHQtOTkyZTIxZDZmZiIKIF0sCiAibm90ZXMiOiBbCiAgIue9kemhteato+aWh++8iGlsaWIg6K+m5oOF6aG177yJ77ya5LiA44CB5LqM44CB5LiJ44CB5Zub44CB5LqUIOaYr+WOn+aWh+iHquW4pueahOWwj+agh+mimO+8jOWdh+aghyBhdXRob3LvvJtoZWFkaW5nIOS/neeVmeWOn+aWh+eVquWPt++8jOS4juiKguWPt+OAjOS4gOOAgeOAjeetieS4jeWQjOWAvOOAgiIsCiAgIuesrCAx4oCTMTUg6KGM5piv6K+m5oOF6aG15aS06YOo55qE6JGX5b2V5L+h5oGv77yI5qCH6aKY44CB5p2l5rqQIFVSTOOAgeagj+ebruOAgeS9nOiAheOAgeWPkeW4g+aXtumXtOOAgVvlm75dIOWNoOS9jeihjOOAgeS5puWQjS/kvZzogIUv5Ye654mI56S+L+WHuueJiOaXtumXtC/pobXmlbAv54mI5qyhL+e0ouS5puWPty/mlLbol4/lnLDngrnvvInvvIzml6DlsI/moIfpopjvvIzljZXliJfkuLrpppboioLvvJvlhbbkuK3jgIzlh7rniYjnpL7jgIHlh7rniYjml7bpl7TjgIHpobXmlbDjgIHniYjmrKHjgIHntKLkuablj7fjgI3ljp/mlofkuLrnqbrlgLzvvIxb5Zu+XSDooYzkuLrlm77niYfpk77mjqXljaDkvY3jgIIiLAogICLjgIzlm5vjgIHmoI/nm67ku4vnu43jgI3lhoXnmoQgMeKAkzkg5Y+35qCP55uu5piv5ZCM5LiA6IqC5LiL55qE5bm25YiX5p2h55uu77yI56ysIDQy4oCTNTAg6KGM77yJ77yM5b285q2k5LiN5YGa5a2Q6IqC5ouG5YiG77yM5YWo6YOo6JC95Zyo6K+l6IqC44CCIiwKICAi5q2j5paH5a6M5pW077ya5pyr6KGM5Li644CM5Zu95YaF6K6i5oi35a6a5Lu35q+P5pyfMjDlhYPvvIzlhajlubQyNDDlhYPjgILjgI3vvIzmnKrop4HmiKrmlq3jgIIiCiBdCn0K
+{
+ "key": "文献保障-85172d3c880c0111f009a7f38116e479d909",
+ "title": "现代传播",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "现代传播",
+   "heading_kind": "author",
+   "lines": [
+    1,
+    15
+   ],
+   "items": [
+    "pt-7aa33cd52f"
+   ],
+   "chars": 370
+  },
+  {
+   "no": "一、",
+   "heading": "一、期刊简介",
+   "heading_kind": "author",
+   "lines": [
+    16,
+    19
+   ],
+   "items": [
+    "pt-c6bd754dc2"
+   ],
+   "chars": 294
+  },
+  {
+   "no": "二、",
+   "heading": "二、投稿须知",
+   "heading_kind": "author",
+   "lines": [
+    20,
+    25
+   ],
+   "items": [
+    "pt-6cc951ebc0",
+    "pt-a57553103a",
+    "pt-785cc91296",
+    "pt-590e9cb679"
+   ],
+   "chars": 163
+  },
+  {
+   "no": "三、",
+   "heading": "三、联系我们",
+   "heading_kind": "author",
+   "lines": [
+    26,
+    39
+   ],
+   "items": [
+    "pt-5c4f5c0072",
+    "pt-a3007acc3f",
+    "pt-9d9da4e869"
+   ],
+   "chars": 192
+  },
+  {
+   "no": "四、",
+   "heading": "四、栏目介绍",
+   "heading_kind": "author",
+   "lines": [
+    40,
+    51
+   ],
+   "items": [
+    "pt-aa7d572caa",
+    "pt-c1f604bbcd",
+    "pt-f444c94a60",
+    "pt-a6c45e684d",
+    "pt-40db217e1d",
+    "pt-d34754cf24",
+    "pt-55af10b7c7",
+    "pt-71ede7d3e6",
+    "pt-c93effa4fd"
+   ],
+   "chars": 442
+  },
+  {
+   "no": "五、",
+   "heading": "五、订阅指南",
+   "heading_kind": "author",
+   "lines": [
+    52,
+    56
+   ],
+   "items": [
+    "pt-992e21d6ff"
+   ],
+   "chars": 93
+  }
+ ],
+ "items": [
+  "pt-7aa33cd52f",
+  "pt-c6bd754dc2",
+  "pt-6cc951ebc0",
+  "pt-a57553103a",
+  "pt-785cc91296",
+  "pt-590e9cb679",
+  "pt-5c4f5c0072",
+  "pt-a3007acc3f",
+  "pt-9d9da4e869",
+  "pt-aa7d572caa",
+  "pt-c1f604bbcd",
+  "pt-f444c94a60",
+  "pt-a6c45e684d",
+  "pt-40db217e1d",
+  "pt-d34754cf24",
+  "pt-55af10b7c7",
+  "pt-71ede7d3e6",
+  "pt-c93effa4fd",
+  "pt-992e21d6ff"
+ ],
+ "notes": [
+  "网页正文（ilib 详情页）：一、二、三、四、五 是原文自带的小标题，均标 author；heading 保留原文番号，与节号「一、」等不同值。",
+  "第 1–15 行是详情页头部的著录信息（标题、来源 URL、栏目、作者、发布时间、[图] 占位行、书名/作者/出版社/出版时间/页数/版次/索书号/收藏地点），无小标题，单列为首节；其中「出版社、出版时间、页数、版次、索书号」原文为空值，[图] 行为图片链接占位。",
+  "「四、栏目介绍」内的 1–9 号栏目是同一节下的并列条目（第 42–50 行），彼此不做子节拆分，全部落在该节。",
+  "正文完整：末行为「国内订户定价每期20元，全年240元。」，未见截断。"
+ ]
+}

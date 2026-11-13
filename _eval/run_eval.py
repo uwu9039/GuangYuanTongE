@@ -1,1 +1,129 @@
-IiIi6K+E5rWL77ya5paw5qOA57Si5ZmoIHZzIOaXpyBgYXBwLnJhbmsoKWDjgIIKCiAgICBweXRob24gLW0gX2V2YWwucnVuX2V2YWwgLS1lbmdpbmUgbmV3IC0tc2V0cyBwcmVzZXRzLHBhcmFwaHJhc2UsbmVnYXRpdmVzCiAgICBweXRob24gLW0gX2V2YWwucnVuX2V2YWwgLS1lbmdpbmUgb2xkIC0tc2V0cyBwcmVzZXRzICAgICAgICAjIOWfuue6vwoK5oyH5qCH77yaCiAgICBoaXRAMSAvIGhpdEA1ICAg4oCU4oCUIGdvbGQg5p2h55uu5piv5ZCm6JC95Zyo5YmNIDEgLyDliY0gNQogICAgTVJSQDEwICAgICAgICAgIOKAlOKAlCDlubPlnYflgJLmlbDmjpLlkI0KICAgIOWbnuetlOeOhyAgICAgICAgICDigJTigJQg57O757uf5Yik5a6a44CM5Y+v562U44CN55qE5q+U5L6L77yI5q2j5L6L6ZuG5Lya5Zug5q2k5pq06Zyy6K+v5ouS77yJCiAgICDmi5LnrZTnjocgICAgICAgICAg4oCU4oCUIOi0n+S+i+mbhuiiq+WIpOWumuOAjOS4jeWPr+etlOOAjeeahOavlOS+iwoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGFyZ3BhcnNlCmltcG9ydCBqc29uCmltcG9ydCBzdGF0aXN0aWNzCmltcG9ydCB0aW1lCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aApmcm9tIHR5cGluZyBpbXBvcnQgQW55CgpST09UID0gUGF0aChfX2ZpbGVfXykucmVzb2x2ZSgpLnBhcmVudHNbMV0KU0VUUyA9IFJPT1QgLyAiX2V2YWwiIC8gInNldHMiCgoKZGVmIGxvYWRfc2V0KG5hbWU6IHN0cikgLT4gbGlzdFtkaWN0W3N0ciwgQW55XV06CiAgICBpZiBuYW1lID09ICJwYXJhcGhyYXNlIjoKICAgICAgICByb3dzID0gW10KICAgICAgICBmb3IgbG4gaW4gKFNFVFMgLyAicGFyYXBocmFzZS50c3YiKS5yZWFkX3RleHQoZW5jb2Rpbmc9InV0Zi04Iikuc3BsaXRsaW5lcygpOgogICAgICAgICAgICBsbiA9IGxuLnN0cmlwKCkKICAgICAgICAgICAgaWYgbm90IGxuIG9yIGxuLnN0YXJ0c3dpdGgoIiMiKSBvciAiXHQiIG5vdCBpbiBsbjoKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIGlpZCwgcSA9IGxuLnNwbGl0KCJcdCIsIDEpCiAgICAgICAgICAgIHJvd3MuYXBwZW5kKHsicSI6IHEuc3RyaXAoKSwgImdvbGQiOiBbaWlkLnN0cmlwKCldLCAic291cmNlIjogInBhcmFwaHJhc2UifSkKICAgICAgICByZXR1cm4gcm93cwogICAgcGF0aCA9IFNFVFMgLyBmIntuYW1lfS5qc29ubCIKICAgIHJldHVybiBbanNvbi5sb2FkcyhsbikgZm9yIGxuIGluIHBhdGgucmVhZF90ZXh0KGVuY29kaW5nPSJ1dGYtOCIpLnNwbGl0bGluZXMoKSBpZiBsbi5zdHJpcCgpXQoKCmRlZiBldmFsdWF0ZShlbmdpbmU6IHN0ciwgc2V0czogbGlzdFtzdHJdLCBrOiBpbnQgPSA1LCBhbnN3ZXJfY2hlY2s6IGJvb2wgPSBGYWxzZSkgLT4gZGljdFtzdHIsIEFueV06CiAgICBpZiBlbmdpbmUgPT0gIm9sZCI6CiAgICAgICAgZnJvbSBfZXZhbCBpbXBvcnQgc3R1Yl9mYXN0YXBpCiAgICAgICAgc3R1Yl9mYXN0YXBpLmluc3RhbGwoKQogICAgICAgIGltcG9ydCBhcHAgYXMgb2xkX2FwcAogICAgICAgIGRlZiBydW4ocTogc3RyKToKICAgICAgICAgICAgcmFua2VkID0gb2xkX2FwcC5yYW5rKHEpCiAgICAgICAgICAgIGlkcyA9IFtpdFsiaWQiXSBmb3IgaXQsIF8gaW4gcmFua2VkWzprXV0KICAgICAgICAgICAgcmVmdXNlZCA9IG5vdCByYW5rZWQgb3IgcmFua2VkWzBdWzFdIDwgb2xkX2FwcC5NQVRDSF9USFJFU0hPTEQKICAgICAgICAgICAgcmV0dXJuIGlkcywgcmVmdXNlZCwgTm9uZQogICAgZWxzZToKICAgICAgICBmcm9tIHJldHJpZXZhbCBpbXBvcnQgRW5naW5lCiAgICAgICAgZW5nID0gRW5naW5lLmxvYWQoKQogICAgICAgIGRlZiBydW4ocTogc3RyKToKICAgICAgICAgICAgcmVzID0gZW5nLnNlYXJjaChxLCBrPWssIHdpdGhfYW5zd2VyPWFuc3dlcl9jaGVjaykKICAgICAgICAgICAgcmV0dXJuIFtoLmlkIGZvciBoIGluIHJlcy5oaXRzXSwgcmVzLnJlZnVzZWQsIHJlcy5hbnN3ZXIKCiAgICBvdXQ6IGRpY3Rbc3RyLCBBbnldID0geyJlbmdpbmUiOiBlbmdpbmUsICJrIjogaywgInNldHMiOiB7fX0KICAgIGZvciBuYW1lIGluIHNldHM6CiAgICAgICAgcm93cyA9IGxvYWRfc2V0KG5hbWUpCiAgICAgICAgbiA9IGxlbihyb3dzKQogICAgICAgIGhpdHMxID0gaGl0czUgPSAwCiAgICAgICAgbXJyID0gMC4wCiAgICAgICAgYW5zd2VyZWQgPSAwCiAgICAgICAgcmVmdXNlZCA9IDAKICAgICAgICBsYXQ6IGxpc3RbZmxvYXRdID0gW10KICAgICAgICBtaXNzZXM6IGxpc3RbZGljdFtzdHIsIEFueV1dID0gW10KICAgICAgICBvdmVyX3JlZnVzZWQ6IGxpc3Rbc3RyXSA9IFtdCiAgICAgICAgZm9yIHIgaW4gcm93czoKICAgICAgICAgICAgdCA9IHRpbWUucGVyZl9jb3VudGVyKCkKICAgICAgICAgICAgaWRzLCByZWYsIGFucyA9IHJ1bihyWyJxIl0pCiAgICAgICAgICAgIGR0ID0gKHRpbWUucGVyZl9jb3VudGVyKCkgLSB0KSAqIDEwMDAKICAgICAgICAgICAgbGF0LmFwcGVuZChkdCkKICAgICAgICAgICAgcmVmdXNlZCArPSBpbnQocmVmKQogICAgICAgICAgICBhbnN3ZXJlZCArPSBpbnQobm90IHJlZikKICAgICAgICAgICAgaWYgclsiZ29sZCJdOgogICAgICAgICAgICAgICAgcG9zID0gbmV4dCgoaSBmb3IgaSwgeCBpbiBlbnVtZXJhdGUoaWRzKSBpZiB4IGluIHJbImdvbGQiXSksIE5vbmUpCiAgICAgICAgICAgICAgICBpZiBwb3MgPT0gMDoKICAgICAgICAgICAgICAgICAgICBoaXRzMSArPSAxCiAgICAgICAgICAgICAgICBpZiBwb3MgaXMgbm90IE5vbmUgYW5kIHBvcyA8IGs6CiAgICAgICAgICAgICAgICAgICAgaGl0czUgKz0gMQogICAgICAgICAgICAgICAgaWYgcG9zIGlzIG5vdCBOb25lIGFuZCBwb3MgPCAxMDoKICAgICAgICAgICAgICAgICAgICBtcnIgKz0gMS4wIC8gKHBvcyArIDEpCiAgICAgICAgICAgICAgICBpZiBwb3MgaXMgTm9uZSBvciBwb3MgPj0gazoKICAgICAgICAgICAgICAgICAgICBtaXNzZXMuYXBwZW5kKHsicSI6IHJbInEiXSwgImdvbGQiOiByWyJnb2xkIl0sICJ0b3AiOiBpZHNbOjNdfSkKICAgICAgICAgICAgICAgICAgICBpZiByZWY6CiAgICAgICAgICAgICAgICAgICAgICAgIG92ZXJfcmVmdXNlZC5hcHBlbmQoclsicSJdKQogICAgICAgICAgICAgICAgZWxpZiByZWYgYW5kIHBvcyA9PSAwOgogICAgICAgICAgICAgICAgICAgIG92ZXJfcmVmdXNlZC5hcHBlbmQoclsicSJdKQogICAgICAgIG1ldHJpY3MgPSB7CiAgICAgICAgICAgICJuIjogbiwKICAgICAgICAgICAgImhpdEAxIjogcm91bmQoaGl0czEgLyBuLCA0KSwKICAgICAgICAgICAgZiJoaXRAe2t9Ijogcm91bmQoaGl0czUgLyBuLCA0KSwKICAgICAgICAgICAgIm1yckAxMCI6IHJvdW5kKG1yciAvIG4sIDQpLAogICAgICAgICAgICAiYW5zd2VyZWRfcmF0ZSI6IHJvdW5kKGFuc3dlcmVkIC8gbiwgNCksCiAgICAgICAgICAgICJyZWZ1c2VkX3JhdGUiOiByb3VuZChyZWZ1c2VkIC8gbiwgNCksCiAgICAgICAgICAgICJwNTBfbXMiOiByb3VuZChzdGF0aXN0aWNzLm1lZGlhbihsYXQpLCAxKSwKICAgICAgICAgICAgInA5NV9tcyI6IHJvdW5kKHNvcnRlZChsYXQpW2ludChuICogMC45NSldLCAxKSwKICAgICAgICAgICAgIm1pc3NlcyI6IG1pc3Nlc1s6MzBdLAogICAgICAgICAgICAib3Zlcl9yZWZ1c2VkIjogb3Zlcl9yZWZ1c2VkWzozMF0sCiAgICAgICAgfQogICAgICAgIG91dFsic2V0cyJdW25hbWVdID0gbWV0cmljcwogICAgICAgIHByaW50KGYiXG5be2VuZ2luZX1dIHtuYW1lfTogbj17bn0gaGl0QDE9e21ldHJpY3NbJ2hpdEAxJ119IGhpdEB7a309e21ldHJpY3NbZidoaXRAe2t9J119ICIKICAgICAgICAgICAgICBmIm1ycj17bWV0cmljc1snbXJyQDEwJ119IHJlZnVzZWQ9e21ldHJpY3NbJ3JlZnVzZWRfcmF0ZSddfSAiCiAgICAgICAgICAgICAgZiJwNTA9e21ldHJpY3NbJ3A1MF9tcyddfW1zIHA5NT17bWV0cmljc1sncDk1X21zJ119bXMiKQogICAgICAgIGlmIG1pc3NlczoKICAgICAgICAgICAgcHJpbnQoZiIgIOacquWRveS4rSB7bGVuKG1pc3Nlcyl9IOadoe+8jOWJjSA477yaIikKICAgICAgICAgICAgZm9yIG0gaW4gbWlzc2VzWzo4XToKICAgICAgICAgICAgICAgIHByaW50KGYiICAgIHttWydxJ119ICBnb2xkPXttWydnb2xkJ119ICB0b3A9e21bJ3RvcCddWzoyXX0iKQogICAgICAgIGlmIG92ZXJfcmVmdXNlZDoKICAgICAgICAgICAgcHJpbnQoZiIgIOivr+aLkiB7bGVuKG92ZXJfcmVmdXNlZCl9IOadoe+8jOWJjSA477yae292ZXJfcmVmdXNlZFs6OF19IikKICAgIHJldHVybiBvdXQKCgpkZWYgbWFpbigpIC0+IE5vbmU6CiAgICBhcCA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKCkKICAgIGFwLmFkZF9hcmd1bWVudCgiLS1lbmdpbmUiLCBkZWZhdWx0PSJuZXciLCBjaG9pY2VzPVsibmV3IiwgIm9sZCJdKQogICAgYXAuYWRkX2FyZ3VtZW50KCItLXNldHMiLCBkZWZhdWx0PSJwcmVzZXRzLHBhcmFwaHJhc2UsbmVnYXRpdmVzIikKICAgIGFwLmFkZF9hcmd1bWVudCgiLS1rIiwgdHlwZT1pbnQsIGRlZmF1bHQ9NSkKICAgIGFwLmFkZF9hcmd1bWVudCgiLS1hbnN3ZXIiLCBhY3Rpb249InN0b3JlX3RydWUiKQogICAgYXAuYWRkX2FyZ3VtZW50KCItLW91dCIsIGRlZmF1bHQ9IiIpCiAgICBhcmdzID0gYXAucGFyc2VfYXJncygpCiAgICByZXMgPSBldmFsdWF0ZShhcmdzLmVuZ2luZSwgW3MgZm9yIHMgaW4gYXJncy5zZXRzLnNwbGl0KCIsIikgaWYgc10sIGFyZ3MuaywgYXJncy5hbnN3ZXIpCiAgICBvdXQgPSBQYXRoKGFyZ3Mub3V0KSBpZiBhcmdzLm91dCBlbHNlIFJPT1QgLyAiX2V2YWwiIC8gIm91dCIgLyBmImV2YWxfe2FyZ3MuZW5naW5lfS5qc29uIgogICAgb3V0LnBhcmVudC5ta2RpcihwYXJlbnRzPVRydWUsIGV4aXN0X29rPVRydWUpCiAgICBvdXQud3JpdGVfdGV4dChqc29uLmR1bXBzKHJlcywgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSksIGVuY29kaW5nPSJ1dGYtOCIpCiAgICBwcmludChmIlxuLT4ge291dH0iKQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBtYWluKCkK
+"""评测：新检索器 vs 旧 `app.rank()`。
+
+    python -m _eval.run_eval --engine new --sets presets,paraphrase,negatives
+    python -m _eval.run_eval --engine old --sets presets        # 基线
+
+指标：
+    hit@1 / hit@5   —— gold 条目是否落在前 1 / 前 5
+    MRR@10          —— 平均倒数排名
+    回答率          —— 系统判定「可答」的比例（正例集会因此暴露误拒）
+    拒答率          —— 负例集被判定「不可答」的比例
+"""
+from __future__ import annotations
+
+import argparse
+import json
+import statistics
+import time
+from pathlib import Path
+from typing import Any
+
+ROOT = Path(__file__).resolve().parents[1]
+SETS = ROOT / "_eval" / "sets"
+
+
+def load_set(name: str) -> list[dict[str, Any]]:
+    if name == "paraphrase":
+        rows = []
+        for ln in (SETS / "paraphrase.tsv").read_text(encoding="utf-8").splitlines():
+            ln = ln.strip()
+            if not ln or ln.startswith("#") or "\t" not in ln:
+                continue
+            iid, q = ln.split("\t", 1)
+            rows.append({"q": q.strip(), "gold": [iid.strip()], "source": "paraphrase"})
+        return rows
+    path = SETS / f"{name}.jsonl"
+    return [json.loads(ln) for ln in path.read_text(encoding="utf-8").splitlines() if ln.strip()]
+
+
+def evaluate(engine: str, sets: list[str], k: int = 5, answer_check: bool = False) -> dict[str, Any]:
+    if engine == "old":
+        from _eval import stub_fastapi
+        stub_fastapi.install()
+        import app as old_app
+        def run(q: str):
+            ranked = old_app.rank(q)
+            ids = [it["id"] for it, _ in ranked[:k]]
+            refused = not ranked or ranked[0][1] < old_app.MATCH_THRESHOLD
+            return ids, refused, None
+    else:
+        from retrieval import Engine
+        eng = Engine.load()
+        def run(q: str):
+            res = eng.search(q, k=k, with_answer=answer_check)
+            return [h.id for h in res.hits], res.refused, res.answer
+
+    out: dict[str, Any] = {"engine": engine, "k": k, "sets": {}}
+    for name in sets:
+        rows = load_set(name)
+        n = len(rows)
+        hits1 = hits5 = 0
+        mrr = 0.0
+        answered = 0
+        refused = 0
+        lat: list[float] = []
+        misses: list[dict[str, Any]] = []
+        over_refused: list[str] = []
+        for r in rows:
+            t = time.perf_counter()
+            ids, ref, ans = run(r["q"])
+            dt = (time.perf_counter() - t) * 1000
+            lat.append(dt)
+            refused += int(ref)
+            answered += int(not ref)
+            if r["gold"]:
+                pos = next((i for i, x in enumerate(ids) if x in r["gold"]), None)
+                if pos == 0:
+                    hits1 += 1
+                if pos is not None and pos < k:
+                    hits5 += 1
+                if pos is not None and pos < 10:
+                    mrr += 1.0 / (pos + 1)
+                if pos is None or pos >= k:
+                    misses.append({"q": r["q"], "gold": r["gold"], "top": ids[:3]})
+                    if ref:
+                        over_refused.append(r["q"])
+                elif ref and pos == 0:
+                    over_refused.append(r["q"])
+        metrics = {
+            "n": n,
+            "hit@1": round(hits1 / n, 4),
+            f"hit@{k}": round(hits5 / n, 4),
+            "mrr@10": round(mrr / n, 4),
+            "answered_rate": round(answered / n, 4),
+            "refused_rate": round(refused / n, 4),
+            "p50_ms": round(statistics.median(lat), 1),
+            "p95_ms": round(sorted(lat)[int(n * 0.95)], 1),
+            "misses": misses[:30],
+            "over_refused": over_refused[:30],
+        }
+        out["sets"][name] = metrics
+        print(f"\n[{engine}] {name}: n={n} hit@1={metrics['hit@1']} hit@{k}={metrics[f'hit@{k}']} "
+              f"mrr={metrics['mrr@10']} refused={metrics['refused_rate']} "
+              f"p50={metrics['p50_ms']}ms p95={metrics['p95_ms']}ms")
+        if misses:
+            print(f"  未命中 {len(misses)} 条，前 8：")
+            for m in misses[:8]:
+                print(f"    {m['q']}  gold={m['gold']}  top={m['top'][:2]}")
+        if over_refused:
+            print(f"  误拒 {len(over_refused)} 条，前 8：{over_refused[:8]}")
+    return out
+
+
+def main() -> None:
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--engine", default="new", choices=["new", "old"])
+    ap.add_argument("--sets", default="presets,paraphrase,negatives")
+    ap.add_argument("--k", type=int, default=5)
+    ap.add_argument("--answer", action="store_true")
+    ap.add_argument("--out", default="")
+    args = ap.parse_args()
+    res = evaluate(args.engine, [s for s in args.sets.split(",") if s], args.k, args.answer)
+    out = Path(args.out) if args.out else ROOT / "_eval" / "out" / f"eval_{args.engine}.json"
+    out.parent.mkdir(parents=True, exist_ok=True)
+    out.write_text(json.dumps(res, ensure_ascii=False, indent=1), encoding="utf-8")
+    print(f"\n-> {out}")
+
+
+if __name__ == "__main__":
+    main()

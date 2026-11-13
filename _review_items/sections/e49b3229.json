@@ -1,1 +1,152 @@
-ewogICJrZXkiOiAiZTQ5YjMyMjkiLAogICJ0aXRsZSI6ICLlkI7li6Tkv53pmpzlpITnroDku4vvvIjnn6Xor4blupMt5ZCO5Yuk5L+d6Zqc5aSE77yJIiwKICAidHJ1bmNhdGVkIjogZmFsc2UsCiAgInNlY3Rpb25zIjogWwogICAgewogICAgICAibm8iOiAi566A5LuLIiwKICAgICAgImhlYWRpbmciOiAi5ZCO5Yuk5L+d6Zqc5aSE566A5LuLIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbMSwgMTZdLAogICAgICAiaXRlbXMiOiBbInJ1bGUtZTQ5YjMyMjkiLCAicHQtMGIzMzY5ZDJmYSIsICJwdC03NTNlZTMwYjRhIiwgInB0LWVhMzdhZjE4OGIiXSwKICAgICAgImNoYXJzIjogMzYzCiAgICB9LAogICAgewogICAgICAibm8iOiAi5YaF6K6+56eR5a6kIiwKICAgICAgImhlYWRpbmciOiAi5YaF6K6+56eR5a6k77yI5py65p6E77yJ6IGM6IO95LiO5Yqe5YWs5Zyw54K5IiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgICAgImxpbmVzIjogWzE3LCA4OV0sCiAgICAgICJpdGVtcyI6IFsicHQtZWE2MGY4OTkzNyIsICJwdC0zMjhjOWVhODMwIiwgInB0LTA1NDlhMjMzNmMiLCAicHQtMmVhNWZhMDM1NiIsICJwdC04Yzg3ZGM3OTQ0Il0sCiAgICAgICJjaGFycyI6IDE2NTkKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLnu7zlkIjlip7lhazlrqQiLAogICAgICAiaGVhZGluZyI6ICLnu7zlkIjlip7lhazlrqQiLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFsxNywgMjddLAogICAgICAiaXRlbXMiOiBbInB0LTQwYjJlOGEyYTEiLCAicHQtZDIxMzJjYTg5YiJdLAogICAgICAiY2hhcnMiOiAyNTYKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLmnI3liqHnm5HnrqHkuK3lv4MiLAogICAgICAiaGVhZGluZyI6ICLmnI3liqHnm5HnrqHkuK3lv4MiLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFsyOCwgMzJdLAogICAgICAiaXRlbXMiOiBbXSwKICAgICAgImNoYXJzIjogMTAyCiAgICB9LAogICAgewogICAgICAibm8iOiAi5qCh5Zut566h55CG5Lit5b+DIiwKICAgICAgImhlYWRpbmciOiAi5qCh5Zut566h55CG5Lit5b+DIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbMzMsIDQ0XSwKICAgICAgIml0ZW1zIjogWyJwdC1kMGM1ZTY0ZGJlIl0sCiAgICAgICJjaGFycyI6IDI4MAogICAgfSwKICAgIHsKICAgICAgIm5vIjogIuiKguiDveS4jui/kOihjOS/nemanOS4reW/gyIsCiAgICAgICJoZWFkaW5nIjogIuiKguiDveS4jui/kOihjOS/nemanOS4reW/gyIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzQ1LCA1NV0sCiAgICAgICJpdGVtcyI6IFsicHQtNjY0MzIwMzdhYyJdLAogICAgICAiY2hhcnMiOiAyNTkKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLlt6XnqIvnrqHnkIbkuI7nm5HnrqHkuK3lv4MiLAogICAgICAiaGVhZGluZyI6ICLlt6XnqIvnrqHnkIbkuI7nm5HnrqHkuK3lv4MiLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFs1NiwgNjNdLAogICAgICAiaXRlbXMiOiBbInB0LTkzZjA1YzkxNTgiXSwKICAgICAgImNoYXJzIjogMTc1CiAgICB9LAogICAgewogICAgICAibm8iOiAi5a625bGe5Yy6566h55CG5Yqe5YWs5a6kIiwKICAgICAgImhlYWRpbmciOiAi5a625bGe5Yy6566h55CG5Yqe5YWs5a6kIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbNjQsIDcxXSwKICAgICAgIml0ZW1zIjogWyJwdC01MjZiNTgwMDg4IiwgInB0LWEwNTgyMDc2ZmMiXSwKICAgICAgImNoYXJzIjogMTc1CiAgICB9LAogICAgewogICAgICAibm8iOiAi5a2m55Sf5YWs5a+T5pyN5Yqh5Lit5b+DIiwKICAgICAgImhlYWRpbmciOiAi5a2m55Sf5YWs5a+T5pyN5Yqh5Lit5b+DIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbNzIsIDc4XSwKICAgICAgIml0ZW1zIjogW10sCiAgICAgICJjaGFycyI6IDE2NQogICAgfSwKICAgIHsKICAgICAgIm5vIjogIumlrumjn+acjeWKoeS4reW/gyIsCiAgICAgICJoZWFkaW5nIjogIumlrumjn+acjeWKoeS4reW/gyIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzc5LCA4NF0sCiAgICAgICJpdGVtcyI6IFtdLAogICAgICAiY2hhcnMiOiAxMTQKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLmnI3liqHogYzotKPpl67nrZQiLAogICAgICAiaGVhZGluZyI6ICLlkI7li6Tkv53pmpzlpITmnI3liqHnmoTogYzotKPmmK/ku4DkuYjvvJ8iLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFs4NSwgODldLAogICAgICAiaXRlbXMiOiBbInB0LTRhMGE4NTQ2ZjYiXSwKICAgICAgImNoYXJzIjogMTMzCiAgICB9LAogICAgewogICAgICAibm8iOiAi5b6u5L+h5bmz5Y+wIiwKICAgICAgImhlYWRpbmciOiAi5ZCO5Yuk5b6u5L+h5YWs5LyX5bmz5Y+wIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbOTAsIDk2XSwKICAgICAgIml0ZW1zIjogWyJwdC1hNmJhNTAwNjQ1IiwgInB0LThiZjE4NzVjZDkiLCAicHQtYzQyNTQ3ZDA0YSJdLAogICAgICAiY2hhcnMiOiAxNTMKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLnu7/oibLmoKHlm60iLAogICAgICAiaGVhZGluZyI6ICLmnoTlu7rigJznu7/oibLmoKHlm63igJ0iLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFs5NywgMTExXSwKICAgICAgIml0ZW1zIjogW10sCiAgICAgICJjaGFycyI6IDI4MQogICAgfSwKICAgIHsKICAgICAgIm5vIjogIu+8iOS4gO+8iSIsCiAgICAgICJoZWFkaW5nIjogIui3teihjOKAnOWFieebmOihjOWKqOKAnSIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzk4LCAxMDBdLAogICAgICAiaXRlbXMiOiBbInB0LTI5MTgwZDgwNTUiXSwKICAgICAgImNoYXJzIjogNTgKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLvvIjkuozvvIkiLAogICAgICAiaGVhZGluZyI6ICLoioLnuqbog73mupDvvIzkvY7norPnlJ/mtLsiLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFsxMDEsIDEwNF0sCiAgICAgICJpdGVtcyI6IFsicHQtZDg5OTk5N2U5OCJdLAogICAgICAiY2hhcnMiOiA3NwogICAgfSwKICAgIHsKICAgICAgIm5vIjogIu+8iOS4ie+8iSIsCiAgICAgICJoZWFkaW5nIjogIuiHquinieW8gOWxleeIseWbveWNq+eUn+i/kOWKqCIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzEwNSwgMTA3XSwKICAgICAgIml0ZW1zIjogWyJwdC1mNDllZDI2NzZiIl0sCiAgICAgICJjaGFycyI6IDUxCiAgICB9LAogICAgewogICAgICAibm8iOiAi77yI5Zub77yJIiwKICAgICAgImhlYWRpbmciOiAi5YGa5aW95Z6D5Zy+5YiG57G7IiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbMTA4LCAxMTFdLAogICAgICAiaXRlbXMiOiBbInB0LWUxZjNlZDBkNjciXSwKICAgICAgImNoYXJzIjogODcKICAgIH0KICBdLAogICJpdGVtcyI6IFsicnVsZS1lNDliMzIyOSIsICJwdC1lYTM3YWYxODhiIiwgInB0LWVhNjBmODk5MzciLCAicHQtMzI4YzllYTgzMCIsICJwdC1kMGM1ZTY0ZGJlIiwgInB0LTA1NDlhMjMzNmMiLCAicHQtYTA1ODIwNzZmYyIsICJwdC0yZWE1ZmEwMzU2IiwgInB0LThjODdkYzc5NDQiLCAicHQtYTZiYTUwMDY0NSIsICJwdC04YmYxODc1Y2Q5IiwgInB0LWUxZjNlZDBkNjciLCAicHQtMGIzMzY5ZDJmYSIsICJwdC03NTNlZTMwYjRhIiwgInB0LTQwYjJlOGEyYTEiLCAicHQtZDIxMzJjYTg5YiIsICJwdC02NjQzMjAzN2FjIiwgInB0LTkzZjA1YzkxNTgiLCAicHQtNTI2YjU4MDA4OCIsICJwdC00YTBhODU0NmY2IiwgInB0LWM0MjU0N2QwNGEiLCAicHQtMjkxODBkODA1NSIsICJwdC1kODk5OTk3ZTk4IiwgInB0LWY0OWVkMjY3NmIiXSwKICAibm90ZXMiOiBbCiAgICAi5pys5Lu25piv55+l6K+G5bqTIGRvY3gg5oq95Y+W55qE44CM5ZCO5Yuk5L+d6Zqc5aSE44CN5LuL57uN6aG177ya5q+P5Liq5YaF6K6+5py65p6E6YO955So54us56uL5LiA6KGM5YGa5bCP5qCH6aKY77yI57u85ZCI5Yqe5YWs5a6k44CB5pyN5Yqh55uR566h5Lit5b+D44CB5qCh5Zut566h55CG5Lit5b+D44CB6IqC6IO95LiO6L+Q6KGM5L+d6Zqc5Lit5b+D44CB5bel56iL566h55CG5LiO55uR566h5Lit5b+D44CB5a625bGe5Yy6566h55CG5Yqe5YWs5a6k44CB5a2m55Sf5YWs5a+T5pyN5Yqh5Lit5b+D44CB6aWu6aOf5pyN5Yqh5Lit5b+D77yJ77yM6L+Z5Lqb5qCH6aKY6YO95Zyo5pys6IqC6KGM5Yy66Ze05YaF6YCQ5a2X5Y+v5p+l77yM5YWo6YOo5qCHIGF1dGhvcuOAgiIsCiAgICAi44CM77yI5LiA77yJ6Le16KGM4oCc5YWJ55uY6KGM5Yqo4oCd44CN562JIDQg5bCP6IqC5piv44CM5p6E5bu64oCc57u/6Imy5qCh5Zut4oCd44CN5LiL55qE55yf5a2Q6IqC77yM54i26IqCIDk34oCTMTExIOWujOaVtOWMheS9jyA5OOKAkzExMe+8m+OAjOWGheiuvuenkeWupO+8iOacuuaehO+8ieiBjOiDveS4juWKnuWFrOWcsOeCueOAjeeItuiKgiAxN+KAkzg5IOWMheS9jyA5IOS4quacuuaehOWtkOiKgu+8iOe7vOWQiOWKnuWFrOWupOS4jueItuiKguWQjOi1t+S6juesrCAxNyDooYzvvIzlsZ7nnJ/ltYzlpZfvvInjgIIiLAogICAgIueItuiKgiAxN+KAkzg5IOaJv+aLheeahOiQveeCue+8mnB0LWVhNjBmODk5MzfjgIFwdC0zMjhjOWVhODMw44CBcHQtMDU0OWEyMzM2Y+OAgXB0LTJlYTVmYTAzNTbjgIFwdC04Yzg3ZGM3OTQ0IOeahOW8leaWh+mDveS7peOAjOWKnuWFrOWcsOWdgO+8muKApuOAjeW8gOWktO+8jOiAjOaKveWPluaKiuS4iuS4gOacuuaehOeahOWKnuWFrOWcsOWdgOihjOS4juS4i+S4gOacuuaehOeahOagh+mimOihjOi/nuaIkOS4gOWPpe+8iOWmguOAjOKApuWKnuWFrOeUteivne+8mjY1NzgzMDE45pyN5Yqh55uR566h5Lit5b+D6YOo6Zeo6IGM6IO977ya4oCm44CN77yJ77yM5byV5paH6Leo5LqG5Lik5Liq5a2Q6IqC6L6555WM77yM5pWF57uf5LiA5YiX5Zyo5YyF5L2P5pW05q6155qE54i26IqC77yM5LiN56Gs5aGe6L+b5p+Q5LiA5Liq5py65p6E5a2Q6IqC44CCIiwKICAgICJwdC1hMDU4MjA3NmZjIOeahOW8leaWh+OAjOWKnuWFrOWcsOWdgO+8muagoeWGhTnlj7fmpbwx5Y2V5YWDMTAx5Y2X5a625bGe5Yy65a625aeU5Lya55S16K+d77yaNjU34oCm44CN5Lik6KGM6YO95Zyo5a625bGe5Yy6566h55CG5Yqe5YWs5a6k77yINjTigJM3Me+8ieWGhe+8jOaVheebtOaOpeiQveWcqOivpeWtkOiKgu+8jOS4jei/m+eItuiKguOAgiIsCiAgICAicnVsZS1lNDliMzIyOe+8iOefpeivhuW6ky3lkI7li6Tkv53pmpzlpITvvInmmK/mlofmoaPnuqfmnaHnm67jgIHml6DlvJXmlofvvIzmjInnuqblrprokL3lnKjmpoLov7DmgKfnmoTjgIzlkI7li6Tkv53pmpzlpITnroDku4vjgI3kuIDoioLlubblkIzml7bliJfov5vmlofmoaPnuqcgaXRlbXPjgIIiLAogICAgIuacjeWKoeebkeeuoeS4reW/g+OAgeWtpueUn+WFrOWvk+acjeWKoeS4reW/g+OAgemlrumjn+acjeWKoeS4reW/g+OAgeaehOW7uuKAnOe7v+iJsuagoeWbreKAneeItuiKguWGheayoeacieWvueW6lOadoeebruW8leaWh++8jGl0ZW1zIOS4uuepuu+8m+acrOS7tuihjOWwvuato+W4uO+8iFxcbu+8ie+8jOaXoOmhteeggeihjOOAgeaXoOihqOagvOerluaOkuOAgiIKICBdCn0K
+{
+  "key": "e49b3229",
+  "title": "后勤保障处简介（知识库-后勤保障处）",
+  "truncated": false,
+  "sections": [
+    {
+      "no": "简介",
+      "heading": "后勤保障处简介",
+      "heading_kind": "author",
+      "lines": [1, 16],
+      "items": ["rule-e49b3229", "pt-0b3369d2fa", "pt-753ee30b4a", "pt-ea37af188b"],
+      "chars": 363
+    },
+    {
+      "no": "内设科室",
+      "heading": "内设科室（机构）职能与办公地点",
+      "heading_kind": "derived",
+      "lines": [17, 89],
+      "items": ["pt-ea60f89937", "pt-328c9ea830", "pt-0549a2336c", "pt-2ea5fa0356", "pt-8c87dc7944"],
+      "chars": 1659
+    },
+    {
+      "no": "综合办公室",
+      "heading": "综合办公室",
+      "heading_kind": "author",
+      "lines": [17, 27],
+      "items": ["pt-40b2e8a2a1", "pt-d2132ca89b"],
+      "chars": 256
+    },
+    {
+      "no": "服务监管中心",
+      "heading": "服务监管中心",
+      "heading_kind": "author",
+      "lines": [28, 32],
+      "items": [],
+      "chars": 102
+    },
+    {
+      "no": "校园管理中心",
+      "heading": "校园管理中心",
+      "heading_kind": "author",
+      "lines": [33, 44],
+      "items": ["pt-d0c5e64dbe"],
+      "chars": 280
+    },
+    {
+      "no": "节能与运行保障中心",
+      "heading": "节能与运行保障中心",
+      "heading_kind": "author",
+      "lines": [45, 55],
+      "items": ["pt-66432037ac"],
+      "chars": 259
+    },
+    {
+      "no": "工程管理与监管中心",
+      "heading": "工程管理与监管中心",
+      "heading_kind": "author",
+      "lines": [56, 63],
+      "items": ["pt-93f05c9158"],
+      "chars": 175
+    },
+    {
+      "no": "家属区管理办公室",
+      "heading": "家属区管理办公室",
+      "heading_kind": "author",
+      "lines": [64, 71],
+      "items": ["pt-526b580088", "pt-a0582076fc"],
+      "chars": 175
+    },
+    {
+      "no": "学生公寓服务中心",
+      "heading": "学生公寓服务中心",
+      "heading_kind": "author",
+      "lines": [72, 78],
+      "items": [],
+      "chars": 165
+    },
+    {
+      "no": "饮食服务中心",
+      "heading": "饮食服务中心",
+      "heading_kind": "author",
+      "lines": [79, 84],
+      "items": [],
+      "chars": 114
+    },
+    {
+      "no": "服务职责问答",
+      "heading": "后勤保障处服务的职责是什么？",
+      "heading_kind": "author",
+      "lines": [85, 89],
+      "items": ["pt-4a0a8546f6"],
+      "chars": 133
+    },
+    {
+      "no": "微信平台",
+      "heading": "后勤微信公众平台",
+      "heading_kind": "author",
+      "lines": [90, 96],
+      "items": ["pt-a6ba500645", "pt-8bf1875cd9", "pt-c42547d04a"],
+      "chars": 153
+    },
+    {
+      "no": "绿色校园",
+      "heading": "构建“绿色校园”",
+      "heading_kind": "author",
+      "lines": [97, 111],
+      "items": [],
+      "chars": 281
+    },
+    {
+      "no": "（一）",
+      "heading": "践行“光盘行动”",
+      "heading_kind": "author",
+      "lines": [98, 100],
+      "items": ["pt-29180d8055"],
+      "chars": 58
+    },
+    {
+      "no": "（二）",
+      "heading": "节约能源，低碳生活",
+      "heading_kind": "author",
+      "lines": [101, 104],
+      "items": ["pt-d899997e98"],
+      "chars": 77
+    },
+    {
+      "no": "（三）",
+      "heading": "自觉开展爱国卫生运动",
+      "heading_kind": "author",
+      "lines": [105, 107],
+      "items": ["pt-f49ed2676b"],
+      "chars": 51
+    },
+    {
+      "no": "（四）",
+      "heading": "做好垃圾分类",
+      "heading_kind": "author",
+      "lines": [108, 111],
+      "items": ["pt-e1f3ed0d67"],
+      "chars": 87
+    }
+  ],
+  "items": ["rule-e49b3229", "pt-ea37af188b", "pt-ea60f89937", "pt-328c9ea830", "pt-d0c5e64dbe", "pt-0549a2336c", "pt-a0582076fc", "pt-2ea5fa0356", "pt-8c87dc7944", "pt-a6ba500645", "pt-8bf1875cd9", "pt-e1f3ed0d67", "pt-0b3369d2fa", "pt-753ee30b4a", "pt-40b2e8a2a1", "pt-d2132ca89b", "pt-66432037ac", "pt-93f05c9158", "pt-526b580088", "pt-4a0a8546f6", "pt-c42547d04a", "pt-29180d8055", "pt-d899997e98", "pt-f49ed2676b"],
+  "notes": [
+    "本件是知识库 docx 抽取的「后勤保障处」介绍页：每个内设机构都用独立一行做小标题（综合办公室、服务监管中心、校园管理中心、节能与运行保障中心、工程管理与监管中心、家属区管理办公室、学生公寓服务中心、饮食服务中心），这些标题都在本节行区间内逐字可查，全部标 author。",
+    "「（一）践行“光盘行动”」等 4 小节是「构建“绿色校园”」下的真子节，父节 97–111 完整包住 98–111；「内设科室（机构）职能与办公地点」父节 17–89 包住 9 个机构子节（综合办公室与父节同起于第 17 行，属真嵌套）。",
+    "父节 17–89 承担的落点：pt-ea60f89937、pt-328c9ea830、pt-0549a2336c、pt-2ea5fa0356、pt-8c87dc7944 的引文都以「办公地址：…」开头，而抽取把上一机构的办公地址行与下一机构的标题行连成一句（如「…办公电话：65783018服务监管中心部门职能：…」），引文跨了两个子节边界，故统一列在包住整段的父节，不硬塞进某一个机构子节。",
+    "pt-a0582076fc 的引文「办公地址：校内9号楼1单元101南家属区家委会电话：657…」两行都在家属区管理办公室（64–71）内，故直接落在该子节，不进父节。",
+    "rule-e49b3229（知识库-后勤保障处）是文档级条目、无引文，按约定落在概述性的「后勤保障处简介」一节并同时列进文档级 items。",
+    "服务监管中心、学生公寓服务中心、饮食服务中心、构建“绿色校园”父节内没有对应条目引文，items 为空；本件行尾正常（\\n），无页码行、无表格竖排。"
+  ]
+}

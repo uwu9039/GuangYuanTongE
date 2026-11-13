@@ -1,1 +1,149 @@
-ewogImtleSI6ICIyMDI2MDkxOS1jMjA2NWEyNzQwMTIiLAogInRpdGxlIjogIumZouS8muaLm+aWsHzkv6Hmga/kvKDmkq3lrabpmaLlrabnlJ/kvJrvvIzpgoDkvaDlhbHotbTkuIDlnLrmlbDmmbrml7bku6PnmoTliJvmhI/ov5zlvoEiLAogInRydW5jYXRlZCI6IGZhbHNlLAogInNlY3Rpb25zIjogWwogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIumhtemdouahhuaetu+8iOmhteWktOagh+mimOOAgeWvvOiIquagj+ebruS4jumdouWMheWxke+8iSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFsKICAgIDEsCiAgICAzNAogICBdLAogICAiaXRlbXMiOiBbCiAgICAicHQtYjFlMDFkZjc3NSIKICAgXSwKICAgImNoYXJzIjogMzM4CiAgfSwKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLlr7zor63vvIjlrabpmaLmpoLlhrXkuI7lrabnlJ/kvJrpgoDor7fvvIkiLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbCiAgICAzNSwKICAgIDM2CiAgIF0sCiAgICJpdGVtcyI6IFsKICAgICJwdC1iZmI5ZGZmYTk3IgogICBdLAogICAiY2hhcnMiOiAxODIKICB9LAogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIuaLm+aWsOmDqOmXqOWPiuiBjOi0o+S7i+e7jSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWwogICAgMzcsCiAgICA0NwogICBdLAogICAiaXRlbXMiOiBbCiAgICAicHQtMjZjY2YzOTg1OSIsCiAgICAicHQtZWFhYWViNTEzYiIsCiAgICAicHQtYTdlMmZlZjZkNCIsCiAgICAicHQtNzZkZDMyMzhiMSIKICAgXSwKICAgImNoYXJzIjogMzY2CiAgfSwKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLlnKjov5nph4zvvIzkvaDlsIbmlLbojrfku4DkuYjvvJ8iLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsKICAgIDQ4LAogICAgNTIKICAgXSwKICAgIml0ZW1zIjogW10sCiAgICJjaGFycyI6IDIwNQogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi57K+5b2p556s6Ze0IiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbCiAgICA1MywKICAgIDY2CiAgIF0sCiAgICJpdGVtcyI6IFsKICAgICJwdC1hZWRkYmZhZTdkIiwKICAgICJwdC1kZGU2Y2JjMDg0IiwKICAgICJwdC0xMzY3NjNmZWNkIiwKICAgICJwdC1mYjdhOTJlYjMwIiwKICAgICJwdC1kNWI5ZDkwMDM0IgogICBdLAogICAiY2hhcnMiOiA4MDMKICB9LAogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIuaKpeWQjeaWueW8j+S4juaLm+aWsOa1geeoiyIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWwogICAgNjcsCiAgICA3MAogICBdLAogICAiaXRlbXMiOiBbCiAgICAicHQtMmI3NzI2NDUzMCIKICAgXSwKICAgImNoYXJzIjogMjA0CiAgfSwKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLnu5Por63vvIjmnJ/lvoXliqDlhaXvvIkiLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbCiAgICA3MSwKICAgIDcxCiAgIF0sCiAgICJpdGVtcyI6IFsKICAgICJwdC05NGM3MzY5OTJjIgogICBdLAogICAiY2hhcnMiOiA2NQogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi5Y+L5oOF6ZO+5o6lIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWwogICAgNzIsCiAgICA4MgogICBdLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogMTk1CiAgfSwKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLpobXohJrvvIjogZTns7vmlrnlvI/kuI7niYjmnYPvvIkiLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbCiAgICA4MywKICAgIDg5CiAgIF0sCiAgICJpdGVtcyI6IFtdLAogICAiY2hhcnMiOiAyMTAKICB9CiBdLAogIml0ZW1zIjogWwogICJwdC1iMWUwMWRmNzc1IiwKICAicHQtYmZiOWRmZmE5NyIsCiAgInB0LTI2Y2NmMzk4NTkiLAogICJwdC1lYWFhZWI1MTNiIiwKICAicHQtYTdlMmZlZjZkNCIsCiAgInB0LTc2ZGQzMjM4YjEiLAogICJwdC1hZWRkYmZhZTdkIiwKICAicHQtZGRlNmNiYzA4NCIsCiAgInB0LTEzNjc2M2ZlY2QiLAogICJwdC1mYjdhOTJlYjMwIiwKICAicHQtZDViOWQ5MDAzNCIsCiAgInB0LTJiNzcyNjQ1MzAiLAogICJwdC05NGM3MzY5OTJjIgogXSwKICJub3RlcyI6IFsKICAi572R6aG15oq95Y+W5Lu277ya56ysIDEg6KGM5piv5rWP6KeI5Zmo5qCH6aKY77yM56ysIDLigJQzMCDooYzmmK/mqKHmnb/pobXlpLTkuI7lhajnq5nlr7zoiKrvvIjpppbpobXvvI/lhbPkuo7miJHku6zvvI/lrabogIXpo47ph4fvvI/lrabnlJ/ln7nlhbvvvI/lrabmnK/noJTnqbbvvI/lhZrnvqTlt6XkvZzvvI/lm73pmYXlkIjkvZznrYnmoI/nm67lj4rkuKTlvKDmqKHmnb/lm77vvInvvIznrKwgMzHigJQzMiDooYzmmK/jgIzpgJrnn6XlhazlkYrjgI3moI/nm67lkI3kuI7jgIzpppbpobUg6YCa55+l5YWs5ZGK44CN6Z2i5YyF5bGR77yM56ysIDMzIOihjOato+aWh+agh+mimOS4juesrCAxIOihjOmHjeWkjeOAgeesrCAzNCDooYzmmK/jgIzlj5HluIPml7bpl7TvvJoyMDI2LTA5LTE5IOa1j+iniOasoeaVsO+8mjEw44CN77yM5LiA5bm25bm25YWl44CM6aG16Z2i5qGG5p6244CN5LiA6IqC77yI5ZCm5YiZ6K+l6IqC6aaW6KGM5Lya5piv6YeN5aSN55qE5qCH6aKY6KGM77yJ44CCIiwKICAi5q2j5paH5bCP5qCH6aKYIDQg5aSE77yM5Y6f5qC35L+d55WZ5bm26K6wIGF1dGhvcu+8muesrCAzNyDooYzjgIzmi5vmlrDpg6jpl6jlj4rogYzotKPku4vnu43jgI3jgIHnrKwgNDgg6KGM44CM5Zyo6L+Z6YeM77yM5L2g5bCG5pS26I635LuA5LmI77yf44CN44CB56ysIDUzIOihjOOAjOeyvuW9qeeerOmXtOOAjeOAgeesrCA2NyDooYzjgIzmiqXlkI3mlrnlvI/kuI7mi5vmlrDmtYHnqIvjgI3jgIIiLAogICLnrKwgMzjigJQ0NyDooYzmmK/kupTkuKrpg6jpl6jvvIjmlofkvZPmtLvliqjpg6jvvI/nkIborrrlrqPkvKDpg6jvvI/ml6XluLjkuovliqHpg6jvvI/liJvmlrDlrp7ot7Xpg6jvvI/mnKznp5HnlJ/kuovliqHpg6jvvIjku4Xmi5vmlLbmnKznp5HnlJ/vvInvvInnmoTlkI3np7DooYzvvIvogYzotKPmj4/ov7DooYzvvIzpg6jpl6jlkI3mmK/lkIznuqflubbliJfnmoTliJfkuL7pobnjgIHkuI3mmK/nq6DoioLmoIfpopjvvIzmlYXmlbTmrrXlubblhaXjgIzmi5vmlrDpg6jpl6jlj4rogYzotKPku4vnu43jgI3kuIDoioLvvIzmnKrmjInpg6jpl6jmi4blrZDoioLvvJvmnaHnm64gcHQtMjZjY2YzOTg1OSDnmoTlvJXmlofku47nrKwgMzcg6KGM55qE5bCP5qCH6aKY6LW36L+e6LSv5Yiw56ysIDM5IOihjO+8jOaVheivpeiKgueahCBsaW5lcyDlv4Xpobvku47nrKwgMzcg6KGM6LW344CCIiwKICAi56ysIDUz4oCUNjYg6KGM44CM57K+5b2p556s6Ze044CN5pivIDYg57uE44CMW+mZhOS7tl0g5Zu+54mH6Lev5b6E77yL5Zu+5rOo44CN5Lqk5pu/5o6S5YiX77yI56ysIDU0LzU2LzU4LzYwLzYyLzYzLzY1IOihjOS4uumZhOS7tuihjO+8jOesrCA1NS81Ny81OS82MS82NC82NiDooYzkuLrlm77ms6jvvInvvIzmjInmlbToioLlpITnkIbjgIHkuI3noazmi4bvvJvmnaHnm67lj6ropobnm5blhbbkuK0gNSDmnaHlm77ms6jvvIzjgIzigJzplZzlpLToh7TmlazlirPliqjogIXigJ3lvbHlg4/lvoHpm4bkvZzlk4HjgI3vvIjnrKwgNjYg6KGM77yJ5peg5a+55bqU5p2h55uu44CCIiwKICAi56ysIDcxIOihjOaYr+eLrOeri+aIkOauteeahOe7k+ivre+8iOOAjOWcqOi/meeJh+WFhea7oeW4jOacm+S4juWIm+aEj+eahOWkqeWcsOmHjOKApuKApuacn+W+heS9oOeahOWKoOWFpe+8geOAje+8ie+8jOS4juOAjOaKpeWQjeaWueW8j+S4juaLm+aWsOa1geeoi+OAjeS4u+mimOS4jeWQjO+8jOWNleWIl+OAjOe7k+ivreOAjeS4gOiKguOAgiIsCiAgIuesrCA3MuKAlDczIOihjOaYr+aooeadvyBsb2dvIOWbvu+8iFvpmYTku7ZdIOihjO+8ie+8jOS4juesrCA3NOKAlDgyIOihjOOAjOWPi+aDhemTvuaOpeOAjeagj+ebruOAgeesrCA4M+KAlDg5IOihjOmhteiEmu+8iOWcsOWdgO+8j+mCrue8lu+8j+eJiOadg+aJgOacie+8j+S6rElDUCDlpIflj7fvvI/mioDmnK/mlK/mjIHvvI/lm57liLDpobbpg6jvvI/mtY/op4jph4/mjqLpkojvvInliIblvIDlpITnkIbvvJrliY3kuKTooYzlm77kuI7lj4vmg4Xpk77mjqXlkIjkuLrkuIDoioLvvIzpobXohJrljZXliJfkuIDoioLvvIzlnYfkuI3mjILmnaHnm67jgIIiLAogICLlhajmlocgMTMg5Liq5p2h55uu5YWo6YOo5pyJ5byV5paH5LiU6YO96JC95Zyo5q2j5paH77yM5peg6Leo5paH5Lu25byV55So77yb5pys5paH5pyq6KeB56ug6IqC57yW5Y+377yIbm8g5LiA5b6L55So44CM4oCU44CN77yJ77yM5bCP6IqC5ZCNIDQg5Liq5Y+W6Ieq5Y6f5paH44CBNSDkuKrkuLrmpoLmi6zjgIIiCiBdCn0K
+{
+ "key": "20260919-c2065a274012",
+ "title": "院会招新|信息传播学院学生会，邀你共赴一场数智时代的创意远征",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "页面框架（页头标题、导航栏目与面包屑）",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    34
+   ],
+   "items": [
+    "pt-b1e01df775"
+   ],
+   "chars": 338
+  },
+  {
+   "no": "—",
+   "heading": "导语（学院概况与学生会邀请）",
+   "heading_kind": "derived",
+   "lines": [
+    35,
+    36
+   ],
+   "items": [
+    "pt-bfb9dffa97"
+   ],
+   "chars": 182
+  },
+  {
+   "no": "—",
+   "heading": "招新部门及职责介绍",
+   "heading_kind": "author",
+   "lines": [
+    37,
+    47
+   ],
+   "items": [
+    "pt-26ccf39859",
+    "pt-eaaaeb513b",
+    "pt-a7e2fef6d4",
+    "pt-76dd3238b1"
+   ],
+   "chars": 366
+  },
+  {
+   "no": "—",
+   "heading": "在这里，你将收获什么？",
+   "heading_kind": "author",
+   "lines": [
+    48,
+    52
+   ],
+   "items": [],
+   "chars": 205
+  },
+  {
+   "no": "—",
+   "heading": "精彩瞬间",
+   "heading_kind": "author",
+   "lines": [
+    53,
+    66
+   ],
+   "items": [
+    "pt-aeddbfae7d",
+    "pt-dde6cbc084",
+    "pt-136763fecd",
+    "pt-fb7a92eb30",
+    "pt-d5b9d90034"
+   ],
+   "chars": 803
+  },
+  {
+   "no": "—",
+   "heading": "报名方式与招新流程",
+   "heading_kind": "author",
+   "lines": [
+    67,
+    70
+   ],
+   "items": [
+    "pt-2b77264530"
+   ],
+   "chars": 204
+  },
+  {
+   "no": "—",
+   "heading": "结语（期待加入）",
+   "heading_kind": "derived",
+   "lines": [
+    71,
+    71
+   ],
+   "items": [
+    "pt-94c736992c"
+   ],
+   "chars": 65
+  },
+  {
+   "no": "—",
+   "heading": "友情链接",
+   "heading_kind": "derived",
+   "lines": [
+    72,
+    82
+   ],
+   "items": [],
+   "chars": 195
+  },
+  {
+   "no": "—",
+   "heading": "页脚（联系方式与版权）",
+   "heading_kind": "derived",
+   "lines": [
+    83,
+    89
+   ],
+   "items": [],
+   "chars": 210
+  }
+ ],
+ "items": [
+  "pt-b1e01df775",
+  "pt-bfb9dffa97",
+  "pt-26ccf39859",
+  "pt-eaaaeb513b",
+  "pt-a7e2fef6d4",
+  "pt-76dd3238b1",
+  "pt-aeddbfae7d",
+  "pt-dde6cbc084",
+  "pt-136763fecd",
+  "pt-fb7a92eb30",
+  "pt-d5b9d90034",
+  "pt-2b77264530",
+  "pt-94c736992c"
+ ],
+ "notes": [
+  "网页抽取件：第 1 行是浏览器标题，第 2—30 行是模板页头与全站导航（首页／关于我们／学者风采／学生培养／学术研究／党群工作／国际合作等栏目及两张模板图），第 31—32 行是「通知公告」栏目名与「首页 通知公告」面包屑，第 33 行正文标题与第 1 行重复、第 34 行是「发布时间：2026-09-19 浏览次数：10」，一并并入「页面框架」一节（否则该节首行会是重复的标题行）。",
+  "正文小标题 4 处，原样保留并记 author：第 37 行「招新部门及职责介绍」、第 48 行「在这里，你将收获什么？」、第 53 行「精彩瞬间」、第 67 行「报名方式与招新流程」。",
+  "第 38—47 行是五个部门（文体活动部／理论宣传部／日常事务部／创新实践部／本科生事务部（仅招收本科生））的名称行＋职责描述行，部门名是同级并列的列举项、不是章节标题，故整段并入「招新部门及职责介绍」一节，未按部门拆子节；条目 pt-26ccf39859 的引文从第 37 行的小标题起连贯到第 39 行，故该节的 lines 必须从第 37 行起。",
+  "第 53—66 行「精彩瞬间」是 6 组「[附件] 图片路径＋图注」交替排列（第 54/56/58/60/62/63/65 行为附件行，第 55/57/59/61/64/66 行为图注），按整节处理、不硬拆；条目只覆盖其中 5 条图注，「“镜头致敬劳动者”影像征集作品」（第 66 行）无对应条目。",
+  "第 71 行是独立成段的结语（「在这片充满希望与创意的天地里……期待你的加入！」），与「报名方式与招新流程」主题不同，单列「结语」一节。",
+  "第 72—73 行是模板 logo 图（[附件] 行），与第 74—82 行「友情链接」栏目、第 83—89 行页脚（地址／邮编／版权所有／京ICP 备号／技术支持／回到顶部／浏览量探针）分开处理：前两行图与友情链接合为一节，页脚单列一节，均不挂条目。",
+  "全文 13 个条目全部有引文且都落在正文，无跨文件引用；本文未见章节编号（no 一律用「—」），小节名 4 个取自原文、5 个为概括。"
+ ]
+}

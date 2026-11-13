@@ -1,1 +1,116 @@
-ew0KICJrZXkiOiAi5paH54yu5L+d6ZqcLTkzMjMwNmY3OGJlY2IxMTFmMDBiMDlhMGYzNGI0YmViYjBkYyIsDQogInRpdGxlIjogIuWbvuS5pummhjIwMTjlubTlm73lpJbmiqXliIrnm67lvZUiLA0KICJ0cnVuY2F0ZWQiOiBmYWxzZSwNCiAic2VjdGlvbnMiOiBbDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5qCH6aKY44CB5p2l5rqQ5Zyw5Z2A44CB5qCP55uu44CB5L2c6ICF5LiO5Y+R5biD5pe26Ze0IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMSwNCiAgICA2DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1kMDIyYmVjMjFhIg0KICAgXSwNCiAgICJjaGFycyI6IDIxMQ0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuWbveWkluaKpeWIiuebruW9leihqO+8muW6j+WPt++9nOWIiuWPt++9nOWIiuWQje+8iDg1IOenje+8iSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDcsDQogICAgMjYyDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1jN2FkYTc4ODA5IiwNCiAgICAicHQtY2MzYjVlMzEyOSIsDQogICAgInB0LTY4ZjkzMjA1NDEiLA0KICAgICJwdC0wODAxYmZjZDQyIiwNCiAgICAicHQtYzVlZWMzYmJhMSIsDQogICAgInB0LTgyNzg4ZjcxMzEiLA0KICAgICJwdC03MWUwZjMyMGVhIiwNCiAgICAicHQtOGM2ODI5NzFlZSIsDQogICAgInB0LWY2OTgyNGRmNGEiLA0KICAgICJwdC1iM2FhZWMwNjRkIiwNCiAgICAicHQtMGM1OWNkYjE2OSIsDQogICAgInB0LWE0NGMxZjYyZTIiLA0KICAgICJwdC00MjM3N2ZkZmQ1IiwNCiAgICAicHQtNTZkNzE0NzRkNSIsDQogICAgInB0LTJiNDcwMWE1NGUiLA0KICAgICJwdC04ZTMxZWExZjJiIiwNCiAgICAicHQtZDc0Mjk5MzI1YyIsDQogICAgInB0LTdmNzE2M2Y2ZmUiLA0KICAgICJwdC00ZmNhYjkyN2M4IiwNCiAgICAicHQtZDZkYTdjNGQwMiIsDQogICAgInB0LThmMTkzNzhlYTEiLA0KICAgICJwdC1mMGM3ZWUzNDdmIiwNCiAgICAicHQtNDI4OGMyZWFhNiIsDQogICAgInB0LTg2ZTdiNmQ4ZGYiLA0KICAgICJwdC1iOTRhMzNmMjg5IiwNCiAgICAicHQtNjFlOGQxYzFlMCIsDQogICAgInB0LWFlMjY5ZTI1NWUiLA0KICAgICJwdC03YzBiMTQ1MGIwIiwNCiAgICAicHQtODQzNTdlY2QzZSIsDQogICAgInB0LTEwYmZiYWJhYzUiLA0KICAgICJwdC1kZDBkOGVlM2E2IiwNCiAgICAicHQtMmYyYjBlZmI2NiIsDQogICAgInB0LTMxNzEwMzJkMDAiLA0KICAgICJwdC04Y2FjZTAzODZhIiwNCiAgICAicHQtZGRmMGJkN2ZiMSIsDQogICAgInB0LTk0N2ViMTVjMWEiLA0KICAgICJwdC1iYjA1MTI5MjU2Ig0KICAgXSwNCiAgICJjaGFycyI6IDI5MjQNCiAgfQ0KIF0sDQogIml0ZW1zIjogWw0KICAicHQtZDAyMmJlYzIxYSIsDQogICJwdC1jN2FkYTc4ODA5IiwNCiAgInB0LWNjM2I1ZTMxMjkiLA0KICAicHQtNjhmOTMyMDU0MSIsDQogICJwdC0wODAxYmZjZDQyIiwNCiAgInB0LWM1ZWVjM2JiYTEiLA0KICAicHQtODI3ODhmNzEzMSIsDQogICJwdC03MWUwZjMyMGVhIiwNCiAgInB0LThjNjgyOTcxZWUiLA0KICAicHQtZjY5ODI0ZGY0YSIsDQogICJwdC1iM2FhZWMwNjRkIiwNCiAgInB0LTBjNTljZGIxNjkiLA0KICAicHQtYTQ0YzFmNjJlMiIsDQogICJwdC00MjM3N2ZkZmQ1IiwNCiAgInB0LTU2ZDcxNDc0ZDUiLA0KICAicHQtMmI0NzAxYTU0ZSIsDQogICJwdC04ZTMxZWExZjJiIiwNCiAgInB0LWQ3NDI5OTMyNWMiLA0KICAicHQtN2Y3MTYzZjZmZSIsDQogICJwdC00ZmNhYjkyN2M4IiwNCiAgInB0LWQ2ZGE3YzRkMDIiLA0KICAicHQtOGYxOTM3OGVhMSIsDQogICJwdC1mMGM3ZWUzNDdmIiwNCiAgInB0LTQyODhjMmVhYTYiLA0KICAicHQtODZlN2I2ZDhkZiIsDQogICJwdC1iOTRhMzNmMjg5IiwNCiAgInB0LTYxZThkMWMxZTAiLA0KICAicHQtYWUyNjllMjU1ZSIsDQogICJwdC03YzBiMTQ1MGIwIiwNCiAgInB0LTg0MzU3ZWNkM2UiLA0KICAicHQtMTBiZmJhYmFjNSIsDQogICJwdC1kZDBkOGVlM2E2IiwNCiAgInB0LTJmMmIwZWZiNjYiLA0KICAicHQtMzE3MTAzMmQwMCIsDQogICJwdC04Y2FjZTAzODZhIiwNCiAgInB0LWRkZjBiZDdmYjEiLA0KICAicHQtOTQ3ZWIxNWMxYSIsDQogICJwdC1iYjA1MTI5MjU2Ig0KIF0sDQogIm5vdGVzIjogWw0KICAi5paH54yu5L+d6Zqc77yI5Zu+5Lmm6aaG77yJ5qCP55uu5LiL55qE5YiX6KGo6aG15paH5pys77ya56ysIDEg6KGM5qCH6aKY44CM5Zu+5Lmm6aaGMjAxOOW5tOWbveWkluaKpeWIiuebruW9leOAje+8jOesrCAyIOihjOadpea6kCBVUkzvvIhpbGliIOW8leaTjiBBUEnvvInvvIznrKwgMyDooYzmoI/nm67jgIzmlofnjK7kv53pmpzjgI3vvIznrKwgNCDooYzkvZzogIXjgIzlm77kuabppobjgI3vvIznrKwgNSDooYzlj5HluIPml7bpl7QgMjAxOC0wMS0wMe+8jOesrCA2IOihjOepuuihjO+8jOWQiOS4uuesrOS4gOiKguOAgiIsDQogICLooajmoLznq5bmjpLvvIjkuIDkuKrljZXlhYPmoLzkuIDooYzvvInvvJrnrKwgNyDooYzmmK/liJflpLTjgIzluo/lj7cgfCDliIrlj7cgfCDliIrlkI3jgI3vvIznrKwgOCDooYzotbfmr48gMyDooYzkuIDmnaHorrDlvZXvvIjluo/lj7cgLyDliIrlj7cgLyDliIrlkI3vvInvvIznrKwgOOKAkzI2MiDooYzlhbEgODUg5p2h6K6w5b2V77yI5bqP5Y+3IDHigJM4Ne+8jOacq+adoeS4uuOAjDg1IC8gRDAzWTAwMDQgLyDmlofljK/loLHvvI7jgI3vvInjgILmjInjgIzooajmoLznq5bmjpIg4oaSIOaVtOihqOS4gOiKguOAjeeahOWPo+W+hO+8jOesrCA34oCTMjYyIOihjOWQiOS4uuS4gOS4quiKgu+8jOacquaMieWIiuWPt+WIhuexu+WGjeWIh++8iOWOn+aWh+ayoeacieWIhuexu+agh+mimO+8jOWIh+WIhuS8muaYr+iHqumAoOeroOiKgu+8ieOAgiIsDQogICLmnaHnm67nmoTlvJXmlofmmK/miornm7jpgrvljZXlhYPmoLzmi7zmiJDkuIDooYzlkI7nmoTkuLLvvIjlpoIgcHQtY2MzYjVlMzEyOSDnmoTlvJXmlofjgIwyNjFYMDAwMeWCs+iomOaWh+WtuC40MjY4QjAwNTTjgI09IOesrCAxNSDooYzliIrlj7cgKyDnrKwgMTYg6KGM5YiK5ZCNICsg56ysIDE3IOihjOW6j+WPtyArIOesrCAxOCDooYzliIrlj7fvvInvvIzmlYUgMzcg5p2h6KGo5qC85p2h55uu5YWo6YOo6JC95Zyo5ZCM5LiA6IqC77yb5Liq5Yir5p2h55uu55qE5byV5paH5Y+q5Ymp5YiK5ZCN77yI5aaCIHB0LTY4ZjkzMjA1NDHjgIxOYXRpb25hbEdlb2dyYXBoaWMu44CN77yJ5oiWIFVSTCDniYfmrrXvvIzml6Dms5XllK/kuIDlrprkvY3liLDmn5DkuIDooYzvvIzkvYbpg73lnKjmnKzooajljLrpl7TlhoXjgIIiLA0KICAi5Y6f5paH5byC5bi477ya56ysIDYzIOihjOeahOWIiuWQjeOAjOmPoeWgse+8j01pcnJvci7jgI3kuI7nrKwgNTYg6KGM6LW355qE5YiK5ZCN5re35o6S77yb56ysIDMg5p2h44CM5YKz6KiY5paH5a24LuOAjeOAgeesrCAxOCDmnaHjgIzlu6Pop5Lpj6HvvI7jgI3nrYnnlKjnuYHkvZPkuI7lhajop5Llj6XngrnvvIznrKwgNTMg5p2h44CM5ZyL6Zqb6Kit6KiI5a626YCj57ay77yPSWRO77yI6aaZ5riv54mI77yJ77yO44CN5re35o6S5Lit6Iux77yb5Z2H5oyJ5Y6f5paH5L+d55WZ77yM5pyq5qCh5pS544CCIiwNCiAgIuesrCAyNjMg6KGM5Li65paH5pyr56m66KGM77yb6KGo5qC85Yiw56ysIDI2MiDooYznu5PmnZ/vvIzmnKvmnaHlkI7ml6DokL3mrL4v6aG156CB77yM5pyq6KeB5oiq5pat44CCIg0KIF0NCn0=
+{
+ "key": "文献保障-932306f78becb111f00b09a0f34b4bebb0dc",
+ "title": "图书馆2018年国外报刊目录",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "标题、来源地址、栏目、作者与发布时间",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    6
+   ],
+   "items": [
+    "pt-d022bec21a"
+   ],
+   "chars": 211
+  },
+  {
+   "no": "—",
+   "heading": "国外报刊目录表：序号｜刊号｜刊名（85 种）",
+   "heading_kind": "derived",
+   "lines": [
+    7,
+    262
+   ],
+   "items": [
+    "pt-c7ada78809",
+    "pt-cc3b5e3129",
+    "pt-68f9320541",
+    "pt-0801bfcd42",
+    "pt-c5eec3bba1",
+    "pt-82788f7131",
+    "pt-71e0f320ea",
+    "pt-8c682971ee",
+    "pt-f69824df4a",
+    "pt-b3aaec064d",
+    "pt-0c59cdb169",
+    "pt-a44c1f62e2",
+    "pt-42377fdfd5",
+    "pt-56d71474d5",
+    "pt-2b4701a54e",
+    "pt-8e31ea1f2b",
+    "pt-d74299325c",
+    "pt-7f7163f6fe",
+    "pt-4fcab927c8",
+    "pt-d6da7c4d02",
+    "pt-8f19378ea1",
+    "pt-f0c7ee347f",
+    "pt-4288c2eaa6",
+    "pt-86e7b6d8df",
+    "pt-b94a33f289",
+    "pt-61e8d1c1e0",
+    "pt-ae269e255e",
+    "pt-7c0b1450b0",
+    "pt-84357ecd3e",
+    "pt-10bfbabac5",
+    "pt-dd0d8ee3a6",
+    "pt-2f2b0efb66",
+    "pt-3171032d00",
+    "pt-8cace0386a",
+    "pt-ddf0bd7fb1",
+    "pt-947eb15c1a",
+    "pt-bb05129256"
+   ],
+   "chars": 2924
+  }
+ ],
+ "items": [
+  "pt-d022bec21a",
+  "pt-c7ada78809",
+  "pt-cc3b5e3129",
+  "pt-68f9320541",
+  "pt-0801bfcd42",
+  "pt-c5eec3bba1",
+  "pt-82788f7131",
+  "pt-71e0f320ea",
+  "pt-8c682971ee",
+  "pt-f69824df4a",
+  "pt-b3aaec064d",
+  "pt-0c59cdb169",
+  "pt-a44c1f62e2",
+  "pt-42377fdfd5",
+  "pt-56d71474d5",
+  "pt-2b4701a54e",
+  "pt-8e31ea1f2b",
+  "pt-d74299325c",
+  "pt-7f7163f6fe",
+  "pt-4fcab927c8",
+  "pt-d6da7c4d02",
+  "pt-8f19378ea1",
+  "pt-f0c7ee347f",
+  "pt-4288c2eaa6",
+  "pt-86e7b6d8df",
+  "pt-b94a33f289",
+  "pt-61e8d1c1e0",
+  "pt-ae269e255e",
+  "pt-7c0b1450b0",
+  "pt-84357ecd3e",
+  "pt-10bfbabac5",
+  "pt-dd0d8ee3a6",
+  "pt-2f2b0efb66",
+  "pt-3171032d00",
+  "pt-8cace0386a",
+  "pt-ddf0bd7fb1",
+  "pt-947eb15c1a",
+  "pt-bb05129256"
+ ],
+ "notes": [
+  "文献保障（图书馆）栏目下的列表页文本：第 1 行标题「图书馆2018年国外报刊目录」，第 2 行来源 URL（ilib 引擎 API），第 3 行栏目「文献保障」，第 4 行作者「图书馆」，第 5 行发布时间 2018-01-01，第 6 行空行，合为第一节。",
+  "表格竖排（一个单元格一行）：第 7 行是列头「序号 | 刊号 | 刊名」，第 8 行起每 3 行一条记录（序号 / 刊号 / 刊名），第 8–262 行共 85 条记录（序号 1–85，末条为「85 / D03Y0004 / 文匯報．」）。按「表格竖排 → 整表一节」的口径，第 7–262 行合为一个节，未按刊号分类再切（原文没有分类标题，切分会是自造章节）。",
+  "条目的引文是把相邻单元格拼成一行后的串（如 pt-cc3b5e3129 的引文「261X0001傳記文學.4268B0054」= 第 15 行刊号 + 第 16 行刊名 + 第 17 行序号 + 第 18 行刊号），故 37 条表格条目全部落在同一节；个别条目的引文只剩刊名（如 pt-68f9320541「NationalGeographic.」）或 URL 片段，无法唯一定位到某一行，但都在本表区间内。",
+  "原文异常：第 63 行的刊名「鏡報／Mirror.」与第 56 行起的刊名混排；第 3 条「傳記文學.」、第 18 条「廣角鏡．」等用繁体与全角句点，第 53 条「國際設計家連網／IdN（香港版）．」混排中英；均按原文保留，未校改。",
+  "第 263 行为文末空行；表格到第 262 行结束，末条后无落款/页码，未见截断。"
+ ]
+}

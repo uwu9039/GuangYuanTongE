@@ -1,1 +1,124 @@
-ewogImtleSI6ICIyMDIzMTIwOC1jMTAzMDJhMjE0NTQ0IiwKICJ0aXRsZSI6ICLkuLTml7botKblj7flhYXlgLzmjIfljZfvvIgyMDIz77yJIiwKICJ0cnVuY2F0ZWQiOiBmYWxzZSwKICJzZWN0aW9ucyI6IFsKICB7CiAgICJubyI6ICLpobXpnaLmoYbmnrYiLAogICAiaGVhZGluZyI6ICLnq5nngrnmoIfpopjjgIHpg6jpl6jlkI3kuI7moI/nm67lr7zoiKoiLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbMSwgNDddLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogMTc1CiAgfSwKICB7CiAgICJubyI6ICLmoIfpopgiLAogICAiaGVhZGluZyI6ICLmjIfljZfmoIfpopjjgIHlj5HluIPml7bpl7TkuI7nroDku4siLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbNDksIDUzXSwKICAgIml0ZW1zIjogWyJwdC01OWY2Mjc4Nzk4IiwgInB0LTI2YzVjZThiYTMiXSwKICAgImNoYXJzIjogODAKICB9LAogIHsKICAgIm5vIjogIuaTjeS9nOatpemqpCIsCiAgICJoZWFkaW5nIjogIuaTjeS9nOatpemqpO+8iOaJk+asvuKGkuWQjeWNleKGkuWFheWAvOKGkuelqOaNru+8iSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFs1NSwgMTAzXSwKICAgIml0ZW1zIjogWyJwdC1mNDdjMDIyOTY3IiwgInB0LWM3NzBlZWVlZmQiXSwKICAgImNoYXJzIjogODg1CiAgfSwKICB7CiAgICJubyI6ICLmraXpqqTkuIAiLAogICAiaGVhZGluZyI6ICIxKSDnm7jlhbPpg6jpl6jmiZPmrL7oh7PmoKHlm63kuIDljaHpgJrnmoTotKbmiLciLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs1NywgNjNdLAogICAiaXRlbXMiOiBbInB0LWNiOTY5YWUyODgiXSwKICAgImNoYXJzIjogMTAwCiAgfSwKICB7CiAgICJubyI6ICLmraXpqqTkuowiLAogICAiaGVhZGluZyI6ICIyKSDnm7jlhbPpg6jpl6jmj5DkvpvkurrlkZjlkI3ljZUiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs2NSwgNjddLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogNjcKICB9LAogIHsKICAgIm5vIjogIuatpemqpOS4iSIsCiAgICJoZWFkaW5nIjogIjMpIOS/oeaBr+WMluWkhOWFheWAvOiHs+S4tOaXtui0puWPtyIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzY5LCA3MV0sCiAgICJpdGVtcyI6IFsicHQtYWIzMzM1MWU0YyJdLAogICAiY2hhcnMiOiA0NAogIH0sCiAgewogICAibm8iOiAi5q2l6aqk5ZubIiwKICAgImhlYWRpbmciOiAiNCkg5byA5YW35Y+R56Wo5ZKM5Zue5Y2VIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbNzMsIDgzXSwKICAgIml0ZW1zIjogWyJwdC0wMjBiMjhkNDg5IiwgInB0LWIyZDhkYWQ2MjIiXSwKICAgImNoYXJzIjogMjk2CiAgfSwKICB7CiAgICJubyI6ICLnpajmja4iLAogICAiaGVhZGluZyI6ICLnlLXlrZDnpajmja7moLflvI/jgIHlj5Hnpajkv6Hmga/kuI7miqXplIDor7TmmI4iLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbODUsIDEwM10sCiAgICJpdGVtcyI6IFsKICAgICJwdC1mMjM1MGY3NTAwIiwKICAgICJwdC04NjAzMzI3ZGM0IiwKICAgICJwdC03NzY5MjExYWFlIiwKICAgICJwdC1hNDE0NGJhNjI0IiwKICAgICJwdC1hNjM1MzQwMzNkIiwKICAgICJwdC00ZTczNzliMjViIiwKICAgICJwdC02YTdiMjAxMDg4IgogICBdLAogICAiY2hhcnMiOiAzNjkKICB9LAogIHsKICAgIm5vIjogIuiBlOezu+aWueW8jyIsCiAgICJoZWFkaW5nIjogIuS/oeaBr+WMluWkhOiBlOezu+aWueW8j+OAgeWcsOWdgOS4juWKnuWFrOWcsOeCuSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFsxMDUsIDExOV0sCiAgICJpdGVtcyI6IFsicHQtN2ExNDQ3MWFkOCJdLAogICAiY2hhcnMiOiAxMTYKICB9LAogIHsKICAgIm5vIjogIumhteiEmiIsCiAgICJoZWFkaW5nIjogIuaKpeS/rueUteivneOAgeW4uOeUqOmTvuaOpeS4jueJiOadg+S/oeaBryIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFsxMjEsIDE2MV0sCiAgICJpdGVtcyI6IFtdLAogICAiY2hhcnMiOiAzMDMKICB9CiBdLAogIml0ZW1zIjogWwogICJydWxlLTIwMjMxMjA4LWMxMDMwMmEyMTQ1NDQiLAogICJwdC0yNmM1Y2U4YmEzIiwKICAicHQtZjQ3YzAyMjk2NyIsCiAgInB0LWNiOTY5YWUyODgiLAogICJwdC1hYjMzMzUxZTRjIiwKICAicHQtMDIwYjI4ZDQ4OSIsCiAgInB0LWIyZDhkYWQ2MjIiLAogICJwdC04NjAzMzI3ZGM0IiwKICAicHQtNzc2OTIxMWFhZSIsCiAgInB0LWE0MTQ0YmE2MjQiLAogICJwdC1hNjM1MzQwMzNkIiwKICAicHQtNGU3Mzc5YjI1YiIsCiAgInB0LTZhN2IyMDEwODgiLAogICJwdC01OWY2Mjc4Nzk4IiwKICAicHQtYzc3MGVlZWVmZCIsCiAgInB0LWYyMzUwZjc1MDAiLAogICJwdC03YTE0NDcxYWQ4IgogXSwKICJub3RlcyI6IFsKICAi5oq95Y+W5byC5bi477yI6KGM5Y+357+75YCN77yJ77ya5pys5paH5Lu25q2j5paH6KGM5LmL6Ze05aS55pyJ5aSn6YeP56m66KGM77yM5a6e5pWwIDE2MSDooYzvvIjlhoXlrrnooYzlj6ogODEg6KGM77yJ77yM5pys57Si5byV55qE6KGM5Y+35oyJIDE2MSDooYzljp/lp4vlj6PlvoTlhpnvvIjkuI4gc2VjdGlvbnNfY2hlY2sg55qEIHNwbGl0KCdcXG4nKSDkuIDoh7TvvInvvIznqbrooYzkuI3ljZXni6zorr7oioLjgIIiLAogICLnrKwgMeKAkzQ3IOihjOaYr+ermeeCueagh+mimOOAgemDqOmXqOWQjeOAjOS/oeaBr+WMluWkhOOAjeS4juaVtOauteagj+ebruWvvOiIqu+8iOmmlumhte+8j+WFs+S6juaIkeS7rO+8j+KApu+8j+e6v+S4iuaKpeS/ru+8jOacq+WwvuW4piBb6ZmE5Lu2XSBsaXN0X2Jhbm5lci5qcGfvvInvvIzlkIjlubbkuLrjgIzpobXpnaLmoYbmnrbjgI3kuIDoioLvvIzkuI3pgJDmnaHorr7oioLjgIIiLAogICLnrKwgMTIx4oCTMTYxIOihjOaYr+mhteiEmu+8iOaKpeS/rueUteivneOAgeW4uOeUqOmTvuaOpeOAgXvnvKnnlaXlm759L3vmoIfpoph9IOWNoOS9jeOAgeeJiOadg+S4jiBb6ZmE5Lu2XSAvX3Zpc2l0Y291bnTvvInvvIzmsqHmnInmnaHnm67okL3ngrnvvIzlubblhaXjgIzpobXohJrjgI3kuIDoioLjgIIiLAogICLjgIwxKeOAjeOAjDIp44CN44CMMynjgI3jgIw0KeOAjeWbm+S4quatpemqpOWcqOWOn+aWh+mHjOaYr+W4puW6j+WPt+eahOeLrOeri+agh+mimOihjO+8jGhlYWRpbmcg6YCQ5a2X5Y+W5Y6f5paH77yIYXV0aG9y77yJ77yb44CM5pON5L2c5q2l6aqk44CN5q+N6IqC77yINTXigJMxMDMg6KGM77yJ5LuO44CM5YW35L2T5pON5L2c5q2l6aqk5aaC5LiL77ya44CN6LW377yM5YyF5L2P5Zub5Liq5q2l6aqk5a2Q6IqC5LiO44CM56Wo5o2u44CN5a2Q6IqC77yM5bGe55yf5bWM5aWX44CCIiwKICAicHQtYzc3MGVlZWVmZCDnmoTlvJXmlofku47jgIzlhbfkvZPmk43kvZzmraXpqqTlpoLkuIvvvJrjgI3otbfjgIHot6jov5vmraXpqqTkuIDvvIzmlLbkuI3ov5vku7vkvZXlrZDoioLvvIzmlYXliJflnKjmr43oioLjgIzmk43kvZzmraXpqqTjgI3vvJtwdC1mNDdjMDIyOTY3IOeahOW8leaWh+WwseaYr+OAjOWFt+S9k+aTjeS9nOatpemqpOWmguS4i++8muOAjei/meS4gOihjOOAgiIsCiAgIuOAjOelqOaNruOAjeiKgu+8iDg14oCTMTAzIOihjO+8iemHjOeahOOAjOS4vuS+i+ivtOaYju+8muKApuOAjeaYr+S4gOautSAxMiDooYznmoTlrozmlbTkuL7kvovvvIjpg6jpl6hBIOWFheWAvCAzMDAg5YWD44CB6ZSA5oi36YCA5qy+IDEwMCDlhYPjgIHlvIAgMjAwIOWFg+WPkeelqO+8ie+8jHB0LTc3NjkyMTFhYWUgLyBwdC1hNDE0NGJhNjI0IC8gcHQtYTYzNTM0MDMzZCAvIHB0LTRlNzM3OWIyNWIg5Zub5Liq5p2h55uu6YO96JC95Zyo56ysIDEwMSDooYzlkIzkuIDmrrXph4zjgIIiLAogICLljp/mloflvILluLjvvJrnrKwgNDfjgIE3OeOAgTgz44CBMTU144CBMTYxIOihjOaYryBb6ZmE5Lu2XSDlm77niYcv6K6/6Zeu57uf6K6h5Y2g5L2N6KGM77yI6Lev5b6E5b2i5aaCIC9fdXBsb2FkL2FydGljbGUvaW1hZ2VzL+KApu+8ie+8jOesrCAxNTHigJMxNTMg6KGM5piv5pyq5pu/5o2i55qE5qih5p2/5Y2g5L2N44CMe+e8qeeVpeWbvn3jgI3jgIx75qCH6aKYfeOAje+8jOesrCAxNTcg6KGM5q6L55WZ5LiA5Liq44CMLS0+44CN5rOo6YeK57uT5p2f56ym77yb5Z2H5oyJ5Y6f5paH5L+d55WZ77yM5pyq5riF55CG44CCIiwKICAicnVsZS0yMDIzMTIwOC1jMTAzMDJhMjE0NTQ0IOaYr+aWh+aho+e6p+adoeebru+8iOaXoOW8leaWh++8jOagh+mimOKJiOaWh+aho+WQje+8ie+8jOW3suWIl+i/m+aWh+aho+e6pyBpdGVtcyDlubbmlL7ov5vjgIzmoIfpopjjgI3oioLvvJvmnKzmlofku7bmsqHmnInjgIznrKxY56ug44CN44CM56ysWOadoeOAje+8jOWFqOmDqCBoZWFkaW5nIOmHjCA0IOS4quS4uiBhdXRob3LvvIjmraXpqqTmoIfpopjvvInjgIE2IOS4quS4uiBkZXJpdmVk44CCIgogXQp9Cg==
+{
+ "key": "20231208-c10302a214544",
+ "title": "临时账号充值指南（2023）",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "页面框架",
+   "heading": "站点标题、部门名与栏目导航",
+   "heading_kind": "derived",
+   "lines": [1, 47],
+   "items": [],
+   "chars": 175
+  },
+  {
+   "no": "标题",
+   "heading": "指南标题、发布时间与简介",
+   "heading_kind": "derived",
+   "lines": [49, 53],
+   "items": ["pt-59f6278798", "pt-26c5ce8ba3"],
+   "chars": 80
+  },
+  {
+   "no": "操作步骤",
+   "heading": "操作步骤（打款→名单→充值→票据）",
+   "heading_kind": "derived",
+   "lines": [55, 103],
+   "items": ["pt-f47c022967", "pt-c770eeeefd"],
+   "chars": 885
+  },
+  {
+   "no": "步骤一",
+   "heading": "1) 相关部门打款至校园一卡通的账户",
+   "heading_kind": "author",
+   "lines": [57, 63],
+   "items": ["pt-cb969ae288"],
+   "chars": 100
+  },
+  {
+   "no": "步骤二",
+   "heading": "2) 相关部门提供人员名单",
+   "heading_kind": "author",
+   "lines": [65, 67],
+   "items": [],
+   "chars": 67
+  },
+  {
+   "no": "步骤三",
+   "heading": "3) 信息化处充值至临时账号",
+   "heading_kind": "author",
+   "lines": [69, 71],
+   "items": ["pt-ab33351e4c"],
+   "chars": 44
+  },
+  {
+   "no": "步骤四",
+   "heading": "4) 开具发票和回单",
+   "heading_kind": "author",
+   "lines": [73, 83],
+   "items": ["pt-020b28d489", "pt-b2d8dad622"],
+   "chars": 296
+  },
+  {
+   "no": "票据",
+   "heading": "电子票据样式、发票信息与报销说明",
+   "heading_kind": "derived",
+   "lines": [85, 103],
+   "items": [
+    "pt-f2350f7500",
+    "pt-8603327dc4",
+    "pt-7769211aae",
+    "pt-a4144ba624",
+    "pt-a63534033d",
+    "pt-4e7379b25b",
+    "pt-6a7b201088"
+   ],
+   "chars": 369
+  },
+  {
+   "no": "联系方式",
+   "heading": "信息化处联系方式、地址与办公地点",
+   "heading_kind": "derived",
+   "lines": [105, 119],
+   "items": ["pt-7a14471ad8"],
+   "chars": 116
+  },
+  {
+   "no": "页脚",
+   "heading": "报修电话、常用链接与版权信息",
+   "heading_kind": "derived",
+   "lines": [121, 161],
+   "items": [],
+   "chars": 303
+  }
+ ],
+ "items": [
+  "rule-20231208-c10302a214544",
+  "pt-26c5ce8ba3",
+  "pt-f47c022967",
+  "pt-cb969ae288",
+  "pt-ab33351e4c",
+  "pt-020b28d489",
+  "pt-b2d8dad622",
+  "pt-8603327dc4",
+  "pt-7769211aae",
+  "pt-a4144ba624",
+  "pt-a63534033d",
+  "pt-4e7379b25b",
+  "pt-6a7b201088",
+  "pt-59f6278798",
+  "pt-c770eeeefd",
+  "pt-f2350f7500",
+  "pt-7a14471ad8"
+ ],
+ "notes": [
+  "抽取异常（行号翻倍）：本文件正文行之间夹有大量空行，实数 161 行（内容行只 81 行），本索引的行号按 161 行原始口径写（与 sections_check 的 split('\\n') 一致），空行不单独设节。",
+  "第 1–47 行是站点标题、部门名「信息化处」与整段栏目导航（首页／关于我们／…／线上报修，末尾带 [附件] list_banner.jpg），合并为「页面框架」一节，不逐条设节。",
+  "第 121–161 行是页脚（报修电话、常用链接、{缩略图}/{标题} 占位、版权与 [附件] /_visitcount），没有条目落点，并入「页脚」一节。",
+  "「1)」「2)」「3)」「4)」四个步骤在原文里是带序号的独立标题行，heading 逐字取原文（author）；「操作步骤」母节（55–103 行）从「具体操作步骤如下：」起，包住四个步骤子节与「票据」子节，属真嵌套。",
+  "pt-c770eeeefd 的引文从「具体操作步骤如下：」起、跨进步骤一，收不进任何子节，故列在母节「操作步骤」；pt-f47c022967 的引文就是「具体操作步骤如下：」这一行。",
+  "「票据」节（85–103 行）里的「举例说明：…」是一段 12 行的完整举例（部门A 充值 300 元、销户退款 100 元、开 200 元发票），pt-7769211aae / pt-a4144ba624 / pt-a63534033d / pt-4e7379b25b 四个条目都落在第 101 行同一段里。",
+  "原文异常：第 47、79、83、155、161 行是 [附件] 图片/访问统计占位行（路径形如 /_upload/article/images/…），第 151–153 行是未替换的模板占位「{缩略图}」「{标题}」，第 157 行残留一个「-->」注释结束符；均按原文保留，未清理。",
+  "rule-20231208-c10302a214544 是文档级条目（无引文，标题≈文档名），已列进文档级 items 并放进「标题」节；本文件没有「第X章」「第X条」，全部 heading 里 4 个为 author（步骤标题）、6 个为 derived。"
+ ]
+}

@@ -1,1 +1,258 @@
-ew0KICJrZXkiOiAiYXR0LWFjYjU5MDg0MjkiLA0KICJ0aXRsZSI6ICLmnKznp5HnlJ/pmaLvuZ0yMDIy77meNDUg5Y+3IOWFs+S6juWNsOWPkeOAiuS4reWbveS8oOWqkuWkp+WtpuWkp+WtpuiLseivreivvueoi+mAieivvuWKnuazleOAi++8iDIwMjLlubTkv67orqLvvInnmoTpgJrnn6UiLA0KICJ0cnVuY2F0ZWQiOiBmYWxzZSwNCiAic2VjdGlvbnMiOiBbDQogIHsNCiAgICJubyI6ICLpgJrnn6UiLA0KICAgImhlYWRpbmciOiAi5Y2w5Y+R6YCa55+lIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMSwNCiAgICAyMA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMzc5OTBiODUxNyIsDQogICAgInB0LTkyZDI0MTQxNjAiDQogICBdLA0KICAgImNoYXJzIjogNTQ1DQogIH0sDQogIHsNCiAgICJubyI6ICLmoIfpopgiLA0KICAgImhlYWRpbmciOiAi5Yqe5rOV5ZCN56ew5LiO5Yi25a6a5L6d5o2uIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMjEsDQogICAgMjgNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTk4ZjEyMTNkZDQiDQogICBdLA0KICAgImNoYXJzIjogMTk2DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuIDmnaEiLA0KICAgImhlYWRpbmciOiAi6K++56iL5YiG57qnIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMzAsDQogICAgMzENCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTE1YTIzNjMxOTgiDQogICBdLA0KICAgImNoYXJzIjogNjINCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS6jOadoSIsDQogICAiaGVhZGluZyI6ICLliIbnuqflkI7nmoTnuqfliKvosIPmlbQiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzMywNCiAgICAzNA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMTI2MWVhNTViNSIsDQogICAgInB0LTUyZTFmNTcwMjQiDQogICBdLA0KICAgImNoYXJzIjogNjUNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS4ieadoSIsDQogICAiaGVhZGluZyI6ICLmr5XkuJrmiYDpnIDnmoTlpKflraboi7Hor63lrabliIbopoHmsYIiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzNiwNCiAgICA1OA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtN2NkOGRiMzc1NCIsDQogICAgInB0LTNlMWE4YWUwNTEiDQogICBdLA0KICAgImNoYXJzIjogNTQ2DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuInmnaHvvIjkuIDvvIkiLA0KICAgImhlYWRpbmciOiAiQSvnuqflrabnlJ8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDM5LA0KICAgIDUyDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC00MTRjZTI0MDgwIiwNCiAgICAicHQtNTVhYTQzOWQ3MSIsDQogICAgInB0LWFhYmQwOGU0NTEiDQogICBdLA0KICAgImNoYXJzIjogMzgyDQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuInmnaHvvIjkuozvvIkiLA0KICAgImhlYWRpbmciOiAiQee6p+OAgULnuqflkoxD57qn5a2m55SfIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1NCwNCiAgICA1OA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNzk5YmM5Mzc1NSIsDQogICAgInB0LWJiYTU5MjQwZGYiDQogICBdLA0KICAgImNoYXJzIjogOTgNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWbm+adoSIsDQogICAiaGVhZGluZyI6ICLpgInkv67or77kv67or7vnmoTliY3nva7mnaHku7YiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1OSwNCiAgICA2MA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZTJhNTNhNmIwZCIsDQogICAgInB0LTkzYjcyOGRmZjUiDQogICBdLA0KICAgImNoYXJzIjogNDQNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS6lOadoSIsDQogICAiaGVhZGluZyI6ICLlv4Xkv67or77nqIvkuI3lj4rmoLznmoTlpITnkIYiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA2MSwNCiAgICA2Mg0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtOTlmOGM2M2E3NiINCiAgIF0sDQogICAiY2hhcnMiOiA1MA0KICB9LA0KICB7DQogICAibm8iOiAi56ys5YWt5p2hIiwNCiAgICJoZWFkaW5nIjogIumAieS/ruivvueoi+S4jeWPiuagvOeahOWkhOeQhiIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDYzLA0KICAgIDcxDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0xNGY3Yjg5YWE2IiwNCiAgICAicHQtMDAwMTFiZGM4NiINCiAgIF0sDQogICAiY2hhcnMiOiAxNzcNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWFreadoe+8iOS4gO+8iSIsDQogICAiaGVhZGluZyI6ICJBK+e6p+WtpueUnyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNjUsDQogICAgNjgNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDg2DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzlha3mnaHvvIjkuozvvIkiLA0KICAgImhlYWRpbmciOiAiQee6p+OAgULnuqflkoxD57qn5a2m55SfIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA2OSwNCiAgICA3MQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMzBlYTQ0MzliOCINCiAgIF0sDQogICAiY2hhcnMiOiA1NQ0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LiD5p2hIiwNCiAgICJoZWFkaW5nIjogIuaWveihjOi1t+Wni+W5tOe6pyIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDcyLA0KICAgIDcyDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1iNDY0ZTU4YTNiIg0KICAgXSwNCiAgICJjaGFycyI6IDI2DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzlhavmnaEiLA0KICAgImhlYWRpbmciOiAi6Kej6YeK5Y2V5L2NIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNzMsDQogICAgNzUNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LThjYjQ4ZmM2NzMiDQogICBdLA0KICAgImNoYXJzIjogOTQNCiAgfSwNCiAgew0KICAgIm5vIjogIumZhOihqCIsDQogICAiaGVhZGluZyI6ICLlpKflraboi7Hor63or77nqIvorr7nva4iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDc2LA0KICAgIDEyNA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZTBhNzQxNzI3OSIsDQogICAgInB0LTAwNTNhMDI1ODAiLA0KICAgICJwdC0wOTBhOTYzODI0IiwNCiAgICAicHQtM2NhODc5ZTZjNiIsDQogICAgInB0LTcxYjgyMTI3ZjciLA0KICAgICJwdC1mN2ZiOTAyYmVmIiwNCiAgICAicHQtYjA2Y2QyYzBmOSIsDQogICAgInB0LTlhNDE5NjMxNTciLA0KICAgICJwdC05YTE4MjUyZWU3IiwNCiAgICAicHQtY2ExYzlkYjIwNiINCiAgIF0sDQogICAiY2hhcnMiOiAxODc1DQogIH0NCiBdLA0KICJpdGVtcyI6IFsNCiAgInB0LTM3OTkwYjg1MTciLA0KICAicHQtOTJkMjQxNDE2MCIsDQogICJwdC05OGYxMjEzZGQ0IiwNCiAgInB0LTE1YTIzNjMxOTgiLA0KICAicHQtMTI2MWVhNTViNSIsDQogICJwdC01MmUxZjU3MDI0IiwNCiAgInB0LTdjZDhkYjM3NTQiLA0KICAicHQtM2UxYThhZTA1MSIsDQogICJwdC00MTRjZTI0MDgwIiwNCiAgInB0LTU1YWE0MzlkNzEiLA0KICAicHQtYWFiZDA4ZTQ1MSIsDQogICJwdC03OTliYzkzNzU1IiwNCiAgInB0LWJiYTU5MjQwZGYiLA0KICAicHQtZTJhNTNhNmIwZCIsDQogICJwdC05M2I3MjhkZmY1IiwNCiAgInB0LTk5ZjhjNjNhNzYiLA0KICAicHQtMTRmN2I4OWFhNiIsDQogICJwdC0wMDAxMWJkYzg2IiwNCiAgInB0LTMwZWE0NDM5YjgiLA0KICAicHQtYjQ2NGU1OGEzYiIsDQogICJwdC04Y2I0OGZjNjczIiwNCiAgInB0LWUwYTc0MTcyNzkiLA0KICAicHQtMDA1M2EwMjU4MCIsDQogICJwdC0wOTBhOTYzODI0IiwNCiAgInB0LTNjYTg3OWU2YzYiLA0KICAicHQtNzFiODIxMjdmNyIsDQogICJwdC1mN2ZiOTAyYmVmIiwNCiAgInB0LWIwNmNkMmMwZjkiLA0KICAicHQtOWE0MTk2MzE1NyIsDQogICJwdC05YTE4MjUyZWU3IiwNCiAgInB0LWNhMWM5ZGIyMDYiDQogXSwNCiAibm90ZXMiOiBbDQogICLmnKzku7bkuLogcGRmIOaKveWPlueahOato+W8j+WPkeaWh++8muesrCAxIOihjOaWh+WPt+OAgeesrCAz4oCTNiDooYzmoIfpopjvvIjjgIzlhbPkuo7ljbDlj5HigKbnmoTpgJrnn6XjgI3liIbooYzvvInjgIHnrKwgOCDooYzkuLvpgIHmnLrlhbPjgIHnrKwgOeKAkzE0IOihjOato+aWh+OAgeesrCAxNuKAkzE4IOihjOiQveasvu+8jOWQiOW5tuS4uuOAjOWNsOWPkemAmuefpeOAjeS4gOiKgu+8m+esrCAyMCDooYzpobXnoIHjgIwtMS3jgI3lubblhaXor6XoioLjgIIiLA0KICAi56ysIDIxIOihjO+8iOihjOmmluWQq+WIhumhteespu+8ieS4uuWKnuazleWQjeensOOAgeesrCAyMyDooYzjgIzvvIgyMDIy5bm05L+u6K6i77yJ44CN44CB56ysIDI14oCTMjgg6KGM5Li65Yi25a6a5L6d5o2u5q6177yM5ZCI5bm25Li644CM5qCH6aKY44CN5LiA6IqC77ybcHQtOThmMTIxM2RkNCDnmoTlvJXmlofotbfngrnlnKjnrKwgMjEg6KGM77yM6JC95Zyo5pys6IqC44CCIiwNCiAgIuesrOS4gOadoeiHs+esrOWFq+adoeWOn+aWh+WPquacieadoeWPt+OAgeayoeacieWwj+agh+mimO+8jOiKguWQjeS4uuamguaLrO+8iGRlcml2ZWTvvInvvJvnrKzkuInmnaHjgIHnrKzlha3mnaHkuIvnmoTjgIzvvIjkuIDvvIlBK+e6p+WtpueUn+OAjeOAjO+8iOS6jO+8iUHnuqfjgIFC57qn5ZKMQ+e6p+WtpueUn+OAjeaYr+WOn+aWh+iHquW4pueahOWIhue6p+agh+etvu+8jOWQhOaIkOWtkOiKguW5tuaghyBhdXRob3LvvIjniLboioLkuI7lrZDoioLooYzlj7fph43lj6DvvIzlsZ7nnJ/ltYzlpZfvvInjgIIiLA0KICAicHQtMDAwMTFiZGM4NiDnmoTlvJXmlofku47nrKwgNjMg6KGM44CM56ys5YWt5p2h4oCm44CN6LW344CB6Leo5Yiw56ysIDY2IOihjO+8jOihjOWMuumXtOi3qOeItuiKguS4juWtkOiKgu+8jOaVheWIl+WcqOOAjOesrOWFreadoeOAjeeItuiKgu+8jOOAjOesrOWFreadoe+8iOS4gO+8ieOAjeacrOi6q+aXoOadoeebru+8iOadoeebruWcqCBwdC0xNGY3Yjg5YWE2IOmCo+adoeeItuiKguW8leaWh+mHjOimhueblu+8ieOAgiIsDQogICLpobXnoIHooYzlubblhaXnm7jpgrvoioLvvIzkuI3ljZXni6zotbfoioLvvJrnrKwgNDkg6KGM44CMLTIt44CN5bm25YWl44CM56ys5LiJ5p2h77yI5LiA77yJ44CN77yM56ysIDc1IOihjOOAjC0zLeOAjeW5tuWFpeOAjOesrOWFq+adoeOAje+8jOesrCAxMjQg6KGM44CMLTQt44CN5bm25YWl44CM6ZmE6KGo44CN44CCIiwNCiAgIuesrCA3NuKAkzEyNCDooYzjgIzpmYTooajvvJrlpKflraboi7Hor63or77nqIvorr7nva7jgI3mmK8gcGRmIOaKveWPlueahOerluaOkuihqOagvO+8jOWIl+WktO+8iOivvueoiy/or77nqIsv6K++57uE5ZCN56ewL+ivvueoi+WQjeensC/lrabliIbjgIHor77nqIvnuqfliKsv5a2m5Lmg5pe26Ze0L+aAp+i0qO+8ieS4juWNleWFg+agvOmUmeihjO+8jOOAjEEr57qnIOS4gOW5tOe6p+S4iuOAjeOAjOWkp+WtpuiLseivrSBBKyA044CN6KKr5ouG5oiQ5aSa6KGM77yb5oyJ5pW06KGo5LiA6IqC5L+d55WZ77yM5pyq6YeN5o6S77yMMTAg5Liq6KGo5qC85p2h55uu5YWo6YOo6JC95Zyo5q2k6IqC44CCIg0KIF0NCn0=
+{
+ "key": "att-acb5908429",
+ "title": "本科生院﹝2022﹞45 号 关于印发《中国传媒大学大学英语课程选课办法》（2022年修订）的通知",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "通知",
+   "heading": "印发通知",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    20
+   ],
+   "items": [
+    "pt-37990b8517",
+    "pt-92d2414160"
+   ],
+   "chars": 545
+  },
+  {
+   "no": "标题",
+   "heading": "办法名称与制定依据",
+   "heading_kind": "derived",
+   "lines": [
+    21,
+    28
+   ],
+   "items": [
+    "pt-98f1213dd4"
+   ],
+   "chars": 196
+  },
+  {
+   "no": "第一条",
+   "heading": "课程分级",
+   "heading_kind": "derived",
+   "lines": [
+    30,
+    31
+   ],
+   "items": [
+    "pt-15a2363198"
+   ],
+   "chars": 62
+  },
+  {
+   "no": "第二条",
+   "heading": "分级后的级别调整",
+   "heading_kind": "derived",
+   "lines": [
+    33,
+    34
+   ],
+   "items": [
+    "pt-1261ea55b5",
+    "pt-52e1f57024"
+   ],
+   "chars": 65
+  },
+  {
+   "no": "第三条",
+   "heading": "毕业所需的大学英语学分要求",
+   "heading_kind": "derived",
+   "lines": [
+    36,
+    58
+   ],
+   "items": [
+    "pt-7cd8db3754",
+    "pt-3e1a8ae051"
+   ],
+   "chars": 546
+  },
+  {
+   "no": "第三条（一）",
+   "heading": "A+级学生",
+   "heading_kind": "author",
+   "lines": [
+    39,
+    52
+   ],
+   "items": [
+    "pt-414ce24080",
+    "pt-55aa439d71",
+    "pt-aabd08e451"
+   ],
+   "chars": 382
+  },
+  {
+   "no": "第三条（二）",
+   "heading": "A级、B级和C级学生",
+   "heading_kind": "author",
+   "lines": [
+    54,
+    58
+   ],
+   "items": [
+    "pt-799bc93755",
+    "pt-bba59240df"
+   ],
+   "chars": 98
+  },
+  {
+   "no": "第四条",
+   "heading": "选修课修读的前置条件",
+   "heading_kind": "derived",
+   "lines": [
+    59,
+    60
+   ],
+   "items": [
+    "pt-e2a53a6b0d",
+    "pt-93b728dff5"
+   ],
+   "chars": 44
+  },
+  {
+   "no": "第五条",
+   "heading": "必修课程不及格的处理",
+   "heading_kind": "derived",
+   "lines": [
+    61,
+    62
+   ],
+   "items": [
+    "pt-99f8c63a76"
+   ],
+   "chars": 50
+  },
+  {
+   "no": "第六条",
+   "heading": "选修课程不及格的处理",
+   "heading_kind": "derived",
+   "lines": [
+    63,
+    71
+   ],
+   "items": [
+    "pt-14f7b89aa6",
+    "pt-00011bdc86"
+   ],
+   "chars": 177
+  },
+  {
+   "no": "第六条（一）",
+   "heading": "A+级学生",
+   "heading_kind": "author",
+   "lines": [
+    65,
+    68
+   ],
+   "items": [],
+   "chars": 86
+  },
+  {
+   "no": "第六条（二）",
+   "heading": "A级、B级和C级学生",
+   "heading_kind": "author",
+   "lines": [
+    69,
+    71
+   ],
+   "items": [
+    "pt-30ea4439b8"
+   ],
+   "chars": 55
+  },
+  {
+   "no": "第七条",
+   "heading": "施行起始年级",
+   "heading_kind": "derived",
+   "lines": [
+    72,
+    72
+   ],
+   "items": [
+    "pt-b464e58a3b"
+   ],
+   "chars": 26
+  },
+  {
+   "no": "第八条",
+   "heading": "解释单位",
+   "heading_kind": "derived",
+   "lines": [
+    73,
+    75
+   ],
+   "items": [
+    "pt-8cb48fc673"
+   ],
+   "chars": 94
+  },
+  {
+   "no": "附表",
+   "heading": "大学英语课程设置",
+   "heading_kind": "author",
+   "lines": [
+    76,
+    124
+   ],
+   "items": [
+    "pt-e0a7417279",
+    "pt-0053a02580",
+    "pt-090a963824",
+    "pt-3ca879e6c6",
+    "pt-71b82127f7",
+    "pt-f7fb902bef",
+    "pt-b06cd2c0f9",
+    "pt-9a41963157",
+    "pt-9a18252ee7",
+    "pt-ca1c9db206"
+   ],
+   "chars": 1875
+  }
+ ],
+ "items": [
+  "pt-37990b8517",
+  "pt-92d2414160",
+  "pt-98f1213dd4",
+  "pt-15a2363198",
+  "pt-1261ea55b5",
+  "pt-52e1f57024",
+  "pt-7cd8db3754",
+  "pt-3e1a8ae051",
+  "pt-414ce24080",
+  "pt-55aa439d71",
+  "pt-aabd08e451",
+  "pt-799bc93755",
+  "pt-bba59240df",
+  "pt-e2a53a6b0d",
+  "pt-93b728dff5",
+  "pt-99f8c63a76",
+  "pt-14f7b89aa6",
+  "pt-00011bdc86",
+  "pt-30ea4439b8",
+  "pt-b464e58a3b",
+  "pt-8cb48fc673",
+  "pt-e0a7417279",
+  "pt-0053a02580",
+  "pt-090a963824",
+  "pt-3ca879e6c6",
+  "pt-71b82127f7",
+  "pt-f7fb902bef",
+  "pt-b06cd2c0f9",
+  "pt-9a41963157",
+  "pt-9a18252ee7",
+  "pt-ca1c9db206"
+ ],
+ "notes": [
+  "本件为 pdf 抽取的正式发文：第 1 行文号、第 3–6 行标题（「关于印发…的通知」分行）、第 8 行主送机关、第 9–14 行正文、第 16–18 行落款，合并为「印发通知」一节；第 20 行页码「-1-」并入该节。",
+  "第 21 行（行首含分页符）为办法名称、第 23 行「（2022年修订）」、第 25–28 行为制定依据段，合并为「标题」一节；pt-98f1213dd4 的引文起点在第 21 行，落在本节。",
+  "第一条至第八条原文只有条号、没有小标题，节名为概括（derived）；第三条、第六条下的「（一）A+级学生」「（二）A级、B级和C级学生」是原文自带的分级标签，各成子节并标 author（父节与子节行号重叠，属真嵌套）。",
+  "pt-00011bdc86 的引文从第 63 行「第六条…」起、跨到第 66 行，行区间跨父节与子节，故列在「第六条」父节，「第六条（一）」本身无条目（条目在 pt-14f7b89aa6 那条父节引文里覆盖）。",
+  "页码行并入相邻节，不单独起节：第 49 行「-2-」并入「第三条（一）」，第 75 行「-3-」并入「第八条」，第 124 行「-4-」并入「附表」。",
+  "第 76–124 行「附表：大学英语课程设置」是 pdf 抽取的竖排表格，列头（课程/课程/课组名称/课程名称/学分、课程级别/学习时间/性质）与单元格错行，「A+级 一年级上」「大学英语 A+ 4」被拆成多行；按整表一节保留，未重排，10 个表格条目全部落在此节。"
+ ]
+}

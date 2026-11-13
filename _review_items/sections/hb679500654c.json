@@ -1,1 +1,237 @@
-ew0KICJrZXkiOiAiaGI2Nzk1MDA2NTRjIiwNCiAidGl0bGUiOiAi5Lit5Zu95Lyg5aqS5aSn5a2m5Y2a5aOr56CU56m255Sf5a2m5L2N6K665paH6aKE562U6L6p5bel5L2c5Yqe5rOV77yI56CU56m255Sf6Zmi44CUMjAyNeOAlTTlj7fvvIkiLA0KICJ0cnVuY2F0ZWQiOiBmYWxzZSwNCiAic2VjdGlvbnMiOiBbDQogIHsNCiAgICJubyI6ICLmoIfpopgiLA0KICAgImhlYWRpbmciOiAi5qCH6aKY5LiO5paH5Y+3IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMiwNCiAgICA0DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJydWxlLWhiNjc5NTAwNjU0YyIsDQogICAgInB0LWU3NjU0YjkzYjciDQogICBdLA0KICAgImNoYXJzIjogNDUNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS4gOadoSIsDQogICAiaGVhZGluZyI6ICLliLblrprnm67nmoTkuI7kvp3mja4iLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1LA0KICAgIDYNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTIyZDgwNDY5NmQiDQogICBdLA0KICAgImNoYXJzIjogNzkNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS6jOadoSIsDQogICAiaGVhZGluZyI6ICLpooTnrZTovqnnmoTlrpfml6giLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA3LA0KICAgIDgNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTRjYzUxYmIyMWIiDQogICBdLA0KICAgImNoYXJzIjogNzQNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS4ieadoSIsDQogICAiaGVhZGluZyI6ICLpobvlj4LliqDpooTnrZTovqnnmoTljZrlo6vnlJ/ojIPlm7QiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA5LA0KICAgIDkNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTM3ODNjM2QxOTQiDQogICBdLA0KICAgImNoYXJzIjogMzYNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWbm+adoSIsDQogICAiaGVhZGluZyI6ICLlj4LliqDpooTnrZTovqnnmoTlrqHmoLjlkIzmhI8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMCwNCiAgICAxMA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMGRlYzJlN2Y1NSINCiAgIF0sDQogICAiY2hhcnMiOiAzMA0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LqU5p2hIiwNCiAgICJoZWFkaW5nIjogIumihOetlOi+qeeahOaXtumXtOimgeaxgiIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDExLA0KICAgIDExDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAyMA0KICB9LA0KICB7DQogICAibm8iOiAi56ys5YWt5p2hIiwNCiAgICJoZWFkaW5nIjogIumihOetlOi+qee7k+aenOeahOiuoeWIhuS4jueUqOmAlCIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDEyLA0KICAgIDEyDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAzNg0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LiD5p2hIiwNCiAgICJoZWFkaW5nIjogIue7hOe7h+WNleS9jeS4juS4k+WutuWwj+e7hOeahOe7hOaIkCIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDEzLA0KICAgIDE2DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAxNTANCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWFq+adoSIsDQogICAiaGVhZGluZyI6ICLotKPku7vljZrlr7znmoTlh7rluK3kuYnliqHkuI7lm57pgb8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNywNCiAgICAxOQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNjQxMzhkN2Y4OCIsDQogICAgInB0LWViMGUzZjI2YTUiDQogICBdLA0KICAgImNoYXJzIjogMTAzDQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuZ3mnaEiLA0KICAgImhlYWRpbmciOiAi5a2m5L2N6K665paH6YCB5Lqk5LiT5a6255qE5pe26ZmQIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMjAsDQogICAgMjANCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWNlYTFjMGQ2MDEiLA0KICAgICJwdC0xZGEwMTI0YTU0Ig0KICAgXSwNCiAgICJjaGFycyI6IDI5DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzljYHmnaEiLA0KICAgImhlYWRpbmciOiAi5LiT5a625bCP57uE55qE5a6h5p+l6IGM6LSj5LiO6K+E5YiGIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMjEsDQogICAgMjINCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTZjMTU1ODk5MTkiDQogICBdLA0KICAgImNoYXJzIjogNzUNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWNgeS4gOadoSIsDQogICAiaGVhZGluZyI6ICLpooTnrZTovqnnmoTljYHpobnnqIvluo8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyMywNCiAgICAzNg0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtODhjN2Y1NzQ5MyIsDQogICAgInB0LTRmNjUzYjM5NjkiDQogICBdLA0KICAgImNoYXJzIjogMjgwDQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzljYHkuozmnaEiLA0KICAgImhlYWRpbmciOiAi6K6w5b2V6KGo5aGr5YaZ5LiO6YCQ57qn5a6h5qC4IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMzcsDQogICAgMzgNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTVhNTlmZjA4YWUiDQogICBdLA0KICAgImNoYXJzIjogNzcNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWNgeS4ieadoSIsDQogICAiaGVhZGluZyI6ICLpooTnrZTovqnmnZDmlpnlvZLmoaMiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzOSwNCiAgICA0MA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNjI3N2U0OTA5MSINCiAgIF0sDQogICAiY2hhcnMiOiA3Mg0KICB9LA0KICB7DQogICAibm8iOiAi56ys5Y2B5Zub5p2hIiwNCiAgICJoZWFkaW5nIjogIuino+mHiuadg+W9kuWxniIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDQxLA0KICAgIDQxDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAxOQ0KICB9LA0KICB7DQogICAibm8iOiAi56ys5Y2B5LqU5p2hIiwNCiAgICJoZWFkaW5nIjogIuaWveihjOaXpeacn+S4juaXp+inhOWumuW6n+atoiIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDQyLA0KICAgIDQzDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC03NTZiYWYwZmUzIg0KICAgXSwNCiAgICJjaGFycyI6IDcyDQogIH0NCiBdLA0KICJpdGVtcyI6IFsNCiAgInJ1bGUtaGI2Nzk1MDA2NTRjIiwNCiAgInB0LWU3NjU0YjkzYjciLA0KICAicHQtMjJkODA0Njk2ZCIsDQogICJwdC00Y2M1MWJiMjFiIiwNCiAgInB0LTM3ODNjM2QxOTQiLA0KICAicHQtMGRlYzJlN2Y1NSIsDQogICJwdC02NDEzOGQ3Zjg4IiwNCiAgInB0LWViMGUzZjI2YTUiLA0KICAicHQtY2VhMWMwZDYwMSIsDQogICJwdC0xZGEwMTI0YTU0IiwNCiAgInB0LTZjMTU1ODk5MTkiLA0KICAicHQtODhjN2Y1NzQ5MyIsDQogICJwdC00ZjY1M2IzOTY5IiwNCiAgInB0LTVhNTlmZjA4YWUiLA0KICAicHQtNjI3N2U0OTA5MSIsDQogICJwdC03NTZiYWYwZmUzIg0KIF0sDQogIm5vdGVzIjogWw0KICAi5pys5Lu25piv5rGH57yW5YiH54mH77yM5peg56ug77yM5q2j5paH5Y+q5pyJ56ys5LiA5p2h6Iez56ys5Y2B5LqU5p2h77yM5p2h5Y+36L+e57ut44CB5peg6YeN5aSN77yb5q+P6IqCIGBub2Ag5Y6f5qC35oqE5p2h5Y+377yM6IqC5ZCN5piv5oiR5oyJ5p2h5oSP5qaC5ous55qE77yI5YWo6YOoIGRlcml2ZWTvvIzljp/mlofmsqHmnInlsI/moIfpopjvvInjgIIiLA0KICAi6aG156CB6KGM77ya56ysIDEg6KGM44CMLSAyMjMgLeOAjeS4juesrCAzNSDooYzjgIwtIDIyNCAt44CN5piv5rGH57yWIFBERiDnmoTliIbpobXmoIforrDjgILnrKwgMSDooYzlubblhaXpppboioLjgIzmoIfpopjkuI7mloflj7fjgI3vvIgx4oCTNCDooYzvvInvvJvnrKwgMzUg6KGM6JC95Zyo56ys5Y2B5LiA5p2h77yIMjPigJMzNiDooYzvvInljLrpl7TlhoXvvIzmlYXnrKzljYHkuIDmnaHot6ggMjIzLzIyNCDkuKTpobXjgIIiLA0KICAicnVsZS1oYjY3OTUwMDY1NGMg5piv5paH5qGj57qn5p2h55uu77yI5peg5byV5paH77yJ77yM5pS+5Zyo6aaW6IqC44CM5qCH6aKY5LiO5paH5Y+344CN5bm26K6h5YWl5paH5qGj57qnIGl0ZW1z44CCIiwNCiAgInB0LWU3NjU0YjkzYjcg55qE5byV5paH5bCx5piv56ysIDPigJM0IOihjOeahOagh+mimO+8i+aWh+WPt+ihjO+8jOS4juaWh+aho+e6p+adoeebruWQjOiQvemmluiKguOAgiIsDQogICJwdC0xZGEwMTI0YTU044CBcHQtNmMxNTU4OTkxOSDnmoTmoIfpopjluKbjgIznrKzlhavmnaHigKbigKbvvZznrKzljYHmnaHigKbigKbjgI3ov5nnp43lkIjlubbnl5Xov7nvvIzkvYblvJXmlofliIbliKvlj6rmnInnrKzkuZ3mnaHjgIHnrKzljYHmnaHnmoTkuIDlj6XvvIzmjInlvJXmlofokL3ngrnliIbliKvlvZLlhaXnrKzkuZ3mnaHjgIHnrKzljYHmnaHvvIzmnKrmjInmoIfpopjph4znmoTliY3ljYrlj6Xmi4bjgIIiLA0KICAi56ys5Y2B5Zub5p2h77yI6Kej6YeK5p2D77yJ44CB56ys5LqU5p2h77yI5pe26Ze06KaB5rGC77yJ44CB56ys5YWt5p2h77yI57uT5p6c6K6h5YiG77yJ44CB56ys5LiD5p2h77yI5LiT5a625bCP57uE57uE5oiQ77yJ5rKh5pyJ5a+55bqU5p2h55uu77yM5Y+q5L2c57uT5p6E6IqC54K55L+d55WZ44CCIg0KIF0NCn0=
+{
+ "key": "hb679500654c",
+ "title": "中国传媒大学博士研究生学位论文预答辩工作办法（研究生院〔2025〕4号）",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "标题",
+   "heading": "标题与文号",
+   "heading_kind": "derived",
+   "lines": [
+    2,
+    4
+   ],
+   "items": [
+    "rule-hb679500654c",
+    "pt-e7654b93b7"
+   ],
+   "chars": 45
+  },
+  {
+   "no": "第一条",
+   "heading": "制定目的与依据",
+   "heading_kind": "derived",
+   "lines": [
+    5,
+    6
+   ],
+   "items": [
+    "pt-22d804696d"
+   ],
+   "chars": 79
+  },
+  {
+   "no": "第二条",
+   "heading": "预答辩的宗旨",
+   "heading_kind": "derived",
+   "lines": [
+    7,
+    8
+   ],
+   "items": [
+    "pt-4cc51bb21b"
+   ],
+   "chars": 74
+  },
+  {
+   "no": "第三条",
+   "heading": "须参加预答辩的博士生范围",
+   "heading_kind": "derived",
+   "lines": [
+    9,
+    9
+   ],
+   "items": [
+    "pt-3783c3d194"
+   ],
+   "chars": 36
+  },
+  {
+   "no": "第四条",
+   "heading": "参加预答辩的审核同意",
+   "heading_kind": "derived",
+   "lines": [
+    10,
+    10
+   ],
+   "items": [
+    "pt-0dec2e7f55"
+   ],
+   "chars": 30
+  },
+  {
+   "no": "第五条",
+   "heading": "预答辩的时间要求",
+   "heading_kind": "derived",
+   "lines": [
+    11,
+    11
+   ],
+   "items": [],
+   "chars": 20
+  },
+  {
+   "no": "第六条",
+   "heading": "预答辩结果的计分与用途",
+   "heading_kind": "derived",
+   "lines": [
+    12,
+    12
+   ],
+   "items": [],
+   "chars": 36
+  },
+  {
+   "no": "第七条",
+   "heading": "组织单位与专家小组的组成",
+   "heading_kind": "derived",
+   "lines": [
+    13,
+    16
+   ],
+   "items": [],
+   "chars": 150
+  },
+  {
+   "no": "第八条",
+   "heading": "责任博导的出席义务与回避",
+   "heading_kind": "derived",
+   "lines": [
+    17,
+    19
+   ],
+   "items": [
+    "pt-64138d7f88",
+    "pt-eb0e3f26a5"
+   ],
+   "chars": 103
+  },
+  {
+   "no": "第九条",
+   "heading": "学位论文送交专家的时限",
+   "heading_kind": "derived",
+   "lines": [
+    20,
+    20
+   ],
+   "items": [
+    "pt-cea1c0d601",
+    "pt-1da0124a54"
+   ],
+   "chars": 29
+  },
+  {
+   "no": "第十条",
+   "heading": "专家小组的审查职责与评分",
+   "heading_kind": "derived",
+   "lines": [
+    21,
+    22
+   ],
+   "items": [
+    "pt-6c15589919"
+   ],
+   "chars": 75
+  },
+  {
+   "no": "第十一条",
+   "heading": "预答辩的十项程序",
+   "heading_kind": "derived",
+   "lines": [
+    23,
+    36
+   ],
+   "items": [
+    "pt-88c7f57493",
+    "pt-4f653b3969"
+   ],
+   "chars": 280
+  },
+  {
+   "no": "第十二条",
+   "heading": "记录表填写与逐级审核",
+   "heading_kind": "derived",
+   "lines": [
+    37,
+    38
+   ],
+   "items": [
+    "pt-5a59ff08ae"
+   ],
+   "chars": 77
+  },
+  {
+   "no": "第十三条",
+   "heading": "预答辩材料归档",
+   "heading_kind": "derived",
+   "lines": [
+    39,
+    40
+   ],
+   "items": [
+    "pt-6277e49091"
+   ],
+   "chars": 72
+  },
+  {
+   "no": "第十四条",
+   "heading": "解释权归属",
+   "heading_kind": "derived",
+   "lines": [
+    41,
+    41
+   ],
+   "items": [],
+   "chars": 19
+  },
+  {
+   "no": "第十五条",
+   "heading": "施行日期与旧规定废止",
+   "heading_kind": "derived",
+   "lines": [
+    42,
+    43
+   ],
+   "items": [
+    "pt-756baf0fe3"
+   ],
+   "chars": 72
+  }
+ ],
+ "items": [
+  "rule-hb679500654c",
+  "pt-e7654b93b7",
+  "pt-22d804696d",
+  "pt-4cc51bb21b",
+  "pt-3783c3d194",
+  "pt-0dec2e7f55",
+  "pt-64138d7f88",
+  "pt-eb0e3f26a5",
+  "pt-cea1c0d601",
+  "pt-1da0124a54",
+  "pt-6c15589919",
+  "pt-88c7f57493",
+  "pt-4f653b3969",
+  "pt-5a59ff08ae",
+  "pt-6277e49091",
+  "pt-756baf0fe3"
+ ],
+ "notes": [
+  "本件是汇编切片，无章，正文只有第一条至第十五条，条号连续、无重复；每节 `no` 原样抄条号，节名是我按条意概括的（全部 derived，原文没有小标题）。",
+  "页码行：第 1 行「- 223 -」与第 35 行「- 224 -」是汇编 PDF 的分页标记。第 1 行并入首节「标题与文号」（1–4 行）；第 35 行落在第十一条（23–36 行）区间内，故第十一条跨 223/224 两页。",
+  "rule-hb679500654c 是文档级条目（无引文），放在首节「标题与文号」并计入文档级 items。",
+  "pt-e7654b93b7 的引文就是第 3–4 行的标题＋文号行，与文档级条目同落首节。",
+  "pt-1da0124a54、pt-6c15589919 的标题带「第八条……｜第十条……」这种合并痕迹，但引文分别只有第九条、第十条的一句，按引文落点分别归入第九条、第十条，未按标题里的前半句拆。",
+  "第十四条（解释权）、第五条（时间要求）、第六条（结果计分）、第七条（专家小组组成）没有对应条目，只作结构节点保留。"
+ ]
+}

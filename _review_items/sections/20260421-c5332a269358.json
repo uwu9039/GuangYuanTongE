@@ -1,1 +1,69 @@
-ewogImtleSI6ICIyMDI2MDQyMS1jNTMzMmEyNjkzNTgiLAogInRpdGxlIjogIuWvvOW4iOeugOS7iy3njovmmZQiLAogInRydW5jYXRlZCI6IGZhbHNlLAogInNlY3Rpb25zIjogWwogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIumhtemdouahhuaetuS4juWvvOiIquiPnOWNlSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFsxLCA2Ml0sCiAgICJpdGVtcyI6IFsicHQtZmRmMjZiMjkwZCIsICJwdC0yNWM0MDhiMzBlIiwgInB0LWVhZjE2ZmVkMmIiLCAicHQtZWM2NjVlOWU1OSIsICJwdC1jYmE3YjA4MzZlIiwgInB0LWJhN2MxZjI5YTAiLCAicHQtZGUyNGE1ZDNmZSIsICJwdC1jMzc4ZTM4ZmVmIiwgInB0LTNmNzE0YzE1MDciLCAicHQtYjU2YmQ3NmYzNSIsICJwdC03MTlhNzJkMDk5IiwgInB0LTJlNzlhYWE2NjkiXSwKICAgImNoYXJzIjogMzI2CiAgfSwKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLlj5Hmlofkv6Hmga/kuI7ogpblg4/lm74iLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbNjMsIDY0XSwKICAgIml0ZW1zIjogW10sCiAgICJjaGFycyI6IDEyMgogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi5Z+65pys5L+h5oGvIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzY1LCA3MF0sCiAgICJpdGVtcyI6IFsicHQtZTBiMWRmNzBjOCJdLAogICAiY2hhcnMiOiAxMTYKICB9LAogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIuS4quS6uueugOS7iyIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzcxLCA3NV0sCiAgICJpdGVtcyI6IFsicHQtMjVkODI2NzJlNCIsICJwdC1lZTI3ZjE0ZDZmIiwgInB0LTRkMzY4NjgzY2QiLCAicHQtM2IwMGU2ZWQ1OCJdLAogICAiY2hhcnMiOiA0OTMKICB9LAogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIuaJv+aLheeahOS4u+imgeenkeeglOmhueebriIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzc2LCA4MV0sCiAgICJpdGVtcyI6IFtdLAogICAiY2hhcnMiOiAyOTEKICB9LAogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIuS7o+ihqOaAp+Wtpuacr+aIkOaenCIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzgyLCAxMDhdLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogNTk4NwogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi6aG16ISa54mI5p2D5LiO5Zyw5Z2AIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzEwOSwgMTExXSwKICAgIml0ZW1zIjogWyJwdC05Y2MyNDI0MDBkIl0sCiAgICJjaGFycyI6IDEyOQogIH0KIF0sCiAiaXRlbXMiOiBbInB0LWZkZjI2YjI5MGQiLCAicHQtMjVjNDA4YjMwZSIsICJwdC1lYWYxNmZlZDJiIiwgInB0LWVjNjY1ZTllNTkiLCAicHQtY2JhN2IwODM2ZSIsICJwdC1iYTdjMWYyOWEwIiwgInB0LWRlMjRhNWQzZmUiLCAicHQtYzM3OGUzOGZlZiIsICJwdC0zZjcxNGMxNTA3IiwgInB0LWI1NmJkNzZmMzUiLCAicHQtNzE5YTcyZDA5OSIsICJwdC0yZTc5YWFhNjY5IiwgInB0LWUwYjFkZjcwYzgiLCAicHQtMjVkODI2NzJlNCIsICJwdC1lZTI3ZjE0ZDZmIiwgInB0LTRkMzY4NjgzY2QiLCAicHQtM2IwMGU2ZWQ1OCIsICJwdC05Y2MyNDI0MDBkIl0sCiAibm90ZXMiOiBbCiAgIuWFqOaWh+S4uuaVmeW4iOS4quS6uuS4u+mhte+8muesrCAxIOihjOS4uumhtemdouagh+mimOOAgeesrCAy4oCTNjEg6KGM5Li656uZ54K55a+86Iiq44CB56ysIDYyIOihjOS4uuato+aWh+agh+mimO+8iOS4juesrCAxIOihjOmHjeWkje+8ie+8jOWQiOW5tuS4uuOAjOmhtemdouahhuaetuS4juWvvOiIquiPnOWNleOAjeiKguOAgiIsCiAgInB0LTJlNzlhYWE2Njkg55qE5byV5paH6Ieq56ysIDU1IOihjOWvvOiIqui1t+OAgeWwvuWtl+iQveWIsOesrCA2MiDooYzmraPmlofmoIfpopjvvIzmlYXlvZLlhaXpobXpnaLmoYbmnrboioLjgIIiLAogICLljp/mlofml6Dnq6DmnaHnvJblj7fvvIzlhajpg6joioIgbm8g55So44CM4oCU44CN44CCIgogXQp9Cg==
+{
+ "key": "20260421-c5332a269358",
+ "title": "导师简介-王晔",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "页面框架与导航菜单",
+   "heading_kind": "derived",
+   "lines": [1, 62],
+   "items": ["pt-fdf26b290d", "pt-25c408b30e", "pt-eaf16fed2b", "pt-ec665e9e59", "pt-cba7b0836e", "pt-ba7c1f29a0", "pt-de24a5d3fe", "pt-c378e38fef", "pt-3f714c1507", "pt-b56bd76f35", "pt-719a72d099", "pt-2e79aaa669"],
+   "chars": 326
+  },
+  {
+   "no": "—",
+   "heading": "发文信息与肖像图",
+   "heading_kind": "derived",
+   "lines": [63, 64],
+   "items": [],
+   "chars": 122
+  },
+  {
+   "no": "—",
+   "heading": "基本信息",
+   "heading_kind": "derived",
+   "lines": [65, 70],
+   "items": ["pt-e0b1df70c8"],
+   "chars": 116
+  },
+  {
+   "no": "—",
+   "heading": "个人简介",
+   "heading_kind": "author",
+   "lines": [71, 75],
+   "items": ["pt-25d82672e4", "pt-ee27f14d6f", "pt-4d368683cd", "pt-3b00e6ed58"],
+   "chars": 493
+  },
+  {
+   "no": "—",
+   "heading": "承担的主要科研项目",
+   "heading_kind": "author",
+   "lines": [76, 81],
+   "items": [],
+   "chars": 291
+  },
+  {
+   "no": "—",
+   "heading": "代表性学术成果",
+   "heading_kind": "author",
+   "lines": [82, 108],
+   "items": [],
+   "chars": 5987
+  },
+  {
+   "no": "—",
+   "heading": "页脚版权与地址",
+   "heading_kind": "derived",
+   "lines": [109, 111],
+   "items": ["pt-9cc242400d"],
+   "chars": 129
+  }
+ ],
+ "items": ["pt-fdf26b290d", "pt-25c408b30e", "pt-eaf16fed2b", "pt-ec665e9e59", "pt-cba7b0836e", "pt-ba7c1f29a0", "pt-de24a5d3fe", "pt-c378e38fef", "pt-3f714c1507", "pt-b56bd76f35", "pt-719a72d099", "pt-2e79aaa669", "pt-e0b1df70c8", "pt-25d82672e4", "pt-ee27f14d6f", "pt-4d368683cd", "pt-3b00e6ed58", "pt-9cc242400d"],
+ "notes": [
+  "全文为教师个人主页：第 1 行为页面标题、第 2–61 行为站点导航、第 62 行为正文标题（与第 1 行重复），合并为「页面框架与导航菜单」节。",
+  "pt-2e79aaa669 的引文自第 55 行导航起、尾字落到第 62 行正文标题，故归入页面框架节。",
+  "原文无章条编号，全部节 no 用「—」。"
+ ]
+}

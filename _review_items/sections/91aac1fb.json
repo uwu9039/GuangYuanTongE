@@ -1,1 +1,137 @@
-ew0KICJrZXkiOiAiOTFhYWMxZmIiLA0KICJ0aXRsZSI6ICLmiLfnsY3np5HluLjop4Hpl67popjlj4rop6PlhrPlip7ms5Uo5pyA5pawKSIsDQogInRydW5jYXRlZCI6IGZhbHNlLA0KICJzZWN0aW9ucyI6IFsNCiAgew0KICAgIm5vIjogIjEuIiwNCiAgICJoZWFkaW5nIjogIuWcqOagoeeUn+WmguS9leWKnuaWsOi6q+S7veivgeaIluS4ouWkseihpeWKnui6q+S7veivgSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDEsDQogICAgOQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicnVsZS05MWFhYzFmYiIsDQogICAgInB0LTJjYzIyNGM1MjEiLA0KICAgICJwdC1kNTI5OGE3ZmIyIg0KICAgXSwNCiAgICJjaGFycyI6IDE4Nw0KICB9LA0KICB7DQogICAibm8iOiAiMi4iLA0KICAgImhlYWRpbmciOiAi5Zyo5qCh55Sf5aaC5L2V5ouN54Wn44CB5aSN5Y2w5oiW5omr5o+P6Ieq5bex5oi357GN5Y2h6aaW6aG1IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMTAsDQogICAgMTcNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTkxMjNmYjQ3NjkiDQogICBdLA0KICAgImNoYXJzIjogMTcxDQogIH0sDQogIHsNCiAgICJubyI6ICIzLiIsDQogICAiaGVhZGluZyI6ICLlnKjmoKHnlJ/lpoLkvZXlgJ/lh7roh6rlt7HmiLfnsY3ljaHljp/ku7blpI3ljbAiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxOCwNCiAgICAyMw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMjMzNDAwZjk0MSINCiAgIF0sDQogICAiY2hhcnMiOiAxNDYNCiAgfSwNCiAgew0KICAgIm5vIjogIjQuIiwNCiAgICJoZWFkaW5nIjogIuW+gOWxiuavleS4mueUn+WmguS9leWKnuavleS4mui/geaIt+WbnuWOn+exjSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDI0LA0KICAgIDMwDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0yNTMxMTkyYjRjIg0KICAgXSwNCiAgICJjaGFycyI6IDE1Nw0KICB9LA0KICB7DQogICAibm8iOiAiNS4iLA0KICAgImhlYWRpbmciOiAi5q+V5Lia55Sf5aaC5L2V5Yqe6L+H5pyf5oi35Y+j6L+B56e76K+B5bu25pyfIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMzEsDQogICAgMzcNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTEzM2UzNTUxZGIiDQogICBdLA0KICAgImNoYXJzIjogMTUyDQogIH0sDQogIHsNCiAgICJubyI6ICI2LiIsDQogICAiaGVhZGluZyI6ICLmiLfnsY3lnKjmoKHnmoTlrabnlJ/lpoLkvZXlip7lhazlronmnLrlhbPml6Dniq/nvaror4HmmI4iLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzOCwNCiAgICA0MQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNGY3ZGVlODU5ZiIsDQogICAgInB0LWExNmNhZWYyMTUiDQogICBdLA0KICAgImNoYXJzIjogOTQNCiAgfSwNCiAgew0KICAgIm5vIjogIjcuIiwNCiAgICJoZWFkaW5nIjogIuaIt+exjeS4jeWcqOWtpuagoeeahOWtpueUn+WmguS9leWKnuWxheS9j+ivgeaYjiIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDQyLA0KICAgIDQ0DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1jNDNkODNmYjU5Ig0KICAgXSwNCiAgICJjaGFycyI6IDcxDQogIH0sDQogIHsNCiAgICJubyI6ICI4LiIsDQogICAiaGVhZGluZyI6ICLlhbbku5bmiLfnsY3pl67popjlpoLkvZXlkqjor6IiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA0NSwNCiAgICA0OA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZjE1ZjQ2OWQ4MyIsDQogICAgInB0LTUzYzIxYWQ0YjIiDQogICBdLA0KICAgImNoYXJzIjogNzgNCiAgfQ0KIF0sDQogIml0ZW1zIjogWw0KICAicnVsZS05MWFhYzFmYiIsDQogICJwdC1kNTI5OGE3ZmIyIiwNCiAgInB0LWExNmNhZWYyMTUiLA0KICAicHQtNTNjMjFhZDRiMiIsDQogICJwdC0yY2MyMjRjNTIxIiwNCiAgInB0LTkxMjNmYjQ3NjkiLA0KICAicHQtMjMzNDAwZjk0MSIsDQogICJwdC0yNTMxMTkyYjRjIiwNCiAgInB0LTEzM2UzNTUxZGIiLA0KICAicHQtNGY3ZGVlODU5ZiIsDQogICJwdC1jNDNkODNmYjU5IiwNCiAgInB0LWYxNWY0NjlkODMiDQogXSwNCiAibm90ZXMiOiBbDQogICLmnKzku7bmmK8gUERGIOaKveWPluS7tu+8iOmXrumBk+WOn+aWh++8jDMg6aG1IC8g57qmIDEyNTIg5a2X77yJ77yM6K+N5bqP6KKr5oq95Y+W5omT5Lmx77ya56ysIDEg6KGM5qCH6aKY5q6L55WZ5Li644CM5Y+KIOazleaIt+exjeenkeW4uOingemXrumimCDop6PlhrPlip7jgI3vvIjlupTkuLrjgIzmiLfnsY3np5HluLjop4Hpl67popjlj4rop6PlhrPlip7ms5XjgI3vvInvvIzmraPmlofph4zjgIzlip4v55CGL+S7ti/lj4rjgI3nrYnlrZflpKfph4/mj5Lov5vlj6XkuK3vvIjlpoLjgIzlrabnlJ/mnKzkurrmjIHoh6rlt7HmnInmlYjor4Eg5Zyo5bel5L2c5pe26Ze05YiwIDMwIOWPt+alvCAxMDEg55CG5oi357GN56eR5Yqe44CN77yJ44CC5bCP5qCH6aKY5piv5oiR6K+76YCa5YaF5a655ZCO5qaC5ous55qE77yM5YWo6YOoIGRlcml2ZWTvvIzmsqHmnInnhafmioTov5nkupvplJnkubHlrZfkuLLjgIIiLA0KICAi5YWo5paH5rKh5pyJ56ug5p2h57yW5Y+377yM5Y+q5pyJIDEuIOiHsyA4LiDlhavkuKrnvJblj7fpl67nrZTvvIzmlYXmjInlhavkuKrpl67nrZTliIfoioLvvIxgbm9gIOWPluOAjDEu44CN4oCU44CMOC7jgI3vvJvnvJblj7fov57nu63jgIHml6Dph43lpI3jgIIiLA0KICAi56ysIDEg6IqC5LuO56ysIDEg6KGM77yI5qCH6aKY6KGM77yJ6LW377yacHQtMmNjMjI0YzUyMSDnmoTlvJXmlofku47moIfpopjooYzkuIDot6/ov57liLDnrKwgMSDpl67nmoTnrZTmoYjvvIzoi6XmiormoIfpopjljZXni6znq4voioLvvIzor6XlvJXmloflsLHot6joioLokL3kuI3kuoblnLDvvIzmlYXmoIfpopjlubblhaXnrKwgMSDpl67kuIDoioLvvIjnrKwgMeKAkzkg6KGM77yJ44CCIiwNCiAgIuesrCA44oCTOSDooYzmmK/nrKwgMSDpl67nmoTjgIzlpIfms6jjgI3vvIjkuqzlpJbov4HmiLfmlrDnlJ/lnKjlrozmiJDokL3miLfliY3ml6Dlip7nkIbouqvku73or4HvvIzpobvokL3miLflkI7miY3og73lip7vvInvvIzlubblhaXnrKwgMSDpl67jgIIiLA0KICAicnVsZS05MWFhYzFmYiDkuLrmlofmoaPnuqfmnaHnm67vvIjml6DlvJXmlofvvInvvIzlt7LliJflhaXnrKwgMSDoioLlubbkv53nlZnlnKjmlofmoaPnuqcgaXRlbXMg5Lit44CCIiwNCiAgInRydW5jYXRlZD1mYWxzZSDnmoTkvp3mja7vvJrnrKwgOCDpl67ku6XjgIzmiLfnsY3np5Hlkqjor6LmiJbogIXnlLXor53lkqjor6LjgILjgI3mlLblsL7vvIzpl67nrZQgMeKAkzgg5Y+36L+e57ut77yM5pyq6KeB5pat5q6177yb5L2G5a2X56ym57uf6K6h77yI5pys5Lu2IDEyNTLvvInkuI7moIfpopjooYzplJnkubHor7TmmI7mir3lj5bmnKzouqvkuI3lubLlh4DjgIIiDQogXQ0KfQ0K
+{
+ "key": "91aac1fb",
+ "title": "户籍科常见问题及解决办法(最新)",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "1.",
+   "heading": "在校生如何办新身份证或丢失补办身份证",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    9
+   ],
+   "items": [
+    "rule-91aac1fb",
+    "pt-2cc224c521",
+    "pt-d5298a7fb2"
+   ],
+   "chars": 187
+  },
+  {
+   "no": "2.",
+   "heading": "在校生如何拍照、复印或扫描自己户籍卡首页",
+   "heading_kind": "derived",
+   "lines": [
+    10,
+    17
+   ],
+   "items": [
+    "pt-9123fb4769"
+   ],
+   "chars": 171
+  },
+  {
+   "no": "3.",
+   "heading": "在校生如何借出自己户籍卡原件复印",
+   "heading_kind": "derived",
+   "lines": [
+    18,
+    23
+   ],
+   "items": [
+    "pt-233400f941"
+   ],
+   "chars": 146
+  },
+  {
+   "no": "4.",
+   "heading": "往届毕业生如何办毕业迁户回原籍",
+   "heading_kind": "derived",
+   "lines": [
+    24,
+    30
+   ],
+   "items": [
+    "pt-2531192b4c"
+   ],
+   "chars": 157
+  },
+  {
+   "no": "5.",
+   "heading": "毕业生如何办过期户口迁移证延期",
+   "heading_kind": "derived",
+   "lines": [
+    31,
+    37
+   ],
+   "items": [
+    "pt-133e3551db"
+   ],
+   "chars": 152
+  },
+  {
+   "no": "6.",
+   "heading": "户籍在校的学生如何办公安机关无犯罪证明",
+   "heading_kind": "derived",
+   "lines": [
+    38,
+    41
+   ],
+   "items": [
+    "pt-4f7dee859f",
+    "pt-a16caef215"
+   ],
+   "chars": 94
+  },
+  {
+   "no": "7.",
+   "heading": "户籍不在学校的学生如何办居住证明",
+   "heading_kind": "derived",
+   "lines": [
+    42,
+    44
+   ],
+   "items": [
+    "pt-c43d83fb59"
+   ],
+   "chars": 71
+  },
+  {
+   "no": "8.",
+   "heading": "其他户籍问题如何咨询",
+   "heading_kind": "derived",
+   "lines": [
+    45,
+    48
+   ],
+   "items": [
+    "pt-f15f469d83",
+    "pt-53c21ad4b2"
+   ],
+   "chars": 78
+  }
+ ],
+ "items": [
+  "rule-91aac1fb",
+  "pt-d5298a7fb2",
+  "pt-a16caef215",
+  "pt-53c21ad4b2",
+  "pt-2cc224c521",
+  "pt-9123fb4769",
+  "pt-233400f941",
+  "pt-2531192b4c",
+  "pt-133e3551db",
+  "pt-4f7dee859f",
+  "pt-c43d83fb59",
+  "pt-f15f469d83"
+ ],
+ "notes": [
+  "本件是 PDF 抽取件（问道原文，3 页 / 约 1252 字），词序被抽取打乱：第 1 行标题残留为「及 法户籍科常见问题 解决办」（应为「户籍科常见问题及解决办法」），正文里「办/理/件/及」等字大量插进句中（如「学生本人持自己有效证 在工作时间到 30 号楼 101 理户籍科办」）。小标题是我读通内容后概括的，全部 derived，没有照抄这些错乱字串。",
+  "全文没有章条编号，只有 1. 至 8. 八个编号问答，故按八个问答切节，`no` 取「1.」—「8.」；编号连续、无重复。",
+  "第 1 节从第 1 行（标题行）起：pt-2cc224c521 的引文从标题行一路连到第 1 问的答案，若把标题单独立节，该引文就跨节落不了地，故标题并入第 1 问一节（第 1–9 行）。",
+  "第 8–9 行是第 1 问的「备注」（京外迁户新生在完成落户前无办理身份证，须落户后才能办），并入第 1 问。",
+  "rule-91aac1fb 为文档级条目（无引文），已列入第 1 节并保留在文档级 items 中。",
+  "truncated=false 的依据：第 8 问以「户籍科咨询或者电话咨询。」收尾，问答 1–8 号连续，未见断段；但字符统计（本件 1252）与标题行错乱说明抽取本身不干净。"
+ ]
+}

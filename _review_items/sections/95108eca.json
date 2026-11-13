@@ -1,1 +1,369 @@
-ew0KICJrZXkiOiAiOTUxMDhlY2EiLA0KICJ0aXRsZSI6ICLkuK3lm73kvKDlqpLlpKflraYgMjAyNi0yMDI3IOWtpuW5tOWtpueUn+e8tOi0uemAmuefpSIsDQogInRydW5jYXRlZCI6IGZhbHNlLA0KICJzZWN0aW9ucyI6IFsNCiAgew0KICAgIm5vIjogIuagh+mimCIsDQogICAiaGVhZGluZyI6ICLmoIfpopjkuI7lr7zor60iLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxLA0KICAgIDMNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInJ1bGUtOTUxMDhlY2EiLA0KICAgICJwdC1mNzUwZjE0NzAwIg0KICAgXSwNCiAgICJjaGFycyI6IDYzDQogIH0sDQogIHsNCiAgICJubyI6ICLkuIDjgIEiLA0KICAgImhlYWRpbmciOiAi57y06LS55pe26Ze0IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA0LA0KICAgIDYNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWEyNGZiZWExZjYiDQogICBdLA0KICAgImNoYXJzIjogNTgNCiAgfSwNCiAgew0KICAgIm5vIjogIuS6jOOAgSIsDQogICAiaGVhZGluZyI6ICLnvLTotLnmlrnlvI8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDcsDQogICAgMTENCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTllMzYzOGI2ODIiLA0KICAgICJwdC01MDczNzQxZThkIiwNCiAgICAicHQtMWVkMDljOTgyMCIsDQogICAgInB0LTNiOWM4OTQyODIiDQogICBdLA0KICAgImNoYXJzIjogMTM3DQogIH0sDQogIHsNCiAgICJubyI6ICLkuInjgIEiLA0KICAgImhlYWRpbmciOiAi5a2m5a6/6LS55qCH5YeGIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMiwNCiAgICAxOQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMTUyNjFhMGRlMyIsDQogICAgInB0LTJlYTJiZmZhYmEiDQogICBdLA0KICAgImNoYXJzIjogMjExDQogIH0sDQogIHsNCiAgICJubyI6ICLlm5vjgIEiLA0KICAgImhlYWRpbmciOiAi56Wo5o2u5p+l6K+iIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyMCwNCiAgICAyMw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZDczMWU5ZWZlNyINCiAgIF0sDQogICAiY2hhcnMiOiA3Nw0KICB9LA0KICB7DQogICAibm8iOiAi5LqU44CBIiwNCiAgICJoZWFkaW5nIjogIumTtuihjOWNoeWKnueQhuebuOWFs+S6i+mhuSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMjQsDQogICAgNTUNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTNhN2NjOWJmYzQiDQogICBdLA0KICAgImNoYXJzIjogNzU5DQogIH0sDQogIHsNCiAgICJubyI6ICLkupTvvIjkuIDvvIkiLA0KICAgImhlYWRpbmciOiAi5paw55Sf55Sz6aKG6ZO26KGM5Y2hIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyNSwNCiAgICA0Mg0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogNDQ4DQogIH0sDQogIHsNCiAgICJubyI6ICLkupTvvIjkuIDvvIkxIiwNCiAgICJoZWFkaW5nIjogIuS4reWbveS8oOWqkuWkp+WtpuacrOmDqOWtpueUnyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMjgsDQogICAgNDANCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTE1MmM5MDM5YzciLA0KICAgICJwdC1kNmUxODkwMjgzIiwNCiAgICAicHQtYzNlMGNjYWM1NyIsDQogICAgInB0LThlMWZkNWQzNjIiLA0KICAgICJwdC1iOWMxNzEzYmRhIiwNCiAgICAicHQtMzdjODAxODQ2MSINCiAgIF0sDQogICAiY2hhcnMiOiAzMzYNCiAgfSwNCiAgew0KICAgIm5vIjogIuS6lO+8iOS4gO+8iTIiLA0KICAgImhlYWRpbmciOiAi5rW35Y2X5Zu96ZmF5a2m6Zmi5a2m55SfIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA0MSwNCiAgICA0Mg0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtN2NjYzE5MzFiOCINCiAgIF0sDQogICAiY2hhcnMiOiAzOA0KICB9LA0KICB7DQogICAibm8iOiAi5LqU77yI5LqM77yJIiwNCiAgICJoZWFkaW5nIjogIuWcqOagoeeUn+abtOaNoue7keWumumTtuihjOWNoSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNDMsDQogICAgNTUNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTUwODA0NWQzMGYiLA0KICAgICJwdC1mNWFmMzliODYzIg0KICAgXSwNCiAgICJjaGFycyI6IDMwMA0KICB9LA0KICB7DQogICAibm8iOiAi5LqU77yI5LqM77yJ5pa55rOV5LiAIiwNCiAgICJoZWFkaW5nIjogIuaWueazleS4gO+8muagoeWbree7n+S4gOaUr+S7mOW5s+WPsCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNDQsDQogICAgNDgNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWRjNDIxZmQ5MzUiDQogICBdLA0KICAgImNoYXJzIjogMTIwDQogIH0sDQogIHsNCiAgICJubyI6ICLkupTvvIjkuozvvInmlrnms5XkuowiLA0KICAgImhlYWRpbmciOiAi5pa55rOV5LqM77ya5Lit5Zu95Lyg5aqS5aSn5a2mIEFwcCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNDksDQogICAgNTINCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTI4ZDNkMWZmNDAiDQogICBdLA0KICAgImNoYXJzIjogOTYNCiAgfSwNCiAgew0KICAgIm5vIjogIuWFreOAgSIsDQogICAiaGVhZGluZyI6ICLms6jmhI/kuovpobkiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDU2LA0KICAgIDYzDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1hY2RiMDJmMjcwIiwNCiAgICAicHQtYmY1N2U2NmY2OCIsDQogICAgInB0LWIwMmNmOTM3NzQiLA0KICAgICJwdC01OGY5OTU0OGJhIg0KICAgXSwNCiAgICJjaGFycyI6IDE5OQ0KICB9LA0KICB7DQogICAibm8iOiAi6JC95qy+IiwNCiAgICJoZWFkaW5nIjogIuiBlOezu+aWueW8j+S4juiQveasviIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDY0LA0KICAgIDY3DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0zMGNlMGNjMDM5IiwNCiAgICAicHQtMDgwOGUxMjdlYiINCiAgIF0sDQogICAiY2hhcnMiOiA2OQ0KICB9LA0KICB7DQogICAibm8iOiAi6ZmE5Lu2MSIsDQogICAiaGVhZGluZyI6ICLkuK3kvKDmoKHlm63nu5/kuIDmlK/ku5jlubPlj7Dkvb/nlKjor7TmmI4iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDY4LA0KICAgIDc1DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0yMWZlODZmMTNiIg0KICAgXSwNCiAgICJjaGFycyI6IDIwOQ0KICB9LA0KICB7DQogICAibm8iOiAi6ZmE5Lu2MiIsDQogICAiaGVhZGluZyI6ICLkuK3lm73kvKDlqpLlpKflraYgQVBQIOS9v+eUqOivtOaYjiIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNzcsDQogICAgOTINCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTczYjVmMGVjYmUiLA0KICAgICJwdC1kNTE3Yjc3NWM4IiwNCiAgICAicHQtMmZlNTNlZmRhZSIsDQogICAgInB0LTc2MmQ0ZGMzMzgiLA0KICAgICJwdC1hMmVkYmIwYTQ1Ig0KICAgXSwNCiAgICJjaGFycyI6IDM3Mw0KICB9LA0KICB7DQogICAibm8iOiAi6ZmE5Lu2MyIsDQogICAiaGVhZGluZyI6ICLlrabnlJ/lnKjnur/nlLPor7fpk7booYzljaHmtYHnqIsiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDk0LA0KICAgIDEyMA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNmQ1NzExNTI3NSINCiAgIF0sDQogICAiY2hhcnMiOiA1MjENCiAgfSwNCiAgew0KICAgIm5vIjogIumZhOS7tjMg5q2l6aqkMSIsDQogICAiaGVhZGluZyI6ICLpooblj5bnlLXlrZDmoKHlm63ljaEiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDk1LA0KICAgIDk3DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiA1OA0KICB9LA0KICB7DQogICAibm8iOiAi6ZmE5Lu2MyDmraXpqqQyIiwNCiAgICJoZWFkaW5nIjogIuW8gOWni+eUs+ivtyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTAwLA0KICAgIDEwMQ0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogNDMNCiAgfSwNCiAgew0KICAgIm5vIjogIumZhOS7tjMg5q2l6aqkMyIsDQogICAiaGVhZGluZyI6ICLouqvku73or4bliKsiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDEwMiwNCiAgICAxMDYNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTRhMzdlMzg2ODciDQogICBdLA0KICAgImNoYXJzIjogMTE5DQogIH0sDQogIHsNCiAgICJubyI6ICLpmYTku7YzIOatpemqpDQiLA0KICAgImhlYWRpbmciOiAi5byA5oi35aOw5piO5raJ56iO5aOw5piO5Y+K562+5ZCNIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMDcsDQogICAgMTA4DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiA0NQ0KICB9LA0KICB7DQogICAibm8iOiAi6ZmE5Lu2MyDmraXpqqQ1IiwNCiAgICJoZWFkaW5nIjogIuaPkOS6pOeUs+ivtyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTA5LA0KICAgIDExMA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMjQNCiAgfSwNCiAgew0KICAgIm5vIjogIumZhOS7tjMg5rOo5oSP5LqL6aG5IiwNCiAgICJoZWFkaW5nIjogIuazqOaEj+S6i+mhuSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTExLA0KICAgIDEyMA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZjBkZjllZGRkOCIsDQogICAgInB0LTY5NmU5YjMwNDgiLA0KICAgICJwdC0xMGJiNGYwYTRlIiwNCiAgICAicHQtMTU5YjIzNGM2YSINCiAgIF0sDQogICAiY2hhcnMiOiAyMTcNCiAgfQ0KIF0sDQogIml0ZW1zIjogWw0KICAicnVsZS05NTEwOGVjYSIsDQogICJwdC1hMjRmYmVhMWY2IiwNCiAgInB0LTllMzYzOGI2ODIiLA0KICAicHQtMWVkMDljOTgyMCIsDQogICJwdC0zYjljODk0MjgyIiwNCiAgInB0LTE1MjYxYTBkZTMiLA0KICAicHQtMmVhMmJmZmFiYSIsDQogICJwdC1kNzMxZTllZmU3IiwNCiAgInB0LTNhN2NjOWJmYzQiLA0KICAicHQtMTUyYzkwMzljNyIsDQogICJwdC1kNmUxODkwMjgzIiwNCiAgInB0LWMzZTBjY2FjNTciLA0KICAicHQtOGUxZmQ1ZDM2MiIsDQogICJwdC1iOWMxNzEzYmRhIiwNCiAgInB0LTM3YzgwMTg0NjEiLA0KICAicHQtN2NjYzE5MzFiOCIsDQogICJwdC01MDgwNDVkMzBmIiwNCiAgInB0LWRjNDIxZmQ5MzUiLA0KICAicHQtMjhkM2QxZmY0MCIsDQogICJwdC1mNWFmMzliODYzIiwNCiAgInB0LWFjZGIwMmYyNzAiLA0KICAicHQtYmY1N2U2NmY2OCIsDQogICJwdC1iMDJjZjkzNzc0IiwNCiAgInB0LTU4Zjk5NTQ4YmEiLA0KICAicHQtMzBjZTBjYzAzOSIsDQogICJwdC03M2I1ZjBlY2JlIiwNCiAgInB0LWQ1MTdiNzc1YzgiLA0KICAicHQtMmZlNTNlZmRhZSIsDQogICJwdC03NjJkNGRjMzM4IiwNCiAgInB0LWEyZWRiYjBhNDUiLA0KICAicHQtNmQ1NzExNTI3NSIsDQogICJwdC00YTM3ZTM4Njg3IiwNCiAgInB0LWYwZGY5ZWRkZDgiLA0KICAicHQtNjk2ZTliMzA0OCIsDQogICJwdC0xMGJiNGYwYTRlIiwNCiAgInB0LTE1OWIyMzRjNmEiLA0KICAicHQtZjc1MGYxNDcwMCIsDQogICJwdC01MDczNzQxZThkIiwNCiAgInB0LTA4MDhlMTI3ZWIiLA0KICAicHQtMjFmZTg2ZjEzYiINCiBdLA0KICJub3RlcyI6IFsNCiAgInJ1bGUtOTUxMDhlY2Eg5Li65paH5qGj57qn5p2h55uu77yI5peg5byV5paH77yM5qCH6aKY4omI5paH5qGj5ZCN77yJ77yM5YiX6L+b5paH5qGj57qnIGl0ZW1z77yM5bm25pS+6L+b6aaW6IqC44CM5qCH6aKY5LiO5a+86K+t44CN44CCIiwNCiAgIuesrCAxIOihjOaYr+WOn+aWh+Wkp+agh+mimO+8jDLigJMzIOihjOaYr+OAjOWQjOWtpu+8jOaCqOWlve+8geOAjeWvvOivre+8jOaXoOWwj+agh+mimO+8jOWQiOW5tuS4uuOAjOagh+mimOS4juWvvOivreOAje+8iGRlcml2ZWTvvInjgIIiLA0KICAi56ysIDI04oCTNTUg6KGM5piv5LiA6Iez5LqU57qn5bWM5aWX77ya5LqUIOKGkiDvvIjkuIDvvIkv77yI5LqM77yJIOKGkiAx44CBLzLjgIHkuI7jgIzmlrnms5XkuIAv5pa55rOV5LqM44CN77yM5oyJ55yf5bWM5aWX6K6w77yI54i26IqC5Yy66Ze05YiG5Yir6KaG55uW5a2Q6IqC77yJ44CCIiwNCiAgIuesrCA2NOKAkzY3IOihjOS4uuiBlOezu+eUteivneS4juiQveasvu+8iOi0ouWKoeWkhOeUteivneOAgeS4reWbveS8oOWqkuWkp+Wtpui0ouWKoeWkhOOAgTIwMjYg5bm0IDgg5pyIIDUg5pel77yJ77yM5Y2V5YiX44CM6IGU57O75pa55byP5LiO6JC95qy+44CN77yIZGVyaXZlZO+8ie+8jOacquW5tuWFpeOAjOWFreOAgeazqOaEj+S6i+mhueOAjeOAgiIsDQogICLpmYTku7YgMSDmraPmloflnKggNjjigJM3NSDooYzvvIjlkKvnrKzkuIDmraXoh7PnrKzlm5vmraXvvInvvIzkuK3pl7TnrKwgNzYg6KGM5piv56m66KGM44CB5pyq6K6h5YWl44CC6ZmE5Lu2IDIg5Li6IDc34oCTOTIg6KGM77yI56ys5LiA5q2l44CB56ys5LqM5q2l77yM5pyr5bC+IDMg5q6144CM54m55Yir5rOo5oSP44CN5LuN5bGe6ZmE5Lu2IDIg55qE5pSv5LuY6ZmQ6aKd6K+05piO77yJ44CCIiwNCiAgInB0LTA4MDhlMTI3ZWIg55qE5qCH6aKY5piv44CM5YWt44CB5rOo5oSP5LqL6aG5IOmZhOS7tjHigKbjgI3mi7zmjqXkuLLvvIzkvYblvJXmlofotbfngrnlnKjnrKwgNjUg6KGM77yI6JC95qy+5aSE77yJ77yM5pWF6JC944CM6IGU57O75pa55byP5LiO6JC95qy+44CN5LiA6IqC77yM5pyq5oyJ5qCH6aKY56Gs5aGe6L+b44CM5YWt44CB44CN44CCIiwNCiAgIumZhOS7tiAz77yIOTTigJMxMjAg6KGM77yJ5ZCr5q2l6aqkIDHigJM1IOS4juOAjOazqOaEj+S6i+mhueOAje+8jOWdh+aMieWOn+aWh+Wwj+agh+mimOWQhOaIkOWtkOiKgu+8m+acq+ihjOOAjDXjgIHmnKrmu6EgMTgg5ZGo5bKB55qE5a2m55Sf57q/5LiK5Yqe55CG5pe26L+Y6ZyA5LiK5Lyg55uR5oqk5Lq66Lqr5Lu96K+B5q2j5Y+N6Z2i44CB5oi35Y+j57C/5YWz57O76aG144CC44CN5Li65q2j5paH57uT5bC+77yM5pyq6KeB5oiq5pat44CCIg0KIF0NCn0=
+{
+ "key": "95108eca",
+ "title": "中国传媒大学 2026-2027 学年学生缴费通知",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "标题",
+   "heading": "标题与导语",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    3
+   ],
+   "items": [
+    "rule-95108eca",
+    "pt-f750f14700"
+   ],
+   "chars": 63
+  },
+  {
+   "no": "一、",
+   "heading": "缴费时间",
+   "heading_kind": "author",
+   "lines": [
+    4,
+    6
+   ],
+   "items": [
+    "pt-a24fbea1f6"
+   ],
+   "chars": 58
+  },
+  {
+   "no": "二、",
+   "heading": "缴费方式",
+   "heading_kind": "author",
+   "lines": [
+    7,
+    11
+   ],
+   "items": [
+    "pt-9e3638b682",
+    "pt-5073741e8d",
+    "pt-1ed09c9820",
+    "pt-3b9c894282"
+   ],
+   "chars": 137
+  },
+  {
+   "no": "三、",
+   "heading": "学宿费标准",
+   "heading_kind": "author",
+   "lines": [
+    12,
+    19
+   ],
+   "items": [
+    "pt-15261a0de3",
+    "pt-2ea2bffaba"
+   ],
+   "chars": 211
+  },
+  {
+   "no": "四、",
+   "heading": "票据查询",
+   "heading_kind": "author",
+   "lines": [
+    20,
+    23
+   ],
+   "items": [
+    "pt-d731e9efe7"
+   ],
+   "chars": 77
+  },
+  {
+   "no": "五、",
+   "heading": "银行卡办理相关事项",
+   "heading_kind": "author",
+   "lines": [
+    24,
+    55
+   ],
+   "items": [
+    "pt-3a7cc9bfc4"
+   ],
+   "chars": 759
+  },
+  {
+   "no": "五（一）",
+   "heading": "新生申领银行卡",
+   "heading_kind": "author",
+   "lines": [
+    25,
+    42
+   ],
+   "items": [],
+   "chars": 448
+  },
+  {
+   "no": "五（一）1",
+   "heading": "中国传媒大学本部学生",
+   "heading_kind": "author",
+   "lines": [
+    28,
+    40
+   ],
+   "items": [
+    "pt-152c9039c7",
+    "pt-d6e1890283",
+    "pt-c3e0ccac57",
+    "pt-8e1fd5d362",
+    "pt-b9c1713bda",
+    "pt-37c8018461"
+   ],
+   "chars": 336
+  },
+  {
+   "no": "五（一）2",
+   "heading": "海南国际学院学生",
+   "heading_kind": "author",
+   "lines": [
+    41,
+    42
+   ],
+   "items": [
+    "pt-7ccc1931b8"
+   ],
+   "chars": 38
+  },
+  {
+   "no": "五（二）",
+   "heading": "在校生更换绑定银行卡",
+   "heading_kind": "author",
+   "lines": [
+    43,
+    55
+   ],
+   "items": [
+    "pt-508045d30f",
+    "pt-f5af39b863"
+   ],
+   "chars": 300
+  },
+  {
+   "no": "五（二）方法一",
+   "heading": "方法一：校园统一支付平台",
+   "heading_kind": "author",
+   "lines": [
+    44,
+    48
+   ],
+   "items": [
+    "pt-dc421fd935"
+   ],
+   "chars": 120
+  },
+  {
+   "no": "五（二）方法二",
+   "heading": "方法二：中国传媒大学 App",
+   "heading_kind": "author",
+   "lines": [
+    49,
+    52
+   ],
+   "items": [
+    "pt-28d3d1ff40"
+   ],
+   "chars": 96
+  },
+  {
+   "no": "六、",
+   "heading": "注意事项",
+   "heading_kind": "author",
+   "lines": [
+    56,
+    63
+   ],
+   "items": [
+    "pt-acdb02f270",
+    "pt-bf57e66f68",
+    "pt-b02cf93774",
+    "pt-58f99548ba"
+   ],
+   "chars": 199
+  },
+  {
+   "no": "落款",
+   "heading": "联系方式与落款",
+   "heading_kind": "derived",
+   "lines": [
+    64,
+    67
+   ],
+   "items": [
+    "pt-30ce0cc039",
+    "pt-0808e127eb"
+   ],
+   "chars": 69
+  },
+  {
+   "no": "附件1",
+   "heading": "中传校园统一支付平台使用说明",
+   "heading_kind": "author",
+   "lines": [
+    68,
+    75
+   ],
+   "items": [
+    "pt-21fe86f13b"
+   ],
+   "chars": 209
+  },
+  {
+   "no": "附件2",
+   "heading": "中国传媒大学 APP 使用说明",
+   "heading_kind": "author",
+   "lines": [
+    77,
+    92
+   ],
+   "items": [
+    "pt-73b5f0ecbe",
+    "pt-d517b775c8",
+    "pt-2fe53efdae",
+    "pt-762d4dc338",
+    "pt-a2edbb0a45"
+   ],
+   "chars": 373
+  },
+  {
+   "no": "附件3",
+   "heading": "学生在线申请银行卡流程",
+   "heading_kind": "author",
+   "lines": [
+    94,
+    120
+   ],
+   "items": [
+    "pt-6d57115275"
+   ],
+   "chars": 521
+  },
+  {
+   "no": "附件3 步骤1",
+   "heading": "领取电子校园卡",
+   "heading_kind": "author",
+   "lines": [
+    95,
+    97
+   ],
+   "items": [],
+   "chars": 58
+  },
+  {
+   "no": "附件3 步骤2",
+   "heading": "开始申请",
+   "heading_kind": "author",
+   "lines": [
+    100,
+    101
+   ],
+   "items": [],
+   "chars": 43
+  },
+  {
+   "no": "附件3 步骤3",
+   "heading": "身份识别",
+   "heading_kind": "author",
+   "lines": [
+    102,
+    106
+   ],
+   "items": [
+    "pt-4a37e38687"
+   ],
+   "chars": 119
+  },
+  {
+   "no": "附件3 步骤4",
+   "heading": "开户声明涉税声明及签名",
+   "heading_kind": "author",
+   "lines": [
+    107,
+    108
+   ],
+   "items": [],
+   "chars": 45
+  },
+  {
+   "no": "附件3 步骤5",
+   "heading": "提交申请",
+   "heading_kind": "author",
+   "lines": [
+    109,
+    110
+   ],
+   "items": [],
+   "chars": 24
+  },
+  {
+   "no": "附件3 注意事项",
+   "heading": "注意事项",
+   "heading_kind": "author",
+   "lines": [
+    111,
+    120
+   ],
+   "items": [
+    "pt-f0df9eddd8",
+    "pt-696e9b3048",
+    "pt-10bb4f0a4e",
+    "pt-159b234c6a"
+   ],
+   "chars": 217
+  }
+ ],
+ "items": [
+  "rule-95108eca",
+  "pt-a24fbea1f6",
+  "pt-9e3638b682",
+  "pt-1ed09c9820",
+  "pt-3b9c894282",
+  "pt-15261a0de3",
+  "pt-2ea2bffaba",
+  "pt-d731e9efe7",
+  "pt-3a7cc9bfc4",
+  "pt-152c9039c7",
+  "pt-d6e1890283",
+  "pt-c3e0ccac57",
+  "pt-8e1fd5d362",
+  "pt-b9c1713bda",
+  "pt-37c8018461",
+  "pt-7ccc1931b8",
+  "pt-508045d30f",
+  "pt-dc421fd935",
+  "pt-28d3d1ff40",
+  "pt-f5af39b863",
+  "pt-acdb02f270",
+  "pt-bf57e66f68",
+  "pt-b02cf93774",
+  "pt-58f99548ba",
+  "pt-30ce0cc039",
+  "pt-73b5f0ecbe",
+  "pt-d517b775c8",
+  "pt-2fe53efdae",
+  "pt-762d4dc338",
+  "pt-a2edbb0a45",
+  "pt-6d57115275",
+  "pt-4a37e38687",
+  "pt-f0df9eddd8",
+  "pt-696e9b3048",
+  "pt-10bb4f0a4e",
+  "pt-159b234c6a",
+  "pt-f750f14700",
+  "pt-5073741e8d",
+  "pt-0808e127eb",
+  "pt-21fe86f13b"
+ ],
+ "notes": [
+  "rule-95108eca 为文档级条目（无引文，标题≈文档名），列进文档级 items，并放进首节「标题与导语」。",
+  "第 1 行是原文大标题，2–3 行是「同学，您好！」导语，无小标题，合并为「标题与导语」（derived）。",
+  "第 24–55 行是一至五级嵌套：五 → （一）/（二） → 1、/2、与「方法一/方法二」，按真嵌套记（父节区间分别覆盖子节）。",
+  "第 64–67 行为联系电话与落款（财务处电话、中国传媒大学财务处、2026 年 8 月 5 日），单列「联系方式与落款」（derived），未并入「六、注意事项」。",
+  "附件 1 正文在 68–75 行（含第一步至第四步），中间第 76 行是空行、未计入。附件 2 为 77–92 行（第一步、第二步，末尾 3 段「特别注意」仍属附件 2 的支付限额说明）。",
+  "pt-0808e127eb 的标题是「六、注意事项 附件1…」拼接串，但引文起点在第 65 行（落款处），故落「联系方式与落款」一节，未按标题硬塞进「六、」。",
+  "附件 3（94–120 行）含步骤 1–5 与「注意事项」，均按原文小标题各成子节；末行「5、未满 18 周岁的学生线上办理时还需上传监护人身份证正反面、户口簿关系页。」为正文结尾，未见截断。"
+ ]
+}

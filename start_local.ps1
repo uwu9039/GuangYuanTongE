@@ -1,1 +1,35 @@
-IyDmnKzlnLDotbfjgIzmoKHlm63lip7kuovlkJHlr7zjgI3vvJpodHRwOi8vMTI3LjAuMC4xOjc4NjAKIwojICAgLlxzdGFydF9sb2NhbC5wczEgICAgICAgICAgICAgICMg6buY6K6k5byAIGRlbnNlIOmAmumBk++8iOeUqCAuZW52IOmHjOeahOeZvueCvCBLZXnvvIkKIyAgIC5cc3RhcnRfbG9jYWwucHMxIC1Ob0RlbnNlICAgICAjIOWPqui3keWtl+mdoumAmumBk++8iOaWree9kS/nnIHpkrEv5Y6L5bu26L+f5pe255So77yJCiMgICAuXHN0YXJ0X2xvY2FsLnBzMSAtUG9ydCA4MDgwICAgIyDmjaLnq6/lj6MKIwojIOS+nei1luS4jeWcqOezu+e7nyBQeXRob24g6YeM77yI5pys5py6IHBpcCDlnKjmspnnrrHph4zoo4XkuI3kuobvvInvvIzkuInku7bkuovpg73lnKjku5PlupPlhoXop6PlhrPvvJoKIyAgIC52ZW52XExpYlxzaXRlLXBhY2thZ2VzICAgZmFzdGFwaSAvIHV2aWNvcm4gLyBzdGFybGV0dGUgLyBjbGlja++8iHRvb2xzXGxvY2FsX2luc3RhbGwucHkg6KejIHdoZWVsIOi/m+WOu+eahO+8iQojICAgLnRtcFx2ZWN0b3IgICAgICAgICAgICAgICBzb3VyY2VzXHZlY3RvciDlj6ror7vvvIwzIOS4quWIhueJh+WcqOi/memHjOaLvOaIkCB2ZWN0b3JzLm5wee+8iFZFQ1RPUl9ESVIg5oyH6L+H5p2l77yJCiMgICBrYi5zcWxpdGUgICAgICAgICAgICAgICAgIOWOn+aWhy/lvJXmlocv6KGo5qC86KGM55qEIEZUUyDlupPvvIh0b29sc1xidWlsZF9rYl9kYi5weSDlu7rnmoTvvIwzOTggTULvvIkKcGFyYW0oW3N3aXRjaF0kTm9EZW5zZSwgW2ludF0kUG9ydCA9IDc4NjApCgokRXJyb3JBY3Rpb25QcmVmZXJlbmNlID0gIlN0b3AiClNldC1Mb2NhdGlvbiAtTGl0ZXJhbFBhdGggJFBTU2NyaXB0Um9vdAoKJGVudjpQWVRIT05QQVRIID0gSm9pbi1QYXRoICRQU1NjcmlwdFJvb3QgIi52ZW52XExpYlxzaXRlLXBhY2thZ2VzIgokdmVjdG9yRGlyID0gSm9pbi1QYXRoICRQU1NjcmlwdFJvb3QgIi50bXBcdmVjdG9yIgppZiAoVGVzdC1QYXRoIChKb2luLVBhdGggJHZlY3RvckRpciAidmVjdG9ycy5ucHkiKSkgewogICAgJGVudjpWRUNUT1JfRElSID0gJHZlY3RvckRpcgp9IGVsc2UgewogICAgV3JpdGUtSG9zdCAiW+aPkOekul0gJHZlY3RvckRpciDph4zmsqHmnIkgdmVjdG9ycy5ucHnvvIzljp/mlofor63kuYnmo4DntKLov5nmnaHohb/kvJrnqbrvvIjpl67nrZTkuI3lj5flvbHlk43vvIkiCn0KCiMgZGVuc2Ug6buY6K6k5byA77ya5omL5YaZ5pS55YaZIDE0OSDpopjnmoQgaGl0QDUg5LuOIDg4LjYlIOaKrOWIsCA5OS4zJe+8jOS7o+S7t+aYr+avj+S4quayoeingei/h+eahOmXruWPpQojIOS4gOasoeS6keerryBlbWJlZGRpbmfvvIgrMjUwfjMzMCBtc++8jOWRveS4reajgOe0oue8k+WtmOWQjiB+MTAgbXPvvInjgIIKaWYgKCROb0RlbnNlKSB7CiAgICBSZW1vdmUtSXRlbSBFbnY6XFJFVFJJRVZBTF9ERU5TRSAtRXJyb3JBY3Rpb24gU2lsZW50bHlDb250aW51ZQogICAgV3JpdGUtSG9zdCAiZGVuc2XvvJrlhbPvvIjlj6rot5HlrZfpnaLpgJrpgZPvvIkiCn0gZWxzZSB7CiAgICAkZW52OlJFVFJJRVZBTF9ERU5TRSA9ICIxIgogICAgV3JpdGUtSG9zdCAiZGVuc2XvvJrlvIDvvIjnmb7ngrwgcXdlbjMuNy10ZXh0LWVtYmVkZGluZ++8iSIKfQoKV3JpdGUtSG9zdCAi5ZCv5YqoIGh0dHA6Ly8xMjcuMC4wLjE6JFBvcnQgIO+8iEN0cmwrQyDlgZzvvIkiCnB5dGhvbiAtbSB1dmljb3JuIGFwcDphcHAgLS1ob3N0IDEyNy4wLjAuMSAtLXBvcnQgJFBvcnQgLS13b3JrZXJzIDEK
+# 本地起「校园办事向导」：http://127.0.0.1:7860
+#
+#   .\start_local.ps1              # 默认开 dense 通道（用 .env 里的百炼 Key）
+#   .\start_local.ps1 -NoDense     # 只跑字面通道（断网/省钱/压延迟时用）
+#   .\start_local.ps1 -Port 8080   # 换端口
+#
+# 依赖不在系统 Python 里（本机 pip 在沙箱里装不了），三件事都在仓库内解决：
+#   .venv\Lib\site-packages   fastapi / uvicorn / starlette / click（tools\local_install.py 解 wheel 进去的）
+#   .tmp\vector               sources\vector 只读，3 个分片在这里拼成 vectors.npy（VECTOR_DIR 指过来）
+#   kb.sqlite                 原文/引文/表格行的 FTS 库（tools\build_kb_db.py 建的，398 MB）
+param([switch]$NoDense, [int]$Port = 7860)
+
+$ErrorActionPreference = "Stop"
+Set-Location -LiteralPath $PSScriptRoot
+
+$env:PYTHONPATH = Join-Path $PSScriptRoot ".venv\Lib\site-packages"
+$vectorDir = Join-Path $PSScriptRoot ".tmp\vector"
+if (Test-Path (Join-Path $vectorDir "vectors.npy")) {
+    $env:VECTOR_DIR = $vectorDir
+} else {
+    Write-Host "[提示] $vectorDir 里没有 vectors.npy，原文语义检索这条腿会空（问答不受影响）"
+}
+
+# dense 默认开：手写改写 149 题的 hit@5 从 88.6% 抬到 99.3%，代价是每个没见过的问句
+# 一次云端 embedding（+250~330 ms，命中检索缓存后 ~10 ms）。
+if ($NoDense) {
+    Remove-Item Env:\RETRIEVAL_DENSE -ErrorAction SilentlyContinue
+    Write-Host "dense：关（只跑字面通道）"
+} else {
+    $env:RETRIEVAL_DENSE = "1"
+    Write-Host "dense：开（百炼 qwen3.7-text-embedding）"
+}
+
+Write-Host "启动 http://127.0.0.1:$Port  （Ctrl+C 停）"
+python -m uvicorn app:app --host 127.0.0.1 --port $Port --workers 1

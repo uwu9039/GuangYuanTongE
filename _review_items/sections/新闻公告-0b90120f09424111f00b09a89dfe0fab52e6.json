@@ -1,1 +1,114 @@
-ewogImtleSI6ICLmlrDpl7vlhazlkYotMGI5MDEyMGYwOTQyNDExMWYwMGIwOWE4OWRmZTBmYWI1MmU2IiwKICJ0aXRsZSI6ICLlhbPkuo4yMDIz5bm05q+V5Lia56CU56m255Sf5ZCR5Zu+5Lmm6aaG5o+Q5Lqk57q46LSo54mI5ZKM55S15a2Q54mI5a2m5L2N6K665paH55qE6YCa55+lIiwKICJ0cnVuY2F0ZWQiOiBmYWxzZSwKICJzZWN0aW9ucyI6IFsKICB7CiAgICJubyI6ICLmoIfpopgiLAogICAiaGVhZGluZyI6ICLlhbPkuo4yMDIz5bm05q+V5Lia56CU56m255Sf5ZCR5Zu+5Lmm6aaG5o+Q5Lqk57q46LSo54mI5ZKM55S15a2Q54mI5a2m5L2N6K665paH55qE6YCa55+lIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbMSwgNV0sCiAgICJpdGVtcyI6IFsicHQtMGFiOTRmNjFkMSJdLAogICAiY2hhcnMiOiAyMjkKICB9LAogIHsKICAgIm5vIjogIuato+aWhyIsCiAgICJoZWFkaW5nIjogIuWvuTIwMjPlubTmr5XkuJrnoJTnqbbnlJ/nmoTlm5vpobnmj5DkuqTopoHmsYIiLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbNywgMTJdLAogICAiaXRlbXMiOiBbInB0LWM2ZTIwMjRkMDkiXSwKICAgImNoYXJzIjogMzIyCiAgfSwKICB7CiAgICJubyI6ICIxLiIsCiAgICJoZWFkaW5nIjogIueUteWtkOeJiOaPkOS6pO+8mjbmnIgxNuaXpeWJjee9keS4iuaPkOS6pCIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFs5LCA5XSwKICAgIml0ZW1zIjogWyJwdC0zODY1MjE5MGIzIl0sCiAgICJjaGFycyI6IDY3CiAgfSwKICB7CiAgICJubyI6ICIyLiIsCiAgICJoZWFkaW5nIjogIue6uOi0qOeJiDPku73vvJo35pyIN+aXpeWJjee7j+WfueWFu+WNleS9jee7n+S4gOaKpemAgSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFsxMCwgMTBdLAogICAiaXRlbXMiOiBbInB0LThmYzNjMjU0MzMiXSwKICAgImNoYXJzIjogOTIKICB9LAogIHsKICAgIm5vIjogIjMuIiwKICAgImhlYWRpbmciOiAi5pyq5oiQ5Yqf5o+Q5Lqk55qE5ZCO5p6c77ya5LiN6IO95Yqe55CG56a75qCh5omL57utIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzExLCAxMV0sCiAgICJpdGVtcyI6IFsicHQtZmFkNTFjOWI3YiJdLAogICAiY2hhcnMiOiAzNgogIH0sCiAgewogICAibm8iOiAiNC4iLAogICAiaGVhZGluZyI6ICLlkqjor6LmuKDpgZPvvJrlm77kuabppobnibnol4/lu7rorr7pg6giLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbMTIsIDEyXSwKICAgIml0ZW1zIjogWyJwdC03NDViZTYzZjJiIl0sCiAgICJjaGFycyI6IDcxCiAgfSwKICB7CiAgICJubyI6ICLokL3mrL4iLAogICAiaGVhZGluZyI6ICLpmYTku7bor7TmmI7kuI7lj5HmlofljZXkvY3jgIHml6XmnJ8iLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbMTMsIDE1XSwKICAgIml0ZW1zIjogWyJwdC05M2UwZjA1ZDc2Il0sCiAgICJjaGFycyI6IDI3CiAgfSwKICB7CiAgICJubyI6ICLpmYTku7YiLAogICAiaGVhZGluZyI6ICLlrabkvY3orrrmlofnlLXlrZDniYjmj5DkuqTmtYHnqIsiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsxNiwgMTddLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogMTQKICB9LAogIHsKICAgIm5vIjogIuS4gOOAgSIsCiAgICJoZWFkaW5nIjogIuagoeWGheWkluaPkOS6pOWFpeWPoyIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzE4LCAxOV0sCiAgICJpdGVtcyI6IFtdLAogICAiY2hhcnMiOiA3OAogIH0sCiAgewogICAibm8iOiAi5LqM44CBIiwKICAgImhlYWRpbmciOiAi54K55Ye74oCc5a2m5L2N6K665paH5o+Q5Lqk4oCd6L+b5YWl5o+Q5Lqk57O757ufIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbMjAsIDMyXSwKICAgIml0ZW1zIjogWyJwdC0xNDYzMDg3ODUxIl0sCiAgICJjaGFycyI6IDgyMwogIH0sCiAgewogICAibm8iOiAi5LqM44CB5rOo5oSP5LqL6aG5IiwKICAgImhlYWRpbmciOiAi6K+35rOo5oSP5Lul5LiL5Yeg54K5IiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbMjEsIDI5XSwKICAgIml0ZW1zIjogWyJwdC0yMDY0YTc5NmVmIiwgInB0LTlkY2FhYjdmNmYiLCAicHQtMTA2ZDNkMWY4ZiIsICJwdC04NjhmMmY2ZmRiIiwgInB0LTA4ZjkxZWJmNzAiLCAicHQtMDI3MjM4YjdkMiIsICJwdC1kYjFkNTZiMDEzIiwgInB0LTVlMzk0ODk4OTEiXSwKICAgImNoYXJzIjogNzE0CiAgfSwKICB7CiAgICJubyI6ICLkuozjgIE4Lu+8iDHvvInigJTvvIgz77yJIiwKICAgImhlYWRpbmciOiAi5a6h5qC454q25oCB55qE5LiJ56eN5p+l6K+i6YCU5b6EIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzMwLCAzMl0sCiAgICJpdGVtcyI6IFsicHQtMjAxNGU0YWNiYyIsICJwdC0zZjUyZWI1NTA2IiwgInB0LTg1NWYzZTc5YTYiXSwKICAgImNoYXJzIjogNzUKICB9CiBdLAogIml0ZW1zIjogWyJwdC0wYWI5NGY2MWQxIiwgInB0LWM2ZTIwMjRkMDkiLCAicHQtMzg2NTIxOTBiMyIsICJwdC04ZmMzYzI1NDMzIiwgInB0LWZhZDUxYzliN2IiLCAicHQtNzQ1YmU2M2YyYiIsICJwdC05M2UwZjA1ZDc2IiwgInB0LTE0NjMwODc4NTEiLCAicHQtMjA2NGE3OTZlZiIsICJwdC05ZGNhYWI3ZjZmIiwgInB0LTEwNmQzZDFmOGYiLCAicHQtODY4ZjJmNmZkYiIsICJwdC0wOGY5MWViZjcwIiwgInB0LTAyNzIzOGI3ZDIiLCAicHQtZGIxZDU2YjAxMyIsICJwdC01ZTM5NDg5ODkxIiwgInB0LTIwMTRlNGFjYmMiLCAicHQtM2Y1MmViNTUwNiIsICJwdC04NTVmM2U3OWE2Il0sCiAibm90ZXMiOiBbCiAgIuesrCAy4oCTNCDooYzmmK/pobXpnaLlhYPmlbDmja7vvIjmnaXmupAgVVJM44CB5qCP55uu44CM5paw6Ze75YWs5ZGK44CN44CB5L2c6ICF44CM5Zu+5Lmm6aaG44CN77yJ77yM5LiO56ysIDUg6KGM5Y+R5biD5pe26Ze05LiA6LW35bm25YWl5qCH6aKY6IqC77yb56ysIDYg6KGM5Li656m66KGM44CCIiwKICAi5q2j5paH5Y+q5pyJ44CMMS7jgI3igJTjgIw0LuOAjeWbm+S4que8luWPt+imgeaxgu+8iOaXoOWwj+agh+mimO+8ie+8jOaVheeItuiKguOAjOato+aWh+OAjeWMheS9jyA0IOS4quWtkOiKgu+8jOWtkOiKguWMuumXtOWQhCAxIOihjO+8jOWdh+S4uuecn+W1jOWll+OAgiIsCiAgIuesrCAxMyDooYzjgIzpmYTku7bvvJrlrabkvY3orrrmlofnlLXlrZDniYjmj5DkuqTmtYHnqIvjgI3vvIsxNOKAkzE1IOihjOiQveasvu+8iOOAjOWbviDkuaYg6aaG44CN44CBMjAyM+W5tDXmnIgxNeaXpe+8ieWQiOS4uuiQveasvuiKgu+8m3B0LTkzZTBmMDVkNzYg55qE5byV5paH5q2j5aW96Leo6L+ZIDMg6KGM44CCIiwKICAi56ysIDE2IOihjOOAjOmZhOS7tjrjgI3kuI7nrKwgMTcg6KGM44CM5a2m5L2N6K665paH55S15a2Q54mI5o+Q5Lqk5rWB56iL44CN5piv6ZmE5Lu25q2j5paH55qE5qCH6aKY5Z2X77yM5Y2V54us5oiQ6IqC77yI5Y6f5paH5q2k5aSE55qE5YaS5Y+35piv5Y2K6KeS44CMOuOAje+8jOato+aWh+esrCAxMyDooYznlKjnmoTmmK/lhajop5LjgIzvvJrjgI3vvIzlsZ7ljp/mlofkuI3kuIDoh7TvvIzmnKrmlLnvvInjgIIiLAogICLpmYTku7bmraPmloflj6rmnInjgIzkuIDjgIHjgI3jgIzkuozjgIHjgI3kuKTkuKrkuIDnuqfpobnvvJrjgIzkuozjgIHjgI3ov5nkuIDooYzlkIzml7blhpnkuobngrnlh7vlhaXlj6PjgIHloavlhpnooajljZXjgIHmj5DkuqTkv6Hmga/kuInku7bkuovvvIzlhbblkI4gMjEg6KGM55qE44CM6K+35rOo5oSP5Lul5LiL5Yeg54K577ya44CN5LiO5YW25LiLIDEu4oCTOC7jgIHvvIgx77yJ4oCT77yIM++8iemDveaYr+ivpeiKguWGheWuue+8jOWboOatpOaKiiAyMeKAkzI5IOS4jiAzMOKAkzMyIOS9nOS4uuOAjOS6jOOAgeOAjeeahOWtkOiKguOAgiIsCiAgIuWOn+aWh+agh+eCuea3t+eUqO+8muesrCAyNyDooYzjgIzpnIAy4oCUM+S4quW3peS9nOaXpeWkhOeQhizorrrmloflrqHmoLjjgI3nlKjljYrop5LpgJflj7fvvJvnrKwgMjQg6KGM5Lmm5ZCN5Y+35YaF5Li644CK5L+h5oGv5LiO5paH54yu5Y+C6ICD5paH54yu6JGX5b2V6KeE5YiZ44CL77yIR0IvVCA3NzE0LTIwMTXvvInvvJvlnYfmjInljp/mlofkv53nlZnjgIIiLAogICIzMOKAkzMyIOihjOeahO+8iDHvvInvvIgy77yJ77yIM++8ieaYr+esrCA4IOeCueOAjOKApuWPr+S7pemAmui/h+S7peS4i+aWueW8j+iOt+WPluiuuuaWh+WuoeaguOeKtuaAgeaDheWGte+8muOAjeeahOS4i+aMgumhue+8jOaVheiKguWPt+iusOS4uuOAjOS6jOOAgTgu77yIMe+8ieKAlO+8iDPvvInjgI3vvIzkuLrlrprkvY3nlKjnvJblj7fvvIhoZWFkaW5nX2tpbmQ9ZGVyaXZlZO+8ieOAgiIsCiAgIjE5IOadoeadoeebrueahOW8leaWh+WFqOmDqOiQveWcqOacrOaWh+WGhe+8iOaXoOi3qOaWh+S7tuW8leeUqO+8ie+8m+ato+aWh+WIsOesrCAzMiDooYzjgIzvvIgz77yJ4oCm5p+l55yL5a6h5qC454q25oCB44CC44CN57uT5p2f77yM5pyq6KeB5ZCO57ut56ug6IqC5oiW5Zu+54mH77yMdHJ1bmNhdGVkPWZhbHNl44CCIgogXQp9Cg==
+{
+ "key": "新闻公告-0b90120f09424111f00b09a89dfe0fab52e6",
+ "title": "关于2023年毕业研究生向图书馆提交纸质版和电子版学位论文的通知",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "标题",
+   "heading": "关于2023年毕业研究生向图书馆提交纸质版和电子版学位论文的通知",
+   "heading_kind": "author",
+   "lines": [1, 5],
+   "items": ["pt-0ab94f61d1"],
+   "chars": 229
+  },
+  {
+   "no": "正文",
+   "heading": "对2023年毕业研究生的四项提交要求",
+   "heading_kind": "derived",
+   "lines": [7, 12],
+   "items": ["pt-c6e2024d09"],
+   "chars": 322
+  },
+  {
+   "no": "1.",
+   "heading": "电子版提交：6月16日前网上提交",
+   "heading_kind": "derived",
+   "lines": [9, 9],
+   "items": ["pt-38652190b3"],
+   "chars": 67
+  },
+  {
+   "no": "2.",
+   "heading": "纸质版3份：7月7日前经培养单位统一报送",
+   "heading_kind": "derived",
+   "lines": [10, 10],
+   "items": ["pt-8fc3c25433"],
+   "chars": 92
+  },
+  {
+   "no": "3.",
+   "heading": "未成功提交的后果：不能办理离校手续",
+   "heading_kind": "derived",
+   "lines": [11, 11],
+   "items": ["pt-fad51c9b7b"],
+   "chars": 36
+  },
+  {
+   "no": "4.",
+   "heading": "咨询渠道：图书馆特藏建设部",
+   "heading_kind": "derived",
+   "lines": [12, 12],
+   "items": ["pt-745be63f2b"],
+   "chars": 71
+  },
+  {
+   "no": "落款",
+   "heading": "附件说明与发文单位、日期",
+   "heading_kind": "derived",
+   "lines": [13, 15],
+   "items": ["pt-93e0f05d76"],
+   "chars": 27
+  },
+  {
+   "no": "附件",
+   "heading": "学位论文电子版提交流程",
+   "heading_kind": "author",
+   "lines": [16, 17],
+   "items": [],
+   "chars": 14
+  },
+  {
+   "no": "一、",
+   "heading": "校内外提交入口",
+   "heading_kind": "author",
+   "lines": [18, 19],
+   "items": [],
+   "chars": 78
+  },
+  {
+   "no": "二、",
+   "heading": "点击“学位论文提交”进入提交系统",
+   "heading_kind": "author",
+   "lines": [20, 32],
+   "items": ["pt-1463087851"],
+   "chars": 823
+  },
+  {
+   "no": "二、注意事项",
+   "heading": "请注意以下几点",
+   "heading_kind": "author",
+   "lines": [21, 29],
+   "items": ["pt-2064a796ef", "pt-9dcaab7f6f", "pt-106d3d1f8f", "pt-868f2f6fdb", "pt-08f91ebf70", "pt-027238b7d2", "pt-db1d56b013", "pt-5e39489891"],
+   "chars": 714
+  },
+  {
+   "no": "二、8.（1）—（3）",
+   "heading": "审核状态的三种查询途径",
+   "heading_kind": "derived",
+   "lines": [30, 32],
+   "items": ["pt-2014e4acbc", "pt-3f52eb5506", "pt-855f3e79a6"],
+   "chars": 75
+  }
+ ],
+ "items": ["pt-0ab94f61d1", "pt-c6e2024d09", "pt-38652190b3", "pt-8fc3c25433", "pt-fad51c9b7b", "pt-745be63f2b", "pt-93e0f05d76", "pt-1463087851", "pt-2064a796ef", "pt-9dcaab7f6f", "pt-106d3d1f8f", "pt-868f2f6fdb", "pt-08f91ebf70", "pt-027238b7d2", "pt-db1d56b013", "pt-5e39489891", "pt-2014e4acbc", "pt-3f52eb5506", "pt-855f3e79a6"],
+ "notes": [
+  "第 2–4 行是页面元数据（来源 URL、栏目「新闻公告」、作者「图书馆」），与第 5 行发布时间一起并入标题节；第 6 行为空行。",
+  "正文只有「1.」—「4.」四个编号要求（无小标题），故父节「正文」包住 4 个子节，子节区间各 1 行，均为真嵌套。",
+  "第 13 行「附件：学位论文电子版提交流程」＋14–15 行落款（「图 书 馆」、2023年5月15日）合为落款节；pt-93e0f05d76 的引文正好跨这 3 行。",
+  "第 16 行「附件:」与第 17 行「学位论文电子版提交流程」是附件正文的标题块，单独成节（原文此处的冒号是半角「:」，正文第 13 行用的是全角「：」，属原文不一致，未改）。",
+  "附件正文只有「一、」「二、」两个一级项：「二、」这一行同时写了点击入口、填写表单、提交信息三件事，其后 21 行的「请注意以下几点：」与其下 1.–8.、（1）–（3）都是该节内容，因此把 21–29 与 30–32 作为「二、」的子节。",
+  "原文标点混用：第 27 行「需2—3个工作日处理,论文审核」用半角逗号；第 24 行书名号内为《信息与文献参考文献著录规则》（GB/T 7714-2015）；均按原文保留。",
+  "30–32 行的（1）（2）（3）是第 8 点「…可以通过以下方式获取论文审核状态情况：」的下挂项，故节号记为「二、8.（1）—（3）」，为定位用编号（heading_kind=derived）。",
+  "19 条条目的引文全部落在本文内（无跨文件引用）；正文到第 32 行「（3）…查看审核状态。」结束，未见后续章节或图片，truncated=false。"
+ ]
+}

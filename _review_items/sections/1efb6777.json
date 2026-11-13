@@ -1,1 +1,202 @@
-ewogICJrZXkiOiAiMWVmYjY3NzciLAogICJ0aXRsZSI6ICLlrabnp5Hlu7rorr7kuI7lj5HlsZXop4TliJLlpITogYzotKMiLAogICJ0cnVuY2F0ZWQiOiBmYWxzZSwKICAic2VjdGlvbnMiOiBbCiAgICB7CiAgICAgICJubyI6ICLvvIjkuIDvvIkiLAogICAgICAiaGVhZGluZyI6ICLpg6jpl6jogYzotKMiLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFsxLCAyOV0sCiAgICAgICJpdGVtcyI6IFsicHQtOTY0NzVjNjk3ZSJdLAogICAgICAiY2hhcnMiOiA2MzIKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICIiLAogICAgICAiaGVhZGluZyI6ICLpg6jpl6jogYzotKPmgLvov7DvvIjogYzog73lrprkvY3kuI7kuLvopoHogYzotKPojIPlm7TvvIkiLAogICAgICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAgICAibGluZXMiOiBbMywgNV0sCiAgICAgICJpdGVtcyI6IFsicHQtNjNlNzhjNjI1NyIsICJydWxlLTFlZmI2Nzc3Il0sCiAgICAgICJjaGFycyI6IDcwCiAgICB9LAogICAgewogICAgICAibm8iOiAiMSIsCiAgICAgICJoZWFkaW5nIjogIui0r+W9u+aJp+ihjOWbveWutuWPiuS4iue6p+S4u+euoemDqOmXqOaWuemSiOaUv+etluazleinhO+8jOWItuWumuW5tue7hOe7h+WunuaWveWtpuagoeS4remVv+acn+S6i+S4muWPkeWxleaImOeVpeinhOWIkuOAgeWtpuenkeinhOWIkuWSjOacuuaehOW3peS9nOetieaUv+etluWItuW6piIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICAgICJsaW5lcyI6IFs2LCA4XSwKICAgICAgIml0ZW1zIjogWyJwdC0xOGJkZWUzZjdkIl0sCiAgICAgICJjaGFycyI6IDgxCiAgICB9LAogICAgewogICAgICAibm8iOiAiMiIsCiAgICAgICJoZWFkaW5nIjogIuWtpuagoeeroOeoi+eahOeglOeptuOAgeS/ruiuouS4juino+mHiu+8jOe7n+etueWtpuagoeayu+eQhuS4juWItuW6puS9k+ezu+inhOWIkuW7uuiuviIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICAgICJsaW5lcyI6IFs5LCAxMF0sCiAgICAgICJpdGVtcyI6IFsicHQtOGEzOGIyNWFlMCJdLAogICAgICAiY2hhcnMiOiAzNgogICAgfSwKICAgIHsKICAgICAgIm5vIjogIjMiLAogICAgICAiaGVhZGluZyI6ICLnu5/nrbnnvJbliLblrabmoKHkuovkuJrlj5HlsZXlkITliIbop4TliJLjgIHpg6jpl6gv5Y2V5L2N6KeE5YiS5bm2552j5L+D6JC95a6e5LiO55uR5rWLIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgICAgImxpbmVzIjogWzExLCAxMl0sCiAgICAgICJpdGVtcyI6IFsicHQtODdmZjkzZGFkMSJdLAogICAgICAiY2hhcnMiOiA1MAogICAgfSwKICAgIHsKICAgICAgIm5vIjogIjQiLAogICAgICAiaGVhZGluZyI6ICLmjqjov5vlrabmoKHigJzlj4zkuIDmtYHigJ3lu7rorr7vvIzliLblrprlu7rorr7mlrnmoYjjgIHnu5/nrbnotYTph5HliIbphY3lubbokL3lrp7nm5HmtYvogIPmoLgiLAogICAgICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAgICAibGluZXMiOiBbMTMsIDE0XSwKICAgICAgIml0ZW1zIjogWyJwdC0yYTU3YzY2YmM3Il0sCiAgICAgICJjaGFycyI6IDQyCiAgICB9LAogICAgewogICAgICAibm8iOiAiNSIsCiAgICAgICJoZWFkaW5nIjogIuWtpuagoeWtpuenkeW4g+WxgOeuoeeQhuS4jue7hOe7h+W7uuiuvuW3peS9nCIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICAgICJsaW5lcyI6IFsxNSwgMTVdLAogICAgICAiaXRlbXMiOiBbInB0LWU5MWMwMjE2MzIiXSwKICAgICAgImNoYXJzIjogMjEKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICI2IiwKICAgICAgImhlYWRpbmciOiAi5a2m5L2N5o6I5p2D54K55bu66K6+77yM57uf56255a2m5qCh5Y2a5aOr44CB56GV5aOr5a2m5pyv5a2m5L2N5ZKM5LiT5Lia5a2m5L2N5o6I5p2D54K555Sz5oql5LiO6LCD5pW0IiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgICAgImxpbmVzIjogWzE2LCAxN10sCiAgICAgICJpdGVtcyI6IFsicHQtMDVlNTliODM5OCJdLAogICAgICAiY2hhcnMiOiA0NAogICAgfSwKICAgIHsKICAgICAgIm5vIjogIjciLAogICAgICAiaGVhZGluZyI6ICLnu5/nrbnnoJTnqbbnlJ/kuJPkuJrlj4rmlrnlkJHorr7nva7lt6XkvZwiLAogICAgICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAgICAibGluZXMiOiBbMTgsIDE4XSwKICAgICAgIml0ZW1zIjogWyJwdC1iZTE4Mzk4OTk2Il0sCiAgICAgICJjaGFycyI6IDE4CiAgICB9LAogICAgewogICAgICAibm8iOiAiOCIsCiAgICAgICJoZWFkaW5nIjogIuiQveWunuWMl+S6rOW4guaUr+aMgeKAnOWPjOS4gOa1geKAnemrmOagoeW7uuiuvuS7u+WKoe+8jOaOqOi/m+WMl+S6rOW4gumHjeeCueWtpuenkeW7uuiuviIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICAgICJsaW5lcyI6IFsxOSwgMjBdLAogICAgICAiaXRlbXMiOiBbInB0LTY0NmY1YzlmMzciXSwKICAgICAgImNoYXJzIjogNjEKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICI5IiwKICAgICAgImhlYWRpbmciOiAi5bu656uL5YGl5YWo5a2m56eR6K+E5Lyw5py65Yi277yM57uE57uH5a2m56eR6K+E5Lyw44CB5ZGo5pyf5oCn5qC46aqM5LiO5ZCE57G75LiT6aG56K+E5Lu3IiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgICAgImxpbmVzIjogWzIxLCAyMl0sCiAgICAgICJpdGVtcyI6IFsicHQtYjdkYTI4ZjgzMyJdLAogICAgICAiY2hhcnMiOiA1MgogICAgfSwKICAgIHsKICAgICAgIm5vIjogIjEwIiwKICAgICAgImhlYWRpbmciOiAi56CU56m25Yi25a6a6YOo6ZeoL+WNleS9jeW5tOW6puebruagh+iAg+aguOeuoeeQhuWKnuazleW5tue7hOe7h+WunuaWvSIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICAgICJsaW5lcyI6IFsyMywgMjNdLAogICAgICAiaXRlbXMiOiBbInB0LTFkZmEyMzhlNWUiXSwKICAgICAgImNoYXJzIjogMzIKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICIxMSIsCiAgICAgICJoZWFkaW5nIjogIuacuuaehOe8luWItuW3peS9nOWnlOWRmOS8muWKnuWFrOWupOaXpeW4uOS6i+WKoe+8jOWtpuagoeacuuaehOiuvue9ruS4juiBjOiDveiwg+aVtOWPiue8luWItuaguOafpSIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICAgICJsaW5lcyI6IFsyNSwgMjZdLAogICAgICAiaXRlbXMiOiBbInB0LWViMmNmMzhiNGYiXSwKICAgICAgImNoYXJzIjogNTEKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICIxMiIsCiAgICAgICJoZWFkaW5nIjogIuagoeWKoeWnlOWRmOS8muWSjOaImOeVpeWPkeWxleWnlOWRmOS8muaXpeW4uOS6i+WKoe+8jOaOqOi/m+Wkp+Wtpuayu+eQhuS4juaImOeVpeeglOeptiIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICAgICJsaW5lcyI6IFsyNywgMjhdLAogICAgICAiaXRlbXMiOiBbInB0LThkZTA0Y2RiNmYiXSwKICAgICAgImNoYXJzIjogMzYKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICIxMyIsCiAgICAgICJoZWFkaW5nIjogIuWujOaIkOS4iue6p+WNleS9jeWSjOWtpuagoeS6pOWKnueahOWFtuS7luW3peS9nCIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICAgICJsaW5lcyI6IFsyOSwgMjldLAogICAgICAiaXRlbXMiOiBbInB0LTQ3YjNjMjJkZGYiXSwKICAgICAgImNoYXJzIjogMjAKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICLvvIjkuozvvIkiLAogICAgICAiaGVhZGluZyI6ICLlhoXorr7mnLrmnoTogYzotKMiLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFszMCwgNThdLAogICAgICAiaXRlbXMiOiBbInB0LTkzMGZkNjZhMDciLCAicHQtZGQ3NTEyNjRjNiIsICJwdC1kMTA5Mjg5YzY1IiwgInB0LTI5NWE3NTVlYTkiXSwKICAgICAgImNoYXJzIjogNjc4CiAgICB9LAogICAgewogICAgICAibm8iOiAiMSIsCiAgICAgICJoZWFkaW5nIjogIue7vOWQiOenkSIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzMxLCAzN10sCiAgICAgICJpdGVtcyI6IFsicHQtMjY3ZDNlZmQxZCJdLAogICAgICAiY2hhcnMiOiAxNjQKICAgIH0sCiAgICB7CiAgICAgICJubyI6ICIyIiwKICAgICAgImhlYWRpbmciOiAi5a2m56eR5bu66K6+56eRIiwKICAgICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAgICAibGluZXMiOiBbMzgsIDQ0XSwKICAgICAgIml0ZW1zIjogWyJwdC1mYzY1MjlmNDQxIl0sCiAgICAgICJjaGFycyI6IDE2NwogICAgfSwKICAgIHsKICAgICAgIm5vIjogIjMiLAogICAgICAiaGVhZGluZyI6ICLlj5HlsZXop4TliJLnp5EiLAogICAgICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICAgICJsaW5lcyI6IFs0NSwgNTFdLAogICAgICAiaXRlbXMiOiBbInB0LTM3ZDZjYmQ1OWEiXSwKICAgICAgImNoYXJzIjogMTY3CiAgICB9LAogICAgewogICAgICAibm8iOiAiNCIsCiAgICAgICJoZWFkaW5nIjogIuWkp+Wtpuayu+eQhuS4juaImOeVpeeglOeptuS4reW/gyIsCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgICAgImxpbmVzIjogWzUyLCA1OF0sCiAgICAgICJpdGVtcyI6IFsicHQtNDFhNmRmMjBlNCJdLAogICAgICAiY2hhcnMiOiAxNzEKICAgIH0KICBdLAogICJpdGVtcyI6IFsKICAgICJydWxlLTFlZmI2Nzc3IiwKICAgICJwdC02M2U3OGM2MjU3IiwKICAgICJwdC0xOGJkZWUzZjdkIiwKICAgICJwdC04YTM4YjI1YWUwIiwKICAgICJwdC04N2ZmOTNkYWQxIiwKICAgICJwdC0yYTU3YzY2YmM3IiwKICAgICJwdC1lOTFjMDIxNjMyIiwKICAgICJwdC0wNWU1OWI4Mzk4IiwKICAgICJwdC1iZTE4Mzk4OTk2IiwKICAgICJwdC02NDZmNWM5ZjM3IiwKICAgICJwdC1iN2RhMjhmODMzIiwKICAgICJwdC0xZGZhMjM4ZTVlIiwKICAgICJwdC1lYjJjZjM4YjRmIiwKICAgICJwdC04ZGUwNGNkYjZmIiwKICAgICJwdC0yNjdkM2VmZDFkIiwKICAgICJwdC1mYzY1MjlmNDQxIiwKICAgICJwdC0zN2Q2Y2JkNTlhIiwKICAgICJwdC00MWE2ZGYyMGU0IiwKICAgICJwdC05NjQ3NWM2OTdlIiwKICAgICJwdC00N2IzYzIyZGRmIiwKICAgICJwdC05MzBmZDY2YTA3IiwKICAgICJwdC1kZDc1MTI2NGM2IiwKICAgICJwdC1kMTA5Mjg5YzY1IiwKICAgICJwdC0yOTVhNzU1ZWE5IgogIF0sCiAgIm5vdGVzIjogWwogICAgIuWOn+aWh+S4uumDqOmXqOiBjOi0o+aWh+aho++8iGRvY3gg5oq95Y+W77yM5oyJ54mI6Z2i5oqY6KGM77yJ77ya5Lik57qn57uT5p6E4oCU4oCU44CM77yI5LiA77yJ6YOo6Zeo6IGM6LSj44CN5LiO44CM77yI5LqM77yJ5YaF6K6+5py65p6E6IGM6LSj44CN5piv5Y6f5paH5bCP5qCH6aKY77yIYXV0aG9y77yM5pys6IqC5Yy66Ze05YaF6YCQ5a2X5Y+v5p+l77yJ77yb5YW25LiLIDEzIOadoeiBjOi0o+WOn+aWh+WPquacieOAjDHvvI7igJQxM++8juOAjeW6j+WPt+aXoOWwj+mimO+8jGhlYWRpbmcg5Li65o2u6K+l5p2h5YaF5a655qaC5ous77yIZGVyaXZlZO+8ie+8mzQg5Liq5YaF6K6+5py65p6E5Lul5py65p6E5ZCN5L2c5qCH6aKY77yIYXV0aG9y77yJ44CCIiwKICAgICLniLblrZDoioLvvJrnrKwy6KGM44CM77yI5LiA77yJ6YOo6Zeo6IGM6LSj44CN5qCH6aKY5LiO5YW25ZCO5oC76L+w77yI56ysM+KAlDXooYzvvInjgIExMyDmnaHogYzotKPlkIzlsZ7kuIDkuKrljZXlhYPvvIzmlYXniLboioLljLrpl7Tlj5bnrKwx4oCUMjnooYzvvIjlkKvnrKwx6KGM6YOo6Zeo5ZCN77yJ77yM5a2Q6IqC5Li644CM5oC76L+w44CN5LiOIDEzIOadoeiBjOi0o++8m+OAjO+8iOS6jO+8ieWGheiuvuacuuaehOiBjOi0o+OAjeeItuiKguWPluesrDMw4oCUNTjooYzvvIzlrZDoioLkuLogNCDkuKrmnLrmnoTjgILniLboioIgY2hhcnMg5ZCr5YW25a2Q6IqC5Yy66Ze077yI55yf5bWM5aWX77yM5a2X56ym6YeN5aSN6K6h566X77yJ44CCIiwKICAgICJwdC05NjQ3NWM2OTdlIOeahOW8leaWh+S7peOAjOWtpuenkeW7uuiuvuS4juWPkeWxleinhOWIkuWkhO+8iOS4gO+8iemDqOmXqOiBjOi0o+WtpuenkeW7uuiuvuS4juWPkeWxleinhOWIkuWkhOaYr+WtpuagoeihjOaUv+iBjOiDvemDqOmXqOKApuKApuOAjei1t+WktO+8jOi3qOesrDHigJQz6KGM77yM5pWF6JC954K55pS+5Zyo54i26IqC44CM77yI5LiA77yJ6YOo6Zeo6IGM6LSj44CN44CCIiwKICAgICJwdC05MzBmZDY2YTA344CBcHQtZGQ3NTEyNjRjNuOAgXB0LWQxMDkyODljNjXjgIFwdC0yOTVhNzU1ZWE5IOWbm+adoeW8leaWh+Wdh+S7peOAjO+8iOS6jO+8ieWGheiuvuacuuaehOiBjOi0o+OAjei1t+WktOOAgeWGjei/nuWIsOWQhOenkeWupOmmluWPpe+8jOi3qOesrDMw6KGM5LiO5ZCE56eR5a6k6aaW6KGM77yM5pWF5oyJ6KGM5Yy66Ze05pS+5Zyo44CM77yI5LqM77yJ5YaF6K6+5py65p6E6IGM6LSj44CN54i26IqC77yM6ICM6Z2e5ZCE56eR5a6k5a2Q6IqC44CCIiwKICAgICLlhoXorr7mnLrmnoTmoIfpopjljp/mloflhpnkvZzjgIwxLue7vOWQiOenkeOAjeOAjDIuIOWtpuenkeW7uuiuvuenkeOAjeOAjDMu5Y+R5bGV6KeE5YiS56eR44CN44CMNC7lpKflrabmsrvnkIbkuI7miJjnlaXnoJTnqbbkuK3lv4PjgI3vvIznvJblj7flkI7nqbrmoLzkuI3nu5/kuIDvvIxoZWFkaW5nIOWPquWPluacuuaehOWQjeensOOAgiIsCiAgICAi5ZCE5py65p6E55qE44CM5Yqe5YWs5Zyw54K577yP5Yqe5YWs55S16K+d44CN6KGM77yI56ysMzfjgIE0NOOAgTUx44CBNTjooYzvvInlubblhaXor6XmnLrmnoTkuIDoioLvvJvnrKwyNOihjOS4uuepuuihjO+8jOesrDbooYzliY3ml6DnqbrooYzjgIIiLAogICAgInJ1bGUtMWVmYjY3Nzcg5Li65paH5qGj57qn5p2h55uu77yI5peg5byV5paH77yM5qCH6aKY5Y2z5paH5qGj5ZCN44CM5a2m56eR5bu66K6+5LiO5Y+R5bGV6KeE5YiS5aSE6IGM6LSj44CN77yJ77yM5oyJ5Lu75Yqh5Lmm5YiX5YWl5qaC6L+w6IqC44CM6YOo6Zeo6IGM6LSj5oC76L+w44CN5bm25L+d55WZ5Zyo5paH5qGj57qnIGl0ZW1z44CCIgogIF0KfQo=
+{
+  "key": "1efb6777",
+  "title": "学科建设与发展规划处职责",
+  "truncated": false,
+  "sections": [
+    {
+      "no": "（一）",
+      "heading": "部门职责",
+      "heading_kind": "author",
+      "lines": [1, 29],
+      "items": ["pt-96475c697e"],
+      "chars": 632
+    },
+    {
+      "no": "",
+      "heading": "部门职责总述（职能定位与主要职责范围）",
+      "heading_kind": "derived",
+      "lines": [3, 5],
+      "items": ["pt-63e78c6257", "rule-1efb6777"],
+      "chars": 70
+    },
+    {
+      "no": "1",
+      "heading": "贯彻执行国家及上级主管部门方针政策法规，制定并组织实施学校中长期事业发展战略规划、学科规划和机构工作等政策制度",
+      "heading_kind": "derived",
+      "lines": [6, 8],
+      "items": ["pt-18bdee3f7d"],
+      "chars": 81
+    },
+    {
+      "no": "2",
+      "heading": "学校章程的研究、修订与解释，统筹学校治理与制度体系规划建设",
+      "heading_kind": "derived",
+      "lines": [9, 10],
+      "items": ["pt-8a38b25ae0"],
+      "chars": 36
+    },
+    {
+      "no": "3",
+      "heading": "统筹编制学校事业发展各分规划、部门/单位规划并督促落实与监测",
+      "heading_kind": "derived",
+      "lines": [11, 12],
+      "items": ["pt-87ff93dad1"],
+      "chars": 50
+    },
+    {
+      "no": "4",
+      "heading": "推进学校“双一流”建设，制定建设方案、统筹资金分配并落实监测考核",
+      "heading_kind": "derived",
+      "lines": [13, 14],
+      "items": ["pt-2a57c66bc7"],
+      "chars": 42
+    },
+    {
+      "no": "5",
+      "heading": "学校学科布局管理与组织建设工作",
+      "heading_kind": "derived",
+      "lines": [15, 15],
+      "items": ["pt-e91c021632"],
+      "chars": 21
+    },
+    {
+      "no": "6",
+      "heading": "学位授权点建设，统筹学校博士、硕士学术学位和专业学位授权点申报与调整",
+      "heading_kind": "derived",
+      "lines": [16, 17],
+      "items": ["pt-05e59b8398"],
+      "chars": 44
+    },
+    {
+      "no": "7",
+      "heading": "统筹研究生专业及方向设置工作",
+      "heading_kind": "derived",
+      "lines": [18, 18],
+      "items": ["pt-be18398996"],
+      "chars": 18
+    },
+    {
+      "no": "8",
+      "heading": "落实北京市支持“双一流”高校建设任务，推进北京市重点学科建设",
+      "heading_kind": "derived",
+      "lines": [19, 20],
+      "items": ["pt-646f5c9f37"],
+      "chars": 61
+    },
+    {
+      "no": "9",
+      "heading": "建立健全学科评估机制，组织学科评估、周期性核验与各类专项评价",
+      "heading_kind": "derived",
+      "lines": [21, 22],
+      "items": ["pt-b7da28f833"],
+      "chars": 52
+    },
+    {
+      "no": "10",
+      "heading": "研究制定部门/单位年度目标考核管理办法并组织实施",
+      "heading_kind": "derived",
+      "lines": [23, 23],
+      "items": ["pt-1dfa238e5e"],
+      "chars": 32
+    },
+    {
+      "no": "11",
+      "heading": "机构编制工作委员会办公室日常事务，学校机构设置与职能调整及编制核查",
+      "heading_kind": "derived",
+      "lines": [25, 26],
+      "items": ["pt-eb2cf38b4f"],
+      "chars": 51
+    },
+    {
+      "no": "12",
+      "heading": "校务委员会和战略发展委员会日常事务，推进大学治理与战略研究",
+      "heading_kind": "derived",
+      "lines": [27, 28],
+      "items": ["pt-8de04cdb6f"],
+      "chars": 36
+    },
+    {
+      "no": "13",
+      "heading": "完成上级单位和学校交办的其他工作",
+      "heading_kind": "derived",
+      "lines": [29, 29],
+      "items": ["pt-47b3c22ddf"],
+      "chars": 20
+    },
+    {
+      "no": "（二）",
+      "heading": "内设机构职责",
+      "heading_kind": "author",
+      "lines": [30, 58],
+      "items": ["pt-930fd66a07", "pt-dd751264c6", "pt-d109289c65", "pt-295a755ea9"],
+      "chars": 678
+    },
+    {
+      "no": "1",
+      "heading": "综合科",
+      "heading_kind": "author",
+      "lines": [31, 37],
+      "items": ["pt-267d3efd1d"],
+      "chars": 164
+    },
+    {
+      "no": "2",
+      "heading": "学科建设科",
+      "heading_kind": "author",
+      "lines": [38, 44],
+      "items": ["pt-fc6529f441"],
+      "chars": 167
+    },
+    {
+      "no": "3",
+      "heading": "发展规划科",
+      "heading_kind": "author",
+      "lines": [45, 51],
+      "items": ["pt-37d6cbd59a"],
+      "chars": 167
+    },
+    {
+      "no": "4",
+      "heading": "大学治理与战略研究中心",
+      "heading_kind": "author",
+      "lines": [52, 58],
+      "items": ["pt-41a6df20e4"],
+      "chars": 171
+    }
+  ],
+  "items": [
+    "rule-1efb6777",
+    "pt-63e78c6257",
+    "pt-18bdee3f7d",
+    "pt-8a38b25ae0",
+    "pt-87ff93dad1",
+    "pt-2a57c66bc7",
+    "pt-e91c021632",
+    "pt-05e59b8398",
+    "pt-be18398996",
+    "pt-646f5c9f37",
+    "pt-b7da28f833",
+    "pt-1dfa238e5e",
+    "pt-eb2cf38b4f",
+    "pt-8de04cdb6f",
+    "pt-267d3efd1d",
+    "pt-fc6529f441",
+    "pt-37d6cbd59a",
+    "pt-41a6df20e4",
+    "pt-96475c697e",
+    "pt-47b3c22ddf",
+    "pt-930fd66a07",
+    "pt-dd751264c6",
+    "pt-d109289c65",
+    "pt-295a755ea9"
+  ],
+  "notes": [
+    "原文为部门职责文档（docx 抽取，按版面折行）：两级结构——「（一）部门职责」与「（二）内设机构职责」是原文小标题（author，本节区间内逐字可查）；其下 13 条职责原文只有「1．—13．」序号无小题，heading 为据该条内容概括（derived）；4 个内设机构以机构名作标题（author）。",
+    "父子节：第2行「（一）部门职责」标题与其后总述（第3—5行）、13 条职责同属一个单元，故父节区间取第1—29行（含第1行部门名），子节为「总述」与 13 条职责；「（二）内设机构职责」父节取第30—58行，子节为 4 个机构。父节 chars 含其子节区间（真嵌套，字符重复计算）。",
+    "pt-96475c697e 的引文以「学科建设与发展规划处（一）部门职责学科建设与发展规划处是学校行政职能部门……」起头，跨第1—3行，故落点放在父节「（一）部门职责」。",
+    "pt-930fd66a07、pt-dd751264c6、pt-d109289c65、pt-295a755ea9 四条引文均以「（二）内设机构职责」起头、再连到各科室首句，跨第30行与各科室首行，故按行区间放在「（二）内设机构职责」父节，而非各科室子节。",
+    "内设机构标题原文写作「1.综合科」「2. 学科建设科」「3.发展规划科」「4.大学治理与战略研究中心」，编号后空格不统一，heading 只取机构名称。",
+    "各机构的「办公地点／办公电话」行（第37、44、51、58行）并入该机构一节；第24行为空行，第6行前无空行。",
+    "rule-1efb6777 为文档级条目（无引文，标题即文档名「学科建设与发展规划处职责」），按任务书列入概述节「部门职责总述」并保留在文档级 items。"
+  ]
+}

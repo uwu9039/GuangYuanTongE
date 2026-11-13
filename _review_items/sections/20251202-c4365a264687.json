@@ -1,1 +1,100 @@
-ew0KICJrZXkiOiAiMjAyNTEyMDItYzQzNjVhMjY0Njg3IiwNCiAidGl0bGUiOiAi56ys5LiJ5bGK5paw5pe25Luj5Ye654mI5a625Z+56IKy5LiO56CU56m256CU6K6o5Lya5oiQ5Yqf5Li+5YqeIiwNCiAidHJ1bmNhdGVkIjogZmFsc2UsDQogInNlY3Rpb25zIjogWw0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuermeeCueagh+mimOOAgWxvZ2/jgIHmoI/nm67lr7zoiKrkuI7pnaLljIXlsZEiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxLA0KICAgIDMyDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAyNzcNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLmlofnq6DmoIfpopjjgIHlj5HluIPml7bpl7TkuI7mtY/op4jmrKHmlbAiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzMywNCiAgICAzNA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNzhmMTJhZjM1ZSINCiAgIF0sDQogICAiY2hhcnMiOiA0Mw0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuaKpemBk+ato+aWh++8iOW8gOW5leW8j+iHtOi+nuOAgeS4u+mimOeglOiuqOWPkeiogOOAgeaAu+e7k+WPkeiogOS4juWIm+WKnuiDjOaZr++8iSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDM1LA0KICAgIDY4DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC05YjJhNDViZTVlIiwNCiAgICAicHQtYjVhMWM4OTA5NiIsDQogICAgInB0LWJkZDYwZDRjZmYiLA0KICAgICJwdC1kM2Q1OWZkNjAyIiwNCiAgICAicHQtN2YzNWE0MzFmOCIsDQogICAgInB0LTE3NTI1ZDJjNjgiLA0KICAgICJwdC1jOTcyODNlZjhlIiwNCiAgICAicHQtNGE1MDhlYmQzNyIsDQogICAgInB0LTEwYWUyMWRjOTkiLA0KICAgICJwdC04MWMxN2QzMTNiIiwNCiAgICAicHQtNGJhYTkwZWVjNSIsDQogICAgInB0LTA2YjQ4ZmJmOGUiLA0KICAgICJwdC1lOGY2MzBlYmZjIiwNCiAgICAicHQtMjM4YTM2MDhjNCIsDQogICAgInB0LTc3NTdiYWNjZmUiLA0KICAgICJwdC04YmM4NmU5YzI1IiwNCiAgICAicHQtYTY2N2MzZjc0YyIsDQogICAgInB0LTJiNWViNzk3ZTAiDQogICBdLA0KICAgImNoYXJzIjogMjk5Mg0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIumhteiEmu+8iOWPi+aDhemTvuaOpeOAgeWcsOWdgOmCrue8luOAgeeJiOadg+S4juWkh+ahiOOAgeWbnuWIsOmhtumDqO+8iSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDY5LA0KICAgIDg2DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiA0MDUNCiAgfQ0KIF0sDQogIml0ZW1zIjogWw0KICAicHQtNzhmMTJhZjM1ZSIsDQogICJwdC05YjJhNDViZTVlIiwNCiAgInB0LWI1YTFjODkwOTYiLA0KICAicHQtYmRkNjBkNGNmZiIsDQogICJwdC1kM2Q1OWZkNjAyIiwNCiAgInB0LTdmMzVhNDMxZjgiLA0KICAicHQtMTc1MjVkMmM2OCIsDQogICJwdC1jOTcyODNlZjhlIiwNCiAgInB0LTRhNTA4ZWJkMzciLA0KICAicHQtMTBhZTIxZGM5OSIsDQogICJwdC04MWMxN2QzMTNiIiwNCiAgInB0LTRiYWE5MGVlYzUiLA0KICAicHQtMDZiNDhmYmY4ZSIsDQogICJwdC1lOGY2MzBlYmZjIiwNCiAgInB0LTIzOGEzNjA4YzQiLA0KICAicHQtNzc1N2JhY2NmZSIsDQogICJwdC04YmM4NmU5YzI1IiwNCiAgInB0LWE2NjdjM2Y3NGMiLA0KICAicHQtMmI1ZWI3OTdlMCINCiBdLA0KICJub3RlcyI6IFsNCiAgIue9kemhtemHh+mbhueov++8muesrCAxIOihjOS4uumhtemdouagh+mimO+8m+esrCAyIOihjOS4uiBsb2dv77yIW+mZhOS7tl0gbG9nbzEucG5n77yJ77yb56ysIDPigJMyOSDooYzkuLrmlbTmrrXmoI/nm67lr7zoiKrvvIjpppbpobXvvI/lhbPkuo7miJHku6zvvI/lrabpmaLnroDku4vvvI/igKbvvI/lm73pmYXkuqTmtYHnrqHnkIbvvInvvJvnrKwgMzAg6KGM5Li65qCP55uu6YWN5Zu+77yb56ysIDMxIOihjOS4uuagj+ebruWQjeOAjOWtpuacr+a0u+WKqOOAje+8m+esrCAzMiDooYzkuLrpnaLljIXlsZHjgIzpppbpobUg5a2m5pyv5rS75Yqo44CN44CC5Lul5LiK5ZCI5bm25Li644CM6aG16Z2i5qGG5p6244CN5LiA6IqC77yM5LiN6YCQ5p2h6K6+6IqC77yM6IqC5YaF5peg5p2h55uu5byV5paH44CCIiwNCiAgIuesrCAzM+KAkzM0IOihjOaYr+ato+aWh+mhteWktO+8mumhtemdouWGhemHjeWkjeeahOaWh+eroOagh+mimO+8iDMz77yJ5LiO44CM5Y+R5biD5pe26Ze077yaMjAyNS0xMS0xOeOAgOa1j+iniOasoeaVsO+8mjM244CN77yIMzTvvInvvIzlkIjkuLrjgIzmoIfpopjjgI3oioLvvJtwdC03OGYxMmFmMzVlIOeahOW8leaWh+WwseaYr+esrCAzMyDooYznmoTmoIfpopjjgIIiLA0KICAi5Y6f5paH5q2j5paH5rKh5pyJ5Lu75L2V44CM5LiA44CB5LqM44CB44CN5oiW5Yqg57KX5bCP5qCH6aKY77yM5Y+q5pyJ5q616JC95ZKMIDEyIOWkhOmFjeWbvuWPiuWbvuazqO+8iOesrCAzOeOAgTQy44CBNDTjgIE0OOOAgTUw77yI5LiO5Zu+5ZCM6KGM77yJ44CBNTPjgIE1NuOAgTU544CBNjLjgIE2NeOAgTY4IOihjO+8ieOAguWbvuazqOihjOS4jeiDveS9nOS4uuiKgummlu+8jOS4lOWkmuadoeW8leaWh+i1t+eCueato+iQveWcqOWbvuazqOihjOS4iuW5tui/nuivu+i/m+S4i+S4gOaute+8iOWmgiBwdC03ZjM1YTQzMWY4IOi1t+S6juesrCAzOSDooYzjgIzmnY7mlrDlhpvlia/moKHplb/oh7Tovp7jgI3jgIFwdC00YTUwOGViZDM3IOi1t+S6juesrCA0NCDooYzjgIzmnY7oiJLpmaLplb/kuLvmjIHlvIDluZXlvI/jgI3jgIFwdC04YmM4NmU5YzI1IOi1t+S6juesrCA2NSDooYzjgIzmnY7nu6fkuJzlia/pmaLplb/kuLvmjIHkuLvpopjnoJTorqjlubblgZrmgLvnu5Plj5HoqIDjgI3vvInvvIzmi4boioLlsLHokL3kuI3kvY/vvIzmlYXmjInjgIzlm77ms6jooYwg4oaSIOeroOe6p+eItuiKguOAjeeahOWkhOeQhuaKiuaVtOauteato+aWh++8iOesrCAzNeKAkzY4IOihjO+8ieS9nOS4uuS4gOiKgu+8jDE4IOadoeadoeebruWFqOmDqOiQveWcqOatpOiKguOAgiIsDQogICLnrKwgNjnigJM4NiDooYzkuLrpobXohJrvvJrnrKwgNjnigJM3MCDooYzkuLrmqKHmnb8gbG9nbyDkuI7op5LmoIflm77vvIznrKwgNzEg6KGM5Li644CM5Y+L5oOF6ZO+5o6l44CN44CB56ysIDcy4oCTNzkg6KGM5Li66ZO+5o6l5riF5Y2V77yM56ysIDgw4oCTODQg6KGM5Li644CM5YWz5LqO5oiR5Lus77yP5Zyw5Z2A77yP6YKu57yW77yP54mI5p2D5omA5pyJIMKpIOS4reWbveS8oOWqkuWkp+Wtpu+8j+S6rElDUCDlpIcxMDAzOTU2NOWPtyDkuqzlhaznvZHlronlpIfigKbvvI/mioDmnK/mlK/mjIHjgI3vvIznrKwgODUg6KGM5Li644CM5Zue5Yiw6aG26YOo44CN44CB56ysIDg2IOihjOS4uiBb6ZmE5Lu2XSAvX3Zpc2l0Y291bnQg6K6/6Zeu57uf6K6h44CC5ZCI5bm25Li644CM6aG16ISa44CN5LiA6IqC77yM6IqC5YaF5peg5p2h55uu5byV5paH44CCIiwNCiAgIuacrOS7veayoeaciSBydWxlLSog5paH5qGj57qn5p2h55uu77ybMTkg5p2h5p2h55uu5YWo5Li6IHB0LSrvvIzlnYfmnInlvJXmloflubblnKjmnKzmloflkb3kuK3okL3ngrnvvIzml6Dot6jmlofku7blvJXnlKjjgILmraPmlofliLDnrKwgNjYg6KGM77yI5Yib5Yqe6IOM5pmv5q6177yJ57uT5p2f77yM5YW25ZCO5piv5ZCI5b2x5Zu+5rOo5LiO6aG16ISa77yM5peg5oiq5pat77yMdHJ1bmNhdGVkPWZhbHNl44CCIg0KIF0NCn0=
+{
+ "key": "20251202-c4365a264687",
+ "title": "第三届新时代出版家培育与研究研讨会成功举办",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "站点标题、logo、栏目导航与面包屑",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    32
+   ],
+   "items": [],
+   "chars": 277
+  },
+  {
+   "no": "—",
+   "heading": "文章标题、发布时间与浏览次数",
+   "heading_kind": "derived",
+   "lines": [
+    33,
+    34
+   ],
+   "items": [
+    "pt-78f12af35e"
+   ],
+   "chars": 43
+  },
+  {
+   "no": "—",
+   "heading": "报道正文（开幕式致辞、主题研讨发言、总结发言与创办背景）",
+   "heading_kind": "derived",
+   "lines": [
+    35,
+    68
+   ],
+   "items": [
+    "pt-9b2a45be5e",
+    "pt-b5a1c89096",
+    "pt-bdd60d4cff",
+    "pt-d3d59fd602",
+    "pt-7f35a431f8",
+    "pt-17525d2c68",
+    "pt-c97283ef8e",
+    "pt-4a508ebd37",
+    "pt-10ae21dc99",
+    "pt-81c17d313b",
+    "pt-4baa90eec5",
+    "pt-06b48fbf8e",
+    "pt-e8f630ebfc",
+    "pt-238a3608c4",
+    "pt-7757baccfe",
+    "pt-8bc86e9c25",
+    "pt-a667c3f74c",
+    "pt-2b5eb797e0"
+   ],
+   "chars": 2992
+  },
+  {
+   "no": "—",
+   "heading": "页脚（友情链接、地址邮编、版权与备案、回到顶部）",
+   "heading_kind": "derived",
+   "lines": [
+    69,
+    86
+   ],
+   "items": [],
+   "chars": 405
+  }
+ ],
+ "items": [
+  "pt-78f12af35e",
+  "pt-9b2a45be5e",
+  "pt-b5a1c89096",
+  "pt-bdd60d4cff",
+  "pt-d3d59fd602",
+  "pt-7f35a431f8",
+  "pt-17525d2c68",
+  "pt-c97283ef8e",
+  "pt-4a508ebd37",
+  "pt-10ae21dc99",
+  "pt-81c17d313b",
+  "pt-4baa90eec5",
+  "pt-06b48fbf8e",
+  "pt-e8f630ebfc",
+  "pt-238a3608c4",
+  "pt-7757baccfe",
+  "pt-8bc86e9c25",
+  "pt-a667c3f74c",
+  "pt-2b5eb797e0"
+ ],
+ "notes": [
+  "网页采集稿：第 1 行为页面标题；第 2 行为 logo（[附件] logo1.png）；第 3–29 行为整段栏目导航（首页／关于我们／学院简介／…／国际交流管理）；第 30 行为栏目配图；第 31 行为栏目名「学术活动」；第 32 行为面包屑「首页 学术活动」。以上合并为「页面框架」一节，不逐条设节，节内无条目引文。",
+  "第 33–34 行是正文页头：页面内重复的文章标题（33）与「发布时间：2025-11-19　浏览次数：36」（34），合为「标题」节；pt-78f12af35e 的引文就是第 33 行的标题。",
+  "原文正文没有任何「一、二、」或加粗小标题，只有段落和 12 处配图及图注（第 39、42、44、48、50（与图同行）、53、56、59、62、65、68 行）。图注行不能作为节首，且多条引文起点正落在图注行上并连读进下一段（如 pt-7f35a431f8 起于第 39 行「李新军副校长致辞」、pt-4a508ebd37 起于第 44 行「李舒院长主持开幕式」、pt-8bc86e9c25 起于第 65 行「李继东副院长主持主题研讨并做总结发言」），拆节就落不住，故按「图注行 → 章级父节」的处理把整段正文（第 35–68 行）作为一节，18 条条目全部落在此节。",
+  "第 69–86 行为页脚：第 69–70 行为模板 logo 与角标图，第 71 行为「友情链接」、第 72–79 行为链接清单，第 80–84 行为「关于我们／地址／邮编／版权所有 © 中国传媒大学／京ICP 备10039564号 京公网安备…／技术支持」，第 85 行为「回到顶部」、第 86 行为 [附件] /_visitcount 访问统计。合并为「页脚」一节，节内无条目引文。",
+  "本份没有 rule-* 文档级条目；19 条条目全为 pt-*，均有引文并在本文命中落点，无跨文件引用。正文到第 66 行（创办背景段）结束，其后是合影图注与页脚，无截断，truncated=false。"
+ ]
+}

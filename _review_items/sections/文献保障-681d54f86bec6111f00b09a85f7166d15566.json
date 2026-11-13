@@ -1,1 +1,350 @@
-ew0KICJrZXkiOiAi5paH54yu5L+d6ZqcLTY4MWQ1NGY4NmJlYzYxMTFmMDBiMDlhODVmNzE2NmQxNTU2NiIsDQogInRpdGxlIjogIuWbvuS5pummhjIwMjLlubTlm73lhoXmnJ/liIrnm67lvZUiLA0KICJ0cnVuY2F0ZWQiOiBmYWxzZSwNCiAic2VjdGlvbnMiOiBbDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5Zu+5Lmm6aaGMjAyMuW5tOWbveWGheacn+WIiuebruW9lSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMSwNCiAgICAxDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC05YzM0OTM4OGVkIg0KICAgXSwNCiAgICJjaGFycyI6IDE0DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5p2l5rqQ44CB5qCP55uu44CB5L2c6ICF5LiO5Y+R5biD5pe26Ze0IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMiwNCiAgICA1DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAxOTcNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLooajlpLTvvJrluo/lj7fjgIHpgq7lj5Hku6Plj7fjgIHliIrlkI3jgIHlpIfms6giLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA3LA0KICAgIDcNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDE5DQogIH0sDQogIHsNCiAgICJubyI6ICLluo/lj7cgMeKAkzEwMSIsDQogICAiaGVhZGluZyI6ICLnrKwgMeKAkzEwMSDlj7fvvJrkurrmsJHml6XmiqXlkIjorqLmnKzvvIjnvKnljbDvvInoh7Mg5Zu96ZmF57uP5rWO6K+E6K66IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgOCwNCiAgICAzMTANCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTcyY2Y2MjgzY2UiLA0KICAgICJwdC1jZTEwZmUwY2I3IiwNCiAgICAicHQtODZmZmIyMDY3OCIsDQogICAgInB0LWE0Yzc2Mzg0MDUiLA0KICAgICJwdC1lOTZlYTFlNmEzIiwNCiAgICAicHQtMjA1YjRiYTM0NiINCiAgIF0sDQogICAiY2hhcnMiOiAxNzY4DQogIH0sDQogIHsNCiAgICJubyI6ICLluo/lj7cgMTAy4oCTMTkwIiwNCiAgICJoZWFkaW5nIjogIuesrCAxMDLigJMxOTAg5Y+377ya5Lit5Zu95YiR5LqL5rOV5p2C5b+X6IezIOS4reWbveaKpeS4miIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDMxMSwNCiAgICA1NzcNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTNlOTViOGNlY2EiLA0KICAgICJwdC1iMDM1ZDEwZTMzIiwNCiAgICAicHQtZjFiOGJkZjJkMiIsDQogICAgInB0LTI1MDU1YzRkZjIiDQogICBdLA0KICAgImNoYXJzIjogMTc4NQ0KICB9LA0KICB7DQogICAibm8iOiAi5bqP5Y+3IDE5MeKAkzI4NSIsDQogICAiaGVhZGluZyI6ICLnrKwgMTkx4oCTMjg1IOWPt++8muS4lueVjOaxieivreaVmeWtpuiHsyDmlofoibrnoJTnqbYiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1NzgsDQogICAgODYyDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0xMjFlZDE4MzdkIiwNCiAgICAicHQtNDNkMTgyZDBhMCIsDQogICAgInB0LTU0YzBiNDFiNTIiLA0KICAgICJwdC0xMWMzMThjODc1IiwNCiAgICAicHQtZWI0OGFjM2VhYiIsDQogICAgInB0LTM2ZmY1OWY1NGMiLA0KICAgICJwdC1kOWEwOTIzYzkyIiwNCiAgICAicHQtNDQ0OWYwNzJiYiINCiAgIF0sDQogICAiY2hhcnMiOiAyMjIyDQogIH0sDQogIHsNCiAgICJubyI6ICLluo/lj7cgMjg24oCTMzgwIiwNCiAgICJoZWFkaW5nIjogIuesrCAyODbigJMzODAg5Y+377ya5paH5a2m6K+E6K666IezIOWkp+iHqueEtiIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDg2MywNCiAgICAxMTQ3DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC02MTJmY2QyYzA5IiwNCiAgICAicHQtMGE0ZjJhMjA1ZSIsDQogICAgInB0LTE1ZDg2OGFiZTkiLA0KICAgICJwdC01NGQwMzlkMWJiIiwNCiAgICAicHQtMjc1YTFiNDRkYSINCiAgIF0sDQogICAiY2hhcnMiOiAxNzMyDQogIH0sDQogIHsNCiAgICJubyI6ICLluo/lj7cgMzgx4oCTNDc4IiwNCiAgICJoZWFkaW5nIjogIuesrCAzODHigJM0Nzgg5Y+377ya5Lit5Zu96YeR6J6N6IezICrmiI/liafmloflraYiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMTQ4LA0KICAgIDE0NDcNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTZhYjc0ZjUwYjIiLA0KICAgICJwdC0yZmEwMDVmNDFmIiwNCiAgICAicHQtOGRmZjI3YWQ1MiIsDQogICAgInB0LTgzNDE5NzcyNzQiLA0KICAgICJwdC1lNTUzYTZiNzFmIiwNCiAgICAicHQtMTRkYjk2ZGJjMyIsDQogICAgInB0LTVhZTVjMTdhYWIiLA0KICAgICJwdC1jZjcxMDBjODQ5IiwNCiAgICAicHQtYzBhY2E1OWMzMyIsDQogICAgInB0LWE5NWQ3NzI4MjIiLA0KICAgICJwdC01NTNhOTg1ZDUxIiwNCiAgICAicHQtZDQwNzRmMWIyNiIsDQogICAgInB0LWE5NmRjMTIxZWIiDQogICBdLA0KICAgImNoYXJzIjogMTkxOQ0KICB9LA0KICB7DQogICAibm8iOiAi5bqP5Y+3IDQ3OeKAkzU3MSIsDQogICAiaGVhZGluZyI6ICLnrKwgNDc54oCTNTcxIOWPt++8mirnqI7liqHkuI7nu4/mtY7vvIjlkInmnpfotKLnu4/lpKflrablrabmiqXvvInoh7MgKuOAium7hOmSn+OAi++8iOatpuaxiemfs+S5kOWtpumZouWtpuaKpe+8iSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDE0NDgsDQogICAgMTcyNg0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMmViYWU4ODAxOCIsDQogICAgInB0LTBiYzQyZTQ5OWYiLA0KICAgICJwdC01YWJlZjZlY2VjIiwNCiAgICAicHQtODY4YzkxODgxNCIsDQogICAgInB0LWFmNzhkYWNjNzkiLA0KICAgICJwdC1iNzE2NTQxMDIyIiwNCiAgICAicHQtODk5MTA0NjBlOCIsDQogICAgInB0LTg2MmVlZDU3NzkiLA0KICAgICJwdC0yNjdmMGQxODc1IiwNCiAgICAicHQtYWYzZjQ2MDViNCIsDQogICAgInB0LWQ2ZWQ2NDM3NDkiLA0KICAgICJwdC04NGQ5MGY4YjQ4IiwNCiAgICAicHQtZDJkNTg2ZjRiNCIsDQogICAgInB0LTRkMDUwYmIxMDkiLA0KICAgICJwdC0zNjllOWIxYWUxIiwNCiAgICAicHQtYTNkZTU5NzA5YyIsDQogICAgInB0LWIxYTBlMjgxY2UiLA0KICAgICJwdC0zZGZkZDJkMTI0IiwNCiAgICAicHQtYmZkZTlhNDA1YiIsDQogICAgInB0LWZiY2QwMGRkZWUiLA0KICAgICJwdC1jNmJjMTRiNGQ3IiwNCiAgICAicHQtOThjZjc5ZWM4ZiIsDQogICAgInB0LWM4NmY4NTUwMWQiDQogICBdLA0KICAgImNoYXJzIjogMTQ5OQ0KICB9LA0KICB7DQogICAibm8iOiAi5bqP5Y+3IDU3MuKAkzY3MiIsDQogICAiaGVhZGluZyI6ICLnrKwgNTcy4oCTNjcyIOWPt++8mirms5XllYbnoJTnqbboh7MgKuS6pOWTjeilv+Wuiemfs+S5kOWtpumZouWtpuaKpSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDE3MjcsDQogICAgMjAyOQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZjc2NDY1NzdiYyIsDQogICAgInB0LWYwYjVlMTFlNWYiLA0KICAgICJwdC1lYmNiNjhmMjgyIiwNCiAgICAicHQtY2UxNzM4OTc5ZSIsDQogICAgInB0LTk5YThlYmY0ZjMiLA0KICAgICJwdC00YTMyZDdhZWNkIiwNCiAgICAicHQtYWFjMTE2ZWM2YSIsDQogICAgInB0LTlhYTliZjgyMmYiLA0KICAgICJwdC00NjM2MGU4MGQ3IiwNCiAgICAicHQtNDg5MDFkMTNiNSIsDQogICAgInB0LTBhYWY4ZmIxNTUiLA0KICAgICJwdC0zNmY0ODllOTU3IiwNCiAgICAicHQtODljM2YwZTliZCIsDQogICAgInB0LWVjMWFiZGI5ODQiLA0KICAgICJwdC03Njk5MDlhNDg3IiwNCiAgICAicHQtODM5OGM5ODgxZiIsDQogICAgInB0LWIzYzFmMjA5ZTQiLA0KICAgICJwdC1hM2NjMzI2YTM5IiwNCiAgICAicHQtM2UxMTg2MzMxMCINCiAgIF0sDQogICAiY2hhcnMiOiAxNTUyDQogIH0sDQogIHsNCiAgICJubyI6ICLluo/lj7cgNjcz4oCTNzYyIiwNCiAgICJoZWFkaW5nIjogIuesrCA2NzPigJM3NjIg5Y+377yaKuS7iuS8oOWqkuiHsyAq5YWa5bu65paH5rGH77yI5LiK5Y2K5pyI77yJIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMjAzMCwNCiAgICAyMjk5DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC03NDY1ZWIzMzhmIiwNCiAgICAicHQtM2ZhYmYwMWYxYiIsDQogICAgInB0LWRkODMzZmQ1MGIiLA0KICAgICJwdC0xYTNjMmNlMTNhIiwNCiAgICAicHQtM2Y1OWYxNzM5OSIsDQogICAgInB0LTIxNDhkOWY5NDkiLA0KICAgICJwdC1kNjU2NWJlMTliIiwNCiAgICAicHQtMzJkZDBiOTBiMCIsDQogICAgInB0LTJjYWE4OTMwNWQiLA0KICAgICJwdC1hNjE2ODFkOTJiIiwNCiAgICAicHQtMmM0MDFhYWY0NiIsDQogICAgInB0LTc2OTBhZjExZjAiLA0KICAgICJwdC1hMTUzODc1ZGE4IiwNCiAgICAicHQtNjI2N2FhN2MxYiIsDQogICAgInB0LWJmZDgyMTY2ZTUiLA0KICAgICJwdC03NDdjMTVkZTdiIiwNCiAgICAicHQtZWZlZTdjNGEyNiIsDQogICAgInB0LTIxNTczYjY2OTQiLA0KICAgICJwdC05Y2IxNzViOGJkIiwNCiAgICAicHQtY2M4NmI3YzEzYyIsDQogICAgInB0LTllYWNlMTYwOGEiLA0KICAgICJwdC1mMzY2M2JiNGNlIg0KICAgXSwNCiAgICJjaGFycyI6IDE0NTkNCiAgfQ0KIF0sDQogIml0ZW1zIjogWw0KICAicHQtOWMzNDkzODhlZCIsDQogICJwdC03MmNmNjI4M2NlIiwNCiAgInB0LWNlMTBmZTBjYjciLA0KICAicHQtODZmZmIyMDY3OCIsDQogICJwdC1hNGM3NjM4NDA1IiwNCiAgInB0LWU5NmVhMWU2YTMiLA0KICAicHQtMjA1YjRiYTM0NiIsDQogICJwdC0zZTk1YjhjZWNhIiwNCiAgInB0LWIwMzVkMTBlMzMiLA0KICAicHQtZjFiOGJkZjJkMiIsDQogICJwdC0yNTA1NWM0ZGYyIiwNCiAgInB0LTEyMWVkMTgzN2QiLA0KICAicHQtNDNkMTgyZDBhMCIsDQogICJwdC01NGMwYjQxYjUyIiwNCiAgInB0LTExYzMxOGM4NzUiLA0KICAicHQtZWI0OGFjM2VhYiIsDQogICJwdC0zNmZmNTlmNTRjIiwNCiAgInB0LWQ5YTA5MjNjOTIiLA0KICAicHQtNDQ0OWYwNzJiYiIsDQogICJwdC02MTJmY2QyYzA5IiwNCiAgInB0LTBhNGYyYTIwNWUiLA0KICAicHQtMTVkODY4YWJlOSIsDQogICJwdC01NGQwMzlkMWJiIiwNCiAgInB0LTI3NWExYjQ0ZGEiLA0KICAicHQtNmFiNzRmNTBiMiIsDQogICJwdC0yZmEwMDVmNDFmIiwNCiAgInB0LThkZmYyN2FkNTIiLA0KICAicHQtODM0MTk3NzI3NCIsDQogICJwdC1lNTUzYTZiNzFmIiwNCiAgInB0LTE0ZGI5NmRiYzMiLA0KICAicHQtNWFlNWMxN2FhYiIsDQogICJwdC1jZjcxMDBjODQ5IiwNCiAgInB0LWMwYWNhNTljMzMiLA0KICAicHQtYTk1ZDc3MjgyMiIsDQogICJwdC01NTNhOTg1ZDUxIiwNCiAgInB0LWQ0MDc0ZjFiMjYiLA0KICAicHQtYTk2ZGMxMjFlYiIsDQogICJwdC0yZWJhZTg4MDE4IiwNCiAgInB0LTBiYzQyZTQ5OWYiLA0KICAicHQtNWFiZWY2ZWNlYyIsDQogICJwdC04NjhjOTE4ODE0IiwNCiAgInB0LWFmNzhkYWNjNzkiLA0KICAicHQtYjcxNjU0MTAyMiIsDQogICJwdC04OTkxMDQ2MGU4IiwNCiAgInB0LTg2MmVlZDU3NzkiLA0KICAicHQtMjY3ZjBkMTg3NSIsDQogICJwdC1hZjNmNDYwNWI0IiwNCiAgInB0LWQ2ZWQ2NDM3NDkiLA0KICAicHQtODRkOTBmOGI0OCIsDQogICJwdC1kMmQ1ODZmNGI0IiwNCiAgInB0LTRkMDUwYmIxMDkiLA0KICAicHQtMzY5ZTliMWFlMSIsDQogICJwdC1hM2RlNTk3MDljIiwNCiAgInB0LWIxYTBlMjgxY2UiLA0KICAicHQtM2RmZGQyZDEyNCIsDQogICJwdC1iZmRlOWE0MDViIiwNCiAgInB0LWZiY2QwMGRkZWUiLA0KICAicHQtYzZiYzE0YjRkNyIsDQogICJwdC05OGNmNzllYzhmIiwNCiAgInB0LWM4NmY4NTUwMWQiLA0KICAicHQtZjc2NDY1NzdiYyIsDQogICJwdC1mMGI1ZTExZTVmIiwNCiAgInB0LWViY2I2OGYyODIiLA0KICAicHQtY2UxNzM4OTc5ZSIsDQogICJwdC05OWE4ZWJmNGYzIiwNCiAgInB0LTRhMzJkN2FlY2QiLA0KICAicHQtYWFjMTE2ZWM2YSIsDQogICJwdC05YWE5YmY4MjJmIiwNCiAgInB0LTQ2MzYwZTgwZDciLA0KICAicHQtNDg5MDFkMTNiNSIsDQogICJwdC0wYWFmOGZiMTU1IiwNCiAgInB0LTM2ZjQ4OWU5NTciLA0KICAicHQtODljM2YwZTliZCIsDQogICJwdC1lYzFhYmRiOTg0IiwNCiAgInB0LTc2OTkwOWE0ODciLA0KICAicHQtODM5OGM5ODgxZiIsDQogICJwdC1iM2MxZjIwOWU0IiwNCiAgInB0LWEzY2MzMjZhMzkiLA0KICAicHQtM2UxMTg2MzMxMCIsDQogICJwdC03NDY1ZWIzMzhmIiwNCiAgInB0LTNmYWJmMDFmMWIiLA0KICAicHQtZGQ4MzNmZDUwYiIsDQogICJwdC0xYTNjMmNlMTNhIiwNCiAgInB0LTNmNTlmMTczOTkiLA0KICAicHQtMjE0OGQ5Zjk0OSIsDQogICJwdC1kNjU2NWJlMTliIiwNCiAgInB0LTMyZGQwYjkwYjAiLA0KICAicHQtMmNhYTg5MzA1ZCIsDQogICJwdC1hNjE2ODFkOTJiIiwNCiAgInB0LTJjNDAxYWFmNDYiLA0KICAicHQtNzY5MGFmMTFmMCIsDQogICJwdC1hMTUzODc1ZGE4IiwNCiAgInB0LTYyNjdhYTdjMWIiLA0KICAicHQtYmZkODIxNjZlNSIsDQogICJwdC03NDdjMTVkZTdiIiwNCiAgInB0LWVmZWU3YzRhMjYiLA0KICAicHQtMjE1NzNiNjY5NCIsDQogICJwdC05Y2IxNzViOGJkIiwNCiAgInB0LWNjODZiN2MxM2MiLA0KICAicHQtOWVhY2UxNjA4YSIsDQogICJwdC1mMzY2M2JiNGNlIg0KIF0sDQogIm5vdGVzIjogWw0KICAi5pys5Lu25piv44CM5oql5YiK55uu5b2V6KGo56uW5o6S44CN77ya56ysIDcg6KGM5Li66KGo5aS044CM5bqP5Y+3IHwg6YKu5Y+R5Luj5Y+3IHwg5YiK5ZCNIHwg5aSH5rOo44CN77yM56ysIDjigJMyMjk5IOihjOS4uiA3NjIg5p2h6K6w5b2V77yb6K6w5b2V5aSa5Li6IDMg6KGM77yI5bqP5Y+3IC8g6YKu5Y+R5Luj5Y+3IC8g5YiK5ZCN77yJ77yM5YW25LitIDYg5p2h5Li6IDQg6KGM77yI5pyr6KGM5piv5aSH5rOo77yJ77yM5Zug5q2k5LiN6IO95oyJ5Zu65a6a6KGM5a695YiH5Z2X77yM5YiH54K55LiA5b6L5Y+W44CM57qv5pWw5a2X5bqP5Y+36KGM44CN44CCIiwNCiAgIuaVtOihqOaMieW6j+WPt+WIhyA4IOWdl++8iOWIh+eCueesrCAzMTHjgIE1NzjjgIE4NjPjgIExMTQ444CBMTQ0OOOAgTE3MjfjgIEyMDMwIOihjO+8ie+8m+WFiOaMieavjyA5NSDmnaHorr7liIfngrnvvIzlho3pgJDlnZflkI7np7vliLDot6jooYzlvJXmlofnu5PmnZ/kuYvlkI7vvIzlkITlnZfmnaHmlbDkuLogMTAxLzg5Lzk1Lzk1Lzk4LzkzLzEwMS85MO+8jOW3suaguOmqjOayoeacieS7u+S9leadoeebrueahOW8leaWh+i3qOWdl+OAgiIsDQogICLkuI4gMjAyMSDlubTniYjvvIjmlofnjK7kv53pmpwtMzhiZDYx4oCm77yJ5LiN5ZCM77ya5pys5Lu26KGo5aS05piv44CM5YiK5ZCNICsg5aSH5rOo44CN44CB5rKh5pyJ44CM6aKR546H44CN5YiX77yM5bqP5Y+36IezIDc2Mu+8iDIwMjEg5bm054mI6IezIDc2MO+8ie+8jOWPkeW4g+aXtumXtCAyMDIyLTA2LTE444CCIiwNCiAgIuWIiuWQjeWJjeW4puOAjCrjgI3nmoTorrDlvZXoh6rnrKwgNDc5IOWPt+i1t+Wkp+mHj+WHuueOsO+8iOWmgiAq56iO5Yqh5LiO57uP5rWO44CBKuOAium7hOmSn+OAi++8iOatpuaxiemfs+S5kOWtpumZouWtpuaKpe+8ieOAgSrku4rkvKDlqpLvvInvvIzljp/mlofljbPluKbmmJ/lj7fjgIHmnKror7TmmI7lkKvkuYnvvJvjgIzvvIjljp/pgq7lj5HvvJo4Mi04MTXvvInjgI3jgIzvvIjljp/vvJrkuK3lm73miqXkuJrvvIjkuIrljYrmnIjvvInvvIjljp/vvJrkuK3lm73miqXkuJrvvInvvInjgI3kuIDnsbvmlLnlkI3msr/pnanmi6zms6jmjInljp/mlofkv53nlZnvvIxoZWFkaW5nIOmHjOWPquWPluWIsOWIiuWQjeS4u+S9k+OAgeS4jeaQrOW1jOWll+aLrOazqOOAgiIsDQogICLmnaHnm67nmoTlvJXmloflpJrkuLrot6jooYzmi7zmjqXvvIjlpoLjgIzkurrmsJHml6XmiqXlkIjorqLmnKzvvIjnvKnljbDvvIkyMDItMDIy4oCm44CN5piv44CM5YiK5ZCN77yL5LiL5LiA6KGM5bqP5Y+377yL5LiL5LiA6KGM6YKu5Y+R5Luj5Y+344CN77yJ77yM5pWF5oyJ5byV5paH6LW354K55omA5Zyo5Z2X6JC954K577yM5LiN5oyJ5qCH6aKY6YeM55qE5YiK5ZCN6YeN5paw5a6a5L2N44CCIiwNCiAgIuesrCAxIOihjOS4uuagh+mimO+8m+esrCAy4oCTNSDooYzkuLrmnaXmupAgVVJM77yIaWxpYi5jdWMuZWR1LmNuIOaVsOaNruaOpeWPo++8ieOAgeagj+ebruOAjOaWh+eMruS/nemanOOAjeOAgeS9nOiAheOAjOWbvuS5pummhuOAjeOAgeWPkeW4g+aXtumXtO+8m+esrCA2IOihjOS4uuepuuihjO+8m+Wdh+S4jeWFpeihqOagvOWdl+OAgiIsDQogICLml6AgT0NSIOS5seegge+8m3RydW5jYXRlZD1mYWxzZe+8muato+aWhyAxNjQ2NSDlrZfvvIzooajmoLzmraLkuo7nrKwgNzYyIOWPt+OAjCrlhZrlu7rmlofmsYfvvIjkuIrljYrmnIjvvInjgI3vvIznrKwgMjMwMCDooYzkuLrmlofku7bmnKvlsL7mjaLooYzkuqfnlJ/nmoTnqbrooYzvvIzml6DpobXnoIHjgIHml6DlkI7nu63pobXjgIIiDQogXQ0KfQ==
+{
+ "key": "文献保障-681d54f86bec6111f00b09a85f7166d15566",
+ "title": "图书馆2022年国内期刊目录",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "图书馆2022年国内期刊目录",
+   "heading_kind": "author",
+   "lines": [
+    1,
+    1
+   ],
+   "items": [
+    "pt-9c349388ed"
+   ],
+   "chars": 14
+  },
+  {
+   "no": "—",
+   "heading": "来源、栏目、作者与发布时间",
+   "heading_kind": "derived",
+   "lines": [
+    2,
+    5
+   ],
+   "items": [],
+   "chars": 197
+  },
+  {
+   "no": "—",
+   "heading": "表头：序号、邮发代号、刊名、备注",
+   "heading_kind": "derived",
+   "lines": [
+    7,
+    7
+   ],
+   "items": [],
+   "chars": 19
+  },
+  {
+   "no": "序号 1–101",
+   "heading": "第 1–101 号：人民日报合订本（缩印）至 国际经济评论",
+   "heading_kind": "derived",
+   "lines": [
+    8,
+    310
+   ],
+   "items": [
+    "pt-72cf6283ce",
+    "pt-ce10fe0cb7",
+    "pt-86ffb20678",
+    "pt-a4c7638405",
+    "pt-e96ea1e6a3",
+    "pt-205b4ba346"
+   ],
+   "chars": 1768
+  },
+  {
+   "no": "序号 102–190",
+   "heading": "第 102–190 号：中国刑事法杂志至 中国报业",
+   "heading_kind": "derived",
+   "lines": [
+    311,
+    577
+   ],
+   "items": [
+    "pt-3e95b8ceca",
+    "pt-b035d10e33",
+    "pt-f1b8bdf2d2",
+    "pt-25055c4df2"
+   ],
+   "chars": 1785
+  },
+  {
+   "no": "序号 191–285",
+   "heading": "第 191–285 号：世界汉语教学至 文艺研究",
+   "heading_kind": "derived",
+   "lines": [
+    578,
+    862
+   ],
+   "items": [
+    "pt-121ed1837d",
+    "pt-43d182d0a0",
+    "pt-54c0b41b52",
+    "pt-11c318c875",
+    "pt-eb48ac3eab",
+    "pt-36ff59f54c",
+    "pt-d9a0923c92",
+    "pt-4449f072bb"
+   ],
+   "chars": 2222
+  },
+  {
+   "no": "序号 286–380",
+   "heading": "第 286–380 号：文学评论至 大自然",
+   "heading_kind": "derived",
+   "lines": [
+    863,
+    1147
+   ],
+   "items": [
+    "pt-612fcd2c09",
+    "pt-0a4f2a205e",
+    "pt-15d868abe9",
+    "pt-54d039d1bb",
+    "pt-275a1b44da"
+   ],
+   "chars": 1732
+  },
+  {
+   "no": "序号 381–478",
+   "heading": "第 381–478 号：中国金融至 *戏剧文学",
+   "heading_kind": "derived",
+   "lines": [
+    1148,
+    1447
+   ],
+   "items": [
+    "pt-6ab74f50b2",
+    "pt-2fa005f41f",
+    "pt-8dff27ad52",
+    "pt-8341977274",
+    "pt-e553a6b71f",
+    "pt-14db96dbc3",
+    "pt-5ae5c17aab",
+    "pt-cf7100c849",
+    "pt-c0aca59c33",
+    "pt-a95d772822",
+    "pt-553a985d51",
+    "pt-d4074f1b26",
+    "pt-a96dc121eb"
+   ],
+   "chars": 1919
+  },
+  {
+   "no": "序号 479–571",
+   "heading": "第 479–571 号：*税务与经济（吉林财经大学学报）至 *《黄钟》（武汉音乐学院学报）",
+   "heading_kind": "derived",
+   "lines": [
+    1448,
+    1726
+   ],
+   "items": [
+    "pt-2ebae88018",
+    "pt-0bc42e499f",
+    "pt-5abef6ecec",
+    "pt-868c918814",
+    "pt-af78dacc79",
+    "pt-b716541022",
+    "pt-89910460e8",
+    "pt-862eed5779",
+    "pt-267f0d1875",
+    "pt-af3f4605b4",
+    "pt-d6ed643749",
+    "pt-84d90f8b48",
+    "pt-d2d586f4b4",
+    "pt-4d050bb109",
+    "pt-369e9b1ae1",
+    "pt-a3de59709c",
+    "pt-b1a0e281ce",
+    "pt-3dfdd2d124",
+    "pt-bfde9a405b",
+    "pt-fbcd00ddee",
+    "pt-c6bc14b4d7",
+    "pt-98cf79ec8f",
+    "pt-c86f85501d"
+   ],
+   "chars": 1499
+  },
+  {
+   "no": "序号 572–672",
+   "heading": "第 572–672 号：*法商研究至 *交响西安音乐学院学报",
+   "heading_kind": "derived",
+   "lines": [
+    1727,
+    2029
+   ],
+   "items": [
+    "pt-f7646577bc",
+    "pt-f0b5e11e5f",
+    "pt-ebcb68f282",
+    "pt-ce1738979e",
+    "pt-99a8ebf4f3",
+    "pt-4a32d7aecd",
+    "pt-aac116ec6a",
+    "pt-9aa9bf822f",
+    "pt-46360e80d7",
+    "pt-48901d13b5",
+    "pt-0aaf8fb155",
+    "pt-36f489e957",
+    "pt-89c3f0e9bd",
+    "pt-ec1abdb984",
+    "pt-769909a487",
+    "pt-8398c9881f",
+    "pt-b3c1f209e4",
+    "pt-a3cc326a39",
+    "pt-3e11863310"
+   ],
+   "chars": 1552
+  },
+  {
+   "no": "序号 673–762",
+   "heading": "第 673–762 号：*今传媒至 *党建文汇（上半月）",
+   "heading_kind": "derived",
+   "lines": [
+    2030,
+    2299
+   ],
+   "items": [
+    "pt-7465eb338f",
+    "pt-3fabf01f1b",
+    "pt-dd833fd50b",
+    "pt-1a3c2ce13a",
+    "pt-3f59f17399",
+    "pt-2148d9f949",
+    "pt-d6565be19b",
+    "pt-32dd0b90b0",
+    "pt-2caa89305d",
+    "pt-a61681d92b",
+    "pt-2c401aaf46",
+    "pt-7690af11f0",
+    "pt-a153875da8",
+    "pt-6267aa7c1b",
+    "pt-bfd82166e5",
+    "pt-747c15de7b",
+    "pt-efee7c4a26",
+    "pt-21573b6694",
+    "pt-9cb175b8bd",
+    "pt-cc86b7c13c",
+    "pt-9eace1608a",
+    "pt-f3663bb4ce"
+   ],
+   "chars": 1459
+  }
+ ],
+ "items": [
+  "pt-9c349388ed",
+  "pt-72cf6283ce",
+  "pt-ce10fe0cb7",
+  "pt-86ffb20678",
+  "pt-a4c7638405",
+  "pt-e96ea1e6a3",
+  "pt-205b4ba346",
+  "pt-3e95b8ceca",
+  "pt-b035d10e33",
+  "pt-f1b8bdf2d2",
+  "pt-25055c4df2",
+  "pt-121ed1837d",
+  "pt-43d182d0a0",
+  "pt-54c0b41b52",
+  "pt-11c318c875",
+  "pt-eb48ac3eab",
+  "pt-36ff59f54c",
+  "pt-d9a0923c92",
+  "pt-4449f072bb",
+  "pt-612fcd2c09",
+  "pt-0a4f2a205e",
+  "pt-15d868abe9",
+  "pt-54d039d1bb",
+  "pt-275a1b44da",
+  "pt-6ab74f50b2",
+  "pt-2fa005f41f",
+  "pt-8dff27ad52",
+  "pt-8341977274",
+  "pt-e553a6b71f",
+  "pt-14db96dbc3",
+  "pt-5ae5c17aab",
+  "pt-cf7100c849",
+  "pt-c0aca59c33",
+  "pt-a95d772822",
+  "pt-553a985d51",
+  "pt-d4074f1b26",
+  "pt-a96dc121eb",
+  "pt-2ebae88018",
+  "pt-0bc42e499f",
+  "pt-5abef6ecec",
+  "pt-868c918814",
+  "pt-af78dacc79",
+  "pt-b716541022",
+  "pt-89910460e8",
+  "pt-862eed5779",
+  "pt-267f0d1875",
+  "pt-af3f4605b4",
+  "pt-d6ed643749",
+  "pt-84d90f8b48",
+  "pt-d2d586f4b4",
+  "pt-4d050bb109",
+  "pt-369e9b1ae1",
+  "pt-a3de59709c",
+  "pt-b1a0e281ce",
+  "pt-3dfdd2d124",
+  "pt-bfde9a405b",
+  "pt-fbcd00ddee",
+  "pt-c6bc14b4d7",
+  "pt-98cf79ec8f",
+  "pt-c86f85501d",
+  "pt-f7646577bc",
+  "pt-f0b5e11e5f",
+  "pt-ebcb68f282",
+  "pt-ce1738979e",
+  "pt-99a8ebf4f3",
+  "pt-4a32d7aecd",
+  "pt-aac116ec6a",
+  "pt-9aa9bf822f",
+  "pt-46360e80d7",
+  "pt-48901d13b5",
+  "pt-0aaf8fb155",
+  "pt-36f489e957",
+  "pt-89c3f0e9bd",
+  "pt-ec1abdb984",
+  "pt-769909a487",
+  "pt-8398c9881f",
+  "pt-b3c1f209e4",
+  "pt-a3cc326a39",
+  "pt-3e11863310",
+  "pt-7465eb338f",
+  "pt-3fabf01f1b",
+  "pt-dd833fd50b",
+  "pt-1a3c2ce13a",
+  "pt-3f59f17399",
+  "pt-2148d9f949",
+  "pt-d6565be19b",
+  "pt-32dd0b90b0",
+  "pt-2caa89305d",
+  "pt-a61681d92b",
+  "pt-2c401aaf46",
+  "pt-7690af11f0",
+  "pt-a153875da8",
+  "pt-6267aa7c1b",
+  "pt-bfd82166e5",
+  "pt-747c15de7b",
+  "pt-efee7c4a26",
+  "pt-21573b6694",
+  "pt-9cb175b8bd",
+  "pt-cc86b7c13c",
+  "pt-9eace1608a",
+  "pt-f3663bb4ce"
+ ],
+ "notes": [
+  "本件是「报刊目录表竖排」：第 7 行为表头「序号 | 邮发代号 | 刊名 | 备注」，第 8–2299 行为 762 条记录；记录多为 3 行（序号 / 邮发代号 / 刊名），其中 6 条为 4 行（末行是备注），因此不能按固定行宽切块，切点一律取「纯数字序号行」。",
+  "整表按序号切 8 块（切点第 311、578、863、1148、1448、1727、2030 行）；先按每 95 条设切点，再逐块后移到跨行引文结束之后，各块条数为 101/89/95/95/98/93/101/90，已核验没有任何条目的引文跨块。",
+  "与 2021 年版（文献保障-38bd61…）不同：本件表头是「刊名 + 备注」、没有「频率」列，序号至 762（2021 年版至 760），发布时间 2022-06-18。",
+  "刊名前带「*」的记录自第 479 号起大量出现（如 *税务与经济、*《黄钟》（武汉音乐学院学报）、*今传媒），原文即带星号、未说明含义；「（原邮发：82-815）」「（原：中国报业（上半月）（原：中国报业））」一类改名沿革括注按原文保留，heading 里只取到刊名主体、不搬嵌套括注。",
+  "条目的引文多为跨行拼接（如「人民日报合订本（缩印）202-022…」是「刊名＋下一行序号＋下一行邮发代号」），故按引文起点所在块落点，不按标题里的刊名重新定位。",
+  "第 1 行为标题；第 2–5 行为来源 URL（ilib.cuc.edu.cn 数据接口）、栏目「文献保障」、作者「图书馆」、发布时间；第 6 行为空行；均不入表格块。",
+  "无 OCR 乱码；truncated=false：正文 16465 字，表格止于第 762 号「*党建文汇（上半月）」，第 2300 行为文件末尾换行产生的空行，无页码、无后续页。"
+ ]
+}

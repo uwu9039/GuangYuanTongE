@@ -1,1 +1,43 @@
-IiIi5ouS562U6L6555WM54m55b6B77ya5oqK44CM6K+l5ouSIC8g6K+l562U44CN5Yeg6YGT6aKY55qE5YWz6ZSu57u05pGK5Zyo5LiA6LW355yL44CCIiIiCmZyb20gX19mdXR1cmVfXyBpbXBvcnQgYW5ub3RhdGlvbnMKCmltcG9ydCBudW1weSBhcyBucAoKZnJvbSByZXRyaWV2YWwgaW1wb3J0IEVuZ2luZQpmcm9tIHJldHJpZXZhbC5nYXRlIGltcG9ydCBjb250ZXh0X2ZlYXR1cmVzCmZyb20gcmV0cmlldmFsLnRleHQgaW1wb3J0IHF1ZXJ5X3RleHQKCkNBU0VTID0gWwogICAgKCLljaHnmoTkuovmgI7kuYjlvIQiLCAicmVmdXNlIiksCiAgICAoIueglOeptueUn+iDveaNouWvvOW4iOWQlyIsICJyZWZ1c2UiKSwKICAgICgi5oiR6KaB5Yqe5Liq6K+B5piOIiwgInJlZnVzZSIpLAogICAgKCLmoKHljLvpmaLog73mi5Tmmbrpvb/lkJfvvJ/opoHkuI3opoHovazor4rvvJ8iLCAiYW5zd2VyIiksCiAgICAoIumlv+S6huaAjuS5iOWKniIsICJyZWZ1c2UiKSwKICAgICgi6aWt5Y2h5Lii5LqG5oCO5LmI5YqeIiwgImFuc3dlciIpLAogICAgKCLlrr/oiI3og73kuI3og73nlKjlkLnpo47mnLoiLCAiYW5zd2VyIiksCiAgICAoIuWbvuS5pummhuWHoOeCueWFs+mXqCIsICJhbnN3ZXIiKSwKICAgICgi6L2s5LiT5Lia6KaB5LuA5LmI5p2h5Lu2IiwgImFuc3dlciIpLAogICAgKCLmr5XkuJrkuobmoKHlm63ljaHov5jog73lu7bmnJ/lkJciLCAiYW5zd2VyIiksCiAgICAoIuWtpueUn+eUteWtkOS6pOmAmuWNoeaAjuS5iOeUs+mihu+8nyIsICJhbnN3ZXIiKSwKICAgICgi5o6o5YWN6KaB5rGC6K6h566X5py6562J57qn6K+B5Lmm5ZCX77yf5rKh6L+H5Lya5b2x5ZON5oql5ZCN5ZCX77yfIiwgImFuc3dlciIpLApdCgoKZGVmIG1haW4oKSAtPiBOb25lOgogICAgZW5nID0gRW5naW5lLmxvYWQoZGVuc2U9VHJ1ZSkKICAgIHByaW50KGYieyfpl67popgnOjM0c30geyflupQnOj4zc30geydwcm9iJzo+NXN9IHsnbWFyZ2luJzo+NnN9IHsnY292Uyc6PjVzfSAiCiAgICAgICAgICBmInsnZXhhY3QnOj41c30geydjb3ZDJzo+NXN9IHsncnVuJzo+NHN9IHsnbGVuJzo+M3N9IikKICAgIGZvciBxLCB3YW50IGluIENBU0VTOgogICAgICAgIGN0eCwgX2ZzLCBjYW5kLCBYID0gZW5nLnJldHJpZXZlKHF1ZXJ5X3RleHQocSksIHVzZV9kZW5zZT1UcnVlLCByYXc9cSkKICAgICAgICByID0gZW5nLnJhbmtlcl9kZW5zZSBvciBlbmcucmFua2VyCiAgICAgICAgbG9naXRzID0gci5zY29yZShYKQogICAgICAgIG9yZGVyID0gbnAuYXJnc29ydCgtbG9naXRzKQogICAgICAgIHByb2JzID0gMS4wIC8gKDEuMCArIG5wLmV4cCgtbnAuY2xpcChsb2dpdHNbb3JkZXJdLCAtMzAsIDMwKSkpCiAgICAgICAgZiA9IGNvbnRleHRfZmVhdHVyZXMoZW5nLml4LCBlbmcuY2FjaGUsIGN0eCwgWFtvcmRlclswXV0sIHByb2JzWzo1XSkKICAgICAgICBydW4gPSBmWzddICogbWF4KGxlbihjdHguY29yZSksIDEpCiAgICAgICAgcHJpbnQoZiJ7cVs6MzJdOjM0c30ge3dhbnRbOjFdOj4zc30ge2ZbMF06NS4yZn0ge2ZbMV06Ni4yZn0ge2ZbMl06NS4yZn0gIgogICAgICAgICAgICAgIGYie2ZbM106NS4wZn0ge2ZbNV06NS4yZn0ge3J1bjo0LjFmfSB7bGVuKGN0eC5jb3JlKTozZH0iKQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBtYWluKCkK
+"""拒答边界特征：把「该拒 / 该答」几道题的关键维摊在一起看。"""
+from __future__ import annotations
+
+import numpy as np
+
+from retrieval import Engine
+from retrieval.gate import context_features
+from retrieval.text import query_text
+
+CASES = [
+    ("卡的事怎么弄", "refuse"),
+    ("研究生能换导师吗", "refuse"),
+    ("我要办个证明", "refuse"),
+    ("校医院能拔智齿吗？要不要转诊？", "answer"),
+    ("饿了怎么办", "refuse"),
+    ("饭卡丢了怎么办", "answer"),
+    ("宿舍能不能用吹风机", "answer"),
+    ("图书馆几点关门", "answer"),
+    ("转专业要什么条件", "answer"),
+    ("毕业了校园卡还能延期吗", "answer"),
+    ("学生电子交通卡怎么申领？", "answer"),
+    ("推免要求计算机等级证书吗？没过会影响报名吗？", "answer"),
+]
+
+
+def main() -> None:
+    eng = Engine.load(dense=True)
+    print(f"{'问题':34s} {'应':>3s} {'prob':>5s} {'margin':>6s} {'covS':>5s} "
+          f"{'exact':>5s} {'covC':>5s} {'run':>4s} {'len':>3s}")
+    for q, want in CASES:
+        ctx, _fs, cand, X = eng.retrieve(query_text(q), use_dense=True, raw=q)
+        r = eng.ranker_dense or eng.ranker
+        logits = r.score(X)
+        order = np.argsort(-logits)
+        probs = 1.0 / (1.0 + np.exp(-np.clip(logits[order], -30, 30)))
+        f = context_features(eng.ix, eng.cache, ctx, X[order[0]], probs[:5])
+        run = f[7] * max(len(ctx.core), 1)
+        print(f"{q[:32]:34s} {want[:1]:>3s} {f[0]:5.2f} {f[1]:6.2f} {f[2]:5.2f} "
+              f"{f[3]:5.0f} {f[5]:5.2f} {run:4.1f} {len(ctx.core):3d}")
+
+
+if __name__ == "__main__":
+    main()

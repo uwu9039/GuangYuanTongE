@@ -1,1 +1,127 @@
-ew0KICJrZXkiOiAiMjAyNjA0MjMtYzUzMzJhMjY5NTI0IiwNCiAidGl0bGUiOiAi5a+85biI566A5LuLLeW3tOaso+eEtiIsDQogInRydW5jYXRlZCI6IGZhbHNlLA0KICJzZWN0aW9ucyI6IFsNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLpobXpnaLmoYbmnrbkuI7moI/nm67lr7zoiKoiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxLA0KICAgIDYxDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC03N2M1MGNjMzcxIg0KICAgXSwNCiAgICJjaGFycyI6IDMyMA0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIumhtemdouagh+mimOS4juWPkeW4g+S/oeaBryIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDYyLA0KICAgIDY0DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC03NjdhODJmNDM2Ig0KICAgXSwNCiAgICJjaGFycyI6IDEzMA0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuWfuuacrOS/oeaBr++8iOWnk+WQjeOAgeiBjOensOOAgeaLm+eUn+aWueWQkeOAgeeglOeptumihuWfn+OAgemCrueuse+8iSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDY1LA0KICAgIDcwDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0zYjQ4NzliNzY4Ig0KICAgXSwNCiAgICJjaGFycyI6IDEzNA0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuS4quS6uueugOS7iyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNzEsDQogICAgNzINCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTU0ODQzYjdlNzIiLA0KICAgICJwdC02NGNhMjVmYzQwIg0KICAgXSwNCiAgICJjaGFycyI6IDIwNA0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuaJv+aLheeahOS4u+imgeenkeeglOmhueebriIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNzMsDQogICAgODANCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTU3ZmI3M2UzM2IiLA0KICAgICJwdC04ZTJmZDY2YjBlIiwNCiAgICAicHQtNTkzNmY0N2EzYSINCiAgIF0sDQogICAiY2hhcnMiOiAzOTUNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLku6PooajmgKflrabmnK/miJDmnpwiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDgxLA0KICAgIDk0DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0zNmU4MjdkNWE2IiwNCiAgICAicHQtZGViNDg2NmM1ZiIsDQogICAgInB0LTgzMGIyMTMxMjIiLA0KICAgICJwdC00NWMyMzJiOTNmIiwNCiAgICAicHQtMGNhZmE5MDY2OSIsDQogICAgInB0LTIxOTQ4YTM0YzgiDQogICBdLA0KICAgImNoYXJzIjogMjQwNA0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIueJiOadg+S4juWcsOWdgOS/oeaBryIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDk1LA0KICAgIDk3DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAxMjkNCiAgfQ0KIF0sDQogIml0ZW1zIjogWw0KICAicHQtNzdjNTBjYzM3MSIsDQogICJwdC03NjdhODJmNDM2IiwNCiAgInB0LTNiNDg3OWI3NjgiLA0KICAicHQtNTQ4NDNiN2U3MiIsDQogICJwdC02NGNhMjVmYzQwIiwNCiAgInB0LTU3ZmI3M2UzM2IiLA0KICAicHQtOGUyZmQ2NmIwZSIsDQogICJwdC01OTM2ZjQ3YTNhIiwNCiAgInB0LTM2ZTgyN2Q1YTYiLA0KICAicHQtZGViNDg2NmM1ZiIsDQogICJwdC04MzBiMjEzMTIyIiwNCiAgInB0LTQ1YzIzMmI5M2YiLA0KICAicHQtMGNhZmE5MDY2OSIsDQogICJwdC0yMTk0OGEzNGM4Ig0KIF0sDQogIm5vdGVzIjogWw0KICAi56ysIDEg6KGM5Li6572R6aG1L+mhtemdouagh+mimO+8jOesrCAy4oCTNjEg6KGM5Li65YWo56uZ5a+86Iiq5LiO5qCP55uu6ZO+5o6l77yI5ZCr6KKr5oiq5pat55qE44CM5a6J5YWo566h55CG5a6e6aqM5a6k5a6J5YWoLi4u44CN44CM5a2m6aOO5bu66K6+5py6Li4u44CN562J6aG577yJ77yM5ZCI5bm25Li644CM6aG16Z2i5qGG5p6244CN6IqC77ybcHQtNzdjNTBjYzM3MSDnmoTlvJXmlofoh6rnrKwgNTUg6KGM6LW344CB5LiA55u05Yiw56ysIDYyIOihjOeahOmHjeWkjeagh+mimO+8jOWJjee8gOiQveWcqOacrOiKguOAgiIsDQogICLnrKwgNjIg6KGM5Li65q2j5paH5Yy66YeN5aSN55qE6aG16Z2i5qCH6aKY44CB56ysIDYzIOihjOOAjOS9nOiAhe+8muWPkeW4g+aXtumXtO+8mjIwMjYtMDQtMjPjgI3jgIHnrKwgNjQg6KGM5Zu+54mH6ZmE5Lu26KGM77yM5ZCI5bm25Li644CM6aG16Z2i5qCH6aKY5LiO5Y+R5biD5L+h5oGv44CN6IqC77ybcHQtNzY3YTgyZjQzNiDnmoTlvJXmlofvvIjjgIzlr7zluIjnroDku4st5be05qyj54S244CN77yJ5Zyo5q2k6IqC6JC95Zyw77yI56ysIDEg6KGM5Li65ZCM5LiA5qCH6aKY55qE6aG15aS05Ymv5pys77yM5b2S6aG16Z2i5qGG5p626IqC77yJ44CCIiwNCiAgIuesrCA2NeKAkzcwIOihjOS4uuWnk+WQjeOAgeiBjOensC/noZXljZrlr7zjgIHlrabnoZUv5LiT56GV5oub55Sf5pa55ZCR44CB5Li76KaB56CU56m26aKG5Z+f44CB6YKu566x55qE6YCQ5p2h5L+h5oGv77yM5Y6f5paH5rKh5pyJ5bCP5qCH6aKY77yM6IqC5ZCN5oyJ5YaF5a655qaC5ous77yIZGVyaXZlZO+8ie+8m+OAjOWnk+WQje+8mu+8iu+8iuOAjeS4reeahOWnk+WQjeiiq+S4iua4uOiEseaVj+aIkOaYn+WPt++8jOaMieWOn+aWh+S/neeVmeOAgiIsDQogICLnrKwgNzHjgIE3M+OAgTgxIOihjOOAjOS4quS6uueugOS7i+OAjeOAjOaJv+aLheeahOS4u+imgeenkeeglOmhueebruOAjeOAjOS7o+ihqOaAp+Wtpuacr+aIkOaenOOAjeS4uuWOn+aWh+Wwj+agh+mimO+8jOaghyBhdXRob3LvvJvlkIToioLljLrpl7TlkKvmoIfpopjooYzlj4rlhbbkuIvlsZ7nvJblj7fmnaHnm67jgIIiLA0KICAi56ysIDk14oCTOTcg6KGM5Li654mI5p2D5aOw5piO44CB5Zyw5Z2A5LiO6K6/6Zeu57uf6K6h6ZmE5Lu26KGM77yM5Y2V5YiX6aG16ISa6IqC77yM5peg5p2h55uu44CCIg0KIF0NCn0=
+{
+ "key": "20260423-c5332a269524",
+ "title": "导师简介-巴欣然",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "页面框架与栏目导航",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    61
+   ],
+   "items": [
+    "pt-77c50cc371"
+   ],
+   "chars": 320
+  },
+  {
+   "no": "—",
+   "heading": "页面标题与发布信息",
+   "heading_kind": "derived",
+   "lines": [
+    62,
+    64
+   ],
+   "items": [
+    "pt-767a82f436"
+   ],
+   "chars": 130
+  },
+  {
+   "no": "—",
+   "heading": "基本信息（姓名、职称、招生方向、研究领域、邮箱）",
+   "heading_kind": "derived",
+   "lines": [
+    65,
+    70
+   ],
+   "items": [
+    "pt-3b4879b768"
+   ],
+   "chars": 134
+  },
+  {
+   "no": "—",
+   "heading": "个人简介",
+   "heading_kind": "author",
+   "lines": [
+    71,
+    72
+   ],
+   "items": [
+    "pt-54843b7e72",
+    "pt-64ca25fc40"
+   ],
+   "chars": 204
+  },
+  {
+   "no": "—",
+   "heading": "承担的主要科研项目",
+   "heading_kind": "author",
+   "lines": [
+    73,
+    80
+   ],
+   "items": [
+    "pt-57fb73e33b",
+    "pt-8e2fd66b0e",
+    "pt-5936f47a3a"
+   ],
+   "chars": 395
+  },
+  {
+   "no": "—",
+   "heading": "代表性学术成果",
+   "heading_kind": "author",
+   "lines": [
+    81,
+    94
+   ],
+   "items": [
+    "pt-36e827d5a6",
+    "pt-deb4866c5f",
+    "pt-830b213122",
+    "pt-45c232b93f",
+    "pt-0cafa90669",
+    "pt-21948a34c8"
+   ],
+   "chars": 2404
+  },
+  {
+   "no": "—",
+   "heading": "版权与地址信息",
+   "heading_kind": "derived",
+   "lines": [
+    95,
+    97
+   ],
+   "items": [],
+   "chars": 129
+  }
+ ],
+ "items": [
+  "pt-77c50cc371",
+  "pt-767a82f436",
+  "pt-3b4879b768",
+  "pt-54843b7e72",
+  "pt-64ca25fc40",
+  "pt-57fb73e33b",
+  "pt-8e2fd66b0e",
+  "pt-5936f47a3a",
+  "pt-36e827d5a6",
+  "pt-deb4866c5f",
+  "pt-830b213122",
+  "pt-45c232b93f",
+  "pt-0cafa90669",
+  "pt-21948a34c8"
+ ],
+ "notes": [
+  "第 1 行为网页/页面标题，第 2–61 行为全站导航与栏目链接（含被截断的「安全管理实验室安全...」「学风建设机...」等项），合并为「页面框架」节；pt-77c50cc371 的引文自第 55 行起、一直到第 62 行的重复标题，前缀落在本节。",
+  "第 62 行为正文区重复的页面标题、第 63 行「作者：发布时间：2026-04-23」、第 64 行图片附件行，合并为「页面标题与发布信息」节；pt-767a82f436 的引文（「导师简介-巴欣然」）在此节落地（第 1 行为同一标题的页头副本，归页面框架节）。",
+  "第 65–70 行为姓名、职称/硕博导、学硕/专硕招生方向、主要研究领域、邮箱的逐条信息，原文没有小标题，节名按内容概括（derived）；「姓名：＊＊」中的姓名被上游脱敏成星号，按原文保留。",
+  "第 71、73、81 行「个人简介」「承担的主要科研项目」「代表性学术成果」为原文小标题，标 author；各节区间含标题行及其下属编号条目。",
+  "第 95–97 行为版权声明、地址与访问统计附件行，单列页脚节，无条目。"
+ ]
+}

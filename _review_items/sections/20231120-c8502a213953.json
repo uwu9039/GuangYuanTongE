@@ -1,1 +1,116 @@
-ew0KICJrZXkiOiAiMjAyMzExMjAtYzg1MDJhMjEzOTUzIiwNCiAidGl0bGUiOiAiQGN1Yy5lZHUuY27otKbmiLfmt7vliqDvvIhPdXRsb29rIHBvcDMg6K6+572u77yJIiwNCiAidHJ1bmNhdGVkIjogZmFsc2UsDQogInNlY3Rpb25zIjogWw0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuagh+mimOS4juagj+ebruW9kuWxniIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDEsDQogICAgNA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtYWY3Y2UwMGE4NCINCiAgIF0sDQogICAiY2hhcnMiOiAzNA0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIumhtemdouahhuaetu+8iOWvvOiIquiPnOWNleS4juaoquW5he+8iSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDUsDQogICAgNDgNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDE1Nw0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuato+aWh+agh+mimOS4juWPkeW4g+S/oeaBryIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDQ5LA0KICAgIDUyDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiA1NA0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIk91dGxvb2sgMjAxNiBwb3AzIOiuvue9riIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNTMsDQogICAgOTcNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWU5NGVjYTMzNDgiLA0KICAgICJwdC03ZWRjZGVjZmVmIiwNCiAgICAicHQtYzU5NjkxMDVjNCIsDQogICAgInB0LWMyMTIwNDMzY2YiLA0KICAgICJwdC01MzRiODNhNDc2IiwNCiAgICAicHQtMWQ1MDkyOTExMCIsDQogICAgInB0LWNlNWY1NDcyOTgiDQogICBdLA0KICAgImNoYXJzIjogMTAzNA0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuWPguiAg+mTvuaOpSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDk5LA0KICAgIDEwMQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZGZiMmU0YWM0OCINCiAgIF0sDQogICAiY2hhcnMiOiAxNDcNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLpobXohJrvvJrogZTns7vmlrnlvI/kuI7luLjnlKjpk77mjqUiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMDMsDQogICAgMTQ3DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAyNDgNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLniYjmnYPkuI7orr/pl67nu5/orqEiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNDksDQogICAgMTUxDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAxMDINCiAgfQ0KIF0sDQogIml0ZW1zIjogWw0KICAicHQtYWY3Y2UwMGE4NCIsDQogICJwdC1lOTRlY2EzMzQ4IiwNCiAgInB0LTdlZGNkZWNmZWYiLA0KICAicHQtYzU5NjkxMDVjNCIsDQogICJwdC1jMjEyMDQzM2NmIiwNCiAgInB0LTUzNGI4M2E0NzYiLA0KICAicHQtMWQ1MDkyOTExMCIsDQogICJwdC1jZTVmNTQ3Mjk4IiwNCiAgInB0LWRmYjJlNGFjNDgiDQogXSwNCiAibm90ZXMiOiBbDQogICLlrpjnvZHjgIzph4fpm4bjgI3ku7bvvIhjcmF3bO+8ie+8muesrCAxIOihjOagh+mimOOAgeesrCAzIOihjOagj+ebruW9kuWxnuOAjOS/oeaBr+WMluWkhOOAje+8m+esrCA1LTQ1IOihjOaYr+WFqOermeWvvOiIquiPnOWNle+8iOmmlumhte+8j+WFs+S6juaIkeS7rO+8j+mDqOmXqOamguWGte+8j+S/oeaBr+WMluacjeWKoe+8j0lU5pyN5Yqh77yP5qCh5Zut5Y2h5pyN5Yqh77yP5L+h5oGv5YyW6aG555uu77yP5pyN5Yqh5oyH5Y2X5aSn5YWo77yP6KeE56ug5Yi25bqm77yP5pS/562W5rOV6KeE77yP6YCa55+l5YWs5ZGK77yP572R57uc5a6J5YWo77yP5biu5Yqp77yP5bi46KeB6Zeu6aKY77yP5bi455So5Yqf6IO977yP5bi455So5paH5qGj77yP57q/5LiK5oql5L+u77yJ77yM56ysIDQ3IOihjOaYr+aoquW5heWbvu+8jOS4gOW5tuWQiOaIkOOAjOmhtemdouahhuaetuOAjeS4gOiKgu+8jOaMieWPo+W+hOS4jeaKiuWvvOiIqumAkOmhueaLhuiKguOAgiIsDQogICLnrKwgNDktNTIg6KGM5piv5q2j5paH5Yy66YeN5aSN5Ye6546w55qE5qCH6aKY5LiO44CM5Y+R5biD5pe26Ze077yaMjAyMy0xMS0yMCDmtY/op4jmrKHmlbDvvJoxNDgz44CN77yM5Y2V5YiX5LiA6IqC77yb5qCH6aKY5Zyo56ysIDEg6KGM5LiO56ysIDQ5IOihjOmHjeWkjeWHuueOsO+8jOS4pOS4quS9jee9ruWQhOWxnuS4gOiKguOAgiIsDQogICLnrKwgNTMg6KGM44CMT3V0bG9vayAyMDE2IHBvcDMg6K6+572u77ya44CN6LW35piv5pON5L2c6K+05piO77yM5q2j5paH5oyJ44CM56ys5LiA5q2l44CN5Yiw44CM56ys5LiD5q2l44CN5YiGIDcg5q6177yM5q+P5q615ZCO6Z2i6Lef5LiA5byg5oiq5Zu+77yIW+mZhOS7tl0gL191cGxvYWQvYXJ0aWNsZS9pbWFnZXMv4oCmcG5n77yJ77yb5q2l6aqk5piv5ZCM5LiA5aWX5pON5L2c5rWB56iL44CB5LiN6YCC5ZCI5L2c56ug6IqC5a+86Iiq77yM5pWF5ZCI5bm25oiQ5LiA6IqC77yIaGVhZGluZyDpgJDlrZflj5bnrKwgNTMg6KGM55qE5Y6f5Y+l77yM5L+d55WZ5Y6f5paH5bCP5YaZIHBvcDPvvInjgIIiLA0KICAi6aG16ISa77yI56ysIDEwMy0xNDcg6KGM77yJ5ZCr5Zyw5Z2A44CB5pyN5Yqh5Lit5b+D44CB5Yqe5YWs5a6k44CB5a625bGe5Yy6572R57uc77yP5pyJ57q/55S16KeG5oql5L+u55S16K+d44CB5a6/6IiN572R57uc5oql5L+u55S16K+d44CB5qCh5Zut5Y2h5Y+K572R57uc5oql5L+u55S16K+d5LiO44CM5bi455So6ZO+5o6l44CN77yI5q2j54mI6L2v5Lu25bmz5Y+w77yP6L+c56iL55So5oi35o6l5YWl5pyN5Yqh77yP5pWw5a2X5qCh5Zut77yP6K6h6LS557O757uf55m75b2V77yP6YKu5Lu257O757uf55m75b2V77yJ77yM55u05Yiw56ysIDE0NyDooYznmoTms6jph4rlsL7jgIwtLT7jgI3jgIIiLA0KICAi56ysIDE0MS0xNDcg6KGM5piv6aG16Z2i5qih5p2/5q6L55WZ77yIe+e8qeeVpeWbvn3jgIF75qCH6aKYfeOAgWdvdG9wLnBuZyDpmYTku7booYzjgIEtLSZndDsg5rOo6YeK5bC+77yJ77yM5bm25YWl6aG16ISa6IqC77yM5pyq5Y2V5YiX44CCIiwNCiAgIuesrCAxNDktMTUxIOihjOaYr+eJiOadg+ihjO+8iMKpIDIwMjIg54mI5p2D5omA5pyJIOS4reWbveS8oOWqkuWkp+WtpiDkv6Hmga/ljJblpITvvI/kuqzlhaznvZHlronlpIcgMTEwNDAyNDMwMDMxIOWPt++8j+S6rElDUOWkhyAxMDAzOTU2NCDlj7fvvInkuI7orr/pl67nu5/orqHlm77vvIhfdmlzaXRjb3VudD9zaXRlSWQ9MTUy4oCm77yJ77yM5Y2V5YiX5pyr6IqC44CCIiwNCiAgIuesrCA0NuOAgTQ444CBNTLjgIE5OOOAgTEwMuOAgTE0OOOAgTE1MCDooYzkuLrnqbrooYzvvIzkuI3lsZ7ku7vkvZXoioLjgIIiDQogXQ0KfQ0K
+{
+ "key": "20231120-c8502a213953",
+ "title": "@cuc.edu.cn账户添加（Outlook pop3 设置）",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "标题与栏目归属",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    4
+   ],
+   "items": [
+    "pt-af7ce00a84"
+   ],
+   "chars": 34
+  },
+  {
+   "no": "—",
+   "heading": "页面框架（导航菜单与横幅）",
+   "heading_kind": "derived",
+   "lines": [
+    5,
+    48
+   ],
+   "items": [],
+   "chars": 157
+  },
+  {
+   "no": "—",
+   "heading": "正文标题与发布信息",
+   "heading_kind": "derived",
+   "lines": [
+    49,
+    52
+   ],
+   "items": [],
+   "chars": 54
+  },
+  {
+   "no": "—",
+   "heading": "Outlook 2016 pop3 设置",
+   "heading_kind": "author",
+   "lines": [
+    53,
+    97
+   ],
+   "items": [
+    "pt-e94eca3348",
+    "pt-7edcdecfef",
+    "pt-c5969105c4",
+    "pt-c2120433cf",
+    "pt-534b83a476",
+    "pt-1d50929110",
+    "pt-ce5f547298"
+   ],
+   "chars": 1034
+  },
+  {
+   "no": "—",
+   "heading": "参考链接",
+   "heading_kind": "derived",
+   "lines": [
+    99,
+    101
+   ],
+   "items": [
+    "pt-dfb2e4ac48"
+   ],
+   "chars": 147
+  },
+  {
+   "no": "—",
+   "heading": "页脚：联系方式与常用链接",
+   "heading_kind": "derived",
+   "lines": [
+    103,
+    147
+   ],
+   "items": [],
+   "chars": 248
+  },
+  {
+   "no": "—",
+   "heading": "版权与访问统计",
+   "heading_kind": "derived",
+   "lines": [
+    149,
+    151
+   ],
+   "items": [],
+   "chars": 102
+  }
+ ],
+ "items": [
+  "pt-af7ce00a84",
+  "pt-e94eca3348",
+  "pt-7edcdecfef",
+  "pt-c5969105c4",
+  "pt-c2120433cf",
+  "pt-534b83a476",
+  "pt-1d50929110",
+  "pt-ce5f547298",
+  "pt-dfb2e4ac48"
+ ],
+ "notes": [
+  "官网「采集」件（crawl）：第 1 行标题、第 3 行栏目归属「信息化处」；第 5-45 行是全站导航菜单（首页／关于我们／部门概况／信息化服务／IT服务／校园卡服务／信息化项目／服务指南大全／规章制度／政策法规／通知公告／网络安全／帮助／常见问题／常用功能／常用文档／线上报修），第 47 行是横幅图，一并合成「页面框架」一节，按口径不把导航逐项拆节。",
+  "第 49-52 行是正文区重复出现的标题与「发布时间：2023-11-20 浏览次数：1483」，单列一节；标题在第 1 行与第 49 行重复出现，两个位置各属一节。",
+  "第 53 行「Outlook 2016 pop3 设置：」起是操作说明，正文按「第一步」到「第七步」分 7 段，每段后面跟一张截图（[附件] /_upload/article/images/…png）；步骤是同一套操作流程、不适合作章节导航，故合并成一节（heading 逐字取第 53 行的原句，保留原文小写 pop3）。",
+  "页脚（第 103-147 行）含地址、服务中心、办公室、家属区网络／有线电视报修电话、宿舍网络报修电话、校园卡及网络报修电话与「常用链接」（正版软件平台／远程用户接入服务／数字校园／计费系统登录／邮件系统登录），直到第 147 行的注释尾「-->」。",
+  "第 141-147 行是页面模板残留（{缩略图}、{标题}、gotop.png 附件行、--&gt; 注释尾），并入页脚节，未单列。",
+  "第 149-151 行是版权行（© 2022 版权所有 中国传媒大学 信息化处／京公网安备 110402430031 号／京ICP备 10039564 号）与访问统计图（_visitcount?siteId=152…），单列末节。",
+  "第 46、48、52、98、102、148、150 行为空行，不属任何节。"
+ ]
+}

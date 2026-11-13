@@ -1,1 +1,104 @@
-ewogImtleSI6ICJhdHQtZDMyNjRhOTJiZSIsCiAidGl0bGUiOiAi6ZmE5Lu2Me+8muS8oOWqkuWNmueJqemmhuS4tOaXtuWxleWOheS9v+eUqOeUs+ivt+ihqO+8iOagoeWGheeJiO+8iSIsCiAidHJ1bmNhdGVkIjogZmFsc2UsCiAic2VjdGlvbnMiOiBbCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi6ZmE5Lu25qCH6aKYIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWwogICAgMSwKICAgIDIKICAgXSwKICAgIml0ZW1zIjogWwogICAgInB0LTk3OTEyZTU2NmIiCiAgIF0sCiAgICJjaGFycyI6IDIzCiAgfSwKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLln7rmnKzmg4XlhrXvvIjlsZXop4jlkI3np7DjgIHlsZXlk4HjgIHkuLvlip7ljZXkvY3jgIHnlLPor7flnLrppobkuI7mi5/lrprml7bpl7TvvIkiLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbCiAgICA0LAogICAgMTMKICAgXSwKICAgIml0ZW1zIjogWwogICAgInB0LWQyYmExYzFiYWEiCiAgIF0sCiAgICJjaGFycyI6IDI0MgogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi5bGV6KeI6ZyA5rGC77yI55So55S16K6+5aSH44CB5bGV6KeI6K6+5aSH44CB5YW25LuW6ZyA5rGC5LiO6aaG5pa55pyN5Yqh6L6555WM77yJIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWwogICAgMTQsCiAgICA1MgogICBdLAogICAiaXRlbXMiOiBbCiAgICAicHQtNzYzOWQ4ZjE0NiIsCiAgICAicHQtMDM2ZWE2MTFjZCIsCiAgICAicHQtZmY1MzA3ODdjNCIKICAgXSwKICAgImNoYXJzIjogMTUyNAogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi562+572y5oSP6KeB5LiO5aSH5rOoIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWwogICAgNTMsCiAgICA4OAogICBdLAogICAiaXRlbXMiOiBbCiAgICAicHQtMWVlNTQwNDVlOCIKICAgXSwKICAgImNoYXJzIjogNzk2CiAgfSwKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLkuInnuqfnrb7nvbLmhI/op4HvvIjlrabpg6jvvI/nm7jlhbPkuJrliqHpg6jpl6jvvI/kvKDlqpLljZrnianppobvvIkiLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbCiAgICA1MywKICAgIDc1CiAgIF0sCiAgICJpdGVtcyI6IFtdLAogICAiY2hhcnMiOiAzNjgKICB9LAogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIuWkh+azqO+8iOS4ieadoeWKnuWxleimgeaxgu+8iSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFsKICAgIDc2LAogICAgODgKICAgXSwKICAgIml0ZW1zIjogWwogICAgInB0LTNjMDIxOTM5MTciLAogICAgInB0LTc1YzNmY2ZiZDkiCiAgIF0sCiAgICJjaGFycyI6IDQyOAogIH0KIF0sCiAiaXRlbXMiOiBbCiAgInB0LTk3OTEyZTU2NmIiLAogICJwdC1kMmJhMWMxYmFhIiwKICAicHQtNzYzOWQ4ZjE0NiIsCiAgInB0LTAzNmVhNjExY2QiLAogICJwdC1mZjUzMDc4N2M0IiwKICAicHQtMWVlNTQwNDVlOCIsCiAgInB0LTNjMDIxOTM5MTciLAogICJwdC03NWMzZmNmYmQ5IgogXSwKICJub3RlcyI6IFsKICAi5pys5Lu25piv5LiA5byg6KGo5qC877yIZG9jeCDpmYTku7bvvInooqvmir3miJDmlofmnKzlkI7nmoTlvaLmgIHvvJrljZXlhYPmoLzmjInnq5bmjpLpobrluo/okL3ooYzvvIzlkIjlubbljZXlhYPmoLzooqvlj43lpI3ph43lh7rvvIzmiYDku6XlkIzkuIDmrrXlrZfpnaLkvJrov57nu63lh7rnjrDlpJrpgY3igJTigJTjgIzlsZXop4jpnIDmsYLjgI3nmoTlm5vmnaHvvIjnlKjnlLXorr7lpIfvvI/lsZXop4jorr7lpIfvvI/lhbbku5bpnIDmsYLvvI/ppobmlrnmnI3liqHor7TmmI7vvInlnKjnrKwgMTbigJQ1MiDooYzph4zljp/moLfph43lpI3kuoYgNyDpgY3vvIzjgIzlpIfms6jjgI3nmoTkuInmnaHlnKjnrKwgNzbigJQ4OCDooYzph4zph43lpI3kuoYgNiDpgY3vvIzjgIzotJ/otKPkurrnrb7lrZfvvI/ml6UgICDmnJ/jgI3kuZ/lkIToh6rph43lh7ogNiDmrKHjgILov5nmmK/mir3lj5blia/kuqfnianvvIzkuI3mmK/ljp/mlofmnInmhI/ph43lpI3vvIzlrZfpnaLkuI3mlLnjgIIiLAogICLmjInooajmoLzliIbljLrnq4voioLvvIjliIbljLrooYzpg73mmK/ljp/mlofph4zpgJDlrZflj6/mn6XnmoTooajlhoXmoIfnrb7vvInvvJrnrKwgMeKAlDIg6KGM44CM6ZmE5Lu2Me+8mu+8j+S8oOWqkuWNmueJqemmhuS4tOaXtuWxleWOheS9v+eUqOeUs+ivt+ihqO+8iOagoeWGheeJiO+8ieOAjeS4uuagh+mimOiKgu+8m+esrCA04oCUMTMg6KGM5piv5Z+65pys5oOF5Ya177yI5bGV6KeI5ZCN56ew44CB5bGV5ZOB57G75Z6LIHwg5bGV5ZOB5pWw6YeP44CB5Li75Yqe5Y2V5L2N44CB55Sz6K+35Zy66aaG77yI6LSf5LiA5bGC5Li76aKY5bGV5Y6F77yP5LiA5bGC5aSn5Y6F5Li05bGV5Yy677yP5LqM5bGC546v5b2i5Li05bGV5Yy677yJ44CB5ouf5a6a5pe26Ze044CB5bGV6KeI6LSf6LSj5Lq677yJ77yb56ysIDE04oCUNTIg6KGM5piv5bGV6KeI6ZyA5rGC77yb56ysIDUzIOihjOOAjOWtpumDqOOAgeebtOWxnuWtpumZouOAgeWNleS9jeaEj+ingeOAjeOAgeesrCA2MSDooYzjgIznm7jlhbPkuJrliqHpg6jpl6jmhI/op4HjgI3jgIHnrKwgNjkg6KGM44CM5Lyg5aqS5Y2a54mp6aaG5oSP6KeB44CN5piv5LiJ57qn562+572y5qCP77yb56ysIDc2IOihjOOAjOWkh+azqOOAjeS4i+S4ieadoeimgeaxguOAgiIsCiAgIioq54i25a2Q6IqCKirvvJrjgIznrb7nvbLmhI/op4HkuI7lpIfms6jjgI3vvIjnrKwgNTPigJQ4OCDooYzvvInmmK/niLboioLvvIzljIXkvY/jgIzkuInnuqfnrb7nvbLmhI/op4HjgI3vvIjnrKwgNTPigJQ3NSDooYzvvInkuI7jgIzlpIfms6jjgI3vvIjnrKwgNzbigJQ4OCDooYzvvInkuKTkuKrlrZDoioLvvIznnJ/ltYzlpZfjgILniLboioLkuYvmiYDku6Xkv53nlZnvvIzmmK/lm6DkuLogcHQtMWVlNTQwNDVlOCDnmoTlvJXmlofotbfkuo7nrKwgNzUg6KGM44CM5pelICAg5pyf77ya44CN77yI5Lyg5aqS5Y2a54mp6aaG5oSP6KeB55qE562+572y5pel5pyf5qC877yJ5YaN5o6l5LiL56ysIDc2IOihjOOAjOWkh+azqCB8IDHjgIHigKbjgI3vvIzot6jkuobmhI/op4HljLrkuI7lpIfms6jljLrnmoTovrnnlYzvvIzlj6rmnInniLboioLog73okL3kvY3vvJvor6XmnaHlj6rlnKjniLboioLliJfkuIDmrKHjgIIiLAogICLjgIzlsZXop4jpnIDmsYLjgI3kuIDoioLnmoQgbGluZXMg5LuO56ysIDE0IOihjOi1t+iAjOmdnuesrCAxNiDooYzvvJrnrKwgMTTigJQxNSDooYzjgIzlsZXop4jotJ/otKPkurrvvI/vvIjpnIDkuLrlrabmoKHmlZnogYzlt6XvvInjgI3mmK/nrKwgMTLigJQxMyDooYzlkIzkuIDlkIjlubbljZXlhYPmoLznmoTph43lh7rvvIzogIwgcHQtNzYzOWQ4ZjE0NiDnmoTlvJXmlofotbfngrnmraPmmK/jgIzlsZXop4jotJ/otKPkurrvvIjpnIDkuLrlrabmoKHmlZnogYzlt6XvvInlsZXop4jpnIDmsYJ8MS7nlKjnlLXorr7lpIfigKbjgI3vvIzku47nrKwgMTQg6KGM6LW35omN6L+e5b6X5LiK56ysIDE2IOihjOeahOOAjOWxleiniOmcgOaxguOAjeOAgiIsCiAgIuesrCAzIOihjOaYr+epuuihjO+8iOagh+mimOS4juihqOagvOS5i+mXtOeahOepuuaho++8ie+8jOS4jeWcqOS7u+S9leiKguWGheOAgiIsCiAgIjgg5Liq5p2h55uu5YWo5pyJ5byV5paH5LiU5YWo6JC95Zyo5pys5paH6KGo5qC85paH5pys6YeM77yM5peg6Leo5paH5Lu25byV55So44CB5peg5paH5qGj57qnIHJ1bGUtKiDmnaHnm67vvJvljp/mlofmsqHmnInnq6DmnaHnvJblj7fjgIHkuZ/msqHmnInnnJ/mraPnmoTlsI/moIfpopjvvIjooajlhoXliIbljLrmoIfnrb7kuI3mmK/moIfpopjvvInvvIzmlYUgaGVhZGluZyDkuIDlvosgZGVyaXZlZOOAgW5vIOS4gOW+i+OAjOKAlOOAjeOAgiIKIF0KfQo=
+{
+ "key": "att-d3264a92be",
+ "title": "附件1：传媒博物馆临时展厅使用申请表（校内版）",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "附件标题",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    2
+   ],
+   "items": [
+    "pt-97912e566b"
+   ],
+   "chars": 23
+  },
+  {
+   "no": "—",
+   "heading": "基本情况（展览名称、展品、主办单位、申请场馆与拟定时间）",
+   "heading_kind": "derived",
+   "lines": [
+    4,
+    13
+   ],
+   "items": [
+    "pt-d2ba1c1baa"
+   ],
+   "chars": 242
+  },
+  {
+   "no": "—",
+   "heading": "展览需求（用电设备、展览设备、其他需求与馆方服务边界）",
+   "heading_kind": "derived",
+   "lines": [
+    14,
+    52
+   ],
+   "items": [
+    "pt-7639d8f146",
+    "pt-036ea611cd",
+    "pt-ff530787c4"
+   ],
+   "chars": 1524
+  },
+  {
+   "no": "—",
+   "heading": "签署意见与备注",
+   "heading_kind": "derived",
+   "lines": [
+    53,
+    88
+   ],
+   "items": [
+    "pt-1ee54045e8"
+   ],
+   "chars": 796
+  },
+  {
+   "no": "—",
+   "heading": "三级签署意见（学部／相关业务部门／传媒博物馆）",
+   "heading_kind": "derived",
+   "lines": [
+    53,
+    75
+   ],
+   "items": [],
+   "chars": 368
+  },
+  {
+   "no": "—",
+   "heading": "备注（三条办展要求）",
+   "heading_kind": "derived",
+   "lines": [
+    76,
+    88
+   ],
+   "items": [
+    "pt-3c02193917",
+    "pt-75c3fcfbd9"
+   ],
+   "chars": 428
+  }
+ ],
+ "items": [
+  "pt-97912e566b",
+  "pt-d2ba1c1baa",
+  "pt-7639d8f146",
+  "pt-036ea611cd",
+  "pt-ff530787c4",
+  "pt-1ee54045e8",
+  "pt-3c02193917",
+  "pt-75c3fcfbd9"
+ ],
+ "notes": [
+  "本件是一张表格（docx 附件）被抽成文本后的形态：单元格按竖排顺序落行，合并单元格被反复重出，所以同一段字面会连续出现多遍——「展览需求」的四条（用电设备／展览设备／其他需求／馆方服务说明）在第 16—52 行里原样重复了 7 遍，「备注」的三条在第 76—88 行里重复了 6 遍，「负责人签字／日   期」也各自重出 6 次。这是抽取副产物，不是原文有意重复，字面不改。",
+  "按表格分区立节（分区行都是原文里逐字可查的表内标签）：第 1—2 行「附件1：／传媒博物馆临时展厅使用申请表（校内版）」为标题节；第 4—13 行是基本情况（展览名称、展品类型 | 展品数量、主办单位、申请场馆（负一层主题展厅／一层大厅临展区／二层环形临展区）、拟定时间、展览负责人）；第 14—52 行是展览需求；第 53 行「学部、直属学院、单位意见」、第 61 行「相关业务部门意见」、第 69 行「传媒博物馆意见」是三级签署栏；第 76 行「备注」下三条要求。",
+  "**父子节**：「签署意见与备注」（第 53—88 行）是父节，包住「三级签署意见」（第 53—75 行）与「备注」（第 76—88 行）两个子节，真嵌套。父节之所以保留，是因为 pt-1ee54045e8 的引文起于第 75 行「日   期：」（传媒博物馆意见的签署日期格）再接下第 76 行「备注 | 1、…」，跨了意见区与备注区的边界，只有父节能落位；该条只在父节列一次。",
+  "「展览需求」一节的 lines 从第 14 行起而非第 16 行：第 14—15 行「展览负责人／（需为学校教职工）」是第 12—13 行同一合并单元格的重出，而 pt-7639d8f146 的引文起点正是「展览负责人（需为学校教职工）展览需求|1.用电设备…」，从第 14 行起才连得上第 16 行的「展览需求」。",
+  "第 3 行是空行（标题与表格之间的空档），不在任何节内。",
+  "8 个条目全有引文且全落在本文表格文本里，无跨文件引用、无文档级 rule-* 条目；原文没有章条编号、也没有真正的小标题（表内分区标签不是标题），故 heading 一律 derived、no 一律「—」。"
+ ]
+}

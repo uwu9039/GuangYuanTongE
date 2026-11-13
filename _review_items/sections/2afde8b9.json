@@ -1,1 +1,142 @@
-ewogImtleSI6ICIyYWZkZThiOSIsCiAidGl0bGUiOiAi5b+X6IGU6Kej55aR772c6K+35p+l5pS277yB5bCP55m95p2o55qE5LiT5bGe5b+X5oS/5pyN5Yqh562U55aR5omL5YaMIiwKICJ0cnVuY2F0ZWQiOiBmYWxzZSwKICJzZWN0aW9ucyI6IFsKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLpobXpnaLkv6Hmga/vvIjmnaXmupDpk77mjqXjgIHmoIfpopjkuI7lj5HluIPkuLvkvZPvvIkiLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbCiAgICAxLAogICAgOAogICBdLAogICAiaXRlbXMiOiBbCiAgICAicHQtOWZiYmRmMzM3NiIsCiAgICAicnVsZS0yYWZkZThiOSIKICAgXSwKICAgImNoYXJzIjogMjgyCiAgfSwKICB7CiAgICJubyI6ICLkuIDjgIEiLAogICAiaGVhZGluZyI6ICLkuIDjgIHkv6Hmga/ojrflj5YiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsKICAgIDksCiAgICAyNAogICBdLAogICAiaXRlbXMiOiBbCiAgICAicHQtMjYzNjFkN2Y0YyIsCiAgICAicHQtMmMyYTNiN2U3ZCIsCiAgICAicHQtNmYzNGJiYjZlNiIsCiAgICAicHQtNDlkODliYTljNSIKICAgXSwKICAgImNoYXJzIjogNDYyCiAgfSwKICB7CiAgICJubyI6ICLkuozjgIEiLAogICAiaGVhZGluZyI6ICLkuozjgIHmtLvliqjlj4LkuI4iLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbCiAgICAyNSwKICAgIDQ2CiAgIF0sCiAgICJpdGVtcyI6IFsKICAgICJwdC1jMWFjYTRmYmRjIiwKICAgICJwdC04MWE3N2RiOTRjIiwKICAgICJwdC01MDdiNzJlNTkxIiwKICAgICJwdC1hMWE2Y2YxM2ZiIiwKICAgICJwdC0wYmQwMzhiOTQ4IgogICBdLAogICAiY2hhcnMiOiA2OTUKICB9LAogIHsKICAgIm5vIjogIuS4ieOAgSIsCiAgICJoZWFkaW5nIjogIuS4ieOAgea0u+WKqOiusOW9lSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFsKICAgIDQ3LAogICAgNjYKICAgXSwKICAgIml0ZW1zIjogWwogICAgInB0LWI3Y2M4ZmU5NWUiLAogICAgInB0LTRkMjdlOWMxMGMiLAogICAgInB0LTRjM2Q1NzcyNzgiLAogICAgInB0LTQ1NGNhNzRiNzQiLAogICAgInB0LTk2YzUwZDBlZGMiCiAgIF0sCiAgICJjaGFycyI6IDYwOAogIH0sCiAgewogICAibm8iOiAi5Zub44CBIiwKICAgImhlYWRpbmciOiAi5Zub44CB5rS75Yqo5ZCI5L2cIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWwogICAgNjcsCiAgICA3NAogICBdLAogICAiaXRlbXMiOiBbCiAgICAicHQtMzA3MjRmOTk5MyIsCiAgICAicHQtMmI3OTYzNjNhMCIKICAgXSwKICAgImNoYXJzIjogMjQ5CiAgfSwKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLnu5PlsL7lr4Tor60iLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsKICAgIDc1LAogICAgNzkKICAgXSwKICAgIml0ZW1zIjogWwogICAgInB0LTA5MjlmYjVhNDMiCiAgIF0sCiAgICJjaGFycyI6IDIwMwogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi5Yi25L2c5Y+K57uf56255L+h5oGvIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWwogICAgODAsCiAgICA4NgogICBdLAogICAiaXRlbXMiOiBbCiAgICAicHQtODc0MTc4OWNhOCIKICAgXSwKICAgImNoYXJzIjogODUKICB9CiBdLAogIml0ZW1zIjogWwogICJydWxlLTJhZmRlOGI5IiwKICAicHQtOWZiYmRmMzM3NiIsCiAgInB0LTI2MzYxZDdmNGMiLAogICJwdC0yYzJhM2I3ZTdkIiwKICAicHQtNmYzNGJiYjZlNiIsCiAgInB0LTQ5ZDg5YmE5YzUiLAogICJwdC1jMWFjYTRmYmRjIiwKICAicHQtODFhNzdkYjk0YyIsCiAgInB0LTUwN2I3MmU1OTEiLAogICJwdC1hMWE2Y2YxM2ZiIiwKICAicHQtMGJkMDM4Yjk0OCIsCiAgInB0LWI3Y2M4ZmU5NWUiLAogICJwdC00ZDI3ZTljMTBjIiwKICAicHQtNGMzZDU3NzI3OCIsCiAgInB0LTQ1NGNhNzRiNzQiLAogICJwdC05NmM1MGQwZWRjIiwKICAicHQtMzA3MjRmOTk5MyIsCiAgInB0LTJiNzk2MzYzYTAiLAogICJwdC0wOTI5ZmI1YTQzIiwKICAicHQtODc0MTc4OWNhOCIKIF0sCiAibm90ZXMiOiBbCiAgIuacrOS7tuaYr+W+ruS/oeWFrOS8l+WPt+aWh+eroOaKveWPluS7tu+8jOaKveWPluaXtuivjeW6j+iiq+aVtOS9k+aJk+S5se+8muWHoOS5juavj+ihjOmDveaYr+OAjOWtl+WvueS6huOAgemhuuW6j+mUmeS6huOAjeeahOeKtuaAge+8jOS+i+WmguesrCAyIOihjOOAjO+8miDlsI8g55qEIOWKoeagh+mimCDlv5fogZTop6PnlpHvvZzor7fmn6XmlLbvvIEg55m95p2oIOS4k+WxnuW/l+aEv+acjSDnrZTnlpHmiYvlhozjgI3vvIjlupTkuLrjgIzlsI/moIfpopjvvJrlv5fogZTop6PnlpHvvZzor7fmn6XmlLbvvIHlsI/nmb3mnajnmoTkuJPlsZ7lv5fmhL/mnI3liqHnrZTnlpHmiYvlhozjgI3vvInjgIHnrKwgNDcg6KGM44CM44CBIOWKqOiusOS4iSDmtLsg5b2V44CN77yI5bqU5Li644CM5LiJ44CB5rS75Yqo6K6w5b2V44CN77yJ44CC6IqC5ZCN5LiA5b6L5oyJ6K+t5LmJ6L+Y5Y6f77yM5a2X6Z2i5q6L55WZ5LiN5pS577yM5Y6f5paH5byC5bi45Lul5q2k5p2h5Li65YeG44CCIiwKICAi56ug6IqC5qCR5oyJ5Zub5Liq5LiT6aKY77yL5a+E6K+t77yL5Yi25L2c5L+h5oGv5YiH77ya56ysIDkg6KGM44CM5LiA44CB5L+h5oGv6I635Y+W44CN44CB56ysIDI1IOihjOOAjOS6jOOAgea0u+WKqOWPguS4juOAjeOAgeesrCA0NyDooYzjgIzkuInjgIHmtLvliqjorrDlvZXjgI3jgIHnrKwgNjcg6KGM44CM5Zub44CB5rS75Yqo5ZCI5L2c44CN44CB56ysIDc1IOihjOOAjOe7k+WwvuWvhOivreOAjeOAgeesrCA4MCDooYzjgIzliLbkvZzlj4rnu5/nrbnkv6Hmga/jgI3jgILlhbbkuK3lj6rmnInjgIzkuIDjgIHkv6Hmga/ojrflj5bjgI3kuI7jgIznu5PlsL7lr4Tor63jgI3kuKTlpITlnKjljp/mlofph4zpgJDlrZfov57mjpLvvIhhdXRob3LvvInvvJvjgIzkuozjgIEg5Yqo5rS7IOWPguS4juOAjeOAjOOAgSDliqjorrDkuIkg5rS7IOW9leOAjeOAjOOAgSDliqgg5L2c5ZubIOa0uyDlkIjjgI3jgIzliLbkvZzlj4rnu58g5L+h5oGv562544CN5Zub5aSE5oqK5bqP5Y+35LiO6K+N5bqP5pCF5Lmx77yM6L+Y5Y6f5ZCO55qE5qCH6aKY5Zyo5pys6IqC6KGM5Yy66Ze06YeM5om+5LiN5Yiw6YCQ5a2X5a+55bqU77yM5oyJ56Gs5Yik5o2u6K6wIGRlcml2ZWTjgIIiLAogICLlkITkuJPpopjlhoXpg6jnmoTjgIwxLiAyLiAzLiDigKbjgI3pl67nrZTmsqHmnInmi4bmiJDlrZDoioLvvJrkuIDmmK/popjlj7fooYzmnKzouqvkuZ/ooqvmiZPkubHvvIjlpoLnrKwgMzcg6KGM5L2c44CMLjUg5oqlIOWKqOWQju+8jCDml7bmnInkuovml6Dms5XmjInml7blkI3lv5fmhL/mtLsg5Li0IOWPguWKoOivpeaAjuS5iOWKnu+8n+OAjeOAgeesrCA0NCDooYzkvZzjgIwuNyDliqjmnIkg5bel5L2c5b+X5oS/5rS7IOS7gOS5iCDnpo/liKnlkJfvvJ/jgI3vvInvvIzmi4blvIDlj6rkvJrmiormiZPkubHnmoTlrZfpnaLliIfmiJDmm7Tnoo7nmoTniYfmrrXvvJvkuozmmK/lkITmnaHnmoQgbGVhZC1pbiDlvJXmlofluLjmiorlsI/moIfpopjooYzkuLLov5vmnaXvvIzmi4boioLlkI7lj43ogIzokL3kuI3kuoblnLDjgIIiLAogICLlkIToioIgbGluZXNbMF0g5Y+W55qE5piv5bCP5qCH6aKY6KGM6ICM6Z2e5q2j5paH6aaW6KGM77ya5Zug5Li65a+55bqU5p2h55uu55qE5byV5paH6LW354K55bCx6JC95Zyo5bCP5qCH6aKY6KGM5LiK77yI5aaCIHB0LTI2MzYxZDdmNGMg55qE5byV5paH5LuO44CM5LiA44CB5L+h5oGv6I635Y+W44CN5Zub5a2X6LW344CBcHQtMDkyOWZiNWE0MyDnmoTlvJXmlofku47jgIznu5PlsL7lr4Tor63jgI3lm5vlrZfotbfvvInvvIzkuI3lubblhaXlsLHokL3kuI3kuoblnLDjgIIiLAogICLnrKwgMSDooYzmmK/mir3lj5bml7bluKblh7rnmoTlvq7kv6Hljp/mlofnn63pk77vvIhodHRwOi8v4oCm77yJ77yM56ysIDPigJQ3IOihjOaYr+WPkeW4g+S4u+S9k++8iOS4reWbveS8oOWqkuWkp+WtpuW/l+aEv+iAheiBlOWQiOS8muOAgeagoeWbouWnlO+8ieOAgeWPkeW4g+aXtumXtO+8iDIwMjUg5bm0IDExIOaciCA2IOaXpSAxMzo0N++8ieOAgeWPkeW4g+WcsOeCue+8iOWMl+S6rO+8ieOAgeWumOaWuei0puWPt+S4jui0puWPt+eugOS7i++8jOesrCA4IOihjOOAjOaguCDlhoUg77yI5b+DIOWuuSBBIFEmIO+8ieetlOeWkeaJi+WGjOOAjeaYr+OAjOaguOW/g+WGheWuue+8iFEmQSDnrZTnlpHmiYvlhozvvInjgI3moI/nm67moIfnrb7vvIzkuIDlubblubblhaXpppboioLvvIzkuI3ljZXliJfjgIIiLAogICJydWxlLTJhZmRlOGI5IOaYr+aWh+aho+e6p+adoeebruOAgeaXoOW8leaWh++8iOagh+mimOKJiOaWh+aho+WQje+8ie+8jOaMieWPo+W+hOWIl+i/m+aWh+aho+e6pyBpdGVtc++8jOW5tuaUvui/m+mmluiKguOAjOmhtemdouS/oeaBr+OAjeiQveS9jeOAgiIsCiAgIuacq+WwvuesrCA4MOKAlDg2IOihjOOAjOWItuS9nOWPiue7n+etueS/oeaBr+OAjeaYr+e8luWKoee9suWQje+8iOaWh+ahiO+8j+WktOWbvu+8j+aOkueJiO+8j+i0o+e8lu+8j+S4u+e8lu+8j+ebkeWItu+8ie+8jOWNleWIl+S4gOiKguOAgeS4jeW5tuWFpeWvhOivreOAgiIKIF0KfQo=
+{
+ "key": "2afde8b9",
+ "title": "志联解疑｜请查收！小白杨的专属志愿服务答疑手册",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "页面信息（来源链接、标题与发布主体）",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    8
+   ],
+   "items": [
+    "pt-9fbbdf3376",
+    "rule-2afde8b9"
+   ],
+   "chars": 282
+  },
+  {
+   "no": "一、",
+   "heading": "一、信息获取",
+   "heading_kind": "author",
+   "lines": [
+    9,
+    24
+   ],
+   "items": [
+    "pt-26361d7f4c",
+    "pt-2c2a3b7e7d",
+    "pt-6f34bbb6e6",
+    "pt-49d89ba9c5"
+   ],
+   "chars": 462
+  },
+  {
+   "no": "二、",
+   "heading": "二、活动参与",
+   "heading_kind": "derived",
+   "lines": [
+    25,
+    46
+   ],
+   "items": [
+    "pt-c1aca4fbdc",
+    "pt-81a77db94c",
+    "pt-507b72e591",
+    "pt-a1a6cf13fb",
+    "pt-0bd038b948"
+   ],
+   "chars": 695
+  },
+  {
+   "no": "三、",
+   "heading": "三、活动记录",
+   "heading_kind": "derived",
+   "lines": [
+    47,
+    66
+   ],
+   "items": [
+    "pt-b7cc8fe95e",
+    "pt-4d27e9c10c",
+    "pt-4c3d577278",
+    "pt-454ca74b74",
+    "pt-96c50d0edc"
+   ],
+   "chars": 608
+  },
+  {
+   "no": "四、",
+   "heading": "四、活动合作",
+   "heading_kind": "derived",
+   "lines": [
+    67,
+    74
+   ],
+   "items": [
+    "pt-30724f9993",
+    "pt-2b796363a0"
+   ],
+   "chars": 249
+  },
+  {
+   "no": "—",
+   "heading": "结尾寄语",
+   "heading_kind": "author",
+   "lines": [
+    75,
+    79
+   ],
+   "items": [
+    "pt-0929fb5a43"
+   ],
+   "chars": 203
+  },
+  {
+   "no": "—",
+   "heading": "制作及统筹信息",
+   "heading_kind": "derived",
+   "lines": [
+    80,
+    86
+   ],
+   "items": [
+    "pt-8741789ca8"
+   ],
+   "chars": 85
+  }
+ ],
+ "items": [
+  "rule-2afde8b9",
+  "pt-9fbbdf3376",
+  "pt-26361d7f4c",
+  "pt-2c2a3b7e7d",
+  "pt-6f34bbb6e6",
+  "pt-49d89ba9c5",
+  "pt-c1aca4fbdc",
+  "pt-81a77db94c",
+  "pt-507b72e591",
+  "pt-a1a6cf13fb",
+  "pt-0bd038b948",
+  "pt-b7cc8fe95e",
+  "pt-4d27e9c10c",
+  "pt-4c3d577278",
+  "pt-454ca74b74",
+  "pt-96c50d0edc",
+  "pt-30724f9993",
+  "pt-2b796363a0",
+  "pt-0929fb5a43",
+  "pt-8741789ca8"
+ ],
+ "notes": [
+  "本件是微信公众号文章抽取件，抽取时词序被整体打乱：几乎每行都是「字对了、顺序错了」的状态，例如第 2 行「： 小 的 务标题 志联解疑｜请查收！ 白杨 专属志愿服 答疑手册」（应为「小标题：志联解疑｜请查收！小白杨的专属志愿服务答疑手册」）、第 47 行「、 动记三 活 录」（应为「三、活动记录」）。节名一律按语义还原，字面残留不改，原文异常以此条为准。",
+  "章节树按四个专题＋寄语＋制作信息切：第 9 行「一、信息获取」、第 25 行「二、活动参与」、第 47 行「三、活动记录」、第 67 行「四、活动合作」、第 75 行「结尾寄语」、第 80 行「制作及统筹信息」。其中只有「一、信息获取」与「结尾寄语」两处在原文里逐字连排（author）；「二、 动活 参与」「、 动记三 活 录」「、 动 作四 活 合」「制作及统 信息筹」四处把序号与词序搅乱，还原后的标题在本节行区间里找不到逐字对应，按硬判据记 derived。",
+  "各专题内部的「1. 2. 3. …」问答没有拆成子节：一是题号行本身也被打乱（如第 37 行作「.5 报 动后， 时有事无法按时名志愿活 临 参加该怎么办？」、第 44 行作「.7 动有 工作志愿活 什么 福利吗？」），拆开只会把打乱的字面切成更碎的片段；二是各条的 lead-in 引文常把小标题行串进来，拆节后反而落不了地。",
+  "各节 lines[0] 取的是小标题行而非正文首行：因为对应条目的引文起点就落在小标题行上（如 pt-26361d7f4c 的引文从「一、信息获取」四字起、pt-0929fb5a43 的引文从「结尾寄语」四字起），不并入就落不了地。",
+  "第 1 行是抽取时带出的微信原文短链（http://…），第 3—7 行是发布主体（中国传媒大学志愿者联合会、校团委）、发布时间（2025 年 11 月 6 日 13:47）、发布地点（北京）、官方账号与账号简介，第 8 行「核 内 （心 容 A Q& ）答疑手册」是「核心内容（Q&A 答疑手册）」栏目标签，一并并入首节，不单列。",
+  "rule-2afde8b9 是文档级条目、无引文（标题≈文档名），按口径列进文档级 items，并放进首节「页面信息」落位。",
+  "末尾第 80—86 行「制作及统筹信息」是编务署名（文案／头图／排版／责编／主编／监制），单列一节、不并入寄语。"
+ ]
+}

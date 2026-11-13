@@ -1,1 +1,29 @@
-IiIi5rWL5Y2V6K+35rGC5bu26L+f77ya5piv5LiN5piv6KKrIHNxbGl0ZSDnvJPlrZjlhpnmiJblhajlsYDkuLLooYzmi5bmhaLkuobjgIIiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IHRpbWUKCmZyb20gcmV0cmlldmFsLmRlbnNlIGltcG9ydCBlbWJlZF9iYXRjaAoKVCA9IFsi5qCh5Zut5Y2h6KGl5Yqe5rWB56iL5rWL6K+V5paH5pys77yM55So5LqO5rWL6YeP5Y2V6K+35rGC5bu26L+f44CCIl0gKiAxMAoKCmRlZiBvbmUodGFnOiBzdHIpIC0+IE5vbmU6CiAgICB0MCA9IHRpbWUucGVyZl9jb3VudGVyKCkKICAgIGVtYmVkX2JhdGNoKFQsIHRleHRfdHlwZT0iZG9jdW1lbnQiKQogICAgcHJpbnQoZiJ7dGFnfToge3RpbWUucGVyZl9jb3VudGVyKCkgLSB0MDouMmZ9cyIsIGZsdXNoPVRydWUpCgoKZGVmIG1haW4oKSAtPiBOb25lOgogICAgZm9yIGkgaW4gcmFuZ2UoMyk6CiAgICAgICAgb25lKGYic2VyaWFsI3tpfSIpCiAgICBpbXBvcnQgY29uY3VycmVudC5mdXR1cmVzIGFzIGNmCgogICAgdDAgPSB0aW1lLnBlcmZfY291bnRlcigpCiAgICB3aXRoIGNmLlRocmVhZFBvb2xFeGVjdXRvcihtYXhfd29ya2Vycz04KSBhcyBleDoKICAgICAgICBsaXN0KGV4Lm1hcChsYW1iZGEgXzogb25lKCJwYXIjOCIpLCByYW5nZSg4KSkpCiAgICBwcmludChmIjgg5bm25Y+R5oC76ICX5pe2IHt0aW1lLnBlcmZfY291bnRlcigpIC0gdDA6LjJmfXMiLCBmbHVzaD1UcnVlKQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBtYWluKCkK
+"""测单请求延迟：是不是被 sqlite 缓存写或全局串行拖慢了。"""
+from __future__ import annotations
+
+import time
+
+from retrieval.dense import embed_batch
+
+T = ["校园卡补办流程测试文本，用于测量单请求延迟。"] * 10
+
+
+def one(tag: str) -> None:
+    t0 = time.perf_counter()
+    embed_batch(T, text_type="document")
+    print(f"{tag}: {time.perf_counter() - t0:.2f}s", flush=True)
+
+
+def main() -> None:
+    for i in range(3):
+        one(f"serial#{i}")
+    import concurrent.futures as cf
+
+    t0 = time.perf_counter()
+    with cf.ThreadPoolExecutor(max_workers=8) as ex:
+        list(ex.map(lambda _: one("par#8"), range(8)))
+    print(f"8 并发总耗时 {time.perf_counter() - t0:.2f}s", flush=True)
+
+
+if __name__ == "__main__":
+    main()

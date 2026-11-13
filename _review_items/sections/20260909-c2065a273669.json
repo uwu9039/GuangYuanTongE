@@ -1,1 +1,156 @@
-ewogImtleSI6ICIyMDI2MDkwOS1jMjA2NWEyNzM2NjkiLAogInRpdGxlIjogIuaWsOmXu+S4reW/gzIwMjbnp4vlraPmi5vmlrDvvZzpgoDor7fkvaDkuIDlkIzku47igJzlj7DliY3igJ3otbDov5vigJzluZXlkI7igJ0iLAogInRydW5jYXRlZCI6IGZhbHNlLAogInNlY3Rpb25zIjogWwogIHsKICAgIm5vIjogIumhtemdouahhuaetiIsCiAgICJoZWFkaW5nIjogIumhtemdouagh+mimOOAgeermeeCueagj+ebruWvvOiIquS4juagj+ebrumhteWktCIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFsxLCAzNF0sCiAgICJpdGVtcyI6IFsicHQtYWQwMzJmYTcxYyJdLAogICAiY2hhcnMiOiAzMzYKICB9LAogIHsKICAgIm5vIjogIjEuIiwKICAgImhlYWRpbmciOiAi5YWz5LqO5oiR5Lus77ya5paw6Ze75Lit5b+DIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbMzUsIDM5XSwKICAgIml0ZW1zIjogWyJwdC00MTQ4MmM1NjZlIl0sCiAgICJjaGFycyI6IDE4MwogIH0sCiAgewogICAibm8iOiAiMi4iLAogICAiaGVhZGluZyI6ICLkvaDlsIbliqDlhaXvvJrpg6jpl6jku4vnu40iLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs0MCwgNDZdLAogICAiaXRlbXMiOiBbInB0LWI1YWJmNWMwZjMiXSwKICAgImNoYXJzIjogMjY1CiAgfSwKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLph4flhpnnu4QiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs0MSwgNDJdLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogOTAKICB9LAogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIuaLjeaRhOe7hCIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzQzLCA0NF0sCiAgICJpdGVtcyI6IFsicHQtOWE2MzEyMjdiNCJdLAogICAiY2hhcnMiOiA4MQogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi57yW6L6R57uEIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbNDUsIDQ2XSwKICAgIml0ZW1zIjogWyJwdC01Y2MwYjVkY2M3Il0sCiAgICJjaGFycyI6IDgzCiAgfSwKICB7CiAgICJubyI6ICIzLiIsCiAgICJoZWFkaW5nIjogIuWKoOWFpeaIkeS7rOWQju+8jOS9oOWwhuiOt+W+lyIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzQ3LCA1NV0sCiAgICJpdGVtcyI6IFsicHQtZDExZDRkZmUzZCJdLAogICAiY2hhcnMiOiAyMzYKICB9LAogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIuS8mOWFiOaOjOaPoeWtpumZouWKqOaAgSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzQ4LCA0OV0sCiAgICJpdGVtcyI6IFtdLAogICAiY2hhcnMiOiA1NgogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi5LiT5Lia55+l6K+G5oqA6IO96K6t57uDIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbNTAsIDUxXSwKICAgIml0ZW1zIjogWyJwdC1lNDdjMWRiMDU2Il0sCiAgICJjaGFycyI6IDU4CiAgfSwKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLkuLDlr4zoh6rouqvlsLHkuJrlsaXljoYiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs1MiwgNTNdLAogICAiaXRlbXMiOiBbInB0LWQwMjY0NjJlNmMiXSwKICAgImNoYXJzIjogNTgKICB9LAogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIuabtOWkmuaUtuiOt+KApiIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzU0LCA1NV0sCiAgICJpdGVtcyI6IFsicHQtYjQwOTA3YjZjYyJdLAogICAiY2hhcnMiOiA1MgogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi5paw6Ze75Lit5b+D5qyi6L+O6L+Z5qC355qE5L2gIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbNTYsIDYxXSwKICAgIml0ZW1zIjogWyJwdC00YzNkNzBkYmVlIl0sCiAgICJjaGFycyI6IDE2NgogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi5Lyg5pKt5rig6YGT5LiO5L2c5ZOB5bGV56S677ya5a6Y5pa5572R56uZ44CB6KeG6aKR5Y+344CB5a6j5Lyg6KeG6aKR44CB5a6j5Lyg5YaM44CB5Lia5Yqh5Z+56K6tIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzYyLCA3MV0sCiAgICJpdGVtcyI6IFsicHQtNWQxYWU1ZDNhMyIsICJwdC1kMjMwYTM2YTQyIiwgInB0LWQxOWNjZDExNjYiLCAicHQtMjcxM2NkMDZkYSJdLAogICAiY2hhcnMiOiA2NzEKICB9LAogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIuaKpeWQjeaWueW8jyIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzcyLCA3OF0sCiAgICJpdGVtcyI6IFsicHQtZTk5NTM5MGQ1MiIsICJwdC0xMWI2ODk3NDdkIl0sCiAgICJjaGFycyI6IDI3MQogIH0sCiAgewogICAibm8iOiAi6aG16ISaIiwKICAgImhlYWRpbmciOiAi5Y+L5oOF6ZO+5o6l44CB54mI5p2D5aSH5qGI5LiO6K6/6Zeu57uf6K6hIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWzc5LCA5Nl0sCiAgICJpdGVtcyI6IFtdLAogICAiY2hhcnMiOiA0MDUKICB9CiBdLAogIml0ZW1zIjogWwogICJwdC1hZDAzMmZhNzFjIiwKICAicHQtNDE0ODJjNTY2ZSIsCiAgInB0LWI1YWJmNWMwZjMiLAogICJwdC05YTYzMTIyN2I0IiwKICAicHQtNWNjMGI1ZGNjNyIsCiAgInB0LWQxMWQ0ZGZlM2QiLAogICJwdC1lNDdjMWRiMDU2IiwKICAicHQtZDAyNjQ2MmU2YyIsCiAgInB0LWI0MDkwN2I2Y2MiLAogICJwdC00YzNkNzBkYmVlIiwKICAicHQtNWQxYWU1ZDNhMyIsCiAgInB0LWQyMzBhMzZhNDIiLAogICJwdC1kMTljY2QxMTY2IiwKICAicHQtMjcxM2NkMDZkYSIsCiAgInB0LWU5OTUzOTBkNTIiLAogICJwdC0xMWI2ODk3NDdkIgogXSwKICJub3RlcyI6IFsKICAi572R6aG15YWs5ZGK77ya56ysIDHigJMzNCDooYzmmK/pobXpnaLmoYbmnrbvvIzlkKvpobXpnaLmoIfpopjvvIgx77yJ44CB56uZ54K55qCP55uu5a+86Iiq5qCR77yIM+KAkzMw77yM5aS55LiJ5aSEIFvpmYTku7ZdIOaooeadv+Wbvu+8ieOAgeagj+ebruWQjeOAjOmAmuefpeWFrOWRiuOAjeS4jumdouWMheWxke+8iDMx4oCTMzLvvInjgIHmraPmlofpobXlpLTph43lpI3nmoTmoIfpopjvvIgzM++8ieOAgeWPkeW4g+aXtumXtOS4jua1j+iniOasoeaVsO+8iDM077yJ77yM5ZCI5bm25Li644CM6aG16Z2i5qGG5p6244CN5LiA6IqC77yM5a+86Iiq5LiN6YCQ5p2h6K6+6IqC44CCIiwKICAi5oub5paw5q2j5paH55So5LiJ57uE57yW5Y+35bCP5qCH6aKY5YiG5q6177ya44CMMS7lhbPkuo7miJHku6zvvJrmlrDpl7vkuK3lv4PjgI3vvIgzNe+8ieOAgeOAjDIu5L2g5bCG5Yqg5YWl77ya6YOo6Zeo5LuL57uN44CN77yINDDvvInjgIHjgIwzLuWKoOWFpeaIkeS7rOWQju+8jOS9oOWwhuiOt+W+l+OAje+8iDQ377yJ77yb5q+P57uE5LiL6Z2i5Y+I5pyJ54us56uL5oiQ6KGM55qE5a2Q5qCH6aKY4oCU4oCU44CM6YeH5YaZ57uE44CN77yINDHvvInjgIzmi43mkYTnu4TjgI3vvIg0M++8ieOAjOe8lui+kee7hOOAje+8iDQ177yJ77yM5Lul5Y+K5Zub6aG55pS26I6344CM5LyY5YWI5o6M5o+h5a2m6Zmi5Yqo5oCB44CN77yINDjvvInjgIzkuJPkuJrnn6Xor4bmioDog73orq3nu4PjgI3vvIg1MO+8ieOAjOS4sOWvjOiHqui6q+WwseS4muWxpeWOhuOAje+8iDUy77yJ44CM5pu05aSa5pS26I634oCm44CN77yINTTvvInjgILov5nkupvpg73mmK/ljp/mlofni6znq4vnmoTmoIfpopjooYzvvIxoZWFkaW5nIOeFp+WOn+aWh++8iOWOu+aOieW6j+WPt++8ie+8jOaghyBhdXRob3LvvJvlrZDmoIfpopjmsqHmnInluo/lj7fvvIxubyDorrDjgIzigJTjgI3jgIIiLAogICLjgIzph4flhpnnu4TjgI3jgIzmi43mkYTnu4TjgI3jgIznvJbovpHnu4TjgI3ljZXooYzlrZDoioLkuI7lm5vpobnmlLbojrfljZXooYzlrZDoioLpg73mmK/miYDlsZ7jgIwyLuOAjeOAjDMu44CN6IqC55qE5a2Q6IqC77yI55yf5bWM5aWX77yJ77yb44CM6YeH5YaZ57uE44CN5LiO44CM5LyY5YWI5o6M5o+h5a2m6Zmi5Yqo5oCB44CN5Lik6IqC5rKh5pyJ5p2h55uu6JC954K577yM5Zug5Li65a+55bqU55qE5byV5paH6LW354K56JC95Zyo54i26IqC55qE5bCP5qCH6aKY6KGM5LiK44CCIiwKICAi56ysIDYy4oCTNzEg6KGM5piv5LqU57uE5oiQ5p6c5bGV56S65Zu+77ya5L+h5oGv5Lyg5pKt5a2m6Zmi5a6Y5pa5572R56uZ77yINjPvvInjgIHlrpjmlrnop4bpopHlj7fvvIg2Ne+8ieOAgeWuo+S8oOinhumike+8j+i/juaWsOinhumikeWItuS9nO+8iDY477yJ44CB5a6j5Lyg5YaM77yINzDvvInjgIHmlrDpl7vkuK3lv4PkuJrliqHln7norq3mtLvliqjvvIg3Mu+8ie+8jOavj+adoemDveaYryBb6ZmE5Lu2XSDlm77niYfvvIvkuIDooYzlm77ms6jvvIzljp/mlofmsqHmnInlsI/moIfpopjvvIzlkIjkuLrjgIzkvKDmkq3muKDpgZPkuI7kvZzlk4HlsZXnpLrjgI3kuIDoioLvvIhkZXJpdmVk77yJ44CCIiwKICAi44CM5oql5ZCN5pa55byP44CN6IqC6Ieq56ysIDcyIOihjOi1t++8jOiAjOmdnuesrCA3MyDooYznmoTmoIfpopjooYzvvJrnrKwgNzIg6KGM44CM5paw6Ze75Lit5b+D5Lia5Yqh5Z+56K6t5rS75Yqo44CN5pys5piv5LiK5LiA5byg5Zu+55qE5Zu+5rOo77yM5L2GIHB0LWU5OTUzOTBkNTIg55qE5byV5paH5q2j5piv5LuO6L+Z5LiA6KGM6L+e5Yiw44CM5oql5ZCN5pa55byP44CN5q2j5paH77yI44CM5paw6Ze75Lit5b+D5Lia5Yqh5Z+56K6t5rS75Yqo5oql5ZCN5pa55byPMjAyNuW5tOaWsOmXu+S4reW/g+eni+Wto+e6s+aWsOWwhumHh+eUqOKApuOAje+8ie+8jOS4jeW5tuWFpeWwseiQveS4jeS6huWcsCDigJTigJQg5oyJ6IqC6aaW5Yik5o2u55qE5L6L5aSW5L+d55WZ77yM54m55q2k6K+05piO44CCIiwKICAicHQtYjVhYmY1YzBmM++8iOW8leaWh+i1t+eCueWcqOOAjDIu5L2g5bCG5Yqg5YWl77ya6YOo6Zeo5LuL57uN44CN6KGM77yJ5LiOIHB0LWQxMWQ0ZGZlM2TvvIjotbfngrnlnKjjgIwzLuWKoOWFpeaIkeS7rOWQju+8jOS9oOWwhuiOt+W+l+OAjeihjO+8ieWboOW8leaWh+WQq+Wwj+agh+mimOihjOacrOi6q++8jOWIl+WcqOeItuiKguiAjOmdnuWtkOiKguOAgiIsCiAgIuesrCA3NyDooYzjgIzmipXpgJLpgq7nrrHvvJrnoJTnqbbnlJ/mipXpgJLpgq7nrrHkuLrigJzvvIrvvIpA77yK77yK4oCd77yM5pys56eR55Sf5oqV6YCS6YKu566x5Li64oCc77yK77yKQO+8iu+8iuKAneOAjeWOn+aWh+WNs+eUqOivreaJk+eggeabv+aNouecn+mCrueuse+8jOS4jeaYr+aKveWPlumUmeivr+aIluS5seeggeOAgiIsCiAgIuesrCA3OeKAkzk2IOihjOS4uumhteiEmu+8mmxvZ28g6ZmE5Lu244CB5Y+L5oOF6ZO+5o6l44CB5Zyw5Z2A6YKu57yW44CB54mI5p2D5LiO5LqsIElDUCDlpIfmoYjlj7fjgIHmioDmnK/mlK/mjIHjgIHlm57liLDpobbpg6jjgIFb6ZmE5Lu2XSAvX3Zpc2l0Y291bnQg6K6/6Zeu57uf6K6h77yM5Y+m6K6+44CM6aG16ISa44CN5LiA6IqC77yI6K+l6IqC5piv5paH5Lu25pyr6KGM77yJ44CCIiwKICAi5q2j5paH5q2i5LqO5oql5ZCN5oiq5q2i5pe26Ze077yM57uT5bC+5pyJ6aG16ISa5pS25p2f77yM5pyq6KeB5oiq5pat77yMdHJ1bmNhdGVkPWZhbHNl77yb5pys5paH5Lu25pegIGRvYyDnuqcgcnVsZS0qIOadoeebru+8jDE2IOS4qiBwdCDmnaHnm67lhajpg6jlnKjmnKzmloflkb3kuK3okL3ngrnjgIIiCiBdCn0K
+{
+ "key": "20260909-c2065a273669",
+ "title": "新闻中心2026秋季招新｜邀请你一同从“台前”走进“幕后”",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "页面框架",
+   "heading": "页面标题、站点栏目导航与栏目页头",
+   "heading_kind": "derived",
+   "lines": [1, 34],
+   "items": ["pt-ad032fa71c"],
+   "chars": 336
+  },
+  {
+   "no": "1.",
+   "heading": "关于我们：新闻中心",
+   "heading_kind": "author",
+   "lines": [35, 39],
+   "items": ["pt-41482c566e"],
+   "chars": 183
+  },
+  {
+   "no": "2.",
+   "heading": "你将加入：部门介绍",
+   "heading_kind": "author",
+   "lines": [40, 46],
+   "items": ["pt-b5abf5c0f3"],
+   "chars": 265
+  },
+  {
+   "no": "—",
+   "heading": "采写组",
+   "heading_kind": "author",
+   "lines": [41, 42],
+   "items": [],
+   "chars": 90
+  },
+  {
+   "no": "—",
+   "heading": "拍摄组",
+   "heading_kind": "author",
+   "lines": [43, 44],
+   "items": ["pt-9a631227b4"],
+   "chars": 81
+  },
+  {
+   "no": "—",
+   "heading": "编辑组",
+   "heading_kind": "author",
+   "lines": [45, 46],
+   "items": ["pt-5cc0b5dcc7"],
+   "chars": 83
+  },
+  {
+   "no": "3.",
+   "heading": "加入我们后，你将获得",
+   "heading_kind": "author",
+   "lines": [47, 55],
+   "items": ["pt-d11d4dfe3d"],
+   "chars": 236
+  },
+  {
+   "no": "—",
+   "heading": "优先掌握学院动态",
+   "heading_kind": "author",
+   "lines": [48, 49],
+   "items": [],
+   "chars": 56
+  },
+  {
+   "no": "—",
+   "heading": "专业知识技能训练",
+   "heading_kind": "author",
+   "lines": [50, 51],
+   "items": ["pt-e47c1db056"],
+   "chars": 58
+  },
+  {
+   "no": "—",
+   "heading": "丰富自身就业履历",
+   "heading_kind": "author",
+   "lines": [52, 53],
+   "items": ["pt-d026462e6c"],
+   "chars": 58
+  },
+  {
+   "no": "—",
+   "heading": "更多收获…",
+   "heading_kind": "author",
+   "lines": [54, 55],
+   "items": ["pt-b40907b6cc"],
+   "chars": 52
+  },
+  {
+   "no": "—",
+   "heading": "新闻中心欢迎这样的你",
+   "heading_kind": "author",
+   "lines": [56, 61],
+   "items": ["pt-4c3d70dbee"],
+   "chars": 166
+  },
+  {
+   "no": "—",
+   "heading": "传播渠道与作品展示：官方网站、视频号、宣传视频、宣传册、业务培训",
+   "heading_kind": "derived",
+   "lines": [62, 71],
+   "items": ["pt-5d1ae5d3a3", "pt-d230a36a42", "pt-d19ccd1166", "pt-2713cd06da"],
+   "chars": 671
+  },
+  {
+   "no": "—",
+   "heading": "报名方式",
+   "heading_kind": "author",
+   "lines": [72, 78],
+   "items": ["pt-e995390d52", "pt-11b689747d"],
+   "chars": 271
+  },
+  {
+   "no": "页脚",
+   "heading": "友情链接、版权备案与访问统计",
+   "heading_kind": "derived",
+   "lines": [79, 96],
+   "items": [],
+   "chars": 405
+  }
+ ],
+ "items": [
+  "pt-ad032fa71c",
+  "pt-41482c566e",
+  "pt-b5abf5c0f3",
+  "pt-9a631227b4",
+  "pt-5cc0b5dcc7",
+  "pt-d11d4dfe3d",
+  "pt-e47c1db056",
+  "pt-d026462e6c",
+  "pt-b40907b6cc",
+  "pt-4c3d70dbee",
+  "pt-5d1ae5d3a3",
+  "pt-d230a36a42",
+  "pt-d19ccd1166",
+  "pt-2713cd06da",
+  "pt-e995390d52",
+  "pt-11b689747d"
+ ],
+ "notes": [
+  "网页公告：第 1–34 行是页面框架，含页面标题（1）、站点栏目导航树（3–30，夹三处 [附件] 模板图）、栏目名「通知公告」与面包屑（31–32）、正文页头重复的标题（33）、发布时间与浏览次数（34），合并为「页面框架」一节，导航不逐条设节。",
+  "招新正文用三组编号小标题分段：「1.关于我们：新闻中心」（35）、「2.你将加入：部门介绍」（40）、「3.加入我们后，你将获得」（47）；每组下面又有独立成行的子标题——「采写组」（41）「拍摄组」（43）「编辑组」（45），以及四项收获「优先掌握学院动态」（48）「专业知识技能训练」（50）「丰富自身就业履历」（52）「更多收获…」（54）。这些都是原文独立的标题行，heading 照原文（去掉序号），标 author；子标题没有序号，no 记「—」。",
+  "「采写组」「拍摄组」「编辑组」单行子节与四项收获单行子节都是所属「2.」「3.」节的子节（真嵌套）；「采写组」与「优先掌握学院动态」两节没有条目落点，因为对应的引文起点落在父节的小标题行上。",
+  "第 62–71 行是五组成果展示图：信息传播学院官方网站（63）、官方视频号（65）、宣传视频／迎新视频制作（68）、宣传册（70）、新闻中心业务培训活动（72），每条都是 [附件] 图片＋一行图注，原文没有小标题，合为「传播渠道与作品展示」一节（derived）。",
+  "「报名方式」节自第 72 行起，而非第 73 行的标题行：第 72 行「新闻中心业务培训活动」本是上一张图的图注，但 pt-e995390d52 的引文正是从这一行连到「报名方式」正文（「新闻中心业务培训活动报名方式2026年新闻中心秋季纳新将采用…」），不并入就落不了地 —— 按节首判据的例外保留，特此说明。",
+  "pt-b5abf5c0f3（引文起点在「2.你将加入：部门介绍」行）与 pt-d11d4dfe3d（起点在「3.加入我们后，你将获得」行）因引文含小标题行本身，列在父节而非子节。",
+  "第 77 行「投递邮箱：研究生投递邮箱为“＊＊@＊＊”，本科生投递邮箱为“＊＊@＊＊”」原文即用语打码替换真邮箱，不是抽取错误或乱码。",
+  "第 79–96 行为页脚：logo 附件、友情链接、地址邮编、版权与京 ICP 备案号、技术支持、回到顶部、[附件] /_visitcount 访问统计，另设「页脚」一节（该节是文件末行）。",
+  "正文止于报名截止时间，结尾有页脚收束，未见截断，truncated=false；本文件无 doc 级 rule-* 条目，16 个 pt 条目全部在本文命中落点。"
+ ]
+}

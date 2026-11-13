@@ -1,1 +1,110 @@
-ew0KICJrZXkiOiAiZjg3ZWVmNTUiLA0KICJ0aXRsZSI6ICLkuK3kvKDmlL/lrZfjgJQyMDE244CVMTEzIOWPtyDkuK3lm73kvKDlqpLlpKflrabpooTpmLLkuI7lpITnkIblrabmnK/kuI3nq6/ooYzkuLrnu4bliJkiLA0KICJ0cnVuY2F0ZWQiOiBmYWxzZSwNCiAic2VjdGlvbnMiOiBbDQogIHsNCiAgICJubyI6ICLpgJrnn6UiLA0KICAgImhlYWRpbmciOiAi5paH5aS05LiO5Y2w5Y+R6YCa55+lIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMSwNCiAgICAxNg0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAid2QtZjg3ZWVmNTUiDQogICBdLA0KICAgImNoYXJzIjogMjM3DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuIDnq6AiLA0KICAgImhlYWRpbmciOiAi5oC75YiZIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxOCwNCiAgICA3MA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAid2QtZjg3ZWVmNTUiDQogICBdLA0KICAgImNoYXJzIjogMTE5OQ0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LqM56ugIiwNCiAgICJoZWFkaW5nIjogIuWPl+eQhuS4juiwg+afpSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNzEsDQogICAgMTI2DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAxMTc2DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuInnq6AiLA0KICAgImhlYWRpbmciOiAi6K6k5a6aIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMjcsDQogICAgMTU2DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiA1MjkNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWbm+eroCIsDQogICAiaGVhZGluZyI6ICLlpITnkIYiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDE1NywNCiAgICAyMTMNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDExMjINCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS6lOeroCIsDQogICAiaGVhZGluZyI6ICLnlLPor4nkuI7lpI3mn6UiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDIxNCwNCiAgICAyMjQNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDIxNQ0KICB9LA0KICB7DQogICAibm8iOiAi56ys5YWt56ugIiwNCiAgICJoZWFkaW5nIjogIumZhOWImSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMjI1LA0KICAgIDIzMQ0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTA2DQogIH0sDQogIHsNCiAgICJubyI6ICLniYjorrAiLA0KICAgImhlYWRpbmciOiAi5Y2w5Y+R54mI6K6wIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMjM5LA0KICAgIDIzOQ0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMjkNCiAgfQ0KIF0sDQogIml0ZW1zIjogWw0KICAid2QtZjg3ZWVmNTUiDQogXSwNCiAibm90ZXMiOiBbDQogICLmraPmloflha3nq6DvvIjnrKzkuIDnq6DigJPnrKzlha3nq6DvvInnvJblj7fov57nu63vvIzml6Dph43lpI3jgIHml6DnvLrnq6DvvIznrKzkuInljYHkuIPmnaHmraLjgIIiLA0KICAi5ZCE56ug5LiN5YaN6YCQ5p2h5ouG6IqC77ya56ug5YaF5p2h5paH5piv5ZCM5LiA5rWB56iL55qE6L+e57ut5q2l6aqk77yI5Y+X55CG4oaS6LCD5p+l4oaS6K6k5a6a4oaS5aSE55CG4oaS55Sz6K+J77yJ77yM6YCQ5p2h5ouG5byA5q+P6IqC5Y+q5YmpIDPigJM1IOihjO+8jOaVheS7peOAjOeroOOAjeS4uuacgOWwj+iKguOAgiIsDQogICLljp/mloflvILluLjvvIjlhoXpg6jlvJXnlKjoh6rmjIfvvInvvJrnrKzkuozljYHkupTmnaEgMTcw4oCTMTc3IOihjOWGmeOAjOKApuKApuWPr+mAguW6lOesrOS6jOWNgeS6lOadoeesrO+8iOWbm++8ie+8iOS6lO+8ieasvuWkhOeQhuW7uuiuruOAje+8jOiAjOi/meauteivneacrOi6q+WwseWcqOesrOS6jOWNgeS6lOadoeWGhe+8jOW6lOS4uuOAjOacrOadoeOAje+8m+WQjOauteWPiOaKiuesrOS6jOWNgeS4ieadoeeahO+8iOS4gO+8ie+8iOS6jO+8ie+8iOS4ie+8ieensOS9nOOAjOasvuOAje+8iOW6lOS4uuOAjOmhueOAje+8ieOAguaMieWOn+aWh+S/neeVme+8jOacquaUueWtl+OAgiIsDQogICJweXBkZiDliIbpobXmiorlj6XlrZDliIfmlq3lubbnlZnkuIvnqbrooYzvvJrnrKzlm5vmnaEgMzjigJMzOSDooYzvvIjjgIzlsIrph43np5HnoJTop4TjgI3vvI/nqbrooYzvvI/jgIzlvovvvIzkuI3ku6XmlbDph4/ku6Pmm7/otKjph4/jgI3vvInjgIHnrKzljYHkuIDmnaEgODPigJM4NSDooYzjgIHnrKzljYHlha3mnaEgMTA04oCTMTA4IOihjOOAgeesrOS6jOWNgeS6jOadoSAxMjjigJMxMzEg6KGM44CB56ys5LqM5Y2B5Zub5p2hIDE0OeKAkzE1MyDooYzjgIHnrKzkuozljYHkupTmnaEgMTc04oCTMTc3IOihjO+8m+ihjOWwvuepuuagvOS4juepuuihjOS4jeiuoeWFpSBjaGFyc+OAgiIsDQogICLnrKwgMTYg6KGM5Li65Yqe5rOV5qCH6aKY6KGM77yM5LiOIDHigJMxNCDooYznmoTljbDlj5HpgJrnn6XlkIjlubbvvIjnrKwgMTXjgIExNyDooYzkuLrnqbrooYzvvInvvJvnrKwgMjMy4oCTMjM4IOihjOaYr+aWh+acq+epuuihjO+8jOeJiOiusOWcqOesrCAyMzkg6KGM44CCIiwNCiAgIndkLWY4N2VlZjU1IOS4uuaWh+aho+e6p+adoeebru+8jOW8leaWh+i3qCAyIOiKgu+8iOesrCAx4oCTNiDooYzlnKjjgIzmloflpLTkuI7ljbDlj5HpgJrnn6XjgI3vvIznrKwgMTnjgIEyNiDooYzlnKjjgIznrKzkuIDnq6Ag5oC75YiZ44CN77yJ77yM5pWF5Zyo6L+ZIDIg6IqC5ZCE5YiX5LiA5qyh44CCIg0KIF0NCn0NCg==
+{
+ "key": "f87eef55",
+ "title": "中传政字〔2016〕113 号 中国传媒大学预防与处理学术不端行为细则",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "通知",
+   "heading": "文头与印发通知",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    16
+   ],
+   "items": [
+    "wd-f87eef55"
+   ],
+   "chars": 237
+  },
+  {
+   "no": "第一章",
+   "heading": "总则",
+   "heading_kind": "author",
+   "lines": [
+    18,
+    70
+   ],
+   "items": [
+    "wd-f87eef55"
+   ],
+   "chars": 1199
+  },
+  {
+   "no": "第二章",
+   "heading": "受理与调查",
+   "heading_kind": "author",
+   "lines": [
+    71,
+    126
+   ],
+   "items": [],
+   "chars": 1176
+  },
+  {
+   "no": "第三章",
+   "heading": "认定",
+   "heading_kind": "author",
+   "lines": [
+    127,
+    156
+   ],
+   "items": [],
+   "chars": 529
+  },
+  {
+   "no": "第四章",
+   "heading": "处理",
+   "heading_kind": "author",
+   "lines": [
+    157,
+    213
+   ],
+   "items": [],
+   "chars": 1122
+  },
+  {
+   "no": "第五章",
+   "heading": "申诉与复查",
+   "heading_kind": "author",
+   "lines": [
+    214,
+    224
+   ],
+   "items": [],
+   "chars": 215
+  },
+  {
+   "no": "第六章",
+   "heading": "附则",
+   "heading_kind": "author",
+   "lines": [
+    225,
+    231
+   ],
+   "items": [],
+   "chars": 106
+  },
+  {
+   "no": "版记",
+   "heading": "印发版记",
+   "heading_kind": "derived",
+   "lines": [
+    239,
+    239
+   ],
+   "items": [],
+   "chars": 29
+  }
+ ],
+ "items": [
+  "wd-f87eef55"
+ ],
+ "notes": [
+  "正文六章（第一章–第六章）编号连续，无重复、无缺章，第三十七条止。",
+  "各章不再逐条拆节：章内条文是同一流程的连续步骤（受理→调查→认定→处理→申诉），逐条拆开每节只剩 3–5 行，故以「章」为最小节。",
+  "原文异常（内部引用自指）：第二十五条 170–177 行写「……可适应第二十五条第（四）（五）款处理建议」，而这段话本身就在第二十五条内，应为「本条」；同段又把第二十三条的（一）（二）（三）称作「款」（应为「项」）。按原文保留，未改字。",
+  "pypdf 分页把句子切断并留下空行：第四条 38–39 行（「尊重科研规」／空行／「律，不以数量代替质量」）、第十一条 83–85 行、第十六条 104–108 行、第二十二条 128–131 行、第二十四条 149–153 行、第二十五条 174–177 行；行尾空格与空行不计入 chars。",
+  "第 16 行为办法标题行，与 1–14 行的印发通知合并（第 15、17 行为空行）；第 232–238 行是文末空行，版记在第 239 行。",
+  "wd-f87eef55 为文档级条目，引文跨 2 节（第 1–6 行在「文头与印发通知」，第 19、26 行在「第一章 总则」），故在这 2 节各列一次。"
+ ]
+}

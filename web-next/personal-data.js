@@ -1,1 +1,349 @@
-LyogPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiAgIOagoeWbreWKnuS6i+WQkeWvvCAvIHdlYi1uZXh0L3BlcnNvbmFsLWRhdGEuanMKICAg5Liq5Lq65pWw5o2u5p+l6K+i77ya6buY6K6k5YWz6Zet77yM5pi+5byP5o6I5p2D77yM5Y+q6K+75pys5Lq65pWw5o2u44CCCiAgIOmhtemdouacrOi6q+S4jeivt+axguS7u+S9leagoeWbreezu+e7n++8m+mhteWGheaooeW8j+eUseacrOacuua1j+iniOWZqOe7hOS7tuWujOaIkOivu+WPluOAggogICA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0gKi8KKGZ1bmN0aW9uICgpIHsKICAidXNlIHN0cmljdCI7CgogIGNvbnN0IEVYVF9JRCA9ICJnb25uYnBocG5vb2JramdjYW5jYWpqamtnbGRpbG9jbSI7CiAgY29uc3QgRVhUX09SSUdJTiA9ICJjaHJvbWUtZXh0ZW5zaW9uOi8vIiArIEVYVF9JRDsKICBjb25zdCBFWFRfUEFORUwgPSBFWFRfT1JJR0lOICsgIi9wYW5lbC5odG1sIjsKICBjb25zdCBSRUFEWV9USU1FT1VUID0gMjYwMDsKCiAgY29uc3QgQ0FSRF9VUkwgPSAiaHR0cHM6Ly9wY2FyZC5jdWMuZWR1LmNuL3NlcnZpY2VoYWxsL3lrdC9xdWVyeT9jb2RlPTUiOwogIGNvbnN0IENPVVJTRVNfVVJMID0gImh0dHBzOi8vY291cnNlcy5jdWMuZWR1LmNuL3VzZXIvaW5kZXgiOwoKICBjb25zdCBzdGF0ZSA9IHsKICAgIGVuYWJsZWQ6IGZhbHNlLAogICAgbW9kZTogbnVsbCwKICAgIHBhbmVsT3BlbjogZmFsc2UsCiAgICBpZnJhbWU6IG51bGwsCiAgICByZWFkeTogZmFsc2UsCiAgICByZWFkeVRpbWVyOiAwLAogICAgZmxhc2hUaW1lcjogMCwKICAgIGxhc3RNb2RlOiBudWxsLAogIH07CgogIGxldCBiYXIgPSBudWxsOwogIGxldCBwYW5lbCA9IG51bGw7CiAgbGV0IHBhbmVsQm9keSA9IG51bGw7CiAgbGV0IGRpYWxvZyA9IG51bGw7CiAgbGV0IGNvbmZpcm1CdG4gPSBudWxsOwogIGxldCBjYW5jZWxCdG4gPSBudWxsOwogIGxldCBvcGVuQnRuID0gbnVsbDsKCiAgZnVuY3Rpb24gbm9kZShodG1sKSB7CiAgICBjb25zdCB0cGwgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCJ0ZW1wbGF0ZSIpOwogICAgdHBsLmlubmVySFRNTCA9IGh0bWwudHJpbSgpOwogICAgcmV0dXJuIHRwbC5jb250ZW50LmZpcnN0RWxlbWVudENoaWxkOwogIH0KCiAgZnVuY3Rpb24gZmxhc2godGV4dCkgewogICAgaWYgKCFiYXIpIHJldHVybjsKICAgIGNvbnN0IGJveCA9IGJhci5xdWVyeVNlbGVjdG9yKCdbZGF0YS1wZD0iZmxhc2giXScpOwogICAgaWYgKCFib3gpIHJldHVybjsKICAgIGJveC50ZXh0Q29udGVudCA9IHRleHQ7CiAgICBib3guZGF0YXNldC5zaG93ID0gInRydWUiOwogICAgY2xlYXJUaW1lb3V0KHN0YXRlLmZsYXNoVGltZXIpOwogICAgc3RhdGUuZmxhc2hUaW1lciA9IHNldFRpbWVvdXQoKCkgPT4geyBib3guZGF0YXNldC5zaG93ID0gImZhbHNlIjsgfSwgMjQwMCk7CiAgfQoKICBmdW5jdGlvbiBidWlsZEJhcigpIHsKICAgIGNvbnN0IHJhaWwgPSBkb2N1bWVudC5xdWVyeVNlbGVjdG9yKCIucmFpbCIpOwogICAgY29uc3QgdG9wYmFyID0gcmFpbCAmJiByYWlsLnF1ZXJ5U2VsZWN0b3IoIi50b3BiYXIiKTsKICAgIGlmICghcmFpbCB8fCAhdG9wYmFyKSByZXR1cm47CgogICAgYmFyID0gbm9kZShgCiAgICAgIDxkaXYgY2xhc3M9InBkLWJhciIgZGF0YS1vbj0iZmFsc2UiIHJvbGU9InJlZ2lvbiIgYXJpYS1sYWJlbD0i5Liq5Lq65pWw5o2u5p+l6K+iIj4KICAgICAgICA8ZGl2IGNsYXNzPSJwZC1pZCI+CiAgICAgICAgICA8c3BhbiBjbGFzcz0icGQtbGFtcCIgYXJpYS1oaWRkZW49InRydWUiPjwvc3Bhbj4KICAgICAgICAgIDxiIGNsYXNzPSJwZC10aXRsZSI+5Liq5Lq65pWw5o2u5p+l6K+i77yI6buY6K6k5YWz6Zet77yJPC9iPgogICAgICAgICAgPHNwYW4gY2xhc3M9InBkLXN1YiI+5Y+q5p+l5pys5Lq6IMK3IOaVsOaNruS4jeemu+W8gOacrOacujwvc3Bhbj4KICAgICAgICAgIDxzcGFuIGNsYXNzPSJwZC1mbGFzaCIgZGF0YS1wZD0iZmxhc2giIHJvbGU9InN0YXR1cyIgYXJpYS1saXZlPSJwb2xpdGUiPjwvc3Bhbj4KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzPSJwZC1hY3RzIiBkYXRhLXBkPSJhY3RzIj48L2Rpdj4KICAgICAgPC9kaXY+CiAgICBgKTsKICAgIHRvcGJhci5pbnNlcnRBZGphY2VudEVsZW1lbnQoImFmdGVyZW5kIiwgYmFyKTsKCiAgICBwYW5lbCA9IG5vZGUoYAogICAgICA8c2VjdGlvbiBjbGFzcz0icGQtcGFuZWwiIGhpZGRlbiBhcmlhLWxhYmVsPSLkuKrkurrmlbDmja7mn6Xor6LpnaLmnb8iPgogICAgICAgIDxkaXYgY2xhc3M9InBkLXBhbmVsaGVhZCI+CiAgICAgICAgICA8c3BhbiBjbGFzcz0icGQtcGFuZWx0aXRsZSIgZGF0YS1wZD0icGFuZWwtdGl0bGUiPjwvc3Bhbj4KICAgICAgICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBjbGFzcz0icGQtbWluaSIgZGF0YS1wZD0iY29sbGFwc2UiPuaUtui1tzwvYnV0dG9uPgogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXYgY2xhc3M9InBkLXBhbmVsYm9keSIgZGF0YS1wZD0icGFuZWwtYm9keSI+PC9kaXY+CiAgICAgIDwvc2VjdGlvbj4KICAgIGApOwogICAgYmFyLmluc2VydEFkamFjZW50RWxlbWVudCgiYWZ0ZXJlbmQiLCBwYW5lbCk7CiAgICBwYW5lbEJvZHkgPSBwYW5lbC5xdWVyeVNlbGVjdG9yKCdbZGF0YS1wZD0icGFuZWwtYm9keSJdJyk7CgogICAgYmFyLmFkZEV2ZW50TGlzdGVuZXIoImNsaWNrIiwgb25CYXJDbGljayk7CiAgICBwYW5lbC5xdWVyeVNlbGVjdG9yKCdbZGF0YS1wZD0iY29sbGFwc2UiXScpLmFkZEV2ZW50TGlzdGVuZXIoImNsaWNrIiwgKCkgPT4gc2V0UGFuZWwoZmFsc2UpKTsKICB9CgogIGZ1bmN0aW9uIG9uQmFyQ2xpY2soZXZlbnQpIHsKICAgIGNvbnN0IGFjdCA9IGV2ZW50LnRhcmdldC5jbG9zZXN0KCJbZGF0YS1wZF0iKTsKICAgIGlmICghYWN0IHx8ICFiYXIuY29udGFpbnMoYWN0KSkgcmV0dXJuOwogICAgY29uc3QgbmFtZSA9IGFjdC5kYXRhc2V0LnBkOwogICAgaWYgKG5hbWUgPT09ICJvcGVuIikgb3BlbkRpYWxvZygpOwogICAgZWxzZSBpZiAobmFtZSA9PT0gInRvZ2dsZSIpIHNldFBhbmVsKCFzdGF0ZS5wYW5lbE9wZW4pOwogICAgZWxzZSBpZiAobmFtZSA9PT0gImNsZWFyIikgY2xlYXJEYXRhKCk7CiAgICBlbHNlIGlmIChuYW1lID09PSAiY2xvc2UiKSB0dXJuT2ZmKCk7CiAgfQoKICBmdW5jdGlvbiByZW5kZXIoKSB7CiAgICBpZiAoIWJhcikgcmV0dXJuOwogICAgYmFyLmRhdGFzZXQub24gPSBTdHJpbmcoc3RhdGUuZW5hYmxlZCk7CiAgICBiYXIucXVlcnlTZWxlY3RvcigiLnBkLXRpdGxlIikudGV4dENvbnRlbnQgPQogICAgICBzdGF0ZS5lbmFibGVkID8gIuS4quS6uuaVsOaNruafpeivou+8iOW3suW8gOWQr++8iSIgOiAi5Liq5Lq65pWw5o2u5p+l6K+i77yI6buY6K6k5YWz6Zet77yJIjsKICAgIGJhci5xdWVyeVNlbGVjdG9yKCIucGQtc3ViIikudGV4dENvbnRlbnQgPQogICAgICAhc3RhdGUuZW5hYmxlZCA/ICLlj6rmn6XmnKzkurogwrcg5pWw5o2u5LiN56a75byA5pys5py6IgogICAgICA6IHN0YXRlLm1vZGUgPT09ICJvZmZpY2lhbCIgPyAi5a6Y5pa56aG16Z2i5p+l6K+iIMK3IOmhteWGheS4jeaYvuekuuaYjue7hiIKICAgICAgOiAi6aG15YaF5p+l6K+iIMK3IOWFs+mXreWNs+a4heepuiI7CgogICAgY29uc3QgYWN0cyA9IGJhci5xdWVyeVNlbGVjdG9yKCdbZGF0YS1wZD0iYWN0cyJdJyk7CiAgICBhY3RzLmlubmVySFRNTCA9IHN0YXRlLmVuYWJsZWQKICAgICAgPyBgPGJ1dHRvbiB0eXBlPSJidXR0b24iIGNsYXNzPSJwZC1idG4iIGRhdGEtcGQ9InRvZ2dsZSI+JHtzdGF0ZS5wYW5lbE9wZW4gPyAi5pS26LW3IiA6ICLlsZXlvIAifTwvYnV0dG9uPgogICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9InBkLWJ0biIgZGF0YS1wZD0iY2xlYXIiPua4hemZpOacrOasoeaVsOaNrjwvYnV0dG9uPgogICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9InBkLWJ0biBwZC1zdHJvbmciIGRhdGEtcGQ9ImNsb3NlIj7lhbPpl608L2J1dHRvbj5gCiAgICAgIDogYDxidXR0b24gdHlwZT0iYnV0dG9uIiBjbGFzcz0icGQtYnRuIHBkLXN0cm9uZyIgZGF0YS1wZD0ib3BlbiI+5LqG6Kej5bm25byA5ZCvPC9idXR0b24+YDsKICAgIG9wZW5CdG4gPSBiYXIucXVlcnlTZWxlY3RvcignW2RhdGEtcGQ9Im9wZW4iXScpOwogIH0KCiAgZnVuY3Rpb24gYnVpbGREaWFsb2coKSB7CiAgICBkaWFsb2cgPSBub2RlKGAKICAgICAgPGRpYWxvZyBjbGFzcz0icGQtZGlhbG9nIiBhcmlhLWxhYmVsbGVkYnk9InBkLWR0aXRsZSIgYXJpYS1kZXNjcmliZWRieT0icGQtZGRlc2MiPgogICAgICAgIDxkaXYgY2xhc3M9InBkLWRsZyI+CiAgICAgICAgICA8cCBjbGFzcz0icGQta2lja2VyIj7kuKrkurrmlbDmja7mn6Xor6Igwrcg6buY6K6k5YWz6ZetPC9wPgogICAgICAgICAgPGgyIGlkPSJwZC1kdGl0bGUiPuW8gOWQr+WJje+8jOivt+WFiOeci+i/meS6lOadoTwvaDI+CiAgICAgICAgICA8cCBjbGFzcz0icGQtZGVzYyIgaWQ9InBkLWRkZXNjIj7lvIDlkK/lkI7kuI3kvJroh6rliqjmn6Xor6LjgILmr4/mrKHpg73opoHkvaDoh6rlt7HngrnjgIzmn6Xor6LjgI3vvIzlj6ror7vlj5bkvaDmnKzkurrnmoTmlbDmja7jgII8L3A+CgogICAgICAgICAgPHVsIGNsYXNzPSJwZC1mYWN0cyI+CiAgICAgICAgICAgIDxsaT7lj6ror7vlj5bkvaDmnKzkurrmoKHlm63ljaHnmoTkvZnpop3jgIHmnInmlYjmnJ/jgIHov5EgNyDlpKnmtYHmsLTvvIzku6Xlj4rnlYXor77ph4zkvaDoh6rlt7HnmoTor77nqIvjgIHor77ooajjgIHlvoXlip7jgIHlrabmnJ/jgII8L2xpPgogICAgICAgICAgICA8bGk+5pWw5o2u5Y+q5Zyo5b2T5YmN6aG16Z2i55qE5YaF5a2Y6YeM5pi+56S677yM5LiN5LiK5Lyg44CB5LiN5YaZ5pel5b+X44CB5LiN5Y+R57uZ56ys5LiJ5pa544CCPC9saT4KICAgICAgICAgICAgPGxpPuS4jeivu+WPluacjeWKoeWkp+WOhemHjOeahOS4quS6uuS/oeaBr+OAguivpei0puaIt+acquW8gOmAmu+8jOeZu+W9leS8muaPkOekuui0puWPt+S4jeWtmOWcqOOAgjwvbGk+CiAgICAgICAgICAgIDxsaT7kvb/nlKjkvaDoh6rlt7HnmoTnmbvlvZXnirbmgIHjgILlkJHlr7zkuI3kv53lrZjotKblj7fjgIHlr4bnoIHjgIFDb29raWUg5oiW5Lya6K+d5Y+C5pWw44CCPC9saT4KICAgICAgICAgICAgPGxpPumaj+aXtuWPr+S7peWFs+mXreOAguWFs+mXreWQjueri+WNs+WBnOatouafpeivou+8jOW5tua4heepuuW3sue7j+WKoOi9veeahOaVsOaNruOAgjwvbGk+CiAgICAgICAgICA8L3VsPgoKICAgICAgICAgIDxmaWVsZHNldCBjbGFzcz0icGQtbW9kZXMiPgogICAgICAgICAgICA8bGVnZW5kPumAieaLqeS4gOenjeafpeivouaWueW8jzwvbGVnZW5kPgogICAgICAgICAgICA8bGFiZWwgY2xhc3M9InBkLW1vZGUiPgogICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJyYWRpbyIgbmFtZT0icGQtbW9kZSIgdmFsdWU9ImVtYmVkIj4KICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0icGQtbW9kZWJvZHkiPgogICAgICAgICAgICAgICAgPGI+6aG15YaF5p+l6K+iPC9iPgogICAgICAgICAgICAgICAgPHNwYW4+6ZyA6KaB5YWI5Zyo5pys5py65rWP6KeI5Zmo5a6J6KOF5LiA5qyh57uE5Lu244CC57uE5Lu25Zyo5L2g55qE5rWP6KeI5Zmo6YeM6K+75Y+W77yM5YaN5oqK57uT5p6c5bWM5Yiw5pys6aG177yM5ZCR5a+85pyN5Yqh5Zmo5LiN5o6l6Kem5pWw5o2u44CC5o2i6YOo572y5Zyw5Z2A44CB5o2i6K6+5aSH77yM5Y+q6KaB6KOF5LqG5ZCM5LiA57uE5Lu25bCx6IO955So44CCPC9zcGFuPgogICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgPC9sYWJlbD4KICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJwZC1tb2RlIj4KICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0icmFkaW8iIG5hbWU9InBkLW1vZGUiIHZhbHVlPSJvZmZpY2lhbCI+CiAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InBkLW1vZGVib2R5Ij4KICAgICAgICAgICAgICAgIDxiPuWumOaWuemhtemdouafpeivojwvYj4KICAgICAgICAgICAgICAgIDxzcGFuPuS4jeijheS7u+S9leS4nOilv+OAgueCueW8gOWQjuWIsOWumOaWueezu+e7n+mHjOiHquW3seafpe+8jOWQkeWvvOmhteWGheS4jeaYvuekuuaYjue7huOAguaJi+acuuOAgeWFrOWFseeUteiEke+8jOaIluS4jeiDveijhee7hOS7tuaXtueUqOi/meS4quOAgjwvc3Bhbj4KICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgIDwvbGFiZWw+CiAgICAgICAgICA8L2ZpZWxkc2V0PgoKICAgICAgICAgIDxwIGNsYXNzPSJwZC1yaXNrIj7pobXlhoXmn6Xor6LkvJrlnKjmnKzmnLror7vlj5bkvaDmnKzkurrnmoTmoKHlm63ljaHlkozor77nqIvmlbDmja7jgILor7flnKjnp4Hkurrorr7lpIfkuIrkvb/nlKjvvIznlKjlrozngrnjgIzlhbPpl63jgI3jgII8L3A+CgogICAgICAgICAgPGRpdiBjbGFzcz0icGQtZGxnYnRucyI+CiAgICAgICAgICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBjbGFzcz0icGQtYnRuIHBkLWNhbmNlbCIgZGF0YS1wZD0iZGlhbG9nLWNhbmNlbCI+5Y+W5raIPC9idXR0b24+CiAgICAgICAgICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBjbGFzcz0icGQtYnRuIHBkLXN0cm9uZyIgZGF0YS1wZD0iZGlhbG9nLW9rIiBkaXNhYmxlZD7miJHlt7Lkuobop6PvvIzlvIDlkK88L2J1dHRvbj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgICA8L2RpYWxvZz4KICAgIGApOwogICAgZG9jdW1lbnQuYm9keS5hcHBlbmQoZGlhbG9nKTsKICAgIGNvbmZpcm1CdG4gPSBkaWFsb2cucXVlcnlTZWxlY3RvcignW2RhdGEtcGQ9ImRpYWxvZy1vayJdJyk7CiAgICBjYW5jZWxCdG4gPSBkaWFsb2cucXVlcnlTZWxlY3RvcignW2RhdGEtcGQ9ImRpYWxvZy1jYW5jZWwiXScpOwoKICAgIGRpYWxvZy5xdWVyeVNlbGVjdG9yQWxsKCdpbnB1dFtuYW1lPSJwZC1tb2RlIl0nKS5mb3JFYWNoKChpbnB1dCkgPT4gewogICAgICBpbnB1dC5hZGRFdmVudExpc3RlbmVyKCJjaGFuZ2UiLCAoKSA9PiB7IGNvbmZpcm1CdG4uZGlzYWJsZWQgPSBmYWxzZTsgfSk7CiAgICB9KTsKICAgIGNhbmNlbEJ0bi5hZGRFdmVudExpc3RlbmVyKCJjbGljayIsIGNsb3NlRGlhbG9nKTsKICAgIGNvbmZpcm1CdG4uYWRkRXZlbnRMaXN0ZW5lcigiY2xpY2siLCBjb25maXJtRGlhbG9nKTsKICAgIGRpYWxvZy5hZGRFdmVudExpc3RlbmVyKCJjYW5jZWwiLCAoZXZlbnQpID0+IHsKICAgICAgZXZlbnQucHJldmVudERlZmF1bHQoKTsKICAgICAgY2xvc2VEaWFsb2coKTsKICAgIH0pOwogICAgZGlhbG9nLmFkZEV2ZW50TGlzdGVuZXIoImtleWRvd24iLCAoZXZlbnQpID0+IHsKICAgICAgaWYgKGV2ZW50LmtleSAhPT0gIkVzY2FwZSIpIHJldHVybjsKICAgICAgZXZlbnQucHJldmVudERlZmF1bHQoKTsKICAgICAgY2xvc2VEaWFsb2coKTsKICAgIH0pOwogICAgZGlhbG9nLmFkZEV2ZW50TGlzdGVuZXIoImNsaWNrIiwgKGV2ZW50KSA9PiB7CiAgICAgIGlmIChldmVudC50YXJnZXQgPT09IGRpYWxvZykgY2xvc2VEaWFsb2coKTsKICAgIH0pOwogIH0KCiAgZnVuY3Rpb24gb3BlbkRpYWxvZygpIHsKICAgIGlmIChzdGF0ZS5lbmFibGVkKSByZXR1cm47CiAgICBpZiAoIWRpYWxvZykgYnVpbGREaWFsb2coKTsKICAgIGRpYWxvZy5xdWVyeVNlbGVjdG9yQWxsKCdpbnB1dFtuYW1lPSJwZC1tb2RlIl0nKS5mb3JFYWNoKChpbnB1dCkgPT4gewogICAgICBpbnB1dC5jaGVja2VkID0gc3RhdGUubGFzdE1vZGUgPyBpbnB1dC52YWx1ZSA9PT0gc3RhdGUubGFzdE1vZGUgOiBmYWxzZTsKICAgIH0pOwogICAgY29uZmlybUJ0bi5kaXNhYmxlZCA9ICFzdGF0ZS5sYXN0TW9kZTsKICAgIGRpYWxvZy5zaG93TW9kYWwoKTsKICAgIGNhbmNlbEJ0bi5mb2N1cyh7IHByZXZlbnRTY3JvbGw6IHRydWUgfSk7CiAgICBkaWFsb2cuc2Nyb2xsVG9wID0gMDsKICB9CgogIGZ1bmN0aW9uIGNsb3NlRGlhbG9nKCkgewogICAgaWYgKCFkaWFsb2cgfHwgIWRpYWxvZy5vcGVuKSByZXR1cm47CiAgICBkaWFsb2cuY2xvc2UoKTsKICAgIGlmIChvcGVuQnRuKSBvcGVuQnRuLmZvY3VzKCk7CiAgfQoKICBmdW5jdGlvbiBjb25maXJtRGlhbG9nKCkgewogICAgY29uc3QgcGlja2VkID0gZGlhbG9nLnF1ZXJ5U2VsZWN0b3IoJ2lucHV0W25hbWU9InBkLW1vZGUiXTpjaGVja2VkJyk7CiAgICBpZiAoIXBpY2tlZCkgcmV0dXJuOwogICAgc3RhdGUuZW5hYmxlZCA9IHRydWU7CiAgICBzdGF0ZS5tb2RlID0gcGlja2VkLnZhbHVlOwogICAgc3RhdGUubGFzdE1vZGUgPSBwaWNrZWQudmFsdWU7CiAgICBkaWFsb2cuY2xvc2UoKTsKCiAgICBzZXRQYW5lbCh0cnVlKTsKICAgIGlmIChzdGF0ZS5tb2RlID09PSAiZW1iZWQiKSBtb3VudEZyYW1lKCk7CiAgICBlbHNlIHJlbmRlck9mZmljaWFsKCk7CiAgICByZW5kZXIoKTsKICAgIGZsYXNoKCLlt7LlvIDlkK/vvIzmn6Xor6LopoHkvaDoh6rlt7HngrkiKTsKICAgIGNvbnN0IGZpcnN0ID0gcGFuZWwucXVlcnlTZWxlY3RvcigiLnBkLW1pbmkiKTsKICAgIGlmIChmaXJzdCkgZmlyc3QuZm9jdXMoKTsKICB9CgogIGZ1bmN0aW9uIHNldFBhbmVsKG9wZW4pIHsKICAgIGlmICghc3RhdGUuZW5hYmxlZCkgb3BlbiA9IGZhbHNlOwogICAgc3RhdGUucGFuZWxPcGVuID0gb3BlbjsKICAgIGlmIChwYW5lbCkgcGFuZWwuaGlkZGVuID0gIW9wZW47CiAgICBpZiAocGFuZWwpIHsKICAgICAgY29uc3QgdGl0bGUgPSBwYW5lbC5xdWVyeVNlbGVjdG9yKCdbZGF0YS1wZD0icGFuZWwtdGl0bGUiXScpOwogICAgICBpZiAodGl0bGUpIHsKICAgICAgICB0aXRsZS50ZXh0Q29udGVudCA9IHN0YXRlLm1vZGUgPT09ICJvZmZpY2lhbCIKICAgICAgICAgID8gIuagoeWbreWNoeS4jueVheivviDCtyDlrpjmlrnlhaXlj6MiCiAgICAgICAgICA6ICLmoKHlm63ljaHkuI7nlYXor74gwrcg5pys5py657uE5Lu26K+75Y+WIjsKICAgICAgfQogICAgfQogICAgaWYgKGJhcikgewogICAgICBiYXIucXVlcnlTZWxlY3RvckFsbCgnW2RhdGEtcGQ9InRvZ2dsZSJdJykuZm9yRWFjaCgoYnRuKSA9PiB7CiAgICAgICAgYnRuLnRleHRDb250ZW50ID0gb3BlbiA/ICLmlLbotbciIDogIuWxleW8gCI7CiAgICAgIH0pOwogICAgfQogIH0KCiAgZnVuY3Rpb24gcmVtb3ZlRnJhbWUoKSB7CiAgICBjbGVhclRpbWVvdXQoc3RhdGUucmVhZHlUaW1lcik7CiAgICBpZiAoc3RhdGUuaWZyYW1lKSB7CiAgICAgIHN0YXRlLmlmcmFtZS5yZW1vdmUoKTsKICAgICAgc3RhdGUuaWZyYW1lID0gbnVsbDsKICAgIH0KICAgIHN0YXRlLnJlYWR5ID0gZmFsc2U7CiAgfQoKICBmdW5jdGlvbiBtb3VudEZyYW1lKCkgewogICAgaWYgKCFwYW5lbEJvZHkpIHJldHVybjsKICAgIHBhbmVsQm9keS5pbm5lckhUTUwgPSAiIjsKICAgIHJlbW92ZUZyYW1lKCk7CiAgICBzdGF0ZS5yZWFkeSA9IGZhbHNlOwoKICAgIGNvbnN0IHdhaXQgPSBub2RlKGA8cCBjbGFzcz0icGQtd2FpdCI+5q2j5Zyo6L+e5o6l5pys5py657uE5Lu24oCmPC9wPmApOwogICAgY29uc3QgZnJhbWUgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCJpZnJhbWUiKTsKICAgIGZyYW1lLmNsYXNzTmFtZSA9ICJwZC1mcmFtZSI7CiAgICBmcmFtZS50aXRsZSA9ICLkuKrkurrmlbDmja7mn6Xor6LpnaLmnb8iOwogICAgZnJhbWUuc3JjID0gRVhUX1BBTkVMOwogICAgZnJhbWUuc2V0QXR0cmlidXRlKCJyZWZlcnJlcnBvbGljeSIsICJuby1yZWZlcnJlciIpOwogICAgc3RhdGUuaWZyYW1lID0gZnJhbWU7CgogICAgcGFuZWxCb2R5LmFwcGVuZCh3YWl0LCBmcmFtZSk7CiAgICBzdGF0ZS5yZWFkeVRpbWVyID0gc2V0VGltZW91dCgoKSA9PiB7CiAgICAgIGlmICghc3RhdGUucmVhZHkpIHNob3dJbnN0YWxsKCk7CiAgICB9LCBSRUFEWV9USU1FT1VUKTsKICB9CgogIGZ1bmN0aW9uIG9mZmljaWFsTGlua3NIdG1sKGNvbXBhY3QpIHsKICAgIHJldHVybiBgCiAgICAgIDxkaXYgY2xhc3M9InBkLWxpbmtzJHtjb21wYWN0ID8gIiBwZC1saW5rcy1taW5pIiA6ICIifSI+CiAgICAgICAgPGEgaHJlZj0iJHtDQVJEX1VSTH0iIHRhcmdldD0iX2JsYW5rIiByZWw9Im5vcmVmZXJyZXIiPgogICAgICAgICAgPGI+5qCh5Zut5Y2hPC9iPjxzcGFuPuS9memineOAgeacieaViOacn+OAgea1geawtDwvc3Bhbj48aT7miZPlvIDlrpjmlrnpobXpnaIg4oaXPC9pPgogICAgICAgIDwvYT4KICAgICAgICA8YSBocmVmPSIke0NPVVJTRVNfVVJMfSIgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9yZWZlcnJlciI+CiAgICAgICAgICA8Yj7nlYXor748L2I+PHNwYW4+6K++56iL44CB5b6F5Yqe44CB5a2m5pyf44CB6K++6KGoPC9zcGFuPjxpPuaJk+W8gOWumOaWuemhtemdoiDihpc8L2k+CiAgICAgICAgPC9hPgogICAgICA8L2Rpdj5gOwogIH0KCiAgZnVuY3Rpb24gc2hvd0luc3RhbGwoKSB7CiAgICBpZiAoIXBhbmVsQm9keSkgcmV0dXJuOwogICAgcmVtb3ZlRnJhbWUoKTsKICAgIHBhbmVsQm9keS5pbm5lckhUTUwgPSBgCiAgICAgIDxkaXYgY2xhc3M9InBkLWluc3RhbGwiPgogICAgICAgIDxwPjxiPuayoeacieajgOa1i+WIsOacrOacuue7hOS7tuOAgjwvYj7pobXlhoXmn6Xor6LpnIDopoHlnKjkvaDoh6rlt7HnmoTmtY/op4jlmajph4zoo4XkuIDmrKHnu4Tku7bvvIzlkJHlr7zmnI3liqHlmajkuI3lj4LkuI7or7vlj5bjgII8L3A+CiAgICAgICAgPG9sPgogICAgICAgICAgPGxpPjxhIGhyZWY9ImNhbXB1cy1ndWlkZS1wZXJzb25hbC1kYXRhLnppcCIgZG93bmxvYWQ+5LiL6L2957uE5Lu25YyFPC9hPu+8jOino+WOi+WQjuW+l+WIsOS4gOS4qiBleHRlbnNpb24g5paH5Lu25aS544CC5Lmf5Y+v5Lul55u05o6l55So6aG555uu5rqQ56CB6YeM55qEIGV4dGVuc2lvbiDmlofku7blpLnjgII8L2xpPgogICAgICAgICAgPGxpPuaJk+W8gCBFZGdlIOaJqeWxlemhtSA8Y29kZT5lZGdlOi8vZXh0ZW5zaW9uczwvY29kZT7vvIhDaHJvbWUg55SoIDxjb2RlPmNocm9tZTovL2V4dGVuc2lvbnM8L2NvZGU+77yJ77yM5omT5byA44CM5byA5Y+R5Lq65ZGY5qih5byP44CN44CCPC9saT4KICAgICAgICAgIDxsaT7ngrnjgIzliqDovb3op6PljovnvKnnmoTmianlsZXjgI3vvIzpgInmi6nop6Pljovlh7rmnaXnmoQgZXh0ZW5zaW9uIOaWh+S7tuWkueOAgjwvbGk+CiAgICAgICAgICA8bGk+5Zue5Yiw5pys6aG15Yi35paw77yM6YeN5paw5byA5ZCv5Liq5Lq65pWw5o2u5p+l6K+i77yM5bCx6IO96aG15YaF5p+l6K+i44CCPC9saT4KICAgICAgICA8L29sPgogICAgICAgIDxwIGNsYXNzPSJwZC1pbnN0YWxsZm9vdCI+5o2i6K6+5aSH5oiW5o2i6YOo572y5Zyw5Z2A77yM6KOF5ZCM5LiA5Liq57uE5Lu25YyF5Y2z5Y+v77yM5ZCR5a+85Zyw5Z2A5LiN5Zu65a6a44CC5bey57uP6KOF6L+H6L+Y5piv6L+e5LiN5LiK77yM5YWI56Gu6K6k57uE5Lu25aSE5LqO5ZCv55So54q25oCB77yM5oiW5pS555So5a6Y5pa56aG16Z2i5p+l6K+i44CCPC9wPgogICAgICAgICR7b2ZmaWNpYWxMaW5rc0h0bWwodHJ1ZSl9CiAgICAgIDwvZGl2PmA7CiAgfQoKICBmdW5jdGlvbiByZW5kZXJPZmZpY2lhbCgpIHsKICAgIGlmICghcGFuZWxCb2R5KSByZXR1cm47CiAgICByZW1vdmVGcmFtZSgpOwogICAgcGFuZWxCb2R5LmlubmVySFRNTCA9IGAKICAgICAgPGRpdiBjbGFzcz0icGQtb2ZmaWNpYWwiPgogICAgICAgIDxwIGNsYXNzPSJwZC1vZmZpY2lhbG5vdGUiPuWQkeWvvOmhteWGheS4jeivu+WPluOAgeS4jeaYvuekuuaYjue7huOAgueCueS4i+mdouS7u+S4gOWFpeWPo++8jOeUqOS9oOiHquW3seeahOi0puWPt+WcqOWumOaWueezu+e7n+mHjOafpeOAgjwvcD4KICAgICAgICAke29mZmljaWFsTGlua3NIdG1sKGZhbHNlKX0KICAgICAgICA8cCBjbGFzcz0icGQtb2ZmaWNpYWxub3RlIj7ov5nkuKTkuKrlhaXlj6Plj6rmmK/ot7PovazjgILmjaLorr7lpIfjgIHmjaLpg6jnvbLlnLDlnYDpg73og73nlKjjgII8L3A+CiAgICAgIDwvZGl2PmA7CiAgfQoKICBmdW5jdGlvbiBjbGVhckRhdGEoKSB7CiAgICBpZiAoIXN0YXRlLmVuYWJsZWQpIHJldHVybjsKICAgIGlmIChzdGF0ZS5pZnJhbWUgJiYgc3RhdGUucmVhZHkpIHsKICAgICAgdHJ5IHsKICAgICAgICBzdGF0ZS5pZnJhbWUuY29udGVudFdpbmRvdy5wb3N0TWVzc2FnZSh7IHR5cGU6ICJwZC1jbGVhciIgfSwgRVhUX09SSUdJTik7CiAgICAgIH0gY2F0Y2ggKGUpIHsgLyog57uE5Lu25bey5Y246L295pe25rKh5pyJ5Y+v5riF55qE5pWw5o2uICovIH0KICAgIH0KICAgIGZsYXNoKCLmnKzmrKHmlbDmja7lt7LmuIXpmaQiKTsKICB9CgogIGZ1bmN0aW9uIHJlc2V0QWxsKCkgewogICAgcmVtb3ZlRnJhbWUoKTsKICAgIGlmIChwYW5lbEJvZHkpIHBhbmVsQm9keS5pbm5lckhUTUwgPSAiIjsKICAgIGlmIChwYW5lbCkgcGFuZWwuaGlkZGVuID0gdHJ1ZTsKICAgIHN0YXRlLmVuYWJsZWQgPSBmYWxzZTsKICAgIHN0YXRlLm1vZGUgPSBudWxsOwogICAgc3RhdGUucGFuZWxPcGVuID0gZmFsc2U7CiAgICByZW5kZXIoKTsKICB9CgogIGZ1bmN0aW9uIHR1cm5PZmYoKSB7CiAgICByZXNldEFsbCgpOwogICAgZmxhc2goIuW3suWFs+mXre+8jOacrOasoeaVsOaNruW3sua4heaOiSIpOwogICAgaWYgKG9wZW5CdG4pIG9wZW5CdG4uZm9jdXMoKTsKICB9CgogIHdpbmRvdy5hZGRFdmVudExpc3RlbmVyKCJtZXNzYWdlIiwgKGV2ZW50KSA9PiB7CiAgICBpZiAoIXN0YXRlLmlmcmFtZSB8fCBldmVudC5zb3VyY2UgIT09IHN0YXRlLmlmcmFtZS5jb250ZW50V2luZG93KSByZXR1cm47CiAgICBjb25zdCBkYXRhID0gZXZlbnQuZGF0YTsKICAgIGlmICghZGF0YSB8fCBkYXRhLnR5cGUgIT09ICJwZC1lbWJlZC1yZWFkeSIpIHJldHVybjsKICAgIHN0YXRlLnJlYWR5ID0gdHJ1ZTsKICAgIGNsZWFyVGltZW91dChzdGF0ZS5yZWFkeVRpbWVyKTsKICAgIGNvbnN0IHdhaXQgPSBwYW5lbEJvZHkgJiYgcGFuZWxCb2R5LnF1ZXJ5U2VsZWN0b3IoIi5wZC13YWl0Iik7CiAgICBpZiAod2FpdCkgd2FpdC5yZW1vdmUoKTsKICB9KTsKCiAgd2luZG93LmFkZEV2ZW50TGlzdGVuZXIoInBhZ2VoaWRlIiwgcmVzZXRBbGwpOwoKICBmdW5jdGlvbiBib290KCkgewogICAgYnVpbGRCYXIoKTsKICAgIHJlbmRlcigpOwogIH0KCiAgaWYgKGRvY3VtZW50LnJlYWR5U3RhdGUgPT09ICJsb2FkaW5nIikgZG9jdW1lbnQuYWRkRXZlbnRMaXN0ZW5lcigiRE9NQ29udGVudExvYWRlZCIsIGJvb3QpOwogIGVsc2UgYm9vdCgpOwp9KSgpOwo=
+/* ============================================================
+   校园办事向导 / web-next/personal-data.js
+   个人数据查询：默认关闭，显式授权，只读本人数据。
+   页面本身不请求任何校园系统；页内模式由本机浏览器组件完成读取。
+   ============================================================ */
+(function () {
+  "use strict";
+
+  const EXT_ID = "gonnbphpnoobkjgcancajjjkgldilocm";
+  const EXT_ORIGIN = "chrome-extension://" + EXT_ID;
+  const EXT_PANEL = EXT_ORIGIN + "/panel.html";
+  const READY_TIMEOUT = 2600;
+
+  const CARD_URL = "https://pcard.cuc.edu.cn/servicehall/ykt/query?code=5";
+  const COURSES_URL = "https://courses.cuc.edu.cn/user/index";
+
+  const state = {
+    enabled: false,
+    mode: null,
+    panelOpen: false,
+    iframe: null,
+    ready: false,
+    readyTimer: 0,
+    flashTimer: 0,
+    lastMode: null,
+  };
+
+  let bar = null;
+  let panel = null;
+  let panelBody = null;
+  let dialog = null;
+  let confirmBtn = null;
+  let cancelBtn = null;
+  let openBtn = null;
+
+  function node(html) {
+    const tpl = document.createElement("template");
+    tpl.innerHTML = html.trim();
+    return tpl.content.firstElementChild;
+  }
+
+  function flash(text) {
+    if (!bar) return;
+    const box = bar.querySelector('[data-pd="flash"]');
+    if (!box) return;
+    box.textContent = text;
+    box.dataset.show = "true";
+    clearTimeout(state.flashTimer);
+    state.flashTimer = setTimeout(() => { box.dataset.show = "false"; }, 2400);
+  }
+
+  function buildBar() {
+    const rail = document.querySelector(".rail");
+    const topbar = rail && rail.querySelector(".topbar");
+    if (!rail || !topbar) return;
+
+    bar = node(`
+      <div class="pd-bar" data-on="false" role="region" aria-label="个人数据查询">
+        <div class="pd-id">
+          <span class="pd-lamp" aria-hidden="true"></span>
+          <b class="pd-title">个人数据查询（默认关闭）</b>
+          <span class="pd-sub">只查本人 · 数据不离开本机</span>
+          <span class="pd-flash" data-pd="flash" role="status" aria-live="polite"></span>
+        </div>
+        <div class="pd-acts" data-pd="acts"></div>
+      </div>
+    `);
+    topbar.insertAdjacentElement("afterend", bar);
+
+    panel = node(`
+      <section class="pd-panel" hidden aria-label="个人数据查询面板">
+        <div class="pd-panelhead">
+          <span class="pd-paneltitle" data-pd="panel-title"></span>
+          <button type="button" class="pd-mini" data-pd="collapse">收起</button>
+        </div>
+        <div class="pd-panelbody" data-pd="panel-body"></div>
+      </section>
+    `);
+    bar.insertAdjacentElement("afterend", panel);
+    panelBody = panel.querySelector('[data-pd="panel-body"]');
+
+    bar.addEventListener("click", onBarClick);
+    panel.querySelector('[data-pd="collapse"]').addEventListener("click", () => setPanel(false));
+  }
+
+  function onBarClick(event) {
+    const act = event.target.closest("[data-pd]");
+    if (!act || !bar.contains(act)) return;
+    const name = act.dataset.pd;
+    if (name === "open") openDialog();
+    else if (name === "toggle") setPanel(!state.panelOpen);
+    else if (name === "clear") clearData();
+    else if (name === "close") turnOff();
+  }
+
+  function render() {
+    if (!bar) return;
+    bar.dataset.on = String(state.enabled);
+    bar.querySelector(".pd-title").textContent =
+      state.enabled ? "个人数据查询（已开启）" : "个人数据查询（默认关闭）";
+    bar.querySelector(".pd-sub").textContent =
+      !state.enabled ? "只查本人 · 数据不离开本机"
+      : state.mode === "official" ? "官方页面查询 · 页内不显示明细"
+      : "页内查询 · 关闭即清空";
+
+    const acts = bar.querySelector('[data-pd="acts"]');
+    acts.innerHTML = state.enabled
+      ? `<button type="button" class="pd-btn" data-pd="toggle">${state.panelOpen ? "收起" : "展开"}</button>
+         <button type="button" class="pd-btn" data-pd="clear">清除本次数据</button>
+         <button type="button" class="pd-btn pd-strong" data-pd="close">关闭</button>`
+      : `<button type="button" class="pd-btn pd-strong" data-pd="open">了解并开启</button>`;
+    openBtn = bar.querySelector('[data-pd="open"]');
+  }
+
+  function buildDialog() {
+    dialog = node(`
+      <dialog class="pd-dialog" aria-labelledby="pd-dtitle" aria-describedby="pd-ddesc">
+        <div class="pd-dlg">
+          <p class="pd-kicker">个人数据查询 · 默认关闭</p>
+          <h2 id="pd-dtitle">开启前，请先看这五条</h2>
+          <p class="pd-desc" id="pd-ddesc">开启后不会自动查询。每次都要你自己点「查询」，只读取你本人的数据。</p>
+
+          <ul class="pd-facts">
+            <li>只读取你本人校园卡的余额、有效期、近 7 天流水，以及畅课里你自己的课程、课表、待办、学期。</li>
+            <li>数据只在当前页面的内存里显示，不上传、不写日志、不发给第三方。</li>
+            <li>不读取服务大厅里的个人信息。该账户未开通，登录会提示账号不存在。</li>
+            <li>使用你自己的登录状态。向导不保存账号、密码、Cookie 或会话参数。</li>
+            <li>随时可以关闭。关闭后立即停止查询，并清空已经加载的数据。</li>
+          </ul>
+
+          <fieldset class="pd-modes">
+            <legend>选择一种查询方式</legend>
+            <label class="pd-mode">
+              <input type="radio" name="pd-mode" value="embed">
+              <span class="pd-modebody">
+                <b>页内查询</b>
+                <span>需要先在本机浏览器安装一次组件。组件在你的浏览器里读取，再把结果嵌到本页，向导服务器不接触数据。换部署地址、换设备，只要装了同一组件就能用。</span>
+              </span>
+            </label>
+            <label class="pd-mode">
+              <input type="radio" name="pd-mode" value="official">
+              <span class="pd-modebody">
+                <b>官方页面查询</b>
+                <span>不装任何东西。点开后到官方系统里自己查，向导页内不显示明细。手机、公共电脑，或不能装组件时用这个。</span>
+              </span>
+            </label>
+          </fieldset>
+
+          <p class="pd-risk">页内查询会在本机读取你本人的校园卡和课程数据。请在私人设备上使用，用完点「关闭」。</p>
+
+          <div class="pd-dlgbtns">
+            <button type="button" class="pd-btn pd-cancel" data-pd="dialog-cancel">取消</button>
+            <button type="button" class="pd-btn pd-strong" data-pd="dialog-ok" disabled>我已了解，开启</button>
+          </div>
+        </div>
+      </dialog>
+    `);
+    document.body.append(dialog);
+    confirmBtn = dialog.querySelector('[data-pd="dialog-ok"]');
+    cancelBtn = dialog.querySelector('[data-pd="dialog-cancel"]');
+
+    dialog.querySelectorAll('input[name="pd-mode"]').forEach((input) => {
+      input.addEventListener("change", () => { confirmBtn.disabled = false; });
+    });
+    cancelBtn.addEventListener("click", closeDialog);
+    confirmBtn.addEventListener("click", confirmDialog);
+    dialog.addEventListener("cancel", (event) => {
+      event.preventDefault();
+      closeDialog();
+    });
+    dialog.addEventListener("keydown", (event) => {
+      if (event.key !== "Escape") return;
+      event.preventDefault();
+      closeDialog();
+    });
+    dialog.addEventListener("click", (event) => {
+      if (event.target === dialog) closeDialog();
+    });
+  }
+
+  function openDialog() {
+    if (state.enabled) return;
+    if (!dialog) buildDialog();
+    dialog.querySelectorAll('input[name="pd-mode"]').forEach((input) => {
+      input.checked = state.lastMode ? input.value === state.lastMode : false;
+    });
+    confirmBtn.disabled = !state.lastMode;
+    dialog.showModal();
+    cancelBtn.focus({ preventScroll: true });
+    dialog.scrollTop = 0;
+  }
+
+  function closeDialog() {
+    if (!dialog || !dialog.open) return;
+    dialog.close();
+    if (openBtn) openBtn.focus();
+  }
+
+  function confirmDialog() {
+    const picked = dialog.querySelector('input[name="pd-mode"]:checked');
+    if (!picked) return;
+    state.enabled = true;
+    state.mode = picked.value;
+    state.lastMode = picked.value;
+    dialog.close();
+
+    setPanel(true);
+    if (state.mode === "embed") mountFrame();
+    else renderOfficial();
+    render();
+    flash("已开启，查询要你自己点");
+    const first = panel.querySelector(".pd-mini");
+    if (first) first.focus();
+  }
+
+  function setPanel(open) {
+    if (!state.enabled) open = false;
+    state.panelOpen = open;
+    if (panel) panel.hidden = !open;
+    if (panel) {
+      const title = panel.querySelector('[data-pd="panel-title"]');
+      if (title) {
+        title.textContent = state.mode === "official"
+          ? "校园卡与畅课 · 官方入口"
+          : "校园卡与畅课 · 本机组件读取";
+      }
+    }
+    if (bar) {
+      bar.querySelectorAll('[data-pd="toggle"]').forEach((btn) => {
+        btn.textContent = open ? "收起" : "展开";
+      });
+    }
+  }
+
+  function removeFrame() {
+    clearTimeout(state.readyTimer);
+    if (state.iframe) {
+      state.iframe.remove();
+      state.iframe = null;
+    }
+    state.ready = false;
+  }
+
+  function mountFrame() {
+    if (!panelBody) return;
+    panelBody.innerHTML = "";
+    removeFrame();
+    state.ready = false;
+
+    const wait = node(`<p class="pd-wait">正在连接本机组件…</p>`);
+    const frame = document.createElement("iframe");
+    frame.className = "pd-frame";
+    frame.title = "个人数据查询面板";
+    frame.src = EXT_PANEL;
+    frame.setAttribute("referrerpolicy", "no-referrer");
+    state.iframe = frame;
+
+    panelBody.append(wait, frame);
+    state.readyTimer = setTimeout(() => {
+      if (!state.ready) showInstall();
+    }, READY_TIMEOUT);
+  }
+
+  function officialLinksHtml(compact) {
+    return `
+      <div class="pd-links${compact ? " pd-links-mini" : ""}">
+        <a href="${CARD_URL}" target="_blank" rel="noreferrer">
+          <b>校园卡</b><span>余额、有效期、流水</span><i>打开官方页面 ↗</i>
+        </a>
+        <a href="${COURSES_URL}" target="_blank" rel="noreferrer">
+          <b>畅课</b><span>课程、待办、学期、课表</span><i>打开官方页面 ↗</i>
+        </a>
+      </div>`;
+  }
+
+  function showInstall() {
+    if (!panelBody) return;
+    removeFrame();
+    panelBody.innerHTML = `
+      <div class="pd-install">
+        <p><b>没有检测到本机组件。</b>页内查询需要在你自己的浏览器里装一次组件，向导服务器不参与读取。</p>
+        <ol>
+          <li><a href="campus-guide-personal-data.zip" download>下载组件包</a>，解压后得到一个 extension 文件夹。也可以直接用项目源码里的 extension 文件夹。</li>
+          <li>打开 Edge 扩展页 <code>edge://extensions</code>（Chrome 用 <code>chrome://extensions</code>），打开「开发人员模式」。</li>
+          <li>点「加载解压缩的扩展」，选择解压出来的 extension 文件夹。</li>
+          <li>回到本页刷新，重新开启个人数据查询，就能页内查询。</li>
+        </ol>
+        <p class="pd-installfoot">换设备或换部署地址，装同一个组件包即可，向导地址不固定。已经装过还是连不上，先确认组件处于启用状态，或改用官方页面查询。</p>
+        ${officialLinksHtml(true)}
+      </div>`;
+  }
+
+  function renderOfficial() {
+    if (!panelBody) return;
+    removeFrame();
+    panelBody.innerHTML = `
+      <div class="pd-official">
+        <p class="pd-officialnote">向导页内不读取、不显示明细。点下面任一入口，用你自己的账号在官方系统里查。</p>
+        ${officialLinksHtml(false)}
+        <p class="pd-officialnote">这两个入口只是跳转。换设备、换部署地址都能用。</p>
+      </div>`;
+  }
+
+  function clearData() {
+    if (!state.enabled) return;
+    if (state.iframe && state.ready) {
+      try {
+        state.iframe.contentWindow.postMessage({ type: "pd-clear" }, EXT_ORIGIN);
+      } catch (e) { /* 组件已卸载时没有可清的数据 */ }
+    }
+    flash("本次数据已清除");
+  }
+
+  function resetAll() {
+    removeFrame();
+    if (panelBody) panelBody.innerHTML = "";
+    if (panel) panel.hidden = true;
+    state.enabled = false;
+    state.mode = null;
+    state.panelOpen = false;
+    render();
+  }
+
+  function turnOff() {
+    resetAll();
+    flash("已关闭，本次数据已清掉");
+    if (openBtn) openBtn.focus();
+  }
+
+  window.addEventListener("message", (event) => {
+    if (!state.iframe || event.source !== state.iframe.contentWindow) return;
+    const data = event.data;
+    if (!data || data.type !== "pd-embed-ready") return;
+    state.ready = true;
+    clearTimeout(state.readyTimer);
+    const wait = panelBody && panelBody.querySelector(".pd-wait");
+    if (wait) wait.remove();
+  });
+
+  window.addEventListener("pagehide", resetAll);
+
+  function boot() {
+    buildBar();
+    render();
+  }
+
+  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", boot);
+  else boot();
+})();

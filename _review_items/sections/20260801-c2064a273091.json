@@ -1,1 +1,152 @@
-ew0KICJrZXkiOiAiMjAyNjA4MDEtYzIwNjRhMjczMDkxIiwNCiAidGl0bGUiOiAi4oCc5aSn5Zyw55qE5Zue5ZON4oCd5aSn5Zyw5Lyg5aqS5Z2K56S+5Lya6LCD56CU5LqU5ZGo5bm05oiQ5p6c5bGV6aG65Yip5Li+5YqeIiwNCiAidHJ1bmNhdGVkIjogZmFsc2UsDQogInNlY3Rpb25zIjogWw0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIumhtemdouahhuaetuS4juWvvOiIqiIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDEsDQogICAgMzINCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDI3Nw0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIumhtemdouagh+mimOS4juWPkeW4g+S/oeaBryIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDMzLA0KICAgIDM0DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC03YTQ2NmY4ZTE1Ig0KICAgXSwNCiAgICJjaGFycyI6IDQ4DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5bGV6KeI5qaC5Ya15LiO5LqU5Liq5Li76aKY5Y2V5YWDIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMzUsDQogICAgMzcNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTc0M2VkNjNjNDYiLA0KICAgICJwdC0zMjRiYTY4N2U5IiwNCiAgICAicHQtZDI4NmU5MGNmNiINCiAgIF0sDQogICAiY2hhcnMiOiA0ODgNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLpooblr7zlj4Lop4LkuI7pobnnm67nroDku4siLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzOCwNCiAgICA0MQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZTNkMDUzNTZjMSIsDQogICAgInB0LWE0MzhkMGI5NDciLA0KICAgICJwdC04ZGE4NzY1ZDgwIg0KICAgXSwNCiAgICJjaGFycyI6IDU0Mg0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuWxleiniOmFjeWbvu+8iOmZhOS7tuWbvueJh+mTvuaOpe+8iSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDQyLA0KICAgIDQ5DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiA4MjQNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLigJzlpKflnLDnmoTlm57lk43igJ3lsZXop4jlm77pm4YiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDUwLA0KICAgIDUwDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC04ZDg0NTczZWJkIg0KICAgXSwNCiAgICJjaGFycyI6IDExDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi562W5bGV5Zui6Zif5a+E6K+tIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1MSwNCiAgICA2NQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMDIzNDQzYmFkNSIsDQogICAgInB0LWJkYjlmYmVhZmUiLA0KICAgICJwdC00ZGUwZWJiY2JhIiwNCiAgICAicHQtOGI0OGE3M2ZkZSIsDQogICAgInB0LTk4YmI1NTAxYTAiLA0KICAgICJwdC04OTJmYzNjNjhmIiwNCiAgICAicHQtZTE2ZTcyYzdiMSINCiAgIF0sDQogICAiY2hhcnMiOiA3NDINCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLnu5PlsL7lsZXmnJsiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA2NiwNCiAgICA2Ng0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTAyDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi6aG16Z2i6aG16ISa5LiO5Y+L5oOF6ZO+5o6lIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNjcsDQogICAgODQNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDM5Mw0KICB9DQogXSwNCiAiaXRlbXMiOiBbDQogICJwdC03YTQ2NmY4ZTE1IiwNCiAgInB0LTc0M2VkNjNjNDYiLA0KICAicHQtMzI0YmE2ODdlOSIsDQogICJwdC1kMjg2ZTkwY2Y2IiwNCiAgInB0LWUzZDA1MzU2YzEiLA0KICAicHQtYTQzOGQwYjk0NyIsDQogICJwdC04ZGE4NzY1ZDgwIiwNCiAgInB0LThkODQ1NzNlYmQiLA0KICAicHQtMDIzNDQzYmFkNSIsDQogICJwdC1iZGI5ZmJlYWZlIiwNCiAgInB0LTRkZTBlYmJjYmEiLA0KICAicHQtOGI0OGE3M2ZkZSIsDQogICJwdC05OGJiNTUwMWEwIiwNCiAgInB0LTg5MmZjM2M2OGYiLA0KICAicHQtZTE2ZTcyYzdiMSINCiBdLA0KICJub3RlcyI6IFsNCiAgIuesrCAx4oCTMzIg6KGM5piv5L+h5oGv5Lyg5pKt5a2m6Zmi572R56uZ55qE6aG15aS044CBbG9nb+OAgeS4iee6p+WvvOiIquS4juagj+ebrumdouWMheWxkeOAjOmmlumhtSDlrabpmaLmlrDpl7vjgI3vvIznrKwgMSDooYzmoIfpopjkuI7nrKwgMzMg6KGM6aG16Z2i5qCH6aKY6YeN5aSN77yM56ysIDEg6KGM5oyJ5Y+j5b6E5b2S44CM6aG16Z2i5qGG5p625LiO5a+86Iiq44CN77yb5qCH6aKY5p2h55uuIHB0LTdhNDY2ZjhlMTUg55qE5byV5paH5LiO5qCH6aKY6YCQ5a2X55u45ZCM77yM5YiX5Zyo44CM6aG16Z2i5qCH6aKY5LiO5Y+R5biD5L+h5oGv44CN5LiA6IqC44CCIiwNCiAgIuesrCAzNeOAgTM344CBMzjjgIE0MSDooYzmmK/lm5vmrrXmraPmlofvvIjlsZXop4jkuL7lip7mpoLlhrXvvI/kupTkuKrkuLvpopjljZXlhYPkuI7lsZXpmYjlvaLlvI/vvI/pooblr7zlj4Lop4LkuI7ogq/lrprvvI/pobnnm67nroDku4vkuI7kupTlubTmiJDmnpzvvInvvIznrKwgMzbjgIEzOeOAgTQy4oCTNDkg6KGM5piv6YWN5Zu+6ZmE5Lu26ZO+5o6l44CCIiwNCiAgIuesrCA0MCDooYzmmK/nrKwgMzkg6KGM5Zu+54mH55qE5Zu+5rOo44CM5buW56Wl5b+g5Lmm6K6w5Y+C6KeC4oCc5aSn5Zyw55qE5Zue5ZON4oCd5aSn5Zyw5Lyg5aqS5Z2K56S+5Lya6LCD56CU5LqU5ZGo5bm05oiQ5p6c5bGV44CN77yb5p2h55uuIHB0LWE0MzhkMGI5NDcg55qE5byV5paH5LuO6K+l5Zu+5rOo6KGM6LW344CB55u05o6l6L+e5Yiw56ysIDQxIOihjOeahOmhueebrueugOS7i+aute+8iOS4iua4uOaKveWPluaKiuWbvuazqOS4juS4i+aWh+eymOWcqOS4gOi1t++8ie+8jOW8leaWh+WJjSAyNiDlrZfot6jnrKwgNDDigJM0MSDooYzvvIzkuI3lubblhaXlsLHokL3kuI3kuoblnLDvvIzmlYXmiornrKwgMzjigJM0MSDooYzlkIjkuLrjgIzpooblr7zlj4Lop4LkuI7pobnnm67nroDku4vjgI3kuIDoioLvvIzlubblnKjmnKwgbm90ZXMg6K+05piO77yI5Zu+5rOo5LiN5piv6IqC6aaW6KGM77yM5L2N5LqO6IqC5Lit77yJ44CCIiwNCiAgIuesrCA1MCDooYzjgIzigJzlpKflnLDnmoTlm57lk43igJ3lsZXop4jlm77pm4bjgI3mmK/nrKwgNDLigJM0OSDooYzphY3lm77nmoTlm77ms6jjgIHkuZ/mmK/ni6znq4vlsI/moIfpopjvvIzljZXliJfkuIDoioLvvIhhdXRob3LvvInvvIzmnaEgcHQtOGQ4NDU3M2ViZCDnmoTlvJXmlofljbPor6XooYzjgIIiLA0KICAi56ysIDUxIOihjOOAjOetluWxleWboumYn+WvhOivreOAjeaYr+WOn+aWh+Wwj+agh+mimO+8iGF1dGhvcu+8ie+8jOesrCA1MuKAkzY1IOihjOaYr+S4g+S9jeetluWxleS6uuOAjOWnk+WQje+8muWvhOivreOAjemAkOadoeaOkuWIl++8jOavj+adoeeahOW8leaWh+mDveS7juOAjOWnk+WQje+8muOAjei1t+OAgeWIsOivpeauteacq+WPpeatou+8jOWFqOmDqOiQveWcqCA1MeKAkzY1IOihjOWMuumXtOWGhe+8jOaVheaVtOiKguacquWGjeaLhuWtkOiKguOAgiIsDQogICLnrKwgNjYg6KGM5piv5pS25bC+5bGV5pyb5q6177yI44CM56uZ5Zyo5LqU5ZGo5bm055qE5paw6LW354K55LiK4oCm44CN77yJ77yM5LiO5YmN6Z2i5ZCE5Lq65a+E6K+t5LiN6L+e5bGe77yM5Y2V5YiX5LiA6IqC77yb56ysIDY34oCTODQg6KGM5piv6aG16ISa44CB5Y+L5oOF6ZO+5o6l44CB5Zyw5Z2A5LiO5aSH5qGI5Y+377yM5Y2V5YiX5LiA6IqC44CB5LiN5oyC5p2h55uu44CCIiwNCiAgIuacrOS7tuaXoCBydWxlLSDliY3nvIDnmoTmlofmoaPnuqfmnaHnm67vvJvmlofmoaPnuqcgaXRlbXMg5Y2z5pys5paH5Lu25YWo6YOoIDE1IOadoSBwdCDmnaHnm67vvIzlnYflt7LokL3ov5vkuIrov7DlkIToioLjgIIiDQogXQ0KfQ==
+{
+ "key": "20260801-c2064a273091",
+ "title": "“大地的回响”大地传媒坊社会调研五周年成果展顺利举办",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "页面框架与导航",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    32
+   ],
+   "items": [],
+   "chars": 277
+  },
+  {
+   "no": "—",
+   "heading": "页面标题与发布信息",
+   "heading_kind": "derived",
+   "lines": [
+    33,
+    34
+   ],
+   "items": [
+    "pt-7a466f8e15"
+   ],
+   "chars": 48
+  },
+  {
+   "no": "—",
+   "heading": "展览概况与五个主题单元",
+   "heading_kind": "derived",
+   "lines": [
+    35,
+    37
+   ],
+   "items": [
+    "pt-743ed63c46",
+    "pt-324ba687e9",
+    "pt-d286e90cf6"
+   ],
+   "chars": 488
+  },
+  {
+   "no": "—",
+   "heading": "领导参观与项目简介",
+   "heading_kind": "derived",
+   "lines": [
+    38,
+    41
+   ],
+   "items": [
+    "pt-e3d05356c1",
+    "pt-a438d0b947",
+    "pt-8da8765d80"
+   ],
+   "chars": 542
+  },
+  {
+   "no": "—",
+   "heading": "展览配图（附件图片链接）",
+   "heading_kind": "derived",
+   "lines": [
+    42,
+    49
+   ],
+   "items": [],
+   "chars": 824
+  },
+  {
+   "no": "—",
+   "heading": "“大地的回响”展览图集",
+   "heading_kind": "author",
+   "lines": [
+    50,
+    50
+   ],
+   "items": [
+    "pt-8d84573ebd"
+   ],
+   "chars": 11
+  },
+  {
+   "no": "—",
+   "heading": "策展团队寄语",
+   "heading_kind": "author",
+   "lines": [
+    51,
+    65
+   ],
+   "items": [
+    "pt-023443bad5",
+    "pt-bdb9fbeafe",
+    "pt-4de0ebbcba",
+    "pt-8b48a73fde",
+    "pt-98bb5501a0",
+    "pt-892fc3c68f",
+    "pt-e16e72c7b1"
+   ],
+   "chars": 742
+  },
+  {
+   "no": "—",
+   "heading": "结尾展望",
+   "heading_kind": "derived",
+   "lines": [
+    66,
+    66
+   ],
+   "items": [],
+   "chars": 102
+  },
+  {
+   "no": "—",
+   "heading": "页面页脚与友情链接",
+   "heading_kind": "derived",
+   "lines": [
+    67,
+    84
+   ],
+   "items": [],
+   "chars": 393
+  }
+ ],
+ "items": [
+  "pt-7a466f8e15",
+  "pt-743ed63c46",
+  "pt-324ba687e9",
+  "pt-d286e90cf6",
+  "pt-e3d05356c1",
+  "pt-a438d0b947",
+  "pt-8da8765d80",
+  "pt-8d84573ebd",
+  "pt-023443bad5",
+  "pt-bdb9fbeafe",
+  "pt-4de0ebbcba",
+  "pt-8b48a73fde",
+  "pt-98bb5501a0",
+  "pt-892fc3c68f",
+  "pt-e16e72c7b1"
+ ],
+ "notes": [
+  "第 1–32 行是信息传播学院网站的页头、logo、三级导航与栏目面包屑「首页 学院新闻」，第 1 行标题与第 33 行页面标题重复，第 1 行按口径归「页面框架与导航」；标题条目 pt-7a466f8e15 的引文与标题逐字相同，列在「页面标题与发布信息」一节。",
+  "第 35、37、38、41 行是四段正文（展览举办概况／五个主题单元与展陈形式／领导参观与肯定／项目简介与五年成果），第 36、39、42–49 行是配图附件链接。",
+  "第 40 行是第 39 行图片的图注「廖祥忠书记参观“大地的回响”大地传媒坊社会调研五周年成果展」；条目 pt-a438d0b947 的引文从该图注行起、直接连到第 41 行的项目简介段（上游抽取把图注与下文粘在一起），引文前 26 字跨第 40–41 行，不并入就落不了地，故把第 38–41 行合为「领导参观与项目简介」一节，并在本 notes 说明（图注不是节首行，位于节中）。",
+  "第 50 行「“大地的回响”展览图集」是第 42–49 行配图的图注、也是独立小标题，单列一节（author），条 pt-8d84573ebd 的引文即该行。",
+  "第 51 行「策展团队寄语」是原文小标题（author），第 52–65 行是七位策展人「姓名：寄语」逐条排列，每条的引文都从「姓名：」起、到该段末句止，全部落在 51–65 行区间内，故整节未再拆子节。",
+  "第 66 行是收尾展望段（「站在五周年的新起点上…」），与前面各人寄语不连属，单列一节；第 67–84 行是页脚、友情链接、地址与备案号，单列一节、不挂条目。",
+  "本件无 rule- 前缀的文档级条目；文档级 items 即本文件全部 15 条 pt 条目，均已落进上述各节。"
+ ]
+}

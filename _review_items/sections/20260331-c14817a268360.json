@@ -1,1 +1,278 @@
-ew0KICJrZXkiOiAiMjAyNjAzMzEtYzE0ODE3YTI2ODM2MCIsDQogInRpdGxlIjogIuenjeWtkOivvuWgguamguiniCIsDQogInRydW5jYXRlZCI6IGZhbHNlLA0KICJzZWN0aW9ucyI6IFsNCiAgew0KICAgIm5vIjogIumhtemdouahhuaetiIsDQogICAiaGVhZGluZyI6ICLnq5nngrnoj5zljZXkuI7moI/nm67lr7zoiKoiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxLA0KICAgIDUzDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAyNzQNCiAgfSwNCiAgew0KICAgIm5vIjogIuagj+ebruS4juWPkeW4g+S/oeaBryIsDQogICAiaGVhZGluZyI6ICLpnaLljIXlsZHjgIHmoI/nm67lkI3kuI7lj5HluIPogIXkv6Hmga8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1NCwNCiAgICA1Nw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNWUzODMyZWZjOSINCiAgIF0sDQogICAiY2hhcnMiOiAxMTANCiAgfSwNCiAgew0KICAgIm5vIjogIuWvvOivrSIsDQogICAiaGVhZGluZyI6ICLor77loILmlZnlrabmlLnpnannmoTog4zmma/kuI7ns7vliJflj5HluIPlronmjpIiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1OCwNCiAgICA2MA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZDYxOTEzZDZkMSINCiAgIF0sDQogICAiY2hhcnMiOiA1MTYNCiAgfSwNCiAgew0KICAgIm5vIjogIuezu+WIl+ebruW9lSIsDQogICAiaGVhZGluZyI6ICLljYHlm5vmnJ/or77loILmlZnlrabliJvmlrDlrp7ot7Xnm67lvZUiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA2MSwNCiAgICAxMTMNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWVjNTQ5ZjA0NmMiDQogICBdLA0KICAgImNoYXJzIjogMjg2Ng0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LiA5pyfIiwNCiAgICJoZWFkaW5nIjogIuKAnOivvuWgguaVmeWtpuaUuemdqei/m+ihjOaXtuKAneesrOS4gOacn++8muS4uuWtpueUn+mTuuWwsUFJ5pe25Luj55qE54us54m55oiQ6ZW/5LmL6LevIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA3MiwNCiAgICA3Mg0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtODdkNDExMzY4YSINCiAgIF0sDQogICAiY2hhcnMiOiAzMQ0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LqM5pyfIiwNCiAgICJoZWFkaW5nIjogIuKAnOivvuWgguaVmeWtpuaUuemdqei/m+ihjOaXtuKAneesrOS6jOacn++8mjY15bm05Lyg57uf6K++56iL55qEQUnmlrDnlJ8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDc0LA0KICAgIDc1DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC04Nzk0M2VhZjI2Ig0KICAgXSwNCiAgICJjaGFycyI6IDM5DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuInmnJ8iLA0KICAgImhlYWRpbmciOiAi4oCc6K++5aCC5pWZ5a2m5pS56Z2p6L+b6KGM5pe24oCd56ys5LiJ5pyf77yaQUnlr7zluIjnmoQ156eN6KeS6ImyIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA3NywNCiAgICA3OA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNGU2MTcwOTA3YSINCiAgIF0sDQogICAiY2hhcnMiOiA0Mg0KICB9LA0KICB7DQogICAibm8iOiAi56ys5Zub5pyfIiwNCiAgICJoZWFkaW5nIjogIuKAnOivvuWgguaVmeWtpuaUuemdqei/m+ihjOaXtuKAneesrOWbm+acn++8muW9k0FJ5oiQ5Li65b2x6KeG57yW5Ymn55qE5Y2P5ZCM6ICFIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA4MCwNCiAgICA4MQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNDZkYjNjNGEyZCINCiAgIF0sDQogICAiY2hhcnMiOiAzNA0KICB9LA0KICB7DQogICAibm8iOiAi56ys5LqU5pyfIiwNCiAgICJoZWFkaW5nIjogIuKAnOivvuWgguaVmeWtpuaUuemdqei/m+ihjOaXtuKAneesrOS6lOacn++8muaWueazleexu+ivvueoi+eahOKAnOWtpuW+kuW3peWdiuKAnSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgODMsDQogICAgODQNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWU1YjI5ZmJmZjgiDQogICBdLA0KICAgImNoYXJzIjogMzUNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWFreacnyIsDQogICAiaGVhZGluZyI6ICLigJzor77loILmlZnlrabmlLnpnanov5vooYzml7bigJ3nrKzlha3mnJ/vvJrlgZpBSeeahENFTyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgODYsDQogICAgODcNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWU4ODUwZDMzN2UiDQogICBdLA0KICAgImNoYXJzIjogMzMNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS4g+acnyIsDQogICAiaGVhZGluZyI6ICLigJzor77loILmlZnlrabmlLnpnanov5vooYzml7bigJ3nrKzkuIPmnJ/vvJrmtrXlhbvmnKrmnaXmkq3pn7PlkZjkuLvmjIHkurrnmoTmoLjlv4Pnq57kuonlipsiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDg5LA0KICAgIDkwDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC00NTRmYmM3ZjBjIg0KICAgXSwNCiAgICJjaGFycyI6IDQ1DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzlhavmnJ8iLA0KICAgImhlYWRpbmciOiAi4oCc6K++5aCC5pWZ5a2m5pS56Z2p6L+b6KGM5pe24oCd56ys5YWr5pyf77ya5bel56iL5a6e6Le16IO95Yqb55qE5LiJ57qn6LeD6L+BIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA5MiwNCiAgICA5Mw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZjJlNjBjZjM1MyINCiAgIF0sDQogICAiY2hhcnMiOiAzOA0KICB9LA0KICB7DQogICAibm8iOiAi56ys5Lmd5pyfIiwNCiAgICJoZWFkaW5nIjogIuKAnOivvuWgguaVmeWtpuaUuemdqei/m+ihjOaXtuKAneesrOS5neacn++8muiJuuacr+S4juenkeaKgOeahOa3seW6puiejeWQiCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgOTUsDQogICAgOTYNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTI0MmU3YWU0YjkiDQogICBdLA0KICAgImNoYXJzIjogNDQNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWNgeacnyIsDQogICAiaGVhZGluZyI6ICLigJzor77loILmlZnlrabmlLnpnanov5vooYzml7bigJ3nrKzljYHmnJ/vvJrmlbDmja7mgJ3nu7TkuI5BSeWuoei+qSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgOTgsDQogICAgOTkNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTE0MDMxZTg3ODYiDQogICBdLA0KICAgImNoYXJzIjogNDANCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWNgeS4gOacnyIsDQogICAiaGVhZGluZyI6ICLigJzor77loILmlZnlrabmlLnpnanov5vooYzml7bigJ3nrKzljYHkuIDmnJ/vvJrku47or63oqIDliLDkvKDmkq3nmoTlrp7miJjov5vpmLYiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDEwMSwNCiAgICAxMDINCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTBhMDU2YzllOTciDQogICBdLA0KICAgImNoYXJzIjogMzQNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWNgeS6jOacnyIsDQogICAiaGVhZGluZyI6ICLigJzor77loILmlZnlrabmlLnpnanov5vooYzml7bigJ3nrKzljYHkuozmnJ/vvJrku47igJzkvKDlo7DogIXigJ3liLDigJzliJvkvZzogIXigJ0iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDEwNCwNCiAgICAxMDUNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWQ1OTBkZDJjZWIiDQogICBdLA0KICAgImNoYXJzIjogMzcNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWNgeS4ieacnyIsDQogICAiaGVhZGluZyI6ICLigJzor77loILmlZnlrabmlLnpnanov5vooYzml7bigJ3nrKzljYHkuInmnJ/vvJrpnaLlkJHpl67popjmgJ3nu7TnmoTmg4XlooPljJbmlZnlraYiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDEwNywNCiAgICAxMDgNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTY3M2U4ZWMwNWIiDQogICBdLA0KICAgImNoYXJzIjogMzcNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWNgeWbm+acnyIsDQogICAiaGVhZGluZyI6ICLigJzor77loILmlZnlrabmlLnpnanov5vooYzml7bigJ3nrKzljYHlm5vmnJ/vvJrono3lqpLkvZPlrp7miJjnmoTigJznu4PlhbXlnLrigJ0iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDExMCwNCiAgICAxMTMNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWFkZTA2MDNmNWMiLA0KICAgICJwdC0zN2Q5Yzg1N2NlIg0KICAgXSwNCiAgICJjaGFycyI6IDE1NA0KICB9LA0KICB7DQogICAibm8iOiAi6aG16ISaIiwNCiAgICJoZWFkaW5nIjogIueJiOadg+S4juWkh+ahiOS/oeaBryIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDExNCwNCiAgICAxMTUNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDk2DQogIH0NCiBdLA0KICJpdGVtcyI6IFsNCiAgInB0LTVlMzgzMmVmYzkiLA0KICAicHQtZDYxOTEzZDZkMSIsDQogICJwdC1lYzU0OWYwNDZjIiwNCiAgInB0LTg3ZDQxMTM2OGEiLA0KICAicHQtODc5NDNlYWYyNiIsDQogICJwdC00ZTYxNzA5MDdhIiwNCiAgInB0LTQ2ZGIzYzRhMmQiLA0KICAicHQtZTViMjlmYmZmOCIsDQogICJwdC1lODg1MGQzMzdlIiwNCiAgInB0LTQ1NGZiYzdmMGMiLA0KICAicHQtZjJlNjBjZjM1MyIsDQogICJwdC0yNDJlN2FlNGI5IiwNCiAgInB0LTE0MDMxZTg3ODYiLA0KICAicHQtMGEwNTZjOWU5NyIsDQogICJwdC1kNTkwZGQyY2ViIiwNCiAgInB0LTY3M2U4ZWMwNWIiLA0KICAicHQtYWRlMDYwM2Y1YyIsDQogICJwdC0zN2Q5Yzg1N2NlIg0KIF0sDQogIm5vdGVzIjogWw0KICAi56ysIDHigJM1MyDooYzkuLrnq5nngrnoj5zljZXmoJHvvIjlrabnlJ8v5pWZ5biIL+iuv+WuouS4iee7hOagj+ebruS4juW5s+WPsOWFpeWPo++8ieOAgeaQnOe0ouS4juWIl+ihqOmhteaoquW5he+8jOesrCA1NOKAkzU3IOihjOS4uumdouWMheWxkeOAgeagj+ebruWQjeOAjOenjeWtkOivvuWgguamguiniOOAjeS4juWPkeW4g+iAheS/oeaBr++8jOWIhuWIq+WNleWIl+S4gOiKguOAgiIsDQogICLnrKwgNTjigJM2MCDooYzkuLrkuInmrrXlr7zor63vvJrmnKznp5HmlZnogrLlpKfkvJrjgIzlm5vkuKrkuIDmibnjgI3mlLnpnanjgIFBSSDml7bku6Por77loILlrprkvY3jgIHlrpjmlrnlvq7kv6EgMTQg5pyf57O75YiX6aKE5ZGK44CCIiwNCiAgIuesrCA2MeKAkzExMyDooYzmmK/ns7vliJfnm67lvZXvvJrmr4/kuIDmnJ/nlLHjgIzor77nqIvkuI7mlZnluIjlm77ms6ggKyDmnJ/mrKHmoIfpopjjgI3kuKTooYzvvIjpppbmnJ/kuLrmoIfpopjljZXooYzvvInnu4TmiJDvvIzljYHlm5vmnJ/lkITorr7lrZDoioLvvJvniLboioLljLrpl7QgNjHigJMxMTMg5Li655yf5bWM5aWX77yM54i26IqC5Y+q5pS+56ysIDYyIOihjOWbvuazqOi1t+eCueeahOadoeebriBwdC1lYzU0OWYwNDZj77yI5Zub6Zeo6K++56iL5pWZ5a2m5a6e6Le15bGV56S677yJ44CCIiwNCiAgIuesrCA2M+KAkzcxIOihjOaYr+Wbm+mXqOivvueoi+eahOaVmeWtpuinhumikeS4jummluacn+a1t+aKpeWNoOS9je+8iFvpmYTku7ZdIOihjO+8ie+8jOS4jeWQq+ato+aWh++8jOacquWNleWIl+iKguOAgiIsDQogICLnrKwgMTE04oCTMTE1IOihjOS4uuaVmeWKoeWkhOeJiOadg+OAgeWkh+ahiOWPt+S4juiuv+mXrue7n+iuoeWNoOS9je+8jOWNleWIl+OAjOmhteiEmuOAjeOAgiINCiBdDQp9
+{
+ "key": "20260331-c14817a268360",
+ "title": "种子课堂概览",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "页面框架",
+   "heading": "站点菜单与栏目导航",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    53
+   ],
+   "items": [],
+   "chars": 274
+  },
+  {
+   "no": "栏目与发布信息",
+   "heading": "面包屑、栏目名与发布者信息",
+   "heading_kind": "derived",
+   "lines": [
+    54,
+    57
+   ],
+   "items": [
+    "pt-5e3832efc9"
+   ],
+   "chars": 110
+  },
+  {
+   "no": "导语",
+   "heading": "课堂教学改革的背景与系列发布安排",
+   "heading_kind": "derived",
+   "lines": [
+    58,
+    60
+   ],
+   "items": [
+    "pt-d61913d6d1"
+   ],
+   "chars": 516
+  },
+  {
+   "no": "系列目录",
+   "heading": "十四期课堂教学创新实践目录",
+   "heading_kind": "derived",
+   "lines": [
+    61,
+    113
+   ],
+   "items": [
+    "pt-ec549f046c"
+   ],
+   "chars": 2866
+  },
+  {
+   "no": "第一期",
+   "heading": "“课堂教学改革进行时”第一期：为学生铺就AI时代的独特成长之路",
+   "heading_kind": "author",
+   "lines": [
+    72,
+    72
+   ],
+   "items": [
+    "pt-87d411368a"
+   ],
+   "chars": 31
+  },
+  {
+   "no": "第二期",
+   "heading": "“课堂教学改革进行时”第二期：65年传统课程的AI新生",
+   "heading_kind": "author",
+   "lines": [
+    74,
+    75
+   ],
+   "items": [
+    "pt-87943eaf26"
+   ],
+   "chars": 39
+  },
+  {
+   "no": "第三期",
+   "heading": "“课堂教学改革进行时”第三期：AI导师的5种角色",
+   "heading_kind": "author",
+   "lines": [
+    77,
+    78
+   ],
+   "items": [
+    "pt-4e6170907a"
+   ],
+   "chars": 42
+  },
+  {
+   "no": "第四期",
+   "heading": "“课堂教学改革进行时”第四期：当AI成为影视编剧的协同者",
+   "heading_kind": "author",
+   "lines": [
+    80,
+    81
+   ],
+   "items": [
+    "pt-46db3c4a2d"
+   ],
+   "chars": 34
+  },
+  {
+   "no": "第五期",
+   "heading": "“课堂教学改革进行时”第五期：方法类课程的“学徒工坊”",
+   "heading_kind": "author",
+   "lines": [
+    83,
+    84
+   ],
+   "items": [
+    "pt-e5b29fbff8"
+   ],
+   "chars": 35
+  },
+  {
+   "no": "第六期",
+   "heading": "“课堂教学改革进行时”第六期：做AI的CEO",
+   "heading_kind": "author",
+   "lines": [
+    86,
+    87
+   ],
+   "items": [
+    "pt-e8850d337e"
+   ],
+   "chars": 33
+  },
+  {
+   "no": "第七期",
+   "heading": "“课堂教学改革进行时”第七期：涵养未来播音员主持人的核心竞争力",
+   "heading_kind": "author",
+   "lines": [
+    89,
+    90
+   ],
+   "items": [
+    "pt-454fbc7f0c"
+   ],
+   "chars": 45
+  },
+  {
+   "no": "第八期",
+   "heading": "“课堂教学改革进行时”第八期：工程实践能力的三级跃迁",
+   "heading_kind": "author",
+   "lines": [
+    92,
+    93
+   ],
+   "items": [
+    "pt-f2e60cf353"
+   ],
+   "chars": 38
+  },
+  {
+   "no": "第九期",
+   "heading": "“课堂教学改革进行时”第九期：艺术与科技的深度融合",
+   "heading_kind": "author",
+   "lines": [
+    95,
+    96
+   ],
+   "items": [
+    "pt-242e7ae4b9"
+   ],
+   "chars": 44
+  },
+  {
+   "no": "第十期",
+   "heading": "“课堂教学改革进行时”第十期：数据思维与AI审辩",
+   "heading_kind": "author",
+   "lines": [
+    98,
+    99
+   ],
+   "items": [
+    "pt-14031e8786"
+   ],
+   "chars": 40
+  },
+  {
+   "no": "第十一期",
+   "heading": "“课堂教学改革进行时”第十一期：从语言到传播的实战进阶",
+   "heading_kind": "author",
+   "lines": [
+    101,
+    102
+   ],
+   "items": [
+    "pt-0a056c9e97"
+   ],
+   "chars": 34
+  },
+  {
+   "no": "第十二期",
+   "heading": "“课堂教学改革进行时”第十二期：从“传声者”到“创作者”",
+   "heading_kind": "author",
+   "lines": [
+    104,
+    105
+   ],
+   "items": [
+    "pt-d590dd2ceb"
+   ],
+   "chars": 37
+  },
+  {
+   "no": "第十三期",
+   "heading": "“课堂教学改革进行时”第十三期：面向问题思维的情境化教学",
+   "heading_kind": "author",
+   "lines": [
+    107,
+    108
+   ],
+   "items": [
+    "pt-673e8ec05b"
+   ],
+   "chars": 37
+  },
+  {
+   "no": "第十四期",
+   "heading": "“课堂教学改革进行时”第十四期：融媒体实战的“练兵场”",
+   "heading_kind": "author",
+   "lines": [
+    110,
+    113
+   ],
+   "items": [
+    "pt-ade0603f5c",
+    "pt-37d9c857ce"
+   ],
+   "chars": 154
+  },
+  {
+   "no": "页脚",
+   "heading": "版权与备案信息",
+   "heading_kind": "derived",
+   "lines": [
+    114,
+    115
+   ],
+   "items": [],
+   "chars": 96
+  }
+ ],
+ "items": [
+  "pt-5e3832efc9",
+  "pt-d61913d6d1",
+  "pt-ec549f046c",
+  "pt-87d411368a",
+  "pt-87943eaf26",
+  "pt-4e6170907a",
+  "pt-46db3c4a2d",
+  "pt-e5b29fbff8",
+  "pt-e8850d337e",
+  "pt-454fbc7f0c",
+  "pt-f2e60cf353",
+  "pt-242e7ae4b9",
+  "pt-14031e8786",
+  "pt-0a056c9e97",
+  "pt-d590dd2ceb",
+  "pt-673e8ec05b",
+  "pt-ade0603f5c",
+  "pt-37d9c857ce"
+ ],
+ "notes": [
+  "第 1–53 行为站点菜单树（学生/教师/访客三组栏目与平台入口）、搜索与列表页横幅，第 54–57 行为面包屑、栏目名「种子课堂概览」与发布者信息，分别单列一节。",
+  "第 58–60 行为三段导语：本科教育大会「四个一批」改革、AI 时代课堂定位、官方微信 14 期系列预告。",
+  "第 61–113 行是系列目录：每一期由「课程与教师图注 + 期次标题」两行（首期为标题单行）组成，十四期各设子节；父节区间 61–113 为真嵌套，父节只放第 62 行图注起点的条目 pt-ec549f046c（四门课程教学实践展示）。",
+  "第 63–71 行是四门课程的教学视频与首期海报占位（[附件] 行），不含正文，未单列节。",
+  "第 114–115 行为教务处版权、备案号与访问统计占位，单列「页脚」。"
+ ]
+}

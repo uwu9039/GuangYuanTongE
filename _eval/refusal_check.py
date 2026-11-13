@@ -1,1 +1,53 @@
-IiIi5ouS562U5Zue5b2S77ya5LiA5qyh6LeR5a6M5Zub5aWX5q2jL+i0n+S+i++8jOehruiupOOAjOivpeaLkueahOaLkuS6huOAgeivpeetlOeahOayoeivr+aLkuOAjeOAggoKICAgIHB5dGhvbiAtbSBfZXZhbC5yZWZ1c2FsX2NoZWNrIFstLWRlbnNlXQoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGFyZ3BhcnNlCmltcG9ydCBqc29uCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAoKZnJvbSByZXRyaWV2YWwgaW1wb3J0IEVuZ2luZQoKUk9PVCA9IFBhdGgoX19maWxlX18pLnJlc29sdmUoKS5wYXJlbnRzWzFdClNFVFMgPSBST09UIC8gIl9ldmFsIiAvICJzZXRzIgoKCmRlZiBsb2FkKG5hbWU6IHN0cikgLT4gbGlzdFtkaWN0XToKICAgIHJldHVybiBbanNvbi5sb2FkcyhsbikgZm9yIGxuIGluIChTRVRTIC8gZiJ7bmFtZX0uanNvbmwiKS5yZWFkX3RleHQoZW5jb2Rpbmc9InV0Zi04Iikuc3BsaXRsaW5lcygpCiAgICAgICAgICAgIGlmIGxuLnN0cmlwKCldCgoKZGVmIG1haW4oKSAtPiBOb25lOgogICAgYXAgPSBhcmdwYXJzZS5Bcmd1bWVudFBhcnNlcigpCiAgICBhcC5hZGRfYXJndW1lbnQoIi0tZGVuc2UiLCBhY3Rpb249InN0b3JlX3RydWUiKQogICAgYXJncyA9IGFwLnBhcnNlX2FyZ3MoKQogICAgZW5nID0gRW5naW5lLmxvYWQoZGVuc2U9YXJncy5kZW5zZSkKICAgIHByaW50KGYiZW5naW5lIGRlbnNlPXtlbmcudXNlX2RlbnNlfSIpCiAgICBmb3IgbmFtZSBpbiAoInByZXNldHMiLCAicGFyYXBocmFzZSIsICJuZWdhdGl2ZXMiLCAibmVnYXRpdmVzX2hhcmQiKToKICAgICAgICByb3dzID0gbG9hZChuYW1lKQogICAgICAgIHJlZnVzZWQgPSBbclsicSJdIGZvciByIGluIHJvd3MgaWYgZW5nLnNlYXJjaChyWyJxIl0sIGs9MSkucmVmdXNlZF0KICAgICAgICByYXRlID0gbGVuKHJlZnVzZWQpIC8gbGVuKHJvd3MpCiAgICAgICAgdGFnID0gIuaLkuetlCIgaWYgbmFtZS5zdGFydHN3aXRoKCJuZWciKSBlbHNlICLor6/mi5IiCiAgICAgICAgcHJpbnQoZiJ7bmFtZToxNXN9IG49e2xlbihyb3dzKTo0ZH0ge3RhZ30ge2xlbihyZWZ1c2VkKTozZH0gKHtyYXRlOi4xJX0pIikKICAgICAgICBpZiByZWZ1c2VkWzo2XToKICAgICAgICAgICAgcHJpbnQoIiAgICIsICIgfCAiLmpvaW4ocVs6MTZdIGZvciBxIGluIHJlZnVzZWRbOjZdKSkKICAgICMg6aKY5bqT6YeM55qE5bqU5ouS6aKY77yI6aKY5bqT5LiN5Zyo5LuT5bqT6YeM77yM55SoIEJBTktfSlNPTiDmjIfov4fljrvvvJvmsqHmnInlsLHot7Pov4fov5nkuIDmrrXvvIkKICAgIGZyb20gLmJhbmtfcGF0aCBpbXBvcnQgYmFua19qc29uCgogICAgYmFua19maWxlID0gYmFua19qc29uKCkKICAgIGlmIG5vdCBiYW5rX2ZpbGUuZXhpc3RzKCk6CiAgICAgICAgcHJpbnQoZiJcbu+8iOmimOW6k+S4jeWcqCB7YmFua19maWxlfe+8muiuviBCQU5LX0pTT04g5ZCO5YaN6LeR6L+Z5LiA5q6177yJIikKICAgICAgICByZXR1cm4KICAgIGJhbmsgPSBqc29uLmxvYWRzKGJhbmtfZmlsZS5yZWFkX3RleHQoZW5jb2Rpbmc9InV0Zi04IikpCiAgICByZWYgPSBbclsicSJdIGZvciByb3dzIGluIGJhbmtbInNldHMiXS52YWx1ZXMoKSBmb3IgciBpbiByb3dzCiAgICAgICAgICAgaWYgIuaLkuetlCIgaW4gKHIuZ2V0KCJleHBlY3QiKSBvciAiIildCiAgICBwcmludCgiXG7popjlupPlupTmi5LpopjvvJoiKQogICAgZm9yIHEgaW4gZGljdC5mcm9ta2V5cyhyZWYpOgogICAgICAgIHJlcyA9IGVuZy5zZWFyY2gocSwgaz0xKQogICAgICAgIHByaW50KGYiICB7cVs6MjRdOjI2c30gcmVmdXNlZD17cmVzLnJlZnVzZWR9IHtyZXMucmVhc29uWzoyNl19IikKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==
+"""拒答回归：一次跑完四套正/负例，确认「该拒的拒了、该答的没误拒」。
+
+    python -m _eval.refusal_check [--dense]
+"""
+from __future__ import annotations
+
+import argparse
+import json
+from pathlib import Path
+
+from retrieval import Engine
+
+ROOT = Path(__file__).resolve().parents[1]
+SETS = ROOT / "_eval" / "sets"
+
+
+def load(name: str) -> list[dict]:
+    return [json.loads(ln) for ln in (SETS / f"{name}.jsonl").read_text(encoding="utf-8").splitlines()
+            if ln.strip()]
+
+
+def main() -> None:
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--dense", action="store_true")
+    args = ap.parse_args()
+    eng = Engine.load(dense=args.dense)
+    print(f"engine dense={eng.use_dense}")
+    for name in ("presets", "paraphrase", "negatives", "negatives_hard"):
+        rows = load(name)
+        refused = [r["q"] for r in rows if eng.search(r["q"], k=1).refused]
+        rate = len(refused) / len(rows)
+        tag = "拒答" if name.startswith("neg") else "误拒"
+        print(f"{name:15s} n={len(rows):4d} {tag} {len(refused):3d} ({rate:.1%})")
+        if refused[:6]:
+            print("   ", " | ".join(q[:16] for q in refused[:6]))
+    # 题库里的应拒题（题库不在仓库里，用 BANK_JSON 指过去；没有就跳过这一段）
+    from .bank_path import bank_json
+
+    bank_file = bank_json()
+    if not bank_file.exists():
+        print(f"\n（题库不在 {bank_file}：设 BANK_JSON 后再跑这一段）")
+        return
+    bank = json.loads(bank_file.read_text(encoding="utf-8"))
+    ref = [r["q"] for rows in bank["sets"].values() for r in rows
+           if "拒答" in (r.get("expect") or "")]
+    print("\n题库应拒题：")
+    for q in dict.fromkeys(ref):
+        res = eng.search(q, k=1)
+        print(f"  {q[:24]:26s} refused={res.refused} {res.reason[:26]}")
+
+
+if __name__ == "__main__":
+    main()

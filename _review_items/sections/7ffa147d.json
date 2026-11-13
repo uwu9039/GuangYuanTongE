@@ -1,1 +1,185 @@
-ew0KICJrZXkiOiAiN2ZmYTE0N2QiLA0KICJ0aXRsZSI6ICLljJfkuqzluILmlZnogrLlp5TlkZjkvJrlhbPkuo7op4TojIPpq5jnrYnlrabmoKHlrabnlJ/lnKjmoKHmnJ/pl7Tkv67mlLnmiJblj5jmm7TlrabnsY3ouqvku73kv6Hmga/lt6XkvZznmoTpgJrnn6UiLA0KICJ0cnVuY2F0ZWQiOiBmYWxzZSwNCiAic2VjdGlvbnMiOiBbDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5paH5Lu25aS044CB5byV6KiA5LiO56ys5LiA6YOo5YiG77yI5LiA44CB6KeE6IyD5LqL6aG55Y+K6YCC55So6IyD5Zu077yJIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMSwNCiAgICAyMQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtYjA0NzIyMDY0NSINCiAgIF0sDQogICAiY2hhcnMiOiA0MjENCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLlhbPkuo7op4TojIPpq5jnrYnlrabmoKHlrabnlJ/lnKjmoKHmnJ/pl7Tkv67mlLnmiJblj5jmm7TlrabnsY3ouqvku73kv6Hmga/lt6XkvZznmoTpgJrnn6UiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDEsDQogICAgMTQNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInJ1bGUtN2ZmYTE0N2QiLA0KICAgICJwdC1jNmQ5YjVhZWVmIiwNCiAgICAicHQtN2VjYTQ4ZjlmNCINCiAgIF0sDQogICAiY2hhcnMiOiAyNjENCiAgfSwNCiAgew0KICAgIm5vIjogIuS4gOOAgSIsDQogICAiaGVhZGluZyI6ICLkuIDjgIHop4TojIPkuovpobnlj4rpgILnlKjojIPlm7QiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDE1LA0KICAgIDIxDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1kYjNiMDg4MmNlIiwNCiAgICAicHQtNGNiMjAzMDAwZSIsDQogICAgInB0LWEzZDUwNTM1NTAiDQogICBdLA0KICAgImNoYXJzIjogMTYwDQogIH0sDQogIHsNCiAgICJubyI6ICLkuozjgIEiLA0KICAgImhlYWRpbmciOiAi5LqM44CB5Y+X55CG5p2h5Lu25Y+K5Yqe55CG5Y6f5YiZIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyMiwNCiAgICA0MA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMGFiOTE1YTM5MSIsDQogICAgInB0LTEwN2Q5MDg3ODkiLA0KICAgICJwdC1lNjNhYzBlYmE1IiwNCiAgICAicHQtZTZmMTQ1Mjk5NCIsDQogICAgInB0LWI4Njc2NzcyMTEiLA0KICAgICJwdC0xNDQ0NGFjZTVkIiwNCiAgICAicHQtN2U5ZmVlYzhlYiIsDQogICAgInB0LTc0MzM2ZWUyYzEiLA0KICAgICJwdC00N2Q1YzA5MzQwIg0KICAgXSwNCiAgICJjaGFycyI6IDM3NQ0KICB9LA0KICB7DQogICAibm8iOiAi5LiJ44CBIiwNCiAgICJoZWFkaW5nIjogIuS4ieOAgeWKnueQhueoi+W6jyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNDEsDQogICAgNjUNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWU5NWVkZTdkYWIiLA0KICAgICJwdC1lYWI5MThhZTVlIiwNCiAgICAicHQtZjgzMjBiYWEzZiIsDQogICAgInB0LWU5ZmUwYmE4MzYiLA0KICAgICJwdC1jNzA1Njk0MjliIiwNCiAgICAicHQtMzYxOWFhOWRiYiIsDQogICAgInB0LWE4NGRjNjdiNzMiLA0KICAgICJwdC04NDc3ZjY0MzBhIg0KICAgXSwNCiAgICJjaGFycyI6IDUxMA0KICB9LA0KICB7DQogICAibm8iOiAi5Zub44CBIiwNCiAgICJoZWFkaW5nIjogIuWbm+OAgeWKnueQhuaJgOmcgOivgeaYjuadkOaWmSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNjYsDQogICAgNzcNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWU3OTAzMjIxM2IiLA0KICAgICJwdC04OTYwZDE1YWEwIiwNCiAgICAicHQtMThmYjI4NGM3MSIsDQogICAgInB0LTZhZjZmYWZkYmIiLA0KICAgICJwdC0xNjc3NjNmZGMwIiwNCiAgICAicHQtNDY4ZDQ3M2NjZSIsDQogICAgInB0LTE0NTRmYjZhMDEiDQogICBdLA0KICAgImNoYXJzIjogMjQ1DQogIH0sDQogIHsNCiAgICJubyI6ICLkupTjgIEiLA0KICAgImhlYWRpbmciOiAi5LqU44CB5bel5L2c6KaB5rGCIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA3OCwNCiAgICA5MQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtYzZiYzEzOTYxMCIsDQogICAgInB0LTcyMzVjYjE1MmIiLA0KICAgICJwdC1jMDYwMjg4ODQxIg0KICAgXSwNCiAgICJjaGFycyI6IDI3Nw0KICB9LA0KICB7DQogICAibm8iOiAi5YWt44CBIiwNCiAgICJoZWFkaW5nIjogIuWFreOAgeWFtuS7luS6i+mhuSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgOTIsDQogICAgOTcNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTUzODUwYTM3MjciLA0KICAgICJwdC03ZWNiMTMzOTJhIg0KICAgXSwNCiAgICJjaGFycyI6IDY2DQogIH0NCiBdLA0KICJpdGVtcyI6IFsNCiAgInJ1bGUtN2ZmYTE0N2QiLA0KICAicHQtZGIzYjA4ODJjZSIsDQogICJwdC00Y2IyMDMwMDBlIiwNCiAgInB0LTBhYjkxNWEzOTEiLA0KICAicHQtMTA3ZDkwODc4OSIsDQogICJwdC1lNjNhYzBlYmE1IiwNCiAgInB0LWU2ZjE0NTI5OTQiLA0KICAicHQtYjg2NzY3NzIxMSIsDQogICJwdC0xNDQ0NGFjZTVkIiwNCiAgInB0LTdlOWZlZWM4ZWIiLA0KICAicHQtZTk1ZWRlN2RhYiIsDQogICJwdC1lYWI5MThhZTVlIiwNCiAgInB0LWY4MzIwYmFhM2YiLA0KICAicHQtZTlmZTBiYTgzNiIsDQogICJwdC1jNzA1Njk0MjliIiwNCiAgInB0LTM2MTlhYTlkYmIiLA0KICAicHQtYTg0ZGM2N2I3MyIsDQogICJwdC04OTYwZDE1YWEwIiwNCiAgInB0LTE4ZmIyODRjNzEiLA0KICAicHQtNmFmNmZhZmRiYiIsDQogICJwdC0xNjc3NjNmZGMwIiwNCiAgInB0LTQ2OGQ0NzNjY2UiLA0KICAicHQtYzZkOWI1YWVlZiIsDQogICJwdC03ZWNhNDhmOWY0IiwNCiAgInB0LWIwNDcyMjA2NDUiLA0KICAicHQtYTNkNTA1MzU1MCIsDQogICJwdC03NDMzNmVlMmMxIiwNCiAgInB0LTQ3ZDVjMDkzNDAiLA0KICAicHQtODQ3N2Y2NDMwYSIsDQogICJwdC1lNzkwMzIyMTNiIiwNCiAgInB0LTE0NTRmYjZhMDEiLA0KICAicHQtYzZiYzEzOTYxMCIsDQogICJwdC03MjM1Y2IxNTJiIiwNCiAgInB0LWMwNjAyODg4NDEiLA0KICAicHQtNTM4NTBhMzcyNyIsDQogICJwdC03ZWNiMTMzOTJhIg0KIF0sDQogIm5vdGVzIjogWw0KICAiUERGIOmhteeggeihjOOAjOKAlDXigJTjgI3lhbEgNCDlpITvvIjnrKwgMjPjgIE1MuOAgTc544CBOTcg6KGM77yJ77yM5Z2H5bm25YWl55u46YK76IqC5aSE55CG77yM5LiN5Y2V5YiX44CCIiwNCiAgIuesrCAxLTUg6KGM5Li65Y+R5paH5py65YWz44CB5paH5Y+35LiO6YCa55+l5qCH6aKY77yI5Lqs5pWZ5a2m44CUMjAxOOOAlTIg5Y+377yJ77yM56ysIDYtMTQg6KGM5Li65oqs5aS05LiO5byV6KiA44CCIiwNCiAgInB0LWIwNDcyMjA2NDUg55qE5byV5paH44CM5L+h5oGv5pyJ5YWz5bel5L2c6YCa55+l5aaC5LiL77ya5LiA44CB6KeE6IyD5LqL6aG55Y+K6YCC55So6IyD5Zu0KOS4gCnmnKzpgJrnn6XigKbjgI3mqKrot6jnrKwgMTQtMTYg6KGM77yI5byV6KiA5pyr5Y+l77yL56ys5LiA6YOo5YiG55qE5p2h6aG577yJ77yM5pWF5bu654i26IqCIFsxLDIxXSDljIXkvY/mloflpLToioLkuI7jgIzkuIDjgIHjgI3oioLjgIIiLA0KICAicHQtODQ3N2Y2NDMwYeOAgXB0LWU5NWVkZTdkYWIg562J5p2h55uu55qEIHF1b3RlIOeUseOAjOS4ieOAgeWKnueQhueoi+W6j+OAjeS4juadoeWGheWwj+mhueaLvOaOpeiAjOaIkO+8jOWFtummluS4qiAyNiDlrZfnqpflj6PlnKjmraPmlofkuK3lubbkuI3ov57nu63vvIzmjInlvJXmlofmiYDlnKjljLrpl7TvvIjkuInjgIHlip7nkIbnqIvluo/vvInokL3ngrnjgIIiLA0KICAicnVsZS03ZmZhMTQ3ZCDkuLrmlofmoaPnuqfmnaHnm67jgIHml6DlvJXmlofvvIzokL3mloflpLToioLlubbliJflhaXmlofmoaPnuqcgaXRlbXPjgIIiLA0KICAi56ysIDkyIOihjOOAjOWFreOAgeWFtuS7luS6i+mhueOAjeS5i+WQjuS7heS4pOadoe+8jOacq+ihjOS4uumhteeggeihjO+8jOiQveasvuOAjOWMl+S6rOW4guaVmeiCsuWnlOWRmOS8miAyMDE4IOW5tCA1IOaciCAyMSDml6XjgI3lubblhaXmnKzoioLjgIIiDQogXQ0KfQ0K
+{
+ "key": "7ffa147d",
+ "title": "北京市教育委员会关于规范高等学校学生在校期间修改或变更学籍身份信息工作的通知",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "文件头、引言与第一部分（一、规范事项及适用范围）",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    21
+   ],
+   "items": [
+    "pt-b047220645"
+   ],
+   "chars": 421
+  },
+  {
+   "no": "—",
+   "heading": "关于规范高等学校学生在校期间修改或变更学籍身份信息工作的通知",
+   "heading_kind": "author",
+   "lines": [
+    1,
+    14
+   ],
+   "items": [
+    "rule-7ffa147d",
+    "pt-c6d9b5aeef",
+    "pt-7eca48f9f4"
+   ],
+   "chars": 261
+  },
+  {
+   "no": "一、",
+   "heading": "一、规范事项及适用范围",
+   "heading_kind": "author",
+   "lines": [
+    15,
+    21
+   ],
+   "items": [
+    "pt-db3b0882ce",
+    "pt-4cb203000e",
+    "pt-a3d5053550"
+   ],
+   "chars": 160
+  },
+  {
+   "no": "二、",
+   "heading": "二、受理条件及办理原则",
+   "heading_kind": "author",
+   "lines": [
+    22,
+    40
+   ],
+   "items": [
+    "pt-0ab915a391",
+    "pt-107d908789",
+    "pt-e63ac0eba5",
+    "pt-e6f1452994",
+    "pt-b867677211",
+    "pt-14444ace5d",
+    "pt-7e9feec8eb",
+    "pt-74336ee2c1",
+    "pt-47d5c09340"
+   ],
+   "chars": 375
+  },
+  {
+   "no": "三、",
+   "heading": "三、办理程序",
+   "heading_kind": "author",
+   "lines": [
+    41,
+    65
+   ],
+   "items": [
+    "pt-e95ede7dab",
+    "pt-eab918ae5e",
+    "pt-f8320baa3f",
+    "pt-e9fe0ba836",
+    "pt-c70569429b",
+    "pt-3619aa9dbb",
+    "pt-a84dc67b73",
+    "pt-8477f6430a"
+   ],
+   "chars": 510
+  },
+  {
+   "no": "四、",
+   "heading": "四、办理所需证明材料",
+   "heading_kind": "author",
+   "lines": [
+    66,
+    77
+   ],
+   "items": [
+    "pt-e79032213b",
+    "pt-8960d15aa0",
+    "pt-18fb284c71",
+    "pt-6af6fafdbb",
+    "pt-167763fdc0",
+    "pt-468d473cce",
+    "pt-1454fb6a01"
+   ],
+   "chars": 245
+  },
+  {
+   "no": "五、",
+   "heading": "五、工作要求",
+   "heading_kind": "author",
+   "lines": [
+    78,
+    91
+   ],
+   "items": [
+    "pt-c6bc139610",
+    "pt-7235cb152b",
+    "pt-c060288841"
+   ],
+   "chars": 277
+  },
+  {
+   "no": "六、",
+   "heading": "六、其他事项",
+   "heading_kind": "author",
+   "lines": [
+    92,
+    97
+   ],
+   "items": [
+    "pt-53850a3727",
+    "pt-7ecb13392a"
+   ],
+   "chars": 66
+  }
+ ],
+ "items": [
+  "rule-7ffa147d",
+  "pt-db3b0882ce",
+  "pt-4cb203000e",
+  "pt-0ab915a391",
+  "pt-107d908789",
+  "pt-e63ac0eba5",
+  "pt-e6f1452994",
+  "pt-b867677211",
+  "pt-14444ace5d",
+  "pt-7e9feec8eb",
+  "pt-e95ede7dab",
+  "pt-eab918ae5e",
+  "pt-f8320baa3f",
+  "pt-e9fe0ba836",
+  "pt-c70569429b",
+  "pt-3619aa9dbb",
+  "pt-a84dc67b73",
+  "pt-8960d15aa0",
+  "pt-18fb284c71",
+  "pt-6af6fafdbb",
+  "pt-167763fdc0",
+  "pt-468d473cce",
+  "pt-c6d9b5aeef",
+  "pt-7eca48f9f4",
+  "pt-b047220645",
+  "pt-a3d5053550",
+  "pt-74336ee2c1",
+  "pt-47d5c09340",
+  "pt-8477f6430a",
+  "pt-e79032213b",
+  "pt-1454fb6a01",
+  "pt-c6bc139610",
+  "pt-7235cb152b",
+  "pt-c060288841",
+  "pt-53850a3727",
+  "pt-7ecb13392a"
+ ],
+ "notes": [
+  "PDF 页码行「—5—」共 4 处（第 23、52、79、97 行），均并入相邻节处理，不单列。",
+  "第 1-5 行为发文机关、文号与通知标题（京教学〔2018〕2 号），第 6-14 行为抬头与引言。",
+  "pt-b047220645 的引文「信息有关工作通知如下：一、规范事项及适用范围(一)本通知…」横跨第 14-16 行（引言末句＋第一部分的条项），故建父节 [1,21] 包住文头节与「一、」节。",
+  "pt-8477f6430a、pt-e95ede7dab 等条目的 quote 由「三、办理程序」与条内小项拼接而成，其首个 26 字窗口在正文中并不连续，按引文所在区间（三、办理程序）落点。",
+  "rule-7ffa147d 为文档级条目、无引文，落文头节并列入文档级 items。",
+  "第 92 行「六、其他事项」之后仅两条，末行为页码行，落款「北京市教育委员会 2018 年 5 月 21 日」并入本节。"
+ ]
+}

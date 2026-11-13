@@ -1,1 +1,158 @@
-ew0KICJrZXkiOiAiNGRhZmJmMWEiLA0KICJ0aXRsZSI6ICLkuK3kvKDmlZnlrZfjgJQyMDIx44CVMjEx5Y+3IOWFs+S6juWNsOWPkeOAiuS4reWbveS8oOWqkuWkp+WtpuacrOS4k+enkeWtpuWOhuOAgeWtpuS9jeivgeS5pueuoeeQhuWKnuazleOAi+eahOmAmuefpSIsDQogInRydW5jYXRlZCI6IGZhbHNlLA0KICJzZWN0aW9ucyI6IFsNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLlhbPkuo7ljbDlj5HjgIrkuK3lm73kvKDlqpLlpKflrabmnKzkuJPnp5HlrabljobjgIHlrabkvY3or4HkuabnrqHnkIblip7ms5XjgIvnmoTpgJrnn6UiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDIsDQogICAgMTANCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInJ1bGUtNGRhZmJmMWEiDQogICBdLA0KICAgImNoYXJzIjogMTMyDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5Lit5Zu95Lyg5aqS5aSn5a2m5pys5LiT56eR5a2m5Y6G44CB5a2m5L2N6K+B5Lmm566h55CG5Yqe5rOVIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMiwNCiAgICAxNA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogNzINCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS4gOadoSIsDQogICAiaGVhZGluZyI6ICLnrKzkuIDmnaEg6K+B5Lmm56eN57G75Y+K5Y+R5pS+6IyD5Zu0IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNSwNCiAgICA0OA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMzMwZGJkMDM5ZSIsDQogICAgInB0LTI5MWQ3ZjQxOTIiLA0KICAgICJwdC0yMmYwNTQ1ZjgzIiwNCiAgICAicHQtMGMzZDBjMzliZCIsDQogICAgInB0LWI5NWMyNGM3YTkiLA0KICAgICJwdC1kZWRiMjY3N2ZlIiwNCiAgICAicHQtYWQ1ZTUyY2RhMCIsDQogICAgInB0LTAxMGUzMzUyZjkiDQogICBdLA0KICAgImNoYXJzIjogNzgzDQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuozmnaEiLA0KICAgImhlYWRpbmciOiAi56ys5LqM5p2hIOivgeS5pumigeWPkSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNDksDQogICAgNjINCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTgxZWNiYmI5NTkiLA0KICAgICJwdC0wMTRjNDlhZjA4IiwNCiAgICAicHQtOWE1ZTI0NjA0MyIsDQogICAgInB0LWIyY2I0OTdhZGUiDQogICBdLA0KICAgImNoYXJzIjogMjYxDQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzkuInmnaEiLA0KICAgImhlYWRpbmciOiAi56ys5LiJ5p2hIOivgeS5pueahOaNouWPkeWSjOihpeWPkSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNjMsDQogICAgNzENCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTZjZjBlNjU3YjYiLA0KICAgICJwdC05MGRjNjEwNjU4IiwNCiAgICAicHQtODA5NWRjZjJmYSINCiAgIF0sDQogICAiY2hhcnMiOiAyMTANCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOWbm+adoSIsDQogICAiaGVhZGluZyI6ICLnrKzlm5vmnaEg55S15a2Q5L+h5oGv5rOo5YaMIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA3MiwNCiAgICA4MQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtODAwMjZkZWNhYSIsDQogICAgInB0LTE4OTA1NWFiZDciLA0KICAgICJwdC1lYjRjNmI2MTlmIiwNCiAgICAicHQtNThmMThiMjBkYiINCiAgIF0sDQogICAiY2hhcnMiOiAxOTkNCiAgfSwNCiAgew0KICAgIm5vIjogIuesrOS6lOadoSIsDQogICAiaGVhZGluZyI6ICLnrKzkupTmnaEg6K+B5Lmm55qE5pKk6ZSAIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA4MiwNCiAgICA5MA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMWY4MjZjNTNmYSIsDQogICAgInB0LWE4NzBhZDIyNTgiDQogICBdLA0KICAgImNoYXJzIjogMTc5DQogIH0sDQogIHsNCiAgICJubyI6ICLnrKzlha3mnaEiLA0KICAgImhlYWRpbmciOiAi56ys5YWt5p2hIOmZhOWImSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgOTEsDQogICAgOTMNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTc4ZDk4ODA1YzQiDQogICBdLA0KICAgImNoYXJzIjogNTINCiAgfQ0KIF0sDQogIml0ZW1zIjogWw0KICAicnVsZS00ZGFmYmYxYSIsDQogICJwdC0zMzBkYmQwMzllIiwNCiAgInB0LTI5MWQ3ZjQxOTIiLA0KICAicHQtMjJmMDU0NWY4MyIsDQogICJwdC0wYzNkMGMzOWJkIiwNCiAgInB0LWI5NWMyNGM3YTkiLA0KICAicHQtZGVkYjI2NzdmZSIsDQogICJwdC1hZDVlNTJjZGEwIiwNCiAgInB0LTAxMGUzMzUyZjkiLA0KICAicHQtODFlY2JiYjk1OSIsDQogICJwdC0wMTRjNDlhZjA4IiwNCiAgInB0LTlhNWUyNDYwNDMiLA0KICAicHQtYjJjYjQ5N2FkZSIsDQogICJwdC02Y2YwZTY1N2I2IiwNCiAgInB0LTkwZGM2MTA2NTgiLA0KICAicHQtODA5NWRjZjJmYSIsDQogICJwdC04MDAyNmRlY2FhIiwNCiAgInB0LTE4OTA1NWFiZDciLA0KICAicHQtZWI0YzZiNjE5ZiIsDQogICJwdC01OGYxOGIyMGRiIiwNCiAgInB0LTFmODI2YzUzZmEiLA0KICAicHQtYTg3MGFkMjI1OCIsDQogICJwdC03OGQ5ODgwNWM0Ig0KIF0sDQogIm5vdGVzIjogWw0KICAi6KeE5YiZ5p2hIHJ1bGUtNGRhZmJmMWEg5peg5byV5paH77yI5paH5qGj57qn77yJ77yM5YiX6L+b6aaW6IqC77yI5Y2w5Y+R6YCa55+l77yJ44CCIiwNCiAgIuWOn+aWh+mhteeggeihjO+8muesrCAxIOihjOOAjC0gMSAt44CN44CB56ysIDExIOihjOOAjC0gMiAt44CN44CB56ysIDMzIOihjOOAjC0gMyAt44CN44CB56ysIDU2IOihjOOAjC0gNCAt44CN44CB56ysIDc5IOihjOOAjC0gNSAt44CN77yM5Z2H5bey5bm25YWl55u46YK76IqC44CCIiwNCiAgIuesrCAxMSDooYzpobXnoIHkuI7nrKwgMTIg6KGM5Yqe5rOV5qCH6aKY44CBMTPigJMxNCDooYzliLblrprkvp3mja7lkIjkuLrkuIDoioLvvIgxMeKAkzE077yJ77yM5pWF6K+l6IqCIGhlYWRpbmcg55So5Yqe5rOV5ZCN44CCIiwNCiAgIummluiKguagh+mimOWOn+S4uuerluaOkuaWreihjO+8muOAjOWFs+S6juWNsOWPkeOAiuS4reWbveS8oOWqkuWkp+WtpuacrOS4k+enkeWtpuWOhuOAgeWtpuS9jeivgeS5pueuoeeQhuWKnuazleOAi+OAje+8i+OAjOeahCDpgJog55+l44CN77yM5oyJ5Y6756m655m95ZCO6YCQ5a2X5Y+v5p+l77yM5qCHIGF1dGhvcuOAgiIsDQogICJwdC0wMTRjNDlhZjA4IOeahOW8leaWh+atouS6juOAjO+8iOS4ie+8ieaVmeWKoeWkhOW6lOaMh+WumuS4k+S6uui0n+i0o+WQhOexu+ivgeS5puWPkeaUvuWPiuWKnueQhuWtpuWOhuWtpuS9jeOAje+8iDU1IOihjO+8ie+8jOi3qOmhteiHsyA1NyDooYzjgIzor4HmmI7nmoTlt6XkvZzjgILjgI3vvIzku43lsZ7nrKzkuozmnaHjgIIiLA0KICAi5pys5paH5LiOIDJlZWY0ZTg0IOS4uuWQjOS4gOaWh+acrO+8iOmAkOWtl+iKguS4gOiHtO+8ie+8jOadoeebrumbhuS4jeWQjOOAgiINCiBdDQp9
+{
+ "key": "4dafbf1a",
+ "title": "中传教字〔2021〕211号 关于印发《中国传媒大学本专科学历、学位证书管理办法》的通知",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "关于印发《中国传媒大学本专科学历、学位证书管理办法》的通知",
+   "heading_kind": "author",
+   "lines": [
+    2,
+    10
+   ],
+   "items": [
+    "rule-4dafbf1a"
+   ],
+   "chars": 132
+  },
+  {
+   "no": "—",
+   "heading": "中国传媒大学本专科学历、学位证书管理办法",
+   "heading_kind": "author",
+   "lines": [
+    12,
+    14
+   ],
+   "items": [],
+   "chars": 72
+  },
+  {
+   "no": "第一条",
+   "heading": "第一条 证书种类及发放范围",
+   "heading_kind": "author",
+   "lines": [
+    15,
+    48
+   ],
+   "items": [
+    "pt-330dbd039e",
+    "pt-291d7f4192",
+    "pt-22f0545f83",
+    "pt-0c3d0c39bd",
+    "pt-b95c24c7a9",
+    "pt-dedb2677fe",
+    "pt-ad5e52cda0",
+    "pt-010e3352f9"
+   ],
+   "chars": 783
+  },
+  {
+   "no": "第二条",
+   "heading": "第二条 证书颁发",
+   "heading_kind": "author",
+   "lines": [
+    49,
+    62
+   ],
+   "items": [
+    "pt-81ecbbb959",
+    "pt-014c49af08",
+    "pt-9a5e246043",
+    "pt-b2cb497ade"
+   ],
+   "chars": 261
+  },
+  {
+   "no": "第三条",
+   "heading": "第三条 证书的换发和补发",
+   "heading_kind": "author",
+   "lines": [
+    63,
+    71
+   ],
+   "items": [
+    "pt-6cf0e657b6",
+    "pt-90dc610658",
+    "pt-8095dcf2fa"
+   ],
+   "chars": 210
+  },
+  {
+   "no": "第四条",
+   "heading": "第四条 电子信息注册",
+   "heading_kind": "author",
+   "lines": [
+    72,
+    81
+   ],
+   "items": [
+    "pt-80026decaa",
+    "pt-189055abd7",
+    "pt-eb4c6b619f",
+    "pt-58f18b20db"
+   ],
+   "chars": 199
+  },
+  {
+   "no": "第五条",
+   "heading": "第五条 证书的撤销",
+   "heading_kind": "author",
+   "lines": [
+    82,
+    90
+   ],
+   "items": [
+    "pt-1f826c53fa",
+    "pt-a870ad2258"
+   ],
+   "chars": 179
+  },
+  {
+   "no": "第六条",
+   "heading": "第六条 附则",
+   "heading_kind": "author",
+   "lines": [
+    91,
+    93
+   ],
+   "items": [
+    "pt-78d98805c4"
+   ],
+   "chars": 52
+  }
+ ],
+ "items": [
+  "rule-4dafbf1a",
+  "pt-330dbd039e",
+  "pt-291d7f4192",
+  "pt-22f0545f83",
+  "pt-0c3d0c39bd",
+  "pt-b95c24c7a9",
+  "pt-dedb2677fe",
+  "pt-ad5e52cda0",
+  "pt-010e3352f9",
+  "pt-81ecbbb959",
+  "pt-014c49af08",
+  "pt-9a5e246043",
+  "pt-b2cb497ade",
+  "pt-6cf0e657b6",
+  "pt-90dc610658",
+  "pt-8095dcf2fa",
+  "pt-80026decaa",
+  "pt-189055abd7",
+  "pt-eb4c6b619f",
+  "pt-58f18b20db",
+  "pt-1f826c53fa",
+  "pt-a870ad2258",
+  "pt-78d98805c4"
+ ],
+ "notes": [
+  "规则条 rule-4dafbf1a 无引文（文档级），列进首节（印发通知）。",
+  "原文页码行：第 1 行「- 1 -」、第 11 行「- 2 -」、第 33 行「- 3 -」、第 56 行「- 4 -」、第 79 行「- 5 -」，均已并入相邻节。",
+  "第 11 行页码与第 12 行办法标题、13–14 行制定依据合为一节（11–14），故该节 heading 用办法名。",
+  "首节标题原为竖排断行：「关于印发《中国传媒大学本专科学历、学位证书管理办法》」＋「的 通 知」，按去空白后逐字可查，标 author。",
+  "pt-014c49af08 的引文止于「（三）教务处应指定专人负责各类证书发放及办理学历学位」（55 行），跨页至 57 行「证明的工作。」，仍属第二条。",
+  "本文与 2eef4e84 为同一文本（逐字节一致），条目集不同。"
+ ]
+}

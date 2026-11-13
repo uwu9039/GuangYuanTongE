@@ -1,1 +1,78 @@
-ew0KICAia2V5IjogImQ5YTQyMjBjNGIiLA0KICAidGl0bGUiOiAi5Zu95pyJ6LWE5Lqn566h55CGIOS4reS8oOi1hOS6p+Wtl++8iGd6Yy5jdWPvvIkiLA0KICAidHJ1bmNhdGVkIjogZmFsc2UsDQogICJzZWN0aW9ucyI6IFsNCiAgICB7DQogICAgICAibm8iOiAi6IGM6LSj5LiAIiwNCiAgICAgICJoZWFkaW5nIjogIuWbveaciei1hOS6p+euoeeQhuWkhOS4u+imgeiBjOi0oyIsDQogICAgICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgICAgImxpbmVzIjogWw0KICAgICAgICAxLA0KICAgICAgICAxMg0KICAgICAgXSwNCiAgICAgICJpdGVtcyI6IFsNCiAgICAgICAgInJ1bGUtZDlhNDIyMGM0YiIsDQogICAgICAgICJwdC04YTNjYjU5MjM2IiwNCiAgICAgICAgInB0LWE3MWIzZTg5NTgiLA0KICAgICAgICAicHQtMTFlMjhkOTdjMyIsDQogICAgICAgICJwdC05NzcyM2Q3YTI3IiwNCiAgICAgICAgInB0LTNiOTk1NmY0NWQiLA0KICAgICAgICAicHQtNTQ0ZDcxOTBlZCIsDQogICAgICAgICJwdC00NjI3ZjdjYWQ0IiwNCiAgICAgICAgInB0LTA3ZGQ1NjZiOGMiLA0KICAgICAgICAicHQtMWJlNzBjMTc1ZiIsDQogICAgICAgICJwdC01M2NlZTY4NTVkIiwNCiAgICAgICAgInB0LTBkNzRhMDViZTQiLA0KICAgICAgICAicHQtMjlhYjYxMmUwNiINCiAgICAgIF0sDQogICAgICAiY2hhcnMiOiA4MTMNCiAgICB9LA0KICAgIHsNCiAgICAgICJubyI6ICLogYzotKPkuowiLA0KICAgICAgImhlYWRpbmciOiAi6YeH6LSt5LiO5oub5qCH566h55CG5Yqe5YWs5a6k5Li76KaB6IGM6LSjIiwNCiAgICAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAgICAibGluZXMiOiBbDQogICAgICAgIDEzLA0KICAgICAgICAxOQ0KICAgICAgXSwNCiAgICAgICJpdGVtcyI6IFsNCiAgICAgICAgInB0LTQ5NmEzMDJlZWUiLA0KICAgICAgICAicHQtZDE0ODQ0MmZlMyIsDQogICAgICAgICJwdC0wNmQxNTI4ODgzIiwNCiAgICAgICAgInB0LTU5ZTlhZjhlM2MiLA0KICAgICAgICAicHQtZWQzNGZlNGU3NCIsDQogICAgICAgICJwdC00NGUxYTM3NmFjIg0KICAgICAgXSwNCiAgICAgICJjaGFycyI6IDIwOA0KICAgIH0NCiAgXSwNCiAgIml0ZW1zIjogWw0KICAgICJydWxlLWQ5YTQyMjBjNGIiLA0KICAgICJwdC04YTNjYjU5MjM2IiwNCiAgICAicHQtYTcxYjNlODk1OCIsDQogICAgInB0LTExZTI4ZDk3YzMiLA0KICAgICJwdC05NzcyM2Q3YTI3IiwNCiAgICAicHQtM2I5OTU2ZjQ1ZCIsDQogICAgInB0LTU0NGQ3MTkwZWQiLA0KICAgICJwdC00NjI3ZjdjYWQ0IiwNCiAgICAicHQtMDdkZDU2NmI4YyIsDQogICAgInB0LTFiZTcwYzE3NWYiLA0KICAgICJwdC01M2NlZTY4NTVkIiwNCiAgICAicHQtMGQ3NGEwNWJlNCIsDQogICAgInB0LTI5YWI2MTJlMDYiLA0KICAgICJwdC00OTZhMzAyZWVlIiwNCiAgICAicHQtZDE0ODQ0MmZlMyIsDQogICAgInB0LTA2ZDE1Mjg4ODMiLA0KICAgICJwdC01OWU5YWY4ZTNjIiwNCiAgICAicHQtZWQzNGZlNGU3NCIsDQogICAgInB0LTQ0ZTFhMzc2YWMiDQogIF0sDQogICJub3RlcyI6IFsNCiAgICAicnVsZS1kOWE0MjIwYzRiIOS4uuaWh+aho+e6p+adoeebru+8iOaXoOW8leaWh++8ie+8jOW3suWIl+WFpeOAjOiBjOi0o+S4gOOAjeiKguW5tuS/neeVmeWcqOaWh+aho+e6pyBpdGVtcyDkuK3jgIIiLA0KICAgICLljp/mlofml6DmoIfpopjooYzjgIHml6DmnaHlj7fjgIHml6DlsI/moIfpopjvvJrlhajmlofnlLHkuKTmrrXjgIzDl8OX5piv4oCm4oCm5Li76KaB6IGM6LSj5Li677ya44CN55qE6IGM6LSj5riF5Y2V57uE5oiQ77yM5Lik6IqC55qE44CM6IGM6LSj5LiAL+iBjOi0o+S6jOOAjeS4uumhuuW6j+agh+WPt+OAgWhlYWRpbmcg5Li65qaC5ous77yIZGVyaXZlZO+8ieOAgiIsDQogICAgIue8luWPt+mHjeWkje+8muS4pOautea4heWNleWQhOiHquS7juOAjDHvvI7jgI3ph43mlrDotbfnrpfvvIjliY3ogIUgMeKAlDEy44CB5ZCO6ICFIDHigJQ177yJ77yM5ZCM5LiA5paH5Lu25YaF5Ye6546w5Lik57uE5ZCM5Y+35p2h55uu44CCIiwNCiAgICAicHQtNDk2YTMwMmVlZSDnmoTlvJXmlofot6jnrKwgMTPigJQxNCDooYzvvIjlm73otYTlpITnrKwgMTIg6aG55LiO6YeH5oub5Yqe5byV6KiA5ZCM5q6155u45o6l77yJ77yM5Li65L2/5byV5paH6JC95Zyo5Y2V5LiA6IqC5Yy66Ze05YaF77yM56ysIDEzIOihjOW5tuWFpeOAjOiBjOi0o+S6jOOAjeiKguWMuumXtO+8m+ivpeadoeWunumZheWQjOaXtuWxnuS6juWbvei1hOWkhOa4heWNleacq+mhue+8jOatpOWkhOaMieW8leaWh+iQveeCueW9kuexu+OAgiIsDQogICAgIuWOn+aWh+aXoOagh+mimO+8jHRpdGxlIOWPluiHqiBjb3JwdXMtaW5kZXgg6K6w5b2V5qCH6aKY44CM5Zu95pyJ6LWE5Lqn566h55CGIOS4reS8oOi1hOS6p+Wtl++8iGd6Yy5jdWPvvInjgI3vvJvmraPmlofkuKTmrrXmuIXljZXlrozmlbTvvIgx4oCUMTLjgIEx4oCUNe+8ie+8jOacquingeaIquaWreOAgiINCiAgXQ0KfQ0K
+{
+  "key": "d9a4220c4b",
+  "title": "国有资产管理 中传资产字（gzc.cuc）",
+  "truncated": false,
+  "sections": [
+    {
+      "no": "职责一",
+      "heading": "国有资产管理处主要职责",
+      "heading_kind": "derived",
+      "lines": [
+        1,
+        12
+      ],
+      "items": [
+        "rule-d9a4220c4b",
+        "pt-8a3cb59236",
+        "pt-a71b3e8958",
+        "pt-11e28d97c3",
+        "pt-97723d7a27",
+        "pt-3b9956f45d",
+        "pt-544d7190ed",
+        "pt-4627f7cad4",
+        "pt-07dd566b8c",
+        "pt-1be70c175f",
+        "pt-53cee6855d",
+        "pt-0d74a05be4",
+        "pt-29ab612e06"
+      ],
+      "chars": 813
+    },
+    {
+      "no": "职责二",
+      "heading": "采购与招标管理办公室主要职责",
+      "heading_kind": "derived",
+      "lines": [
+        13,
+        19
+      ],
+      "items": [
+        "pt-496a302eee",
+        "pt-d148442fe3",
+        "pt-06d1528883",
+        "pt-59e9af8e3c",
+        "pt-ed34fe4e74",
+        "pt-44e1a376ac"
+      ],
+      "chars": 208
+    }
+  ],
+  "items": [
+    "rule-d9a4220c4b",
+    "pt-8a3cb59236",
+    "pt-a71b3e8958",
+    "pt-11e28d97c3",
+    "pt-97723d7a27",
+    "pt-3b9956f45d",
+    "pt-544d7190ed",
+    "pt-4627f7cad4",
+    "pt-07dd566b8c",
+    "pt-1be70c175f",
+    "pt-53cee6855d",
+    "pt-0d74a05be4",
+    "pt-29ab612e06",
+    "pt-496a302eee",
+    "pt-d148442fe3",
+    "pt-06d1528883",
+    "pt-59e9af8e3c",
+    "pt-ed34fe4e74",
+    "pt-44e1a376ac"
+  ],
+  "notes": [
+    "rule-d9a4220c4b 为文档级条目（无引文），已列入「职责一」节并保留在文档级 items 中。",
+    "原文无标题行、无条号、无小标题：全文由两段「××是……主要职责为：」的职责清单组成，两节的「职责一/职责二」为顺序标号、heading 为概括（derived）。",
+    "编号重复：两段清单各自从「1．」重新起算（前者 1—12、后者 1—5），同一文件内出现两组同号条目。",
+    "pt-496a302eee 的引文跨第 13—14 行（国资处第 12 项与采招办引言同段相接），为使引文落在单一节区间内，第 13 行并入「职责二」节区间；该条实际同时属于国资处清单末项，此处按引文落点归类。",
+    "原文无标题，title 取自 corpus-index 记录标题「国有资产管理 中传资产字（gzc.cuc）」；正文两段清单完整（1—12、1—5），未见截断。"
+  ]
+}

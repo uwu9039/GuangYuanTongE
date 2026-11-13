@@ -1,1 +1,103 @@
-IiIi5a+55q+U5rWL6K+V77yaZGVuc2Ug5byA5YWz5a+55qOA57Si55qE5b2x5ZONICsg5aSN5ZCI6Zeu6aKY5Zyo44CM57u85ZCI5bGC5byAL+WFs+OAjeS4i+eahOihqOeOsOOAggoKICAgIHB5dGhvbiAtbSBfZXZhbC5sb2NhbF9jb21wYXJlICAgICAgICAgICAgICAgICAjIGRlbnNlIOWvueavlO+8iOW8leaTjuWGhe+8jOW/q++8iQogICAgcHl0aG9uIC1tIF9ldmFsLmxvY2FsX2NvbXBhcmUgLS1hc2sgICAgICAgICAgICMg5aSN5ZCI6Zeu6aKY77yI6LWw5pys5py6IHV2aWNvcm4g55qEIC9hcGkvYXNr77yM5Lya6LCD5qih5Z6L77yJCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQganNvbgppbXBvcnQgc3lzCmltcG9ydCB0aW1lCmltcG9ydCB1cmxsaWIuZXJyb3IKaW1wb3J0IHVybGxpYi5yZXF1ZXN0CmZyb20gdHlwaW5nIGltcG9ydCBBbnkKCkJBU0UgPSAiaHR0cDovLzEyNy4wLjAuMTo3ODYwIgoKIyDmiYvlhpnmlLnlhpnph4zjgIzor7Tms5Xlt67lvpfov5zjgI3nmoTlh6DnsbvvvJpkZW5zZSDnmoTmhI/kuYnlsLHlnKjov5nkupvlj6XlrZDkuIoKREVOU0VfQ0FTRVMgPSBbCiAgICAi5a2m55Sf5Y2h5Lif5LqG5Y675ZOq6IO95YGa5LiA5byg5paw55qEIiwKICAgICLpkqXljJnokL3lnKjlsYvph4zkuobmib7osIHlvIDpl6giLAogICAgIuW/g+aDheS4jeWlveaDs+aJvuS6uuiBiuiBiuWOu+WTqiIsCiAgICAi5pWZ5p2Q5LuA5LmI5pe25YCZ5Y+RIiwKICAgICLlnKjlrrbmgI7kuYjmn6XlrabmoKHkubDnmoTmlbDmja7lupMiLAogICAgIuW+gOWNoemHjOaJk+mSseS7juWTquS4quWFpeWPo+i/m+WOuyIsCl0KCiMg5aSN5ZCI6aKY77ya5Lik5Liq5a2Q6Zeu6aKY5Liy5Zyo5LiA5Y+l6YeM77yI6aKY5bqTIGNvbXBvdW5kMzAvY29tcG91bmQ5IOeahOWPo+W+hO+8iQpDT01QT1VORCA9IFsKICAgICLmjqjlhY3opoHmsYLorqHnrpfmnLrnrYnnuqfor4HkuablkJfvvJ/msqHov4fkvJrlvbHlk43miqXlkI3lkJfvvJ8iLAogICAgIuWbveWutuWlluWtpumHkeimgeaxguS9k+a1iyA4MCDliIblkJfvvJ/kvZPmtYvkuI3liLAgODAg6L+Y6IO955Sz6K+35ZCX77yfIiwKICAgICLorrDov4flpITliIbliLDmnJ/kuobvvIzog73or4TlpZblrabph5HlkJfvvJ/og73kv53noJTlkJfvvJ8iLAogICAgIuaIkemAieS6huW+ruS4k+S4mu+8jOS4u+S/ruivvuWGsueqgeS6hu+8jOiDvemAgOWQl++8jOmSsemAgOS4jemAgO+8nyIsCiAgICAi6L2s5LiT5Lia5ZCO77yM5oiR5LmL5YmN5L+u55qE6K++6L+Y566X5pWw5ZCX77yf5aWW5a2m6YeR6L+Y6IO955Sz6K+35ZCX77yfIiwKXQoKCmRlZiBfcG9zdChwYXRoOiBzdHIsIHBheWxvYWQ6IGRpY3Rbc3RyLCBBbnldLCB0aW1lb3V0OiBpbnQgPSAyNDApIC0+IGRpY3Rbc3RyLCBBbnldOgogICAgcmVxID0gdXJsbGliLnJlcXVlc3QuUmVxdWVzdCgKICAgICAgICBCQVNFICsgcGF0aCwgZGF0YT1qc29uLmR1bXBzKHBheWxvYWQpLmVuY29kZSgidXRmLTgiKSwKICAgICAgICBoZWFkZXJzPXsiQ29udGVudC1UeXBlIjogImFwcGxpY2F0aW9uL2pzb24ifSwgbWV0aG9kPSJQT1NUIikKICAgIHdpdGggdXJsbGliLnJlcXVlc3QudXJsb3BlbihyZXEsIHRpbWVvdXQ9dGltZW91dCkgYXMgcjoKICAgICAgICByZXR1cm4ganNvbi5sb2FkcyhyLnJlYWQoKS5kZWNvZGUoInV0Zi04IikpCgoKZGVmIGRlbnNlX2NvbXBhcmUoKSAtPiBOb25lOgogICAgZnJvbSByZXRyaWV2YWwgaW1wb3J0IEVuZ2luZQoKICAgIHByaW50KCI9PSBkZW5zZSDlhbMgLyDlvIDvvJrlkIzkuIDlj6XnmoQgdG9wMSDkuI7nva7kv6HluqYiKQogICAgZW5ncyA9IHsi5YWzIjogRW5naW5lLmxvYWQoKSwgIuW8gCI6IEVuZ2luZS5sb2FkKGRlbnNlPVRydWUpfQogICAgZm9yIHEgaW4gREVOU0VfQ0FTRVM6CiAgICAgICAgcm93ID0gW10KICAgICAgICBmb3IgdGFnLCBlbmcgaW4gZW5ncy5pdGVtcygpOgogICAgICAgICAgICB0MCA9IHRpbWUucGVyZl9jb3VudGVyKCkKICAgICAgICAgICAgcmVzID0gZW5nLnNlYXJjaChxLCBrPTEpCiAgICAgICAgICAgIG1zID0gKHRpbWUucGVyZl9jb3VudGVyKCkgLSB0MCkgKiAxMDAwCiAgICAgICAgICAgIHRpdGxlID0gcmVzLmJlc3QudGl0bGVbOjI0XSBpZiByZXMuYmVzdCBlbHNlICItIgogICAgICAgICAgICByb3cuYXBwZW5kKGYie3RhZ306IHt0aXRsZX0gKHtyZXMuYmVzdC5wcm9iOi4yZn0sIHttczouMGZ9bXMpIiBpZiByZXMuYmVzdAogICAgICAgICAgICAgICAgICAgICAgIGVsc2UgZiJ7dGFnfTog5ouS562UIikKICAgICAgICBwcmludChmIiAge3FbOjIyXToyNHN9IHwgIiArICIgfHwgIi5qb2luKHJvdykpCgoKZGVmIGFza19jb21wYXJlKCkgLT4gTm9uZToKICAgIHByaW50KCJcbj09IOWkjeWQiOmXrumimO+8mue7vOWQiOWxguWFsyAvIOW8gO+8iC9hcGkvYXNr77yM55yf5a6e5qih5Z6L77yJIikKICAgIGZvciBxIGluIENPTVBPVU5EOgogICAgICAgIGNlbGxzID0gW10KICAgICAgICBmb3IgdGFnLCBzeW50aCBpbiAoKCLlhbMiLCBGYWxzZSksICgi5byAIiwgVHJ1ZSkpOgogICAgICAgICAgICB0MCA9IHRpbWUucGVyZl9jb3VudGVyKCkKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgciA9IF9wb3N0KCIvYXBpL2FzayIsIHsidGV4dCI6IHEsICJyb3V0ZXJfbGxtIjogVHJ1ZSwgInN5bnRoIjogc3ludGh9KQogICAgICAgICAgICBleGNlcHQgdXJsbGliLmVycm9yLkhUVFBFcnJvciBhcyBlOgogICAgICAgICAgICAgICAgY2VsbHMuYXBwZW5kKGYie3RhZ306IEhUVFAge2UuY29kZX0iKQogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOiAgIyBub3FhOiBCTEUwMDEKICAgICAgICAgICAgICAgIGNlbGxzLmFwcGVuZChmInt0YWd9OiB7dHlwZShlKS5fX25hbWVfX30iKQogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgbXMgPSAodGltZS5wZXJmX2NvdW50ZXIoKSAtIHQwKSAqIDEwMDAKICAgICAgICAgICAgc3luID0gci5nZXQoInN5bnRoIikgb3Ige30KICAgICAgICAgICAgaWYgc3ludGggYW5kIHN5bjoKICAgICAgICAgICAgICAgIGxheWVycyA9IHN5bi5nZXQoImxheWVycyIpIG9yIFtdCiAgICAgICAgICAgICAgICB0YWxseTogZGljdFtzdHIsIGludF0gPSB7fQogICAgICAgICAgICAgICAgZm9yIEwgaW4gbGF5ZXJzOgogICAgICAgICAgICAgICAgICAgIHRhbGx5W0wuZ2V0KCJ2ZXJkaWN0Iikgb3IgIj8iXSA9IHRhbGx5LmdldChMLmdldCgidmVyZGljdCIpIG9yICI/IiwgMCkgKyAxCiAgICAgICAgICAgICAgICBib2R5ID0gKHN5bi5nZXQoImNvbmNsdXNpb24iKSBvciAiIikucmVwbGFjZSgiXG4iLCAiICIpCiAgICAgICAgICAgICAgICBjZWxscy5hcHBlbmQoZiJ7dGFnfToge21zLzEwMDA6LjFmfXMgcHJlbWlzZXM9e2xlbihzeW4uZ2V0KCdwcmVtaXNlcycpIG9yIFtdKX0gIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgIGYidmVyZGljdD17dGFsbHl9IHwge2JvZHlbOjEyMF19IikKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGJvZHkgPSAiICIuam9pbigocC5nZXQoInRleHQiKSBvciAiIikgZm9yIHAgaW4gKHIuZ2V0KCJhbnN3ZXJzIikgb3IgW10pKQogICAgICAgICAgICAgICAgY2VsbHMuYXBwZW5kKGYie3RhZ306IG1hdGNoZWQ9e3IuZ2V0KCdtYXRjaGVkJyl9IHttcy8xMDAwOi4xZn1zICIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmInwge2JvZHkucmVwbGFjZShjaHIoMTApLCAnICcpWzoxMTBdfSIpCiAgICAgICAgcHJpbnQoZiJcbiAgUToge3F9IikKICAgICAgICBmb3IgYyBpbiBjZWxsczoKICAgICAgICAgICAgcHJpbnQoZiIgICAge2N9IikKCgpkZWYgbWFpbigpIC0+IE5vbmU6CiAgICBpZiAiLS1hc2siIGluIHN5cy5hcmd2OgogICAgICAgIGFza19jb21wYXJlKCkKICAgIGVsc2U6CiAgICAgICAgZGVuc2VfY29tcGFyZSgpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+"""对比测试：dense 开关对检索的影响 + 复合问题在「综合层开/关」下的表现。
+
+    python -m _eval.local_compare                 # dense 对比（引擎内，快）
+    python -m _eval.local_compare --ask           # 复合问题（走本机 uvicorn 的 /api/ask，会调模型）
+"""
+from __future__ import annotations
+
+import json
+import sys
+import time
+import urllib.error
+import urllib.request
+from typing import Any
+
+BASE = "http://127.0.0.1:7860"
+
+# 手写改写里「说法差得远」的几类：dense 的意义就在这些句子上
+DENSE_CASES = [
+    "学生卡丟了去哪能做一张新的",
+    "钥匙落在屋里了找谁开门",
+    "心情不好想找人聊聊去哪",
+    "教材什么时候发",
+    "在家怎么查学校买的数据库",
+    "往卡里打钱从哪个入口进去",
+]
+
+# 复合题：两个子问题串在一句里（题库 compound30/compound9 的口径）
+COMPOUND = [
+    "推免要求计算机等级证书吗？没过会影响报名吗？",
+    "国家奖学金要求体测 80 分吗？体测不到 80 还能申请吗？",
+    "记过处分到期了，能评奖学金吗？能保研吗？",
+    "我选了微专业，主修课冲突了，能退吗，钱退不退？",
+    "转专业后，我之前修的课还算数吗？奖学金还能申请吗？",
+]
+
+
+def _post(path: str, payload: dict[str, Any], timeout: int = 240) -> dict[str, Any]:
+    req = urllib.request.Request(
+        BASE + path, data=json.dumps(payload).encode("utf-8"),
+        headers={"Content-Type": "application/json"}, method="POST")
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        return json.loads(r.read().decode("utf-8"))
+
+
+def dense_compare() -> None:
+    from retrieval import Engine
+
+    print("== dense 关 / 开：同一句的 top1 与置信度")
+    engs = {"关": Engine.load(), "开": Engine.load(dense=True)}
+    for q in DENSE_CASES:
+        row = []
+        for tag, eng in engs.items():
+            t0 = time.perf_counter()
+            res = eng.search(q, k=1)
+            ms = (time.perf_counter() - t0) * 1000
+            title = res.best.title[:24] if res.best else "-"
+            row.append(f"{tag}: {title} ({res.best.prob:.2f}, {ms:.0f}ms)" if res.best
+                       else f"{tag}: 拒答")
+        print(f"  {q[:22]:24s} | " + " || ".join(row))
+
+
+def ask_compare() -> None:
+    print("\n== 复合问题：综合层关 / 开（/api/ask，真实模型）")
+    for q in COMPOUND:
+        cells = []
+        for tag, synth in (("关", False), ("开", True)):
+            t0 = time.perf_counter()
+            try:
+                r = _post("/api/ask", {"text": q, "router_llm": True, "synth": synth})
+            except urllib.error.HTTPError as e:
+                cells.append(f"{tag}: HTTP {e.code}")
+                continue
+            except Exception as e:  # noqa: BLE001
+                cells.append(f"{tag}: {type(e).__name__}")
+                continue
+            ms = (time.perf_counter() - t0) * 1000
+            syn = r.get("synth") or {}
+            if synth and syn:
+                layers = syn.get("layers") or []
+                tally: dict[str, int] = {}
+                for L in layers:
+                    tally[L.get("verdict") or "?"] = tally.get(L.get("verdict") or "?", 0) + 1
+                body = (syn.get("conclusion") or "").replace("\n", " ")
+                cells.append(f"{tag}: {ms/1000:.1f}s premises={len(syn.get('premises') or [])} "
+                             f"verdict={tally} | {body[:120]}")
+            else:
+                body = " ".join((p.get("text") or "") for p in (r.get("answers") or []))
+                cells.append(f"{tag}: matched={r.get('matched')} {ms/1000:.1f}s "
+                             f"| {body.replace(chr(10), ' ')[:110]}")
+        print(f"\n  Q: {q}")
+        for c in cells:
+            print(f"    {c}")
+
+
+def main() -> None:
+    if "--ask" in sys.argv:
+        ask_compare()
+    else:
+        dense_compare()
+
+
+if __name__ == "__main__":
+    main()

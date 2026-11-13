@@ -1,1 +1,129 @@
-ewogImtleSI6ICIyMDIzMTExMC1jMTAyNjhhMjEzNjE3IiwKICJ0aXRsZSI6ICLmoKHlj4vov5TmoKHmjIfljZciLAogInRydW5jYXRlZCI6IGZhbHNlLAogInNlY3Rpb25zIjogWwogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIumhtemdouahhuaetu+8iOmhteWktOagh+mimOOAgeWFqOermeWvvOiIquS4juWPkeW4g+aXtumXtO+8iSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFsKICAgIDEsCiAgICA1MQogICBdLAogICAiaXRlbXMiOiBbCiAgICAicHQtNzI1NjRmODJmMSIKICAgXSwKICAgImNoYXJzIjogMTk3CiAgfSwKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLlr7zor63vvIjkuKrkurrvvI/pm4bkvZPkuKTnp43ov5TmoKHmg4XlvaLkuI7moKHlj4vnoIHvvIkiLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbCiAgICA1MywKICAgIDUzCiAgIF0sCiAgICJpdGVtcyI6IFsKICAgICJwdC1jMDU5YjAzNGU5IgogICBdLAogICAiY2hhcnMiOiA1NAogIH0sCiAgewogICAibm8iOiAiMS4iLAogICAiaGVhZGluZyI6ICIxLuS4quS6uui/lOagoSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWwogICAgNTUsCiAgICAxMDMKICAgXSwKICAgIml0ZW1zIjogWwogICAgInB0LWQxNWM3NjZmZGYiLAogICAgInB0LTU3NjcwZTQ4YzEiLAogICAgInB0LTA4Mzg1Yjk3NmUiLAogICAgInB0LTIxNjBiYWU4OTEiLAogICAgInB0LThkNDQxZjkzNGEiLAogICAgInB0LTdlZTdlY2ZlN2YiLAogICAgInB0LWFlOTViNjgyNjMiLAogICAgInB0LTIyZWFlZDUyNDAiLAogICAgInB0LTAwZmEyMzlmNTYiLAogICAgInB0LWZiNDViMjM0MmQiLAogICAgInB0LTA2MmZlZDQ2NWIiLAogICAgInB0LWZkYWZhODVkNzQiCiAgIF0sCiAgICJjaGFycyI6IDE4MjQKICB9LAogIHsKICAgIm5vIjogIjIuIiwKICAgImhlYWRpbmciOiAiMi7pm4bkvZPov5TmoKEiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsKICAgIDEwNSwKICAgIDEwNwogICBdLAogICAiaXRlbXMiOiBbCiAgICAicHQtOTBkOWY1MTEwMCIKICAgXSwKICAgImNoYXJzIjogNzgKICB9LAogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIumhteiEmu+8iOWcsOWdgOS4juWQhOexu+aKpeS/rueUteivne+8iSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFsKICAgIDEwOSwKICAgIDEzMwogICBdLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogMTQ4CiAgfSwKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLluLjnlKjpk77mjqXkuI7mqKHmnb/ljaDkvY0iLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbCiAgICAxMzUsCiAgICAxNTMKICAgXSwKICAgIml0ZW1zIjogW10sCiAgICJjaGFycyI6IDEwMgogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi54mI5p2D5L+h5oGv5LiO5rWP6KeI6YePIiwKICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwKICAgImxpbmVzIjogWwogICAgMTU1LAogICAgMTU3CiAgIF0sCiAgICJpdGVtcyI6IFtdLAogICAiY2hhcnMiOiAxMTMKICB9CiBdLAogIml0ZW1zIjogWwogICJwdC1jMDU5YjAzNGU5IiwKICAicHQtZDE1Yzc2NmZkZiIsCiAgInB0LTU3NjcwZTQ4YzEiLAogICJwdC0wODM4NWI5NzZlIiwKICAicHQtMjE2MGJhZTg5MSIsCiAgInB0LThkNDQxZjkzNGEiLAogICJwdC03ZWU3ZWNmZTdmIiwKICAicHQtYWU5NWI2ODI2MyIsCiAgInB0LTIyZWFlZDUyNDAiLAogICJwdC0wMGZhMjM5ZjU2IiwKICAicHQtZmI0NWIyMzQyZCIsCiAgInB0LTkwZDlmNTExMDAiLAogICJwdC03MjU2NGY4MmYxIiwKICAicHQtMDYyZmVkNDY1YiIsCiAgInB0LWZkYWZhODVkNzQiCiBdLAogIm5vdGVzIjogWwogICLnvZHpobXmir3lj5bku7bvvIzkuJQqKuavj+S4gOadoeato+aWh+ihjOWQjumdoumDvei3n+S4gOS4quepuuihjCoq77yI5rqQ5paHIDE1NyDooYzph4zov5HljYrmmK/nqbrooYzvvInvvIzmnKzntKLlvJXnmoTooYzlj7fmjIkgUHl0aG9uIOmAmueUqOaNouihjOWIh+WIhuWPo+W+hOWGme+8jOS4jua6kOaWh+ihjOWPt+S4gOS4gOWvueW6lOOAgiIsCiAgIuesrCAxIOihjOaYr+mhtemdouagh+mimO+8jOesrCAz4oCUNDUg6KGM5piv44CM5L+h5oGv5YyW5aSE44CN56uZ54K555qE5pW056uZ5a+86Iiq77yI5YWz5LqO5oiR5Lus77yP5L+h5oGv5YyW5pyN5Yqh77yPSVTmnI3liqHvvI/moKHlm63ljaHmnI3liqHvvI/kv6Hmga/ljJbpobnnm67vvI/mnI3liqHmjIfljZflpKflhajvvI/op4Tnq6DliLbluqbvvI/pgJrnn6XlhazlkYrvvI/nvZHnu5zlronlhajvvI/luK7liqnlj4rlkIToh6rkuoznuqfmoI/nm67vvIzmoI/nm67lkI3kuYvpl7TlpLnnqbrooYzvvInvvIznrKwgNDcg6KGM5piv5YiX6KGo6aG1IGJhbm5lciDlm77vvIznrKwgNDkg6KGM5q2j5paH5qCH6aKY5LiO56ysIDEg6KGM6YeN5aSN77yM56ysIDUxIOihjOOAjOWPkeW4g+aXtumXtO+8mjIwMjMtMTEtMTAg5rWP6KeI5qyh5pWw77yaNjk244CN77yb6L+Z5LiA5pW05q615bm25YWl44CM6aG16Z2i5qGG5p6244CN5LiA6IqC44CCIiwKICAi56ysIDUzIOihjOaYr+eLrOeri+aIkOauteeahOWvvOivre+8iOeCueWHuuOAjOS4quS6uui/lOagoe+8j+mbhuS9k+i/lOagoeS4pOenjeaDheWGteOAjeS4juagoeWPi+eggeOAgeaJq+eggei/m+WHuu+8ie+8jOWNleWIl+S4gOiKguOAgiIsCiAgIuato+aWh+WPquacieS4pOS4quecn+ato+eahOe8luWPt+Wwj+iKgu+8muesrCA1NSDooYzjgIwxLuS4quS6uui/lOagoeOAjeOAgeesrCAxMDUg6KGM44CMMi7pm4bkvZPov5TmoKHjgI3vvIzkuKTooYzpg73lnKjljp/mlofpgJDlrZflj6/mn6XvvIzorrAgYXV0aG9y44CCIiwKICAi56ysIDU3IOihjOOAjOeZu+W9leaWueW8j+S4gO+8muafpeivouWtpuW3peWPt+eZu+W9leOAjeaYr+S4quS6uui/lOagoeS4i+eahOatpemqpOagh+etvu+8jOS9huWFqOaWh+WPquacieOAjOaWueW8j+S4gOOAjeOAgeWFtuWQjueahOOAjOiLpeafpeivouS4jeWIsOWtpuW3peWPt++8jOWPr+mAmui/h+azqOWGjOWKn+iDveazqOWGjOiupOivgeOAje+8iOesrCA3NyDooYzvvInlubbmnKrmoIfjgIzmlrnlvI/kuozjgI3vvIzmjInmlrnlvI/kuIDvvI/kuozliIfliIblsZ7miJHoh4bmlq3vvIzmlYUqKuS4jeaLhuWtkOiKgioq77yM5pW05q6177yI56ysIDU14oCUMTAzIOihjO+8ieW5tuWFpeOAjDEu5Liq5Lq66L+U5qCh44CN77yb6K+l6IqC5YaF5ZCrIDEwIOWkhOWbvueJh+mZhOS7tuihjOS4juS4pOihjOmHjeWkjeWbvuazqOOAjEFQUOazqOWGjOeVjOmdouOAje+8iOesrCA4NeOAgTg3IOihjO+8ie+8jOS4jeWNleeLrOaIkOiKguOAgiIsCiAgIuesrCAxMDnigJQxMzMg6KGM5piv6aG16ISa55qE6IGU57O75pa55byP5Z2X77yI5L+h5oGv5YyW5aSE77yP5Zyw5Z2A77yP5pyN5Yqh5Lit5b+D77yP5Yqe5YWs5a6k5Y+K5a625bGe5Yy6572R57uc44CB5a625bGe5Yy65pyJ57q/55S16KeG44CB5a6/6IiN572R57uc44CB5qCh5Zut5Y2h5Y+K572R57uc55qE5oql5L+u55S16K+d77yJ77yM56ysIDEzNeKAlDE0NSDooYzmmK/jgIzluLjnlKjpk77mjqXjgI3moI/nm67vvIjmraPniYjova/ku7blubPlj7DvvI/ov5znqIvnlKjmiLfmjqXlhaXvvI/mlbDlrZfmoKHlm63vvI/orqHotLnns7vnu5/vvI/pgq7ku7bns7vnu5/vvInvvIznrKwgMTQ34oCUMTQ5IOihjOaYr+aooeadv+WNoOS9jeaui+eVmeOAjHvnvKnnlaXlm75944CN44CMe+agh+mimH3jgI3jgIHnrKwgMTUxIOihjOaYr+WbnuWIsOmhtumDqOWbvuOAgeesrCAxNTMg6KGM5q6L55WZ5rOo6YeK56ym44CMLS0+44CN77yM56ysIDE1NeKAlDE1NyDooYzmmK/niYjmnYPooYzkuI7mtY/op4jph4/mjqLpkojvvJvmjInjgIzpobXohJrvvI/luLjnlKjpk77mjqXkuI7ljaDkvY3vvI/niYjmnYPjgI3kuInoioLliIfvvIzlnYfkuI3mjILmnaHnm67jgIIiLAogICIxNSDkuKrmnaHnm67lhajmnInlvJXmlofkuJTpg73okL3lnKjmnKzmlofmraPmlofvvIzml6Dot6jmlofku7blvJXnlKjjgIHml6DmlofmoaPnuqcgcnVsZS0qIOadoeebru+8m+S4pOS4que8luWPt+Wwj+iKguS5i+WkluayoeacieWFtuS7luWwj+agh+mimO+8jG5vIOmZpOOAjDEu44CN44CMMi7jgI3lpJbkuIDlvovnlKjjgIzigJTjgI3jgIIiCiBdCn0K
+{
+ "key": "20231110-c10268a213617",
+ "title": "校友返校指南",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "页面框架（页头标题、全站导航与发布时间）",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    51
+   ],
+   "items": [
+    "pt-72564f82f1"
+   ],
+   "chars": 197
+  },
+  {
+   "no": "—",
+   "heading": "导语（个人／集体两种返校情形与校友码）",
+   "heading_kind": "derived",
+   "lines": [
+    53,
+    53
+   ],
+   "items": [
+    "pt-c059b034e9"
+   ],
+   "chars": 54
+  },
+  {
+   "no": "1.",
+   "heading": "1.个人返校",
+   "heading_kind": "author",
+   "lines": [
+    55,
+    103
+   ],
+   "items": [
+    "pt-d15c766fdf",
+    "pt-57670e48c1",
+    "pt-08385b976e",
+    "pt-2160bae891",
+    "pt-8d441f934a",
+    "pt-7ee7ecfe7f",
+    "pt-ae95b68263",
+    "pt-22eaed5240",
+    "pt-00fa239f56",
+    "pt-fb45b2342d",
+    "pt-062fed465b",
+    "pt-fdafa85d74"
+   ],
+   "chars": 1824
+  },
+  {
+   "no": "2.",
+   "heading": "2.集体返校",
+   "heading_kind": "author",
+   "lines": [
+    105,
+    107
+   ],
+   "items": [
+    "pt-90d9f51100"
+   ],
+   "chars": 78
+  },
+  {
+   "no": "—",
+   "heading": "页脚（地址与各类报修电话）",
+   "heading_kind": "derived",
+   "lines": [
+    109,
+    133
+   ],
+   "items": [],
+   "chars": 148
+  },
+  {
+   "no": "—",
+   "heading": "常用链接与模板占位",
+   "heading_kind": "derived",
+   "lines": [
+    135,
+    153
+   ],
+   "items": [],
+   "chars": 102
+  },
+  {
+   "no": "—",
+   "heading": "版权信息与浏览量",
+   "heading_kind": "derived",
+   "lines": [
+    155,
+    157
+   ],
+   "items": [],
+   "chars": 113
+  }
+ ],
+ "items": [
+  "pt-c059b034e9",
+  "pt-d15c766fdf",
+  "pt-57670e48c1",
+  "pt-08385b976e",
+  "pt-2160bae891",
+  "pt-8d441f934a",
+  "pt-7ee7ecfe7f",
+  "pt-ae95b68263",
+  "pt-22eaed5240",
+  "pt-00fa239f56",
+  "pt-fb45b2342d",
+  "pt-90d9f51100",
+  "pt-72564f82f1",
+  "pt-062fed465b",
+  "pt-fdafa85d74"
+ ],
+ "notes": [
+  "网页抽取件，且**每一条正文行后面都跟一个空行**（源文 157 行里近半是空行），本索引的行号按 Python 通用换行切分口径写，与源文行号一一对应。",
+  "第 1 行是页面标题，第 3—45 行是「信息化处」站点的整站导航（关于我们／信息化服务／IT服务／校园卡服务／信息化项目／服务指南大全／规章制度／通知公告／网络安全／帮助及各自二级栏目，栏目名之间夹空行），第 47 行是列表页 banner 图，第 49 行正文标题与第 1 行重复，第 51 行「发布时间：2023-11-10 浏览次数：696」；这一整段并入「页面框架」一节。",
+  "第 53 行是独立成段的导语（点出「个人返校／集体返校两种情况」与校友码、扫码进出），单列一节。",
+  "正文只有两个真正的编号小节：第 55 行「1.个人返校」、第 105 行「2.集体返校」，两行都在原文逐字可查，记 author。",
+  "第 57 行「登录方式一：查询学工号登录」是个人返校下的步骤标签，但全文只有「方式一」、其后的「若查询不到学工号，可通过注册功能注册认证」（第 77 行）并未标「方式二」，按方式一／二切分属我臆断，故**不拆子节**，整段（第 55—103 行）并入「1.个人返校」；该节内含 10 处图片附件行与两行重复图注「APP注册界面」（第 85、87 行），不单独成节。",
+  "第 109—133 行是页脚的联系方式块（信息化处／地址／服务中心／办公室及家属区网络、家属区有线电视、宿舍网络、校园卡及网络的报修电话），第 135—145 行是「常用链接」栏目（正版软件平台／远程用户接入／数字校园／计费系统／邮件系统），第 147—149 行是模板占位残留「{缩略图}」「{标题}」、第 151 行是回到顶部图、第 153 行残留注释符「-->」，第 155—157 行是版权行与浏览量探针；按「页脚／常用链接与占位／版权」三节切，均不挂条目。",
+  "15 个条目全有引文且都落在本文正文，无跨文件引用、无文档级 rule-* 条目；两个编号小节之外没有其他小标题，no 除「1.」「2.」外一律用「—」。"
+ ]
+}

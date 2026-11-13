@@ -1,1 +1,240 @@
-ew0KICJrZXkiOiAiNDA1YWZlNjEiLA0KICJ0aXRsZSI6ICLniankuJrmsLTmnKjnk6bnlLXmmpblpoLkvZXmiqXkv67vvJ8iLA0KICJ0cnVuY2F0ZWQiOiBmYWxzZSwNCiAic2VjdGlvbnMiOiBbDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi54mp5Lia5rC05pyo55Om55S15pqW5aaC5L2V5oql5L+u77yfIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxLA0KICAgIDUNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInJ1bGUtNDA1YWZlNjEiLA0KICAgICJwdC0yYTg4ZWExMTAwIiwNCiAgICAicHQtNDUzNmRlY2YxNSIsDQogICAgInB0LTJiNDAzNTNhOTMiLA0KICAgICJwdC04N2E5MWI3NzlkIg0KICAgXSwNCiAgICJjaGFycyI6IDEwOA0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuawtOeuoeeCuOS6huaJvuiwge+8jOWuv+iIjemXqOWdj+S6huOAgeWuv+iIjeepuuiwg+Wdj+S6huOAgemXqOmUgeWdj+S6huOAgeWuv+iIjeeBr+Wdj+S6huOAgeWuv+iIjea3i+a1tOS4jeWHuueDreawtOaAjuS5iOWKnu+8jOWmguS9leaKpeS/ru+8nyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNiwNCiAgICAxMQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMTZkNmYyY2YyNCINCiAgIF0sDQogICAiY2hhcnMiOiAxNDQNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLniankuJrmiqXkv67jgIHlkI7li6TmiqXkv67jgIHlrr/oiI3miqXkv64iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDEyLA0KICAgIDM2DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0xY2FkMDAzNDA5Ig0KICAgXSwNCiAgICJjaGFycyI6IDM2Mw0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIueJqeS4muaKpeS/ruacjeWKoeWGheWuuSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTMsDQogICAgMTUNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWI2YWVhYTYyZDYiDQogICBdLA0KICAgImNoYXJzIjogNDENCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLniankuJrmiqXkv67mnI3liqHlr7nosaEiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDE2LA0KICAgIDE3DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1mNGRkZGRmN2Q0Ig0KICAgXSwNCiAgICJjaGFycyI6IDI5DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi54mp5Lia5oql5L+u5Yqe55CG5pe26Ze0IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxOCwNCiAgICAxOQ0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTYNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLlpoLkvZXov5vooYzniankuJrmiqXkv64iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDIwLA0KICAgIDI5DQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAxMTUNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLmiqXkv67ms6jmhI/kuovpobkiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDMwLA0KICAgIDM2DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC03ZTc1N2VlMDMzIiwNCiAgICAicHQtMzMxOWYxNDdkZiIsDQogICAgInB0LWJlYWYwMWJhNjYiDQogICBdLA0KICAgImNoYXJzIjogMTQ4DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5qCh5Zut5Zy65Zyw55Sz6K+344CB5ZCO5Yuk57u85ZCI5a6h5om5IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzNywNCiAgICA3NQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNjEzMDczZTdlMiIsDQogICAgInB0LWZkNGQ3Y2ViOGMiDQogICBdLA0KICAgImNoYXJzIjogNzY5DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5ZCO5Yuk57u85ZCI5a6h5om55pyN5Yqh5YaF5a65IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzOCwNCiAgICA0NA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTEyDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5Lia5Yqh5Yqe55CG5pe26Ze0IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA0NSwNCiAgICA0Ng0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogOQ0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuagoeWbreWcuuWcsOeUs+ivt+OAgeWuoeaJuemhu+efpSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNDcsDQogICAgNTgNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTdjN2EyMjk1MzYiLA0KICAgICJwdC1iMzBlOWY1ZGVlIiwNCiAgICAicHQtNzQ4Yzg2ZmYyMyIsDQogICAgInB0LWI0MzU4YjM1YzUiLA0KICAgICJwdC1kMzYzOTI4YjJlIiwNCiAgICAicHQtODljYTFjZjU2YyIsDQogICAgInB0LTE5NjIyYmI1YTEiDQogICBdLA0KICAgImNoYXJzIjogMjU5DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi55Sz6K+35Y+K5a6h5om55rWB56iLIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1OSwNCiAgICA3NQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtYTZkNGM0MTBmMSIsDQogICAgInB0LTY0ZDU5ZTllMmMiLA0KICAgICJwdC1mYjdjZjc1NmZlIiwNCiAgICAicHQtMDNlOTEzZWVlMiIsDQogICAgInB0LWNiMGIxOTcyZGYiLA0KICAgICJwdC03MmE3YTBiY2QwIiwNCiAgICAicHQtY2Y1OTE0ZjViYyIsDQogICAgInB0LTdhZTQwMWJhZDkiLA0KICAgICJwdC05NTc5YzE4Y2UzIiwNCiAgICAicHQtNmE4ZTZhNzYwYyIsDQogICAgInB0LTg0ZWIwNTg4NDkiLA0KICAgICJwdC1jMDVhMDg1MDEwIiwNCiAgICAicHQtY2UwZWQzNjA2NCIsDQogICAgInB0LTdmMzk5M2RmZDEiDQogICBdLA0KICAgImNoYXJzIjogMzc2DQogIH0NCiBdLA0KICJpdGVtcyI6IFsNCiAgInJ1bGUtNDA1YWZlNjEiLA0KICAicHQtMmE4OGVhMTEwMCIsDQogICJwdC00NTM2ZGVjZjE1IiwNCiAgInB0LTE2ZDZmMmNmMjQiLA0KICAicHQtMWNhZDAwMzQwOSIsDQogICJwdC1iNmFlYWE2MmQ2IiwNCiAgInB0LWY0ZGRkZGY3ZDQiLA0KICAicHQtN2U3NTdlZTAzMyIsDQogICJwdC1iZWFmMDFiYTY2IiwNCiAgInB0LTYxMzA3M2U3ZTIiLA0KICAicHQtZmQ0ZDdjZWI4YyIsDQogICJwdC1iMzBlOWY1ZGVlIiwNCiAgInB0LTc0OGM4NmZmMjMiLA0KICAicHQtYjQzNThiMzVjNSIsDQogICJwdC1kMzYzOTI4YjJlIiwNCiAgInB0LTY0ZDU5ZTllMmMiLA0KICAicHQtZmI3Y2Y3NTZmZSIsDQogICJwdC0wM2U5MTNlZWUyIiwNCiAgInB0LWNiMGIxOTcyZGYiLA0KICAicHQtNzJhN2EwYmNkMCIsDQogICJwdC03YWU0MDFiYWQ5IiwNCiAgInB0LTk1NzljMThjZTMiLA0KICAicHQtNmE4ZTZhNzYwYyIsDQogICJwdC04NGViMDU4ODQ5IiwNCiAgInB0LWMwNWEwODUwMTAiLA0KICAicHQtY2UwZWQzNjA2NCIsDQogICJwdC03YzdhMjI5NTM2IiwNCiAgInB0LTg5Y2ExY2Y1NmMiLA0KICAicHQtMmI0MDM1M2E5MyIsDQogICJwdC04N2E5MWI3NzlkIiwNCiAgInB0LTMzMTlmMTQ3ZGYiLA0KICAicHQtMTk2MjJiYjVhMSIsDQogICJwdC1hNmQ0YzQxMGYxIiwNCiAgInB0LWNmNTkxNGY1YmMiLA0KICAicHQtN2YzOTkzZGZkMSINCiBdLA0KICJub3RlcyI6IFsNCiAgIuefpeivhuW6k+WvvOWHuuaWh+acrO+8iOWOnyBkb2N444CM55+l6K+G5bqTLeagoeWbreeuoeeQhuS4reW/g+OAje+8ie+8jOesrCAxIOihjOS4juesrCA2IOihjOaYr+S4pOadoemXruetlOW8j+agh+mimO+8iOesrOS6jOadoeeahOetlOahiOS4juesrOS4gOadoeWujOWFqOmHjeWkje+8ie+8jOWFtuWQjuaYr+S4pOS4quWkp+exu++8muOAjOeJqeS4muaKpeS/ruOAgeWQjuWLpOaKpeS/ruOAgeWuv+iIjeaKpeS/ruOAje+8iOesrCAxMiDooYzvvInkuI7jgIzmoKHlm63lnLrlnLDnlLPor7fjgIHlkI7li6Tnu7zlkIjlrqHmibnjgI3vvIjnrKwgMzcg6KGM77yJ44CCIiwNCiAgIuWFqOaWh+ayoeacieOAjOesrFjmnaHjgI3nvJblj7fvvIzkvYblkITlsI/oioLmoIfpopjpg73mmK/ljp/mlofljZXni6zmiJDooYznmoTnn63lj6XvvIjnrKwgMTLjgIExM+OAgTE244CBMTjjgIEyMOOAgTMw44CBMzfjgIEzOOOAgTQ144CBNDfjgIE1OSDooYzvvInvvIxoZWFkaW5nIOS4juWOn+aWh+mAkOWtl+S4gOiHtO+8jOaVheS4gOW+i+aghyBhdXRob3LvvJtgbm9gIOS4gOW+i+eUqOOAjOKAlOOAje+8iOWOn+aWh+ayoeaciee8luWPt++8ieOAgiIsDQogICLkuKTkuKrlpKfnsbvooYzmmK/niLboioLvvJrjgIzniankuJrmiqXkv67jgIHlkI7li6TmiqXkv67jgIHlrr/oiI3miqXkv67jgI3vvIjnrKwgMTLigJMzNiDooYzvvInljIXkvY/mnI3liqHlhoXlrrnvvI/mnI3liqHlr7nosaHvvI/lip7nkIbml7bpl7TvvI/lpoLkvZXov5vooYzvvI/miqXkv67ms6jmhI/kuovpobnkupToioLvvJvjgIzmoKHlm63lnLrlnLDnlLPor7fjgIHlkI7li6Tnu7zlkIjlrqHmibnjgI3vvIjnrKwgMzfigJM3NSDooYzvvInljIXkvY/mnI3liqHlhoXlrrnvvI/kuJrliqHlip7nkIbml7bpl7TvvI/lrqHmibnpobvnn6XvvI/nlLPor7flj4rlrqHmibnmtYHnqIvlm5voioLvvIzlnYfkuLrnnJ/ltYzlpZfjgIIiLA0KICAicHQtMWNhZDAwMzQwOe+8iOW8leaWh+OAjOeJqeS4muaKpeS/ruOAgeWQjuWLpOaKpeS/ruOAgeWuv+iIjeaKpeS/rueJqeS4muaKpeS/ruacjeWKoeWGheWuueawtOacqOeTpueUteaalueahOaXpeW4uOaKpeS/ruOAguOAje+8ieS4jiBwdC02MTMwNzNlN2Uy44CBcHQtZmQ0ZDdjZWI4YyDnmoTlvJXmlofpg73ot6jkuobniLboioLmoIfpopjooYzkuI7ntKfmjqXnmoTlrZDoioLmoIfpopjooYzvvIzlj6rog73okL3lnKjniLboioLvvIzmnKrloZ7ov5vlrZDoioLjgIIiLA0KICAi44CM5oql5L+u5rOo5oSP5LqL6aG544CN5LiA6IqC5ZCr56ysIDM2IOihjOeahOOAjOaKpeS/rui/m+W6puWPr+S7pemAmui/h+OAjuaKpeS/rui/m+W6puafpeivouOAj+iOt+WPlui/m+W6puOAguOAje+8iOWOn+aWh+WNs+aOpeWcqOazqOaEj+S6i+mhueS5i+WQju+8jOacquWPpuiuvuagh+mimO+8ieOAgiIsDQogICLop4TliJnmnaHnm64gcnVsZS00MDVhZmU2MSDmmK/mlofmoaPnuqfmnaHnm67vvIjml6DlvJXmlofvvInvvIzliJflnKjnrKzkuIDooYzpgqPmnaHpl67nrZToioLph4zjgIIiLA0KICAi5Y6f5paH5oq95Y+W5pyJ5o6S54mI5q6L55WZ77ya56ysIDI44oCTMjnjgIE1NyDooYzmmK/lj6rliannqbrmoLznmoTooYzvvJvnrKwgNDPigJM0NCDooYzjgIzigKblj6rog73pgJrov4fnlLXohJHnq6/nlLPor7fvvIzmlK/mjIHmiYvmnLrnq6/lrqHmibnjgI3ooqvmipjooYzmi4bmlq3vvIjjgIzlrqHjgI3lnKjnrKwgNDMg6KGM5pyr44CB44CM5om544CC44CN5Zyo56ysIDQ0IOihjO+8ie+8m+esrCA2NeKAkzY4IOihjOOAjDUu5raJIOWPiuWIsOS4tOaXtiDmjqUg55S1IOaIliDmjqUg5rC0IOeahCDigKbjgI3lrZfpl7TlpLnkuoblpJrkvZnnqbrmoLzvvIjlvJXmlofmr5Tlr7nmjInljrvnqbrnmb3lj6PlvoTku43lj6/lkb3kuK3vvInjgIIiDQogXQ0KfQ0K
+{
+ "key": "405afe61",
+ "title": "物业水木瓦电暖如何报修？",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "物业水木瓦电暖如何报修？",
+   "heading_kind": "author",
+   "lines": [
+    1,
+    5
+   ],
+   "items": [
+    "rule-405afe61",
+    "pt-2a88ea1100",
+    "pt-4536decf15",
+    "pt-2b40353a93",
+    "pt-87a91b779d"
+   ],
+   "chars": 108
+  },
+  {
+   "no": "—",
+   "heading": "水管炸了找谁，宿舍门坏了、宿舍空调坏了、门锁坏了、宿舍灯坏了、宿舍淋浴不出热水怎么办，如何报修？",
+   "heading_kind": "author",
+   "lines": [
+    6,
+    11
+   ],
+   "items": [
+    "pt-16d6f2cf24"
+   ],
+   "chars": 144
+  },
+  {
+   "no": "—",
+   "heading": "物业报修、后勤报修、宿舍报修",
+   "heading_kind": "author",
+   "lines": [
+    12,
+    36
+   ],
+   "items": [
+    "pt-1cad003409"
+   ],
+   "chars": 363
+  },
+  {
+   "no": "—",
+   "heading": "物业报修服务内容",
+   "heading_kind": "author",
+   "lines": [
+    13,
+    15
+   ],
+   "items": [
+    "pt-b6aeaa62d6"
+   ],
+   "chars": 41
+  },
+  {
+   "no": "—",
+   "heading": "物业报修服务对象",
+   "heading_kind": "author",
+   "lines": [
+    16,
+    17
+   ],
+   "items": [
+    "pt-f4ddddf7d4"
+   ],
+   "chars": 29
+  },
+  {
+   "no": "—",
+   "heading": "物业报修办理时间",
+   "heading_kind": "author",
+   "lines": [
+    18,
+    19
+   ],
+   "items": [],
+   "chars": 16
+  },
+  {
+   "no": "—",
+   "heading": "如何进行物业报修",
+   "heading_kind": "author",
+   "lines": [
+    20,
+    29
+   ],
+   "items": [],
+   "chars": 115
+  },
+  {
+   "no": "—",
+   "heading": "报修注意事项",
+   "heading_kind": "author",
+   "lines": [
+    30,
+    36
+   ],
+   "items": [
+    "pt-7e757ee033",
+    "pt-3319f147df",
+    "pt-beaf01ba66"
+   ],
+   "chars": 148
+  },
+  {
+   "no": "—",
+   "heading": "校园场地申请、后勤综合审批",
+   "heading_kind": "author",
+   "lines": [
+    37,
+    75
+   ],
+   "items": [
+    "pt-613073e7e2",
+    "pt-fd4d7ceb8c"
+   ],
+   "chars": 769
+  },
+  {
+   "no": "—",
+   "heading": "后勤综合审批服务内容",
+   "heading_kind": "author",
+   "lines": [
+    38,
+    44
+   ],
+   "items": [],
+   "chars": 112
+  },
+  {
+   "no": "—",
+   "heading": "业务办理时间",
+   "heading_kind": "author",
+   "lines": [
+    45,
+    46
+   ],
+   "items": [],
+   "chars": 9
+  },
+  {
+   "no": "—",
+   "heading": "校园场地申请、审批须知",
+   "heading_kind": "author",
+   "lines": [
+    47,
+    58
+   ],
+   "items": [
+    "pt-7c7a229536",
+    "pt-b30e9f5dee",
+    "pt-748c86ff23",
+    "pt-b4358b35c5",
+    "pt-d363928b2e",
+    "pt-89ca1cf56c",
+    "pt-19622bb5a1"
+   ],
+   "chars": 259
+  },
+  {
+   "no": "—",
+   "heading": "申请及审批流程",
+   "heading_kind": "author",
+   "lines": [
+    59,
+    75
+   ],
+   "items": [
+    "pt-a6d4c410f1",
+    "pt-64d59e9e2c",
+    "pt-fb7cf756fe",
+    "pt-03e913eee2",
+    "pt-cb0b1972df",
+    "pt-72a7a0bcd0",
+    "pt-cf5914f5bc",
+    "pt-7ae401bad9",
+    "pt-9579c18ce3",
+    "pt-6a8e6a760c",
+    "pt-84eb058849",
+    "pt-c05a085010",
+    "pt-ce0ed36064",
+    "pt-7f3993dfd1"
+   ],
+   "chars": 376
+  }
+ ],
+ "items": [
+  "rule-405afe61",
+  "pt-2a88ea1100",
+  "pt-4536decf15",
+  "pt-16d6f2cf24",
+  "pt-1cad003409",
+  "pt-b6aeaa62d6",
+  "pt-f4ddddf7d4",
+  "pt-7e757ee033",
+  "pt-beaf01ba66",
+  "pt-613073e7e2",
+  "pt-fd4d7ceb8c",
+  "pt-b30e9f5dee",
+  "pt-748c86ff23",
+  "pt-b4358b35c5",
+  "pt-d363928b2e",
+  "pt-64d59e9e2c",
+  "pt-fb7cf756fe",
+  "pt-03e913eee2",
+  "pt-cb0b1972df",
+  "pt-72a7a0bcd0",
+  "pt-7ae401bad9",
+  "pt-9579c18ce3",
+  "pt-6a8e6a760c",
+  "pt-84eb058849",
+  "pt-c05a085010",
+  "pt-ce0ed36064",
+  "pt-7c7a229536",
+  "pt-89ca1cf56c",
+  "pt-2b40353a93",
+  "pt-87a91b779d",
+  "pt-3319f147df",
+  "pt-19622bb5a1",
+  "pt-a6d4c410f1",
+  "pt-cf5914f5bc",
+  "pt-7f3993dfd1"
+ ],
+ "notes": [
+  "知识库导出文本（原 docx「知识库-校园管理中心」），第 1 行与第 6 行是两条问答式标题（第二条的答案与第一条完全重复），其后是两个大类：「物业报修、后勤报修、宿舍报修」（第 12 行）与「校园场地申请、后勤综合审批」（第 37 行）。",
+  "全文没有「第X条」编号，但各小节标题都是原文单独成行的短句（第 12、13、16、18、20、30、37、38、45、47、59 行），heading 与原文逐字一致，故一律标 author；`no` 一律用「—」（原文没有编号）。",
+  "两个大类行是父节：「物业报修、后勤报修、宿舍报修」（第 12–36 行）包住服务内容／服务对象／办理时间／如何进行／报修注意事项五节；「校园场地申请、后勤综合审批」（第 37–75 行）包住服务内容／业务办理时间／审批须知／申请及审批流程四节，均为真嵌套。",
+  "pt-1cad003409（引文「物业报修、后勤报修、宿舍报修物业报修服务内容水木瓦电暖的日常报修。」）与 pt-613073e7e2、pt-fd4d7ceb8c 的引文都跨了父节标题行与紧接的子节标题行，只能落在父节，未塞进子节。",
+  "「报修注意事项」一节含第 36 行的「报修进度可以通过『报修进度查询』获取进度。」（原文即接在注意事项之后，未另设标题）。",
+  "规则条目 rule-405afe61 是文档级条目（无引文），列在第一行那条问答节里。",
+  "原文抽取有排版残留：第 28–29、57 行是只剩空格的行；第 43–44 行「…只能通过电脑端申请，支持手机端审批」被折行拆断（「审」在第 43 行末、「批。」在第 44 行）；第 65–68 行「5.涉 及到临时 接 电 或 接 水 的 …」字间夹了多余空格（引文比对按去空白口径仍可命中）。"
+ ]
+}

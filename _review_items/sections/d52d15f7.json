@@ -1,1 +1,60 @@
-ew0KICJrZXkiOiAiZDUyZDE1ZjciLA0KICJ0aXRsZSI6ICLmoKHlpJYgVlBOIOS9v+eUqOivtOaYjiIsDQogInRydW5jYXRlZCI6IHRydWUsDQogInNlY3Rpb25zIjogWw0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuacjeWKoeeugOS7i+S4juaUr+aMgee7iOerryIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDEsDQogICAgOQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAid2QtZDUyZDE1ZjciDQogICBdLA0KICAgImNoYXJzIjogMTk4DQogIH0sDQogIHsNCiAgICJubyI6ICJTU0xWUE4iLA0KICAgImhlYWRpbmciOiAiU1NMVlBOIOS9v+eUqOatpemqpCIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDEwLA0KICAgIDIwDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAyNjQNCiAgfSwNCiAgew0KICAgIm5vIjogIuatpemqpOS4gCIsDQogICAiaGVhZGluZyI6ICLkuIvovb3lubblronoo4XlrqLmiLfnq68iLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMSwNCiAgICAxNQ0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTM3DQogIH0sDQogIHsNCiAgICJubyI6ICLmraXpqqTkuowiLA0KICAgImhlYWRpbmciOiAi5aGr5YaZ5pyN5Yqh5Zmo5Zyw5Z2A5bm255m75b2VIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMTYsDQogICAgMjANCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDEyMQ0KICB9DQogXSwNCiAiaXRlbXMiOiBbDQogICJ3ZC1kNTJkMTVmNyINCiBdLA0KICJub3RlcyI6IFsNCiAgIuato+aWh+aIquiHsyA1MDcg5a2X77yM5YW25ZCO56ug6IqC5pyq6KeB44CC566A5LuL56ew44CM5o+Q5L6b5LqG5Lik56eN5qCh5aSWIFZQTiDlhY3otLnorr/pl67mnI3liqHvvJpTU0xWUE4g5ZKMIFdlYlZQTuOAje+8jOS9huaKveWPluWIsOeahOato+aWh+WPquaciSBTU0xWUE4g55qE5q2l6aqk5LiA44CB5q2l6aqk5LqM77yMV2ViVlBOIOmDqOWIhuS7peWPiuWQjue7reatpemqpOacquinge+8iGluZGV4Lmpzb24g6K6wIHRleHRfZnJvbT3kuIrmuLjmir3lj5bvvIjlj6/og73miKrmlq3vvInvvInjgIIiLA0KICAi5Y6f5paH5rKh5pyJ56ug5Y+344CB5p2h5Y+377yM5Lmf5rKh5pyJ5bCP5qCH6aKY77yM5Y+q5pyJ44CMU1NMVlBO44CN44CM5q2l6aqk5LiA44CN44CM5q2l6aqk5LqM44CN5LiJ5Liq5bGC57qn5qCH6K6w77yb56ysIDHjgIEzIOihjOaYr+mHjeWkjeeahOaWh+S7tuWQjS/moIfpopjooYzjgIIiDQogXQ0KfQ0K
+{
+ "key": "d52d15f7",
+ "title": "校外 VPN 使用说明",
+ "truncated": true,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "服务简介与支持终端",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    9
+   ],
+   "items": [
+    "wd-d52d15f7"
+   ],
+   "chars": 198
+  },
+  {
+   "no": "SSLVPN",
+   "heading": "SSLVPN 使用步骤",
+   "heading_kind": "derived",
+   "lines": [
+    10,
+    20
+   ],
+   "items": [],
+   "chars": 264
+  },
+  {
+   "no": "步骤一",
+   "heading": "下载并安装客户端",
+   "heading_kind": "derived",
+   "lines": [
+    11,
+    15
+   ],
+   "items": [],
+   "chars": 137
+  },
+  {
+   "no": "步骤二",
+   "heading": "填写服务器地址并登录",
+   "heading_kind": "derived",
+   "lines": [
+    16,
+    20
+   ],
+   "items": [],
+   "chars": 121
+  }
+ ],
+ "items": [
+  "wd-d52d15f7"
+ ],
+ "notes": [
+  "正文截至 507 字，其后章节未见。简介称「提供了两种校外 VPN 免费访问服务：SSLVPN 和 WebVPN」，但抽取到的正文只有 SSLVPN 的步骤一、步骤二，WebVPN 部分以及后续步骤未见（index.json 记 text_from=上游抽取（可能截断））。",
+  "原文没有章号、条号，也没有小标题，只有「SSLVPN」「步骤一」「步骤二」三个层级标记；第 1、3 行是重复的文件名/标题行。"
+ ]
+}

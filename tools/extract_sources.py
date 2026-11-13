@@ -1,1 +1,173 @@
-IiIi5oqK6ZqP5YyF55qEIHNvdXJjZXMtYXJjaGl2ZS50YXIuZ3og6Kej5YiwIHNvdXJjZXMv77yI5LqR56uv6YOo572y56ys5LiA5q2l77yM5bmC562J77yJ44CCCgrnlKjms5XvvJoKICAgIHB5dGhvbiB0b29scy9leHRyYWN0X3NvdXJjZXMucHkgICAgICAgICAgICAgICAgIyDlj6rooaXnvLrvvIzlt7LlrZjlnKjnmoTlkIzlkI3lkIzlpKflsI/mlofku7bot7Pov4cKICAgIHB5dGhvbiB0b29scy9leHRyYWN0X3NvdXJjZXMucHkgLS1yZWJ1aWxkICAgICAgIyDlhajpg6jph43mir3vvIzlubbliKDmjonlvZLmoaPph4zmsqHmnInnmoTmraPmlofmrovnlZkKICAgIHB5dGhvbiB0b29scy9leHRyYWN0X3NvdXJjZXMucHkgLS12ZXJpZnkgICAgICAgIyDlj6rmoLjlr7nkuI3mir0KCuWuieWFqO+8muS4jeinoyB6aXAvcmFy77yM6YCQ5oiQ5ZGY5qCh6aqM5b2S5LiA5YyW6Lev5b6E77yI5oyh6Lev5b6E56m/6LaK5LiO57ud5a+56Lev5b6E77yJ77yM5Y2V5Liq5Z2P5oiQ5ZGY6Lez6L+H5LiN5Lit5pat44CCCiIiIgpmcm9tIF9fZnV0dXJlX18gaW1wb3J0IGFubm90YXRpb25zCgppbXBvcnQgYXJncGFyc2UKaW1wb3J0IGhhc2hsaWIKaW1wb3J0IGpzb24KaW1wb3J0IHN5cwppbXBvcnQgdGFyZmlsZQpmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgKClJPT1QgPSBQYXRoKF9fZmlsZV9fKS5yZXNvbHZlKCkucGFyZW50LnBhcmVudApTUkMgPSBST09UIC8gInNvdXJjZXMiCkFSQ0ggPSBTUkMgLyAic291cmNlcy1hcmNoaXZlLnRhci5neiIKUk9PVF9BUkNIID0gUk9PVCAvICJzb3VyY2VzLWFyY2hpdmUudGFyLmd6IgpCSU5fQVJDSCA9IFJPT1QgLyAic291cmNlcy1iaW5hcmllcy50YXIuZ3oiClNUQU1QID0gU1JDIC8gIi5leHRyYWN0LXN0YW1wIgpEQU5HRVJfU1VGRklYID0geyIuemlwIiwgIi5yYXIiLCAiLjd6In0KCgpkZWYgX2FyY2hpdmUoKSAtPiBQYXRoIHwgTm9uZToKICAgIGZvciBwIGluIChBUkNILCBST09UX0FSQ0gpOgogICAgICAgIGlmIHAuZXhpc3RzKCk6CiAgICAgICAgICAgIHJldHVybiBwCiAgICByZXR1cm4gTm9uZQoKCmRlZiBfc2FmZV9tZW1iZXIobmFtZTogc3RyKSAtPiBzdHIgfCBOb25lOgogICAgIiIi5b2S5qGj5YaF6Lev5b6E57uf5LiA5oiQIHNvdXJjZXMvIOS4i+eahOebuOWvuei3r+W+hO+8jOi2iueVjOeahOi/lOWbniBOb25l44CCIiIiCiAgICBwYXJ0cyA9IFtzZWcgZm9yIHNlZyBpbiBuYW1lLnJlcGxhY2UoIlxcIiwgIi8iKS5zcGxpdCgiLyIpIGlmIHNlZyBub3QgaW4gKCIiLCAiLiIpXQogICAgaWYgbm90IHBhcnRzIG9yICIuLiIgaW4gcGFydHMgb3IgbmFtZS5zdGFydHN3aXRoKCgiLyIsICJcXCIpKSBvciAiOiIgaW4gcGFydHNbMF06CiAgICAgICAgcmV0dXJuIE5vbmUKICAgIGlmIHBhcnRzWzBdID09ICJzb3VyY2VzIjoKICAgICAgICBwYXJ0cyA9IHBhcnRzWzE6XQogICAgaWYgbm90IHBhcnRzOgogICAgICAgIHJldHVybiBOb25lCiAgICByZXR1cm4gIi8iLmpvaW4ocGFydHMpCgoKZGVmIF9za2lwX2V4aXN0aW5nKHRmOiB0YXJmaWxlLlRhckZpbGUpIC0+IGludDoKICAgIHNraXBwZWQgPSAwCiAgICBmb3IgbSBpbiB0Zi5nZXRtZW1iZXJzKCk6CiAgICAgICAgaWYgbm90IG0uaXNmaWxlKCk6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgcmVsID0gX3NhZmVfbWVtYmVyKG0ubmFtZSkKICAgICAgICBpZiByZWwgaXMgTm9uZToKICAgICAgICAgICAgcHJpbnQoZiLot7Pov4fotornlYzmiJDlkZjvvJp7bS5uYW1lfSIpCiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgaWYgbS5uYW1lLmxvd2VyKCkuZW5kc3dpdGgodHVwbGUoREFOR0VSX1NVRkZJWCkpOgogICAgICAgICAgICBwcmludChmIui3s+i/h+S4jeino+WOi++8mnttLm5hbWV977yI5b2S5qGj5bey5o6S6Zmk5Y6L57yp5YyF77yJIikKICAgICAgICAgICAgY29udGludWUKICAgICAgICBkc3QgPSBTUkMgLyByZWwKICAgICAgICBpZiBkc3QuZXhpc3RzKCkgYW5kIGRzdC5zdGF0KCkuc3Rfc2l6ZSA9PSBtLnNpemU6CiAgICAgICAgICAgIHNraXBwZWQgKz0gMQogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGRzdC5wYXJlbnQubWtkaXIocGFyZW50cz1UcnVlLCBleGlzdF9vaz1UcnVlKQogICAgICAgIHNyYyA9IHRmLmV4dHJhY3RmaWxlKG0pCiAgICAgICAgaWYgc3JjIGlzIE5vbmU6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgZHN0LndyaXRlX2J5dGVzKHNyYy5yZWFkKCkpCiAgICByZXR1cm4gc2tpcHBlZAoKCmRlZiBfZHJvcF9zdGFsZSh0ZjogdGFyZmlsZS5UYXJGaWxlKSAtPiBpbnQ6CiAgICAiIiItLXJlYnVpbGQg5pe25riF5o6J5LiN5Zyo5b2S5qGj6YeM55qE5pen5q2j5paH77yM5YWN5b6X5pS55a6M5YyF5rKh5o2i5bmy5YeA44CCIiIiCiAgICB3YW50ID0gc2V0KCkKICAgIGZvciBtIGluIHRmLmdldG1lbWJlcnMoKToKICAgICAgICBpZiBtLmlzZmlsZSgpOgogICAgICAgICAgICByZWwgPSBfc2FmZV9tZW1iZXIobS5uYW1lKQogICAgICAgICAgICBpZiByZWw6CiAgICAgICAgICAgICAgICB3YW50LmFkZChyZWwubG93ZXIoKSkKICAgIHJlbW92ZWQgPSAwCiAgICBmb3IgcCBpbiBsaXN0KFNSQy5yZ2xvYigiKiIpKToKICAgICAgICBpZiBub3QgcC5pc19maWxlKCk6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgcmVsID0gcC5yZWxhdGl2ZV90byhTUkMpLmFzX3Bvc2l4KCkubG93ZXIoKQogICAgICAgIGlmIHJlbCBpbiAoInNvdXJjZXMtYXJjaGl2ZS50YXIuZ3oiLCAic291cmNlcy1iaW5hcmllcy50YXIuZ3oiLCAiLmV4dHJhY3Qtc3RhbXAiKToKICAgICAgICAgICAgY29udGludWUKICAgICAgICBpZiAiYXR0YWNobWVudHMvZmlsZXMvIiBpbiByZWwgb3IgImxvY2FsL19maWxlcy8iIGluIHJlbCBvciByZWwuc3RhcnRzd2l0aCgidmVjdG9yLyIpOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGlmIHJlbCBub3QgaW4gd2FudDoKICAgICAgICAgICAgcC51bmxpbmsoKQogICAgICAgICAgICByZW1vdmVkICs9IDEKICAgIHJldHVybiByZW1vdmVkCgoKZGVmIGV4dHJhY3QocmVidWlsZDogYm9vbCA9IEZhbHNlKSAtPiBpbnQ6CiAgICBhcmNoID0gX2FyY2hpdmUoKQogICAgaWYgYXJjaCBpcyBOb25lOgogICAgICAgIHByaW50KCLmsqHmib7liLAgc291cmNlcy1hcmNoaXZlLnRhci5neu+8jOi3s+i/h+ino+WOiyIpCiAgICAgICAgcmV0dXJuIDAKICAgIHN0YW1wID0gaGFzaGxpYi5zaGEyNTYoYXJjaC5yZWFkX2J5dGVzKCkpLmhleGRpZ2VzdCgpWzoxNl0KICAgIGlmIFNUQU1QLmV4aXN0cygpIGFuZCBTVEFNUC5yZWFkX3RleHQoZW5jb2Rpbmc9InV0Zi04Iikuc3RyaXAoKSA9PSBzdGFtcCBhbmQgbm90IHJlYnVpbGQ6CiAgICAgICAgcHJpbnQoZiLlt7Lop6Pov4flkIzkuIDkuKrljIXvvIh7c3RhbXB977yJ77yM6Lez6L+H77yb6KaB6YeN5oq955SoIC0tcmVidWlsZCIpCiAgICAgICAgcmV0dXJuIDAKICAgIHdpdGggdGFyZmlsZS5vcGVuKGFyY2gsICJyOioiKSBhcyB0ZjoKICAgICAgICBza2lwcGVkID0gX3NraXBfZXhpc3RpbmcodGYpCiAgICAgICAgc3RhbGUgPSBfZHJvcF9zdGFsZSh0ZikgaWYgcmVidWlsZCBlbHNlIDAKICAgIFNUQU1QLndyaXRlX3RleHQoc3RhbXAsIGVuY29kaW5nPSJ1dGYtOCIpCiAgICBwcmludChmIuino+WOi+WujOaIkO+8mnthcmNoLm5hbWV977yM6Lez6L+H5bey5a2Y5ZyoIHtza2lwcGVkfSDku70iICsgKGYi77yM5riF5o6J5q6L55WZIHtzdGFsZX0g5Lu9IiBpZiByZWJ1aWxkIGVsc2UgIiIpKQogICAgcmV0dXJuIDAKCgpkZWYgdmVyaWZ5KCkgLT4gaW50OgogICAgYXJjaCA9IF9hcmNoaXZlKCkKICAgIGlmIGFyY2ggaXMgTm9uZToKICAgICAgICBwcmludCgi57y6IHNvdXJjZXMtYXJjaGl2ZS50YXIuZ3oiKQogICAgICAgIHJldHVybiAxCiAgICB3aXRoIHRhcmZpbGUub3BlbihhcmNoLCAicjoqIikgYXMgdGY6CiAgICAgICAgbWVtYmVycyA9IFsobS5uYW1lLCBtLnNpemUpIGZvciBtIGluIHRmLmdldG1lbWJlcnMoKSBpZiBtLmlzZmlsZSgpXQogICAgYmFkID0gW25hbWUgZm9yIG5hbWUsIF8gaW4gbWVtYmVycyBpZiBfc2FmZV9tZW1iZXIobmFtZSkgaXMgTm9uZV0KICAgIG1pc3NpbmcgPSBbKFNSQyAvIF9zYWZlX21lbWJlcihuYW1lKSkucmVsYXRpdmVfdG8oU1JDKS5hc19wb3NpeCgpCiAgICAgICAgICAgICAgIGZvciBuYW1lLCBzaXplIGluIG1lbWJlcnMKICAgICAgICAgICAgICAgaWYgX3NhZmVfbWVtYmVyKG5hbWUpIGFuZCBub3QgKFNSQyAvIF9zYWZlX21lbWJlcihuYW1lKSkuZXhpc3RzKCldCiAgICBtaXNtYXRjaCA9IFsoU1JDIC8gX3NhZmVfbWVtYmVyKG5hbWUpKS5yZWxhdGl2ZV90byhTUkMpLmFzX3Bvc2l4KCkKICAgICAgICAgICAgICAgIGZvciBuYW1lLCBzaXplIGluIG1lbWJlcnMKICAgICAgICAgICAgICAgIGlmIF9zYWZlX21lbWJlcihuYW1lKSBhbmQgKFNSQyAvIF9zYWZlX21lbWJlcihuYW1lKSkuZXhpc3RzKCkKICAgICAgICAgICAgICAgIGFuZCAoU1JDIC8gX3NhZmVfbWVtYmVyKG5hbWUpKS5zdGF0KCkuc3Rfc2l6ZSAhPSBzaXplXQogICAgcHJpbnQoZiLlvZLmoaMge2xlbihtZW1iZXJzKX0g5Lu95oiQ5ZGY77yMc291cmNlcy8g546w5pyJIHtzdW0oMSBmb3IgcCBpbiBTUkMucmdsb2IoJyonKSBpZiBwLmlzX2ZpbGUoKSl9IOS7veaWh+S7tiIpCiAgICBpZiBiYWQ6CiAgICAgICAgcHJpbnQoZiLinJcg6LaK55WM5oiQ5ZGYIHtsZW4oYmFkKX3vvJp7YmFkWzozXX0iKQogICAgaWYgbWlzc2luZzoKICAgICAgICBwcmludChmIuKclyDnvLoge2xlbihtaXNzaW5nKX0g5Lu977yM5L6L5aaCIHttaXNzaW5nWzozXX0iKQogICAgaWYgbWlzbWF0Y2g6CiAgICAgICAgcHJpbnQoZiLinJcg5aSn5bCP5LiN56ymIHtsZW4obWlzbWF0Y2gpfSDku73vvIzkvovlpoIge21pc21hdGNoWzozXX0iKQogICAgaWYgbm90IChiYWQgb3IgbWlzc2luZyBvciBtaXNtYXRjaCk6CiAgICAgICAgcHJpbnQoIuKchSDlvZLmoaPkuI7no4Hnm5jpgJDku73lr7nkuIoiKQogICAgICAgIHJldHVybiAwCiAgICByZXR1cm4gMQoKCmRlZiBzdGF0cygpIC0+IGludDoKICAgICIiIuaKiiBzb3VyY2VzLyDnjrDnirbokL3miJDkuIDku70gSlNPTiDnu5/orqHvvIzkvpvpg6jnvbLmoLjlr7nkuI7lkI7nu63ku7vliqHop4TliJLjgIIiIiIKICAgIGZpbGVzID0gW3AgZm9yIHAgaW4gU1JDLnJnbG9iKCIqIikgaWYgcC5pc19maWxlKCkgYW5kICJfcXVhcmFudGluZSIgbm90IGluIHAucGFydHNdCiAgICBieV9idWNrZXQ6IGRpY3Rbc3RyLCBkaWN0W3N0ciwgZmxvYXRdXSA9IHt9CiAgICBmb3IgcCBpbiBmaWxlczoKICAgICAgICByZWwgPSBwLnJlbGF0aXZlX3RvKFNSQykKICAgICAgICBidWNrZXQgPSByZWwucGFydHNbMF0gaWYgbGVuKHJlbC5wYXJ0cykgPiAxIGVsc2UgIijmoLkpIgogICAgICAgIGQgPSBieV9idWNrZXQuc2V0ZGVmYXVsdChidWNrZXQsIHsiZmlsZXMiOiAwLCAiYnl0ZXMiOiAwfSkKICAgICAgICBkWyJmaWxlcyJdICs9IDEKICAgICAgICBkWyJieXRlcyJdICs9IHAuc3RhdCgpLnN0X3NpemUKICAgIG91dCA9IHsKICAgICAgICAiZmlsZXMiOiBsZW4oZmlsZXMpLAogICAgICAgICJieXRlcyI6IHN1bShkWyJieXRlcyJdIGZvciBkIGluIGJ5X2J1Y2tldC52YWx1ZXMoKSksCiAgICAgICAgImFyY2hpdmUiOiAoX2FyY2hpdmUoKS5uYW1lIGlmIF9hcmNoaXZlKCkgZWxzZSBOb25lKSwKICAgICAgICAic3RhbXAiOiBTVEFNUC5yZWFkX3RleHQoZW5jb2Rpbmc9InV0Zi04Iikuc3RyaXAoKSBpZiBTVEFNUC5leGlzdHMoKSBlbHNlIE5vbmUsCiAgICAgICAgImJ5X2J1Y2tldCI6IGRpY3Qoc29ydGVkKGJ5X2J1Y2tldC5pdGVtcygpLCBrZXk9bGFtYmRhIGt2OiAta3ZbMV1bImJ5dGVzIl0pKSwKICAgIH0KICAgIHBhdGggPSBST09UIC8gInNvdXJjZXNfc3RhdHMuanNvbiIKICAgIHBhdGgud3JpdGVfdGV4dChqc29uLmR1bXBzKG91dCwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSksIGVuY29kaW5nPSJ1dGYtOCIpCiAgICBwcmludChmIntwYXRoLm5hbWV977yae291dFsnZmlsZXMnXX0g5Lu9IHtvdXRbJ2J5dGVzJ10gLyAxMDQ4NTc2Oi4xZn0gTULvvIwiCiAgICAgICAgICBmIuebruW9lSB7bGVuKGJ5X2J1Y2tldCl9IOS4qiDihpIge3BhdGh9IikKICAgIHJldHVybiAwCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIGFwID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoKQogICAgYXAuYWRkX2FyZ3VtZW50KCItLXJlYnVpbGQiLCBhY3Rpb249InN0b3JlX3RydWUiLCBoZWxwPSLlhajpg6jph43mir3lubbmuIXmjonlvZLmoaPlpJbnmoTmrovnlZkiKQogICAgYXAuYWRkX2FyZ3VtZW50KCItLXZlcmlmeSIsIGFjdGlvbj0ic3RvcmVfdHJ1ZSIsIGhlbHA9IuWPquaguOWvueS4jeaKvSIpCiAgICBhcC5hZGRfYXJndW1lbnQoIi0tc3RhdHMiLCBhY3Rpb249InN0b3JlX3RydWUiLCBoZWxwPSLmioogc291cmNlcy8g57uf6K6h5YaZ5oiQIHNvdXJjZXNfc3RhdHMuanNvbiIpCiAgICBhID0gYXAucGFyc2VfYXJncygpCiAgICBpZiBhLnN0YXRzOgogICAgICAgIHN5cy5leGl0KHN0YXRzKCkpCiAgICBpZiBhLnZlcmlmeToKICAgICAgICBzeXMuZXhpdCh2ZXJpZnkoKSkKICAgIHN5cy5leGl0KGV4dHJhY3QoYS5yZWJ1aWxkKSkK
+"""把随包的 sources-archive.tar.gz 解到 sources/（云端部署第一步，幂等）。
+
+用法：
+    python tools/extract_sources.py                # 只补缺，已存在的同名同大小文件跳过
+    python tools/extract_sources.py --rebuild      # 全部重抽，并删掉归档里没有的正文残留
+    python tools/extract_sources.py --verify       # 只核对不抽
+
+安全：不解 zip/rar，逐成员校验归一化路径（挡路径穿越与绝对路径），单个坏成员跳过不中断。
+"""
+from __future__ import annotations
+
+import argparse
+import hashlib
+import json
+import sys
+import tarfile
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+SRC = ROOT / "sources"
+ARCH = SRC / "sources-archive.tar.gz"
+ROOT_ARCH = ROOT / "sources-archive.tar.gz"
+BIN_ARCH = ROOT / "sources-binaries.tar.gz"
+STAMP = SRC / ".extract-stamp"
+DANGER_SUFFIX = {".zip", ".rar", ".7z"}
+
+
+def _archive() -> Path | None:
+    for p in (ARCH, ROOT_ARCH):
+        if p.exists():
+            return p
+    return None
+
+
+def _safe_member(name: str) -> str | None:
+    """归档内路径统一成 sources/ 下的相对路径，越界的返回 None。"""
+    parts = [seg for seg in name.replace("\\", "/").split("/") if seg not in ("", ".")]
+    if not parts or ".." in parts or name.startswith(("/", "\\")) or ":" in parts[0]:
+        return None
+    if parts[0] == "sources":
+        parts = parts[1:]
+    if not parts:
+        return None
+    return "/".join(parts)
+
+
+def _skip_existing(tf: tarfile.TarFile) -> int:
+    skipped = 0
+    for m in tf.getmembers():
+        if not m.isfile():
+            continue
+        rel = _safe_member(m.name)
+        if rel is None:
+            print(f"跳过越界成员：{m.name}")
+            continue
+        if m.name.lower().endswith(tuple(DANGER_SUFFIX)):
+            print(f"跳过不解压：{m.name}（归档已排除压缩包）")
+            continue
+        dst = SRC / rel
+        if dst.exists() and dst.stat().st_size == m.size:
+            skipped += 1
+            continue
+        dst.parent.mkdir(parents=True, exist_ok=True)
+        src = tf.extractfile(m)
+        if src is None:
+            continue
+        dst.write_bytes(src.read())
+    return skipped
+
+
+def _drop_stale(tf: tarfile.TarFile) -> int:
+    """--rebuild 时清掉不在归档里的旧正文，免得改完包没换干净。"""
+    want = set()
+    for m in tf.getmembers():
+        if m.isfile():
+            rel = _safe_member(m.name)
+            if rel:
+                want.add(rel.lower())
+    removed = 0
+    for p in list(SRC.rglob("*")):
+        if not p.is_file():
+            continue
+        rel = p.relative_to(SRC).as_posix().lower()
+        if rel in ("sources-archive.tar.gz", "sources-binaries.tar.gz", ".extract-stamp"):
+            continue
+        if "attachments/files/" in rel or "local/_files/" in rel or rel.startswith("vector/"):
+            continue
+        if rel not in want:
+            p.unlink()
+            removed += 1
+    return removed
+
+
+def extract(rebuild: bool = False) -> int:
+    arch = _archive()
+    if arch is None:
+        print("没找到 sources-archive.tar.gz，跳过解压")
+        return 0
+    stamp = hashlib.sha256(arch.read_bytes()).hexdigest()[:16]
+    if STAMP.exists() and STAMP.read_text(encoding="utf-8").strip() == stamp and not rebuild:
+        print(f"已解过同一个包（{stamp}），跳过；要重抽用 --rebuild")
+        return 0
+    with tarfile.open(arch, "r:*") as tf:
+        skipped = _skip_existing(tf)
+        stale = _drop_stale(tf) if rebuild else 0
+    STAMP.write_text(stamp, encoding="utf-8")
+    print(f"解压完成：{arch.name}，跳过已存在 {skipped} 份" + (f"，清掉残留 {stale} 份" if rebuild else ""))
+    return 0
+
+
+def verify() -> int:
+    arch = _archive()
+    if arch is None:
+        print("缺 sources-archive.tar.gz")
+        return 1
+    with tarfile.open(arch, "r:*") as tf:
+        members = [(m.name, m.size) for m in tf.getmembers() if m.isfile()]
+    bad = [name for name, _ in members if _safe_member(name) is None]
+    missing = [(SRC / _safe_member(name)).relative_to(SRC).as_posix()
+               for name, size in members
+               if _safe_member(name) and not (SRC / _safe_member(name)).exists()]
+    mismatch = [(SRC / _safe_member(name)).relative_to(SRC).as_posix()
+                for name, size in members
+                if _safe_member(name) and (SRC / _safe_member(name)).exists()
+                and (SRC / _safe_member(name)).stat().st_size != size]
+    print(f"归档 {len(members)} 份成员，sources/ 现有 {sum(1 for p in SRC.rglob('*') if p.is_file())} 份文件")
+    if bad:
+        print(f"✗ 越界成员 {len(bad)}：{bad[:3]}")
+    if missing:
+        print(f"✗ 缺 {len(missing)} 份，例如 {missing[:3]}")
+    if mismatch:
+        print(f"✗ 大小不符 {len(mismatch)} 份，例如 {mismatch[:3]}")
+    if not (bad or missing or mismatch):
+        print("✅ 归档与磁盘逐份对上")
+        return 0
+    return 1
+
+
+def stats() -> int:
+    """把 sources/ 现状落成一份 JSON 统计，供部署核对与后续任务规划。"""
+    files = [p for p in SRC.rglob("*") if p.is_file() and "_quarantine" not in p.parts]
+    by_bucket: dict[str, dict[str, float]] = {}
+    for p in files:
+        rel = p.relative_to(SRC)
+        bucket = rel.parts[0] if len(rel.parts) > 1 else "(根)"
+        d = by_bucket.setdefault(bucket, {"files": 0, "bytes": 0})
+        d["files"] += 1
+        d["bytes"] += p.stat().st_size
+    out = {
+        "files": len(files),
+        "bytes": sum(d["bytes"] for d in by_bucket.values()),
+        "archive": (_archive().name if _archive() else None),
+        "stamp": STAMP.read_text(encoding="utf-8").strip() if STAMP.exists() else None,
+        "by_bucket": dict(sorted(by_bucket.items(), key=lambda kv: -kv[1]["bytes"])),
+    }
+    path = ROOT / "sources_stats.json"
+    path.write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
+    print(f"{path.name}：{out['files']} 份 {out['bytes'] / 1048576:.1f} MB，"
+          f"目录 {len(by_bucket)} 个 → {path}")
+    return 0
+
+
+if __name__ == "__main__":
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--rebuild", action="store_true", help="全部重抽并清掉归档外的残留")
+    ap.add_argument("--verify", action="store_true", help="只核对不抽")
+    ap.add_argument("--stats", action="store_true", help="把 sources/ 统计写成 sources_stats.json")
+    a = ap.parse_args()
+    if a.stats:
+        sys.exit(stats())
+    if a.verify:
+        sys.exit(verify())
+    sys.exit(extract(a.rebuild))

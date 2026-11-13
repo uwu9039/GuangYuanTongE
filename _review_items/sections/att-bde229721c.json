@@ -1,1 +1,443 @@
-ew0KICJrZXkiOiAiYXR0LWJkZTIyOTcyMWMiLA0KICJ0aXRsZSI6ICLkuK3lm73kvKDlqpLlpKflrablhajpnaLlrp7mlr3pooTnrpfnu6nmlYjnrqHnkIbmlrnmoYjvvIjpmYTku7bvvIkiLA0KICJ0cnVuY2F0ZWQiOiBmYWxzZSwNCiAic2VjdGlvbnMiOiBbDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5Lit5Zu95Lyg5aqS5aSn5a2m5YWo6Z2i5a6e5pa96aKE566X57up5pWI566h55CG5pa55qGIIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxLA0KICAgIDkNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWI0ZTRlZTJkNmIiDQogICBdLA0KICAgImNoYXJzIjogMTM3DQogIH0sDQogIHsNCiAgICJubyI6ICLkuIAiLA0KICAgImhlYWRpbmciOiAi5LiA44CB6YeN6KaB5oSP5LmJIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMSwNCiAgICAyNg0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtYmU5ODI1MTkxOSIsDQogICAgInB0LTcyYTI0N2M5ZGEiLA0KICAgICJwdC00ZDE3Yjk4OTZhIg0KICAgXSwNCiAgICJjaGFycyI6IDM1Ng0KICB9LA0KICB7DQogICAibm8iOiAi5LqMIiwNCiAgICJoZWFkaW5nIjogIuS6jOOAgeaAu+S9k+imgeaxgiIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMjcsDQogICAgNjgNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTVlOWU5NWVlZGMiDQogICBdLA0KICAgImNoYXJzIjogODcxDQogIH0sDQogIHsNCiAgICJubyI6ICLvvIjkuIDvvIkiLA0KICAgImhlYWRpbmciOiAi77yI5LiA77yJ5oyH5a+85oCd5oOzIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAyOCwNCiAgICAzNw0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMjIxDQogIH0sDQogIHsNCiAgICJubyI6ICLvvIjkuozvvIkiLA0KICAgImhlYWRpbmciOiAi77yI5LqM77yJ5Z+65pys5Y6f5YiZIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzOSwNCiAgICA2Mw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNmEyN2E4OGZmZSIsDQogICAgInB0LTY1Y2E4MTlhNDQiLA0KICAgICJwdC1jZDEzODE3ZjU2IiwNCiAgICAicHQtMzllYjEzY2I3MiINCiAgIF0sDQogICAiY2hhcnMiOiA1NjANCiAgfSwNCiAgew0KICAgIm5vIjogIu+8iOS4ie+8iSIsDQogICAiaGVhZGluZyI6ICLvvIjkuInvvInmgLvkvZPnm67moIciLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDY1LA0KICAgIDY4DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1lNjY0YmYzMjU4Ig0KICAgXSwNCiAgICJjaGFycyI6IDg0DQogIH0sDQogIHsNCiAgICJubyI6ICLkuIkiLA0KICAgImhlYWRpbmciOiAi5LiJ44CB5Li76KaB5Li+5o6qIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA2OSwNCiAgICAxMzINCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTY1MjczOTJmYTAiDQogICBdLA0KICAgImNoYXJzIjogMTI5Nw0KICB9LA0KICB7DQogICAibm8iOiAi77yI5LiA77yJIiwNCiAgICJoZWFkaW5nIjogIu+8iOS4gO+8ieWunuaWveaVtOS9k+mihOeul+e7qeaViOeuoeeQhiIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNzAsDQogICAgNzgNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTQxMzVlODgwMTIiDQogICBdLA0KICAgImNoYXJzIjogMTc3DQogIH0sDQogIHsNCiAgICJubyI6ICLvvIjkuozvvIkiLA0KICAgImhlYWRpbmciOiAi77yI5LqM77yJ5LyY5YyW6aKE566X57up5pWI566h55CGIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA3OSwNCiAgICA4Ng0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtYTcyZDIxODBkOCINCiAgIF0sDQogICAiY2hhcnMiOiAxMzENCiAgfSwNCiAgew0KICAgIm5vIjogIu+8iOS4ie+8iSIsDQogICAiaGVhZGluZyI6ICLvvIjkuInvvInlvLrljJbnu6nmlYjnm67moIfnrqHnkIYiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDg3LA0KICAgIDk0DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0xOWQ2MGQ5MzAxIg0KICAgXSwNCiAgICJjaGFycyI6IDE5MQ0KICB9LA0KICB7DQogICAibm8iOiAi77yI5Zub77yJIiwNCiAgICJoZWFkaW5nIjogIu+8iOWbm++8ieWBpeWFqOe7qeaViOaMh+agh+WSjOagh+WHhuS9k+ezuyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgOTUsDQogICAgMTA1DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1mMGRiZWQyMWZkIiwNCiAgICAicHQtZTNkYmVlNTMxMSINCiAgIF0sDQogICAiY2hhcnMiOiAyMzYNCiAgfSwNCiAgew0KICAgIm5vIjogIu+8iOS6lO+8iSIsDQogICAiaGVhZGluZyI6ICLvvIjkupTvvInlu7rnq4vkuovliY3nu6nmlYjor4TkvLDmnLrliLYiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDEwNywNCiAgICAxMTMNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTllNjM4MWM0Y2YiDQogICBdLA0KICAgImNoYXJzIjogMTU2DQogIH0sDQogIHsNCiAgICJubyI6ICLvvIjlha3vvIkiLA0KICAgImhlYWRpbmciOiAi77yI5YWt77yJ5YGa5aW957up5pWI55uR5o6nIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMTQsDQogICAgMTIwDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1lM2M1OTVkZDFiIg0KICAgXSwNCiAgICJjaGFycyI6IDE1Mg0KICB9LA0KICB7DQogICAibm8iOiAi77yI5LiD77yJIiwNCiAgICJoZWFkaW5nIjogIu+8iOS4g++8ieWKoOW8uue7qeaViOivhOS7t+WSjOe7k+aenOW6lOeUqCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTIxLA0KICAgIDEyNQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZGVkZWQ5MTAxMiINCiAgIF0sDQogICAiY2hhcnMiOiAxMjANCiAgfSwNCiAgew0KICAgIm5vIjogIu+8iOWFq++8iSIsDQogICAiaGVhZGluZyI6ICLvvIjlhavvvInlvLrljJbnu6nmlYjnrqHnkIbmv4DlirHnuqbmnZ8iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDEyNiwNCiAgICAxMzINCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTUxOTM4YWFlNjciDQogICBdLA0KICAgImNoYXJzIjogMTI4DQogIH0sDQogIHsNCiAgICJubyI6ICLlm5siLA0KICAgImhlYWRpbmciOiAi5Zub44CB57uE57uH5L+d6ZqcIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMzQsDQogICAgMTU0DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0zNmYwMDNiYzc5Ig0KICAgXSwNCiAgICJjaGFycyI6IDQzNA0KICB9LA0KICB7DQogICAibm8iOiAi77yI5LiA77yJIiwNCiAgICJoZWFkaW5nIjogIu+8iOS4gO+8ieWKoOW8uue7hOe7h+mihuWvvCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTM1LA0KICAgIDEzOQ0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTA2DQogIH0sDQogIHsNCiAgICJubyI6ICLvvIjkuozvvIkiLA0KICAgImhlYWRpbmciOiAi77yI5LqM77yJ5Yqg5by66Zif5LyN5ZKM5L+h5oGv5YyW5bu66K6+IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNDAsDQogICAgMTQ1DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1lZGQ3ODVhMWRkIg0KICAgXSwNCiAgICJjaGFycyI6IDE0NA0KICB9LA0KICB7DQogICAibm8iOiAi77yI5LiJ77yJIiwNCiAgICJoZWFkaW5nIjogIu+8iOS4ie+8ieWujOWWhOW3peS9nOiAg+aguOWSjOW8uuWMluebkeedo+mXrui0oyIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTQ2LA0KICAgIDE1NA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtMTRlMjdiOGQ4ZiIsDQogICAgInB0LWM1MTEyOTgwOTYiDQogICBdLA0KICAgImNoYXJzIjogMTc4DQogIH0sDQogIHsNCiAgICJubyI6ICLkupQiLA0KICAgImhlYWRpbmciOiAi5LqU44CB6LSj5Lu75YiG5bel5ZKM5pe26Ze05a6J5o6SIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNTUsDQogICAgMTkzDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC03NDAxZjRjMDYxIg0KICAgXSwNCiAgICJjaGFycyI6IDc1NA0KICB9LA0KICB7DQogICAibm8iOiAi77yI5LiA77yJIiwNCiAgICJoZWFkaW5nIjogIu+8iOS4gO+8iee7qeaViOeuoeeQhuW3peS9nOmihuWvvOWwj+e7hCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTU2LA0KICAgIDE2Mg0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTI4DQogIH0sDQogIHsNCiAgICJubyI6ICLvvIjkuozvvIkiLA0KICAgImhlYWRpbmciOiAi77yI5LqM77yJ6LSi5Yqh5aSEIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxNjQsDQogICAgMTY5DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0yOWI5ZTZiYTUzIg0KICAgXSwNCiAgICJjaGFycyI6IDEyOQ0KICB9LA0KICB7DQogICAibm8iOiAi77yI5LiJ77yJIiwNCiAgICJoZWFkaW5nIjogIu+8iOS4ie+8ieWtpuenkeW7uuiuvuS4juWPkeWxleinhOWIkuWkhCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTcwLA0KICAgIDE3Mw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZjAyODAxZWY3NCINCiAgIF0sDQogICAiY2hhcnMiOiA5MA0KICB9LA0KICB7DQogICAibm8iOiAi77yI5Zub77yJIiwNCiAgICJoZWFkaW5nIjogIu+8iOWbm++8ieS/oeaBr+WMluWkhCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTc0LA0KICAgIDE3Nw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtOGRjNGE5Mzk4NCINCiAgIF0sDQogICAiY2hhcnMiOiA4Mw0KICB9LA0KICB7DQogICAibm8iOiAi77yI5LqU77yJIiwNCiAgICJoZWFkaW5nIjogIu+8iOS6lO+8ieW9kuWPo+euoeeQhumDqOmXqCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMTgwLA0KICAgIDE4NA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZTVlZTliM2RmMCINCiAgIF0sDQogICAiY2hhcnMiOiAxMjANCiAgfSwNCiAgew0KICAgIm5vIjogIu+8iOWFre+8iSIsDQogICAiaGVhZGluZyI6ICLvvIjlha3vvInpooTnrpflhbfkvZPmiafooYzpg6jpl6giLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDE4NSwNCiAgICAxOTANCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWUzYjczYmQ5YTMiDQogICBdLA0KICAgImNoYXJzIjogMTMxDQogIH0sDQogIHsNCiAgICJubyI6ICLvvIjkuIPvvIkiLA0KICAgImhlYWRpbmciOiAi77yI5LiD77yJ5a6h6K6h5aSEIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxOTEsDQogICAgMTkzDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC01NTNmZDZkNWE4Ig0KICAgXSwNCiAgICJjaGFycyI6IDU5DQogIH0sDQogIHsNCiAgICJubyI6ICLmlLblsL4iLA0KICAgImhlYWRpbmciOiAi5a6e5pa96KaB5rGC5LiO5pe26ZmQ77yI5pS25bC+5q6177yJIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMTk1LA0KICAgIDIwMw0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtZGQ1ZTYxNzFkZiINCiAgIF0sDQogICAiY2hhcnMiOiAxNzMNCiAgfSwNCiAgew0KICAgIm5vIjogIumZhOS7tiIsDQogICAiaGVhZGluZyI6ICLpmYTku7bvvJrjgIrkuK3lm73kvKDlqpLlpKflrablhajpnaLlrp7mlr3pooTnrpfnu6nmlYjnrqHnkIblt6XkvZzpooblr7zlsI/nu4TlkI3ljZXjgIsiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDIwNCwNCiAgICAyMDUNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTMyYzcwMzllYzkiDQogICBdLA0KICAgImNoYXJzIjogMjkNCiAgfSwNCiAgew0KICAgIm5vIjogIumZhOS7tuWQjeWNlSIsDQogICAiaGVhZGluZyI6ICLlhajpnaLlrp7mlr3pooTnrpfnu6nmlYjnrqHnkIblt6XkvZzpooblr7zlsI/nu4TlkI3ljZUiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDIwNywNCiAgICAyMTkNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTM4ODQ5YTAxNjAiDQogICBdLA0KICAgImNoYXJzIjogMTQ0DQogIH0NCiBdLA0KICJpdGVtcyI6IFsNCiAgInB0LWI0ZTRlZTJkNmIiLA0KICAicHQtYmU5ODI1MTkxOSIsDQogICJwdC03MmEyNDdjOWRhIiwNCiAgInB0LTRkMTdiOTg5NmEiLA0KICAicHQtNWU5ZTk1ZWVkYyIsDQogICJwdC02YTI3YTg4ZmZlIiwNCiAgInB0LTY1Y2E4MTlhNDQiLA0KICAicHQtY2QxMzgxN2Y1NiIsDQogICJwdC0zOWViMTNjYjcyIiwNCiAgInB0LWU2NjRiZjMyNTgiLA0KICAicHQtNjUyNzM5MmZhMCIsDQogICJwdC00MTM1ZTg4MDEyIiwNCiAgInB0LWE3MmQyMTgwZDgiLA0KICAicHQtMTlkNjBkOTMwMSIsDQogICJwdC1mMGRiZWQyMWZkIiwNCiAgInB0LWUzZGJlZTUzMTEiLA0KICAicHQtOWU2MzgxYzRjZiIsDQogICJwdC1lM2M1OTVkZDFiIiwNCiAgInB0LWRlZGVkOTEwMTIiLA0KICAicHQtNTE5MzhhYWU2NyIsDQogICJwdC0zNmYwMDNiYzc5IiwNCiAgInB0LWVkZDc4NWExZGQiLA0KICAicHQtMTRlMjdiOGQ4ZiIsDQogICJwdC1jNTExMjk4MDk2IiwNCiAgInB0LTc0MDFmNGMwNjEiLA0KICAicHQtMjliOWU2YmE1MyIsDQogICJwdC1mMDI4MDFlZjc0IiwNCiAgInB0LThkYzRhOTM5ODQiLA0KICAicHQtZTVlZTliM2RmMCIsDQogICJwdC1lM2I3M2JkOWEzIiwNCiAgInB0LTU1M2ZkNmQ1YTgiLA0KICAicHQtZGQ1ZTYxNzFkZiIsDQogICJwdC0zMmM3MDM5ZWM5IiwNCiAgInB0LTM4ODQ5YTAxNjAiDQogXSwNCiAibm90ZXMiOiBbDQogICLmnKzmlofku7YgMzQg5p2h5YWo5Li6IHB0LSDmnaHnm67vvIzml6AgcnVsZS08c2x1Zz4g5paH5qGj57qn5p2h55uu44CCIiwNCiAgIuesrCAyNS81MS83Ny8xMDMvMTI4LzE1My8xNzkvMjAzLzIxOSDooYzkuLogUERGIOmhteeggeihjO+8iOOAjC0gMSAt44CN562J77yJ77yM5bey5bm25YWl55u46YK76IqC5Yy66Ze05Lul5L+d6K+B6KGM6KaG55uW6L+e57ut77yM5pyq5Y2V5YiX6IqC44CCIiwNCiAgIuiKgummluWIpOaNruWkhOeQhu+8muesrCAyNyDooYzjgIzkuozjgIHmgLvkvZPopoHmsYLjgI3jgIHnrKwgNjkg6KGM44CM5LiJ44CB5Li76KaB5Li+5o6q44CN44CB56ysIDEzNCDooYzjgIzlm5vjgIHnu4Tnu4fkv53pmpzjgI3jgIHnrKwgMTU1IOihjOOAjOS6lOOAgei0o+S7u+WIhuW3peWSjOaXtumXtOWuieaOkuOAjeaYr+eroOagh+mimOihjO+8jOiAjOWFtuS4i+mmluS4quadoeebrueahOW8leaWh+i1t+eCueato+WlveiQveWcqOi/meS6m+agh+mimOihjO+8iHB0LTVlOWU5NWVlZGPjgIFwdC02NTI3MzkyZmEw44CBcHQtMzZmMDAzYmM3OeOAgXB0LTc0MDFmNGMwNjHvvInvvIzmlYXov5kgNCDmnaHlj6rliJfliLDnq6DnuqfniLboioLvvIzlrZDoioLku47kuIvkuIDooYzvvIjvvIjkuIDvvInigKbvvInotbfjgIIiLA0KICAi44CM5LqM44CB5oC75L2T6KaB5rGC44CN5LiL77yI5LiA77yJ5oyH5a+85oCd5oOz5LiA6IqC77yIMjjigJMzNyDooYzvvInmsqHmnInni6znq4vmnaHnm67vvIjmjIflr7zmgJ3mg7PlhoXlrrnlt7LlubblhaUgcHQtNWU5ZTk1ZWVkY++8ie+8jGl0ZW1zIOS4uuepuuOAgiIsDQogICLnrKwgMTk14oCTMjAxIOihjOS4uuOAjOS6lOOAjeS5i+WQjueahOaUtuWwvuaute+8iOWunuaWvee7huWImeWHuuWPsOaXtumZkOS4jiAyMDIxIOW5tOW6pui1t+WFqOmdouWunuaWve+8ie+8jOS4jeWxnuOAjOS6lOOAjeeahO+8iOS4gO+8ieKAk++8iOS4g++8ie+8jOWNleWIl+S4gOiKgu+8jOWMuumXtOWQq+esrCAyMDMg6KGM6aG156CB44CCIiwNCiAgIuesrCAyMDTigJMyMDUg6KGM44CM6ZmE5Lu277ya44CK4oCm6aKG5a+85bCP57uE5ZCN5Y2V44CL44CN5qCH6aKY5LiO5YW25ZCOIDIwN+KAkzIxOSDooYznmoTlkI3ljZXmraPmlofliIbkuKToioLvvJvlkI3ljZXmraPmlofkuK3jgIzkuK3lm73kvKDlqpLlpKflrabjgI3kuI7jgIzlhajpnaLlrp7mlr3pooTnrpfnu6nmlYjnrqHnkIblt6XkvZzpooblr7zlsI/nu4TlkI3ljZXjgI3lnKjljp/mlofliIbkuKTooYzvvIzmoIcgYXV0aG9yIOeahCBoZWFkaW5nIOaMieW/veeVpeepuueZveWQjumAkOWtl+WMuemFjeOAgiIsDQogICLljp/mlofkuLogUERGIOaKveWPluaWh+acrO+8jOWPpeS4reaWreihjO+8iOWmguesrCA14oCTOeOAgTEy4oCTMjYg6KGM77yJ5pyq5YGa5ZCI5bm277yMbGluZXMg5oyJ5oq95Y+W5ZCO55qE54mp55CG6KGM5Y+357uZ5Ye644CCIg0KIF0NCn0=
+{
+ "key": "att-bde229721c",
+ "title": "中国传媒大学全面实施预算绩效管理方案（附件）",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "中国传媒大学全面实施预算绩效管理方案",
+   "heading_kind": "author",
+   "lines": [
+    1,
+    9
+   ],
+   "items": [
+    "pt-b4e4ee2d6b"
+   ],
+   "chars": 137
+  },
+  {
+   "no": "一",
+   "heading": "一、重要意义",
+   "heading_kind": "author",
+   "lines": [
+    11,
+    26
+   ],
+   "items": [
+    "pt-be98251919",
+    "pt-72a247c9da",
+    "pt-4d17b9896a"
+   ],
+   "chars": 356
+  },
+  {
+   "no": "二",
+   "heading": "二、总体要求",
+   "heading_kind": "author",
+   "lines": [
+    27,
+    68
+   ],
+   "items": [
+    "pt-5e9e95eedc"
+   ],
+   "chars": 871
+  },
+  {
+   "no": "（一）",
+   "heading": "（一）指导思想",
+   "heading_kind": "author",
+   "lines": [
+    28,
+    37
+   ],
+   "items": [],
+   "chars": 221
+  },
+  {
+   "no": "（二）",
+   "heading": "（二）基本原则",
+   "heading_kind": "author",
+   "lines": [
+    39,
+    63
+   ],
+   "items": [
+    "pt-6a27a88ffe",
+    "pt-65ca819a44",
+    "pt-cd13817f56",
+    "pt-39eb13cb72"
+   ],
+   "chars": 560
+  },
+  {
+   "no": "（三）",
+   "heading": "（三）总体目标",
+   "heading_kind": "author",
+   "lines": [
+    65,
+    68
+   ],
+   "items": [
+    "pt-e664bf3258"
+   ],
+   "chars": 84
+  },
+  {
+   "no": "三",
+   "heading": "三、主要举措",
+   "heading_kind": "author",
+   "lines": [
+    69,
+    132
+   ],
+   "items": [
+    "pt-6527392fa0"
+   ],
+   "chars": 1297
+  },
+  {
+   "no": "（一）",
+   "heading": "（一）实施整体预算绩效管理",
+   "heading_kind": "author",
+   "lines": [
+    70,
+    78
+   ],
+   "items": [
+    "pt-4135e88012"
+   ],
+   "chars": 177
+  },
+  {
+   "no": "（二）",
+   "heading": "（二）优化预算绩效管理",
+   "heading_kind": "author",
+   "lines": [
+    79,
+    86
+   ],
+   "items": [
+    "pt-a72d2180d8"
+   ],
+   "chars": 131
+  },
+  {
+   "no": "（三）",
+   "heading": "（三）强化绩效目标管理",
+   "heading_kind": "author",
+   "lines": [
+    87,
+    94
+   ],
+   "items": [
+    "pt-19d60d9301"
+   ],
+   "chars": 191
+  },
+  {
+   "no": "（四）",
+   "heading": "（四）健全绩效指标和标准体系",
+   "heading_kind": "author",
+   "lines": [
+    95,
+    105
+   ],
+   "items": [
+    "pt-f0dbed21fd",
+    "pt-e3dbee5311"
+   ],
+   "chars": 236
+  },
+  {
+   "no": "（五）",
+   "heading": "（五）建立事前绩效评估机制",
+   "heading_kind": "author",
+   "lines": [
+    107,
+    113
+   ],
+   "items": [
+    "pt-9e6381c4cf"
+   ],
+   "chars": 156
+  },
+  {
+   "no": "（六）",
+   "heading": "（六）做好绩效监控",
+   "heading_kind": "author",
+   "lines": [
+    114,
+    120
+   ],
+   "items": [
+    "pt-e3c595dd1b"
+   ],
+   "chars": 152
+  },
+  {
+   "no": "（七）",
+   "heading": "（七）加强绩效评价和结果应用",
+   "heading_kind": "author",
+   "lines": [
+    121,
+    125
+   ],
+   "items": [
+    "pt-deded91012"
+   ],
+   "chars": 120
+  },
+  {
+   "no": "（八）",
+   "heading": "（八）强化绩效管理激励约束",
+   "heading_kind": "author",
+   "lines": [
+    126,
+    132
+   ],
+   "items": [
+    "pt-51938aae67"
+   ],
+   "chars": 128
+  },
+  {
+   "no": "四",
+   "heading": "四、组织保障",
+   "heading_kind": "author",
+   "lines": [
+    134,
+    154
+   ],
+   "items": [
+    "pt-36f003bc79"
+   ],
+   "chars": 434
+  },
+  {
+   "no": "（一）",
+   "heading": "（一）加强组织领导",
+   "heading_kind": "author",
+   "lines": [
+    135,
+    139
+   ],
+   "items": [],
+   "chars": 106
+  },
+  {
+   "no": "（二）",
+   "heading": "（二）加强队伍和信息化建设",
+   "heading_kind": "author",
+   "lines": [
+    140,
+    145
+   ],
+   "items": [
+    "pt-edd785a1dd"
+   ],
+   "chars": 144
+  },
+  {
+   "no": "（三）",
+   "heading": "（三）完善工作考核和强化监督问责",
+   "heading_kind": "author",
+   "lines": [
+    146,
+    154
+   ],
+   "items": [
+    "pt-14e27b8d8f",
+    "pt-c511298096"
+   ],
+   "chars": 178
+  },
+  {
+   "no": "五",
+   "heading": "五、责任分工和时间安排",
+   "heading_kind": "author",
+   "lines": [
+    155,
+    193
+   ],
+   "items": [
+    "pt-7401f4c061"
+   ],
+   "chars": 754
+  },
+  {
+   "no": "（一）",
+   "heading": "（一）绩效管理工作领导小组",
+   "heading_kind": "author",
+   "lines": [
+    156,
+    162
+   ],
+   "items": [],
+   "chars": 128
+  },
+  {
+   "no": "（二）",
+   "heading": "（二）财务处",
+   "heading_kind": "author",
+   "lines": [
+    164,
+    169
+   ],
+   "items": [
+    "pt-29b9e6ba53"
+   ],
+   "chars": 129
+  },
+  {
+   "no": "（三）",
+   "heading": "（三）学科建设与发展规划处",
+   "heading_kind": "author",
+   "lines": [
+    170,
+    173
+   ],
+   "items": [
+    "pt-f02801ef74"
+   ],
+   "chars": 90
+  },
+  {
+   "no": "（四）",
+   "heading": "（四）信息化处",
+   "heading_kind": "author",
+   "lines": [
+    174,
+    177
+   ],
+   "items": [
+    "pt-8dc4a93984"
+   ],
+   "chars": 83
+  },
+  {
+   "no": "（五）",
+   "heading": "（五）归口管理部门",
+   "heading_kind": "author",
+   "lines": [
+    180,
+    184
+   ],
+   "items": [
+    "pt-e5ee9b3df0"
+   ],
+   "chars": 120
+  },
+  {
+   "no": "（六）",
+   "heading": "（六）预算具体执行部门",
+   "heading_kind": "author",
+   "lines": [
+    185,
+    190
+   ],
+   "items": [
+    "pt-e3b73bd9a3"
+   ],
+   "chars": 131
+  },
+  {
+   "no": "（七）",
+   "heading": "（七）审计处",
+   "heading_kind": "author",
+   "lines": [
+    191,
+    193
+   ],
+   "items": [
+    "pt-553fd6d5a8"
+   ],
+   "chars": 59
+  },
+  {
+   "no": "收尾",
+   "heading": "实施要求与时限（收尾段）",
+   "heading_kind": "derived",
+   "lines": [
+    195,
+    203
+   ],
+   "items": [
+    "pt-dd5e6171df"
+   ],
+   "chars": 173
+  },
+  {
+   "no": "附件",
+   "heading": "附件：《中国传媒大学全面实施预算绩效管理工作领导小组名单》",
+   "heading_kind": "author",
+   "lines": [
+    204,
+    205
+   ],
+   "items": [
+    "pt-32c7039ec9"
+   ],
+   "chars": 29
+  },
+  {
+   "no": "附件名单",
+   "heading": "全面实施预算绩效管理工作领导小组名单",
+   "heading_kind": "author",
+   "lines": [
+    207,
+    219
+   ],
+   "items": [
+    "pt-38849a0160"
+   ],
+   "chars": 144
+  }
+ ],
+ "items": [
+  "pt-b4e4ee2d6b",
+  "pt-be98251919",
+  "pt-72a247c9da",
+  "pt-4d17b9896a",
+  "pt-5e9e95eedc",
+  "pt-6a27a88ffe",
+  "pt-65ca819a44",
+  "pt-cd13817f56",
+  "pt-39eb13cb72",
+  "pt-e664bf3258",
+  "pt-6527392fa0",
+  "pt-4135e88012",
+  "pt-a72d2180d8",
+  "pt-19d60d9301",
+  "pt-f0dbed21fd",
+  "pt-e3dbee5311",
+  "pt-9e6381c4cf",
+  "pt-e3c595dd1b",
+  "pt-deded91012",
+  "pt-51938aae67",
+  "pt-36f003bc79",
+  "pt-edd785a1dd",
+  "pt-14e27b8d8f",
+  "pt-c511298096",
+  "pt-7401f4c061",
+  "pt-29b9e6ba53",
+  "pt-f02801ef74",
+  "pt-8dc4a93984",
+  "pt-e5ee9b3df0",
+  "pt-e3b73bd9a3",
+  "pt-553fd6d5a8",
+  "pt-dd5e6171df",
+  "pt-32c7039ec9",
+  "pt-38849a0160"
+ ],
+ "notes": [
+  "本文件 34 条全为 pt- 条目，无 rule-<slug> 文档级条目。",
+  "第 25/51/77/103/128/153/179/203/219 行为 PDF 页码行（「- 1 -」等），已并入相邻节区间以保证行覆盖连续，未单列节。",
+  "节首判据处理：第 27 行「二、总体要求」、第 69 行「三、主要举措」、第 134 行「四、组织保障」、第 155 行「五、责任分工和时间安排」是章标题行，而其下首个条目的引文起点正好落在这些标题行（pt-5e9e95eedc、pt-6527392fa0、pt-36f003bc79、pt-7401f4c061），故这 4 条只列到章级父节，子节从下一行（（一）…）起。",
+  "「二、总体要求」下（一）指导思想一节（28–37 行）没有独立条目（指导思想内容已并入 pt-5e9e95eedc），items 为空。",
+  "第 195–201 行为「五」之后的收尾段（实施细则出台时限与 2021 年度起全面实施），不属「五」的（一）–（七），单列一节，区间含第 203 行页码。",
+  "第 204–205 行「附件：《…领导小组名单》」标题与其后 207–219 行的名单正文分两节；名单正文中「中国传媒大学」与「全面实施预算绩效管理工作领导小组名单」在原文分两行，标 author 的 heading 按忽略空白后逐字匹配。",
+  "原文为 PDF 抽取文本，句中断行（如第 5–9、12–26 行）未做合并，lines 按抽取后的物理行号给出。"
+ ]
+}

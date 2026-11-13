@@ -1,1 +1,313 @@
-ewogImtleSI6ICIxYzNlNDA2NSIsCiAidGl0bGUiOiAi5YWx6Z2S5Zui5Lit5aSu5Yqe5YWs5Y6F5YWz5LqO5Y2w5Y+R44CK5paw5pe25Luj5YWx6Z2S5Zui5ZGY5YWI6L+b5oCn6K+E5Lu35oyH5a+85aSn57qy77yI6K+V6KGM77yJ44CL5ZKM44CK5paw5pe25Luj5YWx6Z2S5Zui5r+A5Yqx5py65Yi25oyH5a+85aSn57qy77yI6K+V6KGM77yJ44CL55qE6YCa55+lIiwKICJ0cnVuY2F0ZWQiOiBmYWxzZSwKICJzZWN0aW9ucyI6IFsKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLljbDlj5HpgJrnn6XkuI7lhYjov5vmgKfor4Tku7flpKfnurLmoIfpopjljLoiLAogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLAogICAibGluZXMiOiBbMSwgMTNdLAogICAiaXRlbXMiOiBbInB0LTc1NjkwNDYyNTUiXSwKICAgImNoYXJzIjogMjY4CiAgfSwKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLlhbHpnZLlm6LkuK3lpK7lip7lhazljoXlhbPkuo7ljbDlj5HjgIrmlrDml7bku6PlhbHpnZLlm6LlkZjlhYjov5vmgKfor4Tku7fmjIflr7zlpKfnurLvvIjor5XooYzvvInjgIvlkozjgIrmlrDml7bku6PlhbHpnZLlm6Lmv4DlirHmnLrliLbmjIflr7zlpKfnurLvvIjor5XooYzvvInjgIvnmoTpgJrnn6UiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsxLCAxMF0sCiAgICJpdGVtcyI6IFsicnVsZS0xYzNlNDA2NSIsICJwdC0wNDc5NDQzZjQ2IiwgInB0LTEyOGY0YTE5NDciXSwKICAgImNoYXJzIjogMjQ3CiAgfSwKICB7CiAgICJubyI6ICLigJQiLAogICAiaGVhZGluZyI6ICLmlrDml7bku6PlhbHpnZLlm6LlkZjlhYjov5vmgKfor4Tku7fmjIflr7zlpKfnurLvvIjor5XooYzvvIkiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsxMiwgMTNdLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogMjAKICB9LAogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIuWFiOi/m+aAp+ivhOS7t+Wkp+e6sueahOWItuWumuivtOaYjiIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFsxNCwgMTVdLAogICAiaXRlbXMiOiBbInB0LWZiYmJlZDNkNTEiXSwKICAgImNoYXJzIjogNzIKICB9LAogIHsKICAgIm5vIjogIuS4gCIsCiAgICJoZWFkaW5nIjogIuWfuuacrOaAnei3ryIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzE2LCAyMV0sCiAgICJpdGVtcyI6IFsicHQtZDBmMjgwZmQ1YS04Yjk4IiwgInB0LWQwZjI4MGZkNWEiXSwKICAgImNoYXJzIjogMTY1CiAgfSwKICB7CiAgICJubyI6ICLkuowiLAogICAiaGVhZGluZyI6ICLor4Tku7flr7nosaEiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsyMiwgMjNdLAogICAiaXRlbXMiOiBbInB0LTU3ODM4OTk0Y2EtOGI5OCIsICJwdC01NzgzODk5NGNhIl0sCiAgICJjaGFycyI6IDQxCiAgfSwKICB7CiAgICJubyI6ICLkuIkiLAogICAiaGVhZGluZyI6ICLor4Tku7fljp/liJkiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsyNCwgMjddLAogICAiaXRlbXMiOiBbInB0LWQyZmFlYzRhMTUiLCAicHQtMmYyMTc1YmY3MiIsICJwdC00Mzk5ZjhmMjY4Il0sCiAgICJjaGFycyI6IDExOQogIH0sCiAgewogICAibm8iOiAi5ZubIiwKICAgImhlYWRpbmciOiAi6K+E5Lu35Li75L2TIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbMjgsIDM0XSwKICAgIml0ZW1zIjogWyJwdC1jNWY0NGYyMzc3IiwgInB0LTMxNzEzMmFhMTYiLCAicHQtZTU0MDczOWQyZSIsICJwdC1hNjY5NGY2Nzk3IiwgInB0LWM4OWIxM2ExODIiXSwKICAgImNoYXJzIjogMTcxCiAgfSwKICB7CiAgICJubyI6ICLkupQiLAogICAiaGVhZGluZyI6ICLmjIflr7zmoIflh4YiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFszNSwgNjNdLAogICAiaXRlbXMiOiBbInB0LWIxMjlkNGVmZTQiXSwKICAgImNoYXJzIjogOTU2CiAgfSwKICB7CiAgICJubyI6ICIxIiwKICAgImhlYWRpbmciOiAi5pyJ5L+h5LuwIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbMzYsIDQxXSwKICAgIml0ZW1zIjogWyJwdC1hOWEzNWI0ZDBkIiwgInB0LTE0MjAzNjExZTEiLCAicHQtOTUyOWRiMTBlYSJdLAogICAiY2hhcnMiOiAyMDIKICB9LAogIHsKICAgIm5vIjogIjIiLAogICAiaGVhZGluZyI6ICLorrLmlL/msrsiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs0MiwgNDhdLAogICAiaXRlbXMiOiBbInB0LTIxNDgxNTNjZWQiLCAicHQtYjlkMDU2YmJlNCIsICJwdC1mMGYzMDE5YmFmIiwgInB0LWNkODU1ZmE3M2MiLCAicHQtZTVlNWYzNWI5YiJdLAogICAiY2hhcnMiOiAyMzUKICB9LAogIHsKICAgIm5vIjogIjMiLAogICAiaGVhZGluZyI6ICLph43lk4HooYwiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs0OSwgNTRdLAogICAiaXRlbXMiOiBbInB0LWZkZTMzYTU5YzkiLCAicHQtMjMwMTBhNzA4OCIsICJwdC01MjA3OGMwMWE4IiwgInB0LTBlMDRhODYyYTgiLCAicHQtZDBiMGRmMWUyZiIsICJwdC0yMjEwYmZmMjI0Il0sCiAgICJjaGFycyI6IDIxOQogIH0sCiAgewogICAibm8iOiAiNCIsCiAgICJoZWFkaW5nIjogIuS6ieWFiOmUiyIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzU1LCA1OV0sCiAgICJpdGVtcyI6IFsicHQtNmM3ZDQxYTcyNyIsICJwdC1jZTQ5MjFhZGJmIiwgInB0LWZlY2NiOWI1YjkiLCAicHQtMjA3NzA0ODA3MyIsICJwdC04OTQ1OTEzODExIl0sCiAgICJjaGFycyI6IDE1NwogIH0sCiAgewogICAibm8iOiAiNSIsCiAgICJoZWFkaW5nIjogIuWuiOe6quW+iyIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzYwLCA2M10sCiAgICJpdGVtcyI6IFsicHQtYTZkOWFkNzEzMSIsICJwdC04ZGIxYThmMzAzIiwgInB0LWM2YTI5NTEwYTQiLCAicHQtN2ExOTBkMjg5MyJdLAogICAiY2hhcnMiOiAxMzUKICB9LAogIHsKICAgIm5vIjogIuWFrSIsCiAgICJoZWFkaW5nIjogIuaMh+agh+S9k+ezuyIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzY0LCA2OV0sCiAgICJpdGVtcyI6IFsicHQtZWM1OTRiODBjNiIsICJwdC1kZDZhMTlhNjQzIiwgInB0LTJjZmZmOGNhZjgiXSwKICAgImNoYXJzIjogMTg5CiAgfSwKICB7CiAgICJubyI6ICLkuIMiLAogICAiaGVhZGluZyI6ICLnu4Tnu4flrp7mlr0iLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs3MCwgODVdLAogICAiaXRlbXMiOiBbInB0LWNhMzJmZTg0NjciXSwKICAgImNoYXJzIjogNTMxCiAgfSwKICB7CiAgICJubyI6ICIxIiwKICAgImhlYWRpbmciOiAi6K+E5Lu36aKR5qyhIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbNzEsIDcyXSwKICAgIml0ZW1zIjogWyJwdC02Zjc4MjE5MjFiIiwgInB0LWYyMjliNDJkYWUiXSwKICAgImNoYXJzIjogNzUKICB9LAogIHsKICAgIm5vIjogIjIiLAogICAiaGVhZGluZyI6ICLmk43kvZzmlrnlvI8iLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFs3MywgNzZdLAogICAiaXRlbXMiOiBbInB0LWQ5YTg3YjY2NGEiLCAicHQtYmJiYWUzNzc1NiIsICJwdC00YmUwNGQwZWU2IiwgInB0LWI5M2Y4Y2QyODYiXSwKICAgImNoYXJzIjogMTUwCiAgfSwKICB7CiAgICJubyI6ICIzIiwKICAgImhlYWRpbmciOiAi57uT5p6c6L+Q55SoIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbNzcsIDgyXSwKICAgIml0ZW1zIjogWyJwdC04MjBiMmIyZDdjIiwgInB0LTdjOTNlMjRhYjgiLCAicHQtZmZjMDEwYzBlNSIsICJwdC01ODJmZWM1MDkxIiwgInB0LWQ1MGM0NDMwNmEiLCAicHQtZDA5ZDE3YTA2ZCIsICJwdC1iMDcxZWNkNmVmIl0sCiAgICJjaGFycyI6IDE5MQogIH0sCiAgewogICAibm8iOiAiNCIsCiAgICJoZWFkaW5nIjogIue7hOe7h+mihuWvvCIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzgzLCA4NV0sCiAgICJpdGVtcyI6IFsicHQtZGJjYmFmMzBiZiIsICJwdC04OTQ2N2NjMmVjIl0sCiAgICJjaGFycyI6IDEwNwogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi6ZmE5Lu277ya5YiG6aKG5Z+f5Zui5ZGY5YWI6L+b5oCn6K+E5Lu35Y+C6ICD57uG5YiZ77yINuexu++8iSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFs4NiwgMTA0XSwKICAgIml0ZW1zIjogWyJwdC0wZjA4MmVhOWI3Il0sCiAgICJjaGFycyI6IDUwOQogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi5pON5L2c6K+05piOIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbOTAsIDEwNF0sCiAgICJpdGVtcyI6IFsicHQtYzUyMjhhMjhjOSIsICJwdC0wYzE5YzJlMmRjIiwgInB0LWNmYmZmYjgzN2MiLCAicHQtZWM2OWI1YWM2NSIsICJwdC04ZDUxZmY3YjYwIiwgInB0LWVjMzRiMzZlZDQiLCAicHQtMDgxOTlmODM1NCIsICJwdC1iNGU4YzgyNjZlIl0sCiAgICJjaGFycyI6IDQ2MQogIH0sCiAgewogICAibm8iOiAi4oCUIiwKICAgImhlYWRpbmciOiAi5paw5pe25Luj5YWx6Z2S5Zui5r+A5Yqx5py65Yi25oyH5a+85aSn57qy77yI6K+V6KGM77yJIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbMTEyLCAxMTJdLAogICAiaXRlbXMiOiBbXSwKICAgImNoYXJzIjogMTgKICB9LAogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIua/gOWKseacuuWItuWkp+e6sueahOWItuWumuivtOaYjiIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFsxMTMsIDExNV0sCiAgICJpdGVtcyI6IFsicHQtYmQ5ZTRhZGNlNyJdLAogICAiY2hhcnMiOiA5NgogIH0sCiAgewogICAibm8iOiAi5LiAIiwKICAgImhlYWRpbmciOiAi5Z+65pys5oCd6LevIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbMTE2LCAxMjFdLAogICAiaXRlbXMiOiBbInB0LTUyZDY0Yjg3YTktOGI5OCIsICJwdC01MmQ2NGI4N2E5Il0sCiAgICJjaGFycyI6IDE3NQogIH0sCiAgewogICAibm8iOiAi5LqMIiwKICAgImhlYWRpbmciOiAi5r+A5Yqx5pa55byPIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbMTIyLCAxNjFdLAogICAiaXRlbXMiOiBbInB0LTQ0MzZhMDNhZjkiXSwKICAgImNoYXJzIjogMTM3MAogIH0sCiAgewogICAibm8iOiAiMSIsCiAgICJoZWFkaW5nIjogIuWFpeWboua/gOWKsSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzEyMywgMTI3XSwKICAgIml0ZW1zIjogWyJwdC1hZjJhYTgzZWY2IiwgInB0LWU5NmUzZWY1M2UiLCAicHQtMDVkYTYzMDA2MiJdLAogICAiY2hhcnMiOiAxODYKICB9LAogIHsKICAgIm5vIjogIjIiLAogICAiaGVhZGluZyI6ICLor4Torq7mv4DlirEiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsxMjgsIDEzMV0sCiAgICJpdGVtcyI6IFsicHQtY2M1ODk0MDk2MSIsICJwdC04NGZkZGQzNDAxIiwgInB0LWI5YjIzY2Q5ZWEiLCAicHQtYWMwNmY4OGZiMCJdLAogICAiY2hhcnMiOiAxNDUKICB9LAogIHsKICAgIm5vIjogIjMiLAogICAiaGVhZGluZyI6ICLojaPoqonmv4DlirEiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsxMzIsIDE1MV0sCiAgICJpdGVtcyI6IFsicHQtMzQ3ZDhhYTE5OSIsICJwdC1lODA0ZmE4MDIyIiwgInB0LWRmODE3M2NhNDQiLCAicHQtODA0MDU4YzQ2OCIsICJwdC0yOWMzM2QzOTczIiwgInB0LWE5Yzc0Yjg2ZDYiLCAicHQtNmZlMzUxNzEwMSJdLAogICAiY2hhcnMiOiA2NzgKICB9LAogIHsKICAgIm5vIjogIjQiLAogICAiaGVhZGluZyI6ICLmnLrkvJrmv4DlirEiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsxNTIsIDE1N10sCiAgICJpdGVtcyI6IFsicHQtZjI4ZThmYWEwMSIsICJwdC1jOTAyZDY4YWE5Il0sCiAgICJjaGFycyI6IDIxMgogIH0sCiAgewogICAibm8iOiAiNSIsCiAgICJoZWFkaW5nIjogIuWPkeWxlea/gOWKsSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzE1OCwgMTYxXSwKICAgIml0ZW1zIjogWyJwdC0zYzVmZTg5MzIyIiwgInB0LTllZmFhNGNlNmMiXSwKICAgImNoYXJzIjogMTQxCiAgfSwKICB7CiAgICJubyI6ICLkuIkiLAogICAiaGVhZGluZyI6ICLnu4Tnu4flrp7mlr0iLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsxNjIsIDE3NF0sCiAgICJpdGVtcyI6IFsicHQtMjczMDhjZGQyNSJdLAogICAiY2hhcnMiOiA0MDAKICB9LAogIHsKICAgIm5vIjogIjEiLAogICAiaGVhZGluZyI6ICLlvLrljJbliIblsYLmv4DlirEiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsxNjMsIDE2NV0sCiAgICJpdGVtcyI6IFsicHQtMjY4YTUyNTcyMyJdLAogICAiY2hhcnMiOiA5NgogIH0sCiAgewogICAibm8iOiAiMiIsCiAgICJoZWFkaW5nIjogIuazqOmHjeenkeWtpue0r+i/myIsCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwKICAgImxpbmVzIjogWzE2NiwgMTY4XSwKICAgIml0ZW1zIjogWyJwdC1jODQ2OGI3ZmNhIl0sCiAgICJjaGFycyI6IDkxCiAgfSwKICB7CiAgICJubyI6ICIzIiwKICAgImhlYWRpbmciOiAi56ev5p6B5o6i57Si5Yib5pawIiwKICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLAogICAibGluZXMiOiBbMTY5LCAxNzBdLAogICAiaXRlbXMiOiBbInB0LTljODQ1ZGU1ODYiXSwKICAgImNoYXJzIjogNzUKICB9LAogIHsKICAgIm5vIjogIjQiLAogICAiaGVhZGluZyI6ICLliqDlvLrmlK/mjIHkv53pmpwiLAogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsCiAgICJsaW5lcyI6IFsxNzEsIDE3NF0sCiAgICJpdGVtcyI6IFsicHQtY2QzY2Q4ZWFmOCIsICJwdC0zYmE5MmRkOGY3IiwgInB0LThlNmNhOWRjZDAiLCAicHQtY2I3MTlhYTkyYiJdLAogICAiY2hhcnMiOiAxMzAKICB9LAogIHsKICAgIm5vIjogIuKAlCIsCiAgICJoZWFkaW5nIjogIueJiOadg+S4juaKgOacr+aUr+aMgSIsCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsCiAgICJsaW5lcyI6IFsxNzUsIDE3Nl0sCiAgICJpdGVtcyI6IFtdLAogICAiY2hhcnMiOiAyNgogIH0KIF0sCiAiaXRlbXMiOiBbInJ1bGUtMWMzZTQwNjUiLCAicHQtZmJiYmVkM2Q1MSIsICJwdC1kMGYyODBmZDVhIiwgInB0LTU3ODM4OTk0Y2EiLCAicHQtMmYyMTc1YmY3MiIsICJwdC00Mzk5ZjhmMjY4IiwgInB0LTMxNzEzMmFhMTYiLCAicHQtZTU0MDczOWQyZSIsICJwdC1hNjY5NGY2Nzk3IiwgInB0LWM4OWIxM2ExODIiLCAicHQtYTlhMzViNGQwZCIsICJwdC0xNDIwMzYxMWUxIiwgInB0LTk1MjlkYjEwZWEiLCAicHQtMjE0ODE1M2NlZCIsICJwdC1mMGYzMDE5YmFmIiwgInB0LWNkODU1ZmE3M2MiLCAicHQtZTVlNWYzNWI5YiIsICJwdC1mZGUzM2E1OWM5IiwgInB0LTUyMDc4YzAxYTgiLCAicHQtMGUwNGE4NjJhOCIsICJwdC1kMGIwZGYxZTJmIiwgInB0LTIyMTBiZmYyMjQiLCAicHQtNmM3ZDQxYTcyNyIsICJwdC1mZWNjYjliNWI5IiwgInB0LTIwNzcwNDgwNzMiLCAicHQtODk0NTkxMzgxMSIsICJwdC1hNmQ5YWQ3MTMxIiwgInB0LWM2YTI5NTEwYTQiLCAicHQtN2ExOTBkMjg5MyIsICJwdC1kZDZhMTlhNjQzIiwgInB0LTJjZmZmOGNhZjgiLCAicHQtNmY3ODIxOTIxYiIsICJwdC1mMjI5YjQyZGFlIiwgInB0LWQ5YTg3YjY2NGEiLCAicHQtNGJlMDRkMGVlNiIsICJwdC1iOTNmOGNkMjg2IiwgInB0LTgyMGIyYjJkN2MiLCAicHQtZmZjMDEwYzBlNSIsICJwdC01ODJmZWM1MDkxIiwgInB0LWQ1MGM0NDMwNmEiLCAicHQtZDA5ZDE3YTA2ZCIsICJwdC1iMDcxZWNkNmVmIiwgInB0LWRiY2JhZjMwYmYiLCAicHQtODk0NjdjYzJlYyIsICJwdC0wYzE5YzJlMmRjIiwgInB0LWNmYmZmYjgzN2MiLCAicHQtZWM2OWI1YWM2NSIsICJwdC04ZDUxZmY3YjYwIiwgInB0LTA4MTk5ZjgzNTQiLCAicHQtYmQ5ZTRhZGNlNyIsICJwdC01MmQ2NGI4N2E5IiwgInB0LWFmMmFhODNlZjYiLCAicHQtZTk2ZTNlZjUzZSIsICJwdC0wNWRhNjMwMDYyIiwgInB0LWNjNTg5NDA5NjEiLCAicHQtYjliMjNjZDllYSIsICJwdC1hYzA2Zjg4ZmIwIiwgInB0LTM0N2Q4YWExOTkiLCAicHQtZGY4MTczY2E0NCIsICJwdC04MDQwNThjNDY4IiwgInB0LTI5YzMzZDM5NzMiLCAicHQtYTljNzRiODZkNiIsICJwdC02ZmUzNTE3MTAxIiwgInB0LWYyOGU4ZmFhMDEiLCAicHQtYzkwMmQ2OGFhOSIsICJwdC0zYzVmZTg5MzIyIiwgInB0LTllZmFhNGNlNmMiLCAicHQtMjY4YTUyNTcyMyIsICJwdC1jODQ2OGI3ZmNhIiwgInB0LTljODQ1ZGU1ODYiLCAicHQtY2QzY2Q4ZWFmOCIsICJwdC04ZTZjYTlkY2QwIiwgInB0LWNiNzE5YWE5MmIiLCAicHQtMDQ3OTQ0M2Y0NiIsICJwdC0xMjhmNGExOTQ3IiwgInB0LTc1NjkwNDYyNTUiLCAicHQtZDBmMjgwZmQ1YS04Yjk4IiwgInB0LTU3ODM4OTk0Y2EtOGI5OCIsICJwdC1kMmZhZWM0YTE1IiwgInB0LWM1ZjQ0ZjIzNzciLCAicHQtYjEyOWQ0ZWZlNCIsICJwdC1iOWQwNTZiYmU0IiwgInB0LTIzMDEwYTcwODgiLCAicHQtY2U0OTIxYWRiZiIsICJwdC04ZGIxYThmMzAzIiwgInB0LWVjNTk0YjgwYzYiLCAicHQtY2EzMmZlODQ2NyIsICJwdC1iYmJhZTM3NzU2IiwgInB0LTdjOTNlMjRhYjgiLCAicHQtMGYwODJlYTliNyIsICJwdC1jNTIyOGEyOGM5IiwgInB0LWVjMzRiMzZlZDQiLCAicHQtYjRlOGM4MjY2ZSIsICJwdC01MmQ2NGI4N2E5LThiOTgiLCAicHQtNDQzNmEwM2FmOSIsICJwdC04NGZkZGQzNDAxIiwgInB0LWU4MDRmYTgwMjIiLCAicHQtMjczMDhjZGQyNSIsICJwdC0zYmE5MmRkOGY3Il0sCiAibm90ZXMiOiBbCiAgIuS4gOS7vemAmuefpeW4puS4pOS4quWkp+e6su+8iOWFiOi/m+aAp+ivhOS7t++8j+a/gOWKseacuuWItu+8ie+8jOS4pOWll+Wkp+e6suWQhOiHquS7juOAjOS4gOOAgeOAjemHjeaWsOi1t+e8lu+8jOaVheOAjOS4gOOAgeWfuuacrOaAnei3r+OAjeWcqOaWh+S7tuWGheWHuueOsOS4pOasoe+8iDE2IOihjOOAgTExNiDooYzvvInvvIznvJblj7fph43lpI3kvYbliIblsZ7kuI3lkIzlpKfnurLvvIzmjInljp/mlofkv53nlZnjgIHmnKrmlLnnvJblj7fvvIznlKjoioLmoIfpopjmiYDlnKjooYzljLrliIbjgIIiLAogICLnrKwgMS0yIOihjOS4uumAmuefpeagh+mimO+8iOaKmOihjO+8ieOAgeesrCAzIOihjOaWh+WPt+OAjOS4remdkuWKnuWPkeOAlDIwMjDjgJUzIOWPt+OAjeOAgeesrCA0LTYg6KGM5Li76YCB44CB56ysIDctOCDooYzmraPmlofjgIHnrKwgOS0xMCDooYznvbLlkI3kuI7ml6XmnJ/vvIzlkIjkuLrpgJrnn6XoioLjgIIiLAogICJwdC03NTY5MDQ2MjU1IOeahOW8leaWh+aKiue9suWQje+8iDktMTAg6KGM77yJ5LiO5aSn6ZKi5qCH6aKY77yIMTItMTMg6KGM77yJ44CB5YmN6KiA6aaW5Y+l6L+e5oiQ5LiA5Y+l77yM6Leo5LqG6YCa55+l6IqC5LiO5qCH6aKY6IqC77yM5pWF5Y+m6K6+54i26IqC44CM5Y2w5Y+R6YCa55+l5LiO5YWI6L+b5oCn6K+E5Lu35aSn57qy5qCH6aKY5Yy644CN77yIMS0xMyDooYzvvInmib/mjqXvvIzlrZDoioLkuLrpgJrnn6XoioLvvIgxLTEw77yJ5LiO5qCH6aKY6IqC77yIMTItMTPvvInvvIzml6Dpg6jliIbkuqTlj6DjgIIiLAogICLnrKwgODYg6KGM5Li644CM6ZmE5Lu277ya5YiG6aKG5Z+f5Zui5ZGY5YWI6L+b5oCn6K+E5Lu35Y+C6ICD57uG5YiZ77yINiDnsbvvvInjgI3jgIHnrKwgODgg6KGM44CM6ZmE5Lu244CN44CB56ysIDg5IOihjOmZhOS7tuagh+mimO+8jOS4ieihjOS4juaTjeS9nOivtOaYjuWQjOWxnumZhOS7tu+8m3B0LTBmMDgyZWE5Yjcg55qE5byV5paH5LuO56ysIDg2IOihjOi3qOWIsOesrCA4OSDooYzvvIzmlYXliJflnKjpmYTku7bniLboioLvvIg4Ni0xMDTvvInvvIzjgIzmk43kvZzor7TmmI7jgI3kuLrlhbblrZDoioLvvIg5MC0xMDTvvInjgIIiLAogICLnrKwgODcg6KGM5LiO56ysIDEwNS0xMTEg6KGM5Li656m655m977yI5Y6fIFBERiDliIbpobXnlZnkuIvnmoTnqbrooYzvvInvvIzkuI3lsZ7kuo7ku7vkvZXoioLjgIIiLAogICLnrKwgMTc1LTE3NiDooYzkuLrniYjmnYPkuI7mioDmnK/mlK/mjIHooYzvvIzljZXliJfoioLjgIIiLAogICLkuKTkuKrlpKfpkqLmraPmloflnYfkuLrjgIzkuIDjgIHkuozjgIHkuInigKbjgI3liqDjgIwxLi8yLi8zLuKApuOAjeS4pOWxgu+8jOeItuiKgu+8iOS6lOOAgeaMh+WvvOagh+WHhu+8m+S4g+OAgee7hOe7h+WunuaWve+8m+S6jOOAgea/gOWKseaWueW8j++8m+S4ieOAgee7hOe7h+WunuaWve+8ieWMheS9j+WtkOiKgu+8jOWtkOiKguWMuumXtOWdh+WcqOeItuiKguWGheOAgiIKIF0KfQo=
+{
+ "key": "1c3e4065",
+ "title": "共青团中央办公厅关于印发《新时代共青团员先进性评价指导大纲（试行）》和《新时代共青团激励机制指导大纲（试行）》的通知",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "印发通知与先进性评价大纲标题区",
+   "heading_kind": "derived",
+   "lines": [1, 13],
+   "items": ["pt-7569046255"],
+   "chars": 268
+  },
+  {
+   "no": "—",
+   "heading": "共青团中央办公厅关于印发《新时代共青团员先进性评价指导大纲（试行）》和《新时代共青团激励机制指导大纲（试行）》的通知",
+   "heading_kind": "author",
+   "lines": [1, 10],
+   "items": ["rule-1c3e4065", "pt-0479443f46", "pt-128f4a1947"],
+   "chars": 247
+  },
+  {
+   "no": "—",
+   "heading": "新时代共青团员先进性评价指导大纲（试行）",
+   "heading_kind": "author",
+   "lines": [12, 13],
+   "items": [],
+   "chars": 20
+  },
+  {
+   "no": "—",
+   "heading": "先进性评价大纲的制定说明",
+   "heading_kind": "derived",
+   "lines": [14, 15],
+   "items": ["pt-fbbbed3d51"],
+   "chars": 72
+  },
+  {
+   "no": "一",
+   "heading": "基本思路",
+   "heading_kind": "author",
+   "lines": [16, 21],
+   "items": ["pt-d0f280fd5a-8b98", "pt-d0f280fd5a"],
+   "chars": 165
+  },
+  {
+   "no": "二",
+   "heading": "评价对象",
+   "heading_kind": "author",
+   "lines": [22, 23],
+   "items": ["pt-57838994ca-8b98", "pt-57838994ca"],
+   "chars": 41
+  },
+  {
+   "no": "三",
+   "heading": "评价原则",
+   "heading_kind": "author",
+   "lines": [24, 27],
+   "items": ["pt-d2faec4a15", "pt-2f2175bf72", "pt-4399f8f268"],
+   "chars": 119
+  },
+  {
+   "no": "四",
+   "heading": "评价主体",
+   "heading_kind": "author",
+   "lines": [28, 34],
+   "items": ["pt-c5f44f2377", "pt-317132aa16", "pt-e540739d2e", "pt-a6694f6797", "pt-c89b13a182"],
+   "chars": 171
+  },
+  {
+   "no": "五",
+   "heading": "指导标准",
+   "heading_kind": "author",
+   "lines": [35, 63],
+   "items": ["pt-b129d4efe4"],
+   "chars": 956
+  },
+  {
+   "no": "1",
+   "heading": "有信仰",
+   "heading_kind": "author",
+   "lines": [36, 41],
+   "items": ["pt-a9a35b4d0d", "pt-14203611e1", "pt-9529db10ea"],
+   "chars": 202
+  },
+  {
+   "no": "2",
+   "heading": "讲政治",
+   "heading_kind": "author",
+   "lines": [42, 48],
+   "items": ["pt-2148153ced", "pt-b9d056bbe4", "pt-f0f3019baf", "pt-cd855fa73c", "pt-e5e5f35b9b"],
+   "chars": 235
+  },
+  {
+   "no": "3",
+   "heading": "重品行",
+   "heading_kind": "author",
+   "lines": [49, 54],
+   "items": ["pt-fde33a59c9", "pt-23010a7088", "pt-52078c01a8", "pt-0e04a862a8", "pt-d0b0df1e2f", "pt-2210bff224"],
+   "chars": 219
+  },
+  {
+   "no": "4",
+   "heading": "争先锋",
+   "heading_kind": "author",
+   "lines": [55, 59],
+   "items": ["pt-6c7d41a727", "pt-ce4921adbf", "pt-feccb9b5b9", "pt-2077048073", "pt-8945913811"],
+   "chars": 157
+  },
+  {
+   "no": "5",
+   "heading": "守纪律",
+   "heading_kind": "author",
+   "lines": [60, 63],
+   "items": ["pt-a6d9ad7131", "pt-8db1a8f303", "pt-c6a29510a4", "pt-7a190d2893"],
+   "chars": 135
+  },
+  {
+   "no": "六",
+   "heading": "指标体系",
+   "heading_kind": "author",
+   "lines": [64, 69],
+   "items": ["pt-ec594b80c6", "pt-dd6a19a643", "pt-2cfff8caf8"],
+   "chars": 189
+  },
+  {
+   "no": "七",
+   "heading": "组织实施",
+   "heading_kind": "author",
+   "lines": [70, 85],
+   "items": ["pt-ca32fe8467"],
+   "chars": 531
+  },
+  {
+   "no": "1",
+   "heading": "评价频次",
+   "heading_kind": "author",
+   "lines": [71, 72],
+   "items": ["pt-6f7821921b", "pt-f229b42dae"],
+   "chars": 75
+  },
+  {
+   "no": "2",
+   "heading": "操作方式",
+   "heading_kind": "author",
+   "lines": [73, 76],
+   "items": ["pt-d9a87b664a", "pt-bbbae37756", "pt-4be04d0ee6", "pt-b93f8cd286"],
+   "chars": 150
+  },
+  {
+   "no": "3",
+   "heading": "结果运用",
+   "heading_kind": "author",
+   "lines": [77, 82],
+   "items": ["pt-820b2b2d7c", "pt-7c93e24ab8", "pt-ffc010c0e5", "pt-582fec5091", "pt-d50c44306a", "pt-d09d17a06d", "pt-b071ecd6ef"],
+   "chars": 191
+  },
+  {
+   "no": "4",
+   "heading": "组织领导",
+   "heading_kind": "author",
+   "lines": [83, 85],
+   "items": ["pt-dbcbaf30bf", "pt-89467cc2ec"],
+   "chars": 107
+  },
+  {
+   "no": "—",
+   "heading": "附件：分领域团员先进性评价参考细则（6类）",
+   "heading_kind": "derived",
+   "lines": [86, 104],
+   "items": ["pt-0f082ea9b7"],
+   "chars": 509
+  },
+  {
+   "no": "—",
+   "heading": "操作说明",
+   "heading_kind": "author",
+   "lines": [90, 104],
+   "items": ["pt-c5228a28c9", "pt-0c19c2e2dc", "pt-cfbffb837c", "pt-ec69b5ac65", "pt-8d51ff7b60", "pt-ec34b36ed4", "pt-08199f8354", "pt-b4e8c8266e"],
+   "chars": 461
+  },
+  {
+   "no": "—",
+   "heading": "新时代共青团激励机制指导大纲（试行）",
+   "heading_kind": "author",
+   "lines": [112, 112],
+   "items": [],
+   "chars": 18
+  },
+  {
+   "no": "—",
+   "heading": "激励机制大纲的制定说明",
+   "heading_kind": "derived",
+   "lines": [113, 115],
+   "items": ["pt-bd9e4adce7"],
+   "chars": 96
+  },
+  {
+   "no": "一",
+   "heading": "基本思路",
+   "heading_kind": "author",
+   "lines": [116, 121],
+   "items": ["pt-52d64b87a9-8b98", "pt-52d64b87a9"],
+   "chars": 175
+  },
+  {
+   "no": "二",
+   "heading": "激励方式",
+   "heading_kind": "author",
+   "lines": [122, 161],
+   "items": ["pt-4436a03af9"],
+   "chars": 1370
+  },
+  {
+   "no": "1",
+   "heading": "入团激励",
+   "heading_kind": "author",
+   "lines": [123, 127],
+   "items": ["pt-af2aa83ef6", "pt-e96e3ef53e", "pt-05da630062"],
+   "chars": 186
+  },
+  {
+   "no": "2",
+   "heading": "评议激励",
+   "heading_kind": "author",
+   "lines": [128, 131],
+   "items": ["pt-cc58940961", "pt-84fddd3401", "pt-b9b23cd9ea", "pt-ac06f88fb0"],
+   "chars": 145
+  },
+  {
+   "no": "3",
+   "heading": "荣誉激励",
+   "heading_kind": "author",
+   "lines": [132, 151],
+   "items": ["pt-347d8aa199", "pt-e804fa8022", "pt-df8173ca44", "pt-804058c468", "pt-29c33d3973", "pt-a9c74b86d6", "pt-6fe3517101"],
+   "chars": 678
+  },
+  {
+   "no": "4",
+   "heading": "机会激励",
+   "heading_kind": "author",
+   "lines": [152, 157],
+   "items": ["pt-f28e8faa01", "pt-c902d68aa9"],
+   "chars": 212
+  },
+  {
+   "no": "5",
+   "heading": "发展激励",
+   "heading_kind": "author",
+   "lines": [158, 161],
+   "items": ["pt-3c5fe89322", "pt-9efaa4ce6c"],
+   "chars": 141
+  },
+  {
+   "no": "三",
+   "heading": "组织实施",
+   "heading_kind": "author",
+   "lines": [162, 174],
+   "items": ["pt-27308cdd25"],
+   "chars": 400
+  },
+  {
+   "no": "1",
+   "heading": "强化分层激励",
+   "heading_kind": "author",
+   "lines": [163, 165],
+   "items": ["pt-268a525723"],
+   "chars": 96
+  },
+  {
+   "no": "2",
+   "heading": "注重科学累进",
+   "heading_kind": "author",
+   "lines": [166, 168],
+   "items": ["pt-c8468b7fca"],
+   "chars": 91
+  },
+  {
+   "no": "3",
+   "heading": "积极探索创新",
+   "heading_kind": "author",
+   "lines": [169, 170],
+   "items": ["pt-9c845de586"],
+   "chars": 75
+  },
+  {
+   "no": "4",
+   "heading": "加强支持保障",
+   "heading_kind": "author",
+   "lines": [171, 174],
+   "items": ["pt-cd3cd8eaf8", "pt-3ba92dd8f7", "pt-8e6ca9dcd0", "pt-cb719aa92b"],
+   "chars": 130
+  },
+  {
+   "no": "—",
+   "heading": "版权与技术支持",
+   "heading_kind": "derived",
+   "lines": [175, 176],
+   "items": [],
+   "chars": 26
+  }
+ ],
+ "items": ["rule-1c3e4065", "pt-fbbbed3d51", "pt-d0f280fd5a", "pt-57838994ca", "pt-2f2175bf72", "pt-4399f8f268", "pt-317132aa16", "pt-e540739d2e", "pt-a6694f6797", "pt-c89b13a182", "pt-a9a35b4d0d", "pt-14203611e1", "pt-9529db10ea", "pt-2148153ced", "pt-f0f3019baf", "pt-cd855fa73c", "pt-e5e5f35b9b", "pt-fde33a59c9", "pt-52078c01a8", "pt-0e04a862a8", "pt-d0b0df1e2f", "pt-2210bff224", "pt-6c7d41a727", "pt-feccb9b5b9", "pt-2077048073", "pt-8945913811", "pt-a6d9ad7131", "pt-c6a29510a4", "pt-7a190d2893", "pt-dd6a19a643", "pt-2cfff8caf8", "pt-6f7821921b", "pt-f229b42dae", "pt-d9a87b664a", "pt-4be04d0ee6", "pt-b93f8cd286", "pt-820b2b2d7c", "pt-ffc010c0e5", "pt-582fec5091", "pt-d50c44306a", "pt-d09d17a06d", "pt-b071ecd6ef", "pt-dbcbaf30bf", "pt-89467cc2ec", "pt-0c19c2e2dc", "pt-cfbffb837c", "pt-ec69b5ac65", "pt-8d51ff7b60", "pt-08199f8354", "pt-bd9e4adce7", "pt-52d64b87a9", "pt-af2aa83ef6", "pt-e96e3ef53e", "pt-05da630062", "pt-cc58940961", "pt-b9b23cd9ea", "pt-ac06f88fb0", "pt-347d8aa199", "pt-df8173ca44", "pt-804058c468", "pt-29c33d3973", "pt-a9c74b86d6", "pt-6fe3517101", "pt-f28e8faa01", "pt-c902d68aa9", "pt-3c5fe89322", "pt-9efaa4ce6c", "pt-268a525723", "pt-c8468b7fca", "pt-9c845de586", "pt-cd3cd8eaf8", "pt-8e6ca9dcd0", "pt-cb719aa92b", "pt-0479443f46", "pt-128f4a1947", "pt-7569046255", "pt-d0f280fd5a-8b98", "pt-57838994ca-8b98", "pt-d2faec4a15", "pt-c5f44f2377", "pt-b129d4efe4", "pt-b9d056bbe4", "pt-23010a7088", "pt-ce4921adbf", "pt-8db1a8f303", "pt-ec594b80c6", "pt-ca32fe8467", "pt-bbbae37756", "pt-7c93e24ab8", "pt-0f082ea9b7", "pt-c5228a28c9", "pt-ec34b36ed4", "pt-b4e8c8266e", "pt-52d64b87a9-8b98", "pt-4436a03af9", "pt-84fddd3401", "pt-e804fa8022", "pt-27308cdd25", "pt-3ba92dd8f7"],
+ "notes": [
+  "一份通知带两个大纲（先进性评价／激励机制），两套大纲各自从「一、」重新起编，故「一、基本思路」在文件内出现两次（16 行、116 行），编号重复但分属不同大纲，按原文保留、未改编号，用节标题所在行区分。",
+  "第 1-2 行为通知标题（折行）、第 3 行文号「中青办发〔2020〕3 号」、第 4-6 行主送、第 7-8 行正文、第 9-10 行署名与日期，合为通知节。",
+  "pt-7569046255 的引文把署名（9-10 行）与大钢标题（12-13 行）、前言首句连成一句，跨了通知节与标题节，故另设父节「印发通知与先进性评价大纲标题区」（1-13 行）承接，子节为通知节（1-10）与标题节（12-13），无部分交叠。",
+  "第 86 行为「附件：分领域团员先进性评价参考细则（6 类）」、第 88 行「附件」、第 89 行附件标题，三行与操作说明同属附件；pt-0f082ea9b7 的引文从第 86 行跨到第 89 行，故列在附件父节（86-104），「操作说明」为其子节（90-104）。",
+  "第 87 行与第 105-111 行为空白（原 PDF 分页留下的空行），不属于任何节。",
+  "第 175-176 行为版权与技术支持行，单列节。",
+  "两个大钢正文均为「一、二、三…」加「1./2./3.…」两层，父节（五、指导标准；七、组织实施；二、激励方式；三、组织实施）包住子节，子节区间均在父节内。"
+ ]
+}

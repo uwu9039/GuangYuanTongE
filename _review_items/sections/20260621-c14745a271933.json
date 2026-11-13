@@ -1,1 +1,192 @@
-ew0KICJrZXkiOiAiMjAyNjA2MjEtYzE0NzQ1YTI3MTkzMyIsDQogInRpdGxlIjogIuS7peS/oeaBr+e7h+e/vOi1tOaXtuS7o+S5i+e6pu+9nOS/oeaBr+S8oOaSreWtpumZouS4vuihjDIwMjblsYrnoJTnqbbnlJ/mr5XkuJrlhbjnpLwiLA0KICJ0cnVuY2F0ZWQiOiBmYWxzZSwNCiAic2VjdGlvbnMiOiBbDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5paH56ug5qCH6aKYIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMSwNCiAgICAxDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1hYTRhZTg2MmM2Ig0KICAgXSwNCiAgICJjaGFycyI6IDMxDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi6aG16Z2i5qGG5p6277yI5qCP55uu5a+86Iiq44CB5qCP55uu5qiq5bmF44CB6Z2i5YyF5bGR5LiO5qCP55uu5ZCN77yJIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMiwNCiAgICAzNA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMjgyDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi6YeN5aSN5qCH6aKY5LiO5Y+R5biD5pe26Ze044CB5rWP6KeI5qyh5pWwIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMzUsDQogICAgMzYNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDUzDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5q2j5paH77yI5YW456S85YWo6L+H56iL77yM5ZCr5Zu+5rOo6KGM77yJIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMzcsDQogICAgODINCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LWNjNzNmNzY1YTEiLA0KICAgICJwdC1jOWI5MjcxNTRhIiwNCiAgICAicHQtMDdkZGRlMzRiZCIsDQogICAgInB0LTkwOWI4NTQ0MjMiLA0KICAgICJwdC05NGY4YTQ1ZDcyIg0KICAgXSwNCiAgICJjaGFycyI6IDMwOTENCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLlr7zor63vvJrlhbjnpLzml7bpl7TlnLDngrnjgIHlh7rluK3pooblr7zkuI7kuLvmjIEiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICAzNywNCiAgICA0MA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtYTIzNTQyMDEwYSIsDQogICAgInB0LTU1OTFkZDBjMDQiDQogICBdLA0KICAgImNoYXJzIjogMzQzDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi546w5Zy65biI55Sf6b2Q5ZSx5Zu95q2MIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA0MSwNCiAgICA0MQ0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogOA0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuadjuiIkumZoumVv+iHtOi+niIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNDIsDQogICAgNDUNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDI4NQ0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuaVmeW4iOS7o+ihqOiWm+WuneeQtOWJr+aVmeaOiOWPkeiogCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNDYsDQogICAgNDkNCiAgIF0sDQogICAiaXRlbXMiOiBbXSwNCiAgICJjaGFycyI6IDI1Mg0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuingueci+avleS4muinhumikSDmhJ/osKLluIjmgakiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDUwLA0KICAgIDUzDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiAyMDENCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLmr5XkuJrnlJ/ku6Pooajlj5HoqIAiLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDU0LA0KICAgIDY0DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0xYmM1Y2ZhM2ZlIiwNCiAgICAicHQtZjBiZWNlMGE0ZCIsDQogICAgInB0LWQ2NjYwYTQwMGUiLA0KICAgICJwdC02Yjg0ZWE0ZjRiIg0KICAgXSwNCiAgICJjaGFycyI6IDg2MA0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuavleS4mueUn+ihqOW9sCIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgNjUsDQogICAgODINCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTQ3MGQ5ZTg5MWYiLA0KICAgICJwdC05MmVmMjFjNTNlIiwNCiAgICAicHQtMDBkMmQyMWE2ZCIsDQogICAgInB0LTExOWEzZTY4YjMiLA0KICAgICJwdC1hZmIwNGZkZTcyIiwNCiAgICAicHQtNTBhNjhlMDA4ZCIsDQogICAgInB0LWVhYzRmMzI5ZWYiDQogICBdLA0KICAgImNoYXJzIjogMTE0Mg0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIumhteiEmu+8iOWPi+aDhemTvuaOpeOAgeWcsOWdgOmCrue8luOAgeeJiOadg+Wkh+ahiOOAgeWbnuWIsOmhtumDqOOAgeiuv+mXrue7n+iuoe+8iSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDgzLA0KICAgIDEwMA0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMzkzDQogIH0NCiBdLA0KICJpdGVtcyI6IFsNCiAgInB0LWFhNGFlODYyYzYiLA0KICAicHQtYTIzNTQyMDEwYSIsDQogICJwdC01NTkxZGQwYzA0IiwNCiAgInB0LWNjNzNmNzY1YTEiLA0KICAicHQtYzliOTI3MTU0YSIsDQogICJwdC0wN2RkZGUzNGJkIiwNCiAgInB0LTkwOWI4NTQ0MjMiLA0KICAicHQtNmI4NGVhNGY0YiIsDQogICJwdC0xYmM1Y2ZhM2ZlIiwNCiAgInB0LWYwYmVjZTBhNGQiLA0KICAicHQtZDY2NjBhNDAwZSIsDQogICJwdC05NGY4YTQ1ZDcyIiwNCiAgInB0LTQ3MGQ5ZTg5MWYiLA0KICAicHQtOTJlZjIxYzUzZSIsDQogICJwdC0wMGQyZDIxYTZkIiwNCiAgInB0LTExOWEzZTY4YjMiLA0KICAicHQtYWZiMDRmZGU3MiIsDQogICJwdC01MGE2OGUwMDhkIiwNCiAgInB0LWVhYzRmMzI5ZWYiDQogXSwNCiAibm90ZXMiOiBbDQogICIyMDI2LTExLTEy77ya5pys5Lu25piv5L+h5oGv5Lyg5pKt5a2m6Zmi44CM5Zui5a2m5Yqo5oCB44CN5qCP55uu55qE5LiA56+H5q+V5Lia5YW456S86YCa56i/44CC5q2j5paH5pyJ5bCP5qCH6aKY77yM5L2G5oq95Y+W5oqK5a6D5Lus5o6S5oiQ5LqG54us56uL5Y2V6KGM44CB5LiU5LiO57Sn6ZqP55qE5Zu+54mH6KGML+WbvuazqOihjOS6pOmUme+8jOWwj+agh+mimOWFsSA2IOS4qu+8muesrCA0MSDooYzjgIznjrDlnLrluIjnlJ/pvZDllLHlm73mrYzjgI3jgIHnrKwgNDIg6KGM44CM5p2O6IiS6Zmi6ZW/6Ie06L6e44CN44CB56ysIDQ2IOihjOOAjOaVmeW4iOS7o+ihqOiWm+WuneeQtOWJr+aVmeaOiOWPkeiogOOAjeOAgeesrCA1MCDooYzjgIzop4LnnIvmr5XkuJrop4bpopEg5oSf6LCi5biI5oGp44CN44CB56ysIDU0IOihjOOAjOavleS4mueUn+S7o+ihqOWPkeiogOOAjeOAgeesrCA2NSDooYzjgIzmr5XkuJrnlJ/ooajlvbDjgI3igJTigJTov5kgNiDoioIgaGVhZGluZyDpgJDlrZflj5bljp/mlofvvIhhdXRob3LvvInvvIzlhbbkvZnoioLlkI3mmK/miJHmpoLmi6znmoTvvIhkZXJpdmVk77yJ44CCIiwNCiAgIumhtemdoue7k+aehO+8muesrCAxIOihjOaWh+eroOagh+mimO+8m+esrCAyIOihjCBsb2dvIOmZhOS7tuOAgeesrCAz4oCTMjkg6KGM5qCP55uu5a+86Iiq44CB56ysIDMwIOihjOagj+ebruaoquW5heOAgeesrCAzMeKAkzM0IOihjOOAjOWFmue+pOW3peS9nO+8j+mmlumhtSDlhZrnvqTlt6XkvZwg5Zui5a2m5Yqo5oCB77yP5YWa5bu65Yqo5oCB77yP5Zui5a2m5Yqo5oCB44CN77yI5LiK6L+w5b2S6aG16Z2i5qGG5p6277yJ77yb56ysIDM1IOihjOmHjeWkjeagh+mimOOAgeesrCAzNiDooYzlj5HluIPml7bpl7QgMjAyNi0wNi0yMSDkuI7mtY/op4jmrKHmlbDvvJvnrKwgMzfigJM4MiDooYzmraPmlofvvJvnrKwgODPigJM5OSDooYzpobXohJrvvIznrKwgMTAwIOihjOS4uuiuv+mXrue7n+iuoemZhOS7tuihjOOAgiIsDQogICLniLblrZDoioLlhbPns7vvvJrnrKwgNCDoioLjgIzmraPmlofvvIjlhbjnpLzlhajov4fnqIvvvInjgI3mmK/niLboioLvvIjljLrpl7QgMzfigJM4Mu+8jOimhuebluWFqOmDqOato+aWh+S4juWFtumXtOeahCAxNSDlpIQgW+mZhOS7tl0g5Zu+54mH6KGM77yJ77yM5YW25LiLIDcg5Liq5a2Q6IqC5oyJ5bCP5qCH6aKY5YiH5YiG44CB5Yy66Ze06aaW5bC+55u45o6l5LiN55WZ57yd44CC54i26IqC5a2Y5Zyo55qE55CG55Sx5piv77ya5pyJIDUg5p2h5p2h55uu55qE5byV5paH6LW354K56JC95Zyo5Zu+5rOo6KGM44CB5LiU6Leo6L+H5LiL5LiA5Liq5a2Q6IqC55qE5bCP5qCH6aKY6KGM77yM5Y+q6IO95pW05q616JC95Yiw54i26IqC4oCU4oCUcHQtY2M3M2Y3NjVhMe+8iOesrCA0MeOAjOeOsOWcuuW4iOeUn+m9kOWUseWbveatjOOAjeKGkjQy44CM5p2O6IiS6Zmi6ZW/6Ie06L6e44CN4oaSNDMg5q2j5paH5q6177yJ44CBcHQtYzliOTI3MTU0Ye+8iOesrCA0NSDlm77ms6jjgIzmnY7oiJLpmaLplb/oh7Tovp7jgI3ihpI0NiDlsI/moIfpopjihpI0NyDmraPmlofmrrXvvInjgIFwdC0wN2RkZGUzNGJk77yI56ysIDQ54oaSNTDihpI1Me+8ieOAgXB0LTkwOWI4NTQ0MjPvvIjnrKwgNTPihpI1NOKGkjU177yJ44CBcHQtOTRmOGE0NWQ3Mu+8iOesrCA2NCDlm77ms6jjgIzkuLrmr5XkuJrnlJ/ku6PooajkvanmiLTpmaLlvr3jgI3ihpI2NSDlsI/moIfpopjihpI2NiDmraPmlofmrrXvvInjgILlhbbkvZkgMTIg5p2h6JC95Zyo5YW35L2T5a2Q6IqC44CCIiwNCiAgIuWOn+aWh+W8guW4uO+8iOaKveWPluaKiumVv+aWh+aMieWbvueJh+S9jee9ruWIh+W8gO+8ie+8muato+aWh+auteS5i+mXtOWkueedgOOAjFvpmYTku7ZdIC9fdXBsb2FkL2FydGljbGUvaW1hZ2VzL+KApnBuZ+OAjeWbvueJh+ihjOS4juWFtuWQjueahOWbvuazqOihjO+8iOWmguesrCA0MCDooYzlm77jgIE0MSDooYzlm77ms6jvvJs0NCDooYzlm77jgIE0NSDooYzlm77ms6jvvInvvJvlsI/moIfpopjkuI7lm77ms6jlpKfph4/ph43lpI3vvIjnrKwgNDIg5LiOIDQ1IOmDveaYr+OAjOadjuiIkumZoumVv+iHtOi+nuOAje+8jOesrCA0NuOAjOKApuWPkeiogOOAjeS4jiA0OeOAjOKApuiHtOi+nuOAje+8ie+8jOaJgOS7peWQjOS4gOWPpeivneWcqOacrOaWh+S7tumHjOWPr+iDveWHuueOsOS4pOasoe+8jOadoeebruWumuS9jeaMieWQhOiHqiBxdW90ZSDnmoTpppblj6Xlj5booYzjgIIiLA0KICAiaXRlbXMuanNvbiDph4zpg6jliIbmoIfpopjmmK/miorlm77ms6gv5bCP5qCH6aKY5ou86L+b5q2j5paH6YCg5oiQ55qE5q6L5Y+l77yI5aaCIHB0LWNjNzNmNzY1YTHjgIznjrDlnLrluIjnlJ/pvZDllLHlm73mrYzjgIHmnY7oiJLpmaLplb/oh7Tovp7vvZznjrDlnLrluIjnlJ/pvZDllLHlm73mrYzmnY7oiJLpmaLplb/oh7Tovp7igKbjgI3vvInvvIzlrprkvY3kuIDlvovmjIkgcXVvdGUg5YmNIDI2IOWtl+OAgiIsDQogICLooYzlj7flj6PlvoTvvJpQeXRob24gc3BsaXQoJ1xcbicpIOWFsSAxMDAg6KGM77yI5pegIFxccuOAgeaXoCBcXGbvvInjgIIiDQogXQ0KfQ==
+{
+ "key": "20260621-c14745a271933",
+ "title": "以信息织翼赴时代之约｜信息传播学院举行2026届研究生毕业典礼",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "文章标题",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    1
+   ],
+   "items": [
+    "pt-aa4ae862c6"
+   ],
+   "chars": 31
+  },
+  {
+   "no": "—",
+   "heading": "页面框架（栏目导航、栏目横幅、面包屑与栏目名）",
+   "heading_kind": "derived",
+   "lines": [
+    2,
+    34
+   ],
+   "items": [],
+   "chars": 282
+  },
+  {
+   "no": "—",
+   "heading": "重复标题与发布时间、浏览次数",
+   "heading_kind": "derived",
+   "lines": [
+    35,
+    36
+   ],
+   "items": [],
+   "chars": 53
+  },
+  {
+   "no": "—",
+   "heading": "正文（典礼全过程，含图注行）",
+   "heading_kind": "derived",
+   "lines": [
+    37,
+    82
+   ],
+   "items": [
+    "pt-cc73f765a1",
+    "pt-c9b927154a",
+    "pt-07ddde34bd",
+    "pt-909b854423",
+    "pt-94f8a45d72"
+   ],
+   "chars": 3091
+  },
+  {
+   "no": "—",
+   "heading": "导语：典礼时间地点、出席领导与主持",
+   "heading_kind": "derived",
+   "lines": [
+    37,
+    40
+   ],
+   "items": [
+    "pt-a23542010a",
+    "pt-5591dd0c04"
+   ],
+   "chars": 343
+  },
+  {
+   "no": "—",
+   "heading": "现场师生齐唱国歌",
+   "heading_kind": "author",
+   "lines": [
+    41,
+    41
+   ],
+   "items": [],
+   "chars": 8
+  },
+  {
+   "no": "—",
+   "heading": "李舒院长致辞",
+   "heading_kind": "author",
+   "lines": [
+    42,
+    45
+   ],
+   "items": [],
+   "chars": 285
+  },
+  {
+   "no": "—",
+   "heading": "教师代表薛宝琴副教授发言",
+   "heading_kind": "author",
+   "lines": [
+    46,
+    49
+   ],
+   "items": [],
+   "chars": 252
+  },
+  {
+   "no": "—",
+   "heading": "观看毕业视频 感谢师恩",
+   "heading_kind": "author",
+   "lines": [
+    50,
+    53
+   ],
+   "items": [],
+   "chars": 201
+  },
+  {
+   "no": "—",
+   "heading": "毕业生代表发言",
+   "heading_kind": "author",
+   "lines": [
+    54,
+    64
+   ],
+   "items": [
+    "pt-1bc5cfa3fe",
+    "pt-f0bece0a4d",
+    "pt-d6660a400e",
+    "pt-6b84ea4f4b"
+   ],
+   "chars": 860
+  },
+  {
+   "no": "—",
+   "heading": "毕业生表彰",
+   "heading_kind": "author",
+   "lines": [
+    65,
+    82
+   ],
+   "items": [
+    "pt-470d9e891f",
+    "pt-92ef21c53e",
+    "pt-00d2d21a6d",
+    "pt-119a3e68b3",
+    "pt-afb04fde72",
+    "pt-50a68e008d",
+    "pt-eac4f329ef"
+   ],
+   "chars": 1142
+  },
+  {
+   "no": "—",
+   "heading": "页脚（友情链接、地址邮编、版权备案、回到顶部、访问统计）",
+   "heading_kind": "derived",
+   "lines": [
+    83,
+    100
+   ],
+   "items": [],
+   "chars": 393
+  }
+ ],
+ "items": [
+  "pt-aa4ae862c6",
+  "pt-a23542010a",
+  "pt-5591dd0c04",
+  "pt-cc73f765a1",
+  "pt-c9b927154a",
+  "pt-07ddde34bd",
+  "pt-909b854423",
+  "pt-6b84ea4f4b",
+  "pt-1bc5cfa3fe",
+  "pt-f0bece0a4d",
+  "pt-d6660a400e",
+  "pt-94f8a45d72",
+  "pt-470d9e891f",
+  "pt-92ef21c53e",
+  "pt-00d2d21a6d",
+  "pt-119a3e68b3",
+  "pt-afb04fde72",
+  "pt-50a68e008d",
+  "pt-eac4f329ef"
+ ],
+ "notes": [
+  "2026-11-12：本件是信息传播学院「团学动态」栏目的一篇毕业典礼通稿。正文有小标题，但抽取把它们排成了独立单行、且与紧随的图片行/图注行交错，小标题共 6 个：第 41 行「现场师生齐唱国歌」、第 42 行「李舒院长致辞」、第 46 行「教师代表薛宝琴副教授发言」、第 50 行「观看毕业视频 感谢师恩」、第 54 行「毕业生代表发言」、第 65 行「毕业生表彰」——这 6 节 heading 逐字取原文（author），其余节名是我概括的（derived）。",
+  "页面结构：第 1 行文章标题；第 2 行 logo 附件、第 3–29 行栏目导航、第 30 行栏目横幅、第 31–34 行「党群工作／首页 党群工作 团学动态／党建动态／团学动态」（上述归页面框架）；第 35 行重复标题、第 36 行发布时间 2026-06-21 与浏览次数；第 37–82 行正文；第 83–99 行页脚，第 100 行为访问统计附件行。",
+  "父子节关系：第 4 节「正文（典礼全过程）」是父节（区间 37–82，覆盖全部正文与其间的 15 处 [附件] 图片行），其下 7 个子节按小标题切分、区间首尾相接不留缝。父节存在的理由是：有 5 条条目的引文起点落在图注行、且跨过下一个子节的小标题行，只能整段落到父节——pt-cc73f765a1（第 41「现场师生齐唱国歌」→42「李舒院长致辞」→43 正文段）、pt-c9b927154a（第 45 图注「李舒院长致辞」→46 小标题→47 正文段）、pt-07ddde34bd（第 49→50→51）、pt-909b854423（第 53→54→55）、pt-94f8a45d72（第 64 图注「为毕业生代表佩戴院徽」→65 小标题→66 正文段）。其余 12 条落在具体子节。",
+  "原文异常（抽取把长文按图片位置切开）：正文段之间夹着「[附件] /_upload/article/images/…png」图片行与其后的图注行（如第 40 行图、41 行图注；44 行图、45 行图注）；小标题与图注大量重复（第 42 与 45 都是「李舒院长致辞」，第 46「…发言」与 49「…致辞」），所以同一句话在本文件里可能出现两次，条目定位按各自 quote 的首句取行。",
+  "items.json 里部分标题是把图注/小标题拼进正文造成的残句（如 pt-cc73f765a1「现场师生齐唱国歌、李舒院长致辞｜现场师生齐唱国歌李舒院长致辞…」），定位一律按 quote 前 26 字。",
+  "行号口径：Python split('\\n') 共 100 行（无 \\r、无 \\f）。"
+ ]
+}

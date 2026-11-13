@@ -1,1 +1,121 @@
-ew0KICJrZXkiOiAi5paH54yu5L+d6ZqcLTU1ZTk2NDljNWJlY2MxMTFmMDBiMDlhNzZiODY2ZTU5YTExMyIsDQogInRpdGxlIjogIuWbvuS5pummhjIwMTblubTlm73lpJbmiqXliIrnm67lvZUiLA0KICJ0cnVuY2F0ZWQiOiBmYWxzZSwNCiAic2VjdGlvbnMiOiBbDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5Zu+5Lmm6aaGMjAxNuW5tOWbveWkluaKpeWIiuebruW9lSIsDQogICAiaGVhZGluZ19raW5kIjogImF1dGhvciIsDQogICAibGluZXMiOiBbDQogICAgMSwNCiAgICA3DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC05NGRmMmU3OWMxIiwNCiAgICAicHQtYjIwZDA3NjgzNyINCiAgIF0sDQogICAiY2hhcnMiOiAyMjMNCiAgfSwNCiAgew0KICAgIm5vIjogIuW6j+WPtzHigJMyOCIsDQogICAiaGVhZGluZyI6ICLooajkvZPnrKzkuIDoioLvvJrluo/lj7cgMeKAkzI4IOeahOerluaOkuadoeebriIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDgsDQogICAgOTENCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTUwOWI3Y2RjMGEiLA0KICAgICJwdC02NzRiYzU2ZjEzIiwNCiAgICAicHQtMTRmY2UwM2ZmMSINCiAgIF0sDQogICAiY2hhcnMiOiA5NzkNCiAgfSwNCiAgew0KICAgIm5vIjogIuW6j+WPtzI54oCTNTQiLA0KICAgImhlYWRpbmciOiAi6KGo5L2T56ys5LqM6IqC77ya5bqP5Y+3IDI54oCTNTQg55qE56uW5o6S5p2h55uuIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgOTIsDQogICAgMTY5DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0yMTk1YmU3OGU0Ig0KICAgXSwNCiAgICJjaGFycyI6IDEwMzkNCiAgfSwNCiAgew0KICAgIm5vIjogIuW6j+WPtzU14oCTODYiLA0KICAgImhlYWRpbmciOiAi6KGo5L2T56ys5LiJ6IqC77ya5bqP5Y+3IDU14oCTODYg55qE56uW5o6S5p2h55uuIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMTcwLA0KICAgIDI2NQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtY2NiNzVmOTkwNiIsDQogICAgInB0LTZkMDU5YmU3YzMiLA0KICAgICJwdC1lZWI5MTE5OGZkIiwNCiAgICAicHQtMTZiYmQ4NjlhNiIsDQogICAgInB0LWRhNGY3Y2U0NjUiDQogICBdLA0KICAgImNoYXJzIjogMTA0Ng0KICB9LA0KICB7DQogICAibm8iOiAi5bqP5Y+3ODfigJMxMDkiLA0KICAgImhlYWRpbmciOiAi6KGo5L2T56ys5Zub6IqC77ya5bqP5Y+3IDg34oCTMTA5IOeahOerluaOkuadoeebriIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDI2NiwNCiAgICAzMzQNCiAgIF0sDQogICAiaXRlbXMiOiBbDQogICAgInB0LTYyYmU1YjI2ZGIiLA0KICAgICJwdC1lMDBkMWIwYjQ4IiwNCiAgICAicHQtMTc5ODk4YzhmZiIsDQogICAgInB0LWY0MzhiYzRmY2IiDQogICBdLA0KICAgImNoYXJzIjogNjg1DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi6aG16ISa77yI5ZCI5L2c6aaG44CB6IGU57O75pa55byP5LiO54mI5p2D5aSH5qGI77yJIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMzM1LA0KICAgIDMzNw0KICAgXSwNCiAgICJpdGVtcyI6IFtdLA0KICAgImNoYXJzIjogMTQyDQogIH0NCiBdLA0KICJpdGVtcyI6IFsNCiAgInB0LTk0ZGYyZTc5YzEiLA0KICAicHQtYjIwZDA3NjgzNyIsDQogICJwdC01MDliN2NkYzBhIiwNCiAgInB0LTY3NGJjNTZmMTMiLA0KICAicHQtMTRmY2UwM2ZmMSIsDQogICJwdC0yMTk1YmU3OGU0IiwNCiAgInB0LWNjYjc1Zjk5MDYiLA0KICAicHQtNmQwNTliZTdjMyIsDQogICJwdC1lZWI5MTE5OGZkIiwNCiAgInB0LTE2YmJkODY5YTYiLA0KICAicHQtZGE0ZjdjZTQ2NSIsDQogICJwdC02MmJlNWIyNmRiIiwNCiAgInB0LWUwMGQxYjBiNDgiLA0KICAicHQtMTc5ODk4YzhmZiIsDQogICJwdC1mNDM4YmM0ZmNiIg0KIF0sDQogIm5vdGVzIjogWw0KICAiaWxpYiDliJfooajpobXmir3lj5bnmoTmmK8qKuS4gOW8oOihqCoq77ya56ysIDHigJM1IOihjOaYr+ivpuaDhemhteiRl+W9leS/oeaBr++8iOagh+mimOOAjOWbvuS5pummhjIwMTblubTlm73lpJbmiqXliIrnm67lvZXjgI3jgIHmnaXmupAgVVJM44CB5qCP55uu44CM5paH54yu5L+d6Zqc44CN44CB5L2c6ICF44CM5Zu+5Lmm6aaG44CN44CB5Y+R5biD5pe26Ze0IDIwMTYtMDEtMDHvvInvvIznrKwgNiDooYznqbrooYzvvIznrKwgNyDooYzmmK/liJfooajlpLTjgIzliIrlj7cgfCDliIrlkI0gfCDliIrpopHjgI3vvIjnq5bnur/mmK/ljp/mlofoh6rluKbnmoTliJfliIbpmpTnrKbvvInjgILmlYXnrKwgMeKAkzcg6KGM5ZCI5Li66aaW6IqC77yI6IqC5Y+344CM4oCU44CN77yMaGVhZGluZyDlj5bnrKwgMSDooYzljp/mlofvvIxhdXRob3LvvInjgIIiLA0KICAi6KGo5L2T5pivKirkuInliJfnq5bmjpLjgIHliJfml6Dms5Xlr7npvZAqKu+8muavj+S4quaKpeWIiuWNoCAzIOihjO+8iOesrCAxIOihjOWIiuWPt+OAgeesrCAyIOihjOWIiuWQjeOAgeesrCAzIOihjOWIiumike+8ie+8jOS7juesrCA4IOihjOi1t+OAgeatouS6juesrCAzMzQg6KGM77yM5YWxICgzMzQtOCsxKS8zID0gMTA5IOS4quaKpeWIiuOAguaVtOihqOayoeacieWwj+agh+mimOOAgeayoeacieOAjOesrFjmnaHjgI3jgIHmsqHmnInliIbpobXvvIzml6Dms5Xnhafljp/mlofotbfnq6DlkI3vvIzmlYXmjInluo/lj7fljLrpl7TliIflm5voioLvvIxoZWFkaW5nX2tpbmQg5YWo6YOo5Li6IGRlcml2ZWTjgIIiLA0KICAi5Zub6IqC55qEKirooYzljLrpl7QqKu+8iOS4ieihjOS4gOaKpeWIiu+8jOWPr+mAkOihjOaguOWvue+8ie+8muesrOS4gOiKguesrCA44oCTOTEg6KGMID0g5bqP5Y+3IDHigJMyOO+8iOW6j+WPtyAxIOi1t+S6juesrCA4IOihjO+8jOW6j+WPtyAyOCDnmoTnrKwgMyDooYzmraLkuo7nrKwgOTEg6KGM77yJ77yb56ys5LqM6IqC56ysIDky4oCTMTY5IOihjCA9IOW6j+WPtyAyOeKAkzU077yb56ys5LiJ6IqC56ysIDE3MOKAkzI2NSDooYwgPSDluo/lj7cgNTXigJM4Nu+8m+esrOWbm+iKguesrCAyNjbigJMzMzQg6KGMID0g5bqP5Y+3IDg34oCTMTA577yI5pyr5p2h44CM6Z+z6Z+/5oqA6KGT77ya6auY5YKz55yf6KaW6IG977yO44CN55qE5YiK6aKRIDEyIOWcqOesrCAzMzQg6KGM77yJ44CC56ysIDMzNeKAkzMzNyDooYzmmK/pobXohJrvvIznrKwgMzM4IOihjOaYr+aWh+S7tuacq+WwvuepuuihjOOAgiIsDQogICLliIfngrnmjInjgIzkuI3liIfmlq3ku7vkvZXkuIDmnaHlvJXmlofjgI3pgInlrprvvJpwdC02NzRiYzU2ZjEzIOeahOW8leaWh+S7juesrCA4NiDooYzjgIwzODBCMDAwMeOAjei/nuWIsOesrCA4OSDooYzjgIw0ODBCMDA0MOOAje+8jOaVheesrOS4gOiKguWPluWIsOesrCA5MSDooYzvvIjluo/lj7cgMjgg55qE5LiJ6KGM5pW05pS277yJ77yM6ICM6Z2e6b2Q5aS05YiH5Zyo56ysIDg4IOihjO+8m3B0LWRhNGY3Y2U0NjUg55qE5byV5paH5q2i5LqO56ysIDI2NCDooYzvvIzmlYXnrKzkuInoioLlj5bliLDnrKwgMjY1IOihjO+8iOW6j+WPtyA4NiDnmoTkuInooYzmlbTmlLbvvInjgILlm5voioLkuYvpl7TmsqHmnInku7vkvZXkuIDmnaHlvJXmlofot6joioLjgIIiLA0KICAi5p2h55uu5byV5paH5piv5oq95Y+W5pe25oqK55u46YK75Y2V5YWD5qC86buP6L+e55qE57uT5p6c77yI5aaCIHB0LTE2YmJkODY5YTYg55qE44CMNDIwQjAxNjZQb2V0aWNzVG9kYXkuNDQyMExCMDU1UG9ldGljcy42NTAwQjAxNDlQb3B1bGFyU2NpZW5jZS4xMjczNEMwMDYw44CN6Leo56ysIDIwNuKAkzIxNSDooYzjgIFwdC1lMDBkMWIwYjQ4IOeahOOAjEQwM1kwMDA05paH5Yyv5aCx77yOMzY1NzE2WTAwMDPjgI3ot6jnrKwgMzE34oCTMzIwIOihjO+8jOaKiuS4iuS4gOadoeeahOWIiumikeS4juS4i+S4gOadoeeahOWIiuWPt+aOpeWcqOS6huS4gOi1t++8ie+8jOW3suaMieW8leaWh+eahOacgOWwj+ihjOiMg+WbtOiQveiKgu+8jOacquehrOWhnuOAgiIsDQogICLljp/mloflvILluLjvvIjnuYHnroDkuI7or63np43mt7fmjpLvvInvvJrliIrlkI3lkKvnuYHkvZPvvIjlgrPoqJjmloflrbjvvI/li5XohabvvI/lu6Pop5Lpj6HvvI/pj6HloLHvvI/mlofljK/loLHvvI/nmoflhqDvvI/lnJbmm7jos4foqIrlrbjliIrvvI/mlJ3lvbHpm5zoqozvvInjgIHml6XmlofvvIjjgqLjgqTjg4fjgqLvvI/ml6XmnKzjgqvjg6Hjg6nvvI9OSEvmlL7pgIHnoJTnqbbjgajoqr/mn7vvvI7vvI/pn7Ppn7/mioDooZPvvInjgIHms5XmlofvvIhNb25kZSwgTGUu77yPUmV2dWUgZGUgTGl0dGVyYXR1cmUgQ29tcGFyZWUu77yJ5LiO5YWo6KeS5Y+l54K544CM77yO44CN77yI5aaC44CM5paH5Yyv5aCx77yO44CN44CM5buj6KeS6Y+h77yO44CN77yJ77yM5Z2H5oyJ5Y6f5paH5L+d55WZ77yM5pyq5YGa6KeE6IyD5YyW44CCIiwNCiAgIuWOn+aWh+W8guW4uO+8iOaVsOaNruacrOi6q++8ie+8muesrCA4NuKAkzg4IOihjOeahOOAjDM4MEIwMDAxIC8gRWR1Y2F0aW9uIERpZ2VzdC4gLyA544CN5LiO56ysIDg54oCTOTEg6KGM55qE44CMNDgwQjAwNDAgLyBFbXBpcmljYWwgU3R1ZHkgb2YgdGhlIEFydHMuIC8gMuOAjeWcqOihqOmHjOe0p+mCu+S9huWIiuWPt+S4jeWQjOexu++8m+esrCAzMTfigJMzMTkg6KGM44CMRDAzWTAwMDQgLyDmlofljK/loLHvvI4vIDM2NeOAjeeahOWIiumikeaYryAzNjXvvIjml6XmiqXvvInvvIzkuI7lkIzooajlpJrkuLogMuKAkzUyIOeahOacn+WIiuS4jeWQjO+8jOWxnuaKpee6uO+8jOacquWPpueri+iKguOAgiIsDQogICLpobXohJrvvIjnrKwgMzM14oCTMzM3IOihjO+8ieaYr+ermeeCuemAmueUqOWGheWuue+8muWQiOS9nOmmhuOAjOS4reWbveS8oOWqkuWkp+WtpiDlm73lrrbmlbDlrZflm77kuabppoYg6aaW6YO95Zu+5Lmm6aaG44CN44CB5oSP6KeB6YKu566xIGxpYkBjdWMuZWR1LmNu44CB54mI5p2D5LiO5aSH5qGI44CMQ29weXJpZ2h0IMKpIEFsbCBSaWdodHMgUmVzZXJ2ZWQuIOS4reWbveS8oOWqkuWkp+WtpuWbvuS5pummhiDniYjmnYPmiYDmnIkgLyDkuqwgSUNQIOWkhyAxMDAzOTU2NCDlj7cg5Lqs5YWs572R5a6J5aSHIDExMDQwMjQzMDAzMSDlj7cg5oC76K6/6Zeu6YeP77yaMjUwNzcwM+OAje+8jOWQiOS4uuS4gOiKguOAgeaXoOadoeebruiQveeCueOAgiIsDQogICIxNSDmnaHmnaHnm67lhajpg6jlnKjmnKzmloflkb3kuK3okL3ngrnvvIzml6Dot6jmlofku7blvJXnlKjvvJvooajkvZPlrozmlbTjgIHml6DmiKrmlq3vvJvmnKzku7bml6AgcnVsZS0qIOaWh+aho+e6p+adoeebruOAgiINCiBdDQp9
+{
+ "key": "文献保障-55e9649c5becc111f00b09a76b866e59a113",
+ "title": "图书馆2016年国外报刊目录",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "图书馆2016年国外报刊目录",
+   "heading_kind": "author",
+   "lines": [
+    1,
+    7
+   ],
+   "items": [
+    "pt-94df2e79c1",
+    "pt-b20d076837"
+   ],
+   "chars": 223
+  },
+  {
+   "no": "序号1–28",
+   "heading": "表体第一节：序号 1–28 的竖排条目",
+   "heading_kind": "derived",
+   "lines": [
+    8,
+    91
+   ],
+   "items": [
+    "pt-509b7cdc0a",
+    "pt-674bc56f13",
+    "pt-14fce03ff1"
+   ],
+   "chars": 979
+  },
+  {
+   "no": "序号29–54",
+   "heading": "表体第二节：序号 29–54 的竖排条目",
+   "heading_kind": "derived",
+   "lines": [
+    92,
+    169
+   ],
+   "items": [
+    "pt-2195be78e4"
+   ],
+   "chars": 1039
+  },
+  {
+   "no": "序号55–86",
+   "heading": "表体第三节：序号 55–86 的竖排条目",
+   "heading_kind": "derived",
+   "lines": [
+    170,
+    265
+   ],
+   "items": [
+    "pt-ccb75f9906",
+    "pt-6d059be7c3",
+    "pt-eeb91198fd",
+    "pt-16bbd869a6",
+    "pt-da4f7ce465"
+   ],
+   "chars": 1046
+  },
+  {
+   "no": "序号87–109",
+   "heading": "表体第四节：序号 87–109 的竖排条目",
+   "heading_kind": "derived",
+   "lines": [
+    266,
+    334
+   ],
+   "items": [
+    "pt-62be5b26db",
+    "pt-e00d1b0b48",
+    "pt-179898c8ff",
+    "pt-f438bc4fcb"
+   ],
+   "chars": 685
+  },
+  {
+   "no": "—",
+   "heading": "页脚（合作馆、联系方式与版权备案）",
+   "heading_kind": "derived",
+   "lines": [
+    335,
+    337
+   ],
+   "items": [],
+   "chars": 142
+  }
+ ],
+ "items": [
+  "pt-94df2e79c1",
+  "pt-b20d076837",
+  "pt-509b7cdc0a",
+  "pt-674bc56f13",
+  "pt-14fce03ff1",
+  "pt-2195be78e4",
+  "pt-ccb75f9906",
+  "pt-6d059be7c3",
+  "pt-eeb91198fd",
+  "pt-16bbd869a6",
+  "pt-da4f7ce465",
+  "pt-62be5b26db",
+  "pt-e00d1b0b48",
+  "pt-179898c8ff",
+  "pt-f438bc4fcb"
+ ],
+ "notes": [
+  "ilib 列表页抽取的是**一张表**：第 1–5 行是详情页著录信息（标题「图书馆2016年国外报刊目录」、来源 URL、栏目「文献保障」、作者「图书馆」、发布时间 2016-01-01），第 6 行空行，第 7 行是列表头「刊号 | 刊名 | 刊频」（竖线是原文自带的列分隔符）。故第 1–7 行合为首节（节号「—」，heading 取第 1 行原文，author）。",
+  "表体是**三列竖排、列无法对齐**：每个报刊占 3 行（第 1 行刊号、第 2 行刊名、第 3 行刊频），从第 8 行起、止于第 334 行，共 (334-8+1)/3 = 109 个报刊。整表没有小标题、没有「第X条」、没有分页，无法照原文起章名，故按序号区间切四节，heading_kind 全部为 derived。",
+  "四节的**行区间**（三行一报刊，可逐行核对）：第一节第 8–91 行 = 序号 1–28（序号 1 起于第 8 行，序号 28 的第 3 行止于第 91 行）；第二节第 92–169 行 = 序号 29–54；第三节第 170–265 行 = 序号 55–86；第四节第 266–334 行 = 序号 87–109（末条「音響技術：高傳真視聽．」的刊频 12 在第 334 行）。第 335–337 行是页脚，第 338 行是文件末尾空行。",
+  "切点按「不切断任何一条引文」选定：pt-674bc56f13 的引文从第 86 行「380B0001」连到第 89 行「480B0040」，故第一节取到第 91 行（序号 28 的三行整收），而非齐头切在第 88 行；pt-da4f7ce465 的引文止于第 264 行，故第三节取到第 265 行（序号 86 的三行整收）。四节之间没有任何一条引文跨节。",
+  "条目引文是抽取时把相邻单元格黏连的结果（如 pt-16bbd869a6 的「420B0166PoeticsToday.4420LB055Poetics.6500B0149PopularScience.12734C0060」跨第 206–215 行、pt-e00d1b0b48 的「D03Y0004文匯報．365716Y0003」跨第 317–320 行，把上一条的刊频与下一条的刊号接在了一起），已按引文的最小行范围落节，未硬塞。",
+  "原文异常（繁简与语种混排）：刊名含繁体（傳記文學／動腦／廣角鏡／鏡報／文匯報／皇冠／圖書資訊學刊／攝影雜誌）、日文（アイデア／日本カメラ／NHK放送研究と調査．／音響技術）、法文（Monde, Le.／Revue de Litterature Comparee.）与全角句点「．」（如「文匯報．」「廣角鏡．」），均按原文保留，未做规范化。",
+  "原文异常（数据本身）：第 86–88 行的「380B0001 / Education Digest. / 9」与第 89–91 行的「480B0040 / Empirical Study of the Arts. / 2」在表里紧邻但刊号不同类；第 317–319 行「D03Y0004 / 文匯報．/ 365」的刊频是 365（日报），与同表多为 2–52 的期刊不同，属报纸，未另立节。",
+  "页脚（第 335–337 行）是站点通用内容：合作馆「中国传媒大学 国家数字图书馆 首都图书馆」、意见邮箱 lib@cuc.edu.cn、版权与备案「Copyright © All Rights Reserved. 中国传媒大学图书馆 版权所有 / 京 ICP 备 10039564 号 京公网安备 110402430031 号 总访问量：2507703」，合为一节、无条目落点。",
+  "15 条条目全部在本文命中落点，无跨文件引用；表体完整、无截断；本件无 rule-* 文档级条目。"
+ ]
+}

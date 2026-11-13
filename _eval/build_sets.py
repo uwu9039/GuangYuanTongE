@@ -1,1 +1,55 @@
-IiIi55Sf5oiQ6K+E5rWL6ZuG5paH5Lu244CCCgogICAgcHl0aG9uIC1tIF9ldmFsLmJ1aWxkX3NldHMKCui+k+WHuu+8iOavj+ihjCB7InEiLCJnb2xkIiwic291cmNlIiwiY2F0In3vvInvvJoKICAgIHByZXNldHMuanNvbmwgICAgICAgICAgNzYzIOadoeS6uuW3pemXruazlSAtPiDmnaHnm67vvIjpobnnm67oh6rluKbvvIkKICAgIG5lZ2F0aXZlcy5qc29ubCAgICAgICAgQSDliKvnmoTlrabmoKEgLyBCIOS4quS6uuaVsOaNriAvIEMg5bqT5aSW6aKG5Z+f77yI5Lil5qC85ouS562U6ZuG77yJCiAgICBuZWdhdGl2ZXNfaGFyZC5qc29ubCAgIEQg5bqT5YaF5pyJ55u45YWz5p2h55uu5L2G5rKh5pyJ6L+Z5LiA5p2h77yI6Zq+6aKY77yM5Y2V54us5oql5ZGK77yJCiAgICBwYXJhcGhyYXNlLmpzb25sICAgICAgIOaJi+WGmeOAjOWPpuS4gOenjeivtOazleOAjembhu+8iOa6kOaWh+S7tiBwYXJhcGhyYXNlLnRzdu+8iQoiIiIKZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucwoKaW1wb3J0IGpzb24KZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCgpST09UID0gUGF0aChfX2ZpbGVfXykucmVzb2x2ZSgpLnBhcmVudHNbMV0KU0VUUyA9IFJPT1QgLyAiX2V2YWwiIC8gInNldHMiCgoKZGVmIG1haW4oKSAtPiBOb25lOgogICAgU0VUUy5ta2RpcihwYXJlbnRzPVRydWUsIGV4aXN0X29rPVRydWUpCiAgICBwcmVzZXRzID0ganNvbi5sb2FkcygoUk9PVCAvICJwcmVzZXRzLmpzb24iKS5yZWFkX3RleHQoZW5jb2Rpbmc9InV0Zi04IikpCiAgICByb3dzID0gW3sicSI6IHEsICJnb2xkIjogW2lpZF0sICJzb3VyY2UiOiAicHJlc2V0cyJ9CiAgICAgICAgICAgIGZvciBpaWQsIHFzIGluIHByZXNldHNbImNvdmVyYWdlIl0uaXRlbXMoKSBmb3IgcSBpbiBxc10KICAgIChTRVRTIC8gInByZXNldHMuanNvbmwiKS53cml0ZV90ZXh0KAogICAgICAgICJcbiIuam9pbihqc29uLmR1bXBzKHIsIGVuc3VyZV9hc2NpaT1GYWxzZSkgZm9yIHIgaW4gcm93cykgKyAiXG4iLCBlbmNvZGluZz0idXRmLTgiKQoKICAgIHN0cmljdCwgaGFyZCwgcGFyYSA9IFtdLCBbXSwgW10KICAgIGZvciBsbiBpbiAoU0VUUyAvICJuZWdhdGl2ZXNfc3JjLnR4dCIpLnJlYWRfdGV4dChlbmNvZGluZz0idXRmLTgiKS5zcGxpdGxpbmVzKCk6CiAgICAgICAgbG4gPSBsbi5zdHJpcCgpCiAgICAgICAgaWYgbm90IGxuIG9yIGxuLnN0YXJ0c3dpdGgoIiMiKToKICAgICAgICAgICAgY29udGludWUKICAgICAgICBjYXQsIHEgPSBsbi5zcGxpdCgiXHQiLCAxKQogICAgICAgIHJvdyA9IHsicSI6IHEuc3RyaXAoKSwgImdvbGQiOiBbXSwgInNvdXJjZSI6ICJuZWdhdGl2ZSIsICJjYXQiOiBjYXR9CiAgICAgICAgKGhhcmQgaWYgY2F0ID09ICJEIiBlbHNlIHN0cmljdCkuYXBwZW5kKHJvdykKICAgIChTRVRTIC8gIm5lZ2F0aXZlcy5qc29ubCIpLndyaXRlX3RleHQoCiAgICAgICAgIlxuIi5qb2luKGpzb24uZHVtcHMociwgZW5zdXJlX2FzY2lpPUZhbHNlKSBmb3IgciBpbiBzdHJpY3QpICsgIlxuIiwgZW5jb2Rpbmc9InV0Zi04IikKICAgIChTRVRTIC8gIm5lZ2F0aXZlc19oYXJkLmpzb25sIikud3JpdGVfdGV4dCgKICAgICAgICAiXG4iLmpvaW4oanNvbi5kdW1wcyhyLCBlbnN1cmVfYXNjaWk9RmFsc2UpIGZvciByIGluIGhhcmQpICsgIlxuIiwgZW5jb2Rpbmc9InV0Zi04IikKCiAgICBmb3IgbG4gaW4gKFNFVFMgLyAicGFyYXBocmFzZS50c3YiKS5yZWFkX3RleHQoZW5jb2Rpbmc9InV0Zi04Iikuc3BsaXRsaW5lcygpOgogICAgICAgIGxuID0gbG4uc3RyaXAoKQogICAgICAgIGlmIG5vdCBsbiBvciBsbi5zdGFydHN3aXRoKCIjIikgb3IgIlx0IiBub3QgaW4gbG46CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgaWlkLCBxID0gbG4uc3BsaXQoIlx0IiwgMSkKICAgICAgICBwYXJhLmFwcGVuZCh7InEiOiBxLnN0cmlwKCksICJnb2xkIjogW2lpZC5zdHJpcCgpXSwgInNvdXJjZSI6ICJwYXJhcGhyYXNlIn0pCiAgICAoU0VUUyAvICJwYXJhcGhyYXNlLmpzb25sIikud3JpdGVfdGV4dCgKICAgICAgICAiXG4iLmpvaW4oanNvbi5kdW1wcyhyLCBlbnN1cmVfYXNjaWk9RmFsc2UpIGZvciByIGluIHBhcmEpICsgIlxuIiwgZW5jb2Rpbmc9InV0Zi04IikKCiAgICBwcmludChmInByZXNldHMge2xlbihyb3dzKX0gLyBzdHJpY3QtbmVnYXRpdmVzIHtsZW4oc3RyaWN0KX0gLyBoYXJkLW5lZ2F0aXZlcyB7bGVuKGhhcmQpfSAiCiAgICAgICAgICBmIi8gcGFyYXBocmFzZSB7bGVuKHBhcmEpfSIpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+"""生成评测集文件。
+
+    python -m _eval.build_sets
+
+输出（每行 {"q","gold","source","cat"}）：
+    presets.jsonl          763 条人工问法 -> 条目（项目自带）
+    negatives.jsonl        A 别的学校 / B 个人数据 / C 库外领域（严格拒答集）
+    negatives_hard.jsonl   D 库内有相关条目但没有这一条（难题，单独报告）
+    paraphrase.jsonl       手写「另一种说法」集（源文件 paraphrase.tsv）
+"""
+from __future__ import annotations
+
+import json
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+SETS = ROOT / "_eval" / "sets"
+
+
+def main() -> None:
+    SETS.mkdir(parents=True, exist_ok=True)
+    presets = json.loads((ROOT / "presets.json").read_text(encoding="utf-8"))
+    rows = [{"q": q, "gold": [iid], "source": "presets"}
+            for iid, qs in presets["coverage"].items() for q in qs]
+    (SETS / "presets.jsonl").write_text(
+        "\n".join(json.dumps(r, ensure_ascii=False) for r in rows) + "\n", encoding="utf-8")
+
+    strict, hard, para = [], [], []
+    for ln in (SETS / "negatives_src.txt").read_text(encoding="utf-8").splitlines():
+        ln = ln.strip()
+        if not ln or ln.startswith("#"):
+            continue
+        cat, q = ln.split("\t", 1)
+        row = {"q": q.strip(), "gold": [], "source": "negative", "cat": cat}
+        (hard if cat == "D" else strict).append(row)
+    (SETS / "negatives.jsonl").write_text(
+        "\n".join(json.dumps(r, ensure_ascii=False) for r in strict) + "\n", encoding="utf-8")
+    (SETS / "negatives_hard.jsonl").write_text(
+        "\n".join(json.dumps(r, ensure_ascii=False) for r in hard) + "\n", encoding="utf-8")
+
+    for ln in (SETS / "paraphrase.tsv").read_text(encoding="utf-8").splitlines():
+        ln = ln.strip()
+        if not ln or ln.startswith("#") or "\t" not in ln:
+            continue
+        iid, q = ln.split("\t", 1)
+        para.append({"q": q.strip(), "gold": [iid.strip()], "source": "paraphrase"})
+    (SETS / "paraphrase.jsonl").write_text(
+        "\n".join(json.dumps(r, ensure_ascii=False) for r in para) + "\n", encoding="utf-8")
+
+    print(f"presets {len(rows)} / strict-negatives {len(strict)} / hard-negatives {len(hard)} "
+          f"/ paraphrase {len(para)}")
+
+
+if __name__ == "__main__":
+    main()

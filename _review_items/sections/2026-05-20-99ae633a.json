@@ -1,1 +1,162 @@
-ew0KICJrZXkiOiAiMjAyNi0wNS0yMC05OWFlNjMzYSIsDQogInRpdGxlIjogIueUqOS4gOmXqOivvuaMkeaImOKAnOWIhuW/g+eahOS4lueVjOKAne+8iOOAiuS4reWbveaVmeiCsuaKpeOAizIwMjYg5bm0IDUg5pyIIDEzIOaXpSAwNSDniYjvvIzlvq7kv6Hovazovb3vvIkiLA0KICJ0cnVuY2F0ZWQiOiBmYWxzZSwNCiAic2VjdGlvbnMiOiBbDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi6aKY5Zu+5LiO5a+86K+tIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgMSwNCiAgICA0DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC0wZDAyNGE1YjgwIiwNCiAgICAicHQtYTQzNDNjZTY2YyIsDQogICAgInB0LWVjMjQyYmI4ODkiDQogICBdLA0KICAgImNoYXJzIjogNDUxDQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5byA6K++57yY6LW35LiO5a2m55Sf55qE5Zuw5aKDIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiZGVyaXZlZCIsDQogICAibGluZXMiOiBbDQogICAgNSwNCiAgICAxMQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtOThhNDgzOTcwZCIsDQogICAgInB0LTUwNzBiNjQzM2IiLA0KICAgICJwdC0xZDcwODhkZDFiIg0KICAgXSwNCiAgICJjaGFycyI6IDU1OA0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuiusui/sOaPkOimgSIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDEyLA0KICAgIDEyDQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC04NGI3OWIwMzYwIg0KICAgXSwNCiAgICJjaGFycyI6IDI2DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5b2T5a2m55Sf56ys5LiA5qyh5bCd5Yiw5LiT5rOo55qE55Sc5aS0IiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICAxMywNCiAgICAzMQ0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtNzVlNjg3NGE5NCIsDQogICAgInB0LTlmZjUxYmZhODciLA0KICAgICJwdC1jMmJmNjllMzQ4Ig0KICAgXSwNCiAgICJjaGFycyI6IDExNTYNCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLpgqPkupvmiJHmsqHmg7PliLDnmoTigJzoh6rkuLvmjqLntKLigJ0iLA0KICAgImhlYWRpbmdfa2luZCI6ICJhdXRob3IiLA0KICAgImxpbmVzIjogWw0KICAgIDMyLA0KICAgIDQ5DQogICBdLA0KICAgIml0ZW1zIjogWw0KICAgICJwdC1hNGU3YTAxYWI5IiwNCiAgICAicHQtYWE3OThkMjFhNiIsDQogICAgInB0LTA4N2E2MDcyNmEiLA0KICAgICJwdC1mNGJiYzBkNDljIiwNCiAgICAicHQtMGI3MGUzYzlkZiIsDQogICAgInB0LTBmYmUyMWE4ODYiLA0KICAgICJwdC02OTI5NTk4ODk1IiwNCiAgICAicHQtZGJhY2ZiMzdmNyINCiAgIF0sDQogICAiY2hhcnMiOiAxNDQ5DQogIH0sDQogIHsNCiAgICJubyI6ICLigJQiLA0KICAgImhlYWRpbmciOiAi5pWZ6IKy77yM5piv6K6p5Lq65L2T6aqM4oCc5aW955qE55Sf5rS74oCdIiwNCiAgICJoZWFkaW5nX2tpbmQiOiAiYXV0aG9yIiwNCiAgICJsaW5lcyI6IFsNCiAgICA1MCwNCiAgICA2Ng0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtODM4YTVhN2QzYyIsDQogICAgInB0LWU1ZTdhYjAwYTAiLA0KICAgICJwdC05YjAzZGE2MGMyIiwNCiAgICAicHQtMWU0Y2E1ZTg4ZiIsDQogICAgInB0LTFlMjBlZTlmN2IiLA0KICAgICJwdC03MjJlMDYxMWY0Ig0KICAgXSwNCiAgICJjaGFycyI6IDEwNzINCiAgfSwNCiAgew0KICAgIm5vIjogIuKAlCIsDQogICAiaGVhZGluZyI6ICLor77nqIvmgLvnu5PnmoTms6johJoiLA0KICAgImhlYWRpbmdfa2luZCI6ICJkZXJpdmVkIiwNCiAgICJsaW5lcyI6IFsNCiAgICA2NywNCiAgICA2OA0KICAgXSwNCiAgICJpdGVtcyI6IFsNCiAgICAicHQtOTRlMDEzYzg4NiINCiAgIF0sDQogICAiY2hhcnMiOiA1OA0KICB9LA0KICB7DQogICAibm8iOiAi4oCUIiwNCiAgICJoZWFkaW5nIjogIuadpea6kOOAgeS9nOiAheS4jue9kemhteWwvuazqCIsDQogICAiaGVhZGluZ19raW5kIjogImRlcml2ZWQiLA0KICAgImxpbmVzIjogWw0KICAgIDY5LA0KICAgIDczDQogICBdLA0KICAgIml0ZW1zIjogW10sDQogICAiY2hhcnMiOiA4Mw0KICB9DQogXSwNCiAiaXRlbXMiOiBbDQogICJwdC0wZDAyNGE1YjgwIiwNCiAgInB0LWE0MzQzY2U2NmMiLA0KICAicHQtZWMyNDJiYjg4OSIsDQogICJwdC05OGE0ODM5NzBkIiwNCiAgInB0LTUwNzBiNjQzM2IiLA0KICAicHQtMWQ3MDg4ZGQxYiIsDQogICJwdC04NGI3OWIwMzYwIiwNCiAgInB0LTc1ZTY4NzRhOTQiLA0KICAicHQtOWZmNTFiZmE4NyIsDQogICJwdC1jMmJmNjllMzQ4IiwNCiAgInB0LWE0ZTdhMDFhYjkiLA0KICAicHQtYWE3OThkMjFhNiIsDQogICJwdC0wODdhNjA3MjZhIiwNCiAgInB0LWY0YmJjMGQ0OWMiLA0KICAicHQtMGI3MGUzYzlkZiIsDQogICJwdC0wZmJlMjFhODg2IiwNCiAgInB0LTY5Mjk1OTg4OTUiLA0KICAicHQtZGJhY2ZiMzdmNyIsDQogICJwdC04MzhhNWE3ZDNjIiwNCiAgInB0LWU1ZTdhYjAwYTAiLA0KICAicHQtOWIwM2RhNjBjMiIsDQogICJwdC0xZTRjYTVlODhmIiwNCiAgInB0LTFlMjBlZTlmN2IiLA0KICAicHQtNzIyZTA2MTFmNCIsDQogICJwdC05NGUwMTNjODg2Ig0KIF0sDQogIm5vdGVzIjogWw0KICAi5pys5paH5piv5b6u5L+h5YWs5LyX5Y+36L2s6L2955qE5Y+j6L+w6ZW/5paH77yI5Y6f6L2944CK5Lit5Zu95pWZ6IKy5oql44CLMjAyNiDlubQgNSDmnIggMTMg5pelIDA1IOeJiO+8ie+8jOato+aWh+WPquacieS4ieS4quS9nOiAheWwj+agh+mimO+8iDEz44CBMzLjgIE1MCDooYzvvInvvIzmsqHmnInnq6DjgIHmnaHjgIHluo/lj7fvvIzmlYXlkIToioIgbm8g5LiA5b6L5Li644CM4oCU44CN44CCIiwNCiAgIuesrCAxIOihjOOAjFvlm75dIOKApi9zel9tbWJpel9naWYv4oCm44CN5piv5paH6aaW6aKY5Zu+77yM56ysIDQg6KGM5piv5q2j5paH6YWN5Zu+44CB56ysIDUg6KGM5piv5a6D55qE5Zu+5rOo44CM5Zu+54mH55SxQUnnlJ/miJDjgI3vvJvpopjlm77jgIHlr7zor63jgIHjgIzorqnmiJHku6zkuIDotbfmnaXnnIvnnIvku5bnmoTorrLov7DigJTigJTjgI3kuI7phY3lm77lkIjmiJDjgIzpopjlm77kuI7lr7zor63jgI3oioLvvIgx4oCTNCDooYzvvInjgIIiLA0KICAi6IqC6aaW5L6L5aSW77yacHQtOThhNDgzOTcwZCDnmoTlvJXmlofotbfngrnmraPlpb3okL3lnKjnrKwgNSDooYzlm77ms6jjgIzlm77niYfnlLFBSeeUn+aIkOOAjeS4iu+8iOW8leaWh+S4uuOAjOWbvueJh+eUsUFJ55Sf5oiQMjAyNeW5tOeni+Wkqe+8jOaIkeW8gOS6huS4gOmXqOmAmuivhuaguOW/g+ivvuOAguOAje+8jOi3qOesrCA14oCTNiDooYzvvInvvIzkuI3lubblhaXliJnokL3kuI3kuoblnLDvvIzmlYXmiornrKwgNSDooYzlubblhaXjgIzlvIDor77nvJjotbfkuI7lrabnlJ/nmoTlm7DlooPjgI3oioLpppbvvIg14oCTMTEg6KGM77yJ77yM5Zyo5q2k6K+05piO44CCIiwNCiAgIuesrCAxMiDooYzjgIzku6XkuIvvvIzmmK/lhbPkuo7ov5npl6jor77vvIzmiJHnnIvliLDjgIHlkKzliLDkuZ/mt7Hmt7HooqvmiZPliqjnmoTmlYXkuovjgILjgI3mmK/ovazlhaXkuInkuKrlsI/moIfpopjliY3nmoTov4fmuKHlj6XvvIzljZXliJfjgIzorrLov7Dmj5DopoHjgI3oioLvvJvnrKwgMzEg6KGM44CM5Luk5Lq65qyj5oWw55qE5piv4oCm44CN5piv56ys5LiA5Liq5bCP5qCH6aKY55qE5pS25p2f5Y+l77yM55WZ5Zyo6K+l6IqC5pyr5bC+44CCIiwNCiAgIuWOn+aWh+W8guW4uO+8iOe9kemhteaui+eVme+8ie+8mjcy4oCTNzMg6KGM44CM6aKE6KeI5pe25qCH562+5LiN5Y+v54K544CN44CM5LiN5Zac5qyi44CN5piv5YWs5LyX5Y+36aG16Z2i5o6n5Lu25paH5qGI77yMNjnigJM3MSDooYzmmK/mnaXmupDjgIHkvZzogIXjgIHotKPku7vnvJbovpHnvbLlkI3vvIzlkIjlubbkuLrjgIzmnaXmupDjgIHkvZzogIXkuI7nvZHpobXlsL7ms6jjgI3oioLjgIIiLA0KICAiMjUg5p2h5p2h55uu5YWo6YOo6JC95Zyo5pys5paH77yM5peg6Leo5paH5Lu25byV55So77yb5q2j5paH5q616JC96ZW/44CB5q+P5q616Ieq5oiQ5LiA5q616JC977yM5p2h55uu5oyJ5byV5paH6LW354K56JC96IqC44CCIg0KIF0NCn0NCg==
+{
+ "key": "2026-05-20-99ae633a",
+ "title": "用一门课挑战“分心的世界”（《中国教育报》2026 年 5 月 13 日 05 版，微信转载）",
+ "truncated": false,
+ "sections": [
+  {
+   "no": "—",
+   "heading": "题图与导语",
+   "heading_kind": "derived",
+   "lines": [
+    1,
+    4
+   ],
+   "items": [
+    "pt-0d024a5b80",
+    "pt-a4343ce66c",
+    "pt-ec242bb889"
+   ],
+   "chars": 451
+  },
+  {
+   "no": "—",
+   "heading": "开课缘起与学生的困境",
+   "heading_kind": "derived",
+   "lines": [
+    5,
+    11
+   ],
+   "items": [
+    "pt-98a483970d",
+    "pt-5070b6433b",
+    "pt-1d7088dd1b"
+   ],
+   "chars": 558
+  },
+  {
+   "no": "—",
+   "heading": "讲述提要",
+   "heading_kind": "derived",
+   "lines": [
+    12,
+    12
+   ],
+   "items": [
+    "pt-84b79b0360"
+   ],
+   "chars": 26
+  },
+  {
+   "no": "—",
+   "heading": "当学生第一次尝到专注的甜头",
+   "heading_kind": "author",
+   "lines": [
+    13,
+    31
+   ],
+   "items": [
+    "pt-75e6874a94",
+    "pt-9ff51bfa87",
+    "pt-c2bf69e348"
+   ],
+   "chars": 1156
+  },
+  {
+   "no": "—",
+   "heading": "那些我没想到的“自主探索”",
+   "heading_kind": "author",
+   "lines": [
+    32,
+    49
+   ],
+   "items": [
+    "pt-a4e7a01ab9",
+    "pt-aa798d21a6",
+    "pt-087a60726a",
+    "pt-f4bbc0d49c",
+    "pt-0b70e3c9df",
+    "pt-0fbe21a886",
+    "pt-6929598895",
+    "pt-dbacfb37f7"
+   ],
+   "chars": 1449
+  },
+  {
+   "no": "—",
+   "heading": "教育，是让人体验“好的生活”",
+   "heading_kind": "author",
+   "lines": [
+    50,
+    66
+   ],
+   "items": [
+    "pt-838a5a7d3c",
+    "pt-e5e7ab00a0",
+    "pt-9b03da60c2",
+    "pt-1e4ca5e88f",
+    "pt-1e20ee9f7b",
+    "pt-722e0611f4"
+   ],
+   "chars": 1072
+  },
+  {
+   "no": "—",
+   "heading": "课程总结的注脚",
+   "heading_kind": "derived",
+   "lines": [
+    67,
+    68
+   ],
+   "items": [
+    "pt-94e013c886"
+   ],
+   "chars": 58
+  },
+  {
+   "no": "—",
+   "heading": "来源、作者与网页尾注",
+   "heading_kind": "derived",
+   "lines": [
+    69,
+    73
+   ],
+   "items": [],
+   "chars": 83
+  }
+ ],
+ "items": [
+  "pt-0d024a5b80",
+  "pt-a4343ce66c",
+  "pt-ec242bb889",
+  "pt-98a483970d",
+  "pt-5070b6433b",
+  "pt-1d7088dd1b",
+  "pt-84b79b0360",
+  "pt-75e6874a94",
+  "pt-9ff51bfa87",
+  "pt-c2bf69e348",
+  "pt-a4e7a01ab9",
+  "pt-aa798d21a6",
+  "pt-087a60726a",
+  "pt-f4bbc0d49c",
+  "pt-0b70e3c9df",
+  "pt-0fbe21a886",
+  "pt-6929598895",
+  "pt-dbacfb37f7",
+  "pt-838a5a7d3c",
+  "pt-e5e7ab00a0",
+  "pt-9b03da60c2",
+  "pt-1e4ca5e88f",
+  "pt-1e20ee9f7b",
+  "pt-722e0611f4",
+  "pt-94e013c886"
+ ],
+ "notes": [
+  "本文是微信公众号转载的口述长文（原载《中国教育报》2026 年 5 月 13 日 05 版），正文只有三个作者小标题（13、32、50 行），没有章、条、序号，故各节 no 一律为「—」。",
+  "第 1 行「[图] …/sz_mmbiz_gif/…」是文首题图，第 4 行是正文配图、第 5 行是它的图注「图片由AI生成」；题图、导语、「让我们一起来看看他的讲述——」与配图合成「题图与导语」节（1–4 行）。",
+  "节首例外：pt-98a483970d 的引文起点正好落在第 5 行图注「图片由AI生成」上（引文为「图片由AI生成2025年秋天，我开了一门通识核心课。」，跨第 5–6 行），不并入则落不了地，故把第 5 行并入「开课缘起与学生的困境」节首（5–11 行），在此说明。",
+  "第 12 行「以下，是关于这门课，我看到、听到也深深被打动的故事。」是转入三个小标题前的过渡句，单列「讲述提要」节；第 31 行「令人欣慰的是…」是第一个小标题的收束句，留在该节末尾。",
+  "原文异常（网页残留）：72–73 行「预览时标签不可点」「不喜欢」是公众号页面控件文案，69–71 行是来源、作者、责任编辑署名，合并为「来源、作者与网页尾注」节。",
+  "25 条条目全部落在本文，无跨文件引用；正文段落长、每段自成一段落，条目按引文起点落节。"
+ ]
+}
