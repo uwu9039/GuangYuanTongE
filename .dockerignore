@@ -1,0 +1,37 @@
+# 构建上下文里只留「跑服务真正需要」的东西。
+# 之前没有这个文件：`COPY . .` 把 .git 一起拷进了镜像（含 LFS 对象约 361 MB），
+# 上下文 748 MB、镜像白胖 360 MB。加上之后：上下文约 390 MB，镜像瘦一圈。
+#
+# 注意：下面这些**不能**排除，Dockerfile 要用——
+#   sources/vector/*            原文语义检索（分片 + chunks.jsonl + idf + manifest）
+#   retrieval/artifacts/dense/  dense 条目向量（随包发布的那 109 MB）
+#   sources-archive.tar.gz      正文树还原
+#   items.json.gz / table-rows.json.gz / *.json  条目库与配置
+
+# 版本控制与本地运行环境
+.git
+.gitattributes
+.gitignore
+.tmp
+.venv
+venv
+__pycache__
+*.pyc
+*.pyo
+
+# 本地产物（镜像构建时会现建）
+kb.sqlite
+retrieval/artifacts/reach
+retrieval/artifacts/lexicon.json
+retrieval/artifacts/*.npy
+retrieval/artifacts/*.json
+_eval/out
+tmpbuild
+*.log
+
+# 单纯占地方的开发物
+tests
+_eval
+web-next/_preview
+web-next/_probe_tmp.html
+*.md
