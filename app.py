@@ -2061,12 +2061,15 @@ def stats() -> dict[str, Any]:
 @app.get("/api/health")
 def health() -> dict[str, Any]:
     maybe_reload()
+    engine = retrieval_engine()          # 懒加载；这里顺便把 dense 的真实状态报出来，
+    dense_on = bool(engine and engine.use_dense)   # 云空间里没有命令行，只能靠这个字段确认
     return {
         "ok": True,
         "model": MODEL,
         "vision": True,
         "key_configured": bool(api_key()),
         "hot_reload": True,
+        "dense": dense_on,
         **_counts(),
     }
 
