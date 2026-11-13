@@ -21,13 +21,12 @@ __pycache__
 
 # 本地产物（镜像构建时会现建）
 kb.sqlite
-retrieval/artifacts/reach
-retrieval/artifacts/lexicon.json
-retrieval/artifacts/*.npy
-retrieval/artifacts/*.json
 _eval/out
 tmpbuild
 *.log
+# 注：retrieval/artifacts/ 里除 dense/ 之外的东西本来就不进仓库（见 .gitignore），
+# 所以这里不写通配符去排它——`retrieval/artifacts/*.npy` 这类规则容易连带把
+# dense/ 也排掉，dense 那 109 MB 是必须带上的。
 
 # 单纯占地方的开发物
 tests
