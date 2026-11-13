@@ -19,15 +19,18 @@ ROOT = Path(__file__).resolve().parents[1]
 # （`_acceptance/` 里是留存负例，`*_PROMPT.md` 是任务书，都不该进公开仓库）
 EXCLUDE_DIRS = {
     ".git", ".venv", ".tmp", "__pycache__", "tmpbuild",
-    "retrieval/artifacts", "_eval/out", "sources/vector", "_acceptance",
+    "retrieval/artifacts", "_eval/out", "_acceptance",
 }
+# `sources/vector/` 只排除大文件（vectors.npy 65 MB 及其分片），
+# chunks.jsonl（34 MB）/ idf.npy / manifest.json 是原文检索必需的，要发布。
 EXCLUDE_FILES = {".env", ".env.local", "kb.sqlite",
                  "PROMPT_FOR_AGENT.md", "ROUND2_PROMPT.md",
+                 "sources/vector/vectors.npy",
                  # 这两个探针要读本机的密钥文件，路径也是本机绝对路径，不随仓库走
                  "probe_dashscope.py", "probe_key_diff.py",
                  # 它 import `_acceptance.check`，而那个目录不发布
                  "run_check_base.py"}
-EXCLUDE_SUFFIX = {".pyc", ".pyo", ".log"}
+EXCLUDE_SUFFIX = {".pyc", ".pyo", ".log", ".npy.part1", ".npy.part2", ".npy.part3"}
 
 # 文本类型才扫密钥/路径
 TEXT_SUFFIX = {".py", ".js", ".css", ".html", ".md", ".json", ".jsonl", ".tsv", ".txt",
@@ -103,10 +106,14 @@ def main() -> int:
         print("  ✓ 没发现密钥")
     problems += secret_hits
 
-    print("\n== 绝对路径扫描")
+    print("\n== 绝对路径扫描（只扫代码与配置）")
+    print("   sources/ 是语料正文，里面的 /home/… 是采集到的原文与网址，不是本机路径，跳过")
     path_hits = 0
     for p in files:
         if p.suffix.lower() not in TEXT_SUFFIX:
+            continue
+        rel = p.relative_to(ROOT).as_posix()
+        if rel.startswith("sources/"):
             continue
         try:
             txt = p.read_text(encoding="utf-8", errors="ignore")

@@ -129,7 +129,8 @@ def main() -> int:
     #    base64 文本（踩过：整库文件变成 base64 乱码）。所以二进制（.gz/.pdf/.png…）
     #    仍然单独建 blob —— 只有二三十个，离限流很远。
     CHUNK_FILES = 120
-    CHUNK_BYTES = 8 * 1024 * 1024     # 每请求 ≈ 8 MB 文本，留余量
+    CHUNK_BYTES = 4 * 1024 * 1024     # 每请求原始字节；GitHub 对超大 body 会回 401
+                                      # （踩过：34 MB 的 chunks.jsonl 混在别的文件里被拒）
 
     def entry(p: Path) -> dict:
         rel = p.relative_to(ROOT).as_posix()
@@ -150,16 +151,22 @@ def main() -> int:
     chunks: list[list[dict]] = []
     cur: list[dict] = []
     cur_bytes = 0
-    for p in files:
-        e = entry(p)
-        cur.append(e)
-        cur_bytes += len(e.get("content") or "")
-        if len(cur) >= CHUNK_FILES or cur_bytes >= CHUNK_BYTES:
+    # 大文件排到最后：每加一个 base_tree 都要基于上一棵树复制，34 MB 的
+    # chunks.jsonl 先进树会让后面几次 tree 调用超时（422 input too large）。
+    small = [p for p in files if p.stat().st_size < CHUNK_BYTES]
+    big = [p for p in files if p.stat().st_size >= CHUNK_BYTES]
+    for p in small + big:
+        size = p.stat().st_size
+        # 先按「加进去会不会超」判断，保证一个大文件独占一块
+        if cur and (len(cur) >= CHUNK_FILES or cur_bytes + size > CHUNK_BYTES):
             chunks.append(cur)
             cur, cur_bytes = [], 0
+        e = entry(p)
+        cur.append(e)
+        cur_bytes += size
     if cur:
         chunks.append(cur)
-    print(f"  分 {len(chunks)} 棵树上传（每棵 ≤{CHUNK_FILES} 个文件 / ≈8 MB）")
+    print(f"  分 {len(chunks)} 棵树上传（每棵 ≤{CHUNK_FILES} 个文件 / ≤4 MB，大文件在后）")
 
     tree_sha = ""
     for n, chunk in enumerate(chunks, 1):
@@ -171,9 +178,9 @@ def main() -> int:
             if st in (200, 201):
                 tree_sha = tree["sha"]
                 break
-            if st == 403:
-                wait = 20 * (attempt + 1)
-                print(f"    第 {n} 棵被限流，等 {wait}s 重试…")
+            if st in (403, 422):
+                wait = 15 * (attempt + 1)
+                print(f"    第 {n} 棵被拒（{st}），等 {wait}s 重试…")
                 time.sleep(wait)
                 continue
             raise SystemExit(f"tree 失败（第 {n} 棵）：{st} {tree}")
