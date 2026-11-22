@@ -66,6 +66,7 @@
     lastQuestion: "",
     contextPostIds: [],
     feedbackLoader: null,
+    flashTimer: null,
     hitTimers: new WeakMap()
   };
 
@@ -463,10 +464,13 @@
       var look = mk("button", "cf key", "看这轮出处");
       look.type = "button";
       look.appendChild(mk("span", "n", String(sources.length)));
-      look.addEventListener("click", function () {
+      look.addEventListener("click", function (ev) {
+        if (ev && ev.preventDefault) ev.preventDefault();
+        // 右栏可能已经停在这一轮的出处上；再点一次也要给出可见反馈：
+        // 切到本轮 sources、滚到第一条、整组卡片闪一下。
         setPanelAnswer(turn);
         if (isMobile()) openDrawer({ focusFirst: true });
-        else el.inspector.querySelector(".pcard") && scrollPanelTop();
+        flashPanel();
       });
       foot.appendChild(look);
     }
@@ -909,6 +913,25 @@
 
   function scrollPanelTop() {
     el.insbody.scrollTop = 0;
+  }
+
+  /* 「看这轮出处」的可见反馈：右栏切到本轮 sources 后，整组卡片闪两下并停在第一条。 */
+  function flashPanel() {
+    var cards = el.insbody.querySelectorAll(".pcard");
+    if (!cards.length) return;
+    for (var i = 0; i < cards.length; i += 1) {
+      cards[i].classList.remove("is-flash");
+      void cards[i].offsetWidth; // 强制重排，连续点击也能重新触发
+      cards[i].classList.add("is-flash");
+    }
+    el.insbody.scrollTop = 0;
+    if (!isMobile() && cards[0].scrollIntoView) {
+      cards[0].scrollIntoView({ block: "nearest", behavior: "smooth" });
+    }
+    if (state.flashTimer) window.clearTimeout(state.flashTimer);
+    state.flashTimer = window.setTimeout(function () {
+      for (var j = 0; j < cards.length; j += 1) cards[j].classList.remove("is-flash");
+    }, 2400);
   }
 
   /* ---------------- 手机抽屉 ---------------- */

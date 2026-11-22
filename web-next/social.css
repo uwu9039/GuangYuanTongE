@@ -116,6 +116,25 @@ body.social{--ink-3:#6f6d63}
   60%{background:rgba(156,47,39,.055)}
   100%{background:transparent}
 }
+
+/* 「看这轮出处」：整组来源卡闪两下，左沿同时加重，桌面/抽屉都能看见。 */
+.pcard.is-flash{
+  animation:pflash2 1.05s var(--ease-out) 2;
+  border-radius:4px;
+}
+@keyframes pflash2{
+  0%,100%{
+    background:transparent;
+    box-shadow:inset 2px 0 0 rgba(156,47,39,.3);
+  }
+  45%{
+    background:rgba(156,47,39,.16);
+    box-shadow:inset 4px 0 0 var(--accent);
+  }
+}
+@media (prefers-reduced-motion: reduce){
+  .pcard.is-flash{animation:none;background:rgba(156,47,39,.10)}
+}
 .pchead{display:flex;align-items:baseline;gap:8px;font-family:var(--mono);font-size:11px;
   color:var(--ink-3);font-variant-numeric:tabular-nums;line-height:1.5}
 .pcno{color:var(--accent);flex:none}
