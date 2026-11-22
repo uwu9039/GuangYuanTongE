@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#f4f3ee">
+<title>广院通 · 校园经验</title>
+<meta name="description" content="广院通 · 校园经验：从收录的公开帖子里找答案，每条结论都标注出自哪一篇帖子，可以点开原文核对。">
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="social.css">
+<link rel="stylesheet" href="feedback.css">
+</head>
+<body class="social">
+<a class="skip" href="#thread">跳到对话内容</a>
+
+<main class="app">
+  <!-- ============ 主栏：对话 ============ -->
+  <section class="rail" aria-label="校园经验对话">
+    <header class="topbar">
+      <a class="brand social-brand" href="/social" title="广院通 · 校园经验">
+        <img class="brand-logo" src="assets/guangyuantong-mark.svg" alt="" decoding="async">
+        <b>广院通 · 校园经验</b>
+        <span>公开帖子 · 带出处</span>
+      </a>
+      <div class="statline" id="statline" aria-live="polite">正在读取收录的帖子…</div>
+      <nav class="topacts" aria-label="页面导航">
+        <button class="ghostbtn only-mobile" type="button" id="insbtn"
+                aria-label="打开资料栏，查看收录的帖子" aria-controls="inspector" aria-expanded="false">资料 <span id="inscount">0</span></button>
+        <a class="ghostbtn hide-narrow" href="/desk" title="回到办事向导的双栏工作台">办事问答</a>
+        <a class="ghostbtn social-back" href="/field" title="回到校园办事向导首页">返回办事向导</a>
+      </nav>
+    </header>
+
+    <div class="scroller" id="scroller">
+      <div class="thread" id="thread" aria-live="polite" aria-relevant="additions text"></div>
+    </div>
+
+    <form class="composer" id="composer" autocomplete="off">
+      <div class="composer-in">
+        <div class="presets" id="presets" aria-label="可以接着问" hidden></div>
+        <div class="box">
+          <label class="sr" for="q">你的问题</label>
+          <textarea id="q" rows="1" placeholder="想问校园里的什么？某个食堂、某个地方、某段日常"
+                    aria-describedby="qhint"></textarea>
+          <div class="boxfoot">
+            <button class="hintbtn" type="button" id="clearbtn" title="清掉这轮对话，回到开始的样子">重新开始</button>
+            <span class="footnote">帖子是同学写的，规则以官方为准</span>
+            <button class="send" type="submit" id="send" aria-label="发送问题">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 19V5M6.5 10.5 12 5l5.5 5.5" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            </button>
+          </div>
+        </div>
+        <p class="llmhint" id="qhint">Enter 发送 · Shift+Enter 换行</p>
+      </div>
+    </form>
+  </section>
+
+  <!-- ============ 右栏：收录的帖子 ============ -->
+  <aside class="inspector social-inspector" id="inspector" aria-label="收录的帖子">
+    <div class="sheetbar" id="sheetbar" aria-hidden="true"><i></i></div>
+    <div class="inshead">
+      <div class="insrow">
+        <h2 id="institle">收录的帖子</h2>
+        <button class="iconbtn close" type="button" id="insclose" aria-label="关闭资料栏">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m6 6 12 12M18 6 6 18" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+        </button>
+      </div>
+      <p class="jnsub" id="jnsub">正在读取收录的帖子…</p>
+    </div>
+    <div class="social-filters" id="filters" role="group" aria-label="按主题筛选帖子"></div>
+    <div class="social-srcbar" id="srcbar" hidden>
+      <span class="social-srcbar-t" id="srcbarlabel">正在看这一轮的出处</span>
+      <button class="ghostbtn" type="button" id="allposts">全部帖子</button>
+    </div>
+    <div class="insbody" id="insbody" tabindex="0" aria-label="帖子列表"></div>
+    <div class="insfoot">
+      <span class="social-legend" id="legend">标题与摘要按原帖照录</span>
+      <span class="stamp" id="insstamp">NO. —</span>
+    </div>
+  </aside>
+</main>
+
+<noscript><p class="social-noscript">这一页要靠 JavaScript 读取收录的帖子，请打开脚本后再试。</p></noscript>
+
+<div class="social-scrim" id="scrim" hidden></div>
+<p class="sr" id="status" role="status" aria-live="polite"></p>
+
+<script src="feedback.js" defer></script>
+<script src="social.js" defer></script>
+</body>
+</html>

@@ -30,7 +30,9 @@ from fastapi.responses import FileResponse, JSONResponse, RedirectResponse, Stre
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
 
+import feedback as feedback_store
 import prompt_parts as pp
+import social as social_ui
 
 ROOT = Path(__file__).parent
 API_BASE = "https://api.deepseek.com"
@@ -1884,7 +1886,7 @@ def _ask_stream(**kw) -> Iterator[str]:
     def work() -> None:
         token = _STEP_SINK.set(_StepSink(q))
         try:
-            q.put(("done", clean_response(answer_question(**kw))))
+            q.put(("done", _finalize_answer(answer_question(**kw))))
         except Exception as e:  # noqa: BLE001
             q.put(("err", {"error": _short_err(e)}))
         finally:
@@ -2251,7 +2253,9 @@ def list_items() -> dict[str, Any]:
 
 FOCUS_RULES: list[tuple[str, str, str]] = [
     ("contact", "该找哪个部门", r"哪个部门|找谁|联系谁|归口|找哪个|问谁|哪个处|谁能管"),
-    ("fee", "费用", r"多少钱|收费|费用|工本费|免费|贵|网费|水费|电费|学费(?!减免)|住宿费(?!减免)|杂费|书费"),
+    ("fee", "费用",
+     r"多少钱|收费|费用|工本费|免费|贵|网费|水费|电费|学费(?!减免)|住宿费(?!减免)|杂费|书费|"
+     r"交钱|要钱|花钱|付钱|掏钱|收钱|收不收|价格|收费标准|贵不贵"),
     ("window", "办理时限", r"截止|什么时候前|过期|来得及|有效期|多久内"),
     ("hours", "办理时间", r"几点|什么时间|什么时候能办|周几|哪个时段|工作日|周末|上班|开放时间|开馆|闭馆|营业时间|开门|关门|到几点|办公时间|办理时间|服务时间|工作时间|就诊时间"),
     ("location", "办理地点", r"在哪|哪里|哪个楼|去哪儿|地点|几层"),
@@ -3309,6 +3313,57 @@ _REF_HEAD = ("那", "这", "它", "该", "还", "也", "要", "多少", "几", "
 CTX_GUARDS = str(os.getenv("CTX_GUARDS", "1")).strip().lower() not in ("0", "false", "off", "no")
 # 判「要不要上文」时做的两次探针检索（A 组/B 组）。测试用它把探针和答题检索分开。
 CTX_PROBE = [False]
+
+# ---------------------------------------------------------------- 上下文 v2
+# 三闸门（硬独立信号 / 语义距离 / 受约束改写）+ 检索仲裁，实现在 retrieval/context.py。
+# Gate C 全过（holdout 端到端四组合误接 0%、接上 90%；单轮 hit@5 100%），故默认开。
+# 回退：CTX_V2=0 —— 这时这里一个函数都不会被调用，/api/ask 与 answer_question 的返回
+# 与改动前逐字段一致（实测 8/8 条 JSON 完全相等）。
+CTX_V2 = str(os.getenv("CTX_V2", "1")).strip().lower() in ("1", "true", "yes", "on")
+# 闸门 2（模型改写）单独一根开关：dev 120 条上开/关它都是误接 0%、接上 100%，
+# 但每条多 1.6 秒，veto 模式反而把接上率打到 88.3%。默认关，要开：CTX_V2_GATE2=1。
+CTX_V2_GATE2 = str(os.getenv("CTX_V2_GATE2", "0")).strip().lower() in ("1", "true", "yes", "on")
+_CTX_RESOLVER: list[Any] = [None]
+
+
+def ctx_v2_resolver() -> Any:
+    """懒加载解析器：词典建一次约 1 秒，dense 向量直接复用检索引擎的缓存。"""
+    r = _CTX_RESOLVER[0]
+    if r is None:
+        from retrieval import context as _context
+        llm_fn = None
+        if CTX_V2_GATE2:
+            def llm_fn(prompt: str) -> dict[str, Any]:
+                raw = ds_chat([{"role": "system", "content": prompt}],
+                              max_tokens=120, json_mode=True)
+                return json.loads(raw or "{}")
+        r = _context.build_resolver(
+            ITEMS, rank_fn=lambda q: [(it["id"], sc) for it, sc in rank(q)],
+            places=_place_names(), depts=_context.load_depts(),
+            engine=retrieval_engine(), llm_fn=llm_fn, use_gate2=bool(llm_fn))
+        _CTX_RESOLVER[0] = r
+    return r
+
+
+def ctx_v2_decide(text: str, ctx_id: str | None,
+                  history: list[dict[str, str]] | None,
+                  note: dict[str, Any] | None = None) -> Any:
+    """这句接不接上一条：接上了返回 Decision，否则 None。"""
+    if not ctx_id or ctx_id not in ITEM_BY_ID:
+        return None
+    asked = _history_questions(history) if history else []
+    try:
+        d = ctx_v2_resolver().decide(text, ctx_id, prev_q=asked[-1] if asked else "")
+    except Exception as e:  # noqa: BLE001  解析层挂了就按新话题答，绝不把整轮请求带崩
+        print(f"[上下文v2] 解析失败，按新话题处理：{e}")
+        return None
+    if d is not None and note is not None:
+        note["ctx_v2"] = d.reason
+        if d.a_score or d.b_score:
+            note["ctx_v2_ab"] = f"{d.a_top}:{d.a_score}/{d.b_top}:{d.b_score}"
+    return d
+
+
 # 判「沾不沾」时不算数的二字组：问句框架词，几乎每条答案里都出现
 _TOPIC_STOP = {"怎么", "什么", "哪里", "可以", "请问", "学校", "多少", "几点", "如何",
                "是否", "有没", "没有", "现在", "这个", "那个", "一个", "就是"}
@@ -6015,15 +6070,293 @@ def _contextual_text(text: str, ctx: dict | None, need: bool,
     return search, ctx["id"], judge
 
 
+# —— 维度校验：问的那一面条目里到底有没有 ——
+# 强命中（规则分 97/100）会跳过模型判定层，但跳过的是「这条对不对」，
+# 不是「这一问有没有被答到」。「转专业要交钱吗」规则分 97 走后，曾把整条办理流程当答案，
+# 而那条的 fee 字段是空的、正文也没有费用——这就是维度校验要拦的。
+_FACET_ASK_EXTRA = {
+    "fee": re.compile(r"交钱|要钱|花钱|付钱|掏钱|收钱|收不收|价格|收费标准|贵不贵|"
+                      r"费用|收费|免费|工本费|杂费|书费|网费|水费|电费|学费|住宿费"),
+}
+# 每个问面对应条目里的字段；字段有值就算「这一面有」
+_FACET_FIELD = {
+    "fee": "fee", "window": "window", "hours": "hours", "duration": "duration",
+    "material": "materials", "location": "location", "contact": "contact",
+}
+_FACET_FACT_KEYS = ("fee", "window", "hours", "duration", "material", "location", "contact")
+
+
+def _facet_item_has(item: dict[str, Any], key: str) -> bool:
+    """条目在这一面有没有东西：先看结构化字段，再看正文/引文里有没有原文命中。"""
+    field = _FACET_FIELD.get(key, key)
+    val = item.get(field)
+    if key == "contact":
+        val = item.get("contact") or item.get("dept")
+    if val:
+        return True
+    pat = _FACET_COVER.get(FOCUS_LABEL.get(key, ""))
+    if not pat:
+        return False
+    chunks = [str(item.get("answer") or "")]
+    for _k, v in (item.get("evidence") or {}).items():
+        for ev in _ev_items(v):
+            chunks.append(str((ev or {}).get("quote") or ""))
+    for s in item.get("steps") or []:
+        if isinstance(s, dict):
+            chunks.append(" ".join(str(s.get(k) or "") for k in ("what", "where", "when")))
+        else:
+            chunks.append(str(s))
+    return bool(pat.search(" ".join(chunks)))
+
+
+def _facet_gate(question: str, item: dict[str, Any] | None) -> dict[str, Any] | None:
+    """问句认出了某一面、而条目这一面既无字段又无原文 → 返回一条「没写」的声明。
+
+    返回 None 表示：没认出问面，或认出的那一面条目里有。调用方拿到声明后**不许**
+    退回整体流程——用户问费用，给他一份办理流程等于没答。
+    """
+    if not item:
+        return None
+    q = str(question or "")
+    if len(norm(q)) < 2:
+        return None
+    for key, label, pattern in FOCUS_RULES:
+        if key not in _FACET_FACT_KEYS:
+            continue
+        extra = _FACET_ASK_EXTRA.get(key)
+        if not (re.search(pattern, q) or (extra and extra.search(q))):
+            continue
+        if _facet_item_has(item, key):
+            continue
+        return {"focus": key, "label": label,
+                "text": f"这一条没有写{label}信息。", "found": False, "quotes": []}
+    return None
+
+
 _CONTACT_TITLE_RE = re.compile(r"找谁|联系|咨询")
+
+# 联系方式的最小单位：一个电话或一个邮箱。层 3 的逐字校验就认它——
+# 选中的那一段原文里必须真的含这个串，防「引文对、号码串」。
+_CONTACT_TOKEN_RE = re.compile(
+    r"0\d{2,3}[-\s]?\d{7,8}(?:[-\s]?\d{1,4})?"
+    r"|1[3-9]\d{9}"
+    r"|400[-\s]?\d{7}"
+    r"|6\d{7}"
+    r"|[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}")
+# 「这句话是在给联系方式」的判据（不是随便一句含号码的正文）
+_CONTACT_CUE_RE = re.compile(r"电话|邮箱|联系|咨询|服务|热线|@")
+# 事项名里剥掉的通用词/问法词，剩下来的才是「这是哪件事」
+_CONTACT_STOP = {
+    "学生", "认定", "家庭", "办理", "申请", "管理", "规定", "办法", "工作", "相关",
+    "进行", "需要", "可以", "事项", "服务", "流程", "材料", "常见", "问题", "汇总",
+    "情况", "有关", "以及", "如何", "怎么", "哪些", "什么",
+}
+# 标题尾巴上的「这是什么面」的说法，算事项名时要削掉：「成绩单办理」→「成绩单」
+_CONTACT_TAILS = (
+    "时间安排", "办理流程", "办理程序", "办理", "申请", "流程", "条件", "要求", "材料",
+    "指南", "说明", "规定", "办法", "事项", "服务", "查询", "一览", "清单", "程序",
+    "常见问题", "攻略", "汇总", "须知", "与要求", "流程与要求",
+)
+
+
+def _contact_core(title: str) -> str:
+    """事项名去掉问法与通用尾巴：「学生如何请假」→「请假」，「成绩单办理」→「成绩单」。"""
+    t = re.split(r"\s*·\s*|（|\(| / |/|：|:", str(title or ""))[0].strip()
+    t = re.sub(r"^(?:请问|想问|想咨询|咨询一下|麻烦问一下)", "", t)
+    t = re.sub(r"^(?:学生|新生|本科生|研究生|在校生)?(?:要如何|该如何|如何|怎么|怎样|咋)", "", t)
+    t = re.sub(r"^(?:申请|办理|操作|进行)(?=[\u4e00-\u9fff]{2,})", "", t)
+    t = re.sub(r"(吗|呢|？|\?)$", "", t)
+    for _ in range(3):
+        for suf in _CONTACT_TAILS:
+            if t.endswith(suf) and len(t) > len(suf) + 1:
+                t = t[:-len(suf)]
+                break
+        else:
+            break
+    return t.strip() or str(title or "")
+
+
+def _contact_core_variants(core: str) -> list[str]:
+    """事项名的等价叫法：去掉「国家/学校/学生」这类限定词后剩下的主体也算。
+
+    「国家助学金」对不上标题只写「…奖学金、助学金…问题找谁」的那条；补上「助学金」就对上了。
+    """
+    out = [core] if core else []
+    t = core
+    for _ in range(2):
+        for pre in ("国家", "全国", "学校", "学生", "本科生", "研究生", "新生", "毕业生",
+                    "大学生", "在校生", "中国传媒大学", "北京市"):
+            if t.startswith(pre) and len(t) - len(pre) >= 2:
+                t = t[len(pre):]
+                if t not in out:
+                    out.append(t)
+                break
+        else:
+            break
+    return out
+
+
+def _contact_sentences(text: str) -> list[str]:
+    """按句号/分号/换行切句；号码和「这是谁」通常在同一句里。"""
+    return [s.strip() for s in re.split(r"(?<=[。；;！!？?\n])", str(text or "")) if s.strip()]
+
+
+# 这些「部门」其实是学校名，不是归口：拿它当相关性判据会让任何一条提到学校的正文都过关
+_CONTACT_DEPT_STOP = {"中国传媒大学", "中传", "学校", "北京市", "教育部", "本校"}
+
+
+def _contact_depts(item: dict[str, Any]) -> list[str]:
+    """条目的归口部门（可能多个）：层 3 的相关性判据之一。"""
+    out = []
+    for d in re.split(r"[/、,，]", str(item.get("dept") or "")):
+        d = d.strip()
+        if len(norm(d)) >= 3 and d not in _CONTACT_DEPT_STOP:
+            out.append(d)
+    return out
+
+
+def _contact_quote(it: dict[str, Any], token: str) -> dict[str, Any] | None:
+    """在这条候选的原文里找一段**含号码本身**的逐字引文；找不到就不许用。"""
+    for _k, v in (it.get("evidence") or {}).items():
+        for ev in _ev_items(v):
+            q = str((ev or {}).get("quote") or "")
+            if q and token in q:
+                return {"quote": q, "src": ev.get("src", ""),
+                        **src_label(ev.get("src", ""))}
+    return None
+
+
+def _contact_part_of(text: str, quote: dict[str, Any]) -> dict[str, Any]:
+    return {"focus": "contact", "label": "找谁办", "text": text,
+            "found": True, "quotes": [quote]}
+
+
+def _own_contact(item: dict[str, Any], cores: list[str], subj: set[str],
+                 depts: list[str]) -> dict[str, Any] | None:
+    """层 1：先看本条目自己。正文/引文里就有「部门 + 电话/邮箱」的直接用自己的。
+
+    「转专业」主条目的正文没有号码，但「成绩单办理」「图书馆开放时间」这些有；
+    先看自己既能答对，也避免跨条目把别的事的号码端上来。夹在长正文里的别处号码
+    （比如某条汇总里顺带提了图书馆邮箱）要按事项名/归口部门筛掉。
+    """
+    seen: set[str] = set()
+    pairs: list[tuple[str, str]] = []
+    ans = str(item.get("answer") or "").strip()
+    if ans:
+        pairs.append((ans, ""))
+    for _k, v in (item.get("evidence") or {}).items():
+        for ev in _ev_items(v):
+            q = str((ev or {}).get("quote") or "").strip()
+            if q and q not in seen:
+                seen.add(q)
+                pairs.append((q, str(ev.get("src") or "")))
+    for body, src in pairs:
+        for sent in _contact_sentences(body):
+            if not _CONTACT_CUE_RE.search(sent):
+                continue
+            m = _CONTACT_TOKEN_RE.search(sent)
+            if not m:
+                continue
+            token = m.group(0)
+            if token not in body:          # 句子是切出来的，引文还得在原文里
+                continue
+            # 座机/学校总机（6578xxxx、010-6578xxxx）一般是服务电话，挂在本文条目字段上的
+            # 直接认；手机号+邮箱那种多半是「监督申诉」这类别的渠道，还要过相关性守门。
+            if not (len(sent) <= 60
+                    and re.search(r"0\d{2,3}[^\d]?\d{7,8}|(?<!\d)6\d{7}", sent)):
+                if not _own_contact_relevant(sent, cores, subj, depts):
+                    continue
+            quote = {"quote": body, "src": src, **src_label(src)}
+            return _contact_part_of(sent[:200], quote)
+    return None
+
+
+def _contact_candidates(item: dict[str, Any], core: str, subj: set[str],
+                        cores: list[str] | None = None) -> list[tuple[float, dict[str, Any], str, str]]:
+    """候选池（保持 ITEMS 原序）：(分, 候选条目, 号码所在句, 号码)。
+
+    入池只认旧口径（标题像「找谁/联系/咨询」、答案里有号码），但要求号码那一句
+    读起来是在给联系方式。层 2 还要更严：候选必须**真的在讲这件事**（事项名
+    出现在它标题里），否则「宿舍」这种泛词能贴上任何一条带号码的正文。
+    """
+    depts = _contact_depts(item)
+    cores = cores or [core]
+    out: list[tuple[float, dict[str, Any], str, str]] = []
+    for it in ITEMS:
+        if it.get("id") == item.get("id"):
+            continue
+        title = str(it.get("title") or "")
+        ans = str(it.get("answer") or "").strip()
+        if not ans or len(ans) > 240:
+            continue
+        # 旧口径原样保留：标题得写着「找谁/联系/咨询」，否则任何一段带号码的正文
+        # （图书馆邮箱、宿舍报修手机）都会被当成联系方式。
+        if not title or not _CONTACT_TITLE_RE.search(title):
+            continue
+        m = _CONTACT_TOKEN_RE.search(ans)
+        if not m:
+            continue
+        token = m.group(0)
+        sent = next((s for s in _contact_sentences(ans) if token in s), "")
+        if not sent or not _CONTACT_CUE_RE.search(sent):
+            continue
+        tn, an = norm(title), norm(ans)
+        ov = len(subj & bigrams(tn))
+        hit = next((c for c in cores if c and c in title), "")
+        if not ov and not hit:
+            continue
+        score = 0.0
+        if hit:
+            score += 2.0
+            if title.startswith(hit):
+                score += 1.0
+        score += 0.5 * ov
+        if any(c and c in ans for c in cores):
+            score += 1.0
+        # 本事项的归口部门出现在候选答案里：一条「是同一件事」的旁证
+        if any(len(norm(d)) >= 4 and norm(d) in an for d in depts):
+            score += 1.5
+        # 手机号多半是某位老师/负责人，服务电话一般是座机
+        if re.fullmatch(r"1[3-9]\d{9}", token):
+            score -= 2.0
+        out.append((score, it, sent, token))
+    return out
+
+
+def _contact_sentence_relevant(sent: str, cores: list[str], subj: set[str],
+                               depts: list[str]) -> bool:
+    """层 3 的守门：号码那条答案得点着本事项的名字，或够具体的本部门。"""
+    sn = norm(sent)
+    if any(len(c) >= 3 and c in sn for c in cores):
+        return True
+    if any(len(norm(d)) >= 4 and norm(d) in sn for d in depts):
+        return True
+    return bool(any(len(c) < 3 for c in cores) and subj & bigrams(sn))
+
+
+def _own_contact_relevant(sent: str, cores: list[str], subj: set[str],
+                          depts: list[str]) -> bool:
+    """层 1 的守门：本条目里的号码句也得点着这件事，别拿夹在正文里的别处号码。"""
+    sn = norm(sent)
+    if any(len(c) >= 3 and c in sn for c in cores):
+        return True
+    if any(len(norm(d)) >= 4 and norm(d) in sn for d in depts):
+        return True
+    # 事项名很短（「体测」「补卡」）时二字组本身就是最有信息量的词
+    return bool(any(len(c) < 3 for c in cores) and subj & bigrams(sn))
 
 
 def _contact_part(item: dict[str, Any] | None, text: str) -> dict[str, Any] | None:
     """给办理类答案补一条「找谁办」。
 
-    联系方式常常不在本条里：资助条目只写「学校学生资助管理部门」，
-    电话在另一条「勤工助学、奖学金、助学金、困难补助问题找谁」里（65783544）。
-    办理类问题不把这条补上，用户拿到的是一份没头没尾的流程。
+    三层，按顺序：
+    1. **本条目自己**：正文/引文里就有部门 + 电话/邮箱，直接用（可逐字核对）；
+    2. **跨条目兜底要打分**：候选必须真的在讲这件事（事项名出现在它标题里），
+       再按二字组重合/归口部门给分，取分最高且与第二名拉开 1 分的那条；
+       拉不开宁可不说；
+    3. **逐字校验**：被选中的那一段引文必须含号码/邮箱本身。
+    原来只看「第一个沾边的」，一个「专业」这种通用二字组就能让别的事的号码抢先命中
+    （转专业被电视学院短训班顶掉，65779262 ≠ 65783223）——问题在「取第一个」，不在没候选。
     """
     if not item:
         return None
@@ -6031,36 +6364,46 @@ def _contact_part(item: dict[str, Any] | None, text: str) -> dict[str, Any] | No
     if isinstance(c, dict) and c.get("value"):
         return {"focus": "contact", "label": "找谁办",
                 "text": f"{c.get('name') or '联系'}：{c['value']}", "found": True, "quotes": []}
-    # 事项标题里去掉通用词，剩下的才是「话题词」；「找谁」条目必须沾上一个话题词，
-    # 答案里还得真像联系方式（电话/邮箱/咨询），否则宁可不给。
-    _GENERIC = {"学生", "认定", "家庭", "办理", "申请", "管理", "规定", "办法", "工作",
-                "相关", "进行", "需要", "可以", "事项", "服务", "流程", "材料"}
-    subj = {g for g in bigrams(norm(item.get("title") or "")) if g not in _TOPIC_STOP and g not in _GENERIC}
-    if not subj:
-        return None
-    for it in ITEMS:
-        title = str(it.get("title") or "")
-        if not _CONTACT_TITLE_RE.search(title):
-            continue
-        if not (subj & bigrams(norm(title))):
-            continue
-        ans = str(it.get("answer") or "").strip()
-        if not ans or len(ans) > 240:
-            continue
-        if not re.search(r"电话|邮箱|@|联系|咨询|地址|窗口|中心", ans):
-            continue
-        one: dict[str, Any] = {}
-        for _k, v in (it.get("evidence") or {}).items():
-            for ev in _ev_items(v):
-                if str((ev or {}).get("quote") or "").strip():
-                    one = ev
-                    break
-            if one:
-                break
-        quotes = ([{"quote": one.get("quote", ""), "src": one.get("src", ""),
-                    **src_label(one.get("src", ""))}] if one else [])
+    # 人工整理过的 contact（字符串）：它已经是一条「找谁」说明，含号码就直接用；
+    # 不含号码时说明这一面只有部门（主答面已经端出去了），不许再去别的事里抓个号码回来。
+    manual = str(c or "").strip() if isinstance(c, str) else ""
+    if manual and _CONTACT_TOKEN_RE.search(manual):
         return {"focus": "contact", "label": "找谁办",
-                "text": ans, "found": True, "quotes": quotes}
+                "text": manual, "found": True, "quotes": []}
+    core = _contact_core(item.get("title"))
+    cores = _contact_core_variants(core)
+    subj = {g for g in bigrams(norm(core))
+            if g not in _TOPIC_STOP and g not in _CONTACT_STOP}
+    for _c in cores[1:]:
+        subj |= {g for g in bigrams(norm(_c)) if g not in _TOPIC_STOP and g not in _CONTACT_STOP}
+    depts = _contact_depts(item)
+    own = _own_contact(item, cores, subj, depts)
+    if own is not None:
+        return own
+    if manual:
+        return None
+    if not subj and not core:
+        return None
+    raw = _contact_candidates(item, core, subj, cores)
+    # 层 2：候选必须点着这件事名（core），否则「宿舍」这种泛词会贴上任何带号码的正文
+    strong = [r for r in raw
+              if any(c and len(c) >= 2 and c in str(r[1].get("title") or "") for c in cores)]
+    if strong:
+        ranked = sorted(strong, key=lambda r: -r[0])
+        best = ranked[0]
+        if best[0] >= 2.0 and (len(ranked) == 1 or best[0] - ranked[1][0] >= 1.0):
+            q = _contact_quote(best[1], best[3])
+            if q and best[3] in q.get("quote", ""):
+                return _contact_part_of(best[2], q)
+    # 层 3：分不清时退回「第一个沾着本事项的」旧行为（整条答案照旧端出去），
+    # 但号码那一句/那条答案得点着本事项或本部门，且引文必须含号码本身。
+    for score, it, sent, token in raw:
+        whole = str(it.get("answer") or "").strip()
+        if not _contact_sentence_relevant(whole, cores, subj, depts):
+            continue
+        q = _contact_quote(it, token)
+        if q and token in q.get("quote", ""):
+            return _contact_part_of(whole, q)
     return None
 
 
@@ -6774,6 +7117,17 @@ def _answer_core(text: str, given: dict[str, str] | None = None,
     found = [p for p in parts if p["found"]]
     missing = [p["label"] for p in parts if not p["found"]]
 
+    # 维度校验：问的那一面（费用/时间/材料…）条目里没有时，不拿整体流程顶上来。
+    # 强命中免检只免「这条对不对」，不免「这一问有没有被答到」。
+    facet_absent = _facet_gate(text, top)
+    if facet_absent is not None:
+        keep = [p for p in parts
+                if p["found"] and p["focus"] not in ("overview", "steps")]
+        if facet_absent["focus"] not in {p["focus"] for p in keep}:
+            keep.append(facet_absent)
+        parts = keep
+        missing = [p["label"] for p in parts if not p["found"]]
+
     # 问「在哪」顺带问了怎么办时，别只甩一个地址
     if (not PLACE_ONLY.search(text)
             and any(p["found"] for p in parts)
@@ -6804,8 +7158,9 @@ def _answer_core(text: str, given: dict[str, str] | None = None,
         focus_keys = [p["focus"] for p in parts]
         missing = [m for m in missing if m not in ("官方答复", "整体流程")]
 
-    # 聚焦项一个都没命中时退回整体答复，别交白卷
-    if not any(p["found"] for p in parts):
+    # 聚焦项一个都没命中时退回整体答复，别交白卷；
+    # 但「问的那一面条目里确实没有」时不许退回整体流程（那是答非所问）。
+    if not any(p["found"] for p in parts) and facet_absent is None:
         ov = _answer_one(top, "overview", known, text)
         if ov["found"]:
             parts = [ov]
@@ -6817,7 +7172,8 @@ def _answer_core(text: str, given: dict[str, str] | None = None,
     # 已有联系面但只有部门名、没有电话的，也补一条带号码的。
     contact_parts = [p for p in parts if p.get("focus") == "contact"]
     has_phone = any(re.search(r"\d{7,}", str(p.get("text") or "")) for p in contact_parts)
-    if (not has_phone and re.search(r"办理|申请|怎么|如何|流程|联系|找谁", text)):
+    if (not has_phone and facet_absent is None
+            and re.search(r"办理|申请|怎么|如何|流程|联系|找谁", text)):
         cp = _contact_part(top, text)
         if cp:
             parts.append(cp)
@@ -7080,27 +7436,41 @@ def answer_question(text: str, given: dict[str, str] | None = None,
     # 「这句要不要接上一条」先判一次：带上下文时先把两组候选检索出来（只用规则腿，
     # 几十毫秒），让模型看着「这句话自己能对上什么」判，而不是凭一句话猜省没省主语。
     need = False
-    if not pick_item:
-        own_rows = ctx_rows = None
-        if ctx and _llm_on(router_llm):
-            # 这两次只是给「要不要上文」的判定取证据，不是答题检索：
-            # CTX_PROBE 立起来，测试里能把它们和真正的答题检索分开。
-            CTX_PROBE[0] = True
-            try:
-                own_rows = rank(orig)[:4]
-                ctx_rows = rank(f"{ctx['title']}，{orig}")[:4]
-            finally:
-                CTX_PROBE[0] = False
-        need = _context_needed(orig, ctx, asked[-1] if asked else "", note,
-                               _llm_on(router_llm), own_rows=own_rows, ctx_rows=ctx_rows)
-    # 兜底：模型判「要接」，但这句既不是纯数量/时间省略、又跟上一件事一个实词都不沾
-    # （「饿了」对上「宿舍购电」、「那宿舍怎么调」对上「转专业」），就不接。
-    # 只靠复核拦不住——复核看到「接着它问」的旁注，会自己把新话题解释成还在问旧话题。
-    if CTX_GUARDS and need and ctx and not _pure_ellipsis(orig) and not _shares_topic(orig, ctx):
-        need = False
-        note["ctx_detached"] = "no_topic_overlap"
-    standalone = llm_condense(orig, history, note) if (need and history) else ""
-    search, ctx_id, judge = _contextual_text(orig, ctx, need, standalone)
+    standalone = ""
+    if CTX_V2:
+        # 三闸门 + 仲裁一次算完：判「接不接」和「拿什么串检索」是同一个决定，
+        # 不在这里再跑「先单轮早退」——那条早退实测会把模型判对的补全句丢掉。
+        # 点反问菜单里的某一条时用户已经指定了条目，不参与「接不接上文」的判定
+        d = ctx_v2_decide(orig, (ctx or {}).get("id"), history, note) if not pick_item else None
+        if d is not None:
+            search, ctx_id = d.query, ctx["id"]
+            judge = f"{orig}\n（上一轮问的是「{ctx['title']}」）"
+            standalone = d.rewrite
+        else:
+            search, ctx_id, judge = orig, None, ""
+        need = bool(ctx_id)
+    else:
+        if not pick_item:
+            own_rows = ctx_rows = None
+            if ctx and _llm_on(router_llm):
+                # 这两次只是给「要不要上文」的判定取证据，不是答题检索：
+                # CTX_PROBE 立起来，测试里能把它们和真正的答题检索分开。
+                CTX_PROBE[0] = True
+                try:
+                    own_rows = rank(orig)[:4]
+                    ctx_rows = rank(f"{ctx['title']}，{orig}")[:4]
+                finally:
+                    CTX_PROBE[0] = False
+            need = _context_needed(orig, ctx, asked[-1] if asked else "", note,
+                                   _llm_on(router_llm), own_rows=own_rows, ctx_rows=ctx_rows)
+        # 兜底：模型判「要接」，但这句既不是纯数量/时间省略、又跟上一件事一个实词都不沾
+        # （「饿了」对上「宿舍购电」、「那宿舍怎么调」对上「转专业」），就不接。
+        # 只靠复核拦不住——复核看到「接着它问」的旁注，会自己把新话题解释成还在问旧话题。
+        if CTX_GUARDS and need and ctx and not _pure_ellipsis(orig) and not _shares_topic(orig, ctx):
+            need = False
+            note["ctx_detached"] = "no_topic_overlap"
+        standalone = llm_condense(orig, history, note) if (need and history) else ""
+        search, ctx_id, judge = _contextual_text(orig, ctx, need, standalone)
     history = None
     if ctx_id:
         given = {**(context_slots or {}), **(given or {})}
@@ -7237,6 +7607,8 @@ def _synth_plan(text: str, status: dict[str, Any]) -> tuple[list[str], list[str]
         data = json.loads(raw) or {}
     except Exception as e:  # noqa: BLE001
         status["error"] = _llm_err_text(e)
+        # 这句只写日志（云端 FC 日志里能直接看到真因）；返回与控制流一个字没动。
+        print(f"[综合层] 拆前提失败：{status['error']}", flush=True)
         return [], []
     if not isinstance(data, dict):
         return [], []
@@ -8882,8 +9254,23 @@ def clean_response(resp: dict[str, Any]) -> dict[str, Any]:
     return resp
 
 
-def _synth_payload(text: str, synth: dict[str, Any]) -> dict[str, Any]:
-    return {
+def _finalize_answer(resp: dict[str, Any], kind: str | None = None) -> dict[str, Any]:
+    """普通问答的最终答复统一出口：清洗 + 登记回答 ID（赞踩用）。
+
+    中间澄清菜单（disambiguate / hold）不挂反馈；未命中的最终答复仍可评价。
+    反馈库不可写时 attach 内部吞掉异常，问答照常返回，前端只是没有按钮。
+    """
+    resp = clean_response(resp)
+    if resp.get("disambiguate") or resp.get("hold"):
+        return resp
+    if kind is None:
+        kind = "synth" if resp.get("synth") else ("not_found" if not resp.get("matched") else "normal")
+    return feedback_store.attach(resp, "official", kind=kind)
+
+
+def _synth_payload(text: str, synth: dict[str, Any],
+                   item_id: str | None = None) -> dict[str, Any]:
+    payload = {
         "matched": True,
         "query": text,
         "synth": synth,
@@ -8896,19 +9283,39 @@ def _synth_payload(text: str, synth: dict[str, Any]) -> dict[str, Any]:
         "model_route": {"gate": "synth", "premises": synth["premises"],
                         "evidence": len(synth["evidence"])},
     }
+    # CTX_V2：综合层也要把锚点回填给前端，否则下一轮 context_item 为 null，追问断链。
+    # item_id=None 时不加任何字段——CTX_V2=0 的响应与改动前逐字段一致。
+    if item_id in ITEM_BY_ID:
+        payload["item"] = public(ITEM_BY_ID[item_id])
+        payload["context_item"] = item_id
+    return payload
 
 
-def _synth_stream(text: str) -> Iterator[str]:
-    """综合层也边走边发：拆前提→取证→挑证据→推理→校对，每步一帧，done 是最终 dict。"""
+def _synth_stream(text: str, item_id: str | None = None,
+                  fallback: dict[str, Any] | None = None) -> Iterator[str]:
+    """综合层也边走边发：拆前提→取证→挑证据→推理→校对，每步一帧，done 是最终 dict。
+
+    综合层没有产出（库外题拆不出前提、证据不足）时**不报错**，直接切普通链路，
+    把那条链路的帧原样透传下去——与非流式 `ask()` 的「失败就回退」保持一致。
+    """
     q: queue.Queue[Any] = queue.Queue()
 
     def work() -> None:
         try:
-            out = synthesize_answer(text, sink=lambda frame: q.put(("step", frame)))
-            if not out:
+            out = None
+            try:
+                out = synthesize_answer(text, sink=lambda frame: q.put(("step", frame)))
+            except Exception as e:  # noqa: BLE001  综合层自己挂了也走回退，不把站点顶成错误卡
+                print(f"[综合层] 流式回退：{_short_err(e)}", flush=True)
+                out = None
+            if out:
+                q.put(("done", _finalize_answer(_synth_payload(text, out, item_id), "synth")))
+            elif fallback is not None:
+                # 回退：普通链路的 SSE 帧（含它自己的 step / done / err）已经是成品字符串，直接透传
+                for chunk in _ask_stream(**fallback):
+                    q.put(("raw", chunk))
+            else:
                 q.put(("err", {"error": "综合层没跑起来，已按普通方式回答"}))
-                return
-            q.put(("done", clean_response(_synth_payload(text, out))))
         except Exception as e:  # noqa: BLE001
             q.put(("err", {"error": _short_err(e)}))
         finally:
@@ -8919,7 +9326,10 @@ def _synth_stream(text: str) -> Iterator[str]:
         kind, payload = q.get()
         if kind == "end":
             return
-        yield _sse(kind, payload)
+        if kind == "raw":
+            yield payload          # 已经是完整 SSE 帧，不能再包一层
+        else:
+            yield _sse(kind, payload)
 
 
 @app.post("/api/ask")
@@ -8933,24 +9343,45 @@ def ask(req: AskReq, request: Request) -> Any:
     # 也不走（见 `_synth_skip`）。失败或没跑起来回退普通链路；开关关掉时这段完全不执行。
     ranked0 = rank(text)
     top_score = ranked0[0][1] if ranked0 else 0
-    if req.synth and top_score < 97 and not _synth_skip(text, top_score):
+    # CTX_V2：先判「这句是不是接着上一轮」，续问一律不进综合层（综合层签名没有上下文，
+    # 进去就把锚点丢了，实测「那要带什么材料」到综合层时只剩原句）。锚点也在这里补：
+    # 前端刷新后 state.item 丢了，但 messages 里还留着上一问。
+    v2_anchor = req.context_item
+    v2_follow = False
+    if CTX_V2:
+        if not v2_anchor and req.messages:
+            try:
+                v2_anchor = ctx_v2_resolver().anchor_from_history(
+                    _history_questions(req.messages), text)
+            except Exception:  # noqa: BLE001
+                v2_anchor = None
+        if v2_anchor and not req.pick_item:
+            v2_follow = ctx_v2_decide(text, v2_anchor, req.messages) is not None
+            if not v2_follow:
+                v2_anchor = None
+    # 普通链路的参数先备好：综合层没产出时要拿它回退（流式与非流式都走这一份）
+    kw = dict(
+        text=text, given=req.slots, router_llm=req.router_llm,
+        context_item=v2_anchor if CTX_V2 else req.context_item,
+        context_slots=req.context_slots,
+        history=req.messages or None, pick_item=req.pick_item,
+    )
+    if (not v2_follow) and req.synth and top_score < 97 and not _synth_skip(text, top_score):
+        # 综合层回答也要给前端锚点：不给的话下一轮 context_item 就是 null，追问断链。
+        synth_item = (v2_anchor or (ranked0[0][0]["id"] if top_score >= MATCH_THRESHOLD else None)
+                      if CTX_V2 else None)
         if "text/event-stream" in (request.headers.get("accept") or ""):
-            return StreamingResponse(_synth_stream(text), media_type="text/event-stream",
+            return StreamingResponse(_synth_stream(text, synth_item, kw), media_type="text/event-stream",
                                      headers={"Cache-Control": "no-cache", "X-Accel-Buffering": "no"})
         synth = synthesize_answer(text)
         if synth:
-            return clean_response(_synth_payload(text, synth))
-    kw = dict(
-        text=text, given=req.slots, router_llm=req.router_llm,
-        context_item=req.context_item, context_slots=req.context_slots,
-        history=req.messages or None, pick_item=req.pick_item,
-    )
+            return _finalize_answer(_synth_payload(text, synth, synth_item), "synth")
     # /field 带这个头来看流：每一步模型调用跑完就发一帧，最后 done 就是下面那个 dict。
     # 经典版 app.js 不带这个头，走的还是原来那一条，一个字节都不变。
     if "text/event-stream" in (request.headers.get("accept") or ""):
         return StreamingResponse(_ask_stream(**kw), media_type="text/event-stream",
                                  headers={"Cache-Control": "no-cache", "X-Accel-Buffering": "no"})
-    return clean_response(answer_question(**kw))
+    return _finalize_answer(answer_question(**kw))
 
 
 @app.post("/api/intake")
@@ -9095,6 +9526,73 @@ def field() -> FileResponse:
         media_type="text/html; charset=utf-8",
         headers={"Cache-Control": "no-store, must-revalidate"},
     )
+
+
+@app.get("/social")
+def social_page() -> FileResponse:
+    return FileResponse(
+        ROOT / "web-next" / "social.html",
+        media_type="text/html; charset=utf-8",
+        headers={"Cache-Control": "no-store, must-revalidate"},
+    )
+
+
+# ---------------------------------------------------------------- 匿名赞踩
+class VoteReq(BaseModel):
+    vote: str | None = None
+
+
+def _voter_hash(request: Request, required: bool = True) -> str | None:
+    raw = (request.headers.get("x-voter-id") or "").strip()
+    if not raw or len(raw) < 16 or len(raw) > 200:
+        if required:
+            raise HTTPException(400, "缺少匿名标记")
+        return None
+    return feedback_store.hash_voter(raw)
+
+
+@app.get("/api/feedback/{answer_id}")
+def get_feedback(answer_id: str, request: Request) -> dict[str, Any]:
+    voter = _voter_hash(request, required=False)
+    try:
+        return feedback_store.get_vote(answer_id, voter)
+    except KeyError:
+        raise HTTPException(404, "没有这条回答")
+    except (sqlite3.Error, OSError):
+        raise HTTPException(503, "反馈暂不可用")
+
+
+@app.put("/api/feedback/{answer_id}")
+def put_feedback(answer_id: str, req: VoteReq, request: Request) -> dict[str, Any]:
+    if req.vote not in (None, "up", "down"):
+        raise HTTPException(400, "票只能是 up、down 或 null")
+    voter = _voter_hash(request, required=True)
+    try:
+        return feedback_store.set_vote(answer_id, voter or "", req.vote)
+    except KeyError:
+        raise HTTPException(404, "没有这条回答")
+    except ValueError:
+        raise HTTPException(400, "票只能是 up、down 或 null")
+    except (sqlite3.Error, OSError):
+        raise HTTPException(503, "反馈暂不可用")
+
+
+# 校园经验：只读 UGC 样本，模型调用复用上面的 ds_chat。
+social_ui.register(
+    app,
+    ds_chat=ds_chat,
+    attach_feedback=lambda payload, kind: feedback_store.attach(payload, "social", kind=kind),
+    has_key=lambda: bool(api_key()),
+)
+
+
+@app.on_event("startup")
+def _ensure_feedback_db() -> None:
+    """建反馈库失败不拦启动：问答还能用，前端只是看不到赞踩按钮。"""
+    try:
+        feedback_store.init_db()
+    except Exception as exc:  # noqa: BLE001
+        print(f"[feedback] 初始化失败，反馈暂不可用：{type(exc).__name__}: {exc}", flush=True)
 
 
 @app.exception_handler(HTTPException)

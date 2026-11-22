@@ -334,6 +334,7 @@
     .sheet{box-shadow:none;border-top:2px solid #000;margin-top:0;page-break-inside:avoid}
   }
 </style>
+<link rel="stylesheet" href="feedback.css">
 </head>
 <body>
 <div class="wrap">
@@ -349,6 +350,7 @@
       </label>
       <span class="pill"><i class="dot" id="dot"></i><span id="stat">检测中</span></span>
       <span id="meta">数据核验 —</span>
+      <a class="pill" href="/social" style="text-decoration:none" title="浏览公开帖子里的中传校园经验">校园经验</a>
       <a class="pill" href="/" style="text-decoration:none" title="切到新版界面">新版界面</a>
     </div>
   </header>
@@ -387,6 +389,7 @@
   </footer>
 </div>
 
+<script src="feedback.js"></script>
 <script>
 const $ = (s) => document.querySelector(s);
 const EXAMPLES = ["校园卡丢了怎么办", "我要开个证明", "成绩单怎么打", "选课没选上", "校园网连不上"];
@@ -581,6 +584,27 @@ function extractAnswerText(d) {
 }
 
 /* ---------------- 1. 识别 ---------------- */
+// 每条最终答复底部挂同一套匿名赞踩；answer_id 由服务端登记，没有就不渲染。
+function bindFeedback(d) {
+  const out = $("#out");
+  out.querySelectorAll(".answer-feedback").forEach((node) => node.remove());
+  if (!d) return;
+  if (!d.answer_id) {
+    if (d.feedback_unavailable) {
+      const off = document.createElement("p");
+      off.className = "answer-feedback-off";
+      off.textContent = "反馈暂不可用";
+      out.appendChild(off);
+    }
+    return;
+  }
+  if (!window.GYTFeedback) return;
+  const box = document.createElement("div");
+  box.className = "answer-feedback";
+  out.appendChild(box);
+  window.GYTFeedback.mount(box, d.answer_id, { channel: "official" });
+}
+
 async function run(keepSlots) {
   const text = $("#q").value.trim();
   $("#err").textContent = "";
@@ -601,9 +625,12 @@ async function run(keepSlots) {
     if (!d.matched) {
       $("#out").innerHTML = notFound(d);
       bindChoices();
+      bindFeedback(d);
       return;
     }
-    state.item = d.item;
+    // 续问时后端会带 context_item（=上一轮锚点）：这时别把锚点换成答案条目。
+    const keep = d.context_item && state.item && d.context_item === state.item.id;
+    if (!keep) state.item = d.item;
     if (Array.isArray(d.disambiguate) && d.disambiguate.length && d.clarify) {
       $("#out").innerHTML = choiceBlock(d);
       bindChoices();
@@ -617,6 +644,7 @@ async function run(keepSlots) {
     }
     if (d.plan) {
       $("#out").innerHTML = planBlock(d);
+      bindFeedback(d);
       const ex = $("#pexpand");
       if (ex) ex.onclick = () => document.querySelectorAll("details.pmajor").forEach((x) => x.open = true);
       return;
@@ -626,6 +654,7 @@ async function run(keepSlots) {
       + buildSheet(d.item, d) + `</details>`;
     bindChoices();
     bindSheet();
+    bindFeedback(d);
     refreshDeliver();
   } catch (e) {
     $("#err").textContent = e.message;

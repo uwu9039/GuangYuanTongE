@@ -1,0 +1,227 @@
+/* ============================================================
+   广院通 · 校园经验 / web-next/social.css
+   只做增量：配色、字体、按钮、卡片、chip、空状态、媒体查询
+   全部沿用 styles.css（/desk 那一套），这里只加这一页需要的东西。
+   ============================================================ */
+
+/* ---------------- 顶栏 ---------------- */
+/* 只调一个值：/desk 的 --ink-3(#7d7b71) 落在 --bg(#f4f3ee) 上只有 3.82:1，
+   低于 WCAG AA 的 4.5:1。这一页的说明字几乎全是这个色，因此把同一个灰压深一档到
+   #6f6d63（4.67:1）；色相不变，仍是 styles.css 那套暖灰。 */
+body.social{--ink-3:#6f6d63}
+
+.social-brand{border-bottom:0;color:inherit;padding:5px 0;margin:-5px 0}
+.social-brand:hover{border-bottom:0}
+.social-brand b{color:var(--ink)}
+.social-brand span{color:var(--ink-3)}
+.social-back{white-space:nowrap}
+.only-mobile{display:none}
+.social-noscript{max-width:44ch;margin:16vh auto;padding:0 24px;font-size:13.5px;line-height:1.8;color:var(--ink-2)}
+
+/* ---------------- 对话区增量 ---------------- */
+.social .thread{gap:24px}
+
+/* 空态：标题与示例问题都沿用 .empty / .chips，只补一条“不适合这里”的行距 */
+.social .empty h1{max-width:22ch}
+.social .empty .eexit a{border-bottom-style:dotted}
+
+/* 一轮回答卡 */
+.social-card .cardhead{padding-bottom:2px}
+.social-card .cardbody{padding-top:6px}
+.social-turn{display:flex;flex-direction:column;gap:12px}
+
+/* claim：一条条能核对，前面挂序号，后面挂引用角标 */
+.claims{list-style:none;display:flex;flex-direction:column;gap:0}
+.claim{display:grid;grid-template-columns:20px minmax(0,1fr);gap:9px;padding:8px 0;
+  font-size:14px;line-height:1.74;letter-spacing:-.002em}
+.claim+.claim{border-top:1px solid var(--hair)}
+.claim:first-child{padding-top:2px}
+.claim .cn{font-family:var(--mono);font-size:10.5px;color:var(--ink-3);padding-top:4px;
+  font-variant-numeric:tabular-nums;letter-spacing:.02em}
+.claim .ct{min-width:0;overflow-wrap:anywhere;text-wrap:pretty}
+
+/* 引用角标：是 button，不是 span，键盘能直接 Tab 到 */
+.cite{font-family:var(--mono);font-size:10.5px;line-height:1.55;color:var(--accent);
+  background:var(--accent-soft);border-radius:3px;padding:0 4px;margin-left:3px;
+  vertical-align:baseline;white-space:nowrap;
+  transition:background 140ms var(--ease-out),color 140ms var(--ease-out)}
+.cite:hover{background:rgba(156,47,39,.17);color:#7d251f}
+.cite:active{transform:scale(.96)}
+.cite[aria-current="true"]{background:var(--accent);color:#fbf7ec}
+
+/* 摘录标注：模式是 excerpt 时压在正文上面，比 tag 更显眼一点 */
+.social-excerptNote{margin:2px 0 9px;padding:7px 10px;border-radius:6px;
+  background:var(--warn-soft);color:var(--warn);font-size:12px;line-height:1.72}
+.social-excerptNote b{font-weight:600}
+
+.social-note{margin-top:11px;padding-top:9px;border-top:1px solid var(--hair);
+  font-size:12px;line-height:1.82;color:var(--ink-3);text-wrap:pretty}
+.social-note.plain{border-top:0;padding-top:0;margin-top:6px}
+.social-missing{margin-top:9px;font-size:12px;color:var(--ink-3)}
+
+/* 转到办事向导的主按钮 */
+.gobtn{display:inline-flex;align-items:center;gap:7px;margin-top:12px;
+  background:var(--ink);color:#f5f2e7;font-size:13px;padding:9px 15px;border-radius:7px;border-bottom:0;
+  transition:opacity 160ms var(--ease-out),transform 160ms var(--ease-out)}
+.gobtn:hover{color:#f5f2e7;border-bottom:0;opacity:.9}
+.gobtn:active{transform:scale(.985)}
+.gobtn svg{width:14px;height:14px}
+
+/* 空结果里给的主题建议 */
+.social-sugg{display:flex;flex-wrap:wrap;gap:6px;margin-top:11px}
+.social-sugg .opt{font-size:12.5px;padding:6px 11px}
+
+/* 反馈挂载点：主 agent 挂 window.GYTFeedback.mount，这里只留位置 */
+.social-feedback{padding:2px 14px 11px}
+.social-feedback:empty{padding:0;height:0}
+
+/* 出错卡 */
+.social-error{background:var(--raised);box-shadow:inset 0 0 0 1px var(--line)}
+.social-error h3{font-size:14.5px;font-weight:600;line-height:1.6}
+.social-error p{font-size:12.5px;color:var(--ink-2);margin-top:6px;line-height:1.8}
+
+/* 轻量等待行沿用 .loading + .dots */
+.social .loading b{font-weight:500;color:var(--ink-2)}
+
+/* ---------------- 右栏增量 ---------------- */
+.social-inspector .inshead{padding-bottom:0}
+.social-inspector .jnsub{font-variant-numeric:tabular-nums}
+
+.social-filters{display:flex;flex-wrap:wrap;gap:6px;padding:12px 20px 11px;
+  border-bottom:1px solid var(--hair);flex:none}
+.fchip{display:inline-flex;align-items:center;gap:5px;font-size:12px;color:var(--ink-2);
+  background:rgba(255,254,251,.8);padding:5px 10px;border-radius:999px;
+  box-shadow:inset 0 0 0 1px var(--hair);
+  transition:background 160ms var(--ease-out),color 160ms var(--ease-out),box-shadow 160ms var(--ease-out)}
+.fchip:hover{background:var(--raised);color:var(--ink);box-shadow:inset 0 0 0 1px var(--line-2)}
+.fchip[aria-pressed="true"]{background:var(--ink);color:#f5f2e7;box-shadow:none}
+.fchip[aria-pressed="true"] .n{color:#dedbd0}
+.fchip .n{font-family:var(--mono);font-size:10.5px;font-variant-numeric:tabular-nums;color:var(--ink-3)}
+
+.social-srcbar{display:flex;align-items:center;gap:10px;padding:8px 20px;flex:none;
+  border-bottom:1px solid var(--hair);background:var(--accent-soft)}
+.social-srcbar-t{font-size:12px;color:var(--ink-2);min-width:0;
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.social-srcbar .ghostbtn{margin-left:auto;flex:none;font-size:12px;color:var(--accent);padding:4px 8px}
+
+/* 帖子列表：一行一条，用发丝线分隔，不堆圆角卡片 */
+.pclist{display:flex;flex-direction:column}
+.pcard{padding:13px 0;border-top:1px solid var(--hair);scroll-margin-top:10px}
+.pcard:first-child{border-top:0;padding-top:2px}
+.pcard:focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:3px}
+.pcard.is-hit{animation:pflash 2.4s var(--ease-out) both}
+.pcard.is-cited{box-shadow:inset 2px 0 0 rgba(156,47,39,.3);padding-left:10px;margin-left:-10px}
+@keyframes pflash{
+  0%{background:rgba(156,47,39,.115)}
+  60%{background:rgba(156,47,39,.055)}
+  100%{background:transparent}
+}
+.pchead{display:flex;align-items:baseline;gap:8px;font-family:var(--mono);font-size:11px;
+  color:var(--ink-3);font-variant-numeric:tabular-nums;line-height:1.5}
+.pcno{color:var(--accent);flex:none}
+.pcplat{letter-spacing:.06em;flex:none}
+.pcdate{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.pctitle{font-size:13.5px;line-height:1.62;font-weight:600;letter-spacing:-.002em;margin-top:5px;
+  text-wrap:pretty;overflow-wrap:anywhere}
+.pcmeta{font-size:11.5px;color:var(--ink-3);margin-top:3px;overflow-wrap:anywhere;line-height:1.6}
+.pcsum{font-family:var(--serif);font-size:12.5px;line-height:1.82;color:#44423b;margin-top:6px;
+  display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden;
+  overflow-wrap:anywhere;text-wrap:pretty}
+.pcsum.pcnone{font-family:var(--sans);font-size:12px;color:var(--ink-3);-webkit-line-clamp:2}
+.pcfoot{display:flex;align-items:center;gap:6px;flex-wrap:wrap;margin-top:7px}
+.pctag{font-family:var(--mono);font-size:10.5px;line-height:1.5;padding:1px 6px;border-radius:4px;
+  background:rgba(30,31,28,.05);color:var(--ink-3);white-space:nowrap}
+.pctag.old{background:var(--warn-soft);color:var(--warn)}
+.pclink{margin-left:auto;font-size:11.5px;border-bottom-style:dotted;white-space:nowrap;padding:4px 0}
+.pcnolink{margin-left:auto;font-size:11px;color:var(--ink-3);white-space:nowrap}
+
+.social-legend{font-size:11px;color:var(--ink-3);line-height:1.5;min-width:0;
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+
+.social-insempty{padding:4px 0 6px;animation:rise 220ms var(--ease-out) both}
+.social-insempty h3{font-size:14px;font-weight:600;line-height:1.55}
+.social-insempty p{font-size:12.5px;color:var(--ink-2);line-height:1.8;margin-top:7px}
+.social-insempty .opts{margin-top:11px}
+
+/* ---------------- 手机抽屉 ---------------- */
+.social-scrim{position:fixed;inset:0;z-index:31;background:rgba(30,31,28,.24);
+  backdrop-filter:blur(2px);opacity:0;transition:opacity 220ms var(--ease-out)}
+.social-scrim[data-open="true"]{opacity:1}
+body.drawer-open{overflow:hidden}
+
+@media (min-width:841px){
+  .social-scrim{display:none}
+}
+
+@media (max-width:840px){
+  .only-mobile{display:inline-flex}
+  .social .topbar{padding:10px 12px;gap:8px;flex-wrap:nowrap}
+  .social-brand{flex:0 1 auto;min-width:0}
+  .social-brand b{font-size:13.5px;letter-spacing:-.01em;min-width:0;
+    overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .social .topacts{gap:2px}
+  .social .topacts .ghostbtn{padding:7px 8px;font-size:12px}
+  .social .topacts .social-back{padding-right:0}
+  .social-filters{padding:10px 16px 9px}
+  .social-srcbar{padding:8px 16px}
+  .social-inspector{height:min(84dvh,700px)}
+  .social-inspector .insbody{padding-bottom:max(16px,env(safe-area-inset-bottom))}
+  .social-legend{display:none}
+  .social .thread{padding-bottom:6px}
+}
+@media (max-width:560px){
+  .hide-narrow{display:none}
+  .social-brand b{font-size:13px}
+  .claim{font-size:13.5px;padding:7px 0}
+  .social-card .cardbody{padding-left:14px;padding-right:14px}
+  .social-feedback{padding:0 12px 10px}
+}
+@media (max-width:400px){
+  .social .topbar{padding:9px 10px;gap:6px}
+  .social .topacts .ghostbtn{padding:6px 7px;font-size:11.5px}
+  .social-brand b{font-size:12.5px}
+  .social-brand .brand-logo{height:19px}
+}
+
+/* /desk 在 ≤900px 就把右栏降成底部抽屉了；这一页的抽屉从 840px 才开始，
+   所以 841–900 这一段要把 /desk 的移动端规则按回桌面双栏，比例沿用它的 352px。 */
+@media (min-width:841px) and (max-width:900px){
+  body{overflow:hidden}
+  .app{grid-template-columns:minmax(0,1fr) 352px;height:100dvh;min-height:0}
+  .rail{height:auto;min-height:0}
+  .topbar{padding:12px 18px;gap:12px}
+  .thread{padding:26px 22px 24px;gap:24px}
+  .composer{padding:6px 18px 16px}
+  .social-inspector{position:static;left:auto;right:auto;top:auto;bottom:auto;height:auto;
+    transform:none;border-left:1px solid var(--line);border-top:0;border-radius:0;
+    box-shadow:none;z-index:7}
+  .social-inspector[data-open="true"]{transform:none}
+  .sheetbar{display:none}
+  .insrow .close{display:none}
+  .inshead{padding-top:18px}
+}
+
+/* 打印：只留对话与那几条结论，帖子列表太长，不打印 */
+@media print{
+  .topbar,.composer,.social-filters,.social-srcbar,.social-feedback,.social-scrim,
+  .social-inspector,.skip,.social-noscript{display:none!important}
+  body{overflow:visible;background:#fff}
+}
+
+/* 空态里的「更多问法」：默认收起，按主题分组；手机端也只是一列按钮。 */
+.moreq{margin-top:16px;padding-top:10px;border-top:1px solid var(--hair);max-width:62ch}
+.moreq summary{cursor:pointer;font-size:12.5px;color:var(--ink-2);list-style:none;padding:4px 0}
+.moreq summary::-webkit-details-marker{display:none}
+.moreq summary::before{content:"+";display:inline-block;width:16px;font-family:var(--mono);color:var(--ink-3)}
+.moreq[open] summary::before{content:"−"}
+.moreq-group{margin:10px 0 2px}
+.moreq-topic{font-family:var(--mono);font-size:10.5px;letter-spacing:.06em;color:var(--ink-3);margin-bottom:5px}
+.moreq-items{display:flex;flex-wrap:wrap;gap:6px}
+.moreq-items button{font:inherit;font-size:12px;line-height:1.6;color:var(--ink-2);background:var(--raised);
+  border:1px solid var(--hair);border-radius:999px;padding:6px 10px;cursor:pointer;text-align:left}
+.moreq-items button:hover{color:var(--ink);border-color:var(--line)}
+.moreq-items button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+@media (max-width:840px){
+  .moreq{max-width:none}
+  .moreq-items button{min-height:40px}
+}

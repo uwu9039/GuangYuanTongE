@@ -1,0 +1,266 @@
+/* ============================================================
+   广院通 · 匿名赞踩组件（feedback.css）
+   ------------------------------------------------------------
+   只给 web-next/feedback.js 用。前缀一律 .gyt-feedback，不继承
+   任何页面的独有类（.cardfoot / .cf / .opt …），四个页面都能直接挂。
+
+   颜色全部从宿主页面的既有变量派生，没有就回落到 /desk 的暖纸色：
+     --ink / --ink-2 / --ink-3 / --line / --hair / --raised / --surface
+     --accent（只用于焦点环）/ --warn 或 --warn-ink（错误行）
+   /desk 的暖纸色与 /field 的钴蓝（含暗色）因此都不用改这里。
+   想整体换色只覆盖 .gyt-feedback 上的 --gyt-fb-* 即可。
+   ============================================================ */
+
+.gyt-feedback {
+  /* 宿主变量缺失时的兜底（= /desk 的取值） */
+  --gyt-fb-font: var(--sans, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans SC", system-ui, sans-serif);
+  --gyt-fb-mono: var(--mono, "Cascadia Mono", "SFMono-Regular", Consolas, monospace);
+  --gyt-fb-ink: var(--ink, #1e1f1c);
+  --gyt-fb-ink-2: var(--ink-2, var(--muted, #4c4b44));
+  --gyt-fb-ink-3: var(--ink-3, var(--muted, #7d7b71));
+  --gyt-fb-line: var(--line, rgba(30, 31, 28, 0.14));
+  --gyt-fb-raised: var(--raised, var(--surface, #fffefb));
+  --gyt-fb-focus: var(--accent, #9c2f27);
+  --gyt-fb-warn: var(--warn, var(--warn-ink, #8a5a12));
+  --gyt-fb-wash: rgba(30, 31, 28, 0.07);
+  --gyt-fb-radius: 6px;
+  --gyt-fb-ease: cubic-bezier(0.23, 1, 0.32, 1);
+
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  min-width: 0;
+  max-width: 100%;
+  padding: 0 2px;
+  font-family: var(--gyt-fb-font);
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 1.4;
+  color: var(--gyt-fb-ink-2);
+  text-align: left;
+  flex: 0 0 auto;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* 宿主可能没有全局 border-box 重置（例如 /social 是独立页） */
+.gyt-feedback,
+.gyt-feedback *,
+.gyt-feedback *::before,
+.gyt-feedback *::after {
+  box-sizing: border-box;
+}
+
+.gyt-feedback__actions {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  min-width: 0;
+}
+
+/* ---------------- 两个投票按钮 ---------------- */
+
+.gyt-feedback__btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  min-width: 44px; /* 文字再短也留出触控宽度 */
+  min-height: 32px;
+  margin: 0;
+  padding: 0 12px;
+  border: 0;
+  border-radius: var(--gyt-fb-radius);
+  background: var(--gyt-fb-raised);
+  color: var(--gyt-fb-ink-2);
+  font: inherit;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: 0.01em;
+  white-space: nowrap;
+  cursor: pointer;
+  touch-action: manipulation;
+  -webkit-user-select: none;
+  user-select: none;
+  /* 1px 内描边而不是真 border：不会因为选中时加粗而挤动文字 */
+  box-shadow: inset 0 0 0 1px var(--gyt-fb-line);
+  transition:
+    background-color 160ms var(--gyt-fb-ease),
+    box-shadow 160ms var(--gyt-fb-ease),
+    color 160ms var(--gyt-fb-ease),
+    transform 120ms var(--gyt-fb-ease);
+}
+
+.gyt-feedback__btn:hover {
+  color: var(--gyt-fb-ink);
+  box-shadow: inset 0 0 0 1px var(--gyt-fb-ink-3);
+}
+
+.gyt-feedback__btn:active {
+  transform: scale(0.98);
+}
+
+.gyt-feedback__btn:focus-visible {
+  outline: 2px solid var(--gyt-fb-focus);
+  outline-offset: 2px;
+}
+
+/* 选中态：描边加粗 + 底色变化 + 字重 + aria-pressed，四重线索，不靠颜色单独表达 */
+.gyt-feedback__btn[aria-pressed="true"] {
+  color: var(--gyt-fb-ink);
+  font-weight: 600;
+  background: var(--gyt-fb-wash);
+  /* 支持 color-mix 的浏览器跟随文字色，暗色主题下自动变成提亮的一层 */
+  background: color-mix(in srgb, currentColor 8%, transparent);
+  box-shadow: inset 0 0 0 1.5px var(--gyt-fb-ink);
+}
+
+.gyt-feedback__btn[aria-pressed="true"]:hover {
+  box-shadow: inset 0 0 0 1.5px var(--gyt-fb-ink);
+}
+
+.gyt-feedback__btn[aria-pressed="true"]:active {
+  transform: scale(0.98);
+}
+
+/* ---------------- 计数（有才显示，不替代文字） ---------------- */
+
+.gyt-feedback__count {
+  font-family: var(--gyt-fb-mono);
+  font-size: 11px;
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: 0;
+  color: var(--gyt-fb-ink-2);
+  font-variant-numeric: tabular-nums;
+}
+
+.gyt-feedback__count[hidden] {
+  display: none;
+}
+
+.gyt-feedback__btn[aria-pressed="true"] .gyt-feedback__count {
+  color: var(--gyt-fb-ink);
+}
+
+/* ---------------- 失败提示（role=status，可点重试） ---------------- */
+
+.gyt-feedback__error {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px 8px;
+  max-width: 100%;
+  margin: 0;
+  padding: 0 1px;
+  font-size: 12px;
+  line-height: 1.5;
+  color: var(--gyt-fb-warn);
+}
+
+.gyt-feedback__error-text {
+  min-width: 0;
+}
+
+.gyt-feedback__retry {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border-radius: 2px;
+  background: none;
+  color: inherit;
+  font: inherit;
+  font-weight: 600;
+  line-height: inherit;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+  cursor: pointer;
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.gyt-feedback__retry:hover {
+  color: var(--gyt-fb-ink);
+}
+
+.gyt-feedback__retry:focus-visible {
+  outline: 2px solid var(--gyt-fb-focus);
+  outline-offset: 2px;
+}
+
+/* ---------------- 390px / 触屏：44×44 起步 ---------------- */
+
+@media (max-width: 480px), (pointer: coarse) {
+  .gyt-feedback__btn {
+    min-height: 44px;
+    min-width: 44px;
+    padding: 0 12px;
+    font-size: 13px;
+  }
+
+  .gyt-feedback__actions {
+    gap: 8px;
+  }
+
+  /* 出错时“重试”也是触控目标，别做成 11px 的一小撮字 */
+  .gyt-feedback__retry {
+    min-height: 44px;
+    padding: 0 8px;
+    margin-left: -8px;
+  }
+
+  .gyt-feedback__error {
+    min-height: 44px;
+    font-size: 12px;
+  }
+}
+
+/* ---------------- 动效偏好与高对比 ---------------- */
+
+@media (prefers-reduced-motion: reduce) {
+  .gyt-feedback__btn {
+    transition: none;
+  }
+
+  .gyt-feedback__btn:active,
+  .gyt-feedback__btn[aria-pressed="true"]:active {
+    transform: none;
+  }
+}
+
+/* 官方问答的挂载点直接追加在答案槽里，给一点与卡片的间距。 */
+.answer-feedback {
+  margin-top: 10px;
+}
+
+.answer-feedback-off {
+  margin: 10px 0 0;
+  font-size: 12px;
+  line-height: 1.6;
+  color: var(--ink-3, #6f6d63);
+}
+
+@media (forced-colors: active) {
+  .gyt-feedback__btn {
+    border: 1px solid ButtonText;
+    box-shadow: none;
+  }
+
+  .gyt-feedback__btn[aria-pressed="true"] {
+    border-width: 2px;
+    background: Highlight;
+    color: HighlightText;
+  }
+
+  .gyt-feedback__btn[aria-pressed="true"] .gyt-feedback__count {
+    color: inherit;
+  }
+
+  .gyt-feedback__btn:focus-visible,
+  .gyt-feedback__retry:focus-visible {
+    outline: 2px solid Highlight;
+  }
+}

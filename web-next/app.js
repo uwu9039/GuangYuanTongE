@@ -375,6 +375,7 @@
       state.lastQuery = text;
       ex.__data = d;
       ans.innerHTML = renderAnswer(d, ex);
+      mountFeedback(ans, d);
       afterAnswer(d);
       const assistantText = extractAnswerText(d);
       state.history.push({ role: "user", content: text });
@@ -389,9 +390,31 @@
     }
   }
 
+  // 每条最终答复底部挂同一套匿名赞踩；answer_id 由服务端登记，没有就不渲染。
+  function mountFeedback(host, data) {
+    if (!host || !data) return;
+    host.querySelectorAll(".answer-feedback").forEach((node) => node.remove());
+    if (!data.answer_id) {
+      if (data.feedback_unavailable) {
+        const off = document.createElement("p");
+        off.className = "answer-feedback-off";
+        off.textContent = "反馈暂不可用";
+        host.appendChild(off);
+      }
+      return;
+    }
+    if (!window.GYTFeedback) return;
+    const box = document.createElement("div");
+    box.className = "answer-feedback";
+    host.appendChild(box);
+    window.GYTFeedback.mount(box, data.answer_id, { channel: "official" });
+  }
+
   function afterAnswer(d) {
     if (d.matched && d.item && !(d.disambiguate && d.disambiguate.length)) {
-      setItem(d.item);
+      // 续问时后端会带 context_item（=上一轮锚点）：这时别把锚点换成答案条目。
+      const keep = d.context_item && state.item && d.context_item === state.item.id;
+      if (!keep) setItem(d.item);
       loadDeliver();
     }
     if (d.map) showMap(d.map); else hideMap();

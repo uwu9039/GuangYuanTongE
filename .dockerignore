@@ -34,3 +34,12 @@ _eval
 web-next/_preview
 web-next/_probe_tmp.html
 *.md
+
+# 反馈运行库与 WAL/SHM（挂载持久卷时由容器运行时创建）
+runtime
+*.sqlite3-wal
+*.sqlite3-shm
+
+# Deployment secrets are passed by the runtime.
+.env
+.env.*

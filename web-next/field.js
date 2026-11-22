@@ -940,12 +940,13 @@
         // 点选项时必须带上条目 id：只按标题重新问，同一句词会再摊出同一份菜单
         pick_item: pick || null,
       }, (evt) => flow.step(evt))).json;
-      if (el.synth.checked && !response.synth) {
-        toast("语言组织没跑起来，已按普通方式回答");
-      }
+      // 这里原来有一条「开关开着但没 synth 就弹提示」的逻辑，已删掉：
+      // 它把「按设计跳过综合层」（_synth_skip 判 simple/preset/plan，直答本来就更准）说成了失败，
+      // 而真的失败会走 err 帧 → 下面的 catch → 红色「这次没答上来」卡片，不需要这条提示。
       state.last = response;
       state.count += 1;
       slot.innerHTML = flow.collapsed() + renderResult(response);
+      mountFeedback(slot, response);
       afterResult(response);
       // 落位要排在 afterResult 之后：这一问定位到条目时它会 setMode("work")，
       // .hero 整块 display:none，文档当场矮掉一大截。在那之前量到的位置不作数。
@@ -963,11 +964,33 @@
     }
   }
 
+  // 每条最终答复底部挂同一套匿名赞踩；answer_id 由服务端登记，没有就不渲染。
+  function mountFeedback(host, data) {
+    if (!host || !data) return;
+    host.querySelectorAll(".answer-feedback").forEach((node) => node.remove());
+    if (!data.answer_id) {
+      if (data.feedback_unavailable) {
+        const off = document.createElement("p");
+        off.className = "answer-feedback-off";
+        off.textContent = "反馈暂不可用";
+        host.appendChild(off);
+      }
+      return;
+    }
+    if (!window.GYTFeedback) return;
+    const box = document.createElement("div");
+    box.className = "answer-feedback";
+    host.appendChild(box);
+    window.GYTFeedback.mount(box, data.answer_id, { channel: "official" });
+  }
+
   function afterResult(response) {
     const matched = response.matched && response.item
       && !(response.disambiguate && response.disambiguate.length);
     if (matched) {
-      state.item = response.item;
+      // 续问时后端会带 context_item（=上一轮锚点）：这时别把锚点换成答案条目。
+      const keep = response.context_item && state.item && response.context_item === state.item.id;
+      if (!keep) state.item = response.item;
       loadDeliver();
     }
     // 这一问没答上、或正在反问，不等于用户换了话题：上一件事留着，

@@ -20,3 +20,16 @@ __pycache__/
 .env
 .env.*
 !.env.example
+
+# 运行期生成（反馈库及其 WAL/SHM 不进 Git、不进镜像）
+runtime/
+kb.sqlite
+*.sqlite3-wal
+*.sqlite3-shm
+
+# 本地打包/备份/开发产物
+_dist/
+ui修改/*.zip
+_backup/
+work/
+.venv/
