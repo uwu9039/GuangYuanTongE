@@ -584,6 +584,29 @@ function extractAnswerText(d) {
 }
 
 /* ---------------- 1. 识别 ---------------- */
+// 体测/评奖类问题：答案下方给体测计算器入口。
+function bindToolLinks(d) {
+  const out = $("#out");
+  out.querySelectorAll(".answer-tool-link").forEach((node) => node.remove());
+  if (!d) return;
+  const links = Array.isArray(d.tool_links) ? d.tool_links : [];
+  links.forEach((link) => {
+    if (!link || typeof link.url !== "string") return;
+    if (!/^(\/|https?:\/\/)/i.test(link.url)) return;
+    const a = document.createElement("a");
+    a.className = "answer-tool-link";
+    a.href = link.url;
+    a.textContent = link.label || "打开工具";
+    if (link.note) {
+      const note = document.createElement("span");
+      note.className = "note";
+      note.textContent = link.note;
+      a.appendChild(note);
+    }
+    out.appendChild(a);
+  });
+}
+
 // 每条最终答复底部挂同一套匿名赞踩；answer_id 由服务端登记，没有就不渲染。
 function bindFeedback(d) {
   const out = $("#out");
@@ -625,6 +648,7 @@ async function run(keepSlots) {
     if (!d.matched) {
       $("#out").innerHTML = notFound(d);
       bindChoices();
+      bindToolLinks(d);
       bindFeedback(d);
       return;
     }
@@ -644,6 +668,7 @@ async function run(keepSlots) {
     }
     if (d.plan) {
       $("#out").innerHTML = planBlock(d);
+      bindToolLinks(d);
       bindFeedback(d);
       const ex = $("#pexpand");
       if (ex) ex.onclick = () => document.querySelectorAll("details.pmajor").forEach((x) => x.open = true);
@@ -654,6 +679,7 @@ async function run(keepSlots) {
       + buildSheet(d.item, d) + `</details>`;
     bindChoices();
     bindSheet();
+    bindToolLinks(d);
     bindFeedback(d);
     refreshDeliver();
   } catch (e) {

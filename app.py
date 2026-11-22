@@ -1886,7 +1886,7 @@ def _ask_stream(**kw) -> Iterator[str]:
     def work() -> None:
         token = _STEP_SINK.set(_StepSink(q))
         try:
-            q.put(("done", _finalize_answer(answer_question(**kw))))
+            q.put(("done", _finalize_answer(answer_question(**kw), question=kw.get("text") or "")))
         except Exception as e:  # noqa: BLE001
             q.put(("err", {"error": _short_err(e)}))
         finally:
@@ -9254,8 +9254,42 @@ def clean_response(resp: dict[str, Any]) -> dict[str, Any]:
     return resp
 
 
-def _finalize_answer(resp: dict[str, Any], kind: str | None = None) -> dict[str, Any]:
-    """普通问答的最终答复统一出口：清洗 + 登记回答 ID（赞踩用）。
+_TICE_QUERY_RE = re.compile(r"体测|体质健康测试|体质测试|体育测试|体能测试")
+_TICE_EXEMPT_RE = re.compile(r"免测|免修|免予|免考|不参加体测")
+_SCHOLARSHIP_RE = re.compile(r"奖学金")
+_SCHOLARSHIP_STD_RE = re.compile(r"评选|评定|评审|条件|标准|资格|要求|办法|细则|规定|门槛|加分")
+
+
+def _tool_links_for(question: str) -> list[dict[str, str]]:
+    """体测/评奖问题在答案下方给体测计算器入口。
+
+    - 提到体测、且没有问免测/免修：给计算器（估分）；
+    - 提到奖学金评选标准：也给（体测是评奖条件之一）；
+    - 只问“奖学金多少钱/什么时候发”不硬塞工具。
+    """
+    q = str(question or "")
+    has_tice = bool(_TICE_QUERY_RE.search(q))
+    exempt = bool(_TICE_EXEMPT_RE.search(q))
+    scholarship_std = bool(_SCHOLARSHIP_RE.search(q)) and bool(_SCHOLARSHIP_STD_RE.search(q))
+    if not ((has_tice and not exempt) or scholarship_std):
+        return []
+    if has_tice and not exempt and scholarship_std:
+        note = "体测成绩与评奖条件相关；可先用计算器估算，实际以学校体测系统和评奖文件为准。"
+    elif scholarship_std:
+        note = "体测成绩是评奖条件之一；可先用计算器估算，实际评奖以学校最新文件为准。"
+    else:
+        note = "回答的是办理规则；具体分数可先用计算器估算，实际以学校体测系统记录为准。"
+    return [{
+        "kind": "tice",
+        "label": "用体测计算器估算成绩",
+        "url": "/tice.html",
+        "note": note,
+    }]
+
+
+def _finalize_answer(resp: dict[str, Any], kind: str | None = None,
+                     question: str = "") -> dict[str, Any]:
+    """普通问答的最终答复统一出口：清洗 + 工具链接 + 登记回答 ID（赞踩用）。
 
     中间澄清菜单（disambiguate / hold）不挂反馈；未命中的最终答复仍可评价。
     反馈库不可写时 attach 内部吞掉异常，问答照常返回，前端只是没有按钮。
@@ -9263,6 +9297,9 @@ def _finalize_answer(resp: dict[str, Any], kind: str | None = None) -> dict[str,
     resp = clean_response(resp)
     if resp.get("disambiguate") or resp.get("hold"):
         return resp
+    links = _tool_links_for(question)
+    if links:
+        resp["tool_links"] = links
     if kind is None:
         kind = "synth" if resp.get("synth") else ("not_found" if not resp.get("matched") else "normal")
     return feedback_store.attach(resp, "official", kind=kind)
@@ -9309,7 +9346,7 @@ def _synth_stream(text: str, item_id: str | None = None,
                 print(f"[综合层] 流式回退：{_short_err(e)}", flush=True)
                 out = None
             if out:
-                q.put(("done", _finalize_answer(_synth_payload(text, out, item_id), "synth")))
+                q.put(("done", _finalize_answer(_synth_payload(text, out, item_id), "synth", question=text)))
             elif fallback is not None:
                 # 回退：普通链路的 SSE 帧（含它自己的 step / done / err）已经是成品字符串，直接透传
                 for chunk in _ask_stream(**fallback):
@@ -9375,13 +9412,13 @@ def ask(req: AskReq, request: Request) -> Any:
                                      headers={"Cache-Control": "no-cache", "X-Accel-Buffering": "no"})
         synth = synthesize_answer(text)
         if synth:
-            return _finalize_answer(_synth_payload(text, synth, synth_item), "synth")
+            return _finalize_answer(_synth_payload(text, synth, synth_item), "synth", question=text)
     # /field 带这个头来看流：每一步模型调用跑完就发一帧，最后 done 就是下面那个 dict。
     # 经典版 app.js 不带这个头，走的还是原来那一条，一个字节都不变。
     if "text/event-stream" in (request.headers.get("accept") or ""):
         return StreamingResponse(_ask_stream(**kw), media_type="text/event-stream",
                                  headers={"Cache-Control": "no-cache", "X-Accel-Buffering": "no"})
-    return _finalize_answer(answer_question(**kw))
+    return _finalize_answer(answer_question(**kw), question=text)
 
 
 @app.post("/api/intake")

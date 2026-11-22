@@ -375,6 +375,7 @@
       state.lastQuery = text;
       ex.__data = d;
       ans.innerHTML = renderAnswer(d, ex);
+      mountToolLinks(ans, d);
       mountFeedback(ans, d);
       afterAnswer(d);
       const assistantText = extractAnswerText(d);
@@ -388,6 +389,28 @@
       el.send.disabled = false;
       if (!isMobile()) el.q.focus({ preventScroll: true });
     }
+  }
+
+  // 体测/评奖类问题：答案下方给体测计算器入口。
+  function mountToolLinks(host, data) {
+    if (!host || !data) return;
+    host.querySelectorAll(".answer-tool-link").forEach((node) => node.remove());
+    const links = Array.isArray(data.tool_links) ? data.tool_links : [];
+    links.forEach((link) => {
+      if (!link || typeof link.url !== "string") return;
+      if (!/^(\/|https?:\/\/)/i.test(link.url)) return;
+      const a = document.createElement("a");
+      a.className = "answer-tool-link";
+      a.href = link.url;
+      a.textContent = link.label || "打开工具";
+      if (link.note) {
+        const note = document.createElement("span");
+        note.className = "note";
+        note.textContent = link.note;
+        a.appendChild(note);
+      }
+      host.appendChild(a);
+    });
   }
 
   // 每条最终答复底部挂同一套匿名赞踩；answer_id 由服务端登记，没有就不渲染。

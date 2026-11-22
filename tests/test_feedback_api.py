@@ -79,6 +79,21 @@ class FinalAnswerFeedbackTest(unittest.TestCase):
         self.assertGreaterEqual(stats["official"]["up"], 1)
         self.assertGreaterEqual(stats["social"]["down"], 1)
 
+    def test_tice_tool_link_only_when_relevant(self):
+        self.assertTrue(self.app._tool_links_for("体测怎么算分"))
+        self.assertTrue(self.app._tool_links_for("国家奖学金评选条件"))
+        self.assertTrue(self.app._tool_links_for("体测成绩影响奖学金评选吗"))
+        self.assertEqual(self.app._tool_links_for("体测免测怎么办"), [])
+        self.assertEqual(self.app._tool_links_for("体育课免修怎么申请"), [])
+        self.assertEqual(self.app._tool_links_for("奖学金多少钱"), [])
+        self.assertEqual(self.app._tool_links_for("校园卡怎么补办"), [])
+
+    def test_tice_tool_link_attached_to_final_answer(self):
+        out = self.app._finalize_answer({"matched": True, "answers": []}, question="体测怎么算分")
+        self.assertEqual(out["tool_links"][0]["url"], "/tice.html")
+        plain = self.app._finalize_answer({"matched": True, "answers": []}, question="体测免测怎么办")
+        self.assertNotIn("tool_links", plain)
+
     def test_unknown_answer_and_bad_vote(self):
         with self.assertRaises(KeyError):
             self.fb.set_vote("ans_nope", self.voter, "up")
