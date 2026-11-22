@@ -904,11 +904,6 @@
     }
 
     box.appendChild(el('p', null, '评分表来自公开资料，结果仅供参考；实际成绩以学校体测系统的记录为准。'));
-
-    if (meta.sourceSha256) {
-      box.appendChild(el('p', null,
-        '数据快照：' + (meta.derivedAt || '') + ' 由解包产物派生，源包摘要 ' + meta.sourceSha256 + '…（只取数据，不搬代码）。'));
-    }
   }
 
   function saveDraftSoon() {
